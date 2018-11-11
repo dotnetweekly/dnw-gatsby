@@ -44,3 +44,13 @@ exports.sourceNodes = async ({ actions }) => {
 
   return
 }
+
+exports.createPages = ({ graphql, actions }) => {
+  const fetchNewsletters = () =>
+    axios.get(`https://dnw-newsletter.azurewebsites.net/api/v1/newsletters`);
+  const res = await fetchNewsletters();
+
+  res.data.data.map((newsletter, i) => {
+    console.log(newsletter);
+  });
+}

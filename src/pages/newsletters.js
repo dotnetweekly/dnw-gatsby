@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link } from 'gatsby'
 
 import Layout from '../components/layout'
 
@@ -16,6 +15,7 @@ const Newsletters = props => {
             href={`https://dnw-newsletter.azurewebsites.net/issues/${
               newsletter.node.year
             }/${newsletter.node.week}/`}
+            rel="noopener noreferrer"
           >
             <span>
               Week: {newsletter.node.week} Year: {newsletter.node.year}
