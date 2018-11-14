@@ -7,6 +7,8 @@
 // You can delete this file if you're not using it
 const axios = require('axios')
 const crypto = require('crypto')
+const path = require('path')
+const { createFilePath, createFileNode } = require(`gatsby-source-filesystem`)
 
 exports.sourceNodes = async ({ actions }) => {
   const { createNode } = actions
@@ -45,12 +47,63 @@ exports.sourceNodes = async ({ actions }) => {
   return
 }
 
-exports.createPages = ({ graphql, actions }) => {
-  const fetchNewsletters = () =>
-    axios.get(`https://dnw-newsletter.azurewebsites.net/api/v1/newsletters`);
-  const res = await fetchNewsletters();
+exports.createPages = ({ actions, graphql }) => {
+  const { createPage } = actions
+  const blogPostTemplate = path.resolve(`src/templates/blog-post.js`)
+  return new Promise((resolve, reject) => {
+    const blogPostTemplate = path.resolve(`src/templates/blog-post.js`)
+    resolve(
+      graphql(`
+        {
+          allMarkdownRemark(
+            sort: { order: DESC, fields: [frontmatter___createdOn] }
+            limit: 50
+          ) {
+            edges {
+              node {
+                internal {
+                  content
+                }
+                frontmatter {
+                  title
+                  _id
+                  url
+                  category
+                  user_id
+                  createdOn
+                  slug
+                }
+              }
+            }
+          }
+        }
+      `).then(result => {
+        if (result.errors) {
+          console.log(result.errors)
+        }
+        result.data.allMarkdownRemark.edges.forEach(({ node }) => {
+          createPage({
+            path: node.frontmatter.slug,
+            component: blogPostTemplate,
+            context: {
+              slug: node.frontmatter.slug,
+            }, // additional data can be passed via context
+          })
+        })
+        return
+      })
+    )
+  })
+}
 
-  res.data.data.map((newsletter, i) => {
-    console.log(newsletter);
-  });
+exports.onCreateNode = ({ node, getNode, actions }) => {
+  const { createNodeField } = actions
+  if (node.internal.type === `MarkdownRemark`) {
+    console.log(node)
+    createNodeField({
+      node,
+      name: `slug`,
+      value: node.frontmatter.slug,
+    })
+  }
 }
