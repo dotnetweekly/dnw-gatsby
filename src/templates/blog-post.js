@@ -17,8 +17,11 @@ function BlogPost(props) {
 export default BlogPost
 
 export const query = graphql`
-  query {
-    markdownRemark {
+  query($slug: String!) {
+    markdownRemark(fields: { slug: { eq: $slug } }) {
+      fields {
+        slug
+      }
       frontmatter {
         title
       }

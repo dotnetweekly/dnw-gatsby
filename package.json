@@ -31,7 +31,8 @@
   "devDependencies": {
     "gatsby-source-filesystem": "^2.0.8",
     "gatsby-transformer-remark": "^2.1.12",
-    "prettier": "^1.14.2"
+    "prettier": "^1.14.2",
+    "react-transition-group": "^2.5.0"
   },
   "repository": {
     "type": "git",
