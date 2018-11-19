@@ -2,16 +2,14 @@ import React from 'react'
 import * as calendarHelper from '../utils/calendar'
 
 const Calendar = props => {
-  const params = /\/?week\/(\d+)\/year\/(\d+)\/?$/g.exec(
+  /*const params = /\/?week\/(\d+)\/year\/(\d+)\/?$/g.exec(
     props.location.pathname
   )
   if (params.length < 3) {
     return
-  }
-  const filterCalendar = calendarHelper.getCalendar(
-    parseInt(params[1]),
-    parseInt(params[2])
-  )
+  }*/
+  const { week, year } = props
+  const filterCalendar = calendarHelper.getCalendar(week, year)
 
   return (
     <table className="dnwCalendar">

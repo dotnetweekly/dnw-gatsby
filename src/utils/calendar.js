@@ -60,6 +60,19 @@ const getWeek = function(dateValue) {
   return 1 + Math.ceil((firstThursday - target) / 604800000)
 }
 
+const getUtcNow = function() {
+  const now = new Date(Date.now())
+  return new Date(
+    now.getUTCFullYear(),
+    now.getUTCMonth(),
+    now.getUTCDate(),
+    now.getUTCHours(),
+    now.getUTCMinutes(),
+    now.getUTCSeconds(),
+    now.getUTCMilliseconds()
+  )
+}
+
 const getFebruaryDays = function(dateValue) {
   let date = new Date(dateValue)
   date.setHours(0, 0, 0, 0)
@@ -182,11 +195,53 @@ const getCalendar = function(setWeek, setYear) {
   }
 }
 
-export {
+const getDateRangeOfWeek = function(week, year) {
+  let date = new Date(year, 0, 1)
+  date.setHours(0, 0, 0, 0)
+  date.setDate(date.getDate() + week * 7)
+
+  let fromDate = new Date(date.setDate(date.getDate() - 7))
+  fromDate.setHours(0, 0, 0, 0)
+
+  let toDate = new Date(date.setDate(date.getDate() + 6))
+  toDate.setHours(0, 0, 0, 0)
+
+  const dateRange = {
+    from: fromDate,
+    to: toDate,
+  }
+  return dateRange
+}
+
+Date.prototype.addDays = function(days) {
+  var date = new Date(this.valueOf())
+  date.setDate(date.getDate() + days)
+  return date
+}
+
+function getDates(startDate, stopDate) {
+  var dateArray = new Array()
+  var currentDate = startDate
+  let count = 0
+  while (currentDate <= stopDate) {
+    dateArray.push(new Date(currentDate))
+    currentDate = currentDate.addDays(1)
+    count++
+    if (count > 32) {
+      break
+    }
+  }
+  return dateArray
+}
+
+module.exports = {
   getWeek,
   getMonthName,
   getFebruaryDays,
   getMonthFromWeek,
   getCalendar,
   getDayName,
+  getDateRangeOfWeek,
+  getDates,
+  getUtcNow,
 }
