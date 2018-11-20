@@ -1,5 +1,6 @@
 import React from 'react'
 import * as calendarHelper from '../utils/calendar'
+import { Link } from '@reach/router'
 
 const Calendar = props => {
   /*const params = /\/?week\/(\d+)\/year\/(\d+)\/?$/g.exec(
@@ -31,7 +32,15 @@ const Calendar = props => {
               {calendarWeek.days.map((weekDay, indexDay) => {
                 return (
                   <td key={`day-${indexDay}`}>
-                    <span>{weekDay.date ? weekDay.date.getDate() : ''}</span>
+                    <span>
+                      <Link
+                        to={`/week/${
+                          calendarWeek.week
+                        }/year/${weekDay.date.getFullYear()}`}
+                      >
+                        {weekDay.date ? weekDay.date.getDate() : ''}
+                      </Link>
+                    </span>
                   </td>
                 )
               })}
