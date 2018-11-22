@@ -1,13 +1,14 @@
 {
-  "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
+  "name": "dnw-gatsby",
+  "description": "dotNET Weekly",
   "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Bill Stavroulakis <bstavroulakis@gmail.com>",
   "dependencies": {
     "axios": "^0.18.0",
     "bulma": "^0.7.2",
     "crypto": "^1.0.1",
     "gatsby": "^2.0.19",
+    "gatsby-cli": "^2.4.5",
     "gatsby-image": "^2.0.15",
     "gatsby-plugin-manifest": "^2.0.5",
     "gatsby-plugin-react-helmet": "^3.0.0",
@@ -27,7 +28,7 @@
   ],
   "license": "MIT",
   "scripts": {
-    "build": "gatsby build",
+    "build": "npm install gatsby-cli && gatsby build",
     "develop": "gatsby develop",
     "start": "npm run develop",
     "format": "prettier --write \"src/**/*.js\"",
