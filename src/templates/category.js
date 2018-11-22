@@ -12,12 +12,12 @@ class App extends React.Component {
   renderLinksList(week, year, edges) {
     return (
       <div>
-        {edges.map(edge => {
+        {edges.map((edge, i) => {
           const {
             node: { frontmatter, internal },
           } = edge
           return (
-            <div>
+            <div key={i}>
               <h1>
                 <Link to={`/${frontmatter.slug}`}>{frontmatter.title}</Link>
               </h1>

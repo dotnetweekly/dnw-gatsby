@@ -90,13 +90,14 @@ const getFebruaryDays = function(dateValue) {
 
 const getMonthFromWeek = function(week, year) {
   let date = new Date(year, 0, 1)
-  date.setHours(0, 0, 0, 0)
+  date.setHours(0, 0, 0, -1)
   date.setDate(date.getDate() + week * 7)
   return date.getMonth()
 }
 
 const getCalendar = function(setWeek, setYear) {
   let dateNow = new Date(setYear, getMonthFromWeek(setWeek, setYear), 1)
+  console.log(dateNow)
   dateNow.setHours(0, 0, 0, 0)
   const dayPerMonth = monthDays
   dayPerMonth[1] = getFebruaryDays(dateNow)
@@ -213,8 +214,8 @@ const getDateRangeOfWeek = function(week, year) {
   return dateRange
 }
 
-Date.prototype.addDays = function(days) {
-  var date = new Date(this.valueOf())
+function addDays(currDate, days) {
+  var date = new Date(currDate.valueOf())
   date.setDate(date.getDate() + days)
   return date
 }
@@ -225,7 +226,7 @@ function getDates(startDate, stopDate) {
   let count = 0
   while (currentDate <= stopDate) {
     dateArray.push(new Date(currentDate))
-    currentDate = currentDate.addDays(1)
+    currentDate = addDays(currentDate, 1)
     count++
     if (count > 32) {
       break

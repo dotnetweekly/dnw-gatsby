@@ -1,0 +1,38 @@
+$primary: #5c2d91;
+$secondary: rgb(50, 115, 220);
+$info: rgb(50, 115, 220);
+$white: #ffffff;
+$black: #000000;
+$background: #fafafa;
+$body-border: 0 2px 3px rgba(10, 10, 10, 0.1), 0 0 0 1px rgba(10, 10, 10, 0.1);
+$body-border-active: 0 2px 3px rgba(10, 10, 10, 0.2),
+  0 0 0 1px rgba(10, 10, 10, 0.2);
+$body-border-focus: 0 2px 3px rgba(50, 115, 220, 0.5),
+  0 0 0 1px rgba(50, 115, 220, 0.5);
+$border-bottom: 0 2px 3px rgba(0, 0, 0, 0.1);
+$line: 1px solid rgba(219, 219, 219, 0.5);
+$line2: 1px solid #bfbfbf;
+
+$gap: 32px;
+$mobile: 420px;
+$tablet: 900px;
+$tablet-large: 900px;
+$desktop: 1170px;
+$fullhd: 1170px;
+
+$font-size: 18px;
+
+$weight-light: 300;
+$weight-bold: 700;
+
+$is-size-1: 3rem;
+$is-size-2: 2.5rem;
+$is-size-3: 2rem;
+$is-size-4: 1.5rem;
+$is-size-5: 1.25rem;
+$is-size-6: 1rem;
+$is-size-7: 0.75rem;
+$is-size-8: 0.5rem;
+
+$text-invert: $white;
+$navbar-height: 6;

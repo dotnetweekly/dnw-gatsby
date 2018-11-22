@@ -3,24 +3,17 @@ import { Link } from 'gatsby'
 
 const Footer = () => (
   <div
-  style={{
-    background: 'white',
-    marginBottom: '1.45rem',
-    borderTop: '1px solid #cfcfcf'
-  }}>
-    <div
-      style={{
-        margin: '0 auto',
-        maxWidth: 960,
-        padding: '1.45rem 1.0875rem',
-      }}
-    >
-
+    style={{
+      marginBottom: '1.45rem',
+      borderTop: '1px solid #cfcfcf',
+    }}
+  >
+    <div className="container content">
       <Link
         to="/newsletters"
         style={{
           textDecoration: 'none',
-          paddingRight: '1.45rem'
+          paddingRight: '1.45rem',
         }}
       >
         Newsletters
@@ -29,7 +22,7 @@ const Footer = () => (
         to="/about"
         style={{
           textDecoration: 'none',
-          paddingRight: '1.45rem'
+          paddingRight: '1.45rem',
         }}
       >
         About
@@ -38,7 +31,7 @@ const Footer = () => (
         to="/privacy-policy"
         style={{
           textDecoration: 'none',
-          paddingRight: '1.45rem'
+          paddingRight: '1.45rem',
         }}
       >
         Privacy Policy
