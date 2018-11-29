@@ -1,5 +1,6 @@
 import React from 'react'
 import Calendar from './calendar'
+import Subscribe from './subscribe'
 
 import Layout from '../components/layout'
 import { Link } from '@reach/router'
@@ -11,16 +12,16 @@ class App extends React.Component {
 
   renderLinksList(week, year, edges) {
     return (
-      <div>
+      <div className="links">
         {edges.map((edge, i) => {
           const {
             node: { frontmatter, internal },
           } = edge
           return (
-            <div key={i}>
-              <h1>
+            <div className="link" key={i}>
+              <h2 className="title is-3">
                 <Link to={`/${frontmatter.slug}`}>{frontmatter.title}</Link>
-              </h1>
+              </h2>
               <span>{internal.content}</span>
             </div>
           )
@@ -40,19 +41,8 @@ class App extends React.Component {
     return (
       <div>
         <Calendar week={week} year={year} />
-        <h1>Category</h1>
-        <span>
-          Want to receive every Tuesday the best links of the .NET realm? Once
-          subscribed you can login, submit a link, upvote and receive the weekly
-          newsletter.{' '}
-        </span>
-        <input type="text" />
-        <input
-          type="submit"
-          value="Subscribe"
-          name="submit"
-          className="button is-white is-outlined"
-        />
+        <Subscribe />
+        <div className="is-clearfix" />
         {links}
       </div>
     )

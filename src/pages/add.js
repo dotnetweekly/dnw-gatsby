@@ -6,7 +6,7 @@ import Layout from '../components/layout'
 const AddPage = () => (
   <Layout>
     <div className="content">
-      <h1>Add</h1>
+      <h1>Add a Link</h1>
       <div class="field is-horizontal">
         <div class="field-label is-normal">
           <label class="label">Title</label>
@@ -100,7 +100,9 @@ const AddPage = () => (
         <div class="field-body">
           <div class="field">
             <div class="control">
-              <button class="button is-primary">Send message</button>
+              <button class="button is-medium is-link">
+                <strong>Add</strong>
+              </button>
             </div>
           </div>
         </div>

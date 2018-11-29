@@ -2,12 +2,7 @@ import React from 'react'
 import { Link } from 'gatsby'
 
 const Footer = () => (
-  <div
-    style={{
-      marginBottom: '1.45rem',
-      borderTop: '1px solid #cfcfcf',
-    }}
-  >
+  <footer>
     <div className="container content">
       <Link
         to="/newsletters"
@@ -37,7 +32,7 @@ const Footer = () => (
         Privacy Policy
       </Link>
     </div>
-  </div>
+  </footer>
 )
 
 export default Footer

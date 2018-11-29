@@ -50,7 +50,9 @@ class LoginPage extends React.Component {
             <div class="field-body">
               <div class="field">
                 <div class="control">
-                  <button class="button is-primary">Login</button>
+                  <button class="button is-medium is-link">
+                    <strong>Login</strong>
+                  </button>
                 </div>
               </div>
             </div>

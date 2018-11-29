@@ -7,7 +7,7 @@ class Calendar extends React.Component {
   getCalendarHeader() {
     return (
       <tr>
-        <td>Week</td>
+        <td>W</td>
         <td>M</td>
         <td>T</td>
         <td>W</td>
@@ -45,34 +45,38 @@ class Calendar extends React.Component {
     const filterCalendar = calendarHelper.getCalendar(week, year)
 
     return (
-      <table className="dnwCalendar">
-        <tbody>
-          {this.getPrevNext(week, year, filterCalendar)}
-          {this.getCalendarHeader()}
-          {filterCalendar.weeks.map((calendarWeek, indexWeek) => {
-            return (
-              <tr key={`week-${indexWeek}`}>
-                <td>{calendarWeek.week}</td>
-                {calendarWeek.days.map((weekDay, indexDay) => {
-                  return (
-                    <td key={`day-${indexDay}`}>
-                      <span>
-                        <Link
-                          to={`/week/${
-                            calendarWeek.week
-                          }/year/${weekDay.date.getFullYear()}`}
-                        >
-                          {weekDay.date ? weekDay.date.getDate() : ''}
-                        </Link>
-                      </span>
-                    </td>
-                  )
-                })}
-              </tr>
-            )
-          })}
-        </tbody>
-      </table>
+      <div>
+        <div className="is-clearfix" />
+        <table className="dnwCalendar">
+          <tbody>
+            {this.getPrevNext(week, year, filterCalendar)}
+            {this.getCalendarHeader()}
+            {filterCalendar.weeks.map((calendarWeek, indexWeek) => {
+              const isCurrent = calendarWeek.week === week ? 'is-current' : ''
+              return (
+                <tr className={`${isCurrent}`} key={`week-${indexWeek}`}>
+                  <td>{calendarWeek.week}</td>
+                  {calendarWeek.days.map((weekDay, indexDay) => {
+                    return (
+                      <td key={`day-${indexDay}`}>
+                        <span>
+                          <Link
+                            to={`/week/${
+                              calendarWeek.week
+                            }/year/${weekDay.date.getFullYear()}`}
+                          >
+                            {weekDay.date ? weekDay.date.getDate() : ''}
+                          </Link>
+                        </span>
+                      </td>
+                    )
+                  })}
+                </tr>
+              )
+            })}
+          </tbody>
+        </table>
+      </div>
     )
   }
 }

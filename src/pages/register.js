@@ -93,7 +93,9 @@ const RegisterPage = () => (
         <div class="field-body">
           <div class="field">
             <div class="control">
-              <button class="button is-primary">Register</button>
+              <button class="button is-medium is-link">
+                <strong>Register</strong>
+              </button>
             </div>
           </div>
         </div>

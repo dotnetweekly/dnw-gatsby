@@ -1,7 +1,7 @@
 ---
 _id: %s
 title: '%s'
-url: %s
+url: '%s'
 category: %s
 slug: '%s'
 user_id: %s
