@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link } from 'gatsby'
 
 import Layout from '../components/layout'
 
@@ -87,10 +86,11 @@ const AddPage = () => (
           <div class="field">
             <div class="control">
               <textarea
-                class="textarea"
+                class="textarea is-danger"
                 placeholder="Explain how we can help you"
               />
             </div>
+            <p class="help is-danger">This field is required</p>
           </div>
         </div>
       </div>

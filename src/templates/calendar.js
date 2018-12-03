@@ -43,6 +43,8 @@ class Calendar extends React.Component {
   render() {
     const { week, year } = this.props
     const filterCalendar = calendarHelper.getCalendar(week, year)
+    // const now = calendarHelper.getUtcNow()
+    // const currentWeek = calendarHelper.getWeek(now)
 
     return (
       <div>
@@ -51,8 +53,12 @@ class Calendar extends React.Component {
           <tbody>
             {this.getPrevNext(week, year, filterCalendar)}
             {this.getCalendarHeader()}
+
             {filterCalendar.weeks.map((calendarWeek, indexWeek) => {
-              const isCurrent = calendarWeek.week === week ? 'is-current' : ''
+              const isCurrent =
+                parseInt(calendarWeek.week) === parseInt(week)
+                  ? 'is-current'
+                  : ''
               return (
                 <tr className={`${isCurrent}`} key={`week-${indexWeek}`}>
                   <td>{calendarWeek.week}</td>

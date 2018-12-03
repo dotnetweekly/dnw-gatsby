@@ -10,9 +10,9 @@ const About = () => (
         dotNET Weekly is free weekly newsletter on .NET latest. Every Tuesday.
       </div>
     </article>
-    <a href="/register" class="button is-primary">
-      Register today!
-    </a>
+    <button class="button is-medium is-link">
+      <strong>Register today!</strong>
+    </button>
     <ul>
       <li>Add community links</li>
       <li>Receive Community Link</li>

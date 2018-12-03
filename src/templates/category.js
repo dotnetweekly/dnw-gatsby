@@ -7,7 +7,16 @@ import { Link } from '@reach/router'
 
 class App extends React.Component {
   renderNoLinks() {
-    return <div>No Links Found</div>
+    return (
+      <div className="links">
+        <div className="link">
+          <p className="title is-5">No links found this week.</p>
+          <a className="is-link">
+            <strong>Check previous newsletters</strong>
+          </a>
+        </div>
+      </div>
+    )
   }
 
   renderLinksList(week, year, edges) {

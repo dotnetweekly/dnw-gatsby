@@ -6,6 +6,26 @@ import Subscribe from '../templates/subscribe'
 const weekRegex = /\/?week\/(\d*)\/year\/(\d*)/gi
 
 class NotFoundPage extends React.Component {
+  renderNoLinks(weekYear) {
+    if (!weekYear || weekYear.length < 3) {
+      return (
+        <div>
+          <h2>Page Not Found</h2>
+        </div>
+      )
+    }
+
+    return (
+      <div className="links">
+        <div className="link">
+          <p className="title is-5">No links found this week.</p>
+          <a class="is-link" href="/newsletters">
+            <strong>Check previous newsletters</strong>
+          </a>
+        </div>
+      </div>
+    )
+  }
   renderCategory(weekYear) {
     if (!weekYear || weekYear.length < 3) {
       return
@@ -24,7 +44,7 @@ class NotFoundPage extends React.Component {
     return (
       <Layout>
         {this.renderCategory(weekYear)}
-        <h2>Page Not Found</h2>
+        {this.renderNoLinks(weekYear)}
       </Layout>
     )
   }
