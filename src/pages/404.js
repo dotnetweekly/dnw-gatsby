@@ -19,7 +19,7 @@ class NotFoundPage extends React.Component {
       <div className="links">
         <div className="link">
           <p className="title is-5">No links found this week.</p>
-          <a class="is-link" href="/newsletters">
+          <a className="is-link" href="/newsletters">
             <strong>Check previous newsletters</strong>
           </a>
         </div>

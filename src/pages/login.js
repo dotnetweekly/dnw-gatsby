@@ -8,48 +8,48 @@ class LoginPage extends React.Component {
       <Layout>
         <div className="content">
           <h1>Login</h1>
-          <div class="field is-horizontal">
-            <div class="field-label is-normal">
-              <label class="label">Email</label>
+          <div className="field is-horizontal">
+            <div className="field-label is-normal">
+              <label className="label">Email</label>
             </div>
-            <div class="field-body">
-              <div class="field">
-                <div class="control">
+            <div className="field-body">
+              <div className="field">
+                <div className="control">
                   <input
-                    class="input is-danger"
+                    className="input is-danger"
                     type="text"
-                    placeholder="e.g. Partnership opportunity"
+                    placeholder="e.g. name@email.com"
                   />
                 </div>
-                <p class="help is-danger">This field is required</p>
+                <p className="help is-danger">This field is required</p>
               </div>
             </div>
           </div>
 
-          <div class="field is-horizontal">
-            <div class="field-label is-normal">
-              <label class="label">Password</label>
+          <div className="field is-horizontal">
+            <div className="field-label is-normal">
+              <label className="label">Password</label>
             </div>
-            <div class="field-body">
-              <div class="field">
-                <div class="control">
+            <div className="field-body">
+              <div className="field">
+                <div className="control">
                   <input
-                    class="input is-danger"
+                    className="input is-danger"
                     type="text"
-                    placeholder="e.g. Partnership opportunity"
+                    placeholder="e.g. pAssw0rd (not a good password)"
                   />
                 </div>
-                <p class="help is-danger">This field is required</p>
+                <p className="help is-danger">This field is required</p>
               </div>
             </div>
           </div>
 
-          <div class="field is-horizontal">
-            <div class="field-label" />
-            <div class="field-body">
-              <div class="field">
-                <div class="control">
-                  <button class="button is-medium is-link">
+          <div className="field is-horizontal">
+            <div className="field-label" />
+            <div className="field-body">
+              <div className="field">
+                <div className="control">
+                  <button className="button is-medium is-link">
                     <strong>Login</strong>
                   </button>
                 </div>

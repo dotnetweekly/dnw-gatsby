@@ -5,12 +5,12 @@ import Layout from '../components/layout'
 const About = () => (
   <Layout>
     <h1>About</h1>
-    <article class="message is-info">
-      <div class="message-body">
+    <article className="message is-info">
+      <div className="message-body">
         dotNET Weekly is free weekly newsletter on .NET latest. Every Tuesday.
       </div>
     </article>
-    <button class="button is-medium is-link">
+    <button className="button is-medium is-link">
       <strong>Register today!</strong>
     </button>
     <ul>

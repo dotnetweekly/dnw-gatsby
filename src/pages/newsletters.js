@@ -24,7 +24,7 @@ const Newsletters = props => {
       <h2>Previous Newsletters</h2>
       {rows.map((row, i) => {
         return (
-          <div class="columns">
+          <div className="columns">
             {row.map(item => {
               return (
                 <a

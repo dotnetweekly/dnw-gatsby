@@ -6,103 +6,103 @@ const RegisterPage = () => (
   <Layout>
     <div className="content">
       <h1>Register</h1>
-      <div class="field is-horizontal">
-        <div class="field-label is-normal">
-          <label class="label">Name</label>
+      <div className="field is-horizontal">
+        <div className="field-label is-normal">
+          <label className="label">Name</label>
         </div>
-        <div class="field-body">
-          <div class="field">
-            <div class="control is-expanded has-icons-left">
+        <div className="field-body">
+          <div className="field">
+            <div className="control is-expanded has-icons-left">
               <input
-                class="input is-danger"
+                className="input is-danger"
                 type="text"
                 placeholder="First Name"
               />
-              <span class="icon is-small is-left">
-                <i class="fas fa-user" />
+              <span className="icon is-small is-left">
+                <i className="fas fa-user" />
               </span>
             </div>
-            <p class="help is-danger">This field is required</p>
+            <p className="help is-danger">This field is required</p>
           </div>
-          <div class="field">
-            <div class="control is-expanded has-icons-left has-icons-right">
+          <div className="field">
+            <div className="control is-expanded has-icons-left has-icons-right">
               <input
-                class="input is-danger"
+                className="input is-danger"
                 type="text"
                 placeholder="Last Name"
               />
-              <span class="icon is-small is-left">
-                <i class="fas fa-envelope" />
+              <span className="icon is-small is-left">
+                <i className="fas fa-envelope" />
               </span>
-              <span class="icon is-small is-right">
-                <i class="fas fa-check" />
+              <span className="icon is-small is-right">
+                <i className="fas fa-check" />
               </span>
             </div>
-            <p class="help is-danger">This field is required</p>
+            <p className="help is-danger">This field is required</p>
           </div>
         </div>
       </div>
 
-      <div class="field is-horizontal">
-        <div class="field-label is-normal">
-          <label class="label">Username</label>
+      <div className="field is-horizontal">
+        <div className="field-label is-normal">
+          <label className="label">Username</label>
         </div>
-        <div class="field-body">
-          <div class="field">
-            <div class="control">
+        <div className="field-body">
+          <div className="field">
+            <div className="control">
               <input
-                class="input is-danger"
+                className="input is-danger"
                 type="text"
                 placeholder="e.g. Partnership opportunity"
               />
             </div>
-            <p class="help is-danger">This field is required</p>
+            <p className="help is-danger">This field is required</p>
           </div>
         </div>
       </div>
 
-      <div class="field is-horizontal">
-        <div class="field-label is-normal">
-          <label class="label">Email</label>
+      <div className="field is-horizontal">
+        <div className="field-label is-normal">
+          <label className="label">Email</label>
         </div>
-        <div class="field-body">
-          <div class="field">
-            <div class="control">
+        <div className="field-body">
+          <div className="field">
+            <div className="control">
               <input
-                class="input is-danger"
+                className="input is-danger"
                 type="text"
                 placeholder="e.g. Partnership opportunity"
               />
             </div>
-            <p class="help is-danger">This field is required</p>
+            <p className="help is-danger">This field is required</p>
           </div>
         </div>
       </div>
 
-      <div class="field is-horizontal">
-        <div class="field-label is-normal">
-          <label class="label">Password</label>
+      <div className="field is-horizontal">
+        <div className="field-label is-normal">
+          <label className="label">Password</label>
         </div>
-        <div class="field-body">
-          <div class="field">
-            <div class="control">
+        <div className="field-body">
+          <div className="field">
+            <div className="control">
               <input
-                class="input is-danger"
+                className="input is-danger"
                 type="text"
                 placeholder="e.g. Partnership opportunity"
               />
             </div>
-            <p class="help is-danger">This field is required</p>
+            <p className="help is-danger">This field is required</p>
           </div>
         </div>
       </div>
 
-      <div class="field is-horizontal">
-        <div class="field-label" />
-        <div class="field-body">
-          <div class="field">
-            <div class="control">
-              <button class="button is-medium is-link">
+      <div className="field is-horizontal">
+        <div className="field-label" />
+        <div className="field-body">
+          <div className="field">
+            <div className="control">
+              <button className="button is-medium is-link">
                 <strong>Register</strong>
               </button>
             </div>

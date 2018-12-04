@@ -9,16 +9,20 @@ class Subscribe extends React.Component {
   constructor(props) {
     super(props)
     this.state = {
-      isLoading: true,
+      isLoading: false,
       profile: { email: '' },
-      success: true,
+      success: false,
       errors: [],
     }
+  }
+  componentDidMount() {
+    recaptchaRef.current.reset()
   }
   register() {
     if (!recaptchaRef || !recaptchaRef.current) {
       return
     }
+    this.setState({ isLoading: true })
     recaptchaRef.current.execute()
     return
   }
@@ -29,34 +33,35 @@ class Subscribe extends React.Component {
 
     axios
       .post(
-        `${
-          Conf.apiDomain
-        }auth/register?quick=true&g-recaptcha-response=${recaptchaValue}`,
+        `/auth/register?quick=true&g-recaptcha-response=${recaptchaValue}`,
         {
           user: profile,
         }
       )
       .then(response => {
-        self.setState({ isLoading: false })
         if (response.data.data.errors && response.data.data.errors.length > 0) {
-          self.setState({ errors: response.data.data.errors })
+          self.setState({ isLoading: false, errors: response.data.data.errors })
           return
         }
-        self.setState({ isLoading: false, errors: [] })
+        self.setState({ success: true, isLoading: false, errors: [] })
         setTimeout(() => {
           self.setState({ success: false, profile: { email: '' } })
         }, 4000)
         return
       })
       .catch(response => {
-        self.setState({ errors: response.errors || [] })
+        self.setState({
+          isLoading: false,
+          success: false,
+          errors: response.errors || [],
+        })
       })
   }
   handleChange(event) {
     this.setState({ profile: { email: event.target.value } })
   }
   render() {
-    const { errors } = this.state
+    const { errors, isLoading, success } = this.state
     return (
       <section className="subscribe">
         <div>
@@ -68,30 +73,47 @@ class Subscribe extends React.Component {
             weekly newsletter.
           </p>
           <div className="field is-grouped">
-            <div className="control is-expanded">
-              <input
-                type="text"
-                name="email"
-                className={errorHelper.hasError(
-                  ['input', 'is-medium', 'is-flat'],
-                  'email',
-                  errors
-                )}
-                placeholder="email address"
-                required=""
-                value={this.state.profile.email}
-                onChange={this.handleChange.bind(this)}
-              />
-              <p className="subscribe-danger help is-danger">
-                {errorHelper.getError('email', errors)}
-              </p>
-            </div>
-            <button
-              className="button is-medium is-link"
-              onClick={this.register.bind(this)}
-            >
-              <strong>Subscribe</strong>
-            </button>
+            {!success && (
+              <div className="control is-expanded">
+                <input
+                  type="text"
+                  name="email"
+                  className={errorHelper.hasError(
+                    ['input', 'is-medium', 'is-flat'],
+                    'email',
+                    errors
+                  )}
+                  placeholder="email address"
+                  required=""
+                  value={this.state.profile.email}
+                  onChange={this.handleChange.bind(this)}
+                />
+                <p className="subscribe-danger help is-danger">
+                  {errorHelper.getError('email', errors)}
+                </p>
+              </div>
+            )}
+            {success && (
+              <div className="control is-expanded">
+                Successfully registered! Please check your email to verify your
+                account.
+              </div>
+            )}
+            {!success &&
+              !isLoading && (
+                <button
+                  className="button is-medium is-link"
+                  onClick={this.register.bind(this)}
+                >
+                  <strong>Subscribe</strong>
+                </button>
+              )}
+            {!success &&
+              isLoading && (
+                <button className="button is-medium is-link" disabled>
+                  <strong>Subscribe</strong>
+                </button>
+              )}
           </div>
           <div className="is-clearfix width-100 dnw-captcha">
             <ReCAPTCHA
