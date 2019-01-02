@@ -1,6 +1,6 @@
 import React from 'react'
 import ReCAPTCHA from 'react-google-recaptcha'
-import axios from 'axios'
+import axios from '../services/dnw-axios'
 import errorHelper from '../utils/errors'
 import Conf from '../../conf'
 

@@ -11,9 +11,9 @@ class App extends React.Component {
       <div className="links">
         <div className="link">
           <p className="title is-5">No links found this week.</p>
-          <a className="is-link">
+          <Link to={`/newsletters`} className="is-link">
             <strong>Check previous newsletters</strong>
-          </a>
+          </Link>
         </div>
       </div>
     )
@@ -27,7 +27,7 @@ class App extends React.Component {
             node: { frontmatter, internal },
           } = edge
           return (
-            <div className="link" key={i}>
+            <div className="link" key={`link-${i}`}>
               <h2 className="title is-3">
                 <Link to={`/${frontmatter.slug}`}>{frontmatter.title}</Link>
               </h2>

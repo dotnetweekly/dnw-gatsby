@@ -24,11 +24,11 @@ const Newsletters = props => {
       <h2>Previous Newsletters</h2>
       {rows.map((row, i) => {
         return (
-          <div className="columns">
+          <div className="columns" key={`newsletters-${i}`}>
             {row.map(item => {
               return (
                 <a
-                  key={i}
+                  key={`newsletter-link-${i}`}
                   target="_blank"
                   href={`https://dnw-newsletter.azurewebsites.net/issues/${
                     item.year

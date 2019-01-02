@@ -15,7 +15,7 @@ const About = () => (
     </button>
     <ul>
       <li>Add community links</li>
-      <li>Receive Community Link</li>
+      <li>Receive weekly newsletter</li>
     </ul>
   </Layout>
 )

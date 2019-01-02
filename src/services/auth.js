@@ -1,29 +1,4 @@
-import axios from 'axios'
-import config from '../../conf'
-
-axios.defaults.baseURL = config.apiDomain
-
-axios.interceptors.request.use(function(config) {
-  if (typeof window === 'undefined') {
-    return config
-  }
-  const token = window.localStorage.getItem('dnwToken')
-  if (token) {
-    config.headers.Authorization = `Bearer ${token}`
-  }
-
-  return config
-})
-
-axios.interceptors.response.use(undefined, err => {
-  let res = err.response
-  if (
-    (res && res.status && res.status === 401) ||
-    (res && res.body && !res.body.success)
-  ) {
-    return Promise.reject(res)
-  }
-})
+import dnwAxios from './dnw-axios'
 
 export const isBrowser = () => typeof window !== 'undefined'
 
@@ -33,18 +8,21 @@ export const getUser = () =>
     : {}
 
 const setUser = user =>
-  window.localStorage.setItem('gatsbyUser', JSON.stringify(user))
+  window.localStorage.setItem('dnwUser', JSON.stringify(user))
 
 export const handleLogin = ({ username, password }) => {
-  if (username === `john` && password === `pass`) {
-    return setUser({
-      username: `john`,
-      name: `Johnny`,
-      email: `johnny@example.org`,
+  dnwAxios
+    .post(`/auth/login?g-recaptcha-response=${credentials.recaptchaKey}`, {
+      email: credentials.email,
+      password: credentials.password,
     })
-  }
-
-  return false
+    .then(response => {
+      resolve(response.data)
+    })
+    .catch(error => {
+      console.log(error)
+      reject(error)
+    })
 }
 
 export const isLoggedIn = () => {

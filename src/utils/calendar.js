@@ -215,14 +215,14 @@ const getDateRangeOfWeek = function(week, year) {
 }
 
 function addDays(currDate, days) {
-  var date = new Date(currDate.valueOf())
+  let date = new Date(currDate.valueOf())
   date.setDate(date.getDate() + days)
   return date
 }
 
 function getDates(startDate, stopDate) {
-  var dateArray = new Array()
-  var currentDate = startDate
+  let dateArray = []
+  let currentDate = startDate
   let count = 0
   while (currentDate <= stopDate) {
     dateArray.push(new Date(currentDate))
@@ -235,6 +235,37 @@ function getDates(startDate, stopDate) {
   return dateArray
 }
 
+function getWeekNumber(d) {
+  // Copy date so don't modify original
+  d = new Date(+d)
+  d.setHours(0, 0, 0)
+  // Set to nearest Thursday: current date + 4 - current day number
+  // Make Sunday's day number 7
+  d.setDate(d.getDate() + 4 - (d.getDay() || 7))
+  // Get first day of year
+  var yearStart = new Date(d.getFullYear(), 0, 1)
+  // Calculate full weeks to nearest Thursday
+  var weekNo = Math.ceil(((d - yearStart) / 86400000 + 1) / 7)
+  // Return array of year and week number
+  return [d.getFullYear(), weekNo]
+}
+
+function weeksInYear(year) {
+  var month = 11,
+    day = 31,
+    week
+
+  // Find week that 31 Dec is in. If is first week, reduce date until
+  // get previous week.
+  let d
+  do {
+    d = new Date(year, month, day--)
+    week = getWeekNumber(d)[1]
+  } while (week === 1)
+
+  return week
+}
+
 module.exports = {
   getWeek,
   getMonthName,
@@ -245,4 +276,6 @@ module.exports = {
   getDateRangeOfWeek,
   getDates,
   getUtcNow,
+  getWeekNumber,
+  weeksInYear,
 }
