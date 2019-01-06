@@ -1,37 +1,28 @@
-import dnwAxios from './dnw-axios'
-
 export const isBrowser = () => typeof window !== 'undefined'
 
-export const getUser = () =>
-  isBrowser() && window.localStorage.getItem('dnwUser')
-    ? JSON.parse(window.localStorage.getItem('dnwUser'))
-    : {}
-
-const setUser = user =>
-  window.localStorage.setItem('dnwUser', JSON.stringify(user))
-
-export const handleLogin = ({ username, password }) => {
-  dnwAxios
-    .post(`/auth/login?g-recaptcha-response=${credentials.recaptchaKey}`, {
-      email: credentials.email,
-      password: credentials.password,
-    })
-    .then(response => {
-      resolve(response.data)
-    })
-    .catch(error => {
-      console.log(error)
-      reject(error)
-    })
+export const handleLogin = token => {
+  if (isBrowser()) {
+    window.localStorage.setItem('dnwToken', token.token)
+    window.localStorage.setItem('dnwTokenExpiration', token.expirationDate)
+  }
 }
 
 export const isLoggedIn = () => {
-  const user = getUser()
-
-  return !!user.username
+  if (!isBrowser()) {
+    return false
+  }
+  let expiration = window.localStorage.getItem('dnwTokenExpiration')
+  var unixTimestamp = new Date().getTime() / 1000
+  if (expiration !== null && parseInt(expiration) - unixTimestamp > 0) {
+    return true
+  }
+  return false
 }
 
 export const logout = callback => {
-  setUser({})
+  if (typeof window !== 'undefined') {
+    window.localStorage.removeItem('dnwToken')
+    window.localStorage.removeItem('dnwTokenExpiration')
+  }
   callback()
 }

@@ -1,5 +1,6 @@
 import React from 'react'
-import { Link } from 'gatsby'
+import { Link, navigate } from 'gatsby'
+import * as auth from '../services/auth'
 
 class Header extends React.Component {
   render() {
@@ -19,15 +20,37 @@ class Header extends React.Component {
             </Link>
             <div className="column tight" />
             <div>
-              <Link to="/add" style={menuLink}>
-                Add a link
-              </Link>
-              <Link to="/login" style={menuLink}>
-                Login
-              </Link>
-              <Link to="/register" style={menuLink}>
-                Register
-              </Link>
+              <div className="is-pulled-left">
+                <Link to="/add" style={menuLink}>
+                  Add a link
+                </Link>
+              </div>
+              {auth.isLoggedIn() && (
+                <div className="is-pulled-left">
+                  <Link to="/profile" style={menuLink}>
+                    Profile
+                  </Link>
+                  <Link
+                    onClick={event => {
+                      event.preventDefault()
+                      auth.logout(() => navigate(`/`))
+                    }}
+                    style={menuLink}
+                  >
+                    Logout
+                  </Link>
+                </div>
+              )}
+              {!auth.isLoggedIn() && (
+                <div className="is-pulled-left">
+                  <Link to="/login" style={menuLink}>
+                    Login
+                  </Link>
+                  <Link to="/register" style={menuLink}>
+                    Register
+                  </Link>
+                </div>
+              )}
             </div>
           </div>
         </nav>

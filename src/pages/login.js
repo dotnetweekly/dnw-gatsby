@@ -5,6 +5,8 @@ import Conf from '../../conf'
 import axios from '../services/dnw-axios'
 /* Copy for forms */
 
+import { navigate } from 'gatsby'
+import * as auth from '../services/auth'
 import Layout from '../components/layout'
 
 const recaptchaRef = React.createRef()
@@ -42,6 +44,7 @@ class LoginPage extends React.Component {
             password: fData.password,
           })
           .then(response => {
+            console.log('pass')
             if (
               response.data.data.errors &&
               response.data.data.errors.length > 0
@@ -53,22 +56,23 @@ class LoginPage extends React.Component {
               resolve()
               return
             }
-            self.setState({ success: true, isLoading: false, errors: [] })
-            setTimeout(() => {
-              self.setState({ success: false, profile: { email: '' } })
-            }, 4000)
-            resolve()
-            return
+            auth.handleLogin(response.data.data)
+            navigate('/profile')
           })
-          .catch(response => {
+          .catch(() => {
+            const errors = [{ field: 'email', error: 'Cannot login' }]
             self.setState({
               isLoading: false,
               success: false,
-              errors: response.errors || [],
+              errors: errors || [],
             })
           })
       } catch (error) {
-        console.log(error)
+        self.setState({
+          isLoading: false,
+          success: false,
+          errors: [],
+        })
         reject(error)
       }
     })
@@ -79,7 +83,6 @@ class LoginPage extends React.Component {
     }
     var changedProperty = { ...this.state.fData }
     changedProperty.email = event.target.value
-    console.log(changedProperty)
     this.setState({ fData: changedProperty })
   }
   handleChangePassword(event) {
@@ -133,7 +136,7 @@ class LoginPage extends React.Component {
                     )}
                     value={fData ? fData.password : ''}
                     onChange={this.handleChangePassword.bind(this)}
-                    type="text"
+                    type="password"
                     placeholder="e.g. pAssw0rd (not a good password)"
                   />
                 </div>
@@ -164,6 +167,11 @@ class LoginPage extends React.Component {
                         <strong>Login</strong>
                       </button>
                     )}
+                  {success && (
+                    <div className="control is-expanded">
+                      Successfully logged in! You are now logged in.
+                    </div>
+                  )}
                 </div>
               </div>
             </div>
