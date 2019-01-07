@@ -8,6 +8,7 @@ import axios from '../services/dnw-axios'
 import { navigate } from 'gatsby'
 import * as auth from '../services/auth'
 import Layout from '../components/layout'
+import FormField from '../components/formField'
 
 const recaptchaRef = React.createRef()
 class LoginPage extends React.Component {
@@ -44,7 +45,6 @@ class LoginPage extends React.Component {
             password: fData.password,
           })
           .then(response => {
-            console.log('pass')
             if (
               response.data.data.errors &&
               response.data.data.errors.length > 0
@@ -77,7 +77,7 @@ class LoginPage extends React.Component {
       }
     })
   }
-  handleChangeEmail(event) {
+  handleChangeEmail(event, type) {
     if (!this.state || !this.state.fData) {
       return
     }
@@ -99,27 +99,13 @@ class LoginPage extends React.Component {
       <Layout>
         <div className="content">
           <h1>Login</h1>
-          <div className="field is-horizontal">
-            <div className="field-label is-normal">
-              <label className="label">Email</label>
-            </div>
-            <div className="field-body">
-              <div className="field">
-                <div className="control">
-                  <input
-                    className={errorHelper.hasError(['input'], 'email', errors)}
-                    type="text"
-                    placeholder="e.g. name@email.com"
-                    value={fData ? fData.email : ''}
-                    onChange={this.handleChangeEmail.bind(this)}
-                  />
-                </div>
-                <p className="help is-danger">
-                  {errorHelper.getError('email', errors)}
-                </p>
-              </div>
-            </div>
-          </div>
+          <FormField
+            title="Email"
+            field="email"
+            value={fData.email}
+            onChange={this.handleChangeEmail.bind(this)}
+            errors={errors}
+          />
 
           <div className="field is-horizontal">
             <div className="field-label is-normal">

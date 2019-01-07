@@ -80,7 +80,6 @@ class AddPage extends React.Component {
         axios
           .post(`links?g-recaptcha-response=${recaptchaValue}`, fData)
           .then(response => {
-            console.log('pass')
             if (
               response.data.data.errors &&
               response.data.data.errors.length > 0

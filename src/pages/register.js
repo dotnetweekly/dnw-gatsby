@@ -1,116 +1,193 @@
 import React from 'react'
+import ReCAPTCHA from 'react-google-recaptcha'
+import Conf from '../../conf'
+import axios from '../services/dnw-axios'
+/* Copy for forms */
 
 import Layout from '../components/layout'
+import FormField from '../components/formField'
 
-const RegisterPage = () => (
-  <Layout>
-    <div className="content">
-      <h1>Register</h1>
-      <div className="field is-horizontal">
-        <div className="field-label is-normal">
-          <label className="label">Name</label>
-        </div>
-        <div className="field-body">
-          <div className="field">
-            <div className="control is-expanded has-icons-left">
-              <input
-                className="input is-danger"
-                type="text"
-                placeholder="First Name"
-              />
-              <span className="icon is-small is-left">
-                <i className="fas fa-user" />
-              </span>
-            </div>
-            <p className="help is-danger">This field is required</p>
-          </div>
-          <div className="field">
-            <div className="control is-expanded has-icons-left has-icons-right">
-              <input
-                className="input is-danger"
-                type="text"
-                placeholder="Last Name"
-              />
-              <span className="icon is-small is-left">
-                <i className="fas fa-envelope" />
-              </span>
-              <span className="icon is-small is-right">
-                <i className="fas fa-check" />
-              </span>
-            </div>
-            <p className="help is-danger">This field is required</p>
-          </div>
-        </div>
-      </div>
+const recaptchaRef = React.createRef()
+class RegisterPage extends React.Component {
+  constructor(props) {
+    super(props)
+    this.state = {
+      isLoading: false,
+      fData: {
+        firstName: '',
+        lastName: '',
+        username: '',
+        email: '',
+        password: '',
+      },
+      success: false,
+      errors: [],
+    }
+  }
+  componentDidMount() {
+    recaptchaRef.current.reset()
+  }
+  formSubmit() {
+    if (!recaptchaRef || !recaptchaRef.current) {
+      return
+    }
+    this.setState({ isLoading: true })
+    recaptchaRef.current.execute()
+    return
+  }
+  formAction(recaptchaValue) {
+    const { fData } = this.state
+    const self = this
+    self.setState({ isLoading: true })
 
-      <div className="field is-horizontal">
-        <div className="field-label is-normal">
-          <label className="label">Username</label>
-        </div>
-        <div className="field-body">
-          <div className="field">
-            <div className="control">
-              <input
-                className="input is-danger"
-                type="text"
-                placeholder="e.g. Partnership opportunity"
-              />
-            </div>
-            <p className="help is-danger">This field is required</p>
-          </div>
-        </div>
-      </div>
+    return new Promise((resolve, reject) => {
+      try {
+        axios
+          .post(`/auth/register?g-recaptcha-response=${recaptchaValue}`, {
+            user: fData,
+          })
+          .then(response => {
+            if (
+              response.data.data.errors &&
+              response.data.data.errors.length > 0
+            ) {
+              self.setState({
+                isLoading: false,
+                errors: response.data.data.errors,
+              })
+              resolve()
+              return
+            }
+            self.setState({
+              success: true,
+              isLoading: false,
+              fData: {
+                firstName: '',
+                lastName: '',
+                username: '',
+                email: '',
+                password: '',
+              },
+            })
+            setTimeout(() => {
+              self.setState({
+                success: false,
+                isLoading: false,
+              })
+              resolve()
+            }, 5000)
+          })
+          .catch(() => {
+            const errors = [{ field: 'title', error: 'Undefined error' }]
+            self.setState({
+              isLoading: false,
+              success: false,
+              errors: errors || [],
+            })
+          })
+      } catch (error) {
+        self.setState({
+          isLoading: false,
+          success: false,
+          errors: [],
+        })
+        reject(error)
+      }
+    })
+  }
+  handleChangeInput(event, param) {
+    if (!this.state || !this.state.fData) {
+      return
+    }
+    var changedProperty = { ...this.state.fData }
+    changedProperty[param] = event.target.value
+    this.setState({ fData: changedProperty })
+  }
+  render() {
+    const { errors, success, isLoading, fData } = this.state
+    return (
+      <Layout>
+        <div className="content">
+          <h1>Register</h1>
+          <FormField
+            title="First Name"
+            field="firstName"
+            value={fData.firstName}
+            onChange={this.handleChangeInput.bind(this)}
+            errors={errors}
+          />
+          <FormField
+            title="Last Name"
+            field="lastName"
+            value={fData.lastName}
+            onChange={this.handleChangeInput.bind(this)}
+            errors={errors}
+          />
+          <FormField
+            title="Email"
+            field="email"
+            value={fData.email}
+            onChange={this.handleChangeInput.bind(this)}
+            errors={errors}
+          />
+          <FormField
+            title="Username"
+            field="username"
+            value={fData.username}
+            onChange={this.handleChangeInput.bind(this)}
+            errors={errors}
+          />
+          <FormField
+            title="Password"
+            field="password"
+            type="password"
+            value={fData.password}
+            onChange={this.handleChangeInput.bind(this)}
+            errors={errors}
+          />
 
-      <div className="field is-horizontal">
-        <div className="field-label is-normal">
-          <label className="label">Email</label>
-        </div>
-        <div className="field-body">
-          <div className="field">
-            <div className="control">
-              <input
-                className="input is-danger"
-                type="text"
-                placeholder="e.g. Partnership opportunity"
-              />
-            </div>
-            <p className="help is-danger">This field is required</p>
-          </div>
-        </div>
-      </div>
-
-      <div className="field is-horizontal">
-        <div className="field-label is-normal">
-          <label className="label">Password</label>
-        </div>
-        <div className="field-body">
-          <div className="field">
-            <div className="control">
-              <input
-                className="input is-danger"
-                type="text"
-                placeholder="e.g. Partnership opportunity"
-              />
-            </div>
-            <p className="help is-danger">This field is required</p>
-          </div>
-        </div>
-      </div>
-
-      <div className="field is-horizontal">
-        <div className="field-label" />
-        <div className="field-body">
-          <div className="field">
-            <div className="control">
-              <button className="button is-medium is-link">
-                <strong>Register</strong>
-              </button>
+          <div className="field is-horizontal">
+            <div className="field-label" />
+            <div className="field-body">
+              <div className="field">
+                <div className="control">
+                  {!success &&
+                    !isLoading && (
+                      <button
+                        className="button is-medium is-link"
+                        onClick={this.formSubmit.bind(this)}
+                      >
+                        <strong>Register</strong>
+                      </button>
+                    )}
+                  {!success &&
+                    isLoading && (
+                      <button className="button is-medium is-link" disabled>
+                        <strong>Register</strong>
+                      </button>
+                    )}
+                  {success && (
+                    <div className="control is-expanded">
+                      Successfully registered! Please check your email to verify
+                      your account.
+                    </div>
+                  )}
+                </div>
+              </div>
             </div>
           </div>
+          <div className="is-clearfix width-100 dnw-captcha">
+            <ReCAPTCHA
+              ref={recaptchaRef}
+              size="invisible"
+              sitekey={Conf.recaptchaKey}
+              onChange={this.formAction.bind(this)}
+            />
+          </div>
         </div>
-      </div>
-    </div>
-  </Layout>
-)
+      </Layout>
+    )
+  }
+}
 
 export default RegisterPage
