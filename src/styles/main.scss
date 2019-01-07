@@ -70,6 +70,21 @@ footer {
   }
 }
 
+.link {
+  color: #3273dc;
+  cursor: pointer;
+  text-decoration: none;
+  border: none;
+  background: none;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+.link:hover {
+  color: #363636;
+}
+
 .dnw-captcha > div > div {
   float: left;
 }

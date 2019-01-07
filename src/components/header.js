@@ -21,16 +21,24 @@ class Header extends React.Component {
             <div className="column tight" />
             <div>
               <div className="is-pulled-left">
-                <Link to="/add" style={menuLink}>
-                  Add a link
-                </Link>
+                {auth.isLoggedIn() && (
+                  <Link to="/add" style={menuLink}>
+                    Add a link
+                  </Link>
+                )}
+                {!auth.isLoggedIn() && (
+                  <Link to="/login" style={menuLink}>
+                    Add a link
+                  </Link>
+                )}
               </div>
               {auth.isLoggedIn() && (
                 <div className="is-pulled-left">
                   <Link to="/profile" style={menuLink}>
                     Profile
                   </Link>
-                  <Link
+                  <button
+                    className="link"
                     onClick={event => {
                       event.preventDefault()
                       auth.logout(() => navigate(`/`))
@@ -38,7 +46,7 @@ class Header extends React.Component {
                     style={menuLink}
                   >
                     Logout
-                  </Link>
+                  </button>
                 </div>
               )}
               {!auth.isLoggedIn() && (
