@@ -8,8 +8,14 @@ axios.interceptors.request.use(function(config) {
     return config
   }
   const token = window.localStorage.getItem('dnwToken')
-  if (token) {
+  if (token && token !== undefined && token !== 'undefined') {
     config.headers.Authorization = `Bearer ${token}`
+  } else {
+    delete config.headers.Authorization
+  }
+
+  if (config.headers.Authorization === 'Bearer undefined') {
+    delete config.headers.Authorization
   }
 
   return config

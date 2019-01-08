@@ -3,7 +3,15 @@ import errorHelper from '../utils/errors'
 
 class FormField extends React.Component {
   render() {
-    const { field, title, errors, value, onChange, type = 'text' } = this.props
+    const {
+      field,
+      title,
+      errors,
+      value,
+      onChange,
+      type = 'text',
+      placeholder = '',
+    } = this.props
     return (
       <div className="field is-horizontal">
         <div className="field-label is-normal">
@@ -19,6 +27,7 @@ class FormField extends React.Component {
                 onChange={event => {
                   onChange(event, field)
                 }}
+                placeholder={placeholder}
               />
             </div>
             <p className="help is-danger">

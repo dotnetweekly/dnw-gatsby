@@ -109,12 +109,16 @@ class RegisterPage extends React.Component {
       <Layout>
         <div className="content">
           <h1>Register</h1>
+          <p>
+            Register today to submit links and receive the weekly newsletter
+          </p>
           <FormField
             title="First Name"
             field="firstName"
             value={fData.firstName}
             onChange={this.handleChangeInput.bind(this)}
             errors={errors}
+            placeholder="First Name"
           />
           <FormField
             title="Last Name"
@@ -122,6 +126,7 @@ class RegisterPage extends React.Component {
             value={fData.lastName}
             onChange={this.handleChangeInput.bind(this)}
             errors={errors}
+            placeholder="Last Name"
           />
           <FormField
             title="Email"
@@ -129,6 +134,7 @@ class RegisterPage extends React.Component {
             value={fData.email}
             onChange={this.handleChangeInput.bind(this)}
             errors={errors}
+            placeholder="Email"
           />
           <FormField
             title="Username"
@@ -136,6 +142,7 @@ class RegisterPage extends React.Component {
             value={fData.username}
             onChange={this.handleChangeInput.bind(this)}
             errors={errors}
+            placeholder="Username"
           />
           <FormField
             title="Password"

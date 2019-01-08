@@ -13,7 +13,7 @@ class LoginPage extends React.Component {
     super(props)
     this.state = {
       isLoading: false,
-      fData: { password: '' },
+      fData: { email: '' },
       success: false,
       errors: [],
     }
@@ -36,16 +36,10 @@ class LoginPage extends React.Component {
 
     return new Promise((resolve, reject) => {
       try {
-        const activationCode = self.props.location.pathname
-          .match(/(\/forgot-password\/(.*?)$)/)
-          .slice(2, 3)
         axios
-          .post(
-            `/auth/forgotPassword/${activationCode}?g-recaptcha-response=${recaptchaValue}`,
-            {
-              password: fData.password,
-            }
-          )
+          .post(`/user/forgotPassword?g-recaptcha-response=${recaptchaValue}`, {
+            email: fData.email,
+          })
           .then(response => {
             if (
               response.data.data.errors &&
@@ -61,7 +55,6 @@ class LoginPage extends React.Component {
             self.setState({
               success: true,
               isLoading: false,
-              fData: { password: '' },
             })
             setTimeout(() => {
               self.setState({
@@ -71,7 +64,7 @@ class LoginPage extends React.Component {
             }, 5000)
           })
           .catch(() => {
-            const errors = [{ field: 'password', error: 'Error occured' }]
+            const errors = [{ field: 'email', error: 'Error occured' }]
             self.setState({
               isLoading: false,
               success: false,
@@ -88,12 +81,12 @@ class LoginPage extends React.Component {
       }
     })
   }
-  handleChangeInput(event, type) {
+  handleChangeEmail(event, type) {
     if (!this.state || !this.state.fData) {
       return
     }
     var changedProperty = { ...this.state.fData }
-    changedProperty.password = event.target.value
+    changedProperty.email = event.target.value
     this.setState({ fData: changedProperty })
   }
   render() {
@@ -103,11 +96,10 @@ class LoginPage extends React.Component {
         <div className="content">
           <h1>Forgot Password</h1>
           <FormField
-            title="New Password"
-            field="password"
-            type="password"
-            value={fData.password}
-            onChange={this.handleChangeInput.bind(this)}
+            title="Email"
+            field="email"
+            value={fData.email}
+            onChange={this.handleChangeEmail.bind(this)}
             errors={errors}
           />
 
@@ -122,18 +114,18 @@ class LoginPage extends React.Component {
                         className="button is-medium is-link"
                         onClick={this.formSubmit.bind(this)}
                       >
-                        <strong>Save</strong>
+                        <strong>Forgot Password</strong>
                       </button>
                     )}
                   {!success &&
                     isLoading && (
                       <button className="button is-medium is-link" disabled>
-                        <strong>Save</strong>
+                        <strong>Forgot Password</strong>
                       </button>
                     )}
                   {success && (
                     <div className="control is-expanded">
-                      Successfully changed your password!
+                      Please visit your email address to update your password.
                     </div>
                   )}
                 </div>

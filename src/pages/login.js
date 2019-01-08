@@ -5,7 +5,7 @@ import Conf from '../../conf'
 import axios from '../services/dnw-axios'
 /* Copy for forms */
 
-import { navigate } from 'gatsby'
+import { navigate, Link } from 'gatsby'
 import * as auth from '../services/auth'
 import Layout from '../components/layout'
 import FormField from '../components/formField'
@@ -129,6 +129,21 @@ class LoginPage extends React.Component {
                 <p className="help is-danger">
                   {errorHelper.getError('password', errors)}
                 </p>
+              </div>
+            </div>
+          </div>
+
+          <div className="field is-horizontal">
+            <div className="field-label is-normal">
+              <label className="label" />
+            </div>
+            <div className="field-body">
+              <div className="field">
+                <div className="control">
+                  <p>
+                    <Link to="/forgot-password">Forgot Password</Link>
+                  </p>
+                </div>
               </div>
             </div>
           </div>

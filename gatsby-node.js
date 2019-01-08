@@ -7,6 +7,7 @@
 const { sourceNewsletter } = require('./gatsby-node/sourceNewsletter')
 const { createPosts } = require('./gatsby-node/createPosts')
 const { createCategories } = require('./gatsby-node/createCategories')
+const path = require('path')
 
 exports.sourceNodes = async ({ actions }) => {
   const { createNode } = actions
@@ -28,6 +29,32 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
       node,
       name: `slug`,
       value: node.frontmatter.slug,
+    })
+  }
+}
+
+// Implement the Gatsby API “onCreatePage”. This is
+// called after every page is created.
+exports.onCreatePage = async ({ page, actions }) => {
+  const { createPage, deletePage } = actions
+
+  // page.matchPath is a special key that's used for matching pages
+  // only on the client.
+  if (page.path === '/activate/') {
+    deletePage(page)
+    // Update the page.
+    createPage({
+      path: '/activate/*',
+      component: path.resolve(path.join(__dirname, `src/pages/activate.js`)),
+    })
+  } else if (page.path.match(/^\/forgot-password\/(.*?)$/)) {
+    deletePage(page)
+    // Update the page.
+    createPage({
+      path: '/forgot-password/*',
+      component: path.resolve(
+        path.join(__dirname, `src/pages/activate-forgot-password.js`)
+      ),
     })
   }
 }
