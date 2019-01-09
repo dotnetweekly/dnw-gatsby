@@ -4,6 +4,7 @@ import Subscribe from './subscribe'
 
 import Layout from '../components/layout'
 import { Link } from '@reach/router'
+import * as auth from '../services/auth'
 
 class App extends React.Component {
   renderNoLinks() {
@@ -50,7 +51,7 @@ class App extends React.Component {
     return (
       <div>
         <Calendar week={week} year={year} />
-        <Subscribe />
+        {!auth.isLoggedIn() && <Subscribe />}
         <div className="is-clearfix" />
         {links}
       </div>

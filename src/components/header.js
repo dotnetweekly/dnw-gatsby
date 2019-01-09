@@ -38,7 +38,7 @@ class Header extends React.Component {
                     Profile
                   </Link>
                   <button
-                    className="link"
+                    className="link-button"
                     onClick={event => {
                       event.preventDefault()
                       auth.logout(() => navigate(`/`))

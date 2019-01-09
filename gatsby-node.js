@@ -56,5 +56,21 @@ exports.onCreatePage = async ({ page, actions }) => {
         path.join(__dirname, `src/pages/activate-forgot-password.js`)
       ),
     })
+  } else if (page.path.match(/^\/updateEmail\/(.*?)$/)) {
+    deletePage(page)
+    // Update the page.
+    createPage({
+      path: '/updateEmail/*',
+      component: path.resolve(
+        path.join(__dirname, `src/pages/activate-update-email.js`)
+      ),
+    })
+  } else if (page.path.match(/^\/unsubscribe\/(.*?)$/)) {
+    deletePage(page)
+    // Update the page.
+    createPage({
+      path: '/unsubscribe/*',
+      component: path.resolve(path.join(__dirname, `src/pages/unsubscribe.js`)),
+    })
   }
 }

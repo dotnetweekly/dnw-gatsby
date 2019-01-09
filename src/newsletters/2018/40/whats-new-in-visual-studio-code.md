@@ -1,6 +1,6 @@
 ---
 _id: 5bb5a3a515695b4044f150c4
-title: What's New in Visual Studio Code
+title: What is New in Visual Studio Code
 url: https://channel9.msdn.com/Events/Ignite/2018/Whats-New-in-Visual-Studio-Code
 category: videos
 slug: 'whats-new-in-visual-studio-code'
@@ -10,5 +10,3 @@ tags: ['vs']
 ---
 
 Christina Warren interviews Chris Dias, Scott Hanselman and Matt Hernandez live on Channel at Microsoft Ignite on the latest updates to Visual Studio Code.
-
-
