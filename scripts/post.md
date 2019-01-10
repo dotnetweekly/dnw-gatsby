@@ -9,4 +9,4 @@ createdOn: '%s'
 tags: [%s]
 ---
 
-%s
+**CONTENT**
