@@ -33,14 +33,23 @@ exports.createPosts = function(createPage, graphql) {
           if (result.errors) {
             console.log(result.errors)
           }
-          result.data.allMarkdownRemark.edges.forEach(({ node }) => {
+          const blogPosts = result.data.allMarkdownRemark.edges
+          blogPosts.forEach((edge, index) => {
+            let next =
+              index === 0 ? null : blogPosts[index - 1].node.frontmatter.slug
+            const prev =
+              index === blogPosts.length - 1
+                ? null
+                : blogPosts[index + 1].node.frontmatter.slug
             createPage({
-              path: node.frontmatter.slug,
+              path: `/articles/${edge.node.frontmatter.slug}`,
               component: path.resolve(
                 path.join(__dirname, `../src/templates/blog-post.js`)
               ),
               context: {
-                slug: node.frontmatter.slug,
+                slug: edge.node.frontmatter.slug,
+                prev,
+                next,
               }, // additional data can be passed via context
             })
           })
