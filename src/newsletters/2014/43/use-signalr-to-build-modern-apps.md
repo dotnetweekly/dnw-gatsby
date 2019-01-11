@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2892
-title: Use SignalR to Build Modern Apps
-url: http://msdn.microsoft.com/en-us/magazine/dn802609.aspx
-category: articles
+title: 'Use SignalR to Build Modern Apps'
+url: 'http://msdn.microsoft.com/en-us/magazine/dn802609.aspx'
+category: 5a88e1aebd6dca0d5f0d2892
 slug: 'use-signalr-to-build-modern-apps'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-10-24T17:54:39.000Z'
 tags: []
 ---

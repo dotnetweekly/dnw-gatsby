@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d212c
-title: Getting the most out of Git
-url: https://blogs.msdn.microsoft.com/visualstudioalm/2016/11/28/getting-the-most-out-of-git/
-category: articles
+title: 'Getting the most out of Git'
+url: 'https://blogs.msdn.microsoft.com/visualstudioalm/2016/11/28/getting-the-most-out-of-git/'
+category: 5a88e1acbd6dca0d5f0d212c
 slug: 'getting-the-most-out-of-git'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-12-03T10:10:29.000Z'
 tags: []
 ---

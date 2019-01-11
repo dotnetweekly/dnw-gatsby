@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d29ce
-title: Microsoft Visual Studio and .NET Framework Documentation (ISO image) 
-url: http://www.microsoft.com/en-us/download/details.aspx?id=34794
-category: libraries-tools
+title: 'Microsoft Visual Studio and .NET Framework Documentation (ISO image) '
+url: 'http://www.microsoft.com/en-us/download/details.aspx?id=34794'
+category: 5a88e1aebd6dca0d5f0d29ce
 slug: 'microsoft-visual-studio-and-net-framework-documentation-iso-image'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-06-14T09:22:03.000Z'
 tags: []
 ---

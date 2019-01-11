@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d293e
-title: Use a Microsoft Account to Create Web Apps Protected by Azure AD - With VS2013 Update 3
-url: http://blogs.msdn.com/b/webdev/archive/2014/08/04/use-a-microsoft-account-to-create-web-apps-protected-by-azure-ad-with-vs2013-update-3.aspx
-category: articles
+title: 'Use a Microsoft Account to Create Web Apps Protected by Azure AD - With VS2013 Update 3'
+url: 'http://blogs.msdn.com/b/webdev/archive/2014/08/04/use-a-microsoft-account-to-create-web-apps-protected-by-azure-ad-with-vs2013-update-3.aspx'
+category: 5a88e1aebd6dca0d5f0d293e
 slug: 'use-a-microsoft-account-to-create-web-apps-protected-by-azure-ad-with-vs2013-update-3'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-08-09T08:49:23.000Z'
 tags: []
 ---

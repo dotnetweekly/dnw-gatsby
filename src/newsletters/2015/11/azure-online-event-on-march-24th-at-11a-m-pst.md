@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d273e
-title: Azure online event on March 24th, at 11a.m PST
-url: http://azure.microsoft.com/en-us/campaigns/azure-march-announcement/
-category: events-training
+title: 'Azure online event on March 24th, at 11a.m PST'
+url: 'http://azure.microsoft.com/en-us/campaigns/azure-march-announcement/'
+category: 5a88e1adbd6dca0d5f0d273e
 slug: 'azure-online-event-on-march-24th-at-11a-m-pst'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-03-15T01:32:47.000Z'
 tags: []
 ---

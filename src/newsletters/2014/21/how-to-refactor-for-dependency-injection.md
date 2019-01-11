@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d29da
-title: How To Refactor for Dependency Injection
-url: http://visualstudiomagazine.com/articles/2014/05/01/how-to-refactor-for-dependency-injection.aspx
-category: articles
+title: 'How To Refactor for Dependency Injection'
+url: 'http://visualstudiomagazine.com/articles/2014/05/01/how-to-refactor-for-dependency-injection.aspx'
+category: 5a88e1aebd6dca0d5f0d29da
 slug: 'how-to-refactor-for-dependency-injection'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-05-24T10:33:57.000Z'
 tags: []
 ---

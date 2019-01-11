@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d239a
-title: New and Noteworthy Extensions for Visual Studio – March 2016
-url: https://blogs.msdn.microsoft.com/visualstudio/2016/04/07/new-noteworthy-visual-studio-extensions-march-2016/
-category: libraries-tools
+title: 'New and Noteworthy Extensions for Visual Studio – March 2016'
+url: 'https://blogs.msdn.microsoft.com/visualstudio/2016/04/07/new-noteworthy-visual-studio-extensions-march-2016/'
+category: 5a88e1acbd6dca0d5f0d239a
 slug: 'new-and-noteworthy-extensions-for-visual-studio-march-2016'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-04-09T08:05:20.000Z'
 tags: []
 ---

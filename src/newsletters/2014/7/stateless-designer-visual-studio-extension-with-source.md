@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2aba
-title: Stateless Designer Visual Studio Extension (with Source)
-url: http://coolthingoftheday.blogspot.gr/2014/02/stateless-designer-visual-studio.html
-category: libraries-tools
+title: 'Stateless Designer Visual Studio Extension (with Source)'
+url: 'http://coolthingoftheday.blogspot.gr/2014/02/stateless-designer-visual-studio.html'
+category: 5a88e1aebd6dca0d5f0d2aba
 slug: 'stateless-designer-visual-studio-extension-with-source'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-02-15T16:05:01.000Z'
 tags: []
 ---

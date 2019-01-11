@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d26d8
-title: Welcoming Developers to Windows 10
-url: http://blogs.windows.com/bloggingwindows/2015/04/29/welcoming-developers-to-windows-10/
-category: articles
+title: 'Welcoming Developers to Windows 10'
+url: 'http://blogs.windows.com/bloggingwindows/2015/04/29/welcoming-developers-to-windows-10/'
+category: 5a88e1adbd6dca0d5f0d26d8
 slug: 'welcoming-developers-to-windows-10'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-05-01T07:27:17.000Z'
 tags: []
 ---

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d251e
-title: Updates to Microsoft ASP.NET WebHooks Preview
-url: http://blogs.msdn.com/b/webdev/archive/2015/11/07/updates-to-microsoft-asp-net-webhooks-preview.aspx
-category: libraries-tools
+title: 'Updates to Microsoft ASP.NET WebHooks Preview'
+url: 'http://blogs.msdn.com/b/webdev/archive/2015/11/07/updates-to-microsoft-asp-net-webhooks-preview.aspx'
+category: 5a88e1adbd6dca0d5f0d251e
 slug: 'updates-to-microsoft-asp-net-webhooks-preview'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-11-07T19:05:55.000Z'
 tags: []
 ---

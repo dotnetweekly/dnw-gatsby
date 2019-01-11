@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2e20
-title: The new Facebook application template and library for ASP.NET MVC
-url: http://blogs.msdn.com/b/webdev/archive/2012/12/13/the-new-facebook-application-template-and-library-for-asp.net-mvc.aspx
-category: libraries-tools
+title: 'The new Facebook application template and library for ASP.NET MVC'
+url: 'http://blogs.msdn.com/b/webdev/archive/2012/12/13/the-new-facebook-application-template-and-library-for-asp.net-mvc.aspx'
+category: 5a88e1afbd6dca0d5f0d2e20
 slug: 'the-new-facebook-application-template-and-library-for-asp-net-mvc'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2012-12-14T18:00:36.000Z'
 tags: []
 ---

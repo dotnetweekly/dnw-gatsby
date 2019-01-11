@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2cb0
-title: Simple Validation with MVVM for Windows Store apps
-url: http://csharperimage.jeremylikness.com/2013/06/simple-validation-with-mvvm-for-windows.html
-category: articles
+title: 'Simple Validation with MVVM for Windows Store apps'
+url: 'http://csharperimage.jeremylikness.com/2013/06/simple-validation-with-mvvm-for-windows.html'
+category: 5a88e1afbd6dca0d5f0d2cb0
 slug: 'simple-validation-with-mvvm-for-windows-store-apps'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-06-08T09:16:03.000Z'
 tags: []
 ---

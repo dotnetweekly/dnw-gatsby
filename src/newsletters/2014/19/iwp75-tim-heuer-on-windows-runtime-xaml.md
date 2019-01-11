@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d29f8
 title: 'IWP75: Tim Heuer on Windows Runtime XAML'
-url: http://channel9.msdn.com/Shows/Inside+Windows+Phone/IWP75-Tim-Heuer-on-Windows-Runtime-XAML
-category: videos
+url: 'http://channel9.msdn.com/Shows/Inside+Windows+Phone/IWP75-Tim-Heuer-on-Windows-Runtime-XAML'
+category: 5a88e1aebd6dca0d5f0d29f8
 slug: 'iwp75-tim-heuer-on-windows-runtime-xaml'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-05-10T09:36:27.000Z'
 tags: []
 ---

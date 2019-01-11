@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d254a
-title: Open Sourcing App Service Mobile .NET Server SDK
-url: https://azure.microsoft.com/en-gb/blog/open-sourcing-app-service-mobile-net-server-sdk/
-category: libraries-tools
+title: 'Open Sourcing App Service Mobile .NET Server SDK'
+url: 'https://azure.microsoft.com/en-gb/blog/open-sourcing-app-service-mobile-net-server-sdk/'
+category: 5a88e1adbd6dca0d5f0d254a
 slug: 'open-sourcing-app-service-mobile-net-server-sdk'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-10-23T08:54:39.000Z'
 tags: []
 ---

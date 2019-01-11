@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2f92
-title: The New Office - Developer and IT Pro Resources
-url: http://blogs.technet.com/b/serverandtools/archive/2012/07/24/the-new-office-blog-and-resource-roll.aspx
-category: libraries-tools
+title: 'The New Office - Developer and IT Pro Resources'
+url: 'http://blogs.technet.com/b/serverandtools/archive/2012/07/24/the-new-office-blog-and-resource-roll.aspx'
+category: 5a88e1afbd6dca0d5f0d2f92
 slug: 'the-new-office-developer-and-it-pro-resources'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2012-07-27T07:23:22.000Z'
 tags: []
 ---

@@ -1,12 +1,13 @@
 ---
 _id: 5a94c9d3bc881b6c26f018e1
-title: Json.NET 11.0 Release 1 - .NET Standard 2.0, JsonConverters, JSON Path and more
-url: http://james.newtonking.com/archive/2018/02/22/json-net-11-0-release-1-net-standard-2-0-jsonconverters-json-path-and-more
-category: libraries-tools
+title: 'Json.NET 11.0 Release 1 - .NET Standard 2.0, JsonConverters, JSON Path and more'
+url: 'http://james.newtonking.com/archive/2018/02/22/json-net-11-0-release-1-net-standard-2-0-jsonconverters-json-path-and-more'
+category: 5a94c9d3bc881b6c26f018e1
 slug: 'jsonnet-110-release-1-net-standard-20-jsonconverters-json-path-and-more'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2018-02-26T22:57:56.831Z'
-tags: ['.net-standard']
+tags: [.net-standard]
 ---
 
 The big new feature in Json.NET 11 Release 1 is targeted support for .NET Standard 2.0.

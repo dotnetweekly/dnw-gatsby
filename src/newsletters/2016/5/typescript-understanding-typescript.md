@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2452
-title: TypeScript - Understanding TypeScript
-url: https://msdn.microsoft.com/en-us/magazine/dn890374
-category: articles
+title: 'TypeScript - Understanding TypeScript'
+url: 'https://msdn.microsoft.com/en-us/magazine/dn890374'
+category: 5a88e1acbd6dca0d5f0d2452
 slug: 'typescript-understanding-typescript'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-01-30T09:18:42.000Z'
 tags: []
 ---

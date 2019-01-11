@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1aaa
 title: '.NET Standard Explained: How To Share Code'
-url: https://stackify.com/net-standard-explained/
-category: articles
+url: 'https://stackify.com/net-standard-explained/'
+category: 5a88e1aabd6dca0d5f0d1aaa
 slug: 'net-standard-explained-how-to-share-code'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2018-01-27T15:05:44.000Z'
 tags: []
 ---

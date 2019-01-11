@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2636
-title: Windows 10 Universal App Samples
-url: https://channel9.msdn.com/coding4fun/blog/Windows-10-Universal-App-Samples
-category: libraries-tools
+title: 'Windows 10 Universal App Samples'
+url: 'https://channel9.msdn.com/coding4fun/blog/Windows-10-Universal-App-Samples'
+category: 5a88e1adbd6dca0d5f0d2636
 slug: 'windows-10-universal-app-samples'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-07-04T15:49:57.000Z'
 tags: []
 ---

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d28d8
-title: Data Templates in XAML
-url: http://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Data-Templates-in-XAML
-category: videos
+title: 'Data Templates in XAML'
+url: 'http://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Data-Templates-in-XAML'
+category: 5a88e1aebd6dca0d5f0d28d8
 slug: 'data-templates-in-xaml'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-09-27T07:52:55.000Z'
 tags: []
 ---

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d28a0
-title: Cross-Platform Development with Visual Studio
-url: http://www.microsoftvirtualacademy.com/liveevents/cross-platform-development-with-visual-studio
-category: events-training
+title: 'Cross-Platform Development with Visual Studio'
+url: 'http://www.microsoftvirtualacademy.com/liveevents/cross-platform-development-with-visual-studio'
+category: 5a88e1aebd6dca0d5f0d28a0
 slug: 'cross-platform-development-with-visual-studio'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-10-18T06:27:48.000Z'
 tags: []
 ---

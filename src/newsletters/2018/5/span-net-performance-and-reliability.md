@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1a7a
-title: Span – .NET Performance and Reliability
-url: http://adamsitnik.com/Span/
-category: articles
+title: 'Span – .NET Performance and Reliability'
+url: 'http://adamsitnik.com/Span/'
+category: 5a88e1aabd6dca0d5f0d1a7a
 slug: 'span-net-performance-and-reliability'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2018-02-02T19:37:57.000Z'
 tags: []
 ---

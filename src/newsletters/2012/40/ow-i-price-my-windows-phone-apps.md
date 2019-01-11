@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2eb8
-title: How I price my Windows Phone apps
-url: http://blogs.msdn.com/b/msgulfcommunity/archive/2012/09/28/how-i-price-my-windows-phone-apps.aspx
-category: articles
+title: 'How I price my Windows Phone apps'
+url: 'http://blogs.msdn.com/b/msgulfcommunity/archive/2012/09/28/how-i-price-my-windows-phone-apps.aspx'
+category: 5a88e1afbd6dca0d5f0d2eb8
 slug: 'ow-i-price-my-windows-phone-apps'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2012-10-05T19:04:54.000Z'
 tags: []
 ---

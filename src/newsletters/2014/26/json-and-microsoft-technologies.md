@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d29aa
-title: JSON and Microsoft technologies
-url: http://www.codeproject.com/Articles/779303/JSON-and-Microsoft-technologies
-category: articles
+title: 'JSON and Microsoft technologies'
+url: 'http://www.codeproject.com/Articles/779303/JSON-and-Microsoft-technologies'
+category: 5a88e1aebd6dca0d5f0d29aa
 slug: 'json-and-microsoft-technologies'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-06-28T08:39:14.000Z'
 tags: []
 ---

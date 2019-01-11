@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d246e
-title: Deploying ASP.NET 5 website on IIS without using Visual Studio
-url: http://blogs.msdn.com/b/webtopics/archive/2016/01/16/deploying-asp-net-5-website-on-iis-without-using-visual-studio.aspx
-category: articles
+title: 'Deploying ASP.NET 5 website on IIS without using Visual Studio'
+url: 'http://blogs.msdn.com/b/webtopics/archive/2016/01/16/deploying-asp-net-5-website-on-iis-without-using-visual-studio.aspx'
+category: 5a88e1acbd6dca0d5f0d246e
 slug: 'deploying-asp-net-5-website-on-iis-without-using-visual-studio'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-01-16T19:23:03.000Z'
 tags: []
 ---

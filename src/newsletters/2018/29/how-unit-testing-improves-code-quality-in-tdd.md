@@ -1,12 +1,13 @@
 ---
 _id: 5b5094ff999737eefdc806ae
-title: How Unit Testing Improves Code Quality in TDD
-url: https://www.simform.com/unit-testing-tdd
-category: articles
+title: 'How Unit Testing Improves Code Quality in TDD'
+url: 'https://www.simform.com/unit-testing-tdd'
+category: 5b5094ff999737eefdc806ae
 slug: 'how-unit-testing-improves-code-quality-in-tdd'
 user_id: 5b5093a1999737b56dc806ac
+username: 'dkalpesh'
 createdOn: '2018-07-19T13:41:19.226Z'
-tags: ['c#']
+tags: [c#]
 ---
 
 "Tests are stories we tell the next generation of programmers on a project.” — Roy Osherove

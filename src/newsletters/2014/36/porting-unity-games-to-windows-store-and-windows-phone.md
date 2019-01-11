@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d28fc
-title: Porting Unity Games to Windows Store and Windows Phone
-url: http://www.microsoftvirtualacademy.com/liveevents/porting-unity-games-to-windows-store-and-windows-phone
-category: events-training
+title: 'Porting Unity Games to Windows Store and Windows Phone'
+url: 'http://www.microsoftvirtualacademy.com/liveevents/porting-unity-games-to-windows-store-and-windows-phone'
+category: 5a88e1aebd6dca0d5f0d28fc
 slug: 'porting-unity-games-to-windows-store-and-windows-phone'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-09-06T08:29:31.000Z'
 tags: []
 ---

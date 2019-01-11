@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2cba
-title: Want to quickly build and publish a Windows 8 game? Here's your chance.
-url: http://msdnevents.com/gameon/
-category: events-training
+title: 'Want to quickly build and publish a Windows 8 game? Here"s your chance.'
+url: 'http://msdnevents.com/gameon/'
+category: 5a88e1afbd6dca0d5f0d2cba
 slug: 'want-to-quickly-build-and-publish-a-windows-8-game-heres-your-chance'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-06-01T18:53:46.000Z'
 tags: []
 ---

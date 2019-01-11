@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d228c
-title: Developer Productivity in VS 2015 and VS 15
-url: https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Developer-Productivity-in-VS-2015-and-VS-15
-category: videos
+title: 'Developer Productivity in VS 2015 and VS 15'
+url: 'https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Developer-Productivity-in-VS-2015-and-VS-15'
+category: 5a88e1acbd6dca0d5f0d228c
 slug: 'developer-productivity-in-vs-2015-and-vs-15'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-07-30T09:12:37.000Z'
 tags: []
 ---

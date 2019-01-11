@@ -1,12 +1,13 @@
 ---
 _id: 5aa0b8921011460d21870d0d
 title: 'Scalable and Performant ASP.NET Core Web APIs: Client Caching'
-url: https://www.carlrippon.com/scalable-and-performant-asp-net-core-web-apis-client-caching/
-category: articles
+url: 'https://www.carlrippon.com/scalable-and-performant-asp-net-core-web-apis-client-caching/'
+category: 5aa0b8921011460d21870d0d
 slug: 'scalable-and-performant-aspnet-core-web-apis-client-caching'
 user_id: 5a9e151169f83ea1390e87cb
+username: 'dnwuBkFzB5iuz'
 createdOn: '2018-03-12T00:59:08.479Z'
-tags: ['.net','c#','visual-studio']
+tags: [.net,c#,visual-studio]
 ---
 
 

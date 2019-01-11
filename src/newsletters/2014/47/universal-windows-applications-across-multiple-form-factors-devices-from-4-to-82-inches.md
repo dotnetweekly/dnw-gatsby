@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2836
 title: 'Universal Windows Applications Across Multiple Form Factors Devices: From 4 to 82 Inches'
-url: http://blogs.msdn.com/b/mvpawardprogram/archive/2014/11/17/universal-windows-applications-across-multiple-form-factors-devices-from-4-to-82-inches.aspx
-category: articles
+url: 'http://blogs.msdn.com/b/mvpawardprogram/archive/2014/11/17/universal-windows-applications-across-multiple-form-factors-devices-from-4-to-82-inches.aspx'
+category: 5a88e1aebd6dca0d5f0d2836
 slug: 'universal-windows-applications-across-multiple-form-factors-devices-from-4-to-82-inches'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-11-22T08:55:57.000Z'
 tags: []
 ---

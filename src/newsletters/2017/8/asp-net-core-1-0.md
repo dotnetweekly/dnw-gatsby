@@ -1,12 +1,13 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d200c
-title: ASP.NET Core 1.0
-url: http://www.jomendez.com/2017/02/15/asp-net-core-1-0/
-category: articles
+title: 'ASP.NET Core 1.0'
+url: 'http://www.jomendez.com/2017/02/15/asp-net-core-1-0/'
+category: 5a88e1abbd6dca0d5f0d200c
 slug: 'asp-net-core-1-0'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2017-02-19T04:31:20.000Z'
-tags: ['asp.net-core']
+tags: [asp.net-core]
 ---
 
 What is ASP.NET Core 1.0? 

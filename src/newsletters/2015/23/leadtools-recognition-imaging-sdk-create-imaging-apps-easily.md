@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2672
 title: 'LEADTOOLS Recognition Imaging SDK: Create Imaging Apps Easily'
-url: http://www.dirkstrauss.com/programming/leadtools-recognition-imaging-sdk-create-imaging-apps-easily
-category: libraries-tools
+url: 'http://www.dirkstrauss.com/programming/leadtools-recognition-imaging-sdk-create-imaging-apps-easily'
+category: 5a88e1adbd6dca0d5f0d2672
 slug: 'leadtools-recognition-imaging-sdk-create-imaging-apps-easily'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-06-06T17:21:31.000Z'
 tags: []
 ---

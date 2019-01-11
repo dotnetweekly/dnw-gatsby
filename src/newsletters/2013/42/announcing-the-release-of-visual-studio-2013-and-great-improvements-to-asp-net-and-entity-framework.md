@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2bc4
-title: Announcing the Release of Visual Studio 2013 and Great Improvements to ASP.NET and Entity Framework
-url: http://weblogs.asp.net/scottgu/archive/2013/10/17/announcing-the-release-of-visual-studio-2013-and-great-improvements-to-asp-net-and-entity-framework.aspx
-category: articles
+title: 'Announcing the Release of Visual Studio 2013 and Great Improvements to ASP.NET and Entity Framework'
+url: 'http://weblogs.asp.net/scottgu/archive/2013/10/17/announcing-the-release-of-visual-studio-2013-and-great-improvements-to-asp-net-and-entity-framework.aspx'
+category: 5a88e1aebd6dca0d5f0d2bc4
 slug: 'announcing-the-release-of-visual-studio-2013-and-great-improvements-to-asp-net-and-entity-framework'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-10-19T07:41:09.000Z'
 tags: []
 ---

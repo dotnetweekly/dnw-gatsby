@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2cf4
-title: Background Tasks in Windows Store Apps
-url: http://visualstudiomagazine.com/articles/2013/05/01/background-tasks-in-windows-store-apps.aspx
-category: articles
+title: 'Background Tasks in Windows Store Apps'
+url: 'http://visualstudiomagazine.com/articles/2013/05/01/background-tasks-in-windows-store-apps.aspx'
+category: 5a88e1afbd6dca0d5f0d2cf4
 slug: 'background-tasks-in-windows-store-apps'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-05-03T19:43:02.000Z'
 tags: []
 ---

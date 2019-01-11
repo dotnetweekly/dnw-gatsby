@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2512
-title: A new look for repositories
-url: https://github.com/blog/2085-a-new-look-for-repositories
-category: articles
+title: 'A new look for repositories'
+url: 'https://github.com/blog/2085-a-new-look-for-repositories'
+category: 5a88e1adbd6dca0d5f0d2512
 slug: 'a-new-look-for-repositories'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-11-15T01:13:49.000Z'
 tags: []
 ---

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d28e0
 title: 'Responsive Web Design: The Downsides'
-url: https://www.simple-talk.com/dotnet/asp.net/responsive-web-design-the-downsides/
-category: articles
+url: 'https://www.simple-talk.com/dotnet/asp.net/responsive-web-design-the-downsides/'
+category: 5a88e1aebd6dca0d5f0d28e0
 slug: 'responsive-web-design-the-downsides'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-09-26T23:09:47.000Z'
 tags: []
 ---

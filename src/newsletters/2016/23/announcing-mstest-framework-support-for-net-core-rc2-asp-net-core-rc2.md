@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2316
-title: Announcing MSTest Framework support for .NET Core RC2 / ASP.NET Core RC2
-url: https://blogs.msdn.microsoft.com/visualstudioalm/2016/05/30/announcing-mstest-framework-support-for-net-core-rc2-asp-net-core-rc2/
-category: libraries-tools
+title: 'Announcing MSTest Framework support for .NET Core RC2 / ASP.NET Core RC2'
+url: 'https://blogs.msdn.microsoft.com/visualstudioalm/2016/05/30/announcing-mstest-framework-support-for-net-core-rc2-asp-net-core-rc2/'
+category: 5a88e1acbd6dca0d5f0d2316
 slug: 'announcing-mstest-framework-support-for-net-core-rc2-asp-net-core-rc2'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-06-04T07:38:53.000Z'
 tags: []
 ---

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1c9c
-title: What's New in Visual Studio 2017
-url: https://channel9.msdn.com/Events/dotnetConf/2017/T118
-category: videos
+title: 'What"s New in Visual Studio 2017'
+url: 'https://channel9.msdn.com/Events/dotnetConf/2017/T118'
+category: 5a88e1abbd6dca0d5f0d1c9c
 slug: 'whats-new-in-visual-studio-2017'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2017-10-02T06:08:13.000Z'
 tags: []
 ---

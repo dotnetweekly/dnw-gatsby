@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2efa
 title: 'GETTING STARTED: AUTHORING HTML FOR WINDOWS 8 APPS USING BLEND FOR VS 2012'
-url: http://blendinsider.com/technical/getting-started-authoring-html-for-windows-8-apps-using-blend-for-vs-2012-2012-08-30/
-category: articles
+url: 'http://blendinsider.com/technical/getting-started-authoring-html-for-windows-8-apps-using-blend-for-vs-2012-2012-08-30/'
+category: 5a88e1afbd6dca0d5f0d2efa
 slug: 'getting-started-authoring-html-for-windows-8-apps-using-blend-for-vs-2012'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2012-09-07T07:32:44.000Z'
 tags: []
 ---

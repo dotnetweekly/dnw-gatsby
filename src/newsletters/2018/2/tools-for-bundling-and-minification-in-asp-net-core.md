@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1b02
-title: Tools for bundling and minification in ASP.NET Core
-url: http://www.talkingdotnet.com/tools-for-bundling-minification-aspnet-core/
-category: articles
+title: 'Tools for bundling and minification in ASP.NET Core'
+url: 'http://www.talkingdotnet.com/tools-for-bundling-minification-aspnet-core/'
+category: 5a88e1aabd6dca0d5f0d1b02
 slug: 'tools-for-bundling-and-minification-in-asp-net-core'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2018-01-08T07:05:21.000Z'
 tags: []
 ---

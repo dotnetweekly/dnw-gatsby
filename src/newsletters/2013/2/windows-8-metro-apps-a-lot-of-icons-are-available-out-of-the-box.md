@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2dfe
-title: Windows 8 Metro apps – a lot of icons are available out of the box !
-url: http://www.jonathanantoine.com/2012/03/05/winjs-out-of-the-box-available-icons/
-category: articles
+title: 'Windows 8 Metro apps – a lot of icons are available out of the box !'
+url: 'http://www.jonathanantoine.com/2012/03/05/winjs-out-of-the-box-available-icons/'
+category: 5a88e1afbd6dca0d5f0d2dfe
 slug: 'windows-8-metro-apps-a-lot-of-icons-are-available-out-of-the-box'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-01-12T07:07:40.000Z'
 tags: []
 ---

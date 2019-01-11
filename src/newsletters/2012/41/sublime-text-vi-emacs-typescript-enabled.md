@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2ea8
 title: 'Sublime Text, Vi, Emacs: TypeScript enabled!'
-url: http://blogs.msdn.com/b/interoperability/archive/2012/10/01/sublime-text-vi-emacs-typescript-enabled.aspx
-category: articles
+url: 'http://blogs.msdn.com/b/interoperability/archive/2012/10/01/sublime-text-vi-emacs-typescript-enabled.aspx'
+category: 5a88e1afbd6dca0d5f0d2ea8
 slug: 'sublime-text-vi-emacs-typescript-enabled'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2012-10-12T18:09:28.000Z'
 tags: []
 ---

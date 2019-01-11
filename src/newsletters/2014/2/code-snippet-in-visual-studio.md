@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b0a
-title: Code Snippet in Visual Studio
-url: http://www.codeproject.com/Articles/96088/Code-Snippet-in-Visual-Studio
-category: articles
+title: 'Code Snippet in Visual Studio'
+url: 'http://www.codeproject.com/Articles/96088/Code-Snippet-in-Visual-Studio'
+category: 5a88e1aebd6dca0d5f0d2b0a
 slug: 'code-snippet-in-visual-studio'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-01-11T18:10:46.000Z'
 tags: []
 ---

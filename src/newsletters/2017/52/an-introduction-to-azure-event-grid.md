@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1b2a
-title: An Introduction to Azure Event Grid
-url: https://www.red-gate.com/simple-talk/cloud/cloud-development/introduction-azure-event-grid/
-category: articles
+title: 'An Introduction to Azure Event Grid'
+url: 'https://www.red-gate.com/simple-talk/cloud/cloud-development/introduction-azure-event-grid/'
+category: 5a88e1aabd6dca0d5f0d1b2a
 slug: 'an-introduction-to-azure-event-grid'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2017-12-29T20:29:30.000Z'
 tags: []
 ---

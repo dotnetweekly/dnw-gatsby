@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d28b2
-title: Visual Studio “14” CTP 4 and TypeScript 1.1 CTP Released
-url: http://blogs.msdn.com/b/visualstudio/archive/2014/10/06/visual-studio-14-ctp-4-and-typescript-1-1-ctp-released.aspx
-category: libraries-tools
+title: 'Visual Studio “14” CTP 4 and TypeScript 1.1 CTP Released'
+url: 'http://blogs.msdn.com/b/visualstudio/archive/2014/10/06/visual-studio-14-ctp-4-and-typescript-1-1-ctp-released.aspx'
+category: 5a88e1aebd6dca0d5f0d28b2
 slug: 'visual-studio-14-ctp-4-and-typescript-1-1-ctp-released'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-10-11T07:16:46.000Z'
 tags: []
 ---

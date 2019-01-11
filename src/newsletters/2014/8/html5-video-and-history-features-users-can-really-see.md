@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2aaa
 title: 'HTML5 Video and History: Features Users Can Really See'
-url: http://msdn.microsoft.com/en-us/magazine/dn423697.aspx
-category: libraries-tools
+url: 'http://msdn.microsoft.com/en-us/magazine/dn423697.aspx'
+category: 5a88e1aebd6dca0d5f0d2aaa
 slug: 'html5-video-and-history-features-users-can-really-see'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-02-22T09:24:22.000Z'
 tags: []
 ---

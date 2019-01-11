@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d27ee
-title: Cross-Platform Development with Xamarin & Visual Studio
-url: http://www.microsoftvirtualacademy.com/training-courses/-cross-platform-development-with-xamarin-visual-studio
-category: videos
+title: 'Cross-Platform Development with Xamarin & Visual Studio'
+url: 'http://www.microsoftvirtualacademy.com/training-courses/-cross-platform-development-with-xamarin-visual-studio'
+category: 5a88e1adbd6dca0d5f0d27ee
 slug: 'cross-platform-development-with-xamarin-visual-studio'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-12-21T01:47:48.000Z'
 tags: []
 ---

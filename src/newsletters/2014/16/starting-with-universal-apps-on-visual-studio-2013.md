@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a2e
-title: Starting with Universal Apps on Visual Studio 2013
-url: http://blogs.msdn.com/b/eob/archive/2014/04/16/starting-with-universal-apps-on-visual-studio-2013.aspx
-category: articles
+title: 'Starting with Universal Apps on Visual Studio 2013'
+url: 'http://blogs.msdn.com/b/eob/archive/2014/04/16/starting-with-universal-apps-on-visual-studio-2013.aspx'
+category: 5a88e1aebd6dca0d5f0d2a2e
 slug: 'starting-with-universal-apps-on-visual-studio-2013'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-04-19T08:39:28.000Z'
 tags: []
 ---

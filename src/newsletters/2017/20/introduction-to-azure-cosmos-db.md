@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1ee0
-title: Introduction to Azure Cosmos DB
-url: https://docs.microsoft.com/en-us/azure/cosmos-db/introduction
-category: articles
+title: 'Introduction to Azure Cosmos DB'
+url: 'https://docs.microsoft.com/en-us/azure/cosmos-db/introduction'
+category: 5a88e1abbd6dca0d5f0d1ee0
 slug: 'introduction-to-azure-cosmos-db'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2017-05-14T02:20:21.000Z'
 tags: []
 ---

@@ -40,7 +40,6 @@ class NotFoundPage extends React.Component {
   render() {
     const pathname = this.props.location.pathname
     const weekYear = weekRegex.exec(pathname)
-    console.log(weekYear, pathname)
     return (
       <Layout>
         {this.renderCategory(weekYear)}

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d277e
-title: Using Windows Azure Mobile Services in ASP.NET MVC
-url: http://www.dotnetcurry.com/showarticle.aspx?ID=1091
-category: articles
+title: 'Using Windows Azure Mobile Services in ASP.NET MVC'
+url: 'http://www.dotnetcurry.com/showarticle.aspx?ID=1091'
+category: 5a88e1adbd6dca0d5f0d277e
 slug: 'using-windows-azure-mobile-services-in-asp-net-mvc'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-02-21T09:43:54.000Z'
 tags: []
 ---

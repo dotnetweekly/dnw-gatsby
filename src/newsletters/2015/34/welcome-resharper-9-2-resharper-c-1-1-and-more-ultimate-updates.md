@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d25e2
-title: Welcome ReSharper 9.2, ReSharper C++ 1.1 and More Ultimate Updates
-url: http://blog.jetbrains.com/dotnet/2015/08/19/welcome-resharper-9-2-resharper-c-1-1-and-more-ultimate-updates/
-category: libraries-tools
+title: 'Welcome ReSharper 9.2, ReSharper C++ 1.1 and More Ultimate Updates'
+url: 'http://blog.jetbrains.com/dotnet/2015/08/19/welcome-resharper-9-2-resharper-c-1-1-and-more-ultimate-updates/'
+category: 5a88e1adbd6dca0d5f0d25e2
 slug: 'welcome-resharper-9-2-resharper-c-1-1-and-more-ultimate-updates'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-08-20T23:18:27.000Z'
 tags: []
 ---

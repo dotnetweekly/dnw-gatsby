@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d21ce
-title: Parallel Test Execution
-url: https://blogs.msdn.microsoft.com/visualstudioalm/2016/10/10/parallel-test-execution/
-category: articles
+title: 'Parallel Test Execution'
+url: 'https://blogs.msdn.microsoft.com/visualstudioalm/2016/10/10/parallel-test-execution/'
+category: 5a88e1acbd6dca0d5f0d21ce
 slug: 'parallel-test-execution'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-10-08T07:09:48.000Z'
 tags: []
 ---

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2946
-title: Web-based real-time SQL Server Performance Dashboard
-url: http://www.codeproject.com/Articles/799053/Web-based-real-time-SQL-Server-Performance-Dashboa
-category: libraries-tools
+title: 'Web-based real-time SQL Server Performance Dashboard'
+url: 'http://www.codeproject.com/Articles/799053/Web-based-real-time-SQL-Server-Performance-Dashboa'
+category: 5a88e1aebd6dca0d5f0d2946
 slug: 'web-based-real-time-sql-server-performance-dashboard'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-08-08T19:11:38.000Z'
 tags: []
 ---

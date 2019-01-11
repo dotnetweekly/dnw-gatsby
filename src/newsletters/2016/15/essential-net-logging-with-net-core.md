@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d23a0
-title: Essential .NET - Logging with .NET Core
-url: https://msdn.microsoft.com/en-us/magazine/mt694089
-category: articles
+title: 'Essential .NET - Logging with .NET Core'
+url: 'https://msdn.microsoft.com/en-us/magazine/mt694089'
+category: 5a88e1acbd6dca0d5f0d23a0
 slug: 'essential-net-logging-with-net-core'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-04-09T08:02:26.000Z'
 tags: []
 ---

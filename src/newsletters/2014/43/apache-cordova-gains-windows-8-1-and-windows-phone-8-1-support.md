@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2890
-title: Apache Cordova gains Windows 8.1 and Windows Phone 8.1 support
-url: http://msopentech.com/blog/2014/09/25/apache-cordova-gains-windows-8-1-and-windows-phone-8-1-support-2-2/
-category: libraries-tools
+title: 'Apache Cordova gains Windows 8.1 and Windows Phone 8.1 support'
+url: 'http://msopentech.com/blog/2014/09/25/apache-cordova-gains-windows-8-1-and-windows-phone-8-1-support-2-2/'
+category: 5a88e1aebd6dca0d5f0d2890
 slug: 'apache-cordova-gains-windows-8-1-and-windows-phone-8-1-support'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-10-24T17:56:57.000Z'
 tags: []
 ---

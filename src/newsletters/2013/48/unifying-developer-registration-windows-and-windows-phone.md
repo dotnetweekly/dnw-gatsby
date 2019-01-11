@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b66
 title: 'Unifying Developer Registration: Windows and Windows Phone'
-url: http://blogs.windows.com/windows_phone/b/wpdev/archive/2013/11/06/unifying-developer-registration-windows-and-windows-phone.aspx
-category: articles
+url: 'http://blogs.windows.com/windows_phone/b/wpdev/archive/2013/11/06/unifying-developer-registration-windows-and-windows-phone.aspx'
+category: 5a88e1aebd6dca0d5f0d2b66
 slug: 'unifying-developer-registration-windows-and-windows-phone'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-11-30T10:44:23.000Z'
 tags: []
 ---

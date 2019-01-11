@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2aea
-title: How to setup a rock solid VM on Windows Azure for your WordPress blogs
-url: http://omaralzabir.com/how-to-setup-a-rock-solid-vm-on-windows-azure-for-your-wordpress-blogs/
-category: articles
+title: 'How to setup a rock solid VM on Windows Azure for your WordPress blogs'
+url: 'http://omaralzabir.com/how-to-setup-a-rock-solid-vm-on-windows-azure-for-your-wordpress-blogs/'
+category: 5a88e1aebd6dca0d5f0d2aea
 slug: 'how-to-setup-a-rock-solid-vm-on-windows-azure-for-your-wordpress-blogs'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-01-31T10:35:11.000Z'
 tags: []
 ---

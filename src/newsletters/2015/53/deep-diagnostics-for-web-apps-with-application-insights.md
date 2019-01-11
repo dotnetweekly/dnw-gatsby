@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d24a0
-title: Deep Diagnostics for Web Apps with Application Insights
-url: https://channel9.msdn.com/Events/Visual-Studio/Connect-event-2015/603
-category: videos
+title: 'Deep Diagnostics for Web Apps with Application Insights'
+url: 'https://channel9.msdn.com/Events/Visual-Studio/Connect-event-2015/603'
+category: 5a88e1adbd6dca0d5f0d24a0
 slug: 'deep-diagnostics-for-web-apps-with-application-insights'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-01-02T09:21:15.000Z'
 tags: []
 ---

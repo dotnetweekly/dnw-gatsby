@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d246a
-title: Feature.js
-url: http://featurejs.com/
-category: libraries-tools
+title: 'Feature.js'
+url: 'http://featurejs.com/'
+category: 5a88e1acbd6dca0d5f0d246a
 slug: 'feature-js'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-01-22T21:17:20.000Z'
 tags: []
 ---

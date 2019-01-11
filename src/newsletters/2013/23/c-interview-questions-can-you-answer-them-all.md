@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2cb6
 title: 'C# Interview Questions: Can you answer them all?'
-url: https://www.udemy.com/blog/c-sharp-interview-questions/
-category: articles
+url: 'https://www.udemy.com/blog/c-sharp-interview-questions/'
+category: 5a88e1afbd6dca0d5f0d2cb6
 slug: 'c-interview-questions-can-you-answer-them-all'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-06-07T16:56:21.000Z'
 tags: []
 ---

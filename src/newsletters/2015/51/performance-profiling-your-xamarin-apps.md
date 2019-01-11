@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d24ba
-title: Performance Profiling Your Xamarin Apps
-url: https://visualstudiomagazine.com/articles/2015/12/01/xamarin-apps.aspx
-category: articles
+title: 'Performance Profiling Your Xamarin Apps'
+url: 'https://visualstudiomagazine.com/articles/2015/12/01/xamarin-apps.aspx'
+category: 5a88e1adbd6dca0d5f0d24ba
 slug: 'performance-profiling-your-xamarin-apps'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-12-19T09:57:12.000Z'
 tags: []
 ---

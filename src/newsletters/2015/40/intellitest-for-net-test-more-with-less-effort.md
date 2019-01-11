@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2578
-title: IntelliTest for .NET - Test More with Less (effort)
-url: http://blogs.msdn.com/b/visualstudio/archive/2015/09/30/intellitest-for-net-test-more-with-less-effort.aspx
-category: articles
+title: 'IntelliTest for .NET - Test More with Less (effort)'
+url: 'http://blogs.msdn.com/b/visualstudio/archive/2015/09/30/intellitest-for-net-test-more-with-less-effort.aspx'
+category: 5a88e1adbd6dca0d5f0d2578
 slug: 'intellitest-for-net-test-more-with-less-effort'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-10-03T07:48:10.000Z'
 tags: []
 ---

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2500
-title: Introducing ASP.NET 5 and Web Tooling
-url: https://channel9.msdn.com/Events/Visual-Studio/Connect-event-2015/100
-category: videos
+title: 'Introducing ASP.NET 5 and Web Tooling'
+url: 'https://channel9.msdn.com/Events/Visual-Studio/Connect-event-2015/100'
+category: 5a88e1adbd6dca0d5f0d2500
 slug: 'introducing-asp-net-5-and-web-tooling'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-11-21T10:37:04.000Z'
 tags: []
 ---

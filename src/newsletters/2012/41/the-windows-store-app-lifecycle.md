@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2ea4
-title: The Windows Store App Lifecycle
-url: http://msdn.microsoft.com/el-gr/magazine/jj660301(en-us).aspx
-category: articles
+title: 'The Windows Store App Lifecycle'
+url: 'http://msdn.microsoft.com/el-gr/magazine/jj660301(en-us).aspx'
+category: 5a88e1afbd6dca0d5f0d2ea4
 slug: 'the-windows-store-app-lifecycle'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2012-10-12T19:21:47.000Z'
 tags: []
 ---

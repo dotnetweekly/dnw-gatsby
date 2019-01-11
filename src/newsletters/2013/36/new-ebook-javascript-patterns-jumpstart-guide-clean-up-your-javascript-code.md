@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2c1c
 title: 'New eBook: JavaScript Patterns JumpStart Guide - Clean up your JavaScript Code'
-url: http://weblogs.asp.net/dwahlin/archive/2013/09/01/new-ebook-javascript-patterns-jumpstart-guide-clean-up-your-javascript-code.aspx
-category: books
+url: 'http://weblogs.asp.net/dwahlin/archive/2013/09/01/new-ebook-javascript-patterns-jumpstart-guide-clean-up-your-javascript-code.aspx'
+category: 5a88e1aebd6dca0d5f0d2c1c
 slug: 'new-ebook-javascript-patterns-jumpstart-guide-clean-up-your-javascript-code'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-09-06T20:13:33.000Z'
 tags: []
 ---

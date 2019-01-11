@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1f1a
-title: Learning JavaScript Design Patterns
-url: https://addyosmani.com/resources/essentialjsdesignpatterns/book/
-category: books
+title: 'Learning JavaScript Design Patterns'
+url: 'https://addyosmani.com/resources/essentialjsdesignpatterns/book/'
+category: 5a88e1abbd6dca0d5f0d1f1a
 slug: 'learning-javascript-design-patterns-2'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2017-04-21T21:48:55.000Z'
 tags: []
 ---

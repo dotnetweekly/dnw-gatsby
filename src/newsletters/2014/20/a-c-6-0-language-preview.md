@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d29ec
-title: A C# 6.0 Language Preview
-url: http://msdn.microsoft.com/en-us/magazine/dn683793.aspx
-category: libraries-tools
+title: 'A C# 6.0 Language Preview'
+url: 'http://msdn.microsoft.com/en-us/magazine/dn683793.aspx'
+category: 5a88e1aebd6dca0d5f0d29ec
 slug: 'a-c-6-0-language-preview'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-05-17T05:55:02.000Z'
 tags: []
 ---

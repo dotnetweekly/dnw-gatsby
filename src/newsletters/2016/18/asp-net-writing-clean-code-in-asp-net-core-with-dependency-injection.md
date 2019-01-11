@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2366
-title: ASP.NET - Writing Clean Code in ASP.NET Core with Dependency Injection
-url: https://msdn.microsoft.com/en-us/magazine/mt703433
-category: articles
+title: 'ASP.NET - Writing Clean Code in ASP.NET Core with Dependency Injection'
+url: 'https://msdn.microsoft.com/en-us/magazine/mt703433'
+category: 5a88e1acbd6dca0d5f0d2366
 slug: 'asp-net-writing-clean-code-in-asp-net-core-with-dependency-injection'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-04-30T09:33:41.000Z'
 tags: []
 ---

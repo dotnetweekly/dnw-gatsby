@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d26ca
-title: An Introduction to Building Windows Apps for Windows 10 Devices
-url: https://msdn.microsoft.com/en-us/magazine/dn973012.aspx
-category: articles
+title: 'An Introduction to Building Windows Apps for Windows 10 Devices'
+url: 'https://msdn.microsoft.com/en-us/magazine/dn973012.aspx'
+category: 5a88e1adbd6dca0d5f0d26ca
 slug: 'an-introduction-to-building-windows-apps-for-windows-10-devices'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-05-02T08:36:18.000Z'
 tags: []
 ---

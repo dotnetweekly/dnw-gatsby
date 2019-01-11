@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2270
-title: Traceability with Continuous Testing
-url: https://blogs.msdn.microsoft.com/visualstudioalm/2016/08/02/traceability-with-continuous-testing/
-category: articles
+title: 'Traceability with Continuous Testing'
+url: 'https://blogs.msdn.microsoft.com/visualstudioalm/2016/08/02/traceability-with-continuous-testing/'
+category: 5a88e1acbd6dca0d5f0d2270
 slug: 'traceability-with-continuous-testing'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-08-06T04:28:56.000Z'
 tags: []
 ---

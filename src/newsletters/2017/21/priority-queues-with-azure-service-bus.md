@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1e9a
-title: Priority Queues with Azure Service Bus
-url: http://markheath.net/post/priority-queues-with-azure-service-bus
-category: articles
+title: 'Priority Queues with Azure Service Bus'
+url: 'http://markheath.net/post/priority-queues-with-azure-service-bus'
+category: 5a88e1abbd6dca0d5f0d1e9a
 slug: 'priority-queues-with-azure-service-bus'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2017-05-26T08:26:04.000Z'
 tags: []
 ---

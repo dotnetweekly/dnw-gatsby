@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2318
-title: Game Dev Show 15 - Building a Windows 10 (or Xbox) Game with Win2D, C# and XAML
-url: https://channel9.msdn.com/Shows/gamedev/15
-category: videos
+title: 'Game Dev Show 15 - Building a Windows 10 (or Xbox) Game with Win2D, C# and XAML'
+url: 'https://channel9.msdn.com/Shows/gamedev/15'
+category: 5a88e1acbd6dca0d5f0d2318
 slug: 'game-dev-show-15-building-a-windows-10-or-xbox-game-with-win2d-c-and-xaml'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-06-04T07:37:38.000Z'
 tags: []
 ---

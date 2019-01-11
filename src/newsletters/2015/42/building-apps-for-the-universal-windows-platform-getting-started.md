@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2554
-title: Building Apps for the Universal Windows Platform - Getting Started
-url: https://channel9.msdn.com/Blogs/Seth-Juarez/Building-Apps-for-the-Universal-Windows-Platform-Getting-Started
-category: videos
+title: 'Building Apps for the Universal Windows Platform - Getting Started'
+url: 'https://channel9.msdn.com/Blogs/Seth-Juarez/Building-Apps-for-the-Universal-Windows-Platform-Getting-Started'
+category: 5a88e1adbd6dca0d5f0d2554
 slug: 'building-apps-for-the-universal-windows-platform-getting-started'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-10-17T08:11:58.000Z'
 tags: []
 ---

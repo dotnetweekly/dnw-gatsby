@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d279c
-title: Visual Studio 2015 Diagnostic Tools
-url: https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Visual-Studio-2015-Diagnostic-Tools
-category: videos
+title: 'Visual Studio 2015 Diagnostic Tools'
+url: 'https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Visual-Studio-2015-Diagnostic-Tools'
+category: 5a88e1adbd6dca0d5f0d279c
 slug: 'visual-studio-2015-diagnostic-tools'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-02-07T11:13:38.000Z'
 tags: []
 ---

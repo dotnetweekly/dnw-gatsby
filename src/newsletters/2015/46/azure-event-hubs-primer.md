@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2516
-title: Azure Event Hubs Primer
-url: http://www.wintellect.com/devcenter/paulballard/azure-event-hubs-primer
-category: libraries-tools
+title: 'Azure Event Hubs Primer'
+url: 'http://www.wintellect.com/devcenter/paulballard/azure-event-hubs-primer'
+category: 5a88e1adbd6dca0d5f0d2516
 slug: 'azure-event-hubs-primer'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-11-15T01:12:50.000Z'
 tags: []
 ---

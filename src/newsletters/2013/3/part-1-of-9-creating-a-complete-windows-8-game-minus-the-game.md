@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2de6
 title: 'Part 1 of 9: Creating a Complete Windows 8 Game (minus the game)'
-url: http://blogs.msdn.com/b/lindsay/archive/2013/01/14/part-1-of-9-creating-a-complete-windows-8-game-minus-the-game.aspx
-category: articles
+url: 'http://blogs.msdn.com/b/lindsay/archive/2013/01/14/part-1-of-9-creating-a-complete-windows-8-game-minus-the-game.aspx'
+category: 5a88e1afbd6dca0d5f0d2de6
 slug: 'part-1-of-9-creating-a-complete-windows-8-game-minus-the-game'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-01-18T14:26:03.000Z'
 tags: []
 ---

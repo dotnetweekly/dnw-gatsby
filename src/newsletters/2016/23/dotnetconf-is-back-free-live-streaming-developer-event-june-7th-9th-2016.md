@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2310
-title: dotnetConf is back! Free live streaming developer event – June 7th-9th 2016
-url: https://blogs.msdn.microsoft.com/visualstudio/2016/06/06/dotnetconf-free-live-streaming-developer-event-2016/
-category: events-training
+title: 'dotnetConf is back! Free live streaming developer event – June 7th-9th 2016'
+url: 'https://blogs.msdn.microsoft.com/visualstudio/2016/06/06/dotnetconf-free-live-streaming-developer-event-2016/'
+category: 5a88e1acbd6dca0d5f0d2310
 slug: 'dotnetconf-is-back-free-live-streaming-developer-event-june-7th-9th-2016'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-06-04T20:24:24.000Z'
 tags: []
 ---

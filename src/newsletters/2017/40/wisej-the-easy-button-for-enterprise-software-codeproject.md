@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1c8a
 title: 'Wisej: The Easy Button for Enterprise Software - CodeProject'
-url: https://www.codeproject.com/Articles/1208339/Wisej-The-Easy-Button-for-Enterprise-Software
-category: articles
+url: 'https://www.codeproject.com/Articles/1208339/Wisej-The-Easy-Button-for-Enterprise-Software'
+category: 5a88e1abbd6dca0d5f0d1c8a
 slug: 'wisej-the-easy-button-for-enterprise-software-codeproject'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2017-10-06T12:31:09.000Z'
 tags: []
 ---

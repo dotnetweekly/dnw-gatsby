@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2464
-title: Handling Lists of Selectable Items in ASP.NET MVC
-url: https://visualstudiomagazine.com/articles/2016/01/01/handling-lists-of-selectable-items.aspx
-category: articles
+title: 'Handling Lists of Selectable Items in ASP.NET MVC'
+url: 'https://visualstudiomagazine.com/articles/2016/01/01/handling-lists-of-selectable-items.aspx'
+category: 5a88e1acbd6dca0d5f0d2464
 slug: 'handling-lists-of-selectable-items-in-asp-net-mvc'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-01-23T10:04:44.000Z'
 tags: []
 ---

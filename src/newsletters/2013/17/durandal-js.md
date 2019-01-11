@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2cfa
-title: Durandal.js
-url: http://durandaljs.com/
-category: libraries-tools
+title: 'Durandal.js'
+url: 'http://durandaljs.com/'
+category: 5a88e1afbd6dca0d5f0d2cfa
 slug: 'durandal-js'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-04-26T18:39:24.000Z'
 tags: []
 ---

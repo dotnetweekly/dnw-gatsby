@@ -35,11 +35,9 @@ class ActivatePage extends React.Component {
   formAction(recaptchaValue) {
     const self = this
     self.setState({ isLoading: true })
-    console.log(self.props.location.pathname)
     const activationCode = self.props.location.pathname
       .match(/(\/unsubscribe\/(.*?)$)/)
       .slice(2, 3)
-    console.log(activationCode)
     try {
       axios
         .post(`/user/unsubscribe?g-recaptcha-response=${recaptchaValue}`, {

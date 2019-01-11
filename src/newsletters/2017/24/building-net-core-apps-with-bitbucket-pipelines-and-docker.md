@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1e3a
-title: Building .NET Core apps with BitBucket Pipelines and Docker
-url: http://piotrgankiewicz.com/2017/06/19/building-net-core-apps-with-bitbucket-pipelines-and-docker/
-category: articles
+title: 'Building .NET Core apps with BitBucket Pipelines and Docker'
+url: 'http://piotrgankiewicz.com/2017/06/19/building-net-core-apps-with-bitbucket-pipelines-and-docker/'
+category: 5a88e1abbd6dca0d5f0d1e3a
 slug: 'building-net-core-apps-with-bitbucket-pipelines-and-docker'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2017-06-16T21:28:55.000Z'
 tags: []
 ---

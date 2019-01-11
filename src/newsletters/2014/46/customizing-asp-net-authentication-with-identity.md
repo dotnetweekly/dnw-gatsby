@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d283e
-title: Customizing ASP.NET Authentication with Identity
-url: http://www.microsoftvirtualacademy.com/liveevents/customizing-asp-net-authentication-with-identity
-category: events-training
+title: 'Customizing ASP.NET Authentication with Identity'
+url: 'http://www.microsoftvirtualacademy.com/liveevents/customizing-asp-net-authentication-with-identity'
+category: 5a88e1aebd6dca0d5f0d283e
 slug: 'customizing-asp-net-authentication-with-identity'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-11-15T10:04:30.000Z'
 tags: []
 ---

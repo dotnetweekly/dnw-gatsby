@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b36
-title: Decorate your tree with XAML
-url: http://blog.jerrynixon.com/2013/12/decorate-your-tree-with-xaml-let-me.html#more
-category: articles
+title: 'Decorate your tree with XAML'
+url: 'http://blog.jerrynixon.com/2013/12/decorate-your-tree-with-xaml-let-me.html#more'
+category: 5a88e1aebd6dca0d5f0d2b36
 slug: 'decorate-your-tree-with-xaml'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-12-21T10:30:11.000Z'
 tags: []
 ---

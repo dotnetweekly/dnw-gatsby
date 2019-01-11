@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d21e4
-title: Windows Containers – Getting started – A step by step guide, walkthrough, tutorial
-url: https://blogs.msdn.microsoft.com/allthingscontainer/2016/09/15/windows-containers-getting-started-a-step-by-step-guide/
-category: articles
+title: 'Windows Containers – Getting started – A step by step guide, walkthrough, tutorial'
+url: 'https://blogs.msdn.microsoft.com/allthingscontainer/2016/09/15/windows-containers-getting-started-a-step-by-step-guide/'
+category: 5a88e1acbd6dca0d5f0d21e4
 slug: 'windows-containers-getting-started-a-step-by-step-guide-walkthrough-tutorial'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-09-30T19:01:17.000Z'
 tags: []
 ---

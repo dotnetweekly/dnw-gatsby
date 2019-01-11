@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b38
-title: Productivity Power Tools for Visual Studio 2013
-url: http://blogs.msdn.com/b/visualstudio/archive/2013/12/19/productivity-power-tools-for-visual-studio-2013.aspx
-category: articles
+title: 'Productivity Power Tools for Visual Studio 2013'
+url: 'http://blogs.msdn.com/b/visualstudio/archive/2013/12/19/productivity-power-tools-for-visual-studio-2013.aspx'
+category: 5a88e1aebd6dca0d5f0d2b38
 slug: 'productivity-power-tools-for-visual-studio-2013'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-12-21T10:28:32.000Z'
 tags: []
 ---

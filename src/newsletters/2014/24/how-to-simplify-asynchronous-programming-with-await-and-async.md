@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d29d2
-title: How To Simplify Asynchronous Programming with Await and Async
-url: http://visualstudiomagazine.com/articles/2014/06/01/how-to-simplify-asynchronous-programming.aspx
-category: articles
+title: 'How To Simplify Asynchronous Programming with Await and Async'
+url: 'http://visualstudiomagazine.com/articles/2014/06/01/how-to-simplify-asynchronous-programming.aspx'
+category: 5a88e1aebd6dca0d5f0d29d2
 slug: 'how-to-simplify-asynchronous-programming-with-await-and-async'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-06-14T09:19:44.000Z'
 tags: []
 ---

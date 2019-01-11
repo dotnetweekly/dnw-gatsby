@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2c14
-title: Developing ASP.NET MVC4 Web Applications Jump Start
-url: http://www.microsoftvirtualacademy.com/liveevents/developing-asp-net-mvc4-web-applications-jump-start#fbid=RfHc7HWJo2b
-category: events-training
+title: 'Developing ASP.NET MVC4 Web Applications Jump Start'
+url: 'http://www.microsoftvirtualacademy.com/liveevents/developing-asp-net-mvc4-web-applications-jump-start#fbid=RfHc7HWJo2b'
+category: 5a88e1aebd6dca0d5f0d2c14
 slug: 'developing-asp-net-mvc4-web-applications-jump-start'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-09-07T07:58:45.000Z'
 tags: []
 ---

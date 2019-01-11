@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d20a0
-title: Connect(); Mobile Test - Scale Your Automated Mobile App Testing with Xamarin Test Cloud
-url: https://msdn.microsoft.com/magazine/mt790199
-category: articles
+title: 'Connect(); Mobile Test - Scale Your Automated Mobile App Testing with Xamarin Test Cloud'
+url: 'https://msdn.microsoft.com/magazine/mt790199'
+category: 5a88e1acbd6dca0d5f0d20a0
 slug: 'connect-mobile-test-scale-your-automated-mobile-app-testing-with-xamarin-test-cloud'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2017-01-08T02:32:27.000Z'
 tags: []
 ---

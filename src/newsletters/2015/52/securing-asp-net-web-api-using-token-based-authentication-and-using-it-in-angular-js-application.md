@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d24a6
-title: Securing ASP.NET Web API using Token Based Authentication and using it in Angular.js application
-url: http://www.dotnetcurry.com/aspnet/1223/secure-aspnet-web-api-using-tokens-owin-angularjs
-category: articles
+title: 'Securing ASP.NET Web API using Token Based Authentication and using it in Angular.js application'
+url: 'http://www.dotnetcurry.com/aspnet/1223/secure-aspnet-web-api-using-tokens-owin-angularjs'
+category: 5a88e1adbd6dca0d5f0d24a6
 slug: 'securing-asp-net-web-api-using-token-based-authentication-and-using-it-in-angular-js-application'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-12-26T11:31:20.000Z'
 tags: []
 ---

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2bf4
-title: EF Code First Mapping Between Types &amp; Tables
-url: http://romiller.com/2013/09/24/ef-code-first-mapping-between-types-tables/
-category: articles
+title: 'EF Code First Mapping Between Types &amp; Tables'
+url: 'http://romiller.com/2013/09/24/ef-code-first-mapping-between-types-tables/'
+category: 5a88e1aebd6dca0d5f0d2bf4
 slug: 'ef-code-first-mapping-between-types-tables'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-09-28T08:03:13.000Z'
 tags: []
 ---

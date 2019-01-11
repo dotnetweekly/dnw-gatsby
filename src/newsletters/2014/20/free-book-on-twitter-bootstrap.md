@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d29ee
-title: Free book on Twitter Bootstrap
-url: http://www.syncfusion.com/resources/techportal/ebooks/twitterbootstrap
-category: books
+title: 'Free book on Twitter Bootstrap'
+url: 'http://www.syncfusion.com/resources/techportal/ebooks/twitterbootstrap'
+category: 5a88e1aebd6dca0d5f0d29ee
 slug: 'free-book-on-twitter-bootstrap'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-05-17T01:22:30.000Z'
 tags: []
 ---

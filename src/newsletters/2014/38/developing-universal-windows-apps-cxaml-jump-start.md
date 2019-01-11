@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d28e2
-title: Developing Universal Windows Apps (C#/XAML) Jump Start
-url: http://www.microsoftvirtualacademy.com/liveevents/developing-universal-windows-apps-c-xaml-jump-start
-category: events-training
+title: 'Developing Universal Windows Apps (C#/XAML) Jump Start'
+url: 'http://www.microsoftvirtualacademy.com/liveevents/developing-universal-windows-apps-c-xaml-jump-start'
+category: 5a88e1aebd6dca0d5f0d28e2
 slug: 'developing-universal-windows-apps-cxaml-jump-start'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-09-20T08:39:18.000Z'
 tags: []
 ---

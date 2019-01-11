@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d217e
-title: Serverless Computing and Workflows with Azure Functions and Microsoft Flow
-url: http://dontcodetired.com/blog/post/Serverless-Computing-and-Workflows-with-Azure-Functions-and-Microsoft-Flow
-category: libraries-tools
+title: 'Serverless Computing and Workflows with Azure Functions and Microsoft Flow'
+url: 'http://dontcodetired.com/blog/post/Serverless-Computing-and-Workflows-with-Azure-Functions-and-Microsoft-Flow'
+category: 5a88e1acbd6dca0d5f0d217e
 slug: 'serverless-computing-and-workflows-with-azure-functions-and-microsoft-flow'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-11-06T02:31:38.000Z'
 tags: []
 ---

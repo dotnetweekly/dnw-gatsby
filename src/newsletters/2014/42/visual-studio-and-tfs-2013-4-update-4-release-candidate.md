@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d289c
-title: Visual Studio and TFS 2013.4 (Update 4) Release Candidate
-url: http://blogs.msdn.com/b/bharry/archive/2014/10/16/visual-studio-and-tfs-2013-4-update-4-release-candidate.aspx
-category: libraries-tools
+title: 'Visual Studio and TFS 2013.4 (Update 4) Release Candidate'
+url: 'http://blogs.msdn.com/b/bharry/archive/2014/10/16/visual-studio-and-tfs-2013-4-update-4-release-candidate.aspx'
+category: 5a88e1aebd6dca0d5f0d289c
 slug: 'visual-studio-and-tfs-2013-4-update-4-release-candidate'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-10-18T18:49:42.000Z'
 tags: []
 ---

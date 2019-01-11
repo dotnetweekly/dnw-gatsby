@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d252c
-title: Free Akka.NET Cheat Sheet
-url: http://dontcodetired.com/blog/post/Free-AkkaNET-Cheat-Sheet.aspx
-category: articles
+title: 'Free Akka.NET Cheat Sheet'
+url: 'http://dontcodetired.com/blog/post/Free-AkkaNET-Cheat-Sheet.aspx'
+category: 5a88e1adbd6dca0d5f0d252c
 slug: 'free-akka-net-cheat-sheet'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-11-01T00:12:14.000Z'
 tags: []
 ---

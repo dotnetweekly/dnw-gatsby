@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d28f0
-title: Lighting Up Real-Time Web Communications with SignalR
-url: http://www.microsoftvirtualacademy.com/liveevents/lighting-up-real-time-web-communications-with-signalr
-category: events-training
+title: 'Lighting Up Real-Time Web Communications with SignalR'
+url: 'http://www.microsoftvirtualacademy.com/liveevents/lighting-up-real-time-web-communications-with-signalr'
+category: 5a88e1aebd6dca0d5f0d28f0
 slug: 'lighting-up-real-time-web-communications-with-signalr'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-09-13T07:58:44.000Z'
 tags: []
 ---

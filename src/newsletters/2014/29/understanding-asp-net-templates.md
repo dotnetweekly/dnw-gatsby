@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2976
-title: Understanding ASP.NET Templates
-url: http://www.codeproject.com/Articles/775111/Understanding-ASP-NET-Templates
-category: articles
+title: 'Understanding ASP.NET Templates'
+url: 'http://www.codeproject.com/Articles/775111/Understanding-ASP-NET-Templates'
+category: 5a88e1aebd6dca0d5f0d2976
 slug: 'understanding-asp-net-templates'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-07-19T08:37:22.000Z'
 tags: []
 ---

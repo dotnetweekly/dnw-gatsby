@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d26da
-title: What is MVP V-Conf?
-url: http://mvp.microsoft.com/en-us/virtualconference.aspx
-category: events-training
+title: 'What is MVP V-Conf?'
+url: 'http://mvp.microsoft.com/en-us/virtualconference.aspx'
+category: 5a88e1adbd6dca0d5f0d26da
 slug: 'what-is-mvp-v-conf'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-04-25T14:30:46.000Z'
 tags: []
 ---

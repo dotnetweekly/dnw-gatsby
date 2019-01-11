@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b34
-title: How to customize the generated files from the New Scaffolded Item dialog
-url: http://blogs.msdn.com/b/webdev/archive/2013/12/26/how-to-customize-the-generated-files-from-the-new-scaffolded-item-dialog.aspx
-category: articles
+title: 'How to customize the generated files from the New Scaffolded Item dialog'
+url: 'http://blogs.msdn.com/b/webdev/archive/2013/12/26/how-to-customize-the-generated-files-from-the-new-scaffolded-item-dialog.aspx'
+category: 5a88e1aebd6dca0d5f0d2b34
 slug: 'how-to-customize-the-generated-files-from-the-new-scaffolded-item-dialog'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-01-03T10:07:20.000Z'
 tags: []
 ---

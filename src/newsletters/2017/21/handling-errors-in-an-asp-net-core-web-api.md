@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1ea0
-title: Handling errors in an ASP.NET Core Web API
-url: https://www.devtrends.co.uk/blog/handling-errors-in-asp.net-core-web-api
-category: articles
+title: 'Handling errors in an ASP.NET Core Web API'
+url: 'https://www.devtrends.co.uk/blog/handling-errors-in-asp.net-core-web-api'
+category: 5a88e1abbd6dca0d5f0d1ea0
 slug: 'handling-errors-in-an-asp-net-core-web-api'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2017-05-26T08:16:26.000Z'
 tags: []
 ---

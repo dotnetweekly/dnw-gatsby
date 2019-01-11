@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2686
-title: Testing in Continuous Integration and Continuous Deployment Workflows
-url: http://blogs.msdn.com/b/visualstudioalm/archive/2015/05/29/testing-in-continuous-integration-and-continuous-deployment-workflows.aspx
-category: articles
+title: 'Testing in Continuous Integration and Continuous Deployment Workflows'
+url: 'http://blogs.msdn.com/b/visualstudioalm/archive/2015/05/29/testing-in-continuous-integration-and-continuous-deployment-workflows.aspx'
+category: 5a88e1adbd6dca0d5f0d2686
 slug: 'testing-in-continuous-integration-and-continuous-deployment-workflows'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-05-30T09:05:55.000Z'
 tags: []
 ---

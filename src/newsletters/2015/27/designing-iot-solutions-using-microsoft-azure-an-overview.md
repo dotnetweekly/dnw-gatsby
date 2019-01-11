@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2650
 title: 'Designing IOT Solutions using Microsoft Azure: An Overview'
-url: https://channel9.msdn.com/blogs/Microsft-Services-Showcase/Designing-IOT-Solutions-using-Microsoft-Azure-An-Overview
-category: videos
+url: 'https://channel9.msdn.com/blogs/Microsft-Services-Showcase/Designing-IOT-Solutions-using-Microsoft-Azure-An-Overview'
+category: 5a88e1adbd6dca0d5f0d2650
 slug: 'designing-iot-solutions-using-microsoft-azure-an-overview'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-07-03T04:47:54.000Z'
 tags: []
 ---

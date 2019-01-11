@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d20b0
-title: Exercise your greatest power as a developer
-url: https://azure.microsoft.com/en-us/blog/exercise-your-greatest-power-as-a-developer/
-category: articles
+title: 'Exercise your greatest power as a developer'
+url: 'https://azure.microsoft.com/en-us/blog/exercise-your-greatest-power-as-a-developer/'
+category: 5a88e1acbd6dca0d5f0d20b0
 slug: 'exercise-your-greatest-power-as-a-developer'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2017-01-04T22:11:40.000Z'
 tags: []
 ---

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a96
-title: A .NET Developer Primer for Single-Page Applications
-url: http://msdn.microsoft.com/en-us/magazine/dn605877.aspx
-category: articles
+title: 'A .NET Developer Primer for Single-Page Applications'
+url: 'http://msdn.microsoft.com/en-us/magazine/dn605877.aspx'
+category: 5a88e1aebd6dca0d5f0d2a96
 slug: 'a-net-developer-primer-for-single-page-applications'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-03-01T10:33:05.000Z'
 tags: []
 ---

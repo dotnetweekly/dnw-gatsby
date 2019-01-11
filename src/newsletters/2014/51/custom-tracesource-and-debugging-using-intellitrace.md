@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d27fe
-title: Custom TraceSource and debugging using IntelliTrace
-url: http://blogs.msdn.com/b/visualstudioalm/archive/2014/12/17/custom-tracesource-and-debugging-using-intellitrace.aspx
-category: articles
+title: 'Custom TraceSource and debugging using IntelliTrace'
+url: 'http://blogs.msdn.com/b/visualstudioalm/archive/2014/12/17/custom-tracesource-and-debugging-using-intellitrace.aspx'
+category: 5a88e1adbd6dca0d5f0d27fe
 slug: 'custom-tracesource-and-debugging-using-intellitrace'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-12-20T07:37:40.000Z'
 tags: []
 ---

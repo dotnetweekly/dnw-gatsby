@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1b04
-title: SQL Keys in Depth
-url: https://begriffs.com/posts/2018-01-01-sql-keys-in-depth.html
-category: articles
+title: 'SQL Keys in Depth'
+url: 'https://begriffs.com/posts/2018-01-01-sql-keys-in-depth.html'
+category: 5a88e1aabd6dca0d5f0d1b04
 slug: 'sql-keys-in-depth'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2018-01-08T04:50:08.000Z'
 tags: []
 ---

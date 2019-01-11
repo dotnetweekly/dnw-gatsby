@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d288e
-title: Writing Cleaner Code with Reactive Extensions
-url: http://visualstudiomagazine.com/articles/2014/10/01/writing-cleaner-code-with-reactive-extensions.aspx
-category: articles
+title: 'Writing Cleaner Code with Reactive Extensions'
+url: 'http://visualstudiomagazine.com/articles/2014/10/01/writing-cleaner-code-with-reactive-extensions.aspx'
+category: 5a88e1aebd6dca0d5f0d288e
 slug: 'writing-cleaner-code-with-reactive-extensions'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-10-25T10:20:45.000Z'
 tags: []
 ---

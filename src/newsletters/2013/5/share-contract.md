@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2dbe
-title: Share Contract
-url: http://channel9.msdn.com/Series/Introducing-Windows-8/Share-Contract
-category: videos
+title: 'Share Contract'
+url: 'http://channel9.msdn.com/Series/Introducing-Windows-8/Share-Contract'
+category: 5a88e1afbd6dca0d5f0d2dbe
 slug: 'share-contract'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-02-02T17:17:57.000Z'
 tags: []
 ---

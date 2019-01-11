@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d21b2
-title: Improved overall Visual Studio “15” Responsiveness
-url: https://blogs.msdn.microsoft.com/visualstudio/2016/10/14/improved-overall-visual-studio-15-responsiveness/
-category: articles
+title: 'Improved overall Visual Studio “15” Responsiveness'
+url: 'https://blogs.msdn.microsoft.com/visualstudio/2016/10/14/improved-overall-visual-studio-15-responsiveness/'
+category: 5a88e1acbd6dca0d5f0d21b2
 slug: 'improved-overall-visual-studio-15-responsiveness'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-10-22T07:56:37.000Z'
 tags: []
 ---

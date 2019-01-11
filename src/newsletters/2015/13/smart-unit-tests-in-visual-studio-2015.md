@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2722
-title: Smart Unit Tests in Visual Studio 2015
-url: http://www.dotnetcurry.com/showarticle.aspx?ID=1106
-category: articles
+title: 'Smart Unit Tests in Visual Studio 2015'
+url: 'http://www.dotnetcurry.com/showarticle.aspx?ID=1106'
+category: 5a88e1adbd6dca0d5f0d2722
 slug: 'smart-unit-tests-in-visual-studio-2015'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-03-28T08:17:34.000Z'
 tags: []
 ---

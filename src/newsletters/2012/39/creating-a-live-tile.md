@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2ec4
-title: Creating A Live Tile
-url: http://jesseliberty.com/2012/09/24/creating-a-live-tile/
-category: articles
+title: 'Creating A Live Tile'
+url: 'http://jesseliberty.com/2012/09/24/creating-a-live-tile/'
+category: 5a88e1afbd6dca0d5f0d2ec4
 slug: 'creating-a-live-tile'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2012-09-28T18:58:55.000Z'
 tags: []
 ---

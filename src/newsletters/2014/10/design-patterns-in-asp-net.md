@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a86
-title: Design Patterns in ASP.NET
-url: http://www.codeproject.com/Articles/738043/Design-Patterns-in-ASP-NET
-category: articles
+title: 'Design Patterns in ASP.NET'
+url: 'http://www.codeproject.com/Articles/738043/Design-Patterns-in-ASP-NET'
+category: 5a88e1aebd6dca0d5f0d2a86
 slug: 'design-patterns-in-asp-net'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-03-08T09:51:06.000Z'
 tags: []
 ---

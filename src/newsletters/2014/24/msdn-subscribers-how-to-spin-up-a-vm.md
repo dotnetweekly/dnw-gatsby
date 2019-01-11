@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d29c2
-title: MSDN Subscribers How to Spin up a VM
-url: https://www.youtube.com/watch?v=JXniKkMngP8
-category: libraries-tools
+title: 'MSDN Subscribers How to Spin up a VM'
+url: 'https://www.youtube.com/watch?v=JXniKkMngP8'
+category: 5a88e1aebd6dca0d5f0d29c2
 slug: 'msdn-subscribers-how-to-spin-up-a-vm'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-06-14T15:55:01.000Z'
 tags: []
 ---

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2c0c
-title: Delivering push notifications to millions of devices with Windows Azure Notification Hubs
-url: http://blogs.windows.com/windows/b/appbuilder/archive/2013/09/16/delivering-push-notifications-to-millions-of-devices-with-windows-azure-notification-hubs.aspx
-category: articles
+title: 'Delivering push notifications to millions of devices with Windows Azure Notification Hubs'
+url: 'http://blogs.windows.com/windows/b/appbuilder/archive/2013/09/16/delivering-push-notifications-to-millions-of-devices-with-windows-azure-notification-hubs.aspx'
+category: 5a88e1aebd6dca0d5f0d2c0c
 slug: 'delivering-push-notifications-to-millions-of-devices-with-windows-azure-notification-hubs'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-09-14T07:30:39.000Z'
 tags: []
 ---

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d2c
-title: Building an application using design patterns and principals in C#
-url: http://www.codeproject.com/Articles/572738/Building-an-application-using-design-patterns-and
-category: articles
+title: 'Building an application using design patterns and principals in C#'
+url: 'http://www.codeproject.com/Articles/572738/Building-an-application-using-design-patterns-and'
+category: 5a88e1afbd6dca0d5f0d2d2c
 slug: 'building-an-application-using-design-patterns-and-principals-in-c'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-04-05T18:52:12.000Z'
 tags: []
 ---

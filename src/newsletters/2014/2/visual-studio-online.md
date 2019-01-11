@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b1c
-title: Visual Studio Online
-url: http://msdn.microsoft.com/en-us/magazine/dn519923.aspx
-category: libraries-tools
+title: 'Visual Studio Online'
+url: 'http://msdn.microsoft.com/en-us/magazine/dn519923.aspx'
+category: 5a88e1aebd6dca0d5f0d2b1c
 slug: 'visual-studio-online'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-01-11T09:47:18.000Z'
 tags: []
 ---

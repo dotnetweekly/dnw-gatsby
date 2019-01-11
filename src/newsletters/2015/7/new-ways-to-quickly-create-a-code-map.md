@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d278e
-title: New ways to quickly create a Code Map
-url: http://blogs.msdn.com/b/visualstudioalm/archive/2015/02/12/new-ways-to-quickly-create-a-code-map.aspx
-category: articles
+title: 'New ways to quickly create a Code Map'
+url: 'http://blogs.msdn.com/b/visualstudioalm/archive/2015/02/12/new-ways-to-quickly-create-a-code-map.aspx'
+category: 5a88e1adbd6dca0d5f0d278e
 slug: 'new-ways-to-quickly-create-a-code-map'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-02-14T10:34:35.000Z'
 tags: []
 ---

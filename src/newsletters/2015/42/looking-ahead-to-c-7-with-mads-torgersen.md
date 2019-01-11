@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2550
-title: Looking Ahead to C# 7 with Mads Torgersen
-url: https://channel9.msdn.com/Blogs/Seth-Juarez/Looking-Ahead-to-C-7-with-Mads-Torgersen
-category: videos
+title: 'Looking Ahead to C# 7 with Mads Torgersen'
+url: 'https://channel9.msdn.com/Blogs/Seth-Juarez/Looking-Ahead-to-C-7-with-Mads-Torgersen'
+category: 5a88e1adbd6dca0d5f0d2550
 slug: 'looking-ahead-to-c-7-with-mads-torgersen'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-10-17T08:14:22.000Z'
 tags: []
 ---

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d21b6
-title: Azure Weekly
-url: https://buildazure.com/2016/10/17/azure-weekly-oct-17-2016/
-category: articles
+title: 'Azure Weekly'
+url: 'https://buildazure.com/2016/10/17/azure-weekly-oct-17-2016/'
+category: 5a88e1acbd6dca0d5f0d21b6
 slug: 'azure-weekly'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-10-19T18:50:04.000Z'
 tags: []
 ---

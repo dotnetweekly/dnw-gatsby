@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2ad4
-title: Deploying a DACPAC with Visual Studio
-url: http://msmvps.com/blogs/deborahk/archive/2014/02/05/deploying-a-dacpac-with-visual-studio.aspx
-category: articles
+title: 'Deploying a DACPAC with Visual Studio'
+url: 'http://msmvps.com/blogs/deborahk/archive/2014/02/05/deploying-a-dacpac-with-visual-studio.aspx'
+category: 5a88e1aebd6dca0d5f0d2ad4
 slug: 'deploying-a-dacpac-with-visual-studio'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-02-08T10:47:57.000Z'
 tags: []
 ---

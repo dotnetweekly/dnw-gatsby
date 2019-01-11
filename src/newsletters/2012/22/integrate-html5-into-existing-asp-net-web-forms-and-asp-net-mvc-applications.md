@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d3046
-title: Integrate HTML5 into Existing ASP.NET Web Forms and ASP.NET MVC Applications
-url: http://msdn.microsoft.com/en-us/magazine/jj129609.aspx
-category: articles
+title: 'Integrate HTML5 into Existing ASP.NET Web Forms and ASP.NET MVC Applications'
+url: 'http://msdn.microsoft.com/en-us/magazine/jj129609.aspx'
+category: 5a88e1afbd6dca0d5f0d3046
 slug: 'integrate-html5-into-existing-asp-net-web-forms-and-asp-net-mvc-applications'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2012-06-01T07:05:32.000Z'
 tags: []
 ---

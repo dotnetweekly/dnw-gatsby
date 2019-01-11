@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d42
-title: Congratulations to the New and Renewed MVPs!
-url: http://blogs.msdn.com/b/mvpawardprogram/archive/2013/04/01/congratulations-to-the-new-and-renewed-mvps.aspx
-category: articles
+title: 'Congratulations to the New and Renewed MVPs!'
+url: 'http://blogs.msdn.com/b/mvpawardprogram/archive/2013/04/01/congratulations-to-the-new-and-renewed-mvps.aspx'
+category: 5a88e1afbd6dca0d5f0d2d42
 slug: 'congratulations-to-the-new-and-renewed-mvps'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-03-30T17:40:33.000Z'
 tags: []
 ---

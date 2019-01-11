@@ -1,12 +1,13 @@
 ---
 _id: 5b62a9046b826e68d6f5993d
-title: Avoid Lazy Loading in ASP.NET
-url: https://wildermuth.com/2018/07/28/Avoid-Lazy-Loading-in-ASP-NET
-category: articles
+title: 'Avoid Lazy Loading in ASP.NET'
+url: 'https://wildermuth.com/2018/07/28/Avoid-Lazy-Loading-in-ASP-NET'
+category: 5b62a9046b826e68d6f5993d
 slug: 'avoid-lazy-loading-in-aspnet'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2018-08-02T06:47:32.374Z'
-tags: ['asp.net']
+tags: [asp.net]
 ---
 
 I know I am not going to make everyone happy with this post. I've been hoping to not have to make this post, but Entity Framework Core has finally added support for Lazy Loading, so it's time.

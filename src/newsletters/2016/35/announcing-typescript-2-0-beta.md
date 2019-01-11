@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d224c
-title: Announcing TypeScript 2.0 Beta
-url: https://blogs.msdn.microsoft.com/typescript/2016/07/11/announcing-typescript-2-0-beta/
-category: libraries-tools
+title: 'Announcing TypeScript 2.0 Beta'
+url: 'https://blogs.msdn.microsoft.com/typescript/2016/07/11/announcing-typescript-2-0-beta/'
+category: 5a88e1acbd6dca0d5f0d224c
 slug: 'announcing-typescript-2-0-beta'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-08-26T19:26:22.000Z'
 tags: []
 ---

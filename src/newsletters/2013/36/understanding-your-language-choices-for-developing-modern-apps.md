@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2c12
-title: Understanding Your Language Choices for Developing Modern Apps
-url: http://msdn.microsoft.com/en-us/magazine/dn385713.aspx
-category: articles
+title: 'Understanding Your Language Choices for Developing Modern Apps'
+url: 'http://msdn.microsoft.com/en-us/magazine/dn385713.aspx'
+category: 5a88e1aebd6dca0d5f0d2c12
 slug: 'understanding-your-language-choices-for-developing-modern-apps'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-09-07T17:10:50.000Z'
 tags: []
 ---

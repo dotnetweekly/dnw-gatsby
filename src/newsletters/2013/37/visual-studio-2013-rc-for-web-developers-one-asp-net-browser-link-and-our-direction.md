@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2c0a
-title: Visual Studio 2013 RC for Web Developers - One ASP.NET, Browser Link, and our Direction
-url: http://www.hanselman.com/blog/VisualStudio2013RCForWebDevelopersOneASPNETBrowserLinkAndOurDirection.aspx
-category: articles
+title: 'Visual Studio 2013 RC for Web Developers - One ASP.NET, Browser Link, and our Direction'
+url: 'http://www.hanselman.com/blog/VisualStudio2013RCForWebDevelopersOneASPNETBrowserLinkAndOurDirection.aspx'
+category: 5a88e1aebd6dca0d5f0d2c0a
 slug: 'visual-studio-2013-rc-for-web-developers-one-asp-net-browser-link-and-our-direction'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-09-14T07:34:10.000Z'
 tags: []
 ---

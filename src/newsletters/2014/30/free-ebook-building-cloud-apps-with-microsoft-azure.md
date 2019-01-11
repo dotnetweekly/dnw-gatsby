@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d296e
 title: 'Free ebook: Building Cloud Apps with Microsoft Azure'
-url: http://blogs.msdn.com/b/microsoft_press/archive/2014/07/23/free-ebook-building-cloud-apps-with-microsoft-azure.aspx
-category: books
+url: 'http://blogs.msdn.com/b/microsoft_press/archive/2014/07/23/free-ebook-building-cloud-apps-with-microsoft-azure.aspx'
+category: 5a88e1aebd6dca0d5f0d296e
 slug: 'free-ebook-building-cloud-apps-with-microsoft-azure'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-07-25T18:11:46.000Z'
 tags: []
 ---

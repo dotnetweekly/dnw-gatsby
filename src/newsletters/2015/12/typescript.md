@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2732
-title: TypeScript <3 Angular
-url: http://blogs.msdn.com/b/somasegar/archive/2015/03/05/typescript-lt-3-angular.aspx
-category: libraries-tools
+title: 'TypeScript <3 Angular'
+url: 'http://blogs.msdn.com/b/somasegar/archive/2015/03/05/typescript-lt-3-angular.aspx'
+category: 5a88e1adbd6dca0d5f0d2732
 slug: 'typescript'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-03-21T08:07:39.000Z'
 tags: []
 ---

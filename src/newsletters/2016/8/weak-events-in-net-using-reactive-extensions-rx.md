@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d240e
-title: Weak events in .NET using Reactive Extensions (Rx)
-url: http://www.codeproject.com/Tips/1078183/Weak-events-in-NET-using-Reactive-Extensions-Rx
-category: articles
+title: 'Weak events in .NET using Reactive Extensions (Rx)'
+url: 'http://www.codeproject.com/Tips/1078183/Weak-events-in-NET-using-Reactive-Extensions-Rx'
+category: 5a88e1acbd6dca0d5f0d240e
 slug: 'weak-events-in-net-using-reactive-extensions-rx'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-02-20T10:13:44.000Z'
 tags: []
 ---

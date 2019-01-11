@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2986
-title: Mobile device testing with Visual Studio, Team Foundation Server and Perfecto Mobile MobileCloud platform
-url: http://blogs.msdn.com/b/somasegar/archive/2014/07/07/mobile-device-testing-with-visual-studio-team-foundation-server-and-perfecto-mobile-mobilecloud-platform.aspx
-category: articles
+title: 'Mobile device testing with Visual Studio, Team Foundation Server and Perfecto Mobile MobileCloud platform'
+url: 'http://blogs.msdn.com/b/somasegar/archive/2014/07/07/mobile-device-testing-with-visual-studio-team-foundation-server-and-perfecto-mobile-mobilecloud-platform.aspx'
+category: 5a88e1aebd6dca0d5f0d2986
 slug: 'mobile-device-testing-with-visual-studio-team-foundation-server-and-perfecto-mobile-mobilecloud-pla'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-07-12T08:33:43.000Z'
 tags: []
 ---

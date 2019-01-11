@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2692
-title: Adding Microsoft Azure Search to Your Websites and Apps
-url: http://www.microsoftvirtualacademy.com/training-courses/adding-microsoft-azure-search-to-your-websites-and-apps
-category: libraries-tools
+title: 'Adding Microsoft Azure Search to Your Websites and Apps'
+url: 'http://www.microsoftvirtualacademy.com/training-courses/adding-microsoft-azure-search-to-your-websites-and-apps'
+category: 5a88e1adbd6dca0d5f0d2692
 slug: 'adding-microsoft-azure-search-to-your-websites-and-apps-2'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-05-30T08:45:11.000Z'
 tags: []
 ---

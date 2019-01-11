@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d28bc
-title: The New and Improved C# 6.0
-url: http://msdn.microsoft.com/en-us/magazine/dn802602.aspx?loc=zatfz_zTS1z&prod=zOtProdz&tech=zOtScenz&lang=zCSz&prog=zTNMz&type=zMagz&country=zUSz
-category: articles
+title: 'The New and Improved C# 6.0'
+url: 'http://msdn.microsoft.com/en-us/magazine/dn802602.aspx?loc=zatfz_zTS1z&prod=zOtProdz&tech=zOtScenz&lang=zCSz&prog=zTNMz&type=zMagz&country=zUSz'
+category: 5a88e1aebd6dca0d5f0d28bc
 slug: 'the-new-and-improved-c-6-0'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-10-10T17:57:58.000Z'
 tags: []
 ---

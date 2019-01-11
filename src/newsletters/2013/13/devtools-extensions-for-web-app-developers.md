@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d4e
-title: DevTools Extensions For Web App Developers
-url: http://addyosmani.com/blog/devtools-extensions-for-webapp-developers/
-category: libraries-tools
+title: 'DevTools Extensions For Web App Developers'
+url: 'http://addyosmani.com/blog/devtools-extensions-for-webapp-developers/'
+category: 5a88e1afbd6dca0d5f0d2d4e
 slug: 'devtools-extensions-for-web-app-developers'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-03-29T18:48:22.000Z'
 tags: []
 ---

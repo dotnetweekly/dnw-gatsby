@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2940
-title: Avoid the Bug as Task anti-pattern in TFS
-url: http://nakedalm.com/avoid-bug-task-anti-pattern-tfs/
-category: articles
+title: 'Avoid the Bug as Task anti-pattern in TFS'
+url: 'http://nakedalm.com/avoid-bug-task-anti-pattern-tfs/'
+category: 5a88e1aebd6dca0d5f0d2940
 slug: 'avoid-the-bug-as-task-anti-pattern-in-tfs'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-08-09T08:44:15.000Z'
 tags: []
 ---

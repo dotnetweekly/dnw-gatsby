@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d228a
-title: Entity Framework Core 1.1 Plans
-url: https://blogs.msdn.microsoft.com/dotnet/2016/07/29/entity-framework-core-1-1-plans/
-category: libraries-tools
+title: 'Entity Framework Core 1.1 Plans'
+url: 'https://blogs.msdn.microsoft.com/dotnet/2016/07/29/entity-framework-core-1-1-plans/'
+category: 5a88e1acbd6dca0d5f0d228a
 slug: 'entity-framework-core-1-1-plans'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-07-30T09:13:11.000Z'
 tags: []
 ---

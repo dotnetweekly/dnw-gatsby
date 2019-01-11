@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2be6
-title: How to use an HTML/JavaScript client for Windows Azure Mobile Services
-url: http://www.windowsazure.com/en-us/develop/mobile/how-to-guides/work-with-html-js-client/
-category: libraries-tools
+title: 'How to use an HTML/JavaScript client for Windows Azure Mobile Services'
+url: 'http://www.windowsazure.com/en-us/develop/mobile/how-to-guides/work-with-html-js-client/'
+category: 5a88e1aebd6dca0d5f0d2be6
 slug: 'how-to-use-an-htmljavascript-client-for-windows-azure-mobile-services'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-10-05T06:41:04.000Z'
 tags: []
 ---

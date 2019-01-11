@@ -32,7 +32,17 @@ class App extends React.Component {
               <h2 className="title is-3">
                 <Link to={`/${frontmatter.slug}`}>{frontmatter.title}</Link>
               </h2>
+              <p className="help">
+                by {frontmatter.username}, {frontmatter.createdOn}
+              </p>
               <span>{internal.content}</span>
+              <p />
+              <p className="link-tags">
+                {frontmatter.tags &&
+                  frontmatter.tags.map(tag => {
+                    return <span className="tag is-light">{tag}</span>
+                  })}
+              </p>
             </div>
           )
         })}
@@ -60,6 +70,9 @@ class App extends React.Component {
 
   render() {
     const { week, year } = this.props.pageContext
+    if (!this.props.pageContext.links.data.allMarkdownRemark) {
+      this.props.pageContext.links.data.allMarkdownRemark = { edges: [] }
+    }
     const {
       links: {
         data: {

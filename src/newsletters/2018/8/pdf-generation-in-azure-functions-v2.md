@@ -1,12 +1,13 @@
 ---
 _id: 5a8b3df33bdd6c002abd3c0b
-title: PDF Generation in Azure Functions V2
-url: https://odetocode.com/blogs/scott/archive/2018/02/14/pdf-generation-in-azure-functions-v2.aspx
-category: articles
+title: 'PDF Generation in Azure Functions V2'
+url: 'https://odetocode.com/blogs/scott/archive/2018/02/14/pdf-generation-in-azure-functions-v2.aspx'
+category: 5a8b3df33bdd6c002abd3c0b
 slug: 'pdf-generation-in-azure-functions-v2'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2018-02-19T21:05:45.755Z'
-tags: ['azure']
+tags: [azure]
 ---
 
 PDF generation.

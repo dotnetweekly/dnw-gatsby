@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2cf6
-title: IWP54 | Windows Phone Data Binding and the Magic of XAML
-url: http://channel9.msdn.com/Shows/Inside+Windows+Phone/IWP54--Windows-Phone-Data-Binding-and-the-Magic-of-XAML
-category: videos
+title: 'IWP54 | Windows Phone Data Binding and the Magic of XAML'
+url: 'http://channel9.msdn.com/Shows/Inside+Windows+Phone/IWP54--Windows-Phone-Data-Binding-and-the-Magic-of-XAML'
+category: 5a88e1afbd6dca0d5f0d2cf6
 slug: 'iwp54-windows-phone-data-binding-and-the-magic-of-xaml'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-05-03T19:32:46.000Z'
 tags: []
 ---

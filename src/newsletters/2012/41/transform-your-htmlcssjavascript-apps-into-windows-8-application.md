@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2ea0
-title: Transform Your HTML/CSS/JavaScript Apps into Windows 8 Application
-url: http://blogs.msdn.com/b/dorischen/archive/2012/10/02/transform-your-html-css-javascript-apps-into-windows-8-application.aspx
-category: articles
+title: 'Transform Your HTML/CSS/JavaScript Apps into Windows 8 Application'
+url: 'http://blogs.msdn.com/b/dorischen/archive/2012/10/02/transform-your-html-css-javascript-apps-into-windows-8-application.aspx'
+category: 5a88e1afbd6dca0d5f0d2ea0
 slug: 'transform-your-htmlcssjavascript-apps-into-windows-8-application'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2012-10-12T20:33:46.000Z'
 tags: []
 ---

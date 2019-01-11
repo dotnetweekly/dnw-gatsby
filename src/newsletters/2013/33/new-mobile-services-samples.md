@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2c4c
-title: New Mobile Services Samples
-url: http://blogs.msdn.com/b/windowsazure/archive/2013/08/13/new-mobile-services-samples.aspx
-category: articles
+title: 'New Mobile Services Samples'
+url: 'http://blogs.msdn.com/b/windowsazure/archive/2013/08/13/new-mobile-services-samples.aspx'
+category: 5a88e1aebd6dca0d5f0d2c4c
 slug: 'new-mobile-services-samples'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-08-16T19:50:06.000Z'
 tags: []
 ---

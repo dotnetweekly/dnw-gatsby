@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d7c
-title: A Web Developer’s Site Launch Checklist (Including Portable Formats)
-url: http://webdesign.tutsplus.com/articles/workflow/a-web-designers-site-launch-checklist-including-portable-formats/
-category: articles
+title: 'A Web Developer’s Site Launch Checklist (Including Portable Formats)'
+url: 'http://webdesign.tutsplus.com/articles/workflow/a-web-designers-site-launch-checklist-including-portable-formats/'
+category: 5a88e1afbd6dca0d5f0d2d7c
 slug: 'a-web-developers-site-launch-checklist-including-portable-formats'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-03-09T18:33:12.000Z'
 tags: []
 ---

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d212e
-title: Why You Should Take Another Look at C#
-url: https://realm.io/news/goto-mads-torgersen-why-take-another-look-at-c-sharp/
-category: videos
+title: 'Why You Should Take Another Look at C#'
+url: 'https://realm.io/news/goto-mads-torgersen-why-take-another-look-at-c-sharp/'
+category: 5a88e1acbd6dca0d5f0d212e
 slug: 'why-you-should-take-another-look-at-c'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-12-03T10:09:27.000Z'
 tags: []
 ---

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d28a2
-title: CodeChat 014 - Frank Krueger (Xamarin Robotics)
-url: http://channel9.msdn.com/Shows/codechat/014
-category: videos
+title: 'CodeChat 014 - Frank Krueger (Xamarin Robotics)'
+url: 'http://channel9.msdn.com/Shows/codechat/014'
+category: 5a88e1aebd6dca0d5f0d28a2
 slug: 'codechat-014-frank-krueger-xamarin-robotics'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-10-18T06:25:43.000Z'
 tags: []
 ---

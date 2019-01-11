@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2fc2
-title: Bring the Windows Phone 8 home screen to your apps
-url: http://blogs.telerik.com/blogs/posts/12-07-13/bring-the-windows-phone-8-home-screen-to-your-apps.aspx
-category: libraries-tools
+title: 'Bring the Windows Phone 8 home screen to your apps'
+url: 'http://blogs.telerik.com/blogs/posts/12-07-13/bring-the-windows-phone-8-home-screen-to-your-apps.aspx'
+category: 5a88e1afbd6dca0d5f0d2fc2
 slug: 'bring-the-windows-phone-8-home-screen-to-your-apps'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2012-07-13T07:20:26.000Z'
 tags: []
 ---

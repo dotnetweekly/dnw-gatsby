@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1cd2
-title: ASP.NET Core MVC Edition is now Core 2.0 compatible
-url: https://www.grapecity.com/en/blogs/aspnet-core-mvc-edition-is-now-core-20-compatible
-category: articles
+title: 'ASP.NET Core MVC Edition is now Core 2.0 compatible'
+url: 'https://www.grapecity.com/en/blogs/aspnet-core-mvc-edition-is-now-core-20-compatible'
+category: 5a88e1abbd6dca0d5f0d1cd2
 slug: 'asp-net-core-mvc-edition-is-now-core-2-0-compatible'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2017-09-15T08:28:48.000Z'
 tags: []
 ---

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d249c
-title: Introduction to Ember
-url: https://mva.microsoft.com/liveevents/introduction-to-ember
-category: events-training
+title: 'Introduction to Ember'
+url: 'https://mva.microsoft.com/liveevents/introduction-to-ember'
+category: 5a88e1adbd6dca0d5f0d249c
 slug: 'introduction-to-ember'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-01-02T09:24:43.000Z'
 tags: []
 ---

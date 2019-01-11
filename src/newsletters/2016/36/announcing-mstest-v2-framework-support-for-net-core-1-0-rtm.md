@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d222c
-title: Announcing MSTest V2 Framework support for .NET Core 1.0 RTM
-url: https://blogs.msdn.microsoft.com/visualstudioalm/2016/09/01/announcing-mstest-v2-framework-support-for-net-core-1-0-rtm/
-category: libraries-tools
+title: 'Announcing MSTest V2 Framework support for .NET Core 1.0 RTM'
+url: 'https://blogs.msdn.microsoft.com/visualstudioalm/2016/09/01/announcing-mstest-v2-framework-support-for-net-core-1-0-rtm/'
+category: 5a88e1acbd6dca0d5f0d222c
 slug: 'announcing-mstest-v2-framework-support-for-net-core-1-0-rtm'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-09-03T07:40:39.000Z'
 tags: []
 ---

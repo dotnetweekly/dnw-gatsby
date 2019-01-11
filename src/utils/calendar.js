@@ -97,7 +97,6 @@ const getMonthFromWeek = function(week, year) {
 
 const getCalendar = function(setWeek, setYear) {
   let dateNow = new Date(setYear, getMonthFromWeek(setWeek, setYear), 1)
-  console.log(dateNow)
   dateNow.setHours(0, 0, 0, 0)
   const dayPerMonth = monthDays
   dayPerMonth[1] = getFebruaryDays(dateNow)

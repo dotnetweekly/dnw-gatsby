@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d27d6
-title: Using Prism in Universal Windows apps
-url: http://blogs.msdn.com/b/mspfe/archive/2015/01/07/using-prism-in-universal-windows-apps.aspx
-category: articles
+title: 'Using Prism in Universal Windows apps'
+url: 'http://blogs.msdn.com/b/mspfe/archive/2015/01/07/using-prism-in-universal-windows-apps.aspx'
+category: 5a88e1adbd6dca0d5f0d27d6
 slug: 'using-prism-in-universal-windows-apps'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-01-10T11:16:04.000Z'
 tags: []
 ---

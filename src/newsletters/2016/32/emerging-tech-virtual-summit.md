@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d227c
-title: Emerging Tech Virtual Summit
-url: https://vts.inxpo.com/scripts/Server.nxp?LASCmd=AI:4;F:QS!10100&ShowKey=33380
-category: events-training
+title: 'Emerging Tech Virtual Summit'
+url: 'https://vts.inxpo.com/scripts/Server.nxp?LASCmd=AI:4;F:QS!10100&ShowKey=33380'
+category: 5a88e1acbd6dca0d5f0d227c
 slug: 'emerging-tech-virtual-summit'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-08-05T18:54:00.000Z'
 tags: []
 ---

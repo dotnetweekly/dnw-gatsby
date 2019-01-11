@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2c10
 title: 'HTML5 & CSS3 Fundamentals: Development for Absolute Beginners'
-url: http://www.microsoftvirtualacademy.com/training-courses/html5-css3-fundamentals-development-for-absolute-beginners
-category: events-training
+url: 'http://www.microsoftvirtualacademy.com/training-courses/html5-css3-fundamentals-development-for-absolute-beginners'
+category: 5a88e1aebd6dca0d5f0d2c10
 slug: 'html5-css3-fundamentals-development-for-absolute-beginners'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-09-07T17:12:14.000Z'
 tags: []
 ---

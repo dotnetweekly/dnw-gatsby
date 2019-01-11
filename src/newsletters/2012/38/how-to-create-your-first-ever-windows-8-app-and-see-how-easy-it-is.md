@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2ede
 title: 'How to: Create your first ever Windows 8 app (and see how easy it is)'
-url: http://blogs.msdn.com/b/asgoyal/archive/2012/09/11/how-to-create-your-first-ever-windows-8-app-and-see-how-easy-it-is.aspx
-category: articles
+url: 'http://blogs.msdn.com/b/asgoyal/archive/2012/09/11/how-to-create-your-first-ever-windows-8-app-and-see-how-easy-it-is.aspx'
+category: 5a88e1afbd6dca0d5f0d2ede
 slug: 'how-to-create-your-first-ever-windows-8-app-and-see-how-easy-it-is'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2012-09-21T14:05:54.000Z'
 tags: []
 ---

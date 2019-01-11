@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1c74
-title: Bringing WebVR to everyone with the Windows 10 Fall Creators Update
-url: https://blogs.windows.com/msedgedev/2017/10/10/bringing-webvr-everyone-windows-10-fall-creators-update/#aW6Vs5kRugL7FE3T.97
-category: articles
+title: 'Bringing WebVR to everyone with the Windows 10 Fall Creators Update'
+url: 'https://blogs.windows.com/msedgedev/2017/10/10/bringing-webvr-everyone-windows-10-fall-creators-update/#aW6Vs5kRugL7FE3T.97'
+category: 5a88e1aabd6dca0d5f0d1c74
 slug: 'bringing-webvr-to-everyone-with-the-windows-10-fall-creators-update'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2017-10-12T16:14:27.000Z'
 tags: []
 ---

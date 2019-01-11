@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1dd8
-title: Pattern Matching In C#
-url: https://l-paathshaala.com/2017/07/10/pattern-matching-in-c/
-category: articles
+title: 'Pattern Matching In C#'
+url: 'https://l-paathshaala.com/2017/07/10/pattern-matching-in-c/'
+category: 5a88e1abbd6dca0d5f0d1dd8
 slug: 'pattern-matching-in-c'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2017-07-16T03:16:26.000Z'
 tags: []
 ---

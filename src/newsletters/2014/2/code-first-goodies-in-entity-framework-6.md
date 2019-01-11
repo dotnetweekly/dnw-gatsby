@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b12
-title: Code First Goodies in Entity Framework 6
-url: http://msdn.microsoft.com/en-us/magazine/dn519921.aspx
-category: articles
+title: 'Code First Goodies in Entity Framework 6'
+url: 'http://msdn.microsoft.com/en-us/magazine/dn519921.aspx'
+category: 5a88e1aebd6dca0d5f0d2b12
 slug: 'code-first-goodies-in-entity-framework-6'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-01-11T09:51:58.000Z'
 tags: []
 ---

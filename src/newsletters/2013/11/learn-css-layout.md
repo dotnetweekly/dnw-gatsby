@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d6e
-title: Learn CSS Layout
-url: http://learnlayout.com
-category: articles
+title: 'Learn CSS Layout'
+url: 'http://learnlayout.com'
+category: 5a88e1afbd6dca0d5f0d2d6e
 slug: 'learn-css-layout'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-03-15T14:16:38.000Z'
 tags: []
 ---

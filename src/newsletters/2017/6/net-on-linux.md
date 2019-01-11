@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d2044
-title: .NET on Linux
-url: https://dzone.com/refcardz/net-on-linux
-category: articles
+title: '.NET on Linux'
+url: 'https://dzone.com/refcardz/net-on-linux'
+category: 5a88e1abbd6dca0d5f0d2044
 slug: 'net-on-linux'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2017-02-05T20:30:31.000Z'
 tags: []
 ---

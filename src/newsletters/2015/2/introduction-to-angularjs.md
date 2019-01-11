@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d27d0
-title: Introduction to AngularJS
-url: http://www.microsoftvirtualacademy.com/liveevents/introduction-to-angularjs
-category: events-training
+title: 'Introduction to AngularJS'
+url: 'http://www.microsoftvirtualacademy.com/liveevents/introduction-to-angularjs'
+category: 5a88e1adbd6dca0d5f0d27d0
 slug: 'introduction-to-angularjs'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-01-10T16:44:54.000Z'
 tags: []
 ---

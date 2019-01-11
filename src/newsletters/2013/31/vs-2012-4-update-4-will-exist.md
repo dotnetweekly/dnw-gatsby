@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2c5e
-title: VS 2012.4 (Update 4) will exist!
-url: http://blogs.msdn.com/b/bharry/archive/2013/07/30/vs-2012-4-update-4-will-exist.aspx
-category: libraries-tools
+title: 'VS 2012.4 (Update 4) will exist!'
+url: 'http://blogs.msdn.com/b/bharry/archive/2013/07/30/vs-2012-4-update-4-will-exist.aspx'
+category: 5a88e1aebd6dca0d5f0d2c5e
 slug: 'vs-2012-4-update-4-will-exist'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-08-03T07:23:16.000Z'
 tags: []
 ---

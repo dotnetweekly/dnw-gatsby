@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d306a
-title: 'Hello World Windows Phone Application Using PhoneGap or Cordova'
+title: '"Hello World" Windows Phone Application Using PhoneGap or Cordova'
 url: 'http://www.c-sharpcorner.com/UploadFile/dhananjaycoder/hello-world-windows-phone-application-using-phonegap-or-co/'
-category: articles
+category: 5a88e1afbd6dca0d5f0d306a
 slug: 'hello-world-windows-phone-application-using-phonegap-or-cordova'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2012-05-18T19:04:28.000Z'
 tags: []
 ---

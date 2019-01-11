@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1c6e
-title: Timerange A Timespan Alternative
-url: http://honestillusion.com/2017/10/10/timerange-a-timespan-alternative.html
-category: articles
+title: 'Timerange A Timespan Alternative'
+url: 'http://honestillusion.com/2017/10/10/timerange-a-timespan-alternative.html'
+category: 5a88e1aabd6dca0d5f0d1c6e
 slug: 'timerange-a-timespan-alternative'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2017-10-13T03:15:24.000Z'
 tags: []
 ---

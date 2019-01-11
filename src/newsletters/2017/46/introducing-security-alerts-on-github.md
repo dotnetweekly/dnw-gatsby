@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1bc0
-title: Introducing security alerts on GitHub
-url: https://github.com/blog/2470-introducing-security-alerts-on-github
-category: articles
+title: 'Introducing security alerts on GitHub'
+url: 'https://github.com/blog/2470-introducing-security-alerts-on-github'
+category: 5a88e1aabd6dca0d5f0d1bc0
 slug: 'introducing-security-alerts-on-github'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2017-11-17T06:17:26.000Z'
 tags: []
 ---

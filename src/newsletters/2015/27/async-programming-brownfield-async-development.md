@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2648
-title: Async Programming - Brownfield Async Development
-url: https://msdn.microsoft.com/en-us/magazine/mt238404.aspx
-category: articles
+title: 'Async Programming - Brownfield Async Development'
+url: 'https://msdn.microsoft.com/en-us/magazine/mt238404.aspx'
+category: 5a88e1adbd6dca0d5f0d2648
 slug: 'async-programming-brownfield-async-development'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-07-04T07:32:07.000Z'
 tags: []
 ---

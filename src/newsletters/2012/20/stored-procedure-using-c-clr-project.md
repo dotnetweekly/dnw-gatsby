@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d3070
-title: Stored Procedure Using C# CLR Project
-url: http://www.c-sharpcorner.com/UploadFile/jayendra/stored-procedure-using-C-Sharp-clr-project/
-category: articles
+title: 'Stored Procedure Using C# CLR Project'
+url: 'http://www.c-sharpcorner.com/UploadFile/jayendra/stored-procedure-using-C-Sharp-clr-project/'
+category: 5a88e1afbd6dca0d5f0d3070
 slug: 'stored-procedure-using-c-clr-project'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2012-05-18T19:01:00.000Z'
 tags: []
 ---

@@ -1,12 +1,13 @@
 ---
 _id: 5afde2b4416efa83e9328cdd
-title: Akkatecture
-url: https://akkatecture.net/
-category: libraries-tools
+title: 'Akkatecture'
+url: 'https://akkatecture.net/'
+category: 5afde2b4416efa83e9328cdd
 slug: 'akkatecture'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2018-05-17T20:14:44.422Z'
-tags: ['.net-core']
+tags: [.net-core]
 ---
 
 Akkatecture is a cqrs and event sourcing framework for dotnet core.

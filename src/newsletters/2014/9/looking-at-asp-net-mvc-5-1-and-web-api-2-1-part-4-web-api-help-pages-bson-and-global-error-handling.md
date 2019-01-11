@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a94
-title: Looking at ASP.NET MVC 5.1 and Web API 2.1 - Part 4 - Web API Help Pages, BSON, and Global Error Handling
-url: http://weblogs.asp.net/jgalloway/archive/2014/02/26/looking-at-asp-net-mvc-5-1-and-web-api-2-1-part-4-web-api-help-pages-bson-and-global-error-handling.aspx
-category: articles
+title: 'Looking at ASP.NET MVC 5.1 and Web API 2.1 - Part 4 - Web API Help Pages, BSON, and Global Error Handling'
+url: 'http://weblogs.asp.net/jgalloway/archive/2014/02/26/looking-at-asp-net-mvc-5-1-and-web-api-2-1-part-4-web-api-help-pages-bson-and-global-error-handling.aspx'
+category: 5a88e1aebd6dca0d5f0d2a94
 slug: 'looking-at-asp-net-mvc-5-1-and-web-api-2-1-part-4-web-api-help-pages-bson-and-global-error-handling'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-03-01T10:35:26.000Z'
 tags: []
 ---

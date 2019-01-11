@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d21ee
-title: Announcing TypeScript 2.0
-url: https://blogs.msdn.microsoft.com/typescript/2016/09/22/announcing-typescript-2-0/
-category: articles
+title: 'Announcing TypeScript 2.0'
+url: 'https://blogs.msdn.microsoft.com/typescript/2016/09/22/announcing-typescript-2-0/'
+category: 5a88e1acbd6dca0d5f0d21ee
 slug: 'announcing-typescript-2-0'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-09-24T02:14:35.000Z'
 tags: []
 ---

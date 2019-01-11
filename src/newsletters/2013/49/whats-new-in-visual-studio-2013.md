@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b5e
-title: What’s New in Visual Studio 2013
-url: http://www.microsoftvirtualacademy.com/liveevents/what-s-new-in-visual-studio-2013#?fbid=w5_iwLkbZhf
-category: events-training
+title: 'What’s New in Visual Studio 2013'
+url: 'http://www.microsoftvirtualacademy.com/liveevents/what-s-new-in-visual-studio-2013#?fbid=w5_iwLkbZhf'
+category: 5a88e1aebd6dca0d5f0d2b5e
 slug: 'whats-new-in-visual-studio-2013'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-12-07T08:56:33.000Z'
 tags: []
 ---

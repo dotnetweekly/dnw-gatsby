@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d290a
-title: Creating Custom HTTPClient Handlers
-url: http://visualstudiomagazine.com/articles/2014/08/01/creating-custom-httpclient-handlers.aspx
-category: articles
+title: 'Creating Custom HTTPClient Handlers'
+url: 'http://visualstudiomagazine.com/articles/2014/08/01/creating-custom-httpclient-handlers.aspx'
+category: 5a88e1aebd6dca0d5f0d290a
 slug: 'creating-custom-httpclient-handlers'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-08-30T10:11:03.000Z'
 tags: []
 ---

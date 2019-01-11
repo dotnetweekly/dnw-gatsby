@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2e70
-title: Visual Studio 2012 Team Foundation Service
-url: http://www.dotnetglobe.com/2012/11/visual-studio-2012-team-foundation.html
-category: articles
+title: 'Visual Studio 2012 Team Foundation Service'
+url: 'http://www.dotnetglobe.com/2012/11/visual-studio-2012-team-foundation.html'
+category: 5a88e1afbd6dca0d5f0d2e70
 slug: 'visual-studio-2012-team-foundation-service'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2012-11-02T16:31:06.000Z'
 tags: []
 ---

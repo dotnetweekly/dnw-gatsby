@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d29b8
-title: Python for C# Developers
-url: http://www.codemag.com/article/1407051
-category: articles
+title: 'Python for C# Developers'
+url: 'http://www.codemag.com/article/1407051'
+category: 5a88e1aebd6dca0d5f0d29b8
 slug: 'python-for-c-developers'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-06-20T18:45:59.000Z'
 tags: []
 ---

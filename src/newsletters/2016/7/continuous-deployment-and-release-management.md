@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d242c
-title: Continuous Deployment and Release Management
-url: https://channel9.msdn.com/Series/DevOps-Fundamentals/Continuous-Deployment-and-Release-Management
-category: videos
+title: 'Continuous Deployment and Release Management'
+url: 'https://channel9.msdn.com/Series/DevOps-Fundamentals/Continuous-Deployment-and-Release-Management'
+category: 5a88e1acbd6dca0d5f0d242c
 slug: 'continuous-deployment-and-release-management'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-02-13T10:04:34.000Z'
 tags: []
 ---

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2e6e
-title: WOWZAPP 2012
-url: http://www.microsoft.com/student/en-us/wowzapp/eventpage.aspx?drop=4
-category: events-training
+title: 'WOWZAPP 2012'
+url: 'http://www.microsoft.com/student/en-us/wowzapp/eventpage.aspx?drop=4'
+category: 5a88e1afbd6dca0d5f0d2e6e
 slug: 'wowzapp-2012'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2012-11-02T17:00:08.000Z'
 tags: []
 ---

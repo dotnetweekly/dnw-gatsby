@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d9c
-title: CTP4 (March) of VS/TFS 2012 Update 2 is available
-url: http://blogs.msdn.com/b/bharry/archive/2013/03/04/ctp4-march-of-vs-tfs-2012-update-2-is-available.aspx
-category: libraries-tools
+title: 'CTP4 (March) of VS/TFS 2012 Update 2 is available'
+url: 'http://blogs.msdn.com/b/bharry/archive/2013/03/04/ctp4-march-of-vs-tfs-2012-update-2-is-available.aspx'
+category: 5a88e1afbd6dca0d5f0d2d9c
 slug: 'ctp4-march-of-vstfs-2012-update-2-is-available'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-03-02T21:36:38.000Z'
 tags: []
 ---

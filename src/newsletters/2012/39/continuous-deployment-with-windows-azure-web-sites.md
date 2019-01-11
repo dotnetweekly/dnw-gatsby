@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2ec2
-title: Continuous Deployment with Windows Azure Web Sites
-url: http://blogs.msdn.com/b/silverlining/archive/2012/09/19/continuous-deployment-with-windows-azure-web-sites.aspx
-category: articles
+title: 'Continuous Deployment with Windows Azure Web Sites'
+url: 'http://blogs.msdn.com/b/silverlining/archive/2012/09/19/continuous-deployment-with-windows-azure-web-sites.aspx'
+category: 5a88e1afbd6dca0d5f0d2ec2
 slug: 'continuous-deployment-with-windows-azure-web-sites'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2012-09-28T20:27:59.000Z'
 tags: []
 ---

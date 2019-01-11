@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d255a
-title: NuGet 3 - What and Why?
-url: http://blog.nuget.org/20151008/NuGet-3-What-and-Why.html
-category: libraries-tools
+title: 'NuGet 3 - What and Why?'
+url: 'http://blog.nuget.org/20151008/NuGet-3-What-and-Why.html'
+category: 5a88e1adbd6dca0d5f0d255a
 slug: 'nuget-3-what-and-why'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-10-10T18:28:19.000Z'
 tags: []
 ---

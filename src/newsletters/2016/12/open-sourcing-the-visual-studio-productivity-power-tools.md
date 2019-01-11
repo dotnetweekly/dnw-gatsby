@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d23e0
-title: Open Sourcing the Visual Studio Productivity Power Tools
-url: https://blogs.msdn.microsoft.com/visualstudio/2016/03/17/open-sourcing-the-visual-studio-productivity-power-tools/#
-category: libraries-tools
+title: 'Open Sourcing the Visual Studio Productivity Power Tools'
+url: 'https://blogs.msdn.microsoft.com/visualstudio/2016/03/17/open-sourcing-the-visual-studio-productivity-power-tools/#'
+category: 5a88e1acbd6dca0d5f0d23e0
 slug: 'open-sourcing-the-visual-studio-productivity-power-tools'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-03-19T08:19:29.000Z'
 tags: []
 ---

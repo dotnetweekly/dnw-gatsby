@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2948
-title: Announcing new Web Features in Visual Studio 2013 Update 3 RTM
-url: http://blogs.msdn.com/b/webdev/archive/2014/08/04/announcing-new-web-features-in-visual-studio-2013-update-3-rtm.aspx
-category: articles
+title: 'Announcing new Web Features in Visual Studio 2013 Update 3 RTM'
+url: 'http://blogs.msdn.com/b/webdev/archive/2014/08/04/announcing-new-web-features-in-visual-studio-2013-update-3-rtm.aspx'
+category: 5a88e1aebd6dca0d5f0d2948
 slug: 'announcing-new-web-features-in-visual-studio-2013-update-3-rtm'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-08-02T18:41:52.000Z'
 tags: []
 ---

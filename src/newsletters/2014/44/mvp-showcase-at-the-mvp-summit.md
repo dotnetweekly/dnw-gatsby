@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d286c
-title: MVP Showcase at the MVP Summit
-url: http://blogs.msdn.com/b/mvpawardprogram/archive/2014/10/30/mvp-showcase-at-the-mvp-summit.aspx
-category: events-training
+title: 'MVP Showcase at the MVP Summit'
+url: 'http://blogs.msdn.com/b/mvpawardprogram/archive/2014/10/30/mvp-showcase-at-the-mvp-summit.aspx'
+category: 5a88e1aebd6dca0d5f0d286c
 slug: 'mvp-showcase-at-the-mvp-summit'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-11-01T16:57:40.000Z'
 tags: []
 ---

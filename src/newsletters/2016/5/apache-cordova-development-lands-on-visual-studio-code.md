@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2450
-title: Apache Cordova development lands on Visual Studio Code
-url: http://blogs.msdn.com/b/visualstudio/archive/2016/01/28/apache-cordova-development-lands-on-visual-studio-code.aspx
-category: libraries-tools
+title: 'Apache Cordova development lands on Visual Studio Code'
+url: 'http://blogs.msdn.com/b/visualstudio/archive/2016/01/28/apache-cordova-development-lands-on-visual-studio-code.aspx'
+category: 5a88e1acbd6dca0d5f0d2450
 slug: 'apache-cordova-development-lands-on-visual-studio-code'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-01-30T09:19:26.000Z'
 tags: []
 ---

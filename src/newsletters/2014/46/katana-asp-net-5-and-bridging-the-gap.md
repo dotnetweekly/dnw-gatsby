@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d283c
-title: Katana, ASP.NET 5, and bridging the gap
-url: http://blogs.msdn.com/b/webdev/archive/2014/11/14/katana-asp-net-5-and-bridging-the-gap.aspx
-category: articles
+title: 'Katana, ASP.NET 5, and bridging the gap'
+url: 'http://blogs.msdn.com/b/webdev/archive/2014/11/14/katana-asp-net-5-and-bridging-the-gap.aspx'
+category: 5a88e1aebd6dca0d5f0d283c
 slug: 'katana-asp-net-5-and-bridging-the-gap'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-11-15T18:52:53.000Z'
 tags: []
 ---

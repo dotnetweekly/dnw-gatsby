@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2c9a
-title: 5 min Crash Course on RequireJS
-url: http://www.ryankeeter.com/5-min-crash-course-on-requirejs
-category: videos
+title: '5 min Crash Course on RequireJS'
+url: 'http://www.ryankeeter.com/5-min-crash-course-on-requirejs'
+category: 5a88e1afbd6dca0d5f0d2c9a
 slug: '5-min-crash-course-on-requirejs'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-06-21T14:45:39.000Z'
 tags: []
 ---

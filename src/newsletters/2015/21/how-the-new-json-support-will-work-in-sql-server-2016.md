@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d26a0
-title: How the New JSON Support Will Work in SQL Server 2016
-url: https://visualstudiomagazine.com/blogs/data-driver/2015/05/sql-server-json-support.aspx
-category: libraries-tools
+title: 'How the New JSON Support Will Work in SQL Server 2016'
+url: 'https://visualstudiomagazine.com/blogs/data-driver/2015/05/sql-server-json-support.aspx'
+category: 5a88e1adbd6dca0d5f0d26a0
 slug: 'how-the-new-json-support-will-work-in-sql-server-2016'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-05-23T09:14:45.000Z'
 tags: []
 ---

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a84
-title: Getting started with ASP.NET Web API 2.2 for OData v4.0
-url: http://blogs.msdn.com/b/webdev/archive/2014/03/13/getting-started-with-asp-net-web-api-2-2-for-odata-v4-0.aspx
-category: articles
+title: 'Getting started with ASP.NET Web API 2.2 for OData v4.0'
+url: 'http://blogs.msdn.com/b/webdev/archive/2014/03/13/getting-started-with-asp-net-web-api-2-2-for-odata-v4-0.aspx'
+category: 5a88e1aebd6dca0d5f0d2a84
 slug: 'getting-started-with-asp-net-web-api-2-2-for-odata-v4-0'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-03-15T09:47:00.000Z'
 tags: []
 ---

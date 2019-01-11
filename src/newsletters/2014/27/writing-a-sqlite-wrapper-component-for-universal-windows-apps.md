@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2992
-title: Writing a SQLite wrapper component for universal Windows apps
-url: http://blogs.windows.com/windows/b/buildingapps/archive/2014/07/02/writing-a-sqlite-wrapper-component-for-universal-windows-apps.aspx
-category: articles
+title: 'Writing a SQLite wrapper component for universal Windows apps'
+url: 'http://blogs.windows.com/windows/b/buildingapps/archive/2014/07/02/writing-a-sqlite-wrapper-component-for-universal-windows-apps.aspx'
+category: 5a88e1aebd6dca0d5f0d2992
 slug: 'writing-a-sqlite-wrapper-component-for-universal-windows-apps'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-07-05T09:26:09.000Z'
 tags: []
 ---

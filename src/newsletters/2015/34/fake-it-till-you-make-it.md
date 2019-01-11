@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d25da
-title: FAKE It Till You Make It
-url: https://lostechies.com/chrismissal/2015/08/18/fake-it-till-you-make-it/
-category: articles
+title: 'FAKE It Till You Make It'
+url: 'https://lostechies.com/chrismissal/2015/08/18/fake-it-till-you-make-it/'
+category: 5a88e1adbd6dca0d5f0d25da
 slug: 'fake-it-till-you-make-it'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-08-20T23:31:48.000Z'
 tags: []
 ---

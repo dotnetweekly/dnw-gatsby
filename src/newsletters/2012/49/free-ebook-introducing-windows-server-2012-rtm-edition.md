@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2e2c
 title: 'Free ebook: Introducing Windows Server 2012 (RTM Edition)'
-url: http://blogs.msdn.com/b/microsoft_press/archive/2012/09/05/free-ebook-introducing-windows-server-2012-rtm-edition.aspx?loc=zatf_zTS2&prod=zWS&tech=zCL_zvirt&prog=zPress&type=zDL&media=zBK
-category: articles
+url: 'http://blogs.msdn.com/b/microsoft_press/archive/2012/09/05/free-ebook-introducing-windows-server-2012-rtm-edition.aspx?loc=zatf_zTS2&prod=zWS&tech=zCL_zvirt&prog=zPress&type=zDL&media=zBK'
+category: 5a88e1afbd6dca0d5f0d2e2c
 slug: 'free-ebook-introducing-windows-server-2012-rtm-edition'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2012-12-07T12:44:31.000Z'
 tags: []
 ---

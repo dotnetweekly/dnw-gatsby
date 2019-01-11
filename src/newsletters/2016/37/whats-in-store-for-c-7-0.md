@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d220e
-title: What's In Store for C# 7.0
-url: https://visualstudiomagazine.com/articles/2016/09/02/csharp-7-features-vs-2015-preview-4.aspx
-category: articles
+title: 'What"s In Store for C# 7.0'
+url: 'https://visualstudiomagazine.com/articles/2016/09/02/csharp-7-features-vs-2015-preview-4.aspx'
+category: 5a88e1acbd6dca0d5f0d220e
 slug: 'whats-in-store-for-c-7-0'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-09-10T08:08:45.000Z'
 tags: []
 ---

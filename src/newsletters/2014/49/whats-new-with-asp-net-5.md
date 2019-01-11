@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2818
-title: What's New with ASP.NET 5
-url: http://www.microsoftvirtualacademy.com/liveevents/what-s-new-with-asp-net-5
-category: events-training
+title: 'What"s New with ASP.NET 5'
+url: 'http://www.microsoftvirtualacademy.com/liveevents/what-s-new-with-asp-net-5'
+category: 5a88e1aebd6dca0d5f0d2818
 slug: 'whats-new-with-asp-net-5'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-12-06T09:25:59.000Z'
 tags: []
 ---

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d20
-title: KinectHealth
-url: http://www.kinecthealth.com/
-category: articles
+title: 'KinectHealth'
+url: 'http://www.kinecthealth.com/'
+category: 5a88e1afbd6dca0d5f0d2d20
 slug: 'kinecthealth'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-04-06T05:53:49.000Z'
 tags: []
 ---

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d264a
-title: Getting ready for Windows 10 – SDKs, compatibility, bridges
-url: http://blogs.windows.com/buildingapps/2015/06/22/getting-ready-for-windows-10-sdks-compatibility-bridges/
-category: articles
+title: 'Getting ready for Windows 10 – SDKs, compatibility, bridges'
+url: 'http://blogs.windows.com/buildingapps/2015/06/22/getting-ready-for-windows-10-sdks-compatibility-bridges/'
+category: 5a88e1adbd6dca0d5f0d264a
 slug: 'getting-ready-for-windows-10-sdks-compatibility-bridges'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-07-03T04:52:09.000Z'
 tags: []
 ---

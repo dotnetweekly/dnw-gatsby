@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2ff4
-title: DrawingBoard2 - A .Net GDI+ drawing component
-url: http://channel9.msdn.com/coding4fun/blog/DrawingBoard2-A-Net-GDI-drawing-component
-category: libraries-tools
+title: 'DrawingBoard2 - A .Net GDI+ drawing component'
+url: 'http://channel9.msdn.com/coding4fun/blog/DrawingBoard2-A-Net-GDI-drawing-component'
+category: 5a88e1afbd6dca0d5f0d2ff4
 slug: 'drawingboard2-a-net-gdi-drawing-component'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2012-06-22T07:37:23.000Z'
 tags: []
 ---

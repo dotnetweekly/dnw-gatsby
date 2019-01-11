@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2ef2
-title: Moving existing projects to EF5
-url: http://msdn.microsoft.com/en-us/magazine/jj618295.aspx
-category: articles
+title: 'Moving existing projects to EF5'
+url: 'http://msdn.microsoft.com/en-us/magazine/jj618295.aspx'
+category: 5a88e1afbd6dca0d5f0d2ef2
 slug: 'moving-existing-projects-to-ef5'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2012-09-07T17:43:49.000Z'
 tags: []
 ---

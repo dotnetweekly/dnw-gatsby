@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2750
-title: Collaboration Puts TypeScript Right in the Middle of AngularJS
-url: http://visualstudiomagazine.com/articles/2015/03/05/angular-typescript-collaboration.aspx
-category: articles
+title: 'Collaboration Puts TypeScript Right in the Middle of AngularJS'
+url: 'http://visualstudiomagazine.com/articles/2015/03/05/angular-typescript-collaboration.aspx'
+category: 5a88e1adbd6dca0d5f0d2750
 slug: 'collaboration-puts-typescript-right-in-the-middle-of-angularjs'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-03-07T07:03:17.000Z'
 tags: []
 ---

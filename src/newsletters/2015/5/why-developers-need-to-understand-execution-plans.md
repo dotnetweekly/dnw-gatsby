@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d27ae
-title: Why Developers Need to Understand Execution Plans
-url: https://www.simple-talk.com/sql/performance/why-developers-need-to-understand-execution-plans/
-category: articles
+title: 'Why Developers Need to Understand Execution Plans'
+url: 'https://www.simple-talk.com/sql/performance/why-developers-need-to-understand-execution-plans/'
+category: 5a88e1adbd6dca0d5f0d27ae
 slug: 'why-developers-need-to-understand-execution-plans'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-01-31T04:32:35.000Z'
 tags: []
 ---

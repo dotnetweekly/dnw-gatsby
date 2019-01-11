@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d29ae
-title: Resolving Dependencies in ASP.NET MVC 5 with StructureMap
-url: http://ardalis.com/resolving-dependencies-in-asp.net-mvc-5-with-structuremap
-category: articles
+title: 'Resolving Dependencies in ASP.NET MVC 5 with StructureMap'
+url: 'http://ardalis.com/resolving-dependencies-in-asp.net-mvc-5-with-structuremap'
+category: 5a88e1aebd6dca0d5f0d29ae
 slug: 'resolving-dependencies-in-asp-net-mvc-5-with-structuremap'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-06-28T08:34:22.000Z'
 tags: []
 ---

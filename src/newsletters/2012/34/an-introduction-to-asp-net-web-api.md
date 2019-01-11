@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2f2e
-title: An Introduction to ASP.NET Web API
-url: http://www.west-wind.com/weblog/posts/2012/Aug/21/An-Introduction-to-ASPNET-Web-API
-category: articles
+title: 'An Introduction to ASP.NET Web API'
+url: 'http://www.west-wind.com/weblog/posts/2012/Aug/21/An-Introduction-to-ASPNET-Web-API'
+category: 5a88e1afbd6dca0d5f0d2f2e
 slug: 'an-introduction-to-asp-net-web-api'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2012-08-24T07:43:52.000Z'
 tags: []
 ---

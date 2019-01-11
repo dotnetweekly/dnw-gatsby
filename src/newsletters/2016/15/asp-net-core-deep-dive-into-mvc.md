@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d239c
-title: ASP.NET Core Deep Dive into MVC
-url: https://channel9.msdn.com/Events/Build/2016/B812
-category: videos
+title: 'ASP.NET Core Deep Dive into MVC'
+url: 'https://channel9.msdn.com/Events/Build/2016/B812'
+category: 5a88e1acbd6dca0d5f0d239c
 slug: 'asp-net-core-deep-dive-into-mvc'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-04-09T08:04:18.000Z'
 tags: []
 ---

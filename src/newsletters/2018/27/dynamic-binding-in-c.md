@@ -1,12 +1,13 @@
 ---
 _id: 5b3afb4906b611105256ffe9
-title: Dynamic Binding in C#
-url: http://www.dotnetcurry.com/csharp/1447/dynamic-binding-csharp
-category: articles
+title: 'Dynamic Binding in C#'
+url: 'http://www.dotnetcurry.com/csharp/1447/dynamic-binding-csharp'
+category: 5b3afb4906b611105256ffe9
 slug: 'dynamic-binding-in-c'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2018-07-03T04:27:53.620Z'
-tags: ['c#']
+tags: [c#]
 ---
 
 Type safety is a principle in programming languages which prevents accessing the values in variables inconsistent with their declared type. There are two kinds of type safety based on when the checks are performed:

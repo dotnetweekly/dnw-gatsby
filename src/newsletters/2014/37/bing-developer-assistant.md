@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d28f2
-title: Bing Developer Assistant
-url: http://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Bing-Developer-Assistant
-category: videos
+title: 'Bing Developer Assistant'
+url: 'http://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Bing-Developer-Assistant'
+category: 5a88e1aebd6dca0d5f0d28f2
 slug: 'bing-developer-assistant'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-09-13T07:57:34.000Z'
 tags: []
 ---

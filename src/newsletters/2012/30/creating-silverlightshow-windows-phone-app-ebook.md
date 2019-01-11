@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2f96
 title: 'Creating SilverlightShow Windows Phone App: Ebook'
-url: http://www.silverlightshow.net/ebooks/silverlightshow_windows_phone.aspx
-category: books
+url: 'http://www.silverlightshow.net/ebooks/silverlightshow_windows_phone.aspx'
+category: 5a88e1afbd6dca0d5f0d2f96
 slug: 'creating-silverlightshow-windows-phone-app-ebook'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2012-07-27T07:20:43.000Z'
 tags: []
 ---

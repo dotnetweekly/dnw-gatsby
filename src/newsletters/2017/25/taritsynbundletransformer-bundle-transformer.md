@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1e34
 title: 'Taritsyn/BundleTransformer: Bundle Transformer'
-url: https://github.com/Taritsyn/BundleTransformer
-category: libraries-tools
+url: 'https://github.com/Taritsyn/BundleTransformer'
+category: 5a88e1abbd6dca0d5f0d1e34
 slug: 'taritsynbundletransformer-bundle-transformer'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2017-06-21T22:42:26.000Z'
 tags: []
 ---

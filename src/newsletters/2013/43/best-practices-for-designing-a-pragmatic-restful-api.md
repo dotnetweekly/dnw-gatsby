@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2bb4
-title: Best Practices for Designing a Pragmatic RESTful API
-url: http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
-category: articles
+title: 'Best Practices for Designing a Pragmatic RESTful API'
+url: 'http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api'
+category: 5a88e1aebd6dca0d5f0d2bb4
 slug: 'best-practices-for-designing-a-pragmatic-restful-api'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-10-25T21:57:54.000Z'
 tags: []
 ---

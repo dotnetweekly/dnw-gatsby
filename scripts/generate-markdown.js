@@ -35,22 +35,23 @@ async function createPost(week, year, link) {
     return
   }
 
-  return await new Promise((resolve, reject) => {
+  return new Promise((resolve, reject) => {
     request(`${URL_API}links/${link['slug']}`, function(error, response, body) {
       const linkJson = JSON.parse(body)
-      console.log(postTmpl)
       const postData = postTmpl
         .replace('_id: %s', `_id: ${link['_id']}`)
-        .replace("title: '%s'", `title: ${link['title'].replace(/'/g, '"')}`)
-        .replace("url: '%s'", `url: ${link['url'].replace(/'/g, '"')}`)
+        .replace("title: '%s'", `title: '${link['title'].replace(/'/g, '"')}'`)
+        .replace("url: '%s'", `url: '${link['url'].replace(/'/g, '"')}'`)
         .replace('category: %s', `category: ${link['_id']}`)
-        .replace("slug: '%s'", `slug: ${link['slug']}`)
-        .replace('user_id: %s', `user_id: ${link['user_id']}`)
-        .replace("createdOn: '%s'", `createdOn: ${link['createdOn']}`)
+        .replace("slug: '%s'", `slug: '${link['slug']}'`)
+        .replace('user_id: %s', `user_id: ${link['user']['_id']}`)
+        .replace("username: '%s'", `username: '${link['user']['username']}'`)
+        .replace("createdOn: '%s'", `createdOn: '${link['createdOn']}'`)
         .replace('tags: [%s]', `tags: [${link['tags'].join(',')}]`)
         .replace('**CONTENT**', `${linkJson.data['content']}`)
 
       fs.writeFileSync(postPath, postData)
+      resolve()
     })
   })
 }
@@ -66,7 +67,10 @@ async function generate() {
 
   let count = 0
 
-  do {
+  let lastOne = false
+  let breakIt = false
+
+  while (!breakIt) {
     if (
       !fs.existsSync(path.join(__dirname, `../src/newsletters/${currentYear}`))
     ) {
@@ -83,7 +87,8 @@ async function generate() {
     }
     if (
       !folderExists ||
-      (now.getFullYear() === currentYear && nowWeek - 1 === currentWeek)
+      (now.getFullYear() === currentYear && nowWeek - 1 === currentWeek) ||
+      (now.getFullYear() === currentYear && nowWeek === currentWeek)
     ) {
       const links = await getLinks(currentWeek, currentYear)
       for (key in links) {
@@ -97,15 +102,18 @@ async function generate() {
       currentWeek = 1
       currentYear++
     }
+    if (lastOne) {
+      breakIt = true
+    }
     if (lastYear === currentYear && lastWeek === currentWeek) {
-      break
+      lastOne = true
     }
 
     count++
-    if (count > 400) {
+    if (count > 500) {
       break
     }
-  } while (1)
+  }
   // let lastWeek = weeksInYear(firstYear);
 
   // map into these results and create nodes

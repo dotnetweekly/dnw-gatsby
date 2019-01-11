@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2388
-title: Microsoft SQL Server Developer Edition is now free
-url: https://blogs.technet.microsoft.com/dataplatforminsider/2016/03/31/microsoft-sql-server-developer-edition-is-now-free/
-category: articles
+title: 'Microsoft SQL Server Developer Edition is now free'
+url: 'https://blogs.technet.microsoft.com/dataplatforminsider/2016/03/31/microsoft-sql-server-developer-edition-is-now-free/'
+category: 5a88e1acbd6dca0d5f0d2388
 slug: 'microsoft-sql-server-developer-edition-is-now-free-2'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-04-16T21:39:13.000Z'
 tags: []
 ---

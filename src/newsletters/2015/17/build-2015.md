@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d26e2
-title: //build/ 2015
-url: http://channel9.msdn.com/coding4fun/blog/build-2015
-category: events-training
+title: '//build/ 2015'
+url: 'http://channel9.msdn.com/coding4fun/blog/build-2015'
+category: 5a88e1adbd6dca0d5f0d26e2
 slug: 'build-2015'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-04-25T14:12:07.000Z'
 tags: []
 ---

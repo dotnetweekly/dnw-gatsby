@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d21ba
-title: 9 Things You Should Know About SQL Azure Databases
-url: https://blogs.msdn.microsoft.com/mvpawardprogram/2016/10/18/9-things-you-should-know-about-sql-azure-databases/
-category: articles
+title: '9 Things You Should Know About SQL Azure Databases'
+url: 'https://blogs.msdn.microsoft.com/mvpawardprogram/2016/10/18/9-things-you-should-know-about-sql-azure-databases/'
+category: 5a88e1acbd6dca0d5f0d21ba
 slug: '9-things-you-should-know-about-sql-azure-databases'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-10-19T18:42:02.000Z'
 tags: []
 ---

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2ca0
-title: GETTING A GAME RATING CERTIFICATE FOR WINDOWS STORE AND WINDOWS PHONE
-url: http://devhammer.net/blog/getting-a-game-rating-certificate-for-windows-store-and-windows-phone
-category: articles
+title: 'GETTING A GAME RATING CERTIFICATE FOR WINDOWS STORE AND WINDOWS PHONE'
+url: 'http://devhammer.net/blog/getting-a-game-rating-certificate-for-windows-store-and-windows-phone'
+category: 5a88e1afbd6dca0d5f0d2ca0
 slug: 'getting-a-game-rating-certificate-for-windows-store-and-windows-phone'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-06-15T14:51:55.000Z'
 tags: []
 ---

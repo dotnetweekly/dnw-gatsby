@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d23b6
-title: Xamarin for Everyone
-url: https://blog.xamarin.com/xamarin-for-all/
-category: articles
+title: 'Xamarin for Everyone'
+url: 'https://blog.xamarin.com/xamarin-for-all/'
+category: 5a88e1acbd6dca0d5f0d23b6
 slug: 'xamarin-for-everyone'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-04-01T16:12:28.000Z'
 tags: []
 ---

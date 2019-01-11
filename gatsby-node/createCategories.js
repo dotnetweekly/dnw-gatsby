@@ -4,6 +4,12 @@ const axios = require('axios')
 const calendarHelp = require('../src/utils/calendar')
 const conf = require('../conf')
 
+const {
+  weeksInYear,
+  getUtcNow,
+  getWeekNumber,
+} = require('../src/utils/calendar')
+
 exports.createCategories = async function(createPage, graphql) {
   return new Promise(async (resolve, reject) => {
     try {
@@ -53,8 +59,10 @@ function createPages(week, year, graphql, createPage) {
             url
             category
             user_id
+            username
             createdOn
             slug
+            tags
           }
         }
       }
@@ -94,41 +102,46 @@ function createPages(week, year, graphql, createPage) {
 }
 
 async function generateCategories(createPage, graphql) {
-  const fetchNewsletters = () => axios.get(conf.URL.newsletter)
-  const res = await fetchNewsletters()
+  let currentWeek = 20
+  let currentYear = 2012
 
-  const now = calendarHelp.getUtcNow()
-  const currentWeek = calendarHelp.getWeek(now)
-  const currentYear = now.getFullYear()
-  let currentWeekFound = false
+  const now = getUtcNow()
+  const nowWeek = getWeekNumber(now)[1]
+  const lastWeek = getWeekNumber(now)[1]
+  const lastYear = now.getFullYear()
 
-  res.data.data.map((newsletter, i) => {
-    hasBeenFound = createPages(
-      newsletter.week,
-      newsletter.year,
-      graphql,
-      createPage
-    )
-    if (hasBeenFound) {
-      currentWeekFound = hasBeenFound
+  let count = 0
+  let lastOne = false
+  let breakIt = false
+
+  while (!breakIt) {
+    createPages(currentWeek, currentYear, graphql, createPage)
+    if (now.getFullYear() === currentYear && nowWeek === currentWeek) {
+      createPages(currentWeek, currentYear, graphql, createPage)
     }
-  })
-  const emptyLinks = {
-    data: {
-      allMarkdownRemark: { edges: [] },
-    },
+
+    const yearWeeks = weeksInYear(currentYear)
+    currentWeek++
+    if (yearWeeks < currentWeek) {
+      currentWeek = 1
+      currentYear++
+    }
+    if (lastOne) {
+      breakIt = true
+    }
+    if (lastYear === currentYear && lastWeek === currentWeek) {
+      lastOne = true
+    }
+
+    count++
+    if (count > 2500) {
+      break
+    }
   }
-  if (!currentWeekFound) {
-    createPage({
-      path: '/',
-      component: path.resolve(
-        path.join(__dirname, `../src/templates/category.js`)
-      ),
-      context: {
-        week: currentWeek,
-        year: currentYear,
-        links: emptyLinks,
-      },
-    })
-  }
+  // let lastWeek = weeksInYear(firstYear);
+
+  // map into these results and create nodes
+  // res.data.data.map((newsletter, i) => {
+
+  // })
 }

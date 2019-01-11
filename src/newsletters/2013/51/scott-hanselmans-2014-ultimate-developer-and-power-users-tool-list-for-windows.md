@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b42
-title: Scott Hanselman's 2014 Ultimate Developer and Power Users Tool List for Windows
-url: http://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsersToolListForWindows.aspx
-category: libraries-tools
+title: 'Scott Hanselman"s 2014 Ultimate Developer and Power Users Tool List for Windows'
+url: 'http://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsersToolListForWindows.aspx'
+category: 5a88e1aebd6dca0d5f0d2b42
 slug: 'scott-hanselmans-2014-ultimate-developer-and-power-users-tool-list-for-windows'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-12-20T18:41:17.000Z'
 tags: []
 ---

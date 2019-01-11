@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2910
-title: CHARTIST - SIMPLE RESPONSIVE CHARTS
-url: http://gionkunz.github.io/chartist-js/
-category: libraries-tools
+title: 'CHARTIST - SIMPLE RESPONSIVE CHARTS'
+url: 'http://gionkunz.github.io/chartist-js/'
+category: 5a88e1aebd6dca0d5f0d2910
 slug: 'chartist-simple-responsive-charts'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-08-29T17:23:30.000Z'
 tags: []
 ---

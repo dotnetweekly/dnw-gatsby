@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d24c6
-title: New C# REPL and scripting capabilities
-url: http://bretstateham.com/new-c-repl-and-scripting-capabilities/
-category: libraries-tools
+title: 'New C# REPL and scripting capabilities'
+url: 'http://bretstateham.com/new-c-repl-and-scripting-capabilities/'
+category: 5a88e1adbd6dca0d5f0d24c6
 slug: 'new-c-repl-and-scripting-capabilities'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-12-12T19:40:45.000Z'
 tags: []
 ---

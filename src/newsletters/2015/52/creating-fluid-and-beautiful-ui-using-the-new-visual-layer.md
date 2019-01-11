@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d24a4
-title: Creating fluid and beautiful UI using the new Visual Layer
-url: https://channel9.msdn.com/Events/Windows/Developers-Guide-to-Windows-10-Version-1511/Creating-fluid-and-beautiful-UI-using-the-new-Visual-Layer
-category: videos
+title: 'Creating fluid and beautiful UI using the new Visual Layer'
+url: 'https://channel9.msdn.com/Events/Windows/Developers-Guide-to-Windows-10-Version-1511/Creating-fluid-and-beautiful-UI-using-the-new-Visual-Layer'
+category: 5a88e1adbd6dca0d5f0d24a4
 slug: 'creating-fluid-and-beautiful-ui-using-the-new-visual-layer'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-12-26T11:33:16.000Z'
 tags: []
 ---

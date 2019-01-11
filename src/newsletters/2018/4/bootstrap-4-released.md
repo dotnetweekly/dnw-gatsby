@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1aba
-title: Bootstrap 4 Released
-url: http://blog.getbootstrap.com/2018/01/18/bootstrap-4/
-category: libraries-tools
+title: 'Bootstrap 4 Released'
+url: 'http://blog.getbootstrap.com/2018/01/18/bootstrap-4/'
+category: 5a88e1aabd6dca0d5f0d1aba
 slug: 'bootstrap-4-released'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2018-01-25T11:02:09.000Z'
 tags: []
 ---

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1a74
-title: How Application Insights recognizes returning users and efficiently send telemetry data to Azure
-url: https://www.patrickvankleef.com/2018/02/07/application-insights-user-telemetry-data-send-to-azure/
-category: articles
+title: 'How Application Insights recognizes returning users and efficiently send telemetry data to Azure'
+url: 'https://www.patrickvankleef.com/2018/02/07/application-insights-user-telemetry-data-send-to-azure/'
+category: 5a88e1aabd6dca0d5f0d1a74
 slug: 'how-application-insights-recognizes-returning-users-and-efficiently-send-telemetry-data-to-azure'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2018-02-08T15:27:05.000Z'
 tags: []
 ---

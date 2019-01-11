@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1aa2
 title: 'Scalable and Performant ASP.NET Core Web APIs: Profiling and Monitoring'
-url: https://www.carlrippon.com/scalable-and-performant-asp-net-core-web-apis-profiling-and-monitoring/
-category: articles
+url: 'https://www.carlrippon.com/scalable-and-performant-asp-net-core-web-apis-profiling-and-monitoring/'
+category: 5a88e1aabd6dca0d5f0d1aa2
 slug: 'scalable-and-performant-asp-net-core-web-apis-profiling-and-monitoring'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2018-01-27T20:48:22.000Z'
 tags: []
 ---

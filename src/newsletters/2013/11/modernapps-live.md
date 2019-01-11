@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d72
-title: ModernApps Live!
-url: http://modernappslive.com/Events/Las-Vegas-2013/Home.aspx
-category: articles
+title: 'ModernApps Live!'
+url: 'http://modernappslive.com/Events/Las-Vegas-2013/Home.aspx'
+category: 5a88e1afbd6dca0d5f0d2d72
 slug: 'modernapps-live'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-03-15T13:50:47.000Z'
 tags: []
 ---

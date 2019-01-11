@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d248e
-title: Calling VSTS APIs with C#
-url: http://blog.devmatter.com/calling-vsts-apis-with-c/
-category: articles
+title: 'Calling VSTS APIs with C#'
+url: 'http://blog.devmatter.com/calling-vsts-apis-with-c/'
+category: 5a88e1adbd6dca0d5f0d248e
 slug: 'calling-vsts-apis-with-c'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-01-09T08:00:55.000Z'
 tags: []
 ---

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2e1c
-title: How to convert between (most) audio formats in .NET
-url: http://www.codeproject.com/Articles/501521/How-to-convert-between-most-audio-formats-in-NET
-category: libraries-tools
+title: 'How to convert between (most) audio formats in .NET'
+url: 'http://www.codeproject.com/Articles/501521/How-to-convert-between-most-audio-formats-in-NET'
+category: 5a88e1afbd6dca0d5f0d2e1c
 slug: 'how-to-convert-between-most-audio-formats-in-net'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2012-12-14T18:14:05.000Z'
 tags: []
 ---

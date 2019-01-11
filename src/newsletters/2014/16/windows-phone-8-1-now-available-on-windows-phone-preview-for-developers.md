@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a36
-title: Windows Phone 8.1 now available on Windows Phone Preview for Developers
-url: http://blogs.windows.com/windows/b/buildingapps/archive/2014/04/14/windows-phone-8-1-now-available-on-windows-phone-preview-for-developers.aspx
-category: libraries-tools
+title: 'Windows Phone 8.1 now available on Windows Phone Preview for Developers'
+url: 'http://blogs.windows.com/windows/b/buildingapps/archive/2014/04/14/windows-phone-8-1-now-available-on-windows-phone-preview-for-developers.aspx'
+category: 5a88e1aebd6dca0d5f0d2a36
 slug: 'windows-phone-8-1-now-available-on-windows-phone-preview-for-developers'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-04-18T07:47:53.000Z'
 tags: []
 ---

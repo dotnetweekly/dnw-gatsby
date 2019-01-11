@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d253a
-title: Writing and Using Custom Code in U-SQL – User-Defined Functions
-url: http://blogs.msdn.com/b/visualstudio/archive/2015/10/28/writing-and-using-custom-code-in-u-sql-user-defined-functions.aspx
-category: articles
+title: 'Writing and Using Custom Code in U-SQL – User-Defined Functions'
+url: 'http://blogs.msdn.com/b/visualstudio/archive/2015/10/28/writing-and-using-custom-code-in-u-sql-user-defined-functions.aspx'
+category: 5a88e1adbd6dca0d5f0d253a
 slug: 'writing-and-using-custom-code-in-u-sql-user-defined-functions'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-10-31T08:46:49.000Z'
 tags: []
 ---

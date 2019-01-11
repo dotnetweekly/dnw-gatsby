@@ -1,12 +1,13 @@
 ---
 _id: 5b73078bfd7ac944329e003c
 title: '[.NET Internals 03] Boxing and unboxing'
-url: http://www.dsibinski.pl/2018/08/net-internals-03-boxing-and-unboxing/
-category: articles
+url: 'http://www.dsibinski.pl/2018/08/net-internals-03-boxing-and-unboxing/'
+category: 5b73078bfd7ac944329e003c
 slug: 'net-internals-03-boxing-and-unboxing'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2018-08-14T16:47:07.504Z'
-tags: ['.net']
+tags: [.net]
 ---
 
 As we are already familiar with the basics of memory and data structures used by .NET applications, in this third post from .NET Internals series we’re going to dig into boxing and unboxing and their performance implications.

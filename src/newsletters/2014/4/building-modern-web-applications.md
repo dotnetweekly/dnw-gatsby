@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2af2
-title: Building Modern Web Applications
-url: http://www.microsoftvirtualacademy.com/liveevents/building-windows-azure-applications-jump-start#?fbid=vgG6nxj27Pm
-category: events-training
+title: 'Building Modern Web Applications'
+url: 'http://www.microsoftvirtualacademy.com/liveevents/building-windows-azure-applications-jump-start#?fbid=vgG6nxj27Pm'
+category: 5a88e1aebd6dca0d5f0d2af2
 slug: 'building-modern-web-applications'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-01-25T10:53:35.000Z'
 tags: []
 ---

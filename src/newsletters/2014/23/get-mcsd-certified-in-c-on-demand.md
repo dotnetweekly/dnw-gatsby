@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d29d6
-title: Get MCSD Certified in C#, on Demand 
-url: http://www.microsoftvirtualacademy.com/colleges/c_cert
-category: articles
+title: 'Get MCSD Certified in C#, on Demand '
+url: 'http://www.microsoftvirtualacademy.com/colleges/c_cert'
+category: 5a88e1aebd6dca0d5f0d29d6
 slug: 'get-mcsd-certified-in-c-on-demand'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-06-06T16:23:31.000Z'
 tags: []
 ---

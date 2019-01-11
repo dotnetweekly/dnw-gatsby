@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1ad6
-title: Entity Framework Core Succinctly
-url: https://www.syncfusion.com/ebooks/entity_frame_work_core_succinctly
-category: books
+title: 'Entity Framework Core Succinctly'
+url: 'https://www.syncfusion.com/ebooks/entity_frame_work_core_succinctly'
+category: 5a88e1aabd6dca0d5f0d1ad6
 slug: 'entity-framework-core-succinctly'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2018-01-19T12:24:00.000Z'
 tags: []
 ---

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d3026
-title: Windows Azure - No Kidding
-url: http://www.hanselman.com/blog/WindowsAzureNoKidding.aspx
-category: articles
+title: 'Windows Azure - No Kidding'
+url: 'http://www.hanselman.com/blog/WindowsAzureNoKidding.aspx'
+category: 5a88e1afbd6dca0d5f0d3026
 slug: 'windows-azure-no-kidding'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2012-06-08T08:15:43.000Z'
 tags: []
 ---

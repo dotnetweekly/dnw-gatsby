@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2814
-title: Getting Started with ES6 – The Next Version of JavaScript
-url: http://weblogs.asp.net/dwahlin/getting-started-with-es6-%E2%80%93-the-next-version-of-javascript
-category: articles
+title: 'Getting Started with ES6 – The Next Version of JavaScript'
+url: 'http://weblogs.asp.net/dwahlin/getting-started-with-es6-%E2%80%93-the-next-version-of-javascript'
+category: 5a88e1adbd6dca0d5f0d2814
 slug: 'getting-started-with-es6-the-next-version-of-javascript'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-12-06T17:48:28.000Z'
 tags: []
 ---

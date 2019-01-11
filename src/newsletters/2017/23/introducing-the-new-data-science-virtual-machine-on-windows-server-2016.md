@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1e56
-title: Introducing the new Data Science Virtual Machine on Windows Server 2016
-url: https://blogs.technet.microsoft.com/machinelearning/2017/06/06/introducing-the-new-data-science-virtual-machine-on-windows-server-2016/
-category: libraries-tools
+title: 'Introducing the new Data Science Virtual Machine on Windows Server 2016'
+url: 'https://blogs.technet.microsoft.com/machinelearning/2017/06/06/introducing-the-new-data-science-virtual-machine-on-windows-server-2016/'
+category: 5a88e1abbd6dca0d5f0d1e56
 slug: 'introducing-the-new-data-science-virtual-machine-on-windows-server-2016'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2017-06-09T19:52:29.000Z'
 tags: []
 ---

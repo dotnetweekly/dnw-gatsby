@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2872
-title: Mobile Web Sites vs. Native Apps vs. Hybrid Apps
-url: http://msdn.microsoft.com/en-us/magazine/dn818502.aspx
-category: articles
+title: 'Mobile Web Sites vs. Native Apps vs. Hybrid Apps'
+url: 'http://msdn.microsoft.com/en-us/magazine/dn818502.aspx'
+category: 5a88e1aebd6dca0d5f0d2872
 slug: 'mobile-web-sites-vs-native-apps-vs-hybrid-apps'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-11-01T15:20:55.000Z'
 tags: []
 ---

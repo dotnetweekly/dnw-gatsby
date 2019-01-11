@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d22c0
-title: Start learning C# with this new interactive tutorial
-url: https://www.microsoft.com/net/tutorials/csharp/getting-started
-category: videos
+title: 'Start learning C# with this new interactive tutorial'
+url: 'https://www.microsoft.com/net/tutorials/csharp/getting-started'
+category: 5a88e1acbd6dca0d5f0d22c0
 slug: 'start-learning-c-with-this-new-interactive-tutorial'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-07-09T17:53:39.000Z'
 tags: []
 ---

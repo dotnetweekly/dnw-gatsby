@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d23b0
 title: 'Deploying Windows 10: Automating Deployment by Using System Center Configuration Manager'
-url: https://mva.microsoft.com/liveevents/deploying-windows-10-automating-deployment-by-using-system-center-configuration-manager
-category: events-training
+url: 'https://mva.microsoft.com/liveevents/deploying-windows-10-automating-deployment-by-using-system-center-configuration-manager'
+category: 5a88e1acbd6dca0d5f0d23b0
 slug: 'deploying-windows-10-automating-deployment-by-using-system-center-configuration-manager'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-04-02T00:50:38.000Z'
 tags: []
 ---

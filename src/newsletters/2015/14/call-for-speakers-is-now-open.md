@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2716
-title: Call for Speakers is Now Open!
-url: https://www.thatconference.com/
-category: events-training
+title: 'Call for Speakers is Now Open!'
+url: 'https://www.thatconference.com/'
+category: 5a88e1adbd6dca0d5f0d2716
 slug: 'call-for-speakers-is-now-open'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-04-03T17:33:33.000Z'
 tags: []
 ---

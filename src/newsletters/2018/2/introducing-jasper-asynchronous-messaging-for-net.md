@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1af6
-title: Introducing Jasper — Asynchronous Messaging for .Net
-url: https://jeremydmiller.com/2018/01/09/introducing-jasper-asynchronous-messaging-for-net/
-category: libraries-tools
+title: 'Introducing Jasper — Asynchronous Messaging for .Net'
+url: 'https://jeremydmiller.com/2018/01/09/introducing-jasper-asynchronous-messaging-for-net/'
+category: 5a88e1aabd6dca0d5f0d1af6
 slug: 'introducing-jasper-asynchronous-messaging-for-net'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2018-01-13T03:52:18.000Z'
 tags: []
 ---

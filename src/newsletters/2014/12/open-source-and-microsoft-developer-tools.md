@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a7a
-title: Open Source and Microsoft Developer Tools
-url: http://blogs.msdn.com/b/somasegar/archive/2014/03/20/open-source-and-microsoft-developer-tools.aspx
-category: articles
+title: 'Open Source and Microsoft Developer Tools'
+url: 'http://blogs.msdn.com/b/somasegar/archive/2014/03/20/open-source-and-microsoft-developer-tools.aspx'
+category: 5a88e1aebd6dca0d5f0d2a7a
 slug: 'open-source-and-microsoft-developer-tools'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-03-22T08:49:12.000Z'
 tags: []
 ---

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2dbc
-title: Broadcast push notifications to millions of mobile devices using Windows Azure Notification Hubs
-url: http://weblogs.asp.net/scottgu/archive/2013/01/22/broadcast-push-notifications-to-millions-of-mobile-devices-using-windows-azure-notification-hubs.aspx
-category: articles
+title: 'Broadcast push notifications to millions of mobile devices using Windows Azure Notification Hubs'
+url: 'http://weblogs.asp.net/scottgu/archive/2013/01/22/broadcast-push-notifications-to-millions-of-mobile-devices-using-windows-azure-notification-hubs.aspx'
+category: 5a88e1afbd6dca0d5f0d2dbc
 slug: 'broadcast-push-notifications-to-millions-of-mobile-devices-using-windows-azure-notification-hubs'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-02-02T17:19:13.000Z'
 tags: []
 ---

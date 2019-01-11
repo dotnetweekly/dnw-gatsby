@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1a6a
-title: Why should I care about Kubernetes, Docker, and Container Orchestration?
-url: https://www.hanselman.com/blog/WhyShouldICareAboutKubernetesDockerAndContainerOrchestration.aspx
-category: articles
+title: 'Why should I care about Kubernetes, Docker, and Container Orchestration?'
+url: 'https://www.hanselman.com/blog/WhyShouldICareAboutKubernetesDockerAndContainerOrchestration.aspx'
+category: 5a88e1aabd6dca0d5f0d1a6a
 slug: 'why-should-i-care-about-kubernetes-docker-and-container-orchestration'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2018-02-09T00:10:10.000Z'
 tags: []
 ---

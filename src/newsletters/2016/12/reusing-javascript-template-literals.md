@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d23d4
-title: Reusing JavaScript Template Literals
-url: http://odetocode.com/blogs/scott/archive/2016/03/21/reusing-javascript-template-literals.aspx
-category: articles
+title: 'Reusing JavaScript Template Literals'
+url: 'http://odetocode.com/blogs/scott/archive/2016/03/21/reusing-javascript-template-literals.aspx'
+category: 5a88e1acbd6dca0d5f0d23d4
 slug: 'reusing-javascript-template-literals'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-03-19T17:30:42.000Z'
 tags: []
 ---

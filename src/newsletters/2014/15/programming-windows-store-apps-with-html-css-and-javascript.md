@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a3e
-title: Programming Windows Store Apps with HTML, CSS and JavaScript
-url: http://www.microsoftvirtualacademy.com/ebooks
-category: books
+title: 'Programming Windows Store Apps with HTML, CSS and JavaScript'
+url: 'http://www.microsoftvirtualacademy.com/ebooks'
+category: 5a88e1aebd6dca0d5f0d2a3e
 slug: 'programming-windows-store-apps-with-html-css-and-javascript'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-04-12T09:11:30.000Z'
 tags: []
 ---

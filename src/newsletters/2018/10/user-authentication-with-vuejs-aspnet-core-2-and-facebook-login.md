@@ -1,12 +1,13 @@
 ---
 _id: 5aa416a5da3bcd0e9d890d0d
-title: User Authentication with Vue.js, ASP.NET Core 2 and Facebook Login
-url: https://fullstackmark.com/post/16/user-authentication-with-vuejs-aspnet-core-2-and-facebook-login
-category: articles
+title: 'User Authentication with Vue.js, ASP.NET Core 2 and Facebook Login'
+url: 'https://fullstackmark.com/post/16/user-authentication-with-vuejs-aspnet-core-2-and-facebook-login'
+category: 5aa416a5da3bcd0e9d890d0d
 slug: 'user-authentication-with-vuejs-aspnet-core-2-and-facebook-login'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2018-03-10T14:40:19.172Z'
-tags: ['.net-core']
+tags: [.net-core]
 ---
 
 In my previous post I detailed how to setup JWT authentication with ASP.NET Core 2, Angular 5, and Facebook OAuth. It received some great feedback and also a few requests to make a Vue.js version - so here it is!

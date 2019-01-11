@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2996
-title: Announcing the Release of ASP.NET MVC 5.2, Web API 2.2 and Web Pages 3.2
-url: http://blogs.msdn.com/b/webdev/archive/2014/07/02/announcing-the-release-of-asp-net-mvc-5-2-web-api-2-2-and-web-pages-3-2.aspx
-category: libraries-tools
+title: 'Announcing the Release of ASP.NET MVC 5.2, Web API 2.2 and Web Pages 3.2'
+url: 'http://blogs.msdn.com/b/webdev/archive/2014/07/02/announcing-the-release-of-asp-net-mvc-5-2-web-api-2-2-and-web-pages-3-2.aspx'
+category: 5a88e1aebd6dca0d5f0d2996
 slug: 'announcing-the-release-of-asp-net-mvc-5-2-web-api-2-2-and-web-pages-3-2'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-07-05T09:19:47.000Z'
 tags: []
 ---

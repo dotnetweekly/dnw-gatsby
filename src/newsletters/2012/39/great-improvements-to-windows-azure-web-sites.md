@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2ece
-title: Great Improvements to Windows Azure Web Sites
-url: http://weblogs.asp.net/scottgu/archive/2012/09/17/announcing-great-improvements-to-windows-azure-web-sites.aspx
-category: articles
+title: 'Great Improvements to Windows Azure Web Sites'
+url: 'http://weblogs.asp.net/scottgu/archive/2012/09/17/announcing-great-improvements-to-windows-azure-web-sites.aspx'
+category: 5a88e1afbd6dca0d5f0d2ece
 slug: 'great-improvements-to-windows-azure-web-sites'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2012-09-28T17:04:49.000Z'
 tags: []
 ---

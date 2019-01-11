@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2c62
-title: New Features in Visual Studio 2013 for Web Developers
-url: http://channel9.msdn.com/Shows/Web+Camps+TV/New-Features-in-Visual-Studio-2013-for-Web-Developers
-category: videos
+title: 'New Features in Visual Studio 2013 for Web Developers'
+url: 'http://channel9.msdn.com/Shows/Web+Camps+TV/New-Features-in-Visual-Studio-2013-for-Web-Developers'
+category: 5a88e1aebd6dca0d5f0d2c62
 slug: 'new-features-in-visual-studio-2013-for-web-developers'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-07-27T08:04:54.000Z'
 tags: []
 ---

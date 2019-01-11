@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2efc
-title: ASP.NET Frameworks and Raw Throughput Performance
-url: http://www.west-wind.com/weblog/posts/2012/Sep/04/ASPNET-Frameworks-and-Raw-Throughput-Performance
-category: articles
+title: 'ASP.NET Frameworks and Raw Throughput Performance'
+url: 'http://www.west-wind.com/weblog/posts/2012/Sep/04/ASPNET-Frameworks-and-Raw-Throughput-Performance'
+category: 5a88e1afbd6dca0d5f0d2efc
 slug: 'asp-net-frameworks-and-raw-throughput-performance'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2012-09-07T07:31:20.000Z'
 tags: []
 ---

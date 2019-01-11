@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d21fc
-title: Xamarin - Cross-Platform Productivity with Xamarin
-url: https://msdn.microsoft.com/magazine/mt763236
-category: libraries-tools
+title: 'Xamarin - Cross-Platform Productivity with Xamarin'
+url: 'https://msdn.microsoft.com/magazine/mt763236'
+category: 5a88e1acbd6dca0d5f0d21fc
 slug: 'xamarin-cross-platform-productivity-with-xamarin-2'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-09-17T18:54:05.000Z'
 tags: []
 ---

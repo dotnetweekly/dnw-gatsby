@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d275a
-title: Chef and Microsoft team up to enhance Azure’s automation
-url: http://www.geekwire.com/2015/chef-and-microsoft-team-up-to-enhance-azures-automation/
-category: articles
+title: 'Chef and Microsoft team up to enhance Azure’s automation'
+url: 'http://www.geekwire.com/2015/chef-and-microsoft-team-up-to-enhance-azures-automation/'
+category: 5a88e1adbd6dca0d5f0d275a
 slug: 'chef-and-microsoft-team-up-to-enhance-azures-automation'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-03-06T17:57:02.000Z'
 tags: []
 ---

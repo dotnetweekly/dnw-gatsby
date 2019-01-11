@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d22de
-title: Upgrading to ASP.NET Core RTM from RC2
-url: https://weblog.west-wind.com/posts/2016/Jun/27/Upgrading-to-ASPNET-Core-RTM-from-RC2
-category: articles
+title: 'Upgrading to ASP.NET Core RTM from RC2'
+url: 'https://weblog.west-wind.com/posts/2016/Jun/27/Upgrading-to-ASPNET-Core-RTM-from-RC2'
+category: 5a88e1acbd6dca0d5f0d22de
 slug: 'upgrading-to-asp-net-core-rtm-from-rc2'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-07-02T08:32:18.000Z'
 tags: []
 ---

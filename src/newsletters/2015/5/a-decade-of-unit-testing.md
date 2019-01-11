@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d27b2
-title: A decade of unit testing
-url: http://openmymind.net/A-Decade-Of-Unit-Testing/
-category: articles
+title: 'A decade of unit testing'
+url: 'http://openmymind.net/A-Decade-Of-Unit-Testing/'
+category: 5a88e1adbd6dca0d5f0d27b2
 slug: 'a-decade-of-unit-testing'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-01-30T23:22:33.000Z'
 tags: []
 ---

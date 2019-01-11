@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1f1e
-title: So what’s this GraphQL thing I keep hearing about?
-url: https://medium.freecodecamp.com/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf
-category: articles
+title: 'So what’s this GraphQL thing I keep hearing about?'
+url: 'https://medium.freecodecamp.com/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf'
+category: 5a88e1abbd6dca0d5f0d1f1e
 slug: 'so-whats-this-graphql-thing-i-keep-hearing-about'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2017-04-21T04:42:57.000Z'
 tags: []
 ---

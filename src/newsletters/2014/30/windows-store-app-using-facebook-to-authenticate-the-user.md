@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2960
-title: Windows Store App - Using Facebook to authenticate the user
-url: http://blogs.msdn.com/b/mspfe/archive/2014/07/25/windows-store-app-using-facebook-to-authenticate-the-user.aspx
-category: videos
+title: 'Windows Store App - Using Facebook to authenticate the user'
+url: 'http://blogs.msdn.com/b/mspfe/archive/2014/07/25/windows-store-app-using-facebook-to-authenticate-the-user.aspx'
+category: 5a88e1aebd6dca0d5f0d2960
 slug: 'windows-store-app-using-facebook-to-authenticate-the-user'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-07-26T11:13:56.000Z'
 tags: []
 ---

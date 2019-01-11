@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a7e
-title: Building Blocks
-url: http://www.microsoftvirtualacademy.com/Live-Training-Events#?fbid=nSV4arFOb4d
-category: events-training
+title: 'Building Blocks'
+url: 'http://www.microsoftvirtualacademy.com/Live-Training-Events#?fbid=nSV4arFOb4d'
+category: 5a88e1aebd6dca0d5f0d2a7e
 slug: 'building-blocks'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-03-15T09:58:41.000Z'
 tags: []
 ---

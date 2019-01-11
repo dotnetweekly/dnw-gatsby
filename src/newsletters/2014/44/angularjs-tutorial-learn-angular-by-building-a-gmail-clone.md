@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2870
-title: AngularJS Tutorial LEARN ANGULAR BY BUILDING A GMAIL CLONE
-url: http://www.thinkful.com/learn/angularjs-tutorial-build-a-gmail-clone/
-category: articles
+title: 'AngularJS Tutorial LEARN ANGULAR BY BUILDING A GMAIL CLONE'
+url: 'http://www.thinkful.com/learn/angularjs-tutorial-build-a-gmail-clone/'
+category: 5a88e1aebd6dca0d5f0d2870
 slug: 'angularjs-tutorial-learn-angular-by-building-a-gmail-clone'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-11-01T15:23:16.000Z'
 tags: []
 ---

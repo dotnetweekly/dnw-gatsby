@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b9c
-title: Developing Windows Azure and Web Services Jump Start
-url: http://www.microsoftvirtualacademy.com/liveevents/developing-windows-azure-and-web-services-jump-start#?fbid=RfHc7HWJo2b
-category: events-training
+title: 'Developing Windows Azure and Web Services Jump Start'
+url: 'http://www.microsoftvirtualacademy.com/liveevents/developing-windows-azure-and-web-services-jump-start#?fbid=RfHc7HWJo2b'
+category: 5a88e1aebd6dca0d5f0d2b9c
 slug: 'developing-windows-azure-and-web-services-jump-start'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-11-02T08:19:36.000Z'
 tags: []
 ---

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2378
-title: Running Bash on Ubuntu on Windows!
-url: https://channel9.msdn.com/Events/Build/2016/P488
-category: articles
+title: 'Running Bash on Ubuntu on Windows!'
+url: 'https://channel9.msdn.com/Events/Build/2016/P488'
+category: 5a88e1acbd6dca0d5f0d2378
 slug: 'running-bash-on-ubuntu-on-windows'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-04-23T16:01:15.000Z'
 tags: []
 ---

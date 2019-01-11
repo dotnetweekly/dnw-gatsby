@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d24aa
-title: Exploring the new .NET "dotnet" Command Line Interface (CLI)
-url: http://www.hanselman.com/blog/ExploringTheNewNETDotnetCommandLineInterfaceCLI.aspx
-category: articles
+title: 'Exploring the new .NET "dotnet" Command Line Interface (CLI)'
+url: 'http://www.hanselman.com/blog/ExploringTheNewNETDotnetCommandLineInterfaceCLI.aspx'
+category: 5a88e1adbd6dca0d5f0d24aa
 slug: 'exploring-the-new-net-dotnet-command-line-interface-cli'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-12-26T11:27:08.000Z'
 tags: []
 ---

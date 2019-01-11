@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2834
-title: Reading and Writing Base64 in the Windows Runtime
-url: http://blog.jerrynixon.com/2014/11/reading-and-writing-base64-in-windows.html#more
-category: articles
+title: 'Reading and Writing Base64 in the Windows Runtime'
+url: 'http://blog.jerrynixon.com/2014/11/reading-and-writing-base64-in-windows.html#more'
+category: 5a88e1aebd6dca0d5f0d2834
 slug: 'reading-and-writing-base64-in-the-windows-runtime'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-11-22T08:57:16.000Z'
 tags: []
 ---

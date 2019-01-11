@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d26f6
-title: Low latency html5 WebSocket Server to stream live and computed data to web browser grid
-url: http://www.codeproject.com/Articles/890092/Low-latency-html-WebSocket-Server-to-stream-live-a
-category: articles
+title: 'Low latency html5 WebSocket Server to stream live and computed data to web browser grid'
+url: 'http://www.codeproject.com/Articles/890092/Low-latency-html-WebSocket-Server-to-stream-live-a'
+category: 5a88e1adbd6dca0d5f0d26f6
 slug: 'low-latency-html5-websocket-server-to-stream-live-and-computed-data-to-web-browser-grid'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-04-18T08:27:09.000Z'
 tags: []
 ---

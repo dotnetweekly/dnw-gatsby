@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2926
-title: DocumentDB - NoSQL Database As A Service On Azure
-url: http://weblogs.asp.net/shijuvarghese/documentdb-microsoft-s-new-nosql-database-as-a-service-on-azure
-category: libraries-tools
+title: 'DocumentDB - NoSQL Database As A Service On Azure'
+url: 'http://weblogs.asp.net/shijuvarghese/documentdb-microsoft-s-new-nosql-database-as-a-service-on-azure'
+category: 5a88e1aebd6dca0d5f0d2926
 slug: 'documentdb-nosql-database-as-a-service-on-azure'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-08-23T00:11:38.000Z'
 tags: []
 ---

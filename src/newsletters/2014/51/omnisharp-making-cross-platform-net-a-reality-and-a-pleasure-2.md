@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d27ec
-title: OmniSharp - Making cross-platform .NET a reality, and a pleasure
-url: http://www.hanselman.com/blog/OmniSharpMakingCrossplatformNETARealityAndAPleasure.aspx
-category: libraries-tools
+title: 'OmniSharp - Making cross-platform .NET a reality, and a pleasure'
+url: 'http://www.hanselman.com/blog/OmniSharpMakingCrossplatformNETARealityAndAPleasure.aspx'
+category: 5a88e1adbd6dca0d5f0d27ec
 slug: 'omnisharp-making-cross-platform-net-a-reality-and-a-pleasure-2'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-12-21T01:48:50.000Z'
 tags: []
 ---

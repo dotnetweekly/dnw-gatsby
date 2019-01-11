@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d24f2
-title: Breakpoint Generator Extension
-url: http://blogs.msdn.com/b/visualstudioalm/archive/2015/11/19/breakpoint-generator-extension.aspx
-category: libraries-tools
+title: 'Breakpoint Generator Extension'
+url: 'http://blogs.msdn.com/b/visualstudioalm/archive/2015/11/19/breakpoint-generator-extension.aspx'
+category: 5a88e1adbd6dca0d5f0d24f2
 slug: 'breakpoint-generator-extension'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-11-28T09:28:36.000Z'
 tags: []
 ---

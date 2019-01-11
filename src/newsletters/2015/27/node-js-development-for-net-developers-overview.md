@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d263c
 title: 'Node.js Development for .NET Developers: Overview'
-url: http://www.andrewconnell.com/blog/node-js-development-for-net-developers-overview
-category: articles
+url: 'http://www.andrewconnell.com/blog/node-js-development-for-net-developers-overview'
+category: 5a88e1adbd6dca0d5f0d263c
 slug: 'node-js-development-for-net-developers-overview'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-07-04T15:41:37.000Z'
 tags: []
 ---

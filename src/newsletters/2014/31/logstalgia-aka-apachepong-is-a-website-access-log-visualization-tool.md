@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2950
-title: Logstalgia is a website access log visualization tool. (for fun)
-url: https://code.google.com/p/logstalgia/
-category: libraries-tools
+title: 'Logstalgia is a website access log visualization tool. (for fun)'
+url: 'https://code.google.com/p/logstalgia/'
+category: 5a88e1aebd6dca0d5f0d2950
 slug: 'logstalgia-aka-apachepong-is-a-website-access-log-visualization-tool'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-08-02T16:00:34.000Z'
 tags: []
 ---

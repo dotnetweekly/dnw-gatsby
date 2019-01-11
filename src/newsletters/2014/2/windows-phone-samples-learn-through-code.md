@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b14
 title: 'Windows Phone samples: learn through code'
-url: http://code.msdn.microsoft.com/wpapps/site/search?sortBy=Date
-category: libraries-tools
+url: 'http://code.msdn.microsoft.com/wpapps/site/search?sortBy=Date'
+category: 5a88e1aebd6dca0d5f0d2b14
 slug: 'windows-phone-samples-learn-through-code'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-01-11T09:51:27.000Z'
 tags: []
 ---

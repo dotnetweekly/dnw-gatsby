@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2840
-title: News from Connect();
-url: http://blogs.msdn.com/b/bharry/archive/2014/11/12/news-from-connect.aspx
-category: articles
+title: 'News from Connect();'
+url: 'http://blogs.msdn.com/b/bharry/archive/2014/11/12/news-from-connect.aspx'
+category: 5a88e1aebd6dca0d5f0d2840
 slug: 'news-from-connect'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-11-15T10:03:47.000Z'
 tags: []
 ---

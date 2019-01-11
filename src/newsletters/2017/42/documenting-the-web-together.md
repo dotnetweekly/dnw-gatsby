@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1c4e
-title: Documenting the Web together
-url: https://blogs.windows.com/msedgedev/2017/10/18/documenting-web-together-mdn-web-docs/#C4c4fXEOyW72HOC3.97
-category: articles
+title: 'Documenting the Web together'
+url: 'https://blogs.windows.com/msedgedev/2017/10/18/documenting-web-together-mdn-web-docs/#C4c4fXEOyW72HOC3.97'
+category: 5a88e1aabd6dca0d5f0d1c4e
 slug: 'documenting-the-web-together'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2017-10-20T07:33:22.000Z'
 tags: []
 ---

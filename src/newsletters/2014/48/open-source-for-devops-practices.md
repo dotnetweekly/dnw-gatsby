@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2826
-title: Open Source for DevOps Practices
-url: http://www.microsoftvirtualacademy.com/liveevents/open-source-for-devops-practices
-category: events-training
+title: 'Open Source for DevOps Practices'
+url: 'http://www.microsoftvirtualacademy.com/liveevents/open-source-for-devops-practices'
+category: 5a88e1aebd6dca0d5f0d2826
 slug: 'open-source-for-devops-practices'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-11-29T10:48:21.000Z'
 tags: []
 ---

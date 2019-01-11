@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b2e
-title: Best Practices for Designing a Fluent API
-url: http://visualstudiomagazine.com/articles/2013/12/01/best-practices-for-designing-a-fluent-api.aspx
-category: articles
+title: 'Best Practices for Designing a Fluent API'
+url: 'http://visualstudiomagazine.com/articles/2013/12/01/best-practices-for-designing-a-fluent-api.aspx'
+category: 5a88e1aebd6dca0d5f0d2b2e
 slug: 'best-practices-for-designing-a-fluent-api'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-01-04T12:24:44.000Z'
 tags: []
 ---

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d256a
 title: 'Visual Studio - Bower: Modern Tools for Web Development'
-url: https://msdn.microsoft.com/en-us/magazine/mt573714.aspx
-category: articles
+url: 'https://msdn.microsoft.com/en-us/magazine/mt573714.aspx'
+category: 5a88e1adbd6dca0d5f0d256a
 slug: 'visual-studio-bower-modern-tools-for-web-development'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-10-10T07:10:20.000Z'
 tags: []
 ---

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b8a
-title: Windows 8.1 app samples
-url: http://code.msdn.microsoft.com/windowsapps/Windows-8-Modern-Style-App-Samples
-category: libraries-tools
+title: 'Windows 8.1 app samples'
+url: 'http://code.msdn.microsoft.com/windowsapps/Windows-8-Modern-Style-App-Samples'
+category: 5a88e1aebd6dca0d5f0d2b8a
 slug: 'windows-8-1-app-samples'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-11-16T07:36:14.000Z'
 tags: []
 ---

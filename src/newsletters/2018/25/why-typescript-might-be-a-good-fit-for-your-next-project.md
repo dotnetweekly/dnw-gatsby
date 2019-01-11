@@ -1,12 +1,13 @@
 ---
 _id: 5b283b2432697b38c930a479
-title: Why TypeScript Might Be A Good Fit for Your Next Project
-url: https://www.telerik.com/blogs/why-typescript-might-be-a-good-fit-for-your-next-project-video
-category: libraries-tools
+title: 'Why TypeScript Might Be A Good Fit for Your Next Project'
+url: 'https://www.telerik.com/blogs/why-typescript-might-be-a-good-fit-for-your-next-project-video'
+category: 5b283b2432697b38c930a479
 slug: 'why-typescript-might-be-a-good-fit-for-your-next-project'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2018-06-18T23:07:16.427Z'
-tags: ['javascript']
+tags: [javascript]
 ---
 
 JavaScript’s history is somewhat checkered: it started as something we all did to make horrific, GeoCities-style Web sites, and it took a while for the language to shake its script-kiddie reputation as it gained popularity. Today, though, that past is all but forgotten as JavaScript dominates web development. (And JavaScript itself has evolved.)

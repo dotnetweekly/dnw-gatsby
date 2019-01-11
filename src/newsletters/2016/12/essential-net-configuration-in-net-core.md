@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d23d8
-title: Essential .NET - Configuration in .NET Core
-url: https://msdn.microsoft.com/magazine/mt632279?MC=.NET&MC=ASPNET&MC=Open
-category: articles
+title: 'Essential .NET - Configuration in .NET Core'
+url: 'https://msdn.microsoft.com/magazine/mt632279?MC=.NET&MC=ASPNET&MC=Open'
+category: 5a88e1acbd6dca0d5f0d23d8
 slug: 'essential-net-configuration-in-net-core'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-03-19T17:28:58.000Z'
 tags: []
 ---

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1a48
-title: Newly written SignalR with .Net Core 2.0 and TypeScript
-url: https://neelbhatt.com/2017/10/27/newly-written-signalr-with-net-core-2-0-and-typescript/
-category: articles
+title: 'Newly written SignalR with .Net Core 2.0 and TypeScript'
+url: 'https://neelbhatt.com/2017/10/27/newly-written-signalr-with-net-core-2-0-and-typescript/'
+category: 5a88e1aabd6dca0d5f0d1a48
 slug: 'newly-written-signalr-with-net-core-2-0-and-typescript'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2018-02-16T03:34:15.000Z'
 tags: []
 ---

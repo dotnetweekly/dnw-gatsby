@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2ef6
-title: Do you really know what a REST service is?
-url: http://kellabyte.com/2011/09/04/clarifying-rest/
-category: articles
+title: 'Do you really know what a REST service is?'
+url: 'http://kellabyte.com/2011/09/04/clarifying-rest/'
+category: 5a88e1afbd6dca0d5f0d2ef6
 slug: 'do-you-really-know-what-a-rest-service-is'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2012-09-07T17:14:38.000Z'
 tags: []
 ---

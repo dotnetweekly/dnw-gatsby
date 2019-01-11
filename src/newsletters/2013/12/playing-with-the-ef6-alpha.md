@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d62
-title: Playing with the EF6 Alpha
-url: http://msdn.microsoft.com/en-us/magazine/jj991973.aspx
-category: libraries-tools
+title: 'Playing with the EF6 Alpha'
+url: 'http://msdn.microsoft.com/en-us/magazine/jj991973.aspx'
+category: 5a88e1afbd6dca0d5f0d2d62
 slug: 'playing-with-the-ef6-alpha'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-03-22T08:24:12.000Z'
 tags: []
 ---

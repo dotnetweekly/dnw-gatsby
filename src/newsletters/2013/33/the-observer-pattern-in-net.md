@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2c46
-title: The Observer Pattern in .NET
-url: http://visualstudiomagazine.com/articles/2013/08/14/the-observer-pattern-in-net.aspx
-category: articles
+title: 'The Observer Pattern in .NET'
+url: 'http://visualstudiomagazine.com/articles/2013/08/14/the-observer-pattern-in-net.aspx'
+category: 5a88e1aebd6dca0d5f0d2c46
 slug: 'the-observer-pattern-in-net'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-08-16T20:04:51.000Z'
 tags: []
 ---

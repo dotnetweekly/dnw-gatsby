@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d23ce
-title: Integrating ASP.NET Core Configuration in MVC 4
-url: http://geekswithblogs.net/sdorman/archive/2016/03/19/integrating-asp.net-core-configuration-in-mvc-4.aspx
-category: articles
+title: 'Integrating ASP.NET Core Configuration in MVC 4'
+url: 'http://geekswithblogs.net/sdorman/archive/2016/03/19/integrating-asp.net-core-configuration-in-mvc-4.aspx'
+category: 5a88e1acbd6dca0d5f0d23ce
 slug: 'integrating-asp-net-core-configuration-in-mvc-4'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-03-19T17:32:47.000Z'
 tags: []
 ---

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2f46
-title: A History (API) Lesson
-url: http://msdn.microsoft.com/en-us/magazine/jj553515.aspx
-category: articles
+title: 'A History (API) Lesson'
+url: 'http://msdn.microsoft.com/en-us/magazine/jj553515.aspx'
+category: 5a88e1afbd6dca0d5f0d2f46
 slug: 'a-history-api-lesson'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2012-08-17T07:20:34.000Z'
 tags: []
 ---

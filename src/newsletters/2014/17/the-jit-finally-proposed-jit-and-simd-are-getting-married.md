@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a20
-title: The JIT finally proposed. JIT and SIMD are getting married.
-url: http://blogs.msdn.com/b/dotnet/archive/2014/04/07/the-jit-finally-proposed-jit-and-simd-are-getting-married.aspx
-category: articles
+title: 'The JIT finally proposed. JIT and SIMD are getting married.'
+url: 'http://blogs.msdn.com/b/dotnet/archive/2014/04/07/the-jit-finally-proposed-jit-and-simd-are-getting-married.aspx'
+category: 5a88e1aebd6dca0d5f0d2a20
 slug: 'the-jit-finally-proposed-jit-and-simd-are-getting-married'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-04-26T07:27:37.000Z'
 tags: []
 ---

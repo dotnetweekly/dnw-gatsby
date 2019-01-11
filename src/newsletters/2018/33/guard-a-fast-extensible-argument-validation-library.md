@@ -1,12 +1,13 @@
 ---
 _id: 5b7348e8fd7ac9b1579e0043
-title: Guard - A fast, extensible argument validation library
-url: https://github.com/safakgur/guard
-category: libraries-tools
+title: 'Guard - A fast, extensible argument validation library'
+url: 'https://github.com/safakgur/guard'
+category: 5b7348e8fd7ac9b1579e0043
 slug: 'guard-a-fast-extensible-argument-validation-library'
 user_id: 5b73409bfd7ac904559e0042
+username: 'safak'
 createdOn: '2018-08-14T21:26:00.294Z'
-tags: ['.net','c#','.net-standard']
+tags: [.net,c#,.net-standard]
 ---
 
 For years, I've been seeing dozens of .NET projects with different approaches to argument validation. In most of these projects there are home-brew classes named something like Guard, Require or Validate that contain static methods for checking whether some preconditions are satisfied - like a string not being null or an integer being greater than zero. These methods throw the appropriate exceptions if their conditions are not met, effectively validating the passed argument.

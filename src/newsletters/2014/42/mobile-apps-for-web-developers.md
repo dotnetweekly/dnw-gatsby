@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d28a6
-title: Mobile Apps for Web Developers
-url: http://blogs.msdn.com/b/visualstudio/archive/2014/10/14/mobile-apps-for-web-developers.aspx
-category: articles
+title: 'Mobile Apps for Web Developers'
+url: 'http://blogs.msdn.com/b/visualstudio/archive/2014/10/14/mobile-apps-for-web-developers.aspx'
+category: 5a88e1aebd6dca0d5f0d28a6
 slug: 'mobile-apps-for-web-developers'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-10-18T06:23:33.000Z'
 tags: []
 ---

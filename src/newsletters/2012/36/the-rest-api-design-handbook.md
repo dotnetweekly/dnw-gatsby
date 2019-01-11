@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2ef4
-title: The REST API Design Handbook
-url: http://www.amazon.com/The-REST-Design-Handbook-ebook/dp/B00890OBFI
-category: books
+title: 'The REST API Design Handbook'
+url: 'http://www.amazon.com/The-REST-Design-Handbook-ebook/dp/B00890OBFI'
+category: 5a88e1afbd6dca0d5f0d2ef4
 slug: 'the-rest-api-design-handbook'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2012-09-07T17:21:52.000Z'
 tags: []
 ---

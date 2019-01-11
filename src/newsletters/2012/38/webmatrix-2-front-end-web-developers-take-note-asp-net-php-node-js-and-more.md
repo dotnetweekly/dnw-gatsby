@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2ed8
-title: WebMatrix 2 - Front End Web Developers take note (ASP.NET, PHP, node.js and more)
-url: http://www.hanselman.com/blog/WebMatrix2FrontEndWebDevelopersTakeNoteASPNETPHPNodejsAndMore.aspx
-category: articles
+title: 'WebMatrix 2 - Front End Web Developers take note (ASP.NET, PHP, node.js and more)'
+url: 'http://www.hanselman.com/blog/WebMatrix2FrontEndWebDevelopersTakeNoteASPNETPHPNodejsAndMore.aspx'
+category: 5a88e1afbd6dca0d5f0d2ed8
 slug: 'webmatrix-2-front-end-web-developers-take-note-asp-net-php-node-js-and-more'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2012-09-21T16:10:38.000Z'
 tags: []
 ---

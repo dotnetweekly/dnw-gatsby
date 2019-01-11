@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d299a
-title: VS/TFS 2013.3 (Update 3) RC
-url: http://blogs.msdn.com/b/bharry/archive/2014/07/02/vs-tfs-2013-3-update-3-rc.aspx
-category: libraries-tools
+title: 'VS/TFS 2013.3 (Update 3) RC'
+url: 'http://blogs.msdn.com/b/bharry/archive/2014/07/02/vs-tfs-2013-3-update-3-rc.aspx'
+category: 5a88e1aebd6dca0d5f0d299a
 slug: 'vstfs-2013-3-update-3-rc'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-07-05T09:14:08.000Z'
 tags: []
 ---

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2ccc
-title: How To Use Java Packages In .NET
-url: http://www.codeproject.com/Articles/594679/How-To-Use-Java-Packages-In-NET
-category: articles
+title: 'How To Use Java Packages In .NET'
+url: 'http://www.codeproject.com/Articles/594679/How-To-Use-Java-Packages-In-NET'
+category: 5a88e1afbd6dca0d5f0d2ccc
 slug: 'how-to-use-java-packages-in-net'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-05-18T16:57:44.000Z'
 tags: []
 ---

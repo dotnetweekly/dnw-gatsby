@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d21c6
 title: 'The Xamarin Show 5: MVVM &amp; Data Binding with Xamarin.Forms'
-url: https://channel9.msdn.com/Shows/XamarinShow/Introduction-to-MVVM
-category: videos
+url: 'https://channel9.msdn.com/Shows/XamarinShow/Introduction-to-MVVM'
+category: 5a88e1acbd6dca0d5f0d21c6
 slug: 'the-xamarin-show-5-mvvm-data-binding-with-xamarin-forms'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-10-15T07:14:17.000Z'
 tags: []
 ---

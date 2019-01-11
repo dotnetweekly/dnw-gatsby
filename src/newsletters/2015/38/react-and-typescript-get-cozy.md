@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d25a2
-title: React and TypeScript Get Cozy
-url: https://visualstudiomagazine.com/articles/2015/09/16/react-typescript-get-cozy.aspx
-category: libraries-tools
+title: 'React and TypeScript Get Cozy'
+url: 'https://visualstudiomagazine.com/articles/2015/09/16/react-typescript-get-cozy.aspx'
+category: 5a88e1adbd6dca0d5f0d25a2
 slug: 'react-and-typescript-get-cozy'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-09-19T08:20:10.000Z'
 tags: []
 ---

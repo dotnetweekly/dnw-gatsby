@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d24f6
-title: What's in iOS 9 for C# Developers?
-url: https://visualstudiomagazine.com/articles/2015/11/01/whats-in-ios-9.aspx
-category: articles
+title: 'What"s in iOS 9 for C# Developers?'
+url: 'https://visualstudiomagazine.com/articles/2015/11/01/whats-in-ios-9.aspx'
+category: 5a88e1adbd6dca0d5f0d24f6
 slug: 'whats-in-ios-9-for-c-developers'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-11-28T09:25:53.000Z'
 tags: []
 ---

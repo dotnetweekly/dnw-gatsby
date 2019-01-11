@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d27f4
 title: 'Gotcha: Entity Framework gets slow in long Iteration Loops'
-url: http://weblog.west-wind.com/posts/2014/Dec/21/Gotcha-Entity-Framework-gets-slow-in-long-Iteration-Loops
-category: articles
+url: 'http://weblog.west-wind.com/posts/2014/Dec/21/Gotcha-Entity-Framework-gets-slow-in-long-Iteration-Loops'
+category: 5a88e1adbd6dca0d5f0d27f4
 slug: 'gotcha-entity-framework-gets-slow-in-long-iteration-loops'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-12-21T01:24:06.000Z'
 tags: []
 ---

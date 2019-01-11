@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d27fa
-title: JavaScript Application Architecture On The Road To 2015
-url: https://medium.com/@addyosmani/javascript-application-architecture-on-the-road-to-2015-d8125811101b
-category: articles
+title: 'JavaScript Application Architecture On The Road To 2015'
+url: 'https://medium.com/@addyosmani/javascript-application-architecture-on-the-road-to-2015-d8125811101b'
+category: 5a88e1adbd6dca0d5f0d27fa
 slug: 'javascript-application-architecture-on-the-road-to-2015'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-12-21T01:07:12.000Z'
 tags: []
 ---

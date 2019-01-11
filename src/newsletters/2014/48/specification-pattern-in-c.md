@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2822
-title: Specification pattern in C#
-url: http://www.codeproject.com/Articles/670115/Specification-pattern-in-Csharp
-category: articles
+title: 'Specification pattern in C#'
+url: 'http://www.codeproject.com/Articles/670115/Specification-pattern-in-Csharp'
+category: 5a88e1aebd6dca0d5f0d2822
 slug: 'specification-pattern-in-c'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-11-29T10:50:45.000Z'
 tags: []
 ---

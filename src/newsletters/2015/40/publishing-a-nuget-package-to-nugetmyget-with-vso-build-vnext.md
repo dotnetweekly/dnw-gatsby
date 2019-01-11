@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d257a
-title: Publishing a Nuget package to Nuget/Myget with VSO Build vNext
-url: http://www.codewrecks.com/blog/index.php/2015/09/26/publishing-a-nuget-package-to-nugetmyget-with-vso-build-vnext/
-category: articles
+title: 'Publishing a Nuget package to Nuget/Myget with VSO Build vNext'
+url: 'http://www.codewrecks.com/blog/index.php/2015/09/26/publishing-a-nuget-package-to-nugetmyget-with-vso-build-vnext/'
+category: 5a88e1adbd6dca0d5f0d257a
 slug: 'publishing-a-nuget-package-to-nugetmyget-with-vso-build-vnext'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-10-03T07:47:18.000Z'
 tags: []
 ---

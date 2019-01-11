@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2202
 title: 'The Xamarin Show 1: Sharing Code Across iOS, Android, and Windows'
-url: https://channel9.msdn.com/Shows/XamarinShow/Sharing-Code-Across-iOS-Android-and-Windows
-category: videos
+url: 'https://channel9.msdn.com/Shows/XamarinShow/Sharing-Code-Across-iOS-Android-and-Windows'
+category: 5a88e1acbd6dca0d5f0d2202
 slug: 'the-xamarin-show-1-sharing-code-across-ios-android-and-windows'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-09-17T07:29:43.000Z'
 tags: []
 ---

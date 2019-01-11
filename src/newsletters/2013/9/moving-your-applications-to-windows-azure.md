@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d8e
-title: Moving Your Applications to Windows Azure
-url: http://msdn.microsoft.com/en-us/magazine/jj991979.aspx
-category: articles
+title: 'Moving Your Applications to Windows Azure'
+url: 'http://msdn.microsoft.com/en-us/magazine/jj991979.aspx'
+category: 5a88e1afbd6dca0d5f0d2d8e
 slug: 'moving-your-applications-to-windows-azure'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-03-02T21:46:11.000Z'
 tags: []
 ---

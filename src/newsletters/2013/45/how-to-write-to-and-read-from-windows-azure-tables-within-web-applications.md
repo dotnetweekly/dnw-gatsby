@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b94
-title: How to write to and read from Windows Azure tables within Web Applications
-url: http://blogs.msdn.com/b/brunoterkaly/archive/2013/11/09/how-to-write-to-and-read-from-windows-azure-tables-within-web-applications.aspx
-category: articles
+title: 'How to write to and read from Windows Azure tables within Web Applications'
+url: 'http://blogs.msdn.com/b/brunoterkaly/archive/2013/11/09/how-to-write-to-and-read-from-windows-azure-tables-within-web-applications.aspx'
+category: 5a88e1aebd6dca0d5f0d2b94
 slug: 'how-to-write-to-and-read-from-windows-azure-tables-within-web-applications'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-11-09T12:52:10.000Z'
 tags: []
 ---

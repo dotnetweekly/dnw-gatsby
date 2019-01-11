@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2ff8
 title: 'Scott Hanselman: Mobile Web'
-url: http://scott-hanselman-edi-2012.eventbrite.com/
-category: events-training
+url: 'http://scott-hanselman-edi-2012.eventbrite.com/'
+category: 5a88e1afbd6dca0d5f0d2ff8
 slug: 'scott-hanselman-mobile-web'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2012-06-22T07:19:24.000Z'
 tags: []
 ---

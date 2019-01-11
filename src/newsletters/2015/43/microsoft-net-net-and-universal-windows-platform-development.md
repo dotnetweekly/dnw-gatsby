@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2544
-title: Microsoft .NET - .NET and Universal Windows Platform Development
-url: https://msdn.microsoft.com/en-us/magazine/mt590967
-category: articles
+title: 'Microsoft .NET - .NET and Universal Windows Platform Development'
+url: 'https://msdn.microsoft.com/en-us/magazine/mt590967'
+category: 5a88e1adbd6dca0d5f0d2544
 slug: 'microsoft-net-net-and-universal-windows-platform-development'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-10-24T09:45:42.000Z'
 tags: []
 ---

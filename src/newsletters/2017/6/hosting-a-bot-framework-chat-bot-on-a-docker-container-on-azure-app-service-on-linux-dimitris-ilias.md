@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d2032
-title: Hosting a Bot Framework chat bot on a Docker container on Azure App Service on Linux – Dimitris-Ilias Gkanatsios
-url: https://dgkanatsios.com/2017/02/07/hosting-a-bot-framework-chat-bot-on-a-docker-container-on-azure-app-service-on-linux/
-category: articles
+title: 'Hosting a Bot Framework chat bot on a Docker container on Azure App Service on Linux – Dimitris-Ilias Gkanatsios'
+url: 'https://dgkanatsios.com/2017/02/07/hosting-a-bot-framework-chat-bot-on-a-docker-container-on-azure-app-service-on-linux/'
+category: 5a88e1abbd6dca0d5f0d2032
 slug: 'hosting-a-bot-framework-chat-bot-on-a-docker-container-on-azure-app-service-on-linux-dimitris-ilias'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2017-02-08T22:04:30.000Z'
 tags: []
 ---

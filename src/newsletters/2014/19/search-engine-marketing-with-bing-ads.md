@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d29f6
-title: Search Engine Marketing with Bing Ads
-url: http://www.microsoftvirtualacademy.com/Live-Training-Events
-category: events-training
+title: 'Search Engine Marketing with Bing Ads'
+url: 'http://www.microsoftvirtualacademy.com/Live-Training-Events'
+category: 5a88e1aebd6dca0d5f0d29f6
 slug: 'search-engine-marketing-with-bing-ads'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-05-10T09:40:10.000Z'
 tags: []
 ---

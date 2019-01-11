@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d27aa
-title: Licensing changes - User acceptance testing and Agile planning
-url: http://blogs.msdn.com/b/bharry/archive/2015/01/27/licensing-changes-user-acceptance-testing-and-agile-planning.aspx
-category: libraries-tools
+title: 'Licensing changes - User acceptance testing and Agile planning'
+url: 'http://blogs.msdn.com/b/bharry/archive/2015/01/27/licensing-changes-user-acceptance-testing-and-agile-planning.aspx'
+category: 5a88e1adbd6dca0d5f0d27aa
 slug: 'licensing-changes-user-acceptance-testing-and-agile-planning'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-01-31T10:02:13.000Z'
 tags: []
 ---

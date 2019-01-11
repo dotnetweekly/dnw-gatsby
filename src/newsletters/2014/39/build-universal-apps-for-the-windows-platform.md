@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d28de
-title: Build Universal Apps for the Windows Platform
-url: http://msdn.microsoft.com/en-us/magazine/dn781364.aspx
-category: articles
+title: 'Build Universal Apps for the Windows Platform'
+url: 'http://msdn.microsoft.com/en-us/magazine/dn781364.aspx'
+category: 5a88e1aebd6dca0d5f0d28de
 slug: 'build-universal-apps-for-the-windows-platform'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-09-27T07:49:12.000Z'
 tags: []
 ---

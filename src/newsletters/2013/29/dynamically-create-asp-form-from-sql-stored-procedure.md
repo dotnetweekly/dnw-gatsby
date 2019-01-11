@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2c6a
-title: Dynamically Create ASP Form from SQL Stored Procedure
-url: http://www.codeproject.com/Articles/615899/Dynamically-Create-ASP-Form-from-SQL-Stored-Proced
-category: articles
+title: 'Dynamically Create ASP Form from SQL Stored Procedure'
+url: 'http://www.codeproject.com/Articles/615899/Dynamically-Create-ASP-Form-from-SQL-Stored-Proced'
+category: 5a88e1afbd6dca0d5f0d2c6a
 slug: 'dynamically-create-asp-form-from-sql-stored-procedure'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-07-20T08:15:09.000Z'
 tags: []
 ---

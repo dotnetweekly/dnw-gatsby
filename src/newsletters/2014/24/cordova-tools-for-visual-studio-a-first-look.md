@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d29c0
 title: 'Cordova Tools for Visual Studio: A first Look'
-url: http://stevenedouard.com/cordova-tools-visual-studio-first-look/
-category: libraries-tools
+url: 'http://stevenedouard.com/cordova-tools-visual-studio-first-look/'
+category: 5a88e1aebd6dca0d5f0d29c0
 slug: 'cordova-tools-for-visual-studio-a-first-look'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-06-14T15:56:14.000Z'
 tags: []
 ---

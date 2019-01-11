@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a82
-title: How to Implement a Service Architecture on Windows Azure using WCF, WPF, and Unit Testing
-url: http://blogs.msdn.com/b/brunoterkaly/archive/2014/03/13/how-to-implement-a-service-architecture-on-windows-azure-using-wcf-wpf-and-unit-testing.aspx
-category: articles
+title: 'How to Implement a Service Architecture on Windows Azure using WCF, WPF, and Unit Testing'
+url: 'http://blogs.msdn.com/b/brunoterkaly/archive/2014/03/13/how-to-implement-a-service-architecture-on-windows-azure-using-wcf-wpf-and-unit-testing.aspx'
+category: 5a88e1aebd6dca0d5f0d2a82
 slug: 'how-to-implement-a-service-architecture-on-windows-azure-using-wcf-wpf-and-unit-testing'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-03-15T09:51:47.000Z'
 tags: []
 ---

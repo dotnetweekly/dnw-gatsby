@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d26b0
 title: 'Deep Dive Friday: Visual Studio 2015: Debugging for the Win'
-url: https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032621879&culture=en-US
-category: events-training
+url: 'https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032621879&culture=en-US'
+category: 5a88e1adbd6dca0d5f0d26b0
 slug: 'deep-dive-friday-visual-studio-2015-debugging-for-the-win'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-05-16T09:13:03.000Z'
 tags: []
 ---

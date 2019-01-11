@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2962
-title: Implement secure ASP.NET MVC applications
-url: http://www.codeproject.com/Articles/288631/Secure-ASP-NET-MVC-applications
-category: articles
+title: 'Implement secure ASP.NET MVC applications'
+url: 'http://www.codeproject.com/Articles/288631/Secure-ASP-NET-MVC-applications'
+category: 5a88e1aebd6dca0d5f0d2962
 slug: 'implement-secure-asp-net-mvc-applications'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-07-26T11:11:34.000Z'
 tags: []
 ---

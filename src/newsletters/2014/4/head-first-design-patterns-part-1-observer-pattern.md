@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2aec
 title: 'Head First Design Patterns - Part 1: Observer Pattern'
-url: http://wintellect.com/blogs/jwood/head-first-design-patterns---part-1-observer-pattern
-category: articles
+url: 'http://wintellect.com/blogs/jwood/head-first-design-patterns---part-1-observer-pattern'
+category: 5a88e1aebd6dca0d5f0d2aec
 slug: 'head-first-design-patterns-part-1-observer-pattern'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-01-25T19:28:45.000Z'
 tags: []
 ---

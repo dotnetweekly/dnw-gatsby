@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a32
-title: Authoring Windows 8.1 Apps in XAML
-url: http://blogs.msdn.com/b/visualstudio/archive/2014/04/15/authoring-windows-8-1-apps-in-xaml.aspx
-category: articles
+title: 'Authoring Windows 8.1 Apps in XAML'
+url: 'http://blogs.msdn.com/b/visualstudio/archive/2014/04/15/authoring-windows-8-1-apps-in-xaml.aspx'
+category: 5a88e1aebd6dca0d5f0d2a32
 slug: 'authoring-windows-8-1-apps-in-xaml'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-04-18T07:49:26.000Z'
 tags: []
 ---

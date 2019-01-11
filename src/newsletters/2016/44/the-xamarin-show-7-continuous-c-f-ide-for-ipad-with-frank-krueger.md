@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d219e
 title: 'The Xamarin Show 7: Continuous C# &amp; F# IDE for iPad with Frank Krueger'
-url: https://channel9.msdn.com/Shows/XamarinShow/Continuous-CSharp-IDE-for-iPad-with-Frank-Krueger
-category: videos
+url: 'https://channel9.msdn.com/Shows/XamarinShow/Continuous-CSharp-IDE-for-iPad-with-Frank-Krueger'
+category: 5a88e1acbd6dca0d5f0d219e
 slug: 'the-xamarin-show-7-continuous-c-f-ide-for-ipad-with-frank-krueger'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-10-29T09:43:24.000Z'
 tags: []
 ---

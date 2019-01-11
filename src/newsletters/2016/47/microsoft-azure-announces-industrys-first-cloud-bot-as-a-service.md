@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d215a
-title: Microsoft Azure Announces Industry’s First Cloud Bot-as-a-Service
-url: https://azure.microsoft.com/en-us/blog/microsoft-azure-announces-industry-s-first-cloud-bot-as-a-service/
-category: articles
+title: 'Microsoft Azure Announces Industry’s First Cloud Bot-as-a-Service'
+url: 'https://azure.microsoft.com/en-us/blog/microsoft-azure-announces-industry-s-first-cloud-bot-as-a-service/'
+category: 5a88e1acbd6dca0d5f0d215a
 slug: 'microsoft-azure-announces-industrys-first-cloud-bot-as-a-service'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-11-19T03:57:27.000Z'
 tags: []
 ---

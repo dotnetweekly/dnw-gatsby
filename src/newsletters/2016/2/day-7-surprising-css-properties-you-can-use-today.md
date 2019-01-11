@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2486
 title: 'DAY 7: SURPRISING CSS PROPERTIES YOU CAN USE TODAY'
-url: http://12devsofxmas.co.uk/2016/01/day-7-surprising-css-properties-you-can-use-today/?utm_source=CSS-Weekly&utm_campaign=Issue-197&utm_medium=email
-category: articles
+url: 'http://12devsofxmas.co.uk/2016/01/day-7-surprising-css-properties-you-can-use-today/?utm_source=CSS-Weekly&utm_campaign=Issue-197&utm_medium=email'
+category: 5a88e1adbd6dca0d5f0d2486
 slug: 'day-7-surprising-css-properties-you-can-use-today'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-01-10T03:03:59.000Z'
 tags: []
 ---

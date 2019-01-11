@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2260
-title: Using Microsoft Test Manager (MTM) with multiple Environments
-url: http://www.dotnetcurry.com/visualstudio/1288/microsoft-test-manager-mtm-multiple-environment
-category: articles
+title: 'Using Microsoft Test Manager (MTM) with multiple Environments'
+url: 'http://www.dotnetcurry.com/visualstudio/1288/microsoft-test-manager-mtm-multiple-environment'
+category: 5a88e1acbd6dca0d5f0d2260
 slug: 'using-microsoft-test-manager-mtm-with-multiple-environments'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-08-13T17:33:09.000Z'
 tags: []
 ---

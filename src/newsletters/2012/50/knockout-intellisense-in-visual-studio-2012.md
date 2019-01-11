@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2e24
-title: Knockout Intellisense in Visual Studio 2012
-url: http://www.johnpapa.net/knockout-intellisense-in-visual-studio-2012/
-category: libraries-tools
+title: 'Knockout Intellisense in Visual Studio 2012'
+url: 'http://www.johnpapa.net/knockout-intellisense-in-visual-studio-2012/'
+category: 5a88e1afbd6dca0d5f0d2e24
 slug: 'knockout-intellisense-in-visual-studio-2012'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2012-12-14T17:47:58.000Z'
 tags: []
 ---

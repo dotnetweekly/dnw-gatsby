@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a6e
-title: 8 year old kid builds Windows Phone app using App Studio
-url: http://blogs.windows.com/windows_phone/b/windowsphone/archive/2014/03/05/8-year-old-kid-builds-windows-phone-app-using-app-studio.aspx
-category: articles
+title: '8 year old kid builds Windows Phone app using App Studio'
+url: 'http://blogs.windows.com/windows_phone/b/windowsphone/archive/2014/03/05/8-year-old-kid-builds-windows-phone-app-using-app-studio.aspx'
+category: 5a88e1aebd6dca0d5f0d2a6e
 slug: '8-year-old-kid-builds-windows-phone-app-using-app-studio'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-03-22T18:45:46.000Z'
 tags: []
 ---

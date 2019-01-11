@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d27dc
-title: Join us to hear about the next chapter of Windows 10
-url: http://blogs.windows.com/bloggingwindows/2014/12/11/join-us-to-hear-about-the-next-chapter-of-windows-10/
-category: events-training
+title: 'Join us to hear about the next chapter of Windows 10'
+url: 'http://blogs.windows.com/bloggingwindows/2014/12/11/join-us-to-hear-about-the-next-chapter-of-windows-10/'
+category: 5a88e1adbd6dca0d5f0d27dc
 slug: 'join-us-to-hear-about-the-next-chapter-of-windows-10'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-01-09T20:52:14.000Z'
 tags: []
 ---

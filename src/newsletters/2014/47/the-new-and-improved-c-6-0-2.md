@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d283a
-title: The New and Improved C# 6.0
-url: http://msdn.microsoft.com/en-us/magazine/dn802602.aspx
-category: articles
+title: 'The New and Improved C# 6.0'
+url: 'http://msdn.microsoft.com/en-us/magazine/dn802602.aspx'
+category: 5a88e1aebd6dca0d5f0d283a
 slug: 'the-new-and-improved-c-6-0-2'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-11-22T00:27:19.000Z'
 tags: []
 ---

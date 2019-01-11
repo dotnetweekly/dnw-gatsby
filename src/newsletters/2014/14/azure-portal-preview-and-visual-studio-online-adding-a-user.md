@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a5a
 title: 'Azure Portal Preview and Visual Studio Online: Adding a user'
-url: http://blogs.msdn.com/b/buckh/archive/2014/04/03/azure-portal-preview-and-visual-studio-online-adding-a-user.aspx
-category: articles
+url: 'http://blogs.msdn.com/b/buckh/archive/2014/04/03/azure-portal-preview-and-visual-studio-online-adding-a-user.aspx'
+category: 5a88e1aebd6dca0d5f0d2a5a
 slug: 'azure-portal-preview-and-visual-studio-online-adding-a-user'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-04-05T08:26:23.000Z'
 tags: []
 ---

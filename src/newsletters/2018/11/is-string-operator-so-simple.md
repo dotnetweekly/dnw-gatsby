@@ -1,12 +1,13 @@
 ---
 _id: 5aaa4cf0bd74e8024ebdd77f
-title: Is string operator “+” so simple?
-url: http://codingsight.com/is-string-operator-so-simple/
-category: articles
+title: 'Is string operator “+” so simple?'
+url: 'http://codingsight.com/is-string-operator-so-simple/'
+category: 5aaa4cf0bd74e8024ebdd77f
 slug: 'is-string-operator-so-simple'
 user_id: 5aaa4af315c227023e22fe4b
+username: 'Dandy123'
 createdOn: '2018-03-15T10:37:01.552Z'
-tags: ['.net','c#']
+tags: [.net,c#]
 ---
 
 A string data type is one of the fundamental data types, along with numeric (int, long, double) and logical (Boolean) ones. You can hardly imagine at least one useful program that does not utilize this type.

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2654
 title: 'Save the Date: Visual Studio 2015 RTM on July 20th'
-url: http://blogs.msdn.com/b/somasegar/archive/2015/06/29/save-the-date-visual-studio-2015-rtm-on-july-20th.aspx
-category: libraries-tools
+url: 'http://blogs.msdn.com/b/somasegar/archive/2015/06/29/save-the-date-visual-studio-2015-rtm-on-july-20th.aspx'
+category: 5a88e1adbd6dca0d5f0d2654
 slug: 'save-the-date-visual-studio-2015-rtm-on-july-20th'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-06-27T09:42:59.000Z'
 tags: []
 ---

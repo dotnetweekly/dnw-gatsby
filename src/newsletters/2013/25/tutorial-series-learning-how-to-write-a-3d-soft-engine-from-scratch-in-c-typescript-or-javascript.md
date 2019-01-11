@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2c94
 title: 'Tutorial series: learning how to write a 3D soft engine from scratch in C#, TypeScript or JavaScript'
-url: http://blogs.msdn.com/b/davrous/archive/2013/06/13/tutorial-series-learning-how-to-write-a-3d-soft-engine-from-scratch-in-c-typescript-or-javascript.aspx
-category: articles
+url: 'http://blogs.msdn.com/b/davrous/archive/2013/06/13/tutorial-series-learning-how-to-write-a-3d-soft-engine-from-scratch-in-c-typescript-or-javascript.aspx'
+category: 5a88e1afbd6dca0d5f0d2c94
 slug: 'tutorial-series-learning-how-to-write-a-3d-soft-engine-from-scratch-in-c-typescript-or-javascript'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-06-22T07:14:25.000Z'
 tags: []
 ---

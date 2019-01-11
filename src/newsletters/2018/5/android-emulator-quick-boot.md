@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1a78
-title: Android Emulator Quick Boot
-url: https://blog.xamarin.com/android-emulator-quick-boot/
-category: libraries-tools
+title: 'Android Emulator Quick Boot'
+url: 'https://blog.xamarin.com/android-emulator-quick-boot/'
+category: 5a88e1aabd6dca0d5f0d1a78
 slug: 'android-emulator-quick-boot'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2018-02-02T19:38:20.000Z'
 tags: []
 ---

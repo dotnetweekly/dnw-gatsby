@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d29fe
-title: Introducing ASP.NET vNext
-url: http://www.hanselman.com/blog/IntroducingASPNETVNext.aspx
-category: libraries-tools
+title: 'Introducing ASP.NET vNext'
+url: 'http://www.hanselman.com/blog/IntroducingASPNETVNext.aspx'
+category: 5a88e1aebd6dca0d5f0d29fe
 slug: 'introducing-asp-net-vnext'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-05-10T06:50:51.000Z'
 tags: []
 ---

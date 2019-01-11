@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d276a
-title: Introducing the UI debugging tools for XAML
-url: http://blogs.msdn.com/b/visualstudio/archive/2015/02/24/introducing-the-ui-debugging-tools-for-xaml.aspx
-category: articles
+title: 'Introducing the UI debugging tools for XAML'
+url: 'http://blogs.msdn.com/b/visualstudio/archive/2015/02/24/introducing-the-ui-debugging-tools-for-xaml.aspx'
+category: 5a88e1adbd6dca0d5f0d276a
 slug: 'introducing-the-ui-debugging-tools-for-xaml'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-02-28T09:58:24.000Z'
 tags: []
 ---

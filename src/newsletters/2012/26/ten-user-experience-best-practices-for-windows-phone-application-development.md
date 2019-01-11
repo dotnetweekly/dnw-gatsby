@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2fda
-title: Ten User Experience Best Practices for Windows Phone Application Development
-url: http://research.microsoft.com/apps/mobile/video.aspx?id=157227
-category: videos
+title: 'Ten User Experience Best Practices for Windows Phone Application Development'
+url: 'http://research.microsoft.com/apps/mobile/video.aspx?id=157227'
+category: 5a88e1afbd6dca0d5f0d2fda
 slug: 'ten-user-experience-best-practices-for-windows-phone-application-development'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2012-06-29T08:13:00.000Z'
 tags: []
 ---

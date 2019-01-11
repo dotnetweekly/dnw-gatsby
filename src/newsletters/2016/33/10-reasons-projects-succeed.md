@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d226c
-title: 10 Reasons Projects Succeed
-url: http://blog.dmbcllc.com/10-reasons-projects-succeed/
-category: articles
+title: '10 Reasons Projects Succeed'
+url: 'http://blog.dmbcllc.com/10-reasons-projects-succeed/'
+category: 5a88e1acbd6dca0d5f0d226c
 slug: '10-reasons-projects-succeed'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-08-13T17:12:33.000Z'
 tags: []
 ---

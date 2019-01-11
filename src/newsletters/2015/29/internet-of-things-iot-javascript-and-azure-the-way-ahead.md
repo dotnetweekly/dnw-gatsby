@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2624
-title: Internet of Things (IoT), JavaScript and Azure – The Way Ahead
-url: http://www.dotnetcurry.com/windows-azure/1154/internet-of-things-iot-javascript-nodejs-azure
-category: articles
+title: 'Internet of Things (IoT), JavaScript and Azure – The Way Ahead'
+url: 'http://www.dotnetcurry.com/windows-azure/1154/internet-of-things-iot-javascript-nodejs-azure'
+category: 5a88e1adbd6dca0d5f0d2624
 slug: 'internet-of-things-iot-javascript-and-azure-the-way-ahead'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-07-18T08:40:46.000Z'
 tags: []
 ---

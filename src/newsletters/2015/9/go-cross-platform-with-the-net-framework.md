@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2762
-title: Go Cross-Platform with the .NET Framework
-url: https://msdn.microsoft.com/en-us/magazine/dn913184.aspx
-category: articles
+title: 'Go Cross-Platform with the .NET Framework'
+url: 'https://msdn.microsoft.com/en-us/magazine/dn913184.aspx'
+category: 5a88e1adbd6dca0d5f0d2762
 slug: 'go-cross-platform-with-the-net-framework'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-03-01T01:06:05.000Z'
 tags: []
 ---

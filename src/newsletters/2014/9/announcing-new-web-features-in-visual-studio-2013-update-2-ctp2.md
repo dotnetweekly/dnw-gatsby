@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a9c
-title: Announcing new Web Features in Visual Studio 2013 Update 2 CTP2
-url: http://blogs.msdn.com/b/webdev/archive/2014/02/25/announcing-new-web-features-in-visual-studio-2013-update-2-ctp2.aspx
-category: libraries-tools
+title: 'Announcing new Web Features in Visual Studio 2013 Update 2 CTP2'
+url: 'http://blogs.msdn.com/b/webdev/archive/2014/02/25/announcing-new-web-features-in-visual-studio-2013-update-2-ctp2.aspx'
+category: 5a88e1aebd6dca0d5f0d2a9c
 slug: 'announcing-new-web-features-in-visual-studio-2013-update-2-ctp2'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-03-01T09:21:51.000Z'
 tags: []
 ---

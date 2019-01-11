@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b18
-title: Troubleshooting Applications with IIS Logs
-url: http://msdn.microsoft.com/en-us/magazine/dn519926.aspx
-category: articles
+title: 'Troubleshooting Applications with IIS Logs'
+url: 'http://msdn.microsoft.com/en-us/magazine/dn519926.aspx'
+category: 5a88e1aebd6dca0d5f0d2b18
 slug: 'troubleshooting-applications-with-iis-logs'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-01-11T09:50:09.000Z'
 tags: []
 ---

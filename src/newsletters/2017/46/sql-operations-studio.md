@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1bdc
-title: SQL Operations Studio
-url: https://www.microsoft.com/en-us/sql-server/sql-server-downloads
-category: articles
+title: 'SQL Operations Studio'
+url: 'https://www.microsoft.com/en-us/sql-server/sql-server-downloads'
+category: 5a88e1aabd6dca0d5f0d1bdc
 slug: 'sql-operations-studio'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2017-11-16T11:08:52.000Z'
 tags: []
 ---

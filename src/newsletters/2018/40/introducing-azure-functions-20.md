@@ -1,12 +1,13 @@
 ---
 _id: 5bb5a48615695b7387f150c8
-title: Introducing Azure Functions 2.0
-url: https://azure.microsoft.com/en-us/blog/introducing-azure-functions-2-0/
-category: articles
+title: 'Introducing Azure Functions 2.0'
+url: 'https://azure.microsoft.com/en-us/blog/introducing-azure-functions-2-0/'
+category: 5bb5a48615695b7387f150c8
 slug: 'introducing-azure-functions-20'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2018-10-04T05:26:30.960Z'
-tags: ['azure']
+tags: [azure]
 ---
 
 Today, we’re very pleased to announce the general availability of Azure Functions 2.0! This is a huge milestone packed with several capabilities, all focused around making it easier than ever for you to build highly scalable serverless applications.

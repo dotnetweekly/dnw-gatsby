@@ -1,12 +1,13 @@
 ---
 _id: 5b7c1850e629202ba0f3fe96
-title: Handling a GDI Resource Leak
-url: https://codingsight.com/gdi-leak-handling/
-category: articles
+title: 'Handling a GDI Resource Leak'
+url: 'https://codingsight.com/gdi-leak-handling/'
+category: 5b7c1850e629202ba0f3fe96
 slug: 'handling-a-gdi-resource-leak'
 user_id: 5aaa4af315c227023e22fe4b
+username: 'Dandy123'
 createdOn: '2018-08-21T13:49:04.067Z'
-tags: ['.net','c#','visual-studio']
+tags: [.net,c#,visual-studio]
 ---
 
 GDI leak (or, simply the usage of too many GDI objects) is one of the most common problems. It eventually causes rendering problems, errors, and/or performance problems. The article describes how we debug this problem.

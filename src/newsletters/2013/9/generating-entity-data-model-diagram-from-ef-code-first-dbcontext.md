@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d92
-title: Generating Entity Data Model Diagram from EF Code First DbContext
-url: http://weblogs.asp.net/shijuvarghese/archive/2013/03/03/generating-entity-data-model-diagram-from-ef-code-first-dbcontext.aspx
-category: libraries-tools
+title: 'Generating Entity Data Model Diagram from EF Code First DbContext'
+url: 'http://weblogs.asp.net/shijuvarghese/archive/2013/03/03/generating-entity-data-model-diagram-from-ef-code-first-dbcontext.aspx'
+category: 5a88e1afbd6dca0d5f0d2d92
 slug: 'generating-entity-data-model-diagram-from-ef-code-first-dbcontext'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-03-02T21:44:30.000Z'
 tags: []
 ---

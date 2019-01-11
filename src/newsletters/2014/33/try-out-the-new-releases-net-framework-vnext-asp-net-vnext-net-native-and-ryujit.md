@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d292e
 title: 'Try out the new releases: .NET Framework vNext, ASP.NET vNext, .NET Native and RyuJIT'
-url: http://blogs.msdn.com/b/dotnet/archive/2014/08/18/try-out-the-new-releases-net-framework-vnext-asp-net-vnext-net-native-and-ryujit.aspx
-category: libraries-tools
+url: 'http://blogs.msdn.com/b/dotnet/archive/2014/08/18/try-out-the-new-releases-net-framework-vnext-asp-net-vnext-net-native-and-ryujit.aspx'
+category: 5a88e1aebd6dca0d5f0d292e
 slug: 'try-out-the-new-releases-net-framework-vnext-asp-net-vnext-net-native-and-ryujit'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-08-16T09:30:04.000Z'
 tags: []
 ---

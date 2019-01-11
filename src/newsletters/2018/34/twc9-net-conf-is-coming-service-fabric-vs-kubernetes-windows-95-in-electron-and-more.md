@@ -1,12 +1,13 @@
 ---
 _id: 5b81ca5ce7b8b99fab1cb278
 title: 'TWC9: .NET Conf is Coming, Service Fabric vs Kubernetes, Windows 95 in Electron and more'
-url: https://channel9.msdn.com/Shows/This+Week+On+Channel+9/TWC9-NET-Conf-is-Coming-Service-Fabric-vs-Kubernetes-Windows-95-in-Electron-and-more
-category: videos
+url: 'https://channel9.msdn.com/Shows/This+Week+On+Channel+9/TWC9-NET-Conf-is-Coming-Service-Fabric-vs-Kubernetes-Windows-95-in-Electron-and-more'
+category: 5b81ca5ce7b8b99fab1cb278
 slug: 'twc9-net-conf-is-coming-service-fabric-vs-kubernetes-windows-95-in-electron-and-more'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2018-08-25T21:30:04.005Z'
-tags: ['.net']
+tags: [.net]
 ---
 
 This week on Channel 9, Christina is trying to brave the worst air quality in Puget Sound history and the waning dog days of summer with the latest developer news, including:

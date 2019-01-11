@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2644
-title: Networking API Improvements in Windows 10
-url: http://blogs.windows.com/buildingapps/2015/07/02/networking-api-improvements-in-windows-10/
-category: articles
+title: 'Networking API Improvements in Windows 10'
+url: 'http://blogs.windows.com/buildingapps/2015/07/02/networking-api-improvements-in-windows-10/'
+category: 5a88e1adbd6dca0d5f0d2644
 slug: 'networking-api-improvements-in-windows-10'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-07-04T07:37:02.000Z'
 tags: []
 ---

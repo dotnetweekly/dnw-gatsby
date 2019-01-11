@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d27b8
-title: The Road to C# 7 Has Begun
-url: http://www.infoq.com/news/2015/01/CSharp-7-Intro
-category: articles
+title: 'The Road to C# 7 Has Begun'
+url: 'http://www.infoq.com/news/2015/01/CSharp-7-Intro'
+category: 5a88e1adbd6dca0d5f0d27b8
 slug: 'the-road-to-c-7-has-begun'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-01-30T23:21:14.000Z'
 tags: []
 ---

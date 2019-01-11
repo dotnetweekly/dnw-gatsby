@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d220c
-title: Announcing September 2016 Updates for .NET Core 1.0
-url: https://blogs.msdn.microsoft.com/dotnet/2016/09/13/announcing-september-2016-updates-for-net-core-1-0/
-category: articles
+title: 'Announcing September 2016 Updates for .NET Core 1.0'
+url: 'https://blogs.msdn.microsoft.com/dotnet/2016/09/13/announcing-september-2016-updates-for-net-core-1-0/'
+category: 5a88e1acbd6dca0d5f0d220c
 slug: 'announcing-september-2016-updates-for-net-core-1-0'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-09-14T21:24:38.000Z'
 tags: []
 ---

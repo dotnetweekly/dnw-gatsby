@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2cd2
-title: The New Windows Dev Center
-url: http://msdn.microsoft.com/en-us/windows
-category: libraries-tools
+title: 'The New Windows Dev Center'
+url: 'http://msdn.microsoft.com/en-us/windows'
+category: 5a88e1afbd6dca0d5f0d2cd2
 slug: 'the-new-windows-dev-center'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-05-18T05:28:47.000Z'
 tags: []
 ---

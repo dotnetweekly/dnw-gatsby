@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2588
-title: Network simulation and more in the VS Emulator for Android
-url: http://blogs.msdn.com/b/visualstudioalm/archive/2015/09/25/network-simulation-and-more-in-the-vs-emulator-for-android.aspx
-category: libraries-tools
+title: 'Network simulation and more in the VS Emulator for Android'
+url: 'http://blogs.msdn.com/b/visualstudioalm/archive/2015/09/25/network-simulation-and-more-in-the-vs-emulator-for-android.aspx'
+category: 5a88e1adbd6dca0d5f0d2588
 slug: 'network-simulation-and-more-in-the-vs-emulator-for-android'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-09-26T08:51:31.000Z'
 tags: []
 ---

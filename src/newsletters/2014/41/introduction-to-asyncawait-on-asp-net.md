@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d28b6
-title: Introduction to Async/Await on ASP.NET
-url: http://msdn.microsoft.com/en-us/magazine/dn802603.aspx?loc=zbtfz_zYFCz&prod=zOtProdz&tech=zOtScenz&lang=zASPNz&prog=zTNMz&type=zMagz&country=zUSz
-category: articles
+title: 'Introduction to Async/Await on ASP.NET'
+url: 'http://msdn.microsoft.com/en-us/magazine/dn802603.aspx?loc=zbtfz_zYFCz&prod=zOtProdz&tech=zOtScenz&lang=zASPNz&prog=zTNMz&type=zMagz&country=zUSz'
+category: 5a88e1aebd6dca0d5f0d28b6
 slug: 'introduction-to-asyncawait-on-asp-net'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-10-10T18:00:55.000Z'
 tags: []
 ---

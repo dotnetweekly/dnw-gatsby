@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d257c
-title: Introducing U-SQL – A Language that makes Big Data Processing Easy
-url: http://blogs.msdn.com/b/visualstudio/archive/2015/09/28/introducing-u-sql.aspx
-category: articles
+title: 'Introducing U-SQL – A Language that makes Big Data Processing Easy'
+url: 'http://blogs.msdn.com/b/visualstudio/archive/2015/09/28/introducing-u-sql.aspx'
+category: 5a88e1adbd6dca0d5f0d257c
 slug: 'introducing-u-sql-a-language-that-makes-big-data-processing-easy'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-10-03T07:45:53.000Z'
 tags: []
 ---

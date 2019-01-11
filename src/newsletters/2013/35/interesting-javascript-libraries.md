@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2c36
-title: Interesting Javascript Libraries
-url: http://www.dotnetweekly.com/?p=1669
-category: libraries-tools
+title: 'Interesting Javascript Libraries'
+url: 'http://www.dotnetweekly.com/?p=1669'
+category: 5a88e1aebd6dca0d5f0d2c36
 slug: 'interesting-javascript-libraries'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-08-30T18:06:44.000Z'
 tags: []
 ---

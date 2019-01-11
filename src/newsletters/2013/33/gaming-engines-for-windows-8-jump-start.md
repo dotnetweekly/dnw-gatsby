@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2c4a
-title: Gaming Engines for Windows 8 Jump Start
-url: http://www.microsoftvirtualacademy.com/liveevents/gaming-engines-for-windows-8-jump-start?CR_CC=200263145#fbid=RfHc7HWJo2b
-category: events-training
+title: 'Gaming Engines for Windows 8 Jump Start'
+url: 'http://www.microsoftvirtualacademy.com/liveevents/gaming-engines-for-windows-8-jump-start?CR_CC=200263145#fbid=RfHc7HWJo2b'
+category: 5a88e1aebd6dca0d5f0d2c4a
 slug: 'gaming-engines-for-windows-8-jump-start'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-08-16T19:52:39.000Z'
 tags: []
 ---

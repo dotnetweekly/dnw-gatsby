@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2db8
 title: 'Walkthrough: Publishing an F#/C# MVC Application to Windows Azure'
-url: http://msdn.microsoft.com/en-us/library/jj865569.aspx
-category: articles
+url: 'http://msdn.microsoft.com/en-us/library/jj865569.aspx'
+category: 5a88e1afbd6dca0d5f0d2db8
 slug: 'walkthrough-publishing-an-fc-mvc-application-to-windows-azure'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-02-08T10:58:50.000Z'
 tags: []
 ---

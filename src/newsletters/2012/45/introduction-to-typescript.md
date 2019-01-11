@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2e5e
-title: Introduction to TypeScript
-url: http://blogs.msdn.com/b/bryang/archive/2012/11/05/introduction-to-typescript.aspx
-category: articles
+title: 'Introduction to TypeScript'
+url: 'http://blogs.msdn.com/b/bryang/archive/2012/11/05/introduction-to-typescript.aspx'
+category: 5a88e1afbd6dca0d5f0d2e5e
 slug: 'introduction-to-typescript'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2012-11-09T17:40:54.000Z'
 tags: []
 ---

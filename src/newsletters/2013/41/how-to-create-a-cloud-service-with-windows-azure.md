@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2bd8
-title: How to Create a Cloud Service With Windows Azure
-url: http://www.jeremymorgan.com/tutorials/windows-azure/how-to-create-a-cloud-service-with-azure/
-category: articles
+title: 'How to Create a Cloud Service With Windows Azure'
+url: 'http://www.jeremymorgan.com/tutorials/windows-azure/how-to-create-a-cloud-service-with-azure/'
+category: 5a88e1aebd6dca0d5f0d2bd8
 slug: 'how-to-create-a-cloud-service-with-windows-azure'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-10-12T09:18:41.000Z'
 tags: []
 ---

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2532
-title: Performance Tests for Azure Web Apps
-url: http://geekswithblogs.net/jakob/archive/2015/11/02/performance-tests-for-azure-web-apps.aspx
-category: articles
+title: 'Performance Tests for Azure Web Apps'
+url: 'http://geekswithblogs.net/jakob/archive/2015/11/02/performance-tests-for-azure-web-apps.aspx'
+category: 5a88e1adbd6dca0d5f0d2532
 slug: 'performance-tests-for-azure-web-apps'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-11-01T00:10:10.000Z'
 tags: []
 ---

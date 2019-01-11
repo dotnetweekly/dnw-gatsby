@@ -2,11 +2,12 @@
 _id: 5c0a2268d9a5936118f70e8d
 title: 'Microsoft Edge and Chromium Open Source: Our Intent'
 url: 'https://github.com/MicrosoftEdge/MSEdge'
-category: articles
+category: 5c0a2268d9a5936118f70e8d
 slug: 'microsoft-edge-and-chromium-open-source-our-intent'
 user_id: 5c060608d9a5932132f70e77
+username: 'dnwuryxfUK714'
 createdOn: '2018-12-07T07:34:00.918Z'
-tags: ['edge']
+tags: [edge]
 ---
 
 For the past few years, Microsoft has meaningfully increased participation in the open source software (OSS) community, becoming one of the world’s largest supporters of OSS projects. We are starting down a path to adopt Chromium open source in the development of Microsoft Edge on the desktop, becoming a larger contributor and user of its open source so that we can create better web compatibility for our customers and less-fragmentation of the web for all web developers.

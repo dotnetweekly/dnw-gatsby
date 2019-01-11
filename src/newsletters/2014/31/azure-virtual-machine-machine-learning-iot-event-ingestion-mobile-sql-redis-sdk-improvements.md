@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d294a
 title: 'Azure: Virtual Machine, Machine Learning, IoT Event Ingestion, Mobile, SQL, Redis, SDK Improvements'
-url: http://weblogs.asp.net/scottgu/azure-virtual-machine-machine-learning-iot-event-ingestion-mobile-sql-redis-sdk-improvements
-category: libraries-tools
+url: 'http://weblogs.asp.net/scottgu/azure-virtual-machine-machine-learning-iot-event-ingestion-mobile-sql-redis-sdk-improvements'
+category: 5a88e1aebd6dca0d5f0d294a
 slug: 'azure-virtual-machine-machine-learning-iot-event-ingestion-mobile-sql-redis-sdk-improvements'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-08-02T17:24:14.000Z'
 tags: []
 ---

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d298e
-title: 15 Free Ebooks For Mobile App Developers
-url: http://www.hongkiat.com/blog/free-ebooks-mobile-app-developers/
-category: books
+title: '15 Free Ebooks For Mobile App Developers'
+url: 'http://www.hongkiat.com/blog/free-ebooks-mobile-app-developers/'
+category: 5a88e1aebd6dca0d5f0d298e
 slug: '15-free-ebooks-for-mobile-app-developers'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-07-11T20:38:25.000Z'
 tags: []
 ---

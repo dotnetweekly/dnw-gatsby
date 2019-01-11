@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1afa
-title: Indicators of Problem Design
-url: http://codingsight.com/indicators-of-problem-design/
-category: articles
+title: 'Indicators of Problem Design'
+url: 'http://codingsight.com/indicators-of-problem-design/'
+category: 5a88e1aabd6dca0d5f0d1afa
 slug: 'indicators-of-problem-design'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2018-01-13T03:45:51.000Z'
 tags: []
 ---

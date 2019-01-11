@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d28f8
-title: 119 Code Smells
-url: http://www.red-gate.com/products/sql-development/sql-test/entrypage/code-smells?utm_source=simpletalk
-category: books
+title: '119 Code Smells'
+url: 'http://www.red-gate.com/products/sql-development/sql-test/entrypage/code-smells?utm_source=simpletalk'
+category: 5a88e1aebd6dca0d5f0d28f8
 slug: '119-code-smells'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-09-13T03:46:08.000Z'
 tags: []
 ---

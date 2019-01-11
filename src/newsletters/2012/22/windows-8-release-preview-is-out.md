@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d303c
-title: Windows 8 Release Preview is out!
-url: http://blogs.msdn.com/b/jennifer/archive/2012/05/31/windows-8-release-preview-is-out.aspx
-category: articles
+title: 'Windows 8 Release Preview is out!'
+url: 'http://blogs.msdn.com/b/jennifer/archive/2012/05/31/windows-8-release-preview-is-out.aspx'
+category: 5a88e1afbd6dca0d5f0d303c
 slug: 'windows-8-release-preview-is-out'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2012-06-01T09:00:10.000Z'
 tags: []
 ---

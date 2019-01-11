@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2baa
-title: Performance Considerations for Entity Framework 5
-url: http://msdn.microsoft.com/en-us/data/hh949853.aspx
-category: articles
+title: 'Performance Considerations for Entity Framework 5'
+url: 'http://msdn.microsoft.com/en-us/data/hh949853.aspx'
+category: 5a88e1aebd6dca0d5f0d2baa
 slug: 'performance-considerations-for-entity-framework-5'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-11-01T18:23:05.000Z'
 tags: []
 ---

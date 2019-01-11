@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2790
 title: '11 Things About JavaScript Functions that .NET Developers Should Know: Part 1'
-url: http://www.infragistics.com/community/blogs/dhananjay_kumar/archive/2015/02/10/all-about-javascript-functions.aspx
-category: articles
+url: 'http://www.infragistics.com/community/blogs/dhananjay_kumar/archive/2015/02/10/all-about-javascript-functions.aspx'
+category: 5a88e1adbd6dca0d5f0d2790
 slug: '11-things-about-javascript-functions-that-net-developers-should-know-part-1'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-02-13T02:56:14.000Z'
 tags: []
 ---

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d29f4
-title: Microsoft’s Special K – An Introduction to ASP.NET vNext
-url: http://developer.telerik.com/featured/microsofts-special-k-an-introduction-to-asp-net-vnext/
-category: libraries-tools
+title: 'Microsoft’s Special K – An Introduction to ASP.NET vNext'
+url: 'http://developer.telerik.com/featured/microsofts-special-k-an-introduction-to-asp-net-vnext/'
+category: 5a88e1aebd6dca0d5f0d29f4
 slug: 'microsofts-special-k-an-introduction-to-asp-net-vnext'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-05-17T01:18:43.000Z'
 tags: []
 ---

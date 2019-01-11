@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d22dc
-title: Data Binding - A Better Way to Implement Data Binding in .NET
-url: https://msdn.microsoft.com/magazine/mt736453
-category: articles
+title: 'Data Binding - A Better Way to Implement Data Binding in .NET'
+url: 'https://msdn.microsoft.com/magazine/mt736453'
+category: 5a88e1acbd6dca0d5f0d22dc
 slug: 'data-binding-a-better-way-to-implement-data-binding-in-net'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-07-02T08:33:29.000Z'
 tags: []
 ---

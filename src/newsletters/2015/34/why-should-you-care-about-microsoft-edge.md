@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d25e0
-title: Why should you care about Microsoft Edge?
-url: http://blogs.msdn.com/b/drougge/archive/2015/08/19/why-should-you-care-about-microsoft-edge.aspx
-category: articles
+title: 'Why should you care about Microsoft Edge?'
+url: 'http://blogs.msdn.com/b/drougge/archive/2015/08/19/why-should-you-care-about-microsoft-edge.aspx'
+category: 5a88e1adbd6dca0d5f0d25e0
 slug: 'why-should-you-care-about-microsoft-edge'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-08-20T23:20:11.000Z'
 tags: []
 ---

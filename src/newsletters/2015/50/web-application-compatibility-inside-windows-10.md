@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d24de
-title: Web Application Compatibility Inside Windows 10
-url: https://channel9.msdn.com/shows/inside-windows-platform/web-application-compatibility-inside-windows-10
-category: videos
+title: 'Web Application Compatibility Inside Windows 10'
+url: 'https://channel9.msdn.com/shows/inside-windows-platform/web-application-compatibility-inside-windows-10'
+category: 5a88e1adbd6dca0d5f0d24de
 slug: 'web-application-compatibility-inside-windows-10'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-12-10T21:59:11.000Z'
 tags: []
 ---

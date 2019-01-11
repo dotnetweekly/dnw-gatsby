@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1d24
-title: .NET Core Test Explorer for Visual Studio Code
-url: https://formulahendry.wordpress.com/2017/08/13/net-core-test-explorer-for-visual-studio-code/
-category: articles
+title: '.NET Core Test Explorer for Visual Studio Code'
+url: 'https://formulahendry.wordpress.com/2017/08/13/net-core-test-explorer-for-visual-studio-code/'
+category: 5a88e1abbd6dca0d5f0d1d24
 slug: 'net-core-test-explorer-for-visual-studio-code'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2017-08-27T08:27:53.000Z'
 tags: []
 ---

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d26
-title: NFC Tags
-url: http://blogs.msdn.com/b/msgulfcommunity/archive/2013/04/07/nfc-tags.aspx
-category: articles
+title: 'NFC Tags'
+url: 'http://blogs.msdn.com/b/msgulfcommunity/archive/2013/04/07/nfc-tags.aspx'
+category: 5a88e1afbd6dca0d5f0d2d26
 slug: 'nfc-tags'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-04-06T05:38:41.000Z'
 tags: []
 ---

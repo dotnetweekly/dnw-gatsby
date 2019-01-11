@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1bf2
-title: Live Unit Testing | ASP.NET Monsters
-url: https://aspnetmonsters.com/2017/11/monsters-weekly/ep110/
-category: videos
+title: 'Live Unit Testing | ASP.NET Monsters'
+url: 'https://aspnetmonsters.com/2017/11/monsters-weekly/ep110/'
+category: 5a88e1aabd6dca0d5f0d1bf2
 slug: 'live-unit-testing-asp-net-monsters'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2017-11-09T17:01:10.000Z'
 tags: []
 ---

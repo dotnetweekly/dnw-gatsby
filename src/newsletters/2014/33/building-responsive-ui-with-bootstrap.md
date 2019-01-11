@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2928
-title: Building Responsive UI with Bootstrap
-url: http://www.microsoftvirtualacademy.com/liveevents/building-responsive-ui-with-bootstrap
-category: events-training
+title: 'Building Responsive UI with Bootstrap'
+url: 'http://www.microsoftvirtualacademy.com/liveevents/building-responsive-ui-with-bootstrap'
+category: 5a88e1aebd6dca0d5f0d2928
 slug: 'building-responsive-ui-with-bootstrap'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-08-16T09:34:51.000Z'
 tags: []
 ---

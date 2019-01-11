@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d2018
-title: Manifoldjs is becoming PWA Builder – Web Dev @Microsoft
-url: https://medium.com/web-on-the-edge/manifoldjs-is-becoming-pwa-builder-to-simplify-building-progressive-web-apps-49bff31f9380#.7jotsl3kj
-category: libraries-tools
+title: 'Manifoldjs is becoming PWA Builder – Web Dev @Microsoft'
+url: 'https://medium.com/web-on-the-edge/manifoldjs-is-becoming-pwa-builder-to-simplify-building-progressive-web-apps-49bff31f9380#.7jotsl3kj'
+category: 5a88e1abbd6dca0d5f0d2018
 slug: 'manifoldjs-is-becoming-pwa-builder-web-dev-microsoft'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2017-02-16T00:43:09.000Z'
 tags: []
 ---

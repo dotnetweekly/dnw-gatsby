@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d23ac
-title: Team Foundation Server Extensions
-url: https://blogs.msdn.microsoft.com/visualstudioalm/2016/03/31/team-foundation-server-extensions-2/
-category: libraries-tools
+title: 'Team Foundation Server Extensions'
+url: 'https://blogs.msdn.microsoft.com/visualstudioalm/2016/03/31/team-foundation-server-extensions-2/'
+category: 5a88e1acbd6dca0d5f0d23ac
 slug: 'team-foundation-server-extensions'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-04-02T06:49:25.000Z'
 tags: []
 ---

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d24ac
-title: F#, event sourcing and CQRS tutorial... and agents
-url: http://blog.2mas.xyz/fsharp-event-sourcing-and-cqrs-tutorial-and-agents/
-category: articles
+title: 'F#, event sourcing and CQRS tutorial... and agents'
+url: 'http://blog.2mas.xyz/fsharp-event-sourcing-and-cqrs-tutorial-and-agents/'
+category: 5a88e1adbd6dca0d5f0d24ac
 slug: 'f-event-sourcing-and-cqrs-tutorial-and-agents'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-12-20T06:31:37.000Z'
 tags: []
 ---

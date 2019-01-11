@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d280e
-title: Microsoft acquires HockeyApp
-url: http://blogs.msdn.com/b/bharry/archive/2014/12/11/microsoft-acquires-hockeyapp.aspx
-category: articles
+title: 'Microsoft acquires HockeyApp'
+url: 'http://blogs.msdn.com/b/bharry/archive/2014/12/11/microsoft-acquires-hockeyapp.aspx'
+category: 5a88e1adbd6dca0d5f0d280e
 slug: 'microsoft-acquires-hockeyapp'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-12-13T11:17:11.000Z'
 tags: []
 ---

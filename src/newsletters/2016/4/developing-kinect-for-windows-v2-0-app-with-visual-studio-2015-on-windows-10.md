@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2466
-title: Developing kinect for Windows v2.0 App with Visual Studio 2015 on Windows 10
-url: http://dailydotnettips.com/2016/01/17/developing-kinect-for-windows-v2-0-app-with-visual-studio-2015-on-windows-10/
-category: articles
+title: 'Developing kinect for Windows v2.0 App with Visual Studio 2015 on Windows 10'
+url: 'http://dailydotnettips.com/2016/01/17/developing-kinect-for-windows-v2-0-app-with-visual-studio-2015-on-windows-10/'
+category: 5a88e1acbd6dca0d5f0d2466
 slug: 'developing-kinect-for-windows-v2-0-app-with-visual-studio-2015-on-windows-10'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-01-23T10:01:50.000Z'
 tags: []
 ---

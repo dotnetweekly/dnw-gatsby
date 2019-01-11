@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d22c2
-title: Visual Studio Update 3
-url: https://www.visualstudio.com/en-us/news/releasenotes/vs2015-update3-vs
-category: libraries-tools
+title: 'Visual Studio Update 3'
+url: 'https://www.visualstudio.com/en-us/news/releasenotes/vs2015-update3-vs'
+category: 5a88e1acbd6dca0d5f0d22c2
 slug: 'visual-studio-update-3'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-07-09T17:52:50.000Z'
 tags: []
 ---

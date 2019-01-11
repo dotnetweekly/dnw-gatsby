@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2c7a
-title: Creating XAML Code Snippets for Visual Studio 2013
-url: http://timheuer.com/blog/archive/2013/07/08/xaml-code-snippets-for-visual-studio.aspx
-category: articles
+title: 'Creating XAML Code Snippets for Visual Studio 2013'
+url: 'http://timheuer.com/blog/archive/2013/07/08/xaml-code-snippets-for-visual-studio.aspx'
+category: 5a88e1afbd6dca0d5f0d2c7a
 slug: 'creating-xaml-code-snippets-for-visual-studio-2013'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-07-13T09:28:37.000Z'
 tags: []
 ---

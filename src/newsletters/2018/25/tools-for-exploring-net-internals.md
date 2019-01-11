@@ -1,12 +1,13 @@
 ---
 _id: 5b2838c3edb73742d538cc8c
-title: Tools for Exploring .NET Internals
-url: http://mattwarren.org/2018/06/15/Tools-for-Exploring-.NET-Internals/
-category: libraries-tools
+title: 'Tools for Exploring .NET Internals'
+url: 'http://mattwarren.org/2018/06/15/Tools-for-Exploring-.NET-Internals/'
+category: 5b2838c3edb73742d538cc8c
 slug: 'tools-for-exploring-net-internals'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2018-06-18T22:57:07.068Z'
-tags: ['.net']
+tags: [.net]
 ---
 
 Firstly I’ll start by mentioning that Visual Studio has a great debugger and so does VSCode. Also there are lots of very good (commercial) .NET Profilers and Application Monitoring Tools available that you should also take a look at.

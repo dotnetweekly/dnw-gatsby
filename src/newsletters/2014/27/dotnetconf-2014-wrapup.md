@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d299e
-title: dotnetConf 2014 Wrapup
-url: http://blogs.msdn.com/b/dotnet/archive/2014/07/02/dotnetconf-2014-wrapup.aspx
-category: events-training
+title: 'dotnetConf 2014 Wrapup'
+url: 'http://blogs.msdn.com/b/dotnet/archive/2014/07/02/dotnetconf-2014-wrapup.aspx'
+category: 5a88e1aebd6dca0d5f0d299e
 slug: 'dotnetconf-2014-wrapup'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-07-04T14:49:07.000Z'
 tags: []
 ---

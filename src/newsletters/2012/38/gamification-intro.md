@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2ed6
-title: Gamification Intro
-url: http://www.amazon.com/Ill-This-Cricket-Badge-ebook/dp/B006ZODDTA
-category: books
+title: 'Gamification Intro'
+url: 'http://www.amazon.com/Ill-This-Cricket-Badge-ebook/dp/B006ZODDTA'
+category: 5a88e1afbd6dca0d5f0d2ed6
 slug: 'gamification-intro'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2012-09-21T23:43:54.000Z'
 tags: []
 ---

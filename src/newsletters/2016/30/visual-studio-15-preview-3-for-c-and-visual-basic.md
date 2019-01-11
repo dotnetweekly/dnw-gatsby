@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d22a0
-title: Visual Studio ‘15’ Preview 3 for C# and Visual Basic
-url: https://blogs.msdn.microsoft.com/dotnet/2016/07/13/visual-studio-15-preview-3-for-c-and-visual-basic/
-category: articles
+title: 'Visual Studio ‘15’ Preview 3 for C# and Visual Basic'
+url: 'https://blogs.msdn.microsoft.com/dotnet/2016/07/13/visual-studio-15-preview-3-for-c-and-visual-basic/'
+category: 5a88e1acbd6dca0d5f0d22a0
 slug: 'visual-studio-15-preview-3-for-c-and-visual-basic'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-07-23T07:11:56.000Z'
 tags: []
 ---

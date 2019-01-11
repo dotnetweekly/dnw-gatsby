@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d78
-title: 'Hands-on Lab Online: Windows 8: Lab # 3 - Searching and Sharing - JavaScript'
-url: https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032541540&Culture=en-US&community=0
-category: articles
+title: ' Hands-on Lab Online: Windows 8: Lab # 3 - Searching and Sharing - JavaScript'
+url: 'https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032541540&Culture=en-US&community=0'
+category: 5a88e1afbd6dca0d5f0d2d78
 slug: 'hands-on-lab-online-windows-8-lab-3-searching-and-sharing-javascript'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-03-09T19:53:38.000Z'
 tags: []
 ---

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d28e6
-title: Microsoft OCR Library for Windows Runtime
-url: http://blogs.windows.com/buildingapps/2014/09/18/microsoft-ocr-library-for-windows-runtime/
-category: libraries-tools
+title: 'Microsoft OCR Library for Windows Runtime'
+url: 'http://blogs.windows.com/buildingapps/2014/09/18/microsoft-ocr-library-for-windows-runtime/'
+category: 5a88e1aebd6dca0d5f0d28e6
 slug: 'microsoft-ocr-library-for-windows-runtime'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-09-20T08:34:30.000Z'
 tags: []
 ---

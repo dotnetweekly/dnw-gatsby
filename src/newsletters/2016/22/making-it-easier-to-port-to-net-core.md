@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2326
-title: Making it easier to port to .NET Core
-url: https://blogs.msdn.microsoft.com/dotnet/2016/05/27/making-it-easier-to-port-to-net-core/
-category: articles
+title: 'Making it easier to port to .NET Core'
+url: 'https://blogs.msdn.microsoft.com/dotnet/2016/05/27/making-it-easier-to-port-to-net-core/'
+category: 5a88e1acbd6dca0d5f0d2326
 slug: 'making-it-easier-to-port-to-net-core'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-05-28T08:13:47.000Z'
 tags: []
 ---

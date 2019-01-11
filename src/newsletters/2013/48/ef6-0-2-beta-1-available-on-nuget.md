@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b6c
-title: EF6.0.2 Beta 1 Available on NuGet
-url: http://blogs.msdn.com/b/adonet/archive/2013/11/26/ef6-0-2-beta-1-available-on-nuget.aspx
-category: libraries-tools
+title: 'EF6.0.2 Beta 1 Available on NuGet'
+url: 'http://blogs.msdn.com/b/adonet/archive/2013/11/26/ef6-0-2-beta-1-available-on-nuget.aspx'
+category: 5a88e1aebd6dca0d5f0d2b6c
 slug: 'ef6-0-2-beta-1-available-on-nuget'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-11-30T10:02:46.000Z'
 tags: []
 ---

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2f7e
 title: 'Free download: Managing SQL Servers and Policy-Based Management'
-url: http://blogs.msdn.com/b/microsoft_press/archive/2012/07/25/free-download-managing-sql-servers-and-policy-based-management-an-excerpt-from-microsoft-sql-server-2012-pocket-consultant.aspx
-category: books
+url: 'http://blogs.msdn.com/b/microsoft_press/archive/2012/07/25/free-download-managing-sql-servers-and-policy-based-management-an-excerpt-from-microsoft-sql-server-2012-pocket-consultant.aspx'
+category: 5a88e1afbd6dca0d5f0d2f7e
 slug: 'free-download-managing-sql-servers-and-policy-based-management'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2012-08-03T07:16:47.000Z'
 tags: []
 ---

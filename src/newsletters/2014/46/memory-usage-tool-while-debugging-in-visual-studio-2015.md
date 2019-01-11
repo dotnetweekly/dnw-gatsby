@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2842
-title: Memory Usage Tool while debugging in Visual Studio 2015
-url: http://blogs.msdn.com/b/visualstudioalm/archive/2014/11/13/memory-usage-tool-while-debugging-in-visual-studio-2015.aspx
-category: articles
+title: 'Memory Usage Tool while debugging in Visual Studio 2015'
+url: 'http://blogs.msdn.com/b/visualstudioalm/archive/2014/11/13/memory-usage-tool-while-debugging-in-visual-studio-2015.aspx'
+category: 5a88e1aebd6dca0d5f0d2842
 slug: 'memory-usage-tool-while-debugging-in-visual-studio-2015'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-11-15T10:02:45.000Z'
 tags: []
 ---

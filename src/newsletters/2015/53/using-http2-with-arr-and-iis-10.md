@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2498
-title: Using HTTP/2 with ARR and IIS 10
-url: http://blogs.msdn.com/b/benjaminperkins/archive/2016/01/04/using-http-2-with-arr-and-iis-10.aspx
-category: libraries-tools
+title: 'Using HTTP/2 with ARR and IIS 10'
+url: 'http://blogs.msdn.com/b/benjaminperkins/archive/2016/01/04/using-http-2-with-arr-and-iis-10.aspx'
+category: 5a88e1adbd6dca0d5f0d2498
 slug: 'using-http2-with-arr-and-iis-10'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-01-02T20:23:14.000Z'
 tags: []
 ---

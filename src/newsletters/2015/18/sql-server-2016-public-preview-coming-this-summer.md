@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d26cc
-title: SQL Server 2016 public preview coming this summer
-url: http://blogs.technet.com/b/dataplatforminsider/archive/2015/05/04/sql-server-2016-public-preview-coming-this-summer.aspx
-category: articles
+title: 'SQL Server 2016 public preview coming this summer'
+url: 'http://blogs.technet.com/b/dataplatforminsider/archive/2015/05/04/sql-server-2016-public-preview-coming-this-summer.aspx'
+category: 5a88e1adbd6dca0d5f0d26cc
 slug: 'sql-server-2016-public-preview-coming-this-summer'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-05-02T08:34:55.000Z'
 tags: []
 ---

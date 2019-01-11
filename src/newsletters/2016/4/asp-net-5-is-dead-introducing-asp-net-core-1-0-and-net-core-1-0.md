@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2456
-title: ASP.NET 5 is dead - Introducing ASP.NET Core 1.0 and .NET Core 1.0
-url: http://www.hanselman.com/blog/ASPNET5IsDeadIntroducingASPNETCore10AndNETCore10.aspx
-category: articles
+title: 'ASP.NET 5 is dead - Introducing ASP.NET Core 1.0 and .NET Core 1.0'
+url: 'http://www.hanselman.com/blog/ASPNET5IsDeadIntroducingASPNETCore10AndNETCore10.aspx'
+category: 5a88e1acbd6dca0d5f0d2456
 slug: 'asp-net-5-is-dead-introducing-asp-net-core-1-0-and-net-core-1-0'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-01-23T20:40:23.000Z'
 tags: []
 ---

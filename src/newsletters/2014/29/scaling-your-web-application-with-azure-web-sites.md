@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d297c
-title: Scaling Your Web Application with Azure Web Sites
-url: http://msdn.microsoft.com/en-us/magazine/dn786914.aspx
-category: articles
+title: 'Scaling Your Web Application with Azure Web Sites'
+url: 'http://msdn.microsoft.com/en-us/magazine/dn786914.aspx'
+category: 5a88e1aebd6dca0d5f0d297c
 slug: 'scaling-your-web-application-with-azure-web-sites'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-07-19T02:09:08.000Z'
 tags: []
 ---

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d290c
-title: Using WCF in .NET Native
-url: http://blogs.msdn.com/b/dotnet/archive/2014/08/28/using-wcf-in-net-native.aspx
-category: articles
+title: 'Using WCF in .NET Native'
+url: 'http://blogs.msdn.com/b/dotnet/archive/2014/08/28/using-wcf-in-net-native.aspx'
+category: 5a88e1aebd6dca0d5f0d290c
 slug: 'using-wcf-in-net-native'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-08-30T10:10:05.000Z'
 tags: []
 ---

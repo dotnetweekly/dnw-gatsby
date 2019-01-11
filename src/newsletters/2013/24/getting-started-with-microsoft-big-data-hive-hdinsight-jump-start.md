@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2ca8
-title: Getting Started with Microsoft Big Data, Hive &amp; HDInsight Jump Start
-url: https://www.microsoftvirtualacademy.com/liveevents/exploring-microsoft-big-data-jump-start
-category: events-training
+title: 'Getting Started with Microsoft Big Data, Hive &amp; HDInsight Jump Start'
+url: 'https://www.microsoftvirtualacademy.com/liveevents/exploring-microsoft-big-data-jump-start'
+category: 5a88e1afbd6dca0d5f0d2ca8
 slug: 'getting-started-with-microsoft-big-data-hive-hdinsight-jump-start'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-06-15T08:10:49.000Z'
 tags: []
 ---

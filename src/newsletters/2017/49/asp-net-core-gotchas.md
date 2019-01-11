@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1b74
-title: ASP.NET Core Gotchas
-url: https://www.stevejgordon.co.uk/asp-net-core-gotchas-number-1
-category: articles
+title: 'ASP.NET Core Gotchas'
+url: 'https://www.stevejgordon.co.uk/asp-net-core-gotchas-number-1'
+category: 5a88e1aabd6dca0d5f0d1b74
 slug: 'asp-net-core-gotchas'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2017-12-08T04:56:59.000Z'
 tags: []
 ---

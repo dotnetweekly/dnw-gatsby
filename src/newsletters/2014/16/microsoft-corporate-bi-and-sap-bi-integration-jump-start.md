@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a26
-title: Microsoft Corporate BI and SAP BI Integration Jump Start
-url: http://www.microsoftvirtualacademy.com/liveevents/microsoft-corporate-bi-and-sap-bi-integration-jump-start
-category: events-training
+title: 'Microsoft Corporate BI and SAP BI Integration Jump Start'
+url: 'http://www.microsoftvirtualacademy.com/liveevents/microsoft-corporate-bi-and-sap-bi-integration-jump-start'
+category: 5a88e1aebd6dca0d5f0d2a26
 slug: 'microsoft-corporate-bi-and-sap-bi-integration-jump-start'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-04-19T09:14:41.000Z'
 tags: []
 ---

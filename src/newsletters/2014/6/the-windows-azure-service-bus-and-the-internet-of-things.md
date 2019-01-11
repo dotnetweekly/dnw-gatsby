@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2acc
-title: The Windows Azure Service Bus and the Internet of Things
-url: http://msdn.microsoft.com/en-us/magazine/dn574801.aspx
-category: articles
+title: 'The Windows Azure Service Bus and the Internet of Things'
+url: 'http://msdn.microsoft.com/en-us/magazine/dn574801.aspx'
+category: 5a88e1aebd6dca0d5f0d2acc
 slug: 'the-windows-azure-service-bus-and-the-internet-of-things'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-02-08T11:54:19.000Z'
 tags: []
 ---

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2898
-title: Microsoft to bring Docker to Windows Server
-url: http://www.cio.com/article/2834133/microsoft-to-bring-docker-to-windows-server.html
-category: libraries-tools
+title: 'Microsoft to bring Docker to Windows Server'
+url: 'http://www.cio.com/article/2834133/microsoft-to-bring-docker-to-windows-server.html'
+category: 5a88e1aebd6dca0d5f0d2898
 slug: 'microsoft-to-bring-docker-to-windows-server'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-10-18T18:53:44.000Z'
 tags: []
 ---

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2c2c
-title: Claims-Based Authentication and Authorization
-url: http://www.codeproject.com/Articles/639458/Claims-Based-Authentication-and-Authorization
-category: articles
+title: 'Claims-Based Authentication and Authorization'
+url: 'http://www.codeproject.com/Articles/639458/Claims-Based-Authentication-and-Authorization'
+category: 5a88e1aebd6dca0d5f0d2c2c
 slug: 'claims-based-authentication-and-authorization'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-08-31T15:35:41.000Z'
 tags: []
 ---

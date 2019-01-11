@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2ad6
-title: Aspect-Oriented Programming with the RealProxy Class
-url: http://msdn.microsoft.com/en-us/magazine/dn574804.aspx
-category: articles
+title: 'Aspect-Oriented Programming with the RealProxy Class'
+url: 'http://msdn.microsoft.com/en-us/magazine/dn574804.aspx'
+category: 5a88e1aebd6dca0d5f0d2ad6
 slug: 'aspect-oriented-programming-with-the-realproxy-class'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-02-08T00:08:09.000Z'
 tags: []
 ---

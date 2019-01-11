@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2402
-title: ASP.NET MVC User Role Base Menu Management Using WEB API And AngularJS
-url: http://www.codeproject.com/Articles/1075956/ASP-NET-MVC-User-Role-Base-Menu-Management-Using-W
-category: articles
+title: 'ASP.NET MVC User Role Base Menu Management Using WEB API And AngularJS'
+url: 'http://www.codeproject.com/Articles/1075956/ASP-NET-MVC-User-Role-Base-Menu-Management-Using-W'
+category: 5a88e1acbd6dca0d5f0d2402
 slug: 'asp-net-mvc-user-role-base-menu-management-using-web-api-and-angularjs'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-02-27T09:13:41.000Z'
 tags: []
 ---

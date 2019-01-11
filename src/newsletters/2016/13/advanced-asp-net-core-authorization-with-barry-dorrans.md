@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d23c4
-title: Advanced ASP.NET Core Authorization with Barry Dorrans
-url: https://channel9.msdn.com/Blogs/Seth-Juarez/Advanced-aspNET-Core-Authorization-with-Barry-Dorrans
-category: videos
+title: 'Advanced ASP.NET Core Authorization with Barry Dorrans'
+url: 'https://channel9.msdn.com/Blogs/Seth-Juarez/Advanced-aspNET-Core-Authorization-with-Barry-Dorrans'
+category: 5a88e1acbd6dca0d5f0d23c4
 slug: 'advanced-asp-net-core-authorization-with-barry-dorrans'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-03-26T08:48:48.000Z'
 tags: []
 ---

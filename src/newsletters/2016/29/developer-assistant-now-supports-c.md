@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d22b4
-title: Developer Assistant now supports C++
-url: https://blogs.msdn.microsoft.com/visualstudio/2016/07/13/developer-assistant-supports-cpp/
-category: libraries-tools
+title: 'Developer Assistant now supports C++'
+url: 'https://blogs.msdn.microsoft.com/visualstudio/2016/07/13/developer-assistant-supports-cpp/'
+category: 5a88e1acbd6dca0d5f0d22b4
 slug: 'developer-assistant-now-supports-c'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-07-16T07:44:06.000Z'
 tags: []
 ---

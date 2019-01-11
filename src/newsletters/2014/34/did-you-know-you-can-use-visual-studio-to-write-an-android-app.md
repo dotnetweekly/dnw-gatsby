@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2918
-title: Did you know you can use Visual Studio to write an Android app? 
-url: http://blog.jerrynixon.com/2014/08/did-you-know-you-can-use-visual-studio.html
-category: articles
+title: 'Did you know you can use Visual Studio to write an Android app? '
+url: 'http://blog.jerrynixon.com/2014/08/did-you-know-you-can-use-visual-studio.html'
+category: 5a88e1aebd6dca0d5f0d2918
 slug: 'did-you-know-you-can-use-visual-studio-to-write-an-android-app'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-08-23T08:35:00.000Z'
 tags: []
 ---

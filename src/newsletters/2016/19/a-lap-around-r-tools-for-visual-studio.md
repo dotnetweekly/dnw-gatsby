@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2354
-title: A Lap Around R Tools for Visual Studio
-url: https://channel9.msdn.com/Events/Build/2016/B884
-category: videos
+title: 'A Lap Around R Tools for Visual Studio'
+url: 'https://channel9.msdn.com/Events/Build/2016/B884'
+category: 5a88e1acbd6dca0d5f0d2354
 slug: 'a-lap-around-r-tools-for-visual-studio'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-05-07T08:38:05.000Z'
 tags: []
 ---

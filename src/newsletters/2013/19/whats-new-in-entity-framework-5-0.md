@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2cd6
-title: What’s New in Entity Framework 5.0?
-url: http://www.developingthefuture.net/whats-new-in-entity-framework-5-0/
-category: libraries-tools
+title: 'What’s New in Entity Framework 5.0?'
+url: 'http://www.developingthefuture.net/whats-new-in-entity-framework-5-0/'
+category: 5a88e1afbd6dca0d5f0d2cd6
 slug: 'whats-new-in-entity-framework-5-0'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-05-11T17:42:05.000Z'
 tags: []
 ---

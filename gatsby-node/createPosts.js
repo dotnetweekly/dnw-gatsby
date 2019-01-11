@@ -20,6 +20,7 @@ exports.createPosts = function(createPage, graphql) {
                   url
                   category
                   user_id
+                  username
                   createdOn
                   slug
                 }

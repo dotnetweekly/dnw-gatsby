@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2fce
-title: Web Deploy v3.0 Release Candidate
-url: http://www.microsoft.com/en-us/download/details.aspx?id=29557
-category: libraries-tools
+title: 'Web Deploy v3.0 Release Candidate'
+url: 'http://www.microsoft.com/en-us/download/details.aspx?id=29557'
+category: 5a88e1afbd6dca0d5f0d2fce
 slug: 'web-deploy-v3-0-release-candidate'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2012-07-06T07:13:26.000Z'
 tags: []
 ---

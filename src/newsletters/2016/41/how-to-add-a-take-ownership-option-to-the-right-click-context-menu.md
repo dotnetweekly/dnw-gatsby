@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d21d2
-title: How to add a 'Take Ownership' option to the right-click context menu
-url: http://www.windowscentral.com/how-take-ownership-files-using-right-click-context-menu-windows-10
-category: articles
+title: 'How to add a "Take Ownership" option to the right-click context menu'
+url: 'http://www.windowscentral.com/how-take-ownership-files-using-right-click-context-menu-windows-10'
+category: 5a88e1acbd6dca0d5f0d21d2
 slug: 'how-to-add-a-take-ownership-option-to-the-right-click-context-menu'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-10-07T23:27:17.000Z'
 tags: []
 ---

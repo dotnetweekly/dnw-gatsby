@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d254e
-title: JavaScript for Experienced Developers
-url: http://www.microsoftvirtualacademy.com/liveevents/javascript-for-experienced-developers
-category: events-training
+title: 'JavaScript for Experienced Developers'
+url: 'http://www.microsoftvirtualacademy.com/liveevents/javascript-for-experienced-developers'
+category: 5a88e1adbd6dca0d5f0d254e
 slug: 'javascript-for-experienced-developers'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-10-17T08:17:17.000Z'
 tags: []
 ---

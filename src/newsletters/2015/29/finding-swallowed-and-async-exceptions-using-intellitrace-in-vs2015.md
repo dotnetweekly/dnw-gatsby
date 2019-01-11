@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2626
-title: Finding swallowed and async exceptions using IntelliTrace in VS2015
-url: http://blogs.msdn.com/b/visualstudioalm/archive/2015/07/20/finding-swallowed-and-async-exceptions-using-intellitrace-in-vs2015.aspx
-category: articles
+title: 'Finding swallowed and async exceptions using IntelliTrace in VS2015'
+url: 'http://blogs.msdn.com/b/visualstudioalm/archive/2015/07/20/finding-swallowed-and-async-exceptions-using-intellitrace-in-vs2015.aspx'
+category: 5a88e1adbd6dca0d5f0d2626
 slug: 'finding-swallowed-and-async-exceptions-using-intellitrace-in-vs2015'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-07-18T08:37:44.000Z'
 tags: []
 ---

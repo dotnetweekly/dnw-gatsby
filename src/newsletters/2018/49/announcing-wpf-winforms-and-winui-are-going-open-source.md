@@ -2,11 +2,12 @@
 _id: 5c0825b6d9a593df03f70e83
 title: 'Announcing WPF, WinForms, and WinUI are going Open Source'
 url: 'https://www.hanselman.com/blog/AnnouncingWPFWinFormsAndWinUIAreGoingOpenSource.aspx'
-category: articles
+category: 5c0825b6d9a593df03f70e83
 slug: 'announcing-wpf-winforms-and-winui-are-going-open-source'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2018-12-05T19:23:34.416Z'
-tags: ['.net','wpf']
+tags: [.net,wpf]
 ---
 
 Buckle up friends! Microsoft is open sourcing WPF, Windows Forms (winforms), and WinUI, so the three major Windows UX technologies are going open source! All this is happening on the same day as .NET Core 3.0 Preview 1 is announced. Madness! ;)

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2222
-title: Essential .NET - Command-Line Processing with .NET Core 1.0
-url: https://msdn.microsoft.com/magazine/mt763239
-category: articles
+title: 'Essential .NET - Command-Line Processing with .NET Core 1.0'
+url: 'https://msdn.microsoft.com/magazine/mt763239'
+category: 5a88e1acbd6dca0d5f0d2222
 slug: 'essential-net-command-line-processing-with-net-core-1-0'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-09-07T20:02:23.000Z'
 tags: []
 ---

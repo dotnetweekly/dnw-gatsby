@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a5c
 title: 'Object Playground: The Definitive Guide to Object-Oriented JavaScript'
-url: http://www.objectplayground.com/
-category: videos
+url: 'http://www.objectplayground.com/'
+category: 5a88e1aebd6dca0d5f0d2a5c
 slug: 'object-playground-the-definitive-guide-to-object-oriented-javascript'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-04-04T22:04:31.000Z'
 tags: []
 ---

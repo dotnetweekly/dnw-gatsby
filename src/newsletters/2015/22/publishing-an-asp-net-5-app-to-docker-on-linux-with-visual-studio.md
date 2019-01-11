@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2698
-title: Publishing an ASP.NET 5 app to Docker on Linux with Visual Studio
-url: http://www.hanselman.com/blog/PublishingAnASPNET5AppToDockerOnLinuxWithVisualStudio.aspx
-category: articles
+title: 'Publishing an ASP.NET 5 app to Docker on Linux with Visual Studio'
+url: 'http://www.hanselman.com/blog/PublishingAnASPNET5AppToDockerOnLinuxWithVisualStudio.aspx'
+category: 5a88e1adbd6dca0d5f0d2698
 slug: 'publishing-an-asp-net-5-app-to-docker-on-linux-with-visual-studio'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-05-28T07:20:59.000Z'
 tags: []
 ---

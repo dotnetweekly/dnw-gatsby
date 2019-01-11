@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d272a
-title: Fundamentals of Application Lifecycle Management
-url: http://www.microsoftvirtualacademy.com/liveevents/fundamentals-of-application-lifecycle-management
-category: events-training
+title: 'Fundamentals of Application Lifecycle Management'
+url: 'http://www.microsoftvirtualacademy.com/liveevents/fundamentals-of-application-lifecycle-management'
+category: 5a88e1adbd6dca0d5f0d272a
 slug: 'fundamentals-of-application-lifecycle-management'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-03-21T09:24:42.000Z'
 tags: []
 ---

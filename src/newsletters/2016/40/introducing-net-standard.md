@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d21de
-title: Introducing .NET Standard
-url: https://blogs.msdn.microsoft.com/dotnet/2016/09/26/introducing-net-standard/
-category: articles
+title: 'Introducing .NET Standard'
+url: 'https://blogs.msdn.microsoft.com/dotnet/2016/09/26/introducing-net-standard/'
+category: 5a88e1acbd6dca0d5f0d21de
 slug: 'introducing-net-standard'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-09-30T23:13:40.000Z'
 tags: []
 ---

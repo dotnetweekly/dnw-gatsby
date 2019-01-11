@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2798
-title: Cloud-Enable an ASP.NET MVC LOB App
-url: http://www.microsoftvirtualacademy.com/liveevents/cloud-enable-an-asp-net-mvc-lob-app
-category: events-training
+title: 'Cloud-Enable an ASP.NET MVC LOB App'
+url: 'http://www.microsoftvirtualacademy.com/liveevents/cloud-enable-an-asp-net-mvc-lob-app'
+category: 5a88e1adbd6dca0d5f0d2798
 slug: 'cloud-enable-an-asp-net-mvc-lob-app'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-02-07T11:15:19.000Z'
 tags: []
 ---

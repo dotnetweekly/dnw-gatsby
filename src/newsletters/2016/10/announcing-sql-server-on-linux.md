@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d23f0
-title: Announcing SQL Server on Linux
-url: https://blogs.microsoft.com/blog/2016/03/07/announcing-sql-server-on-linux/
-category: articles
+title: 'Announcing SQL Server on Linux'
+url: 'https://blogs.microsoft.com/blog/2016/03/07/announcing-sql-server-on-linux/'
+category: 5a88e1acbd6dca0d5f0d23f0
 slug: 'announcing-sql-server-on-linux'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-03-05T19:48:13.000Z'
 tags: []
 ---

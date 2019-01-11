@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d24d8
-title: Live Writer is now Open Source
-url: https://www.dotnetfoundation.org/blog/open-live-writer
-category: libraries-tools
+title: 'Live Writer is now Open Source'
+url: 'https://www.dotnetfoundation.org/blog/open-live-writer'
+category: 5a88e1adbd6dca0d5f0d24d8
 slug: 'live-writer-is-now-open-source'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-12-10T22:03:13.000Z'
 tags: []
 ---

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d24d2
-title: Building Stateful Services with Azure Service Fabric
-url: http://insidethecpu.com/2015/12/11/building-stateful-services-with-azure-service-fabric/
-category: articles
+title: 'Building Stateful Services with Azure Service Fabric'
+url: 'http://insidethecpu.com/2015/12/11/building-stateful-services-with-azure-service-fabric/'
+category: 5a88e1adbd6dca0d5f0d24d2
 slug: 'building-stateful-services-with-azure-service-fabric'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-12-12T09:08:39.000Z'
 tags: []
 ---

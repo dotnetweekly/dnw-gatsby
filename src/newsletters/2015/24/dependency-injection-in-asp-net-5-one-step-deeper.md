@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2666
-title: Dependency Injection In ASP.NET 5 – One Step Deeper
-url: http://www.emadashi.com/2015/06/dependency-injection-in-asp-net-5-one-step-deeper/
-category: articles
+title: 'Dependency Injection In ASP.NET 5 – One Step Deeper'
+url: 'http://www.emadashi.com/2015/06/dependency-injection-in-asp-net-5-one-step-deeper/'
+category: 5a88e1adbd6dca0d5f0d2666
 slug: 'dependency-injection-in-asp-net-5-one-step-deeper'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-06-13T16:28:04.000Z'
 tags: []
 ---

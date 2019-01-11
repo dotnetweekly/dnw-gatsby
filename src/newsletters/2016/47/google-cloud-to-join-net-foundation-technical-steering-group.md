@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2158
-title: Google Cloud to join .NET Foundation Technical Steering Group
-url: https://cloudplatform.googleblog.com/2016/11/Google-Cloud-to-join-NET-Foundation-Technical-Steering-Group.html
-category: articles
+title: 'Google Cloud to join .NET Foundation Technical Steering Group'
+url: 'https://cloudplatform.googleblog.com/2016/11/Google-Cloud-to-join-NET-Foundation-Technical-Steering-Group.html'
+category: 5a88e1acbd6dca0d5f0d2158
 slug: 'google-cloud-to-join-net-foundation-technical-steering-group'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-11-19T03:59:59.000Z'
 tags: []
 ---

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b04
-title: Designing Applications for Windows Azure Jump Start
-url: http://www.microsoftvirtualacademy.com/liveevents/designing-applications-for-windows-azure-jump-start#?fbid=Hc0TiYdhIlr
-category: events-training
+title: 'Designing Applications for Windows Azure Jump Start'
+url: 'http://www.microsoftvirtualacademy.com/liveevents/designing-applications-for-windows-azure-jump-start#?fbid=Hc0TiYdhIlr'
+category: 5a88e1aebd6dca0d5f0d2b04
 slug: 'designing-applications-for-windows-azure-jump-start'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-01-18T10:55:50.000Z'
 tags: []
 ---

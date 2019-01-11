@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2806
 title: 'Free eBook: SQL Server Execution Plans'
-url: http://www.red-gate.com/products/dotnet-development/ants-performance-profiler/entrypage/sql-server-execution-plans
-category: books
+url: 'http://www.red-gate.com/products/dotnet-development/ants-performance-profiler/entrypage/sql-server-execution-plans'
+category: 5a88e1adbd6dca0d5f0d2806
 slug: 'free-ebook-sql-server-execution-plans'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-12-13T16:05:16.000Z'
 tags: []
 ---

@@ -43,8 +43,8 @@ class Calendar extends React.Component {
   render() {
     const { week, year } = this.props
     const filterCalendar = calendarHelper.getCalendar(week, year)
-    // const now = calendarHelper.getUtcNow()
-    // const currentWeek = calendarHelper.getWeek(now)
+    const currentWeek = calendarHelper.getWeek(calendarHelper.getUtcNow())
+    const currentYear = calendarHelper.getUtcNow().getFullYear()
 
     return (
       <div>
@@ -60,24 +60,27 @@ class Calendar extends React.Component {
                   ? 'is-current'
                   : ''
               return (
-                <tr className={`${isCurrent}`} key={`week-${indexWeek}`}>
-                  <td>{calendarWeek.week}</td>
-                  {calendarWeek.days.map((weekDay, indexDay) => {
-                    return (
-                      <td key={`day-${indexDay}`}>
-                        <span>
-                          <Link
-                            to={`/week/${
-                              calendarWeek.week
-                            }/year/${weekDay.date.getFullYear()}`}
-                          >
-                            {weekDay.date ? weekDay.date.getDate() : ''}
-                          </Link>
-                        </span>
-                      </td>
-                    )
-                  })}
-                </tr>
+                (currentWeek >= calendarWeek.week ||
+                  calendarWeek.days[0].date.getFullYear() < currentYear) && (
+                  <tr className={`${isCurrent}`} key={`week-${indexWeek}`}>
+                    <td>{calendarWeek.week}</td>
+                    {calendarWeek.days.map((weekDay, indexDay) => {
+                      return (
+                        <td key={`day-${indexDay}`}>
+                          <span>
+                            <Link
+                              to={`/week/${
+                                calendarWeek.week
+                              }/year/${weekDay.date.getFullYear()}`}
+                            >
+                              {weekDay.date ? weekDay.date.getDate() : ''}
+                            </Link>
+                          </span>
+                        </td>
+                      )
+                    })}
+                  </tr>
+                )
               )
             })}
           </tbody>

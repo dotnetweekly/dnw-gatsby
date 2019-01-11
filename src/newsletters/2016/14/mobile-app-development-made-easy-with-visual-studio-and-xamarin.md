@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d23a2
-title: Mobile App Development made easy with Visual Studio and Xamarin
-url: https://blogs.msdn.microsoft.com/visualstudio/2016/03/31/mobile-app-development-made-easy-with-visual-studio-and-xamarin/
-category: articles
+title: 'Mobile App Development made easy with Visual Studio and Xamarin'
+url: 'https://blogs.msdn.microsoft.com/visualstudio/2016/03/31/mobile-app-development-made-easy-with-visual-studio-and-xamarin/'
+category: 5a88e1acbd6dca0d5f0d23a2
 slug: 'mobile-app-development-made-easy-with-visual-studio-and-xamarin'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-04-02T17:06:40.000Z'
 tags: []
 ---

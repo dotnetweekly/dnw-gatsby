@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d28cc
-title: 5 Array Methods That You Should Be Using Now
-url: http://colintoh.com/blog/5-array-methods-that-you-should-use-today
-category: articles
+title: '5 Array Methods That You Should Be Using Now'
+url: 'http://colintoh.com/blog/5-array-methods-that-you-should-use-today'
+category: 5a88e1aebd6dca0d5f0d28cc
 slug: '5-array-methods-that-you-should-be-using-now'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-10-03T18:08:37.000Z'
 tags: []
 ---

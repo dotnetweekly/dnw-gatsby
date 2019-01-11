@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d23fc
-title: Introduction to Dependency Injection and Inversion of Control
-url: http://www.codeproject.com/Articles/1075597/Introduction-to-Dependency-Injection-and-Inversion
-category: articles
+title: 'Introduction to Dependency Injection and Inversion of Control'
+url: 'http://www.codeproject.com/Articles/1075597/Introduction-to-Dependency-Injection-and-Inversion'
+category: 5a88e1acbd6dca0d5f0d23fc
 slug: 'introduction-to-dependency-injection-and-inversion-of-control'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-02-27T09:16:51.000Z'
 tags: []
 ---

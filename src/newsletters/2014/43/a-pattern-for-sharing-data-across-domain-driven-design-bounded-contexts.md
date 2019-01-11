@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2884
-title: A Pattern for Sharing Data Across Domain-Driven Design Bounded Contexts
-url: http://msdn.microsoft.com/en-us/magazine/dn802601.aspx
-category: articles
+title: 'A Pattern for Sharing Data Across Domain-Driven Design Bounded Contexts'
+url: 'http://msdn.microsoft.com/en-us/magazine/dn802601.aspx'
+category: 5a88e1aebd6dca0d5f0d2884
 slug: 'a-pattern-for-sharing-data-across-domain-driven-design-bounded-contexts'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-10-25T19:13:04.000Z'
 tags: []
 ---

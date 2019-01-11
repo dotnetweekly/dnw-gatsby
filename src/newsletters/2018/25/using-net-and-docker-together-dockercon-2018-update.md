@@ -1,12 +1,13 @@
 ---
 _id: 5b283b4332697bdd0930a47a
-title: Using .NET and Docker Together – DockerCon 2018 Update
-url: https://blogs.msdn.microsoft.com/dotnet/2018/06/13/using-net-and-docker-together-dockercon-2018-update/
-category: articles
+title: 'Using .NET and Docker Together – DockerCon 2018 Update'
+url: 'https://blogs.msdn.microsoft.com/dotnet/2018/06/13/using-net-and-docker-together-dockercon-2018-update/'
+category: 5b283b4332697bdd0930a47a
 slug: 'using-net-and-docker-together-dockercon-2018-update'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2018-06-18T23:07:47.916Z'
-tags: ['.net']
+tags: [.net]
 ---
 
 I posted about Using .NET and Docker Together last year. With DockerCon 2018 being this week, it seemed like a great time to give you an update.  Since my last post, we’ve enabled a set of Docker workflows with guidance and samples for .NET Core and .NET Framework, for development, CI/CD, and production. We also offer many more images for both Windows and Linux. If you haven’t taken a look at Docker and .NET recently, now is a good time.

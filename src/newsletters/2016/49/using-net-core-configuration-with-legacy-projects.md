@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2124
-title: Using .NET Core Configuration with legacy projects
-url: http://benfoster.io/blog/net-core-configuration-legacy-projects
-category: articles
+title: 'Using .NET Core Configuration with legacy projects'
+url: 'http://benfoster.io/blog/net-core-configuration-legacy-projects'
+category: 5a88e1acbd6dca0d5f0d2124
 slug: 'using-net-core-configuration-with-legacy-projects'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-12-04T00:59:45.000Z'
 tags: []
 ---

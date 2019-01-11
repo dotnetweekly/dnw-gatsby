@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2fca
-title: It's Official! Windows Phone 8 Coming Soon
-url: http://channel9.msdn.com/Events/Windows-Phone/Summit
-category: videos
+title: 'It"s Official! Windows Phone 8 Coming Soon'
+url: 'http://channel9.msdn.com/Events/Windows-Phone/Summit'
+category: 5a88e1afbd6dca0d5f0d2fca
 slug: 'its-official-windows-phone-8-coming-soon'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2012-07-06T07:30:02.000Z'
 tags: []
 ---

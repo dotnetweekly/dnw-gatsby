@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2932
-title: The broken Promise of the Mobile Web
-url: http://weblog.west-wind.com/posts/2014/Aug/17/The-broken-Promise-of-the-Mobile-Web
-category: articles
+title: 'The broken Promise of the Mobile Web'
+url: 'http://weblog.west-wind.com/posts/2014/Aug/17/The-broken-Promise-of-the-Mobile-Web'
+category: 5a88e1aebd6dca0d5f0d2932
 slug: 'the-broken-promise-of-the-mobile-web'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-08-16T00:39:03.000Z'
 tags: []
 ---

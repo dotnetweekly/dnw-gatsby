@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1dc6
-title: NuGet.org Gets a Facelift
-url: http://blog.nuget.org/20170718/NuGet-Gallery-Gets-A-Facelift.html
-category: articles
+title: 'NuGet.org Gets a Facelift'
+url: 'http://blog.nuget.org/20170718/NuGet-Gallery-Gets-A-Facelift.html'
+category: 5a88e1abbd6dca0d5f0d1dc6
 slug: 'nuget-org-gets-a-facelift'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2017-07-21T03:16:21.000Z'
 tags: []
 ---

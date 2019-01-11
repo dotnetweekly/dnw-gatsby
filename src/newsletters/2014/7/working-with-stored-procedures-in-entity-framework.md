@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2ab8
-title: Working with Stored Procedures in Entity Framework
-url: http://www.dotnetbips.com/articles/30738a7c-5176-4333-aa83-98eab8548da5.aspx
-category: articles
+title: 'Working with Stored Procedures in Entity Framework'
+url: 'http://www.dotnetbips.com/articles/30738a7c-5176-4333-aa83-98eab8548da5.aspx'
+category: 5a88e1aebd6dca0d5f0d2ab8
 slug: 'working-with-stored-procedures-in-entity-framework'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-02-15T16:05:34.000Z'
 tags: []
 ---

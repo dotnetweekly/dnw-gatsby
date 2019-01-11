@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2700
 title: 'Free ebook: Managing Agile Open-Source Software Projects with Microsoft Visual Studio Online'
-url: http://blogs.msdn.com/b/microsoft_press/archive/2015/04/09/free-ebook-managing-agile-open-source-software-projects-with-microsoft-visual-studio-online.aspx
-category: books
+url: 'http://blogs.msdn.com/b/microsoft_press/archive/2015/04/09/free-ebook-managing-agile-open-source-software-projects-with-microsoft-visual-studio-online.aspx'
+category: 5a88e1adbd6dca0d5f0d2700
 slug: 'free-ebook-managing-agile-open-source-software-projects-with-microsoft-visual-studio-online'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-04-11T07:29:50.000Z'
 tags: []
 ---

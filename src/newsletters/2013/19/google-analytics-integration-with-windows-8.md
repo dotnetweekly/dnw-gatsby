@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2cd8
-title: Google Analytics integration with Windows 8
-url: http://www.codeproject.com/Articles/588605/Google-Analytics-integration-with-Windows-8
-category: articles
+title: 'Google Analytics integration with Windows 8'
+url: 'http://www.codeproject.com/Articles/588605/Google-Analytics-integration-with-Windows-8'
+category: 5a88e1afbd6dca0d5f0d2cd8
 slug: 'google-analytics-integration-with-windows-8'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-05-11T17:41:20.000Z'
 tags: []
 ---

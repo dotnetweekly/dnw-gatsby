@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1d38
-title: .NET DeveloperDays 2017 - Last chance for discounted price
-url: http://net.developerdays.pl/
-category: events-training
+title: '.NET DeveloperDays 2017 - Last chance for discounted price'
+url: 'http://net.developerdays.pl/'
+category: 5a88e1abbd6dca0d5f0d1d38
 slug: 'net-developerdays-2017-last-chance-for-discounted-price'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2017-08-24T11:57:51.000Z'
 tags: []
 ---

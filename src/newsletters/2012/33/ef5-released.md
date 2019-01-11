@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2f4e
-title: EF5 Released
-url: http://blogs.msdn.com/b/adonet/archive/2012/08/15/ef5-released.aspx
-category: libraries-tools
+title: 'EF5 Released'
+url: 'http://blogs.msdn.com/b/adonet/archive/2012/08/15/ef5-released.aspx'
+category: 5a88e1afbd6dca0d5f0d2f4e
 slug: 'ef5-released'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2012-08-17T07:16:16.000Z'
 tags: []
 ---

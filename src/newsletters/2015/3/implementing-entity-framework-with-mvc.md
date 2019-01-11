@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d27c6
-title: Implementing Entity Framework with MVC
-url: http://www.microsoftvirtualacademy.com/liveevents/implementing-entity-framework-with-mvc
-category: events-training
+title: 'Implementing Entity Framework with MVC'
+url: 'http://www.microsoftvirtualacademy.com/liveevents/implementing-entity-framework-with-mvc'
+category: 5a88e1adbd6dca0d5f0d27c6
 slug: 'implementing-entity-framework-with-mvc'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-01-17T11:20:06.000Z'
 tags: []
 ---

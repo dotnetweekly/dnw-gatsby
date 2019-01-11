@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d224a
-title: July Update for the Visual Studio Code C/C++ extension
-url: https://blogs.msdn.microsoft.com/vcblog/2016/07/26/july-update-for-the-visual-studio-code-cc-extension/
-category: articles
+title: 'July Update for the Visual Studio Code C/C++ extension'
+url: 'https://blogs.msdn.microsoft.com/vcblog/2016/07/26/july-update-for-the-visual-studio-code-cc-extension/'
+category: 5a88e1acbd6dca0d5f0d224a
 slug: 'july-update-for-the-visual-studio-code-cc-extension'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-08-26T19:27:11.000Z'
 tags: []
 ---

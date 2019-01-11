@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d276c
-title: .NET Core Open Source Update - February 26, 2015
-url: http://blogs.msdn.com/b/dotnet/archive/2015/02/26/net-core-open-source-update-february-26-2015.aspx
-category: articles
+title: '.NET Core Open Source Update - February 26, 2015'
+url: 'http://blogs.msdn.com/b/dotnet/archive/2015/02/26/net-core-open-source-update-february-26-2015.aspx'
+category: 5a88e1adbd6dca0d5f0d276c
 slug: 'net-core-open-source-update-february-26-2015'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-02-28T09:57:32.000Z'
 tags: []
 ---

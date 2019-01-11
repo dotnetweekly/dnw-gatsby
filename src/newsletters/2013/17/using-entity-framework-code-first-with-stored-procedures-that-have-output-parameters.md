@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2cf8
-title: Using Entity Framework Code First with Stored Procedures that have Output Parameters
-url: http://weblogs.asp.net/dwahlin/archive/2011/09/23/using-entity-framework-code-first-with-stored-procedures-that-have-output-parameters.aspx
-category: articles
+title: 'Using Entity Framework Code First with Stored Procedures that have Output Parameters'
+url: 'http://weblogs.asp.net/dwahlin/archive/2011/09/23/using-entity-framework-code-first-with-stored-procedures-that-have-output-parameters.aspx'
+category: 5a88e1afbd6dca0d5f0d2cf8
 slug: 'using-entity-framework-code-first-with-stored-procedures-that-have-output-parameters'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-04-26T22:41:23.000Z'
 tags: []
 ---

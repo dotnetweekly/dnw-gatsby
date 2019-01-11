@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b3c
-title: Service Providers light up the Cloud OS
-url: http://blogs.technet.com/b/microsoft_blog/archive/2013/12/12/service-providers-light-up-the-cloud-os.aspx
-category: articles
+title: 'Service Providers light up the Cloud OS'
+url: 'http://blogs.technet.com/b/microsoft_blog/archive/2013/12/12/service-providers-light-up-the-cloud-os.aspx'
+category: 5a88e1aebd6dca0d5f0d2b3c
 slug: 'service-providers-light-up-the-cloud-os'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-12-20T21:25:51.000Z'
 tags: []
 ---

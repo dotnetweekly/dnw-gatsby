@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d23bc
-title: Someone broke the Internet! Or why you may want to mirror your dependencies…
-url: http://blog.maartenballiauw.be/post/2016/03/23/Someone-broke-the-Internet!-Or-why-you-may-want-to-mirror-your-dependencies%E2%80%A6.aspx
-category: articles
+title: 'Someone broke the Internet! Or why you may want to mirror your dependencies…'
+url: 'http://blog.maartenballiauw.be/post/2016/03/23/Someone-broke-the-Internet!-Or-why-you-may-want-to-mirror-your-dependencies%E2%80%A6.aspx'
+category: 5a88e1acbd6dca0d5f0d23bc
 slug: 'someone-broke-the-internet-or-why-you-may-want-to-mirror-your-dependencies'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-03-26T17:42:34.000Z'
 tags: []
 ---

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d242e
-title: Analyze CPU and Memory while Debugging
-url: https://blogs.msdn.microsoft.com/visualstudio/2016/02/15/analyze-cpu-memory-while-debugging/
-category: articles
+title: 'Analyze CPU and Memory while Debugging'
+url: 'https://blogs.msdn.microsoft.com/visualstudio/2016/02/15/analyze-cpu-memory-while-debugging/'
+category: 5a88e1acbd6dca0d5f0d242e
 slug: 'analyze-cpu-and-memory-while-debugging'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-02-13T10:03:36.000Z'
 tags: []
 ---

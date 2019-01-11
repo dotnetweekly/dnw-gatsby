@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2522
-title: Glimpse Part 1 - Easy Debugging ASP.NET MVC Application
-url: http://www.codeproject.com/Tips/1045511/Glimpse-Part-Easy-Debugging-ASP-Net-MVC-Applicat
-category: libraries-tools
+title: 'Glimpse Part 1 - Easy Debugging ASP.NET MVC Application'
+url: 'http://www.codeproject.com/Tips/1045511/Glimpse-Part-Easy-Debugging-ASP-Net-MVC-Applicat'
+category: 5a88e1adbd6dca0d5f0d2522
 slug: 'glimpse-part-1-easy-debugging-asp-net-mvc-application'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-11-07T19:01:04.000Z'
 tags: []
 ---

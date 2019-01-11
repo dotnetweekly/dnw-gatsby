@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2ca2
-title: It's All Here - New Developer Training and Certification Resources Page 
-url: http://borntolearn.mslearn.net/mcsd/#fbid=7CEDYnkKSIF
-category: articles
+title: 'It"s All Here - New Developer Training and Certification Resources Page '
+url: 'http://borntolearn.mslearn.net/mcsd/#fbid=7CEDYnkKSIF'
+category: 5a88e1afbd6dca0d5f0d2ca2
 slug: 'its-all-here-new-developer-training-and-certification-resources-page'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-06-15T14:38:43.000Z'
 tags: []
 ---

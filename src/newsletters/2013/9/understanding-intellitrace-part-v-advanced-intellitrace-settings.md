@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d9a
 title: 'Understanding IntelliTrace Part V: Advanced IntelliTrace Settings'
-url: http://blogs.msdn.com/b/zainnab/archive/2013/02/28/understanding-intellitrace-part-v-advanced-intellitrace-settings.aspx
-category: articles
+url: 'http://blogs.msdn.com/b/zainnab/archive/2013/02/28/understanding-intellitrace-part-v-advanced-intellitrace-settings.aspx'
+category: 5a88e1afbd6dca0d5f0d2d9a
 slug: 'understanding-intellitrace-part-v-advanced-intellitrace-settings'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-03-02T21:38:11.000Z'
 tags: []
 ---

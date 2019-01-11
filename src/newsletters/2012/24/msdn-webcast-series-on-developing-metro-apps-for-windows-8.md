@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d3012
-title: MSDN Webcast Series on developing Metro apps for Windows 8
-url: http://blogs.msdn.com/b/jennifer/archive/2012/06/12/msdn-webcast-series-on-developing-metro-apps-for-windows-8.aspx
-category: events-training
+title: 'MSDN Webcast Series on developing Metro apps for Windows 8'
+url: 'http://blogs.msdn.com/b/jennifer/archive/2012/06/12/msdn-webcast-series-on-developing-metro-apps-for-windows-8.aspx'
+category: 5a88e1afbd6dca0d5f0d3012
 slug: 'msdn-webcast-series-on-developing-metro-apps-for-windows-8'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2012-06-15T07:03:17.000Z'
 tags: []
 ---

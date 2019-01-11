@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a1c
-title: Use Code Maps to Understand Code Relationships
-url: http://visualstudiomagazine.com/articles/2013/04/25/use-code-maps-to-understand-code-relationships.aspx
-category: articles
+title: 'Use Code Maps to Understand Code Relationships'
+url: 'http://visualstudiomagazine.com/articles/2013/04/25/use-code-maps-to-understand-code-relationships.aspx'
+category: 5a88e1aebd6dca0d5f0d2a1c
 slug: 'use-code-maps-to-understand-code-relationships'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-04-26T09:35:37.000Z'
 tags: []
 ---

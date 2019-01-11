@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2738
-title: “Always keep learning:” new Microsoft developer courses at EdX
-url: https://www.edx.org/school/microsoft
-category: videos
+title: '“Always keep learning:” new Microsoft developer courses at EdX'
+url: 'https://www.edx.org/school/microsoft'
+category: 5a88e1adbd6dca0d5f0d2738
 slug: 'always-keep-learning-new-microsoft-developer-courses-at-edx'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-03-21T08:02:35.000Z'
 tags: []
 ---

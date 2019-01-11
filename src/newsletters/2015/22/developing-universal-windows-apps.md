@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2682
-title: Developing Universal Windows Apps
-url: http://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Developing-Universal-Windows-Apps
-category: videos
+title: 'Developing Universal Windows Apps'
+url: 'http://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Developing-Universal-Windows-Apps'
+category: 5a88e1adbd6dca0d5f0d2682
 slug: 'developing-universal-windows-apps'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-05-30T09:12:44.000Z'
 tags: []
 ---

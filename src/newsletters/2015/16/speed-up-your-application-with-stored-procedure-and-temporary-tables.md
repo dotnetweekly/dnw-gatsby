@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d26fa
-title: Speed Up Your Application with Stored Procedure and Temporary Tables
-url: http://visualstudiomagazine.com/articles/2015/04/01/stored-procedure-and-temporary-tables.aspx
-category: articles
+title: 'Speed Up Your Application with Stored Procedure and Temporary Tables'
+url: 'http://visualstudiomagazine.com/articles/2015/04/01/stored-procedure-and-temporary-tables.aspx'
+category: 5a88e1adbd6dca0d5f0d26fa
 slug: 'speed-up-your-application-with-stored-procedure-and-temporary-tables'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-04-18T08:24:01.000Z'
 tags: []
 ---

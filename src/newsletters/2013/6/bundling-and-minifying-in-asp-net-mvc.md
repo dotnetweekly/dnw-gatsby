@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2db6
-title: Bundling and minifying in ASP.NET MVC
-url: http://weblogs.asp.net/gunnarpeipman/archive/2013/02/06/bundling-and-minifying-in-asp-net-mvc.aspx
-category: articles
+title: 'Bundling and minifying in ASP.NET MVC'
+url: 'http://weblogs.asp.net/gunnarpeipman/archive/2013/02/06/bundling-and-minifying-in-asp-net-mvc.aspx'
+category: 5a88e1afbd6dca0d5f0d2db6
 slug: 'bundling-and-minifying-in-asp-net-mvc'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-02-08T15:01:10.000Z'
 tags: []
 ---

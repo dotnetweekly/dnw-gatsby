@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d252a
-title: Using Angular.js with Bower and Require.js in Visual Studio
-url: http://www.dotnetcurry.com/angularjs/1207/using-angularjs-bower-requirejs-visual-studio
-category: articles
+title: 'Using Angular.js with Bower and Require.js in Visual Studio'
+url: 'http://www.dotnetcurry.com/angularjs/1207/using-angularjs-bower-requirejs-visual-studio'
+category: 5a88e1adbd6dca0d5f0d252a
 slug: 'using-angular-js-with-bower-and-require-js-in-visual-studio'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-11-07T09:55:35.000Z'
 tags: []
 ---

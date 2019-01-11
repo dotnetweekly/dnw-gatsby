@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d265c
-title: Building Windows 10 Games with Unity 5
-url: http://www.microsoftvirtualacademy.com/liveevents/building-windows-10-games-with-unity-5
-category: events-training
+title: 'Building Windows 10 Games with Unity 5'
+url: 'http://www.microsoftvirtualacademy.com/liveevents/building-windows-10-games-with-unity-5'
+category: 5a88e1adbd6dca0d5f0d265c
 slug: 'building-windows-10-games-with-unity-5'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-06-20T07:57:11.000Z'
 tags: []
 ---

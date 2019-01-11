@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2582
-title: AzureCon
-url: https://azure.microsoft.com/en-us/azurecon/
-category: events-training
+title: 'AzureCon'
+url: 'https://azure.microsoft.com/en-us/azurecon/'
+category: 5a88e1adbd6dca0d5f0d2582
 slug: 'azurecon-2'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-09-26T18:30:22.000Z'
 tags: []
 ---

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2c56
-title: Writing a simple implementation of dependency injection in MVC 4 Web API
-url: http://blogs.msdn.com/b/kirpas/archive/2013/08/06/writing-a-simple-implementation-of-dependency-injection-in-mvc-4-web-api-with-net-framework-4-5.aspx
-category: articles
+title: 'Writing a simple implementation of dependency injection in MVC 4 Web API'
+url: 'http://blogs.msdn.com/b/kirpas/archive/2013/08/06/writing-a-simple-implementation-of-dependency-injection-in-mvc-4-web-api-with-net-framework-4-5.aspx'
+category: 5a88e1aebd6dca0d5f0d2c56
 slug: 'writing-a-simple-implementation-of-dependency-injection-in-mvc-4-web-api'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-08-09T19:31:23.000Z'
 tags: []
 ---

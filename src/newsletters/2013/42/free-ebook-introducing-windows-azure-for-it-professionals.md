@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2bcc
 title: 'Free ebook: Introducing Windows Azure for IT Professionals'
-url: http://blogs.msdn.com/b/microsoft_press/archive/2013/10/01/free-ebook-introducing-windows-azure-for-it-professionals.aspx?loc=zTS1z&prod=zWAz&tech=zOttechz&prog=zPressz&type=zBLz&media=zBKz&country=zUSz
-category: books
+url: 'http://blogs.msdn.com/b/microsoft_press/archive/2013/10/01/free-ebook-introducing-windows-azure-for-it-professionals.aspx?loc=zTS1z&prod=zWAz&tech=zOttechz&prog=zPressz&type=zBLz&media=zBKz&country=zUSz'
+category: 5a88e1aebd6dca0d5f0d2bcc
 slug: 'free-ebook-introducing-windows-azure-for-it-professionals'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-10-18T17:33:17.000Z'
 tags: []
 ---

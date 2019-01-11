@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1f84
-title: Sneak Preview of Orchard Core
-url: https://pusher.com/sessions/meetup/hydrahack/sneak-preview-of-orchard-core
-category: videos
+title: 'Sneak Preview of Orchard Core'
+url: 'https://pusher.com/sessions/meetup/hydrahack/sneak-preview-of-orchard-core'
+category: 5a88e1abbd6dca0d5f0d1f84
 slug: 'sneak-preview-of-orchard-core'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2017-03-24T19:21:24.000Z'
 tags: []
 ---

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d22f6
-title: 10 Lessons from a Long Running DDD Project – Part 1
-url: https://lostechies.com/jimmybogard/2016/06/13/10-lessons-from-a-long-running-ddd-project-part-1/
-category: articles
+title: '10 Lessons from a Long Running DDD Project – Part 1'
+url: 'https://lostechies.com/jimmybogard/2016/06/13/10-lessons-from-a-long-running-ddd-project-part-1/'
+category: 5a88e1acbd6dca0d5f0d22f6
 slug: '10-lessons-from-a-long-running-ddd-project-part-1'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-06-11T17:15:15.000Z'
 tags: []
 ---

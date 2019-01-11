@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d27b0
-title: Introduction to API Reviews
-url: http://channel9.msdn.com/Series/NET-Framework/Introduction-to-API-Reviews
-category: videos
+title: 'Introduction to API Reviews'
+url: 'http://channel9.msdn.com/Series/NET-Framework/Introduction-to-API-Reviews'
+category: 5a88e1adbd6dca0d5f0d27b0
 slug: 'introduction-to-api-reviews'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-01-30T23:22:58.000Z'
 tags: []
 ---

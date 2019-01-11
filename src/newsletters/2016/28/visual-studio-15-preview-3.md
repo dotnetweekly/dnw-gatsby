@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d22c4
-title: Visual Studio "15" Preview 3
-url: https://blogs.msdn.microsoft.com/visualstudio/2016/07/07/visual-studio-15-preview-3/#
-category: libraries-tools
+title: 'Visual Studio "15" Preview 3'
+url: 'https://blogs.msdn.microsoft.com/visualstudio/2016/07/07/visual-studio-15-preview-3/#'
+category: 5a88e1acbd6dca0d5f0d22c4
 slug: 'visual-studio-15-preview-3'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-07-09T06:56:02.000Z'
 tags: []
 ---

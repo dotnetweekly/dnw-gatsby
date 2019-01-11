@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d22b8
-title: Rich botframework conversation cards
-url: http://robinosborne.co.uk/2016/07/18/rich-botframework-conversation-cards/
-category: articles
+title: 'Rich botframework conversation cards'
+url: 'http://robinosborne.co.uk/2016/07/18/rich-botframework-conversation-cards/'
+category: 5a88e1acbd6dca0d5f0d22b8
 slug: 'rich-botframework-conversation-cards'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-07-15T23:44:46.000Z'
 tags: []
 ---

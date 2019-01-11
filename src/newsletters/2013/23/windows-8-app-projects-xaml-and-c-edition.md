@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2cb8
-title: Windows 8 App Projects - XAML and C# Edition
-url: http://www.ebookshare.me/windows-8-app-projects-xaml-and-c-edition/
-category: books
+title: 'Windows 8 App Projects - XAML and C# Edition'
+url: 'http://www.ebookshare.me/windows-8-app-projects-xaml-and-c-edition/'
+category: 5a88e1afbd6dca0d5f0d2cb8
 slug: 'windows-8-app-projects-xaml-and-c-edition'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-06-07T16:55:56.000Z'
 tags: []
 ---

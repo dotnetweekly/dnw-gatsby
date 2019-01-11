@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2bf6
-title: Exploring CQRS and Event Sourcing
-url: http://msdn.microsoft.com/en-us/library/jj554200.aspx
-category: books
+title: 'Exploring CQRS and Event Sourcing'
+url: 'http://msdn.microsoft.com/en-us/library/jj554200.aspx'
+category: 5a88e1aebd6dca0d5f0d2bf6
 slug: 'exploring-cqrs-and-event-sourcing'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-09-27T18:35:36.000Z'
 tags: []
 ---

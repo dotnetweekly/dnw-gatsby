@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a38
-title: The future of .NET, today. The .NET Compiler Platform
-url: http://channel9.msdn.com/coding4fun/blog/The-future-of-NET-today-The-NET-Compiler-Platform
-category: articles
+title: 'The future of .NET, today. The .NET Compiler Platform'
+url: 'http://channel9.msdn.com/coding4fun/blog/The-future-of-NET-today-The-NET-Compiler-Platform'
+category: 5a88e1aebd6dca0d5f0d2a38
 slug: 'the-future-of-net-today-the-net-compiler-platform'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-04-12T15:59:04.000Z'
 tags: []
 ---

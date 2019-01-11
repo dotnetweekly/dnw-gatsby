@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2288
-title: Getting Started with Dependency Injection in ASP.NET Core
-url: https://www.exceptionnotfound.net/getting-started-with-dependency-injection-in-asp-net-core/
-category: articles
+title: 'Getting Started with Dependency Injection in ASP.NET Core'
+url: 'https://www.exceptionnotfound.net/getting-started-with-dependency-injection-in-asp-net-core/'
+category: 5a88e1acbd6dca0d5f0d2288
 slug: 'getting-started-with-dependency-injection-in-asp-net-core'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-07-30T09:13:51.000Z'
 tags: []
 ---

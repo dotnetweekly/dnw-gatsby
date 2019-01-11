@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2332
-title: Announcing Updated Web Development Tools for ASP.NET Core RC2
-url: https://blogs.msdn.microsoft.com/visualstudio/2016/05/16/announcing-updated-web-development-tools-for-asp-net-core-rc2/
-category: libraries-tools
+title: 'Announcing Updated Web Development Tools for ASP.NET Core RC2'
+url: 'https://blogs.msdn.microsoft.com/visualstudio/2016/05/16/announcing-updated-web-development-tools-for-asp-net-core-rc2/'
+category: 5a88e1acbd6dca0d5f0d2332
 slug: 'announcing-updated-web-development-tools-for-asp-net-core-rc2'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-05-21T07:19:55.000Z'
 tags: []
 ---

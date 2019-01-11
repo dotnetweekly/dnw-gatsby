@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1c4a
-title: Dissecting the pattern matching in C# 7 – Dissecting the code
-url: https://blogs.msdn.microsoft.com/seteplia/2017/10/16/dissecting-the-pattern-matching-in-c-7/
-category: articles
+title: 'Dissecting the pattern matching in C# 7 – Dissecting the code'
+url: 'https://blogs.msdn.microsoft.com/seteplia/2017/10/16/dissecting-the-pattern-matching-in-c-7/'
+category: 5a88e1aabd6dca0d5f0d1c4a
 slug: 'dissecting-the-pattern-matching-in-c-7-dissecting-the-code'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2017-10-20T07:36:58.000Z'
 tags: []
 ---

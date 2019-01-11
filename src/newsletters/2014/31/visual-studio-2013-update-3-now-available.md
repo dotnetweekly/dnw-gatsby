@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d294c
-title: Visual Studio 2013 Update 3 now available
-url: http://blogs.msdn.com/b/visualstudioalm/archive/2014/08/04/visual-studio-2013-update-3-now-available.aspx
-category: libraries-tools
+title: 'Visual Studio 2013 Update 3 now available'
+url: 'http://blogs.msdn.com/b/visualstudioalm/archive/2014/08/04/visual-studio-2013-update-3-now-available.aspx'
+category: 5a88e1aebd6dca0d5f0d294c
 slug: 'visual-studio-2013-update-3-now-available'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-08-02T17:23:35.000Z'
 tags: []
 ---

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d28b4
 title: 'Free eBook: SQL Server Source Control Basics'
-url: http://www.red-gate.com/products/sql-development/sql-source-control/entrypage/sql-server-source-control-basics
-category: books
+url: 'http://www.red-gate.com/products/sql-development/sql-source-control/entrypage/sql-server-source-control-basics'
+category: 5a88e1aebd6dca0d5f0d28b4
 slug: 'free-ebook-sql-server-source-control-basics'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-10-10T18:01:38.000Z'
 tags: []
 ---

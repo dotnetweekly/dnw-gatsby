@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2434
-title: ASP.NET - Progressive Enhancement with ASP.NET and React
-url: https://msdn.microsoft.com/el-gr/magazine/mt632272
-category: articles
+title: 'ASP.NET - Progressive Enhancement with ASP.NET and React'
+url: 'https://msdn.microsoft.com/el-gr/magazine/mt632272'
+category: 5a88e1acbd6dca0d5f0d2434
 slug: 'asp-net-progressive-enhancement-with-asp-net-and-react'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-02-06T19:43:02.000Z'
 tags: []
 ---

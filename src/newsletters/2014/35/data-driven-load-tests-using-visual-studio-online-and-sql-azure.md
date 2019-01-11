@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d290e
-title: Data-Driven Load Tests using Visual Studio Online and SQL Azure
-url: http://blogs.msdn.com/b/visualstudioalm/archive/2014/08/26/data-driven-load-tests-using-visual-studio-online-and-sql-azure.aspx
-category: articles
+title: 'Data-Driven Load Tests using Visual Studio Online and SQL Azure'
+url: 'http://blogs.msdn.com/b/visualstudioalm/archive/2014/08/26/data-driven-load-tests-using-visual-studio-online-and-sql-azure.aspx'
+category: 5a88e1aebd6dca0d5f0d290e
 slug: 'data-driven-load-tests-using-visual-studio-online-and-sql-azure'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-08-30T10:08:18.000Z'
 tags: []
 ---

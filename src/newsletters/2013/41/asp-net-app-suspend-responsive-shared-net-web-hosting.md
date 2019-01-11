@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2bce
-title: ASP.NET App Suspend – responsive shared .NET web hosting
-url: http://blogs.msdn.com/b/dotnet/archive/2013/10/09/asp-net-app-suspend-responsive-shared-net-web-hosting.aspx
-category: articles
+title: 'ASP.NET App Suspend – responsive shared .NET web hosting'
+url: 'http://blogs.msdn.com/b/dotnet/archive/2013/10/09/asp-net-app-suspend-responsive-shared-net-web-hosting.aspx'
+category: 5a88e1aebd6dca0d5f0d2bce
 slug: 'asp-net-app-suspend-responsive-shared-net-web-hosting'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-10-12T18:21:53.000Z'
 tags: []
 ---

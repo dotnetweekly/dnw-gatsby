@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d26a2
-title: Using Paypal Rest API with ASP.NET MVC 4
-url: http://www.codeproject.com/Articles/870870/Using-Paypal-Rest-API-with-ASP-NET-MVC
-category: articles
+title: 'Using Paypal Rest API with ASP.NET MVC 4'
+url: 'http://www.codeproject.com/Articles/870870/Using-Paypal-Rest-API-with-ASP-NET-MVC'
+category: 5a88e1adbd6dca0d5f0d26a2
 slug: 'using-paypal-rest-api-with-asp-net-mvc-4'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-05-23T09:13:37.000Z'
 tags: []
 ---

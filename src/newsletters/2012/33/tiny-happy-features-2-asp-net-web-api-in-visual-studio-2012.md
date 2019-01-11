@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2f3e
-title: Tiny Happy Features #2 - ASP.NET Web API in Visual Studio 2012
-url: http://www.hanselman.com/blog/TinyHappyFeatures2ASPNETWebAPIInVisualStudio2012.aspx
-category: articles
+title: 'Tiny Happy Features #2 - ASP.NET Web API in Visual Studio 2012'
+url: 'http://www.hanselman.com/blog/TinyHappyFeatures2ASPNETWebAPIInVisualStudio2012.aspx'
+category: 5a88e1afbd6dca0d5f0d2f3e
 slug: 'tiny-happy-features-2-asp-net-web-api-in-visual-studio-2012'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2012-08-17T07:23:32.000Z'
 tags: []
 ---

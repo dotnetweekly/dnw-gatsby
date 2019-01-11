@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d23ba
-title: List.js
-url: http://www.listjs.com/
-category: libraries-tools
+title: 'List.js'
+url: 'http://www.listjs.com/'
+category: 5a88e1acbd6dca0d5f0d23ba
 slug: 'list-js'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-03-26T17:44:14.000Z'
 tags: []
 ---

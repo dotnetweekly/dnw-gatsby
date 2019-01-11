@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d28dc
-title: Webforms vs MVC and Why MVC is better ?.
-url: http://www.codeproject.com/Articles/821275/Webforms-vs-MVC-and-Why-MVC-is-better
-category: articles
+title: 'Webforms vs MVC and Why MVC is better ?.'
+url: 'http://www.codeproject.com/Articles/821275/Webforms-vs-MVC-and-Why-MVC-is-better'
+category: 5a88e1aebd6dca0d5f0d28dc
 slug: 'webforms-vs-mvc-and-why-mvc-is-better'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-09-27T07:50:48.000Z'
 tags: []
 ---

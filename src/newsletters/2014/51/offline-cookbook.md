@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d27f6
-title: Offline Cookbook
-url: http://jakearchibald.com/2014/offline-cookbook/
-category: articles
+title: 'Offline Cookbook'
+url: 'http://jakearchibald.com/2014/offline-cookbook/'
+category: 5a88e1adbd6dca0d5f0d27f6
 slug: 'offline-cookbook'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-12-21T01:19:40.000Z'
 tags: []
 ---

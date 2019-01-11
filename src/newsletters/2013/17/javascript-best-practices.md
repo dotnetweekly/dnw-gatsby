@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2cfc
-title: JavaScript Best Practices
-url: http://www.codeproject.com/Articles/580165/JavaScript-Best-Practices
-category: articles
+title: 'JavaScript Best Practices'
+url: 'http://www.codeproject.com/Articles/580165/JavaScript-Best-Practices'
+category: 5a88e1afbd6dca0d5f0d2cfc
 slug: 'javascript-best-practices'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-04-26T17:54:29.000Z'
 tags: []
 ---

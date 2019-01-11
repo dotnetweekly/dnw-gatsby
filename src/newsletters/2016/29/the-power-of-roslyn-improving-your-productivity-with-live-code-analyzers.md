@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d22b0
 title: 'The Power of Roslyn: Improving Your Productivity with Live Code Analyzers'
-url: https://channel9.msdn.com/Events/dotnetConf/2016/The-Power-of-Roslyn-Improving-Your-Productivity-with-Live-Code-Analyzers
-category: videos
+url: 'https://channel9.msdn.com/Events/dotnetConf/2016/The-Power-of-Roslyn-Improving-Your-Productivity-with-Live-Code-Analyzers'
+category: 5a88e1acbd6dca0d5f0d22b0
 slug: 'the-power-of-roslyn-improving-your-productivity-with-live-code-analyzers'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-07-16T07:46:01.000Z'
 tags: []
 ---

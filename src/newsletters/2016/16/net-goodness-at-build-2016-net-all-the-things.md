@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d238c
-title: .NET Goodness at BUILD 2016 – .NET ALL THE THINGS!
-url: https://blogs.msdn.microsoft.com/bethmassi/2016/04/15/net-goodness-at-build-2016-net-all-the-things/
-category: libraries-tools
+title: '.NET Goodness at BUILD 2016 – .NET ALL THE THINGS!'
+url: 'https://blogs.msdn.microsoft.com/bethmassi/2016/04/15/net-goodness-at-build-2016-net-all-the-things/'
+category: 5a88e1acbd6dca0d5f0d238c
 slug: 'net-goodness-at-build-2016-net-all-the-things'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-04-16T07:24:52.000Z'
 tags: []
 ---

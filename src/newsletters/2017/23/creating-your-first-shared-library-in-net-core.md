@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1e72
-title: Creating your first shared library in .NET Core
-url: https://www.devtrends.co.uk/blog/creating-your-first-shared-library-in-.net-core
-category: articles
+title: 'Creating your first shared library in .NET Core'
+url: 'https://www.devtrends.co.uk/blog/creating-your-first-shared-library-in-.net-core'
+category: 5a88e1abbd6dca0d5f0d1e72
 slug: 'creating-your-first-shared-library-in-net-core'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2017-06-09T19:12:22.000Z'
 tags: []
 ---

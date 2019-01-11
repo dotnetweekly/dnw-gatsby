@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2ba0
-title: Team Explorer Everywhere 2013 is Available
-url: http://blogs.msdn.com/b/bharry/archive/2013/11/03/team-explorer-everywhere-2013-is-available.aspx
-category: articles
+title: 'Team Explorer Everywhere 2013 is Available'
+url: 'http://blogs.msdn.com/b/bharry/archive/2013/11/03/team-explorer-everywhere-2013-is-available.aspx'
+category: 5a88e1aebd6dca0d5f0d2ba0
 slug: 'team-explorer-everywhere-2013-is-available'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-11-02T08:12:46.000Z'
 tags: []
 ---

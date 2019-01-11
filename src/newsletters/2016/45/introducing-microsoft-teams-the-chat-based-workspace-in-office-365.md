@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d218c
-title: Introducing Microsoft Teams—the chat-based workspace in Office 365
-url: https://blogs.office.com/2016/11/02/introducing-microsoft-teams-the-chat-based-workspace-in-office-365/
-category: articles
+title: 'Introducing Microsoft Teams—the chat-based workspace in Office 365'
+url: 'https://blogs.office.com/2016/11/02/introducing-microsoft-teams-the-chat-based-workspace-in-office-365/'
+category: 5a88e1acbd6dca0d5f0d218c
 slug: 'introducing-microsoft-teams-the-chat-based-workspace-in-office-365'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-11-04T17:03:09.000Z'
 tags: []
 ---

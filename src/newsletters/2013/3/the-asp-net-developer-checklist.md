@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2de8
-title: The ASP.NET developer checklist
-url: http://webdevchecklist.com/asp.net/
-category: libraries-tools
+title: 'The ASP.NET developer checklist'
+url: 'http://webdevchecklist.com/asp.net/'
+category: 5a88e1afbd6dca0d5f0d2de8
 slug: 'the-asp-net-developer-checklist'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-01-18T13:15:13.000Z'
 tags: []
 ---

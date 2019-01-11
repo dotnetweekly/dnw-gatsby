@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2736
-title: Windows 10 developer tooling preview now available to Windows Insiders
-url: http://blogs.windows.com/buildingapps/2015/03/23/windows-10-developer-tooling-preview-now-available-to-windows-insiders/
-category: libraries-tools
+title: 'Windows 10 developer tooling preview now available to Windows Insiders'
+url: 'http://blogs.windows.com/buildingapps/2015/03/23/windows-10-developer-tooling-preview-now-available-to-windows-insiders/'
+category: 5a88e1adbd6dca0d5f0d2736
 slug: 'windows-10-developer-tooling-preview-now-available-to-windows-insiders'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-03-21T08:03:43.000Z'
 tags: []
 ---

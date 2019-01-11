@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d28
-title: Visual Studio 2012 Update 2 Now Available
-url: http://blogs.msdn.com/b/somasegar/archive/2013/04/04/visual-studio-2012-update-2-now-available.aspx
-category: libraries-tools
+title: 'Visual Studio 2012 Update 2 Now Available'
+url: 'http://blogs.msdn.com/b/somasegar/archive/2013/04/04/visual-studio-2012-update-2-now-available.aspx'
+category: 5a88e1afbd6dca0d5f0d2d28
 slug: 'visual-studio-2012-update-2-now-available'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-04-05T22:18:58.000Z'
 tags: []
 ---

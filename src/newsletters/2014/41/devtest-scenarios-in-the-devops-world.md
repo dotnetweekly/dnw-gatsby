@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d28aa
-title: Dev/Test Scenarios in the DevOps World
-url: http://www.microsoftvirtualacademy.com/liveevents/dev-test-scenarios-in-the-devops-world
-category: events-training
+title: 'Dev/Test Scenarios in the DevOps World'
+url: 'http://www.microsoftvirtualacademy.com/liveevents/dev-test-scenarios-in-the-devops-world'
+category: 5a88e1aebd6dca0d5f0d28aa
 slug: 'devtest-scenarios-in-the-devops-world'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-10-11T07:22:34.000Z'
 tags: []
 ---

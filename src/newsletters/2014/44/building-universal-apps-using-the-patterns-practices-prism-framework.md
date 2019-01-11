@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2876
-title: Building Universal Apps Using the Patterns &amp; Practices Prism Framework
-url: http://channel9.msdn.com/Events/TechEd/Europe/2014/DEV-B213
-category: videos
+title: 'Building Universal Apps Using the Patterns &amp; Practices Prism Framework'
+url: 'http://channel9.msdn.com/Events/TechEd/Europe/2014/DEV-B213'
+category: 5a88e1aebd6dca0d5f0d2876
 slug: 'building-universal-apps-using-the-patterns-practices-prism-framework'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-11-01T09:14:02.000Z'
 tags: []
 ---

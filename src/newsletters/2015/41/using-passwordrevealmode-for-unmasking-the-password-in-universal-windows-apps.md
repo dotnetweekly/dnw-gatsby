@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2568
-title: Using PasswordRevealMode for unmasking the Password in Universal Windows Apps
-url: http://dailydotnettips.com/2015/10/06/using-passwordrevealmode-for-unmasking-the-password-in-universal-windows-apps/
-category: articles
+title: 'Using PasswordRevealMode for unmasking the Password in Universal Windows Apps'
+url: 'http://dailydotnettips.com/2015/10/06/using-passwordrevealmode-for-unmasking-the-password-in-universal-windows-apps/'
+category: 5a88e1adbd6dca0d5f0d2568
 slug: 'using-passwordrevealmode-for-unmasking-the-password-in-universal-windows-apps'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-10-10T07:11:20.000Z'
 tags: []
 ---

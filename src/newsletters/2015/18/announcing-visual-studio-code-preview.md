@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d26d2
-title: Announcing Visual Studio Code - Preview
-url: http://blogs.msdn.com/b/vscode/archive/2015/04/29/announcing-visual-studio-code-preview.aspx
-category: libraries-tools
+title: 'Announcing Visual Studio Code - Preview'
+url: 'http://blogs.msdn.com/b/vscode/archive/2015/04/29/announcing-visual-studio-code-preview.aspx'
+category: 5a88e1adbd6dca0d5f0d26d2
 slug: 'announcing-visual-studio-code-preview'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-05-01T19:34:29.000Z'
 tags: []
 ---

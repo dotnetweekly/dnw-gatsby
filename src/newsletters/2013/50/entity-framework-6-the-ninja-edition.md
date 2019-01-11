@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b52
 title: 'Entity Framework 6: The Ninja Edition'
-url: http://msdn.microsoft.com/en-us/magazine/dn532202.aspx
-category: articles
+url: 'http://msdn.microsoft.com/en-us/magazine/dn532202.aspx'
+category: 5a88e1aebd6dca0d5f0d2b52
 slug: 'entity-framework-6-the-ninja-edition'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-12-14T08:19:07.000Z'
 tags: []
 ---

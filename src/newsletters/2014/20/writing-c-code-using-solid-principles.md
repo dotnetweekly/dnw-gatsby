@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d29f0
-title: Writing C# Code Using SOLID Principles
-url: http://www.codeguru.com/csharp/csharp/writing-c-code-using-solid-principles.htm
-category: articles
+title: 'Writing C# Code Using SOLID Principles'
+url: 'http://www.codeguru.com/csharp/csharp/writing-c-code-using-solid-principles.htm'
+category: 5a88e1aebd6dca0d5f0d29f0
 slug: 'writing-c-code-using-solid-principles'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-05-17T01:20:04.000Z'
 tags: []
 ---

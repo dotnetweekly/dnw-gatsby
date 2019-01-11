@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d26b8
-title: The future of JavaScript is (almost) now
-url: http://sdtimes.com/the-future-of-javascript-is-almost-now/
-category: articles
+title: 'The future of JavaScript is (almost) now'
+url: 'http://sdtimes.com/the-future-of-javascript-is-almost-now/'
+category: 5a88e1adbd6dca0d5f0d26b8
 slug: 'the-future-of-javascript-is-almost-now'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-05-14T03:24:32.000Z'
 tags: []
 ---

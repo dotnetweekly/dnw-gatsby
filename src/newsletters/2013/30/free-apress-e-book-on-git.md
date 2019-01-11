@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2c68
-title: Free APress e-book on GIT!
-url: http://geekswithblogs.net/TATWORTH/archive/2013/07/24/free-apress-e-book-on-git.aspx
-category: books
+title: 'Free APress e-book on GIT!'
+url: 'http://geekswithblogs.net/TATWORTH/archive/2013/07/24/free-apress-e-book-on-git.aspx'
+category: 5a88e1aebd6dca0d5f0d2c68
 slug: 'free-apress-e-book-on-git'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-07-25T18:06:29.000Z'
 tags: []
 ---

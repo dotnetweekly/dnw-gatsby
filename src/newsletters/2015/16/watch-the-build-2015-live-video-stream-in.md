@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d26f2
-title: Watch the Build 2015 live video stream in
-url: http://www.buildwindows.com/
-category: videos
+title: 'Watch the Build 2015 live video stream in'
+url: 'http://www.buildwindows.com/'
+category: 5a88e1adbd6dca0d5f0d26f2
 slug: 'watch-the-build-2015-live-video-stream-in'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-04-18T13:48:30.000Z'
 tags: []
 ---

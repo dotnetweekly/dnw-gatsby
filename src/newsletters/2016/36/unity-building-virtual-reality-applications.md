@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2230
-title: Unity - Building Virtual Reality Applications
-url: https://msdn.microsoft.com/magazine/mt763231
-category: articles
+title: 'Unity - Building Virtual Reality Applications'
+url: 'https://msdn.microsoft.com/magazine/mt763231'
+category: 5a88e1acbd6dca0d5f0d2230
 slug: 'unity-building-virtual-reality-applications'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-09-03T07:38:46.000Z'
 tags: []
 ---

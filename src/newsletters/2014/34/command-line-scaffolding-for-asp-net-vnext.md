@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2916
-title: Command line scaffolding for ASP.NET vNext
-url: http://blogs.msdn.com/b/webdev/archive/2014/08/21/command-line-scaffolding-for-asp-net-vnext.aspx
-category: articles
+title: 'Command line scaffolding for ASP.NET vNext'
+url: 'http://blogs.msdn.com/b/webdev/archive/2014/08/21/command-line-scaffolding-for-asp-net-vnext.aspx'
+category: 5a88e1aebd6dca0d5f0d2916
 slug: 'command-line-scaffolding-for-asp-net-vnext'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2014-08-23T08:36:31.000Z'
 tags: []
 ---

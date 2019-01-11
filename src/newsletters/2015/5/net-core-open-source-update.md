@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d27a4
-title: .NET Core Open Source Update
-url: http://blogs.msdn.com/b/dotnet/archive/2015/01/28/net-core-open-source-update.aspx
-category: articles
+title: '.NET Core Open Source Update'
+url: 'http://blogs.msdn.com/b/dotnet/archive/2015/01/28/net-core-open-source-update.aspx'
+category: 5a88e1adbd6dca0d5f0d27a4
 slug: 'net-core-open-source-update'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2015-01-31T10:05:17.000Z'
 tags: []
 ---

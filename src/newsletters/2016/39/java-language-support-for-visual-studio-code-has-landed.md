@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d21f0
-title: Java Language Support for Visual Studio Code has landed
-url: http://developers.redhat.com/blog/2016/09/19/java-language-support-for-visual-studio-code-has-landed/
-category: libraries-tools
+title: 'Java Language Support for Visual Studio Code has landed'
+url: 'http://developers.redhat.com/blog/2016/09/19/java-language-support-for-visual-studio-code-has-landed/'
+category: 5a88e1acbd6dca0d5f0d21f0
 slug: 'java-language-support-for-visual-studio-code-has-landed'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-09-23T19:19:44.000Z'
 tags: []
 ---

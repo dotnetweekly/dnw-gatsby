@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2cf2
-title: Implementing a finite-state machine using async/await
-url: http://www.codeproject.com/Articles/581181/Implementing-a-finite-state-machine-using-async-aw
-category: articles
+title: 'Implementing a finite-state machine using async/await'
+url: 'http://www.codeproject.com/Articles/581181/Implementing-a-finite-state-machine-using-async-aw'
+category: 5a88e1afbd6dca0d5f0d2cf2
 slug: 'implementing-a-finite-state-machine-using-asyncawait'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2013-05-04T00:34:15.000Z'
 tags: []
 ---

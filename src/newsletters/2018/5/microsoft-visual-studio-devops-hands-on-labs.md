@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1a90
-title: Microsoft Visual Studio DevOps Hands-on-Labs
-url: https://almvm.azurewebsites.net/
-category: events-training
+title: 'Microsoft Visual Studio DevOps Hands-on-Labs'
+url: 'https://almvm.azurewebsites.net/'
+category: 5a88e1aabd6dca0d5f0d1a90
 slug: 'microsoft-visual-studio-devops-hands-on-labs'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2018-02-02T05:30:38.000Z'
 tags: []
 ---

@@ -1,10 +1,11 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2204
-title: Self-contained .NET Core Applications
-url: http://www.hanselman.com/blog/SelfcontainedNETCoreApplications.aspx
-category: articles
+title: 'Self-contained .NET Core Applications'
+url: 'http://www.hanselman.com/blog/SelfcontainedNETCoreApplications.aspx'
+category: 5a88e1acbd6dca0d5f0d2204
 slug: 'self-contained-net-core-applications'
 user_id: 5a83ce59d6eb0005c4ecda2c
+username: 'bill-s'
 createdOn: '2016-09-17T07:29:12.000Z'
 tags: []
 ---
