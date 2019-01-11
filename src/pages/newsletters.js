@@ -4,47 +4,37 @@ import Layout from '../components/layout'
 
 const Newsletters = props => {
   const newsletters = props.data.allNewsletters.edges
-  const rows = []
-  let row = []
-
-  for (var i = 0; i < newsletters.length; i++) {
-    const newsletter = newsletters[i]
-    row.push({
-      week: newsletter.week,
-      year: newsletter.year,
-    })
-    if (row.length === 5) {
-      rows.push(row)
-      row = []
-    }
-  }
 
   return (
     <Layout>
       <h2>Previous Newsletters</h2>
-      {rows.map((row, i) => {
+      {newsletters.map(newsletter => {
         return (
-          <div className="columns" key={`newsletters-${i}`}>
-            {row.map(item => {
-              console.log(item)
-              return (
-                <a
-                  key={`newsletter-link-${i}`}
-                  target="_blank"
-                  href={`https://dnw-newsletter.azurewebsites.net/issues/${
-                    item.year
-                  }/${item.week}/`}
-                  rel="noopener noreferrer"
-                >
-                  <span>
-                    Week: {item.week} Year: {item.year}
-                  </span>
-                </a>
-              )
-            })}
-          </div>
+          <a
+            style={{
+              display: 'inline-block',
+              'box-sizing': 'border-box;',
+              padding: '10px',
+              width: '20%',
+              float: 'left',
+              'text-align': 'center',
+            }}
+            key={`newsletter-link-${newsletter.node.year}-${
+              newsletter.node.week
+            }`}
+            target="_blank"
+            href={`https://dnw-newsletter.azurewebsites.net/issues/${
+              newsletter.node.year
+            }/${newsletter.node.week}/`}
+            rel="noopener noreferrer"
+          >
+            <span>
+              Week: {newsletter.node.week} Year: {newsletter.node.year}
+            </span>
+          </a>
         )
       })}
+      <p className="is-clearfix" />
     </Layout>
   )
 }

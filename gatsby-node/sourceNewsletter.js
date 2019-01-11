@@ -8,19 +8,17 @@ const {
 } = require('../src/utils/calendar')
 
 exports.sourceNewsletter = async createNode => {
-  // const fetchNewsletters = () => axios.get(conf.URL.newsletter)
-  // const res = await fetchNewsletters()
-
   let currentWeek = 20
   let currentYear = 2012
 
   const now = getUtcNow()
+  const nowWeek = getWeekNumber(now)[1]
   const lastWeek = getWeekNumber(now)[1]
   const lastYear = now.getFullYear()
 
   let count = 0
 
-  do {
+  while (1) {
     // Create your node object
     const newsletterNode = {
       // Required fields
@@ -56,14 +54,8 @@ exports.sourceNewsletter = async createNode => {
     }
 
     count++
-    if (count > 400) {
+    if (count > 2500) {
       break
     }
-  } while (1)
-  // let lastWeek = weeksInYear(firstYear);
-
-  // map into these results and create nodes
-  // res.data.data.map((newsletter, i) => {
-
-  // })
+  }
 }
