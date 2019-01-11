@@ -26,6 +26,7 @@ const Newsletters = props => {
         return (
           <div className="columns" key={`newsletters-${i}`}>
             {row.map(item => {
+              console.log(item)
               return (
                 <a
                   key={`newsletter-link-${i}`}

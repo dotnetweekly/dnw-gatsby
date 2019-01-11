@@ -34,6 +34,21 @@ module.exports = {
         name: 'newsletters',
       },
     },
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: `dotNET Weekly`,
+        short_name: `DNW`,
+        start_url: `/`,
+        background_color: `#ffffff`,
+        theme_color: `#5c2d91`,
+        // Enables "Add to Homescreen" prompt and disables browser UI (including back button)
+        // see https://developers.google.com/web/fundamentals/web-app-manifest/#display
+        display: `standalone`,
+        icon: `src/images/app-icon-large.png`, // This path is relative to the root of the site.
+      },
+    },
+    'gatsby-plugin-offline',
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.app/offline
     // 'gatsby-plugin-offline',
