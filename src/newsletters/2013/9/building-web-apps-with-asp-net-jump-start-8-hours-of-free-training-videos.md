@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d8c
-title: 'Building Web Apps with ASP.NET Jump Start - 8 Hours of FREE Training Videos'
+title: "Building Web Apps with ASP.NET Jump Start - 8 Hours of FREE Training Videos"
 url: 'http://www.hanselman.com/blog/BuildingWebAppsWithASPNETJumpStart8HoursOfFREETrainingVideos.aspx'
 category: 5a88e1afbd6dca0d5f0d2d8c
 slug: 'building-web-apps-with-asp-net-jump-start-8-hours-of-free-training-videos'

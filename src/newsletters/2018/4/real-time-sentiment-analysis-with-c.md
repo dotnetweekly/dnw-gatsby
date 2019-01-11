@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1abc
-title: 'Real-Time Sentiment Analysis with C#'
+title: "Real-Time Sentiment Analysis with C#"
 url: 'http://luisquintanilla.me/2018/01/18/real-time-sentiment-analysis-csharp/'
 category: 5a88e1aabd6dca0d5f0d1abc
 slug: 'real-time-sentiment-analysis-with-c'

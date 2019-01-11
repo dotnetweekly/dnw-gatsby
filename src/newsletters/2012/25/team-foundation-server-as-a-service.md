@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2ffc
-title: 'Team Foundation Server as a Service'
+title: "Team Foundation Server as a Service"
 url: 'http://tfspreview.com/en-us/'
 category: 5a88e1afbd6dca0d5f0d2ffc
 slug: 'team-foundation-server-as-a-service'

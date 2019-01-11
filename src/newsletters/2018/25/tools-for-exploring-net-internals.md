@@ -1,6 +1,6 @@
 ---
 _id: 5b2838c3edb73742d538cc8c
-title: 'Tools for Exploring .NET Internals'
+title: "Tools for Exploring .NET Internals"
 url: 'http://mattwarren.org/2018/06/15/Tools-for-Exploring-.NET-Internals/'
 category: 5b2838c3edb73742d538cc8c
 slug: 'tools-for-exploring-net-internals'

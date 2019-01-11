@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2196
-title: 'Azure Service Fabric Patterns and Practices'
+title: "Azure Service Fabric Patterns and Practices"
 url: 'https://mva.microsoft.com/liveevents/azure-service-fabric-patterns-and-practices'
 category: 5a88e1acbd6dca0d5f0d2196
 slug: 'azure-service-fabric-patterns-and-practices-2'

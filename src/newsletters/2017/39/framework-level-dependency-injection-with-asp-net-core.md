@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1ca4
-title: 'Framework-level dependency injection with ASP.NET Core'
+title: "Framework-level dependency injection with ASP.NET Core"
 url: 'https://tech.io/playgrounds/5040/framework-level-dependency-injection-with-asp-net-core'
 category: 5a88e1abbd6dca0d5f0d1ca4
 slug: 'framework-level-dependency-injection-with-asp-net-core'

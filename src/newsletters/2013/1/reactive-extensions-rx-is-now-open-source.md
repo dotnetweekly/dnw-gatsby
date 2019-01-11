@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2e02
-title: 'Reactive Extensions (Rx) is now Open Source'
+title: "Reactive Extensions (Rx) is now Open Source"
 url: 'http://www.hanselman.com/blog/ReactiveExtensionsRxIsNowOpenSource.aspx'
 category: 5a88e1afbd6dca0d5f0d2e02
 slug: 'reactive-extensions-rx-is-now-open-source'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d28b2
-title: 'Visual Studio “14” CTP 4 and TypeScript 1.1 CTP Released'
+title: "Visual Studio “14” CTP 4 and TypeScript 1.1 CTP Released"
 url: 'http://blogs.msdn.com/b/visualstudio/archive/2014/10/06/visual-studio-14-ctp-4-and-typescript-1-1-ctp-released.aspx'
 category: 5a88e1aebd6dca0d5f0d28b2
 slug: 'visual-studio-14-ctp-4-and-typescript-1-1-ctp-released'

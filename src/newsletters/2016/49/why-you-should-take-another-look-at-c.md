@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d212e
-title: 'Why You Should Take Another Look at C#'
+title: "Why You Should Take Another Look at C#"
 url: 'https://realm.io/news/goto-mads-torgersen-why-take-another-look-at-c-sharp/'
 category: 5a88e1acbd6dca0d5f0d212e
 slug: 'why-you-should-take-another-look-at-c'

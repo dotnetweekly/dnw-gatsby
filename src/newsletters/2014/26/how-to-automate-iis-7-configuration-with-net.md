@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d29a8
-title: 'How to Automate IIS 7 Configuration with .NET'
+title: "How to Automate IIS 7 Configuration with .NET"
 url: 'http://visualstudiomagazine.com/articles/2014/06/01/automating-iis-7.aspx'
 category: 5a88e1aebd6dca0d5f0d29a8
 slug: 'how-to-automate-iis-7-configuration-with-net'

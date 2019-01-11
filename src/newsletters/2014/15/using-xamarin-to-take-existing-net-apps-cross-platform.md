@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a3c
-title: 'Using Xamarin to take Existing .NET Apps Cross Platform'
+title: "Using Xamarin to take Existing .NET Apps Cross Platform"
 url: 'http://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Using-Xamarin-to-take-Existing-NET-Apps-Cross-Platform'
 category: 5a88e1aebd6dca0d5f0d2a3c
 slug: 'using-xamarin-to-take-existing-net-apps-cross-platform'

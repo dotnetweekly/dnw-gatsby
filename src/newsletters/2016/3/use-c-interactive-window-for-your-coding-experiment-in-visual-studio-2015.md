@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d247c
-title: 'Use C# Interactive Window for your coding experiment in Visual Studio 2015'
+title: "Use C# Interactive Window for your coding experiment in Visual Studio 2015"
 url: 'http://dailydotnettips.com/2016/01/12/use-c-interactive-window-for-your-coding-experiment-in-visual-studio-2015/'
 category: 5a88e1adbd6dca0d5f0d247c
 slug: 'use-c-interactive-window-for-your-coding-experiment-in-visual-studio-2015'

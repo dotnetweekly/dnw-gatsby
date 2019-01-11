@@ -1,6 +1,6 @@
 ---
 _id: 5be5365a27cd23a04c5935f6
-title: 'Free e-book for Azure tips and tricks'
+title: "Free e-book for Azure tips and tricks"
 url: 'https://neelbhatt.com/2018/11/05/free-e-book-for-azure-tips-and-tricks/'
 category: 5be5365a27cd23a04c5935f6
 slug: 'free-e-book-for-azure-tips-and-tricks'

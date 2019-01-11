@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d5e
-title: 'Backbone.js Tutorial: Build Environment'
+title: "Backbone.js Tutorial: Build Environment"
 url: 'http://dailyjs.com/2012/11/29/backbone-tutorial-1/'
 category: 5a88e1afbd6dca0d5f0d2d5e
 slug: 'backbone-js-tutorial-build-environment'

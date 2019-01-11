@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d27aa
-title: 'Licensing changes - User acceptance testing and Agile planning'
+title: "Licensing changes - User acceptance testing and Agile planning"
 url: 'http://blogs.msdn.com/b/bharry/archive/2015/01/27/licensing-changes-user-acceptance-testing-and-agile-planning.aspx'
 category: 5a88e1adbd6dca0d5f0d27aa
 slug: 'licensing-changes-user-acceptance-testing-and-agile-planning'

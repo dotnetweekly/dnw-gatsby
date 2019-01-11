@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2dea
-title: '8 Tips to Sell Windows Store App'
+title: "8 Tips to Sell Windows Store App"
 url: 'http://blogs.msdn.com/b/mvpawardprogram/archive/2013/01/14/8-tips-to-sell-windows-store-app.aspx'
 category: 5a88e1afbd6dca0d5f0d2dea
 slug: '8-tips-to-sell-windows-store-app'

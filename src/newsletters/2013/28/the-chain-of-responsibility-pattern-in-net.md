@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2c76
-title: 'The Chain of Responsibility Pattern in .NET'
+title: "The Chain of Responsibility Pattern in .NET"
 url: 'http://visualstudiomagazine.com/articles/2013/07/11/chain-of-responsibility-pattern.aspx'
 category: 5a88e1afbd6dca0d5f0d2c76
 slug: 'the-chain-of-responsibility-pattern-in-net'

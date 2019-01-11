@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2e00
-title: 'Windows Phone 8 Emulator Skin Switcher'
+title: "Windows Phone 8 Emulator Skin Switcher"
 url: 'http://channel9.msdn.com/coding4fun/blog/Windows-Phone-8-Emulator-Skin-Switcher'
 category: 5a88e1afbd6dca0d5f0d2e00
 slug: 'windows-phone-8-emulator-skin-switcher'

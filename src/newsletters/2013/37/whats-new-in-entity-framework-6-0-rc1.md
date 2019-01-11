@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2c08
-title: 'What’s New in Entity Framework 6.0 RC1'
+title: "What’s New in Entity Framework 6.0 RC1"
 url: 'http://www.dotnetcurry.com/ShowArticle.aspx?ID=941'
 category: 5a88e1aebd6dca0d5f0d2c08
 slug: 'whats-new-in-entity-framework-6-0-rc1'

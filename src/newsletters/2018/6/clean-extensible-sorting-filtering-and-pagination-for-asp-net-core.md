@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1a70
-title: 'Clean &amp; extensible Sorting, Filtering, and Pagination for ASP.NET Core'
+title: "Clean &amp; extensible Sorting, Filtering, and Pagination for ASP.NET Core"
 url: 'https://github.com/Biarity/Sieve/'
 category: 5a88e1aabd6dca0d5f0d1a70
 slug: 'clean-extensible-sorting-filtering-and-pagination-for-asp-net-core'

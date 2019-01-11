@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2952
-title: 'Leverage output caching with IIS7.X and IIS8.X'
+title: "Leverage output caching with IIS7.X and IIS8.X"
 url: 'http://codewala.net/2014/07/01/leverage-output-caching-with-iis7-x-and-iis8-x/'
 category: 5a88e1aebd6dca0d5f0d2952
 slug: 'leverage-output-caching-with-iis7-x-and-iis8-x'

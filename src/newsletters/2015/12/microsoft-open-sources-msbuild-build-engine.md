@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d273a
-title: 'Microsoft Open Sources MSBuild Build Engine'
+title: "Microsoft Open Sources MSBuild Build Engine"
 url: 'http://microsoft-news.com/microsoft-open-sources-msbuild-build-engine-it-is-the-build-platform-for-net-and-visual-studio/'
 category: 5a88e1adbd6dca0d5f0d273a
 slug: 'microsoft-open-sources-msbuild-build-engine'

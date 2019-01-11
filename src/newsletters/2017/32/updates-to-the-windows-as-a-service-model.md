@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1d6e
-title: 'Updates to the Windows as a Service model'
+title: "Updates to the Windows as a Service model"
 url: 'https://www.youtube.com/watch?v=qSAsiM01GOU&MC=Windows&MC=Virtual&MC=IoT&MC=OfficeO365&MC=SQL'
 category: 5a88e1abbd6dca0d5f0d1d6e
 slug: 'updates-to-the-windows-as-a-service-model'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d254c
-title: 'Free eBook: 52 Tips & Tricks to Boost .NET Performance'
+title: "Free eBook: 52 Tips & Tricks to Boost .NET Performance"
 url: 'https://www.simple-talk.com/blogs/2015/10/22/free-ebook-52-tips-tricks-to-boost-net-performance/'
 category: 5a88e1adbd6dca0d5f0d254c
 slug: 'free-ebook-52-tips-tricks-to-boost-net-performance'

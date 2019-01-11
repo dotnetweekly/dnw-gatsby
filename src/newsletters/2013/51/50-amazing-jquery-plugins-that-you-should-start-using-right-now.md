@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b3e
-title: '50 Amazing jQuery Plugins That You Should Start Using Right Now'
+title: "50 Amazing jQuery Plugins That You Should Start Using Right Now"
 url: 'http://tutorialzine.com/2013/04/50-amazing-jquery-plugins/'
 category: 5a88e1aebd6dca0d5f0d2b3e
 slug: '50-amazing-jquery-plugins-that-you-should-start-using-right-now'

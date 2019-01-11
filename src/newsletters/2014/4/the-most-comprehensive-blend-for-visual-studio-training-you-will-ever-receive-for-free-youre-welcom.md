@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2afe
-title: 'The most Comprehensive Blend for Visual Studio training you will ever receive – for Free; you’re welcome!'
+title: "The most Comprehensive Blend for Visual Studio training you will ever receive – for Free; you’re welcome!"
 url: 'http://blog.jerrynixon.com/2014/01/the-most-comprehensive-blend-for-visual.html'
 category: 5a88e1aebd6dca0d5f0d2afe
 slug: 'the-most-comprehensive-blend-for-visual-studio-training-you-will-ever-receive-for-free-youre-welcom'

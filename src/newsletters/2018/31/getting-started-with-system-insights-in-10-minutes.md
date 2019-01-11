@@ -1,6 +1,6 @@
 ---
 _id: 5b62a51e6b826e80a4f59939
-title: 'Getting started with System Insights in 10 minutes'
+title: "Getting started with System Insights in 10 minutes"
 url: 'https://blogs.technet.microsoft.com/filecab/2018/07/24/getting-started-with-system-insights-in-10-minutes/'
 category: 5b62a51e6b826e80a4f59939
 slug: 'getting-started-with-system-insights-in-10-minutes'

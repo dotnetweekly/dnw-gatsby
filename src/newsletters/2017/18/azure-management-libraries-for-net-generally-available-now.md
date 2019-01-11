@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1ef4
-title: 'Azure Management Libraries for .NET generally available now'
+title: "Azure Management Libraries for .NET generally available now"
 url: 'https://azure.microsoft.com/en-us/blog/azure-management-libraries-for-net-generally-available-now/'
 category: 5a88e1abbd6dca0d5f0d1ef4
 slug: 'azure-management-libraries-for-net-generally-available-now'

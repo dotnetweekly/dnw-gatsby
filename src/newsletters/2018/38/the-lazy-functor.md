@@ -1,6 +1,6 @@
 ---
 _id: 5b9fb12a7a4fc4b76fdaab8b
-title: 'The Lazy functor'
+title: "The Lazy functor"
 url: 'http://blog.ploeh.dk/2018/09/10/the-lazy-functor/'
 category: 5b9fb12a7a4fc4b76fdaab8b
 slug: 'the-lazy-functor'

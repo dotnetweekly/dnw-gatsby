@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d279a
-title: 'Cloud-Enable a Windows Presentation Foundation LOB App'
+title: "Cloud-Enable a Windows Presentation Foundation LOB App"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/cloud-enable-a-windows-presentation-foundation-lob-app'
 category: 5a88e1adbd6dca0d5f0d279a
 slug: 'cloud-enable-a-windows-presentation-foundation-lob-app'

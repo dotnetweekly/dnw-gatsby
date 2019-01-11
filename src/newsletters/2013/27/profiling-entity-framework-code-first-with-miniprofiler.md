@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2c84
-title: 'Profiling Entity Framework Code First With MiniProfiler'
+title: "Profiling Entity Framework Code First With MiniProfiler"
 url: 'http://weblogs.asp.net/ricardoperes/archive/2013/07/04/profiling-entity-framework-code-first-with-miniprofiler.aspx'
 category: 5a88e1afbd6dca0d5f0d2c84
 slug: 'profiling-entity-framework-code-first-with-miniprofiler'

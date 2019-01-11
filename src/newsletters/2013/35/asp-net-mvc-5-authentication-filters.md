@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2c32
-title: 'ASP.NET MVC 5 Authentication Filters'
+title: "ASP.NET MVC 5 Authentication Filters"
 url: 'http://visualstudiomagazine.com/articles/2013/08/28/asp_net-authentication-filters.aspx'
 category: 5a88e1aebd6dca0d5f0d2c32
 slug: 'asp-net-mvc-5-authentication-filters'

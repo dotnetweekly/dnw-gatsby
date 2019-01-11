@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d256e
-title: 'The October Edition of MSDN Magazine'
+title: "The October Edition of MSDN Magazine"
 url: 'https://msdn.microsoft.com/en-gb/magazine/default.aspx'
 category: 5a88e1adbd6dca0d5f0d256e
 slug: 'the-october-edition-of-msdn-magazine'

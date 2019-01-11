@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d29ba
-title: 'Thousands of code samples at your finger tips'
+title: "Thousands of code samples at your finger tips"
 url: 'http://blogs.msdn.com/b/codefx/'
 category: 5a88e1aebd6dca0d5f0d29ba
 slug: 'thousands-of-code-samples-at-your-finger-tips'

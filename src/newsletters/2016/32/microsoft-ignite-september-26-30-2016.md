@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2278
-title: 'Microsoft Ignite - September 26–30, 2016'
+title: "Microsoft Ignite - September 26–30, 2016"
 url: 'https://ignite.microsoft.com/?ocid=ignite_text_noimage_internal_newsletter_regnow_technet'
 category: 5a88e1acbd6dca0d5f0d2278
 slug: 'microsoft-ignite-september-26-30-2016'

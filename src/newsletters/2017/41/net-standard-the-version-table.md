@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1c82
-title: '.NET Standard - The Version Table'
+title: ".NET Standard - The Version Table"
 url: 'https://www.youtube.com/watch?v=vMRSlQ5modg'
 category: 5a88e1abbd6dca0d5f0d1c82
 slug: 'net-standard-the-version-table'

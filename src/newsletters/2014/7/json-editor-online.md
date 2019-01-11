@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2ac4
-title: 'JSON Editor Online'
+title: "JSON Editor Online"
 url: 'http://www.jsoneditoronline.org/'
 category: 5a88e1aebd6dca0d5f0d2ac4
 slug: 'json-editor-online'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1b2a
-title: 'An Introduction to Azure Event Grid'
+title: "An Introduction to Azure Event Grid"
 url: 'https://www.red-gate.com/simple-talk/cloud/cloud-development/introduction-azure-event-grid/'
 category: 5a88e1aabd6dca0d5f0d1b2a
 slug: 'an-introduction-to-azure-event-grid'

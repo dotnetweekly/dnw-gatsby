@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1f78
-title: 'Command Line: Using dotnet watch test for continuous testing with .NET Core 1.0 and XUnit.net'
+title: "Command Line: Using dotnet watch test for continuous testing with .NET Core 1.0 and XUnit.net"
 url: 'https://www.hanselman.com/blog/CommandLineUsingDotnetWatchTestForContinuousTestingWithNETCore10AndXUnitnet.aspx'
 category: 5a88e1abbd6dca0d5f0d1f78
 slug: 'command-line-using-dotnet-watch-test-for-continuous-testing-with-net-core-1-0-and-xunit-net'

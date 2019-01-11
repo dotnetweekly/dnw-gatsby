@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2936
-title: 'Episode 326 - Rob Gibbens on Xamarin 3.0'
+title: "Episode 326 - Rob Gibbens on Xamarin 3.0"
 url: 'http://technologyandfriends.com/SubText/archive/2014/07/14/tf326.aspx'
 category: 5a88e1aebd6dca0d5f0d2936
 slug: 'episode-326-rob-gibbens-on-xamarin-3-0'

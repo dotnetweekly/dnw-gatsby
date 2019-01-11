@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d20f4
-title: 'Top JavaScript Frameworks & Topics to Learn in 2017'
+title: "Top JavaScript Frameworks & Topics to Learn in 2017"
 url: 'https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711#.tqpvrw8h3'
 category: 5a88e1acbd6dca0d5f0d20f4
 slug: 'top-javascript-frameworks-topics-to-learn-in-2017'

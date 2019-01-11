@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2966
-title: 'Tips and tricks for using XAML controls in your universal Windows apps'
+title: "Tips and tricks for using XAML controls in your universal Windows apps"
 url: 'http://blogs.windows.com/windows/b/buildingapps/archive/2014/07/22/tips-and-tricks-for-using-xaml-controls-in-your-universal-windows-apps.aspx'
 category: 5a88e1aebd6dca0d5f0d2966
 slug: 'tips-and-tricks-for-using-xaml-controls-in-your-universal-windows-apps'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d23ae
-title: 'Best of Build 2016'
+title: "Best of Build 2016"
 url: 'https://blogs.windows.com/buildingapps/2016/04/03/best-of-build-2016/'
 category: 5a88e1acbd6dca0d5f0d23ae
 slug: 'best-of-build-2016'

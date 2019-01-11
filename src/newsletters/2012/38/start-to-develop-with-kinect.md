@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2ed4
-title: 'Start to develop with Kinect'
+title: "Start to develop with Kinect"
 url: 'http://msdn.microsoft.com/en-us/magazine/jj159883.aspx'
 category: 5a88e1afbd6dca0d5f0d2ed4
 slug: 'start-to-develop-with-kinect'

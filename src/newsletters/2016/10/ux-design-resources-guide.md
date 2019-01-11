@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d23fa
-title: 'UX Design Resources Guide'
+title: "UX Design Resources Guide"
 url: 'http://uxhow.com/resources/'
 category: 5a88e1acbd6dca0d5f0d23fa
 slug: 'ux-design-resources-guide'

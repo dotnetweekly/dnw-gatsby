@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2316
-title: 'Announcing MSTest Framework support for .NET Core RC2 / ASP.NET Core RC2'
+title: "Announcing MSTest Framework support for .NET Core RC2 / ASP.NET Core RC2"
 url: 'https://blogs.msdn.microsoft.com/visualstudioalm/2016/05/30/announcing-mstest-framework-support-for-net-core-rc2-asp-net-core-rc2/'
 category: 5a88e1acbd6dca0d5f0d2316
 slug: 'announcing-mstest-framework-support-for-net-core-rc2-asp-net-core-rc2'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2458
-title: 'JSON Configuration in ASP.NET Core MVC'
+title: "JSON Configuration in ASP.NET Core MVC"
 url: 'http://jameschambers.com/2016/01/json-config-in-aspnetcoremvc/'
 category: 5a88e1acbd6dca0d5f0d2458
 slug: 'json-configuration-in-asp-net-core-mvc'

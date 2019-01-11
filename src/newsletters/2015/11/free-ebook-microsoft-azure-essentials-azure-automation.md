@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d274a
-title: 'Free ebook: Microsoft Azure Essentials: Azure Automation'
+title: "Free ebook: Microsoft Azure Essentials: Azure Automation"
 url: 'http://blogs.msdn.com/b/microsoft_press/archive/2015/03/06/free-ebook-microsoft-azure-essentials-azure-automation.aspx'
 category: 5a88e1adbd6dca0d5f0d274a
 slug: 'free-ebook-microsoft-azure-essentials-azure-automation'

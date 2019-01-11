@@ -1,6 +1,6 @@
 ---
 _id: 5c0a2268d9a5936118f70e8d
-title: 'Microsoft Edge and Chromium Open Source: Our Intent'
+title: "Microsoft Edge and Chromium Open Source: Our Intent"
 url: 'https://github.com/MicrosoftEdge/MSEdge'
 category: 5c0a2268d9a5936118f70e8d
 slug: 'microsoft-edge-and-chromium-open-source-our-intent'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d274e
-title: 'Creating unit test method stubs with "Create Unit Tests"'
+title: "Creating unit test method stubs with 'Create Unit Tests'"
 url: 'http://blogs.msdn.com/b/visualstudioalm/archive/2015/03/06/creating-unit-test-stubs.aspx'
 category: 5a88e1adbd6dca0d5f0d274e
 slug: 'creating-unit-test-method-stubs-with-create-unit-tests'

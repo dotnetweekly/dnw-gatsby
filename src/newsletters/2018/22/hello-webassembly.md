@@ -1,6 +1,6 @@
 ---
 _id: 5b130327d15d384badee60ef
-title: 'Hello WebAssembly'
+title: "Hello WebAssembly"
 url: 'https://medium.com/@caspervonb/hello-webassembly-882bba5c9fb7'
 category: 5b130327d15d384badee60ef
 slug: 'hello-webassembly'

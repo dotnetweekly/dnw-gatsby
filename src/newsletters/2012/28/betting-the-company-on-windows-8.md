@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2fc6
-title: 'Betting the Company on Windows 8'
+title: "Betting the Company on Windows 8"
 url: 'http://www.codinghorror.com/blog/2012/07/betting-the-company-on-windows-8.html'
 category: 5a88e1afbd6dca0d5f0d2fc6
 slug: 'betting-the-company-on-windows-8'

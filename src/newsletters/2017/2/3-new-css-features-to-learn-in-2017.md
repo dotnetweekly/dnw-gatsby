@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2096
-title: '3 New CSS Features to Learn in 2017'
+title: "3 New CSS Features to Learn in 2017"
 url: 'https://bitsofco.de/3-new-css-features-to-learn-in-2017/'
 category: 5a88e1acbd6dca0d5f0d2096
 slug: '3-new-css-features-to-learn-in-2017'

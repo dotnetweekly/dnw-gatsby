@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2fd0
-title: 'Create and Consume JSON-Formatted OData'
+title: "Create and Consume JSON-Formatted OData"
 url: 'http://msdn.microsoft.com/el-gr/magazine/jj190799(en-us).aspx'
 category: 5a88e1afbd6dca0d5f0d2fd0
 slug: 'create-and-consume-json-formatted-odata'

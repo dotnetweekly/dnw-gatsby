@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2c64
-title: 'Enabling IntelliSense for Mobile Services JavaScript in Visual Studio'
+title: "Enabling IntelliSense for Mobile Services JavaScript in Visual Studio"
 url: 'http://blogs.msdn.com/b/visualstudio/archive/2013/07/26/enabling-intellisense-for-mobile-services-javascript-in-visual-studio.aspx'
 category: 5a88e1aebd6dca0d5f0d2c64
 slug: 'enabling-intellisense-for-mobile-services-javascript-in-visual-studio'

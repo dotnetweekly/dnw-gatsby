@@ -1,6 +1,6 @@
 ---
 _id: 5bfd15ead9a593311af70e56
-title: 'Azure Tips and Tricks Part 175 - Machine Learning with ML.NET and Azure Functions - Part 2 of 2'
+title: "Azure Tips and Tricks Part 175 - Machine Learning with ML.NET and Azure Functions - Part 2 of 2"
 url: 'https://www.michaelcrump.net/azure-tips-and-tricks175/'
 category: 5bfd15ead9a593311af70e56
 slug: 'azure-tips-and-tricks-part-175-machine-learning-with-mlnet-and-azure-functions-part-2-of-2'

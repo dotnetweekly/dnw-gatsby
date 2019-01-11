@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d252c
-title: 'Free Akka.NET Cheat Sheet'
+title: "Free Akka.NET Cheat Sheet"
 url: 'http://dontcodetired.com/blog/post/Free-AkkaNET-Cheat-Sheet.aspx'
 category: 5a88e1adbd6dca0d5f0d252c
 slug: 'free-akka-net-cheat-sheet'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1a5c
-title: 'Refactoring Legacy Monoliths - Cost-Benefit Analysis Of Refactoring'
+title: "Refactoring Legacy Monoliths - Cost-Benefit Analysis Of Refactoring"
 url: 'https://blog.jamesmichaelhickey.com/refactoring-legacy-monoliths-part-2-convincing-management/'
 category: 5a88e1aabd6dca0d5f0d1a5c
 slug: 'refactoring-legacy-monoliths-cost-benefit-analysis-of-refactoring'

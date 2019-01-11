@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2554
-title: 'Building Apps for the Universal Windows Platform - Getting Started'
+title: "Building Apps for the Universal Windows Platform - Getting Started"
 url: 'https://channel9.msdn.com/Blogs/Seth-Juarez/Building-Apps-for-the-Universal-Windows-Platform-Getting-Started'
 category: 5a88e1adbd6dca0d5f0d2554
 slug: 'building-apps-for-the-universal-windows-platform-getting-started'

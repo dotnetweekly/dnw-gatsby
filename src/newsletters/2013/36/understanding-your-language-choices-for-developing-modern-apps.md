@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2c12
-title: 'Understanding Your Language Choices for Developing Modern Apps'
+title: "Understanding Your Language Choices for Developing Modern Apps"
 url: 'http://msdn.microsoft.com/en-us/magazine/dn385713.aspx'
 category: 5a88e1aebd6dca0d5f0d2c12
 slug: 'understanding-your-language-choices-for-developing-modern-apps'

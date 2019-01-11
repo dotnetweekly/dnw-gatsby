@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1ec2
-title: 'Getting started with ASP.NET Core 2.0 Preview 1'
+title: "Getting started with ASP.NET Core 2.0 Preview 1"
 url: 'https://www.stevejgordon.co.uk/getting-started-with-asp-net-core-2-0-preview-1'
 category: 5a88e1abbd6dca0d5f0d1ec2
 slug: 'getting-started-with-aspnet-core-2-0-preview-1'

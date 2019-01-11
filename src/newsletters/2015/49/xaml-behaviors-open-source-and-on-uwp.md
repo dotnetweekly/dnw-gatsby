@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d24e4
-title: 'XAML Behaviors, open source and on UWP'
+title: "XAML Behaviors, open source and on UWP"
 url: 'https://blogs.windows.com/buildingapps/2015/11/30/xaml-behaviors-open-source-and-on-uwp/'
 category: 5a88e1adbd6dca0d5f0d24e4
 slug: 'xaml-behaviors-open-source-and-on-uwp'

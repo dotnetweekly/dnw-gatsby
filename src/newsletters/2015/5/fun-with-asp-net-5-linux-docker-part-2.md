@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d27ba
-title: 'Fun with ASP.NET 5, Linux & Docker, Part 2'
+title: "Fun with ASP.NET 5, Linux & Docker, Part 2"
 url: 'http://blog.markrendle.net/fun-with-asp-net-5-linux-docker-part-2/'
 category: 5a88e1adbd6dca0d5f0d27ba
 slug: 'fun-with-asp-net-5-linux-docker-part-2'

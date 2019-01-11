@@ -1,6 +1,6 @@
 ---
 _id: 5bac50f0af8d5e12e2ca622d
-title: 'Top 10 Networking Features in Windows Server 2019: #1 Container Networking with Kubernetes'
+title: "Top 10 Networking Features in Windows Server 2019: #1 Container Networking with Kubernetes"
 url: 'https://blogs.technet.microsoft.com/networking/2018/09/19/ws2019-kubernetes/'
 category: 5bac50f0af8d5e12e2ca622d
 slug: 'top-10-networking-features-in-windows-server-2019-1-container-networking-with-kubernetes'

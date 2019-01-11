@@ -1,6 +1,6 @@
 ---
 _id: 5b84cc07eb7beb352789afb7
-title: 'ASP.NET Core Basics: Blazor'
+title: "ASP.NET Core Basics: Blazor"
 url: 'https://itnext.io/asp-net-core-basics-blazor-37ce0e8e4d97'
 category: 5b84cc07eb7beb352789afb7
 slug: 'aspnet-core-basics-blazor'

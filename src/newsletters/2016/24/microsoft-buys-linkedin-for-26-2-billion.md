@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d22f8
-title: 'Microsoft Buys LinkedIn for $26.2 billion'
+title: "Microsoft Buys LinkedIn for $26.2 billion"
 url: 'http://www.andrewconnell.com/blog/microsoft-buys-linkedin-for-26-2-b-i-l-l-i-o-n'
 category: 5a88e1acbd6dca0d5f0d22f8
 slug: 'microsoft-buys-linkedin-for-26-2-billion'

@@ -1,6 +1,6 @@
 ---
 _id: 5acc23b445657b004ee43b6c
-title: 'Aiming to fill skill gaps in AI, Microsoft makes training courses available to the public'
+title: "Aiming to fill skill gaps in AI, Microsoft makes training courses available to the public"
 url: 'https://blogs.microsoft.com/ai/microsoft-professional-program-ai/'
 category: 5acc23b445657b004ee43b6c
 slug: 'aiming-to-fill-skill-gaps-in-ai-microsoft-makes-training-courses-available-to-the-public'

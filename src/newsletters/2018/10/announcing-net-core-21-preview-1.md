@@ -1,6 +1,6 @@
 ---
 _id: 5aa496e9ffd7fa0ee35abe72
-title: 'Announcing .NET Core 2.1 Preview 1'
+title: "Announcing .NET Core 2.1 Preview 1"
 url: 'https://blogs.msdn.microsoft.com/dotnet/2018/02/27/announcing-net-core-2-1-preview-1/'
 category: 5aa496e9ffd7fa0ee35abe72
 slug: 'announcing-net-core-21-preview-1'

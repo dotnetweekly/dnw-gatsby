@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2272
-title: 'Building Universal Windows apps targeting the Windows 10 Anniversary SDK'
+title: "Building Universal Windows apps targeting the Windows 10 Anniversary SDK"
 url: 'https://blogs.msdn.microsoft.com/visualstudio/2016/08/02/universal-windows-apps-targeting-windows-10-anniversary-sdk/'
 category: 5a88e1acbd6dca0d5f0d2272
 slug: 'building-universal-windows-apps-targeting-the-windows-10-anniversary-sdk'

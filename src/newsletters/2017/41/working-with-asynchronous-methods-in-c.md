@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1c80
-title: 'Working with Asynchronous Methods in C#'
+title: "Working with Asynchronous Methods in C#"
 url: 'http://gigi.nullneuron.net/gigilabs/working-with-asynchronous-methods-in-c/'
 category: 5a88e1abbd6dca0d5f0d1c80
 slug: 'working-with-asynchronous-methods-in-c'

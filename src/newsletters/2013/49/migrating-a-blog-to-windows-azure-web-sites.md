@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b62
-title: 'Migrating a Blog to Windows Azure Web Sites'
+title: "Migrating a Blog to Windows Azure Web Sites"
 url: 'http://structuretoobig.com/post/2013/08/07/Migrating-a-Blog-to-Windows-Azure-Web-Sites.aspx'
 category: 5a88e1aebd6dca0d5f0d2b62
 slug: 'migrating-a-blog-to-windows-azure-web-sites'

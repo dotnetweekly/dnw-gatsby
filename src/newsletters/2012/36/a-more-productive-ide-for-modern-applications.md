@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2f00
-title: 'A More Productive IDE for Modern Applications'
+title: "A More Productive IDE for Modern Applications"
 url: 'http://msdn.microsoft.com/el-gr/magazine/jj618297(en-us).aspx'
 category: 5a88e1afbd6dca0d5f0d2f00
 slug: 'a-more-productive-ide-for-modern-applications'

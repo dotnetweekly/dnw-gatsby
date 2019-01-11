@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d22a2
-title: 'Easy CRUD for Your Web API With Dapper'
+title: "Easy CRUD for Your Web API With Dapper"
 url: 'http://geekswithblogs.net/JeremyMorgan/archive/2016/07/16/easy-crud-for-your-web-api-with-dapper.aspx'
 category: 5a88e1acbd6dca0d5f0d22a2
 slug: 'easy-crud-for-your-web-api-with-dapper'

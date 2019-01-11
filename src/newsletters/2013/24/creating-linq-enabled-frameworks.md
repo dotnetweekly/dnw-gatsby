@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2ca6
-title: 'Creating LINQ-Enabled Frameworks'
+title: "Creating LINQ-Enabled Frameworks"
 url: 'http://visualstudiomagazine.com/articles/2013/06/17/creating-linq-enabled-frameworks.aspx'
 category: 5a88e1afbd6dca0d5f0d2ca6
 slug: 'creating-linq-enabled-frameworks'

@@ -1,6 +1,6 @@
 ---
 _id: 5b730757fd7ac90b4b9e003b
-title: 'An Introduction to the Windows Template Studio for Desktop Development'
+title: "An Introduction to the Windows Template Studio for Desktop Development"
 url: 'https://www.infoq.com/news/2018/08/Windows-Template-Studio'
 category: 5b730757fd7ac90b4b9e003b
 slug: 'an-introduction-to-the-windows-template-studio-for-desktop-development'

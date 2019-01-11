@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d25ca
-title: 'Delivering Scalable, Maintainable Objects with Domain-Driven Design'
+title: "Delivering Scalable, Maintainable Objects with Domain-Driven Design"
 url: 'https://visualstudiomagazine.com/articles/2015/08/01/delivering-scalable-maintainable-objects.aspx'
 category: 5a88e1adbd6dca0d5f0d25ca
 slug: 'delivering-scalable-maintainable-objects-with-domain-driven-design'

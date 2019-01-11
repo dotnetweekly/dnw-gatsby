@@ -1,6 +1,6 @@
 ---
 _id: 5adcc6ae724957005e0d2a0b
-title: 'Adaptation of Design Patterns for Humans to C#'
+title: "Adaptation of Design Patterns for Humans to C#"
 url: 'https://github.com/anupavanm/csharp-design-patterns-for-humans/blob/master/README.md'
 category: 5adcc6ae724957005e0d2a0b
 slug: 'adaptation-of-design-patterns-for-humans-to-c'

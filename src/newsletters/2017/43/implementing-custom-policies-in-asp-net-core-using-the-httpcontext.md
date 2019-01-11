@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1c38
-title: 'Implementing custom policies in ASP.NET Core using the HttpContext'
+title: "Implementing custom policies in ASP.NET Core using the HttpContext"
 url: 'https://damienbod.com/2017/10/23/implementing-custom-policies-in-asp-net-core-using-the-httpcontext/'
 category: 5a88e1aabd6dca0d5f0d1c38
 slug: 'implementing-custom-policies-in-asp-net-core-using-the-httpcontext'

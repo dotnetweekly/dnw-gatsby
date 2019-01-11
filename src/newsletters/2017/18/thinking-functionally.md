@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1eec
-title: 'Thinking Functionally'
+title: "Thinking Functionally"
 url: 'https://pusher.com/sessions/meetup/dot-net-north/thinking-functionally'
 category: 5a88e1abbd6dca0d5f0d1eec
 slug: 'thinking-functionally'

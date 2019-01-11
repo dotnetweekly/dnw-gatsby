@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d7c
-title: 'A Web Developer’s Site Launch Checklist (Including Portable Formats)'
+title: "A Web Developer’s Site Launch Checklist (Including Portable Formats)"
 url: 'http://webdesign.tutsplus.com/articles/workflow/a-web-designers-site-launch-checklist-including-portable-formats/'
 category: 5a88e1afbd6dca0d5f0d2d7c
 slug: 'a-web-developers-site-launch-checklist-including-portable-formats'

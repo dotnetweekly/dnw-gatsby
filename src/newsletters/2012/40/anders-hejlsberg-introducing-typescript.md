@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2ebe
-title: 'Anders Hejlsberg: Introducing TypeScript'
+title: "Anders Hejlsberg: Introducing TypeScript"
 url: 'https://channel9.msdn.com/posts/Anders-Hejlsberg-Introducing-TypeScript'
 category: 5a88e1afbd6dca0d5f0d2ebe
 slug: 'anders-hejlsberg-introducing-typescript'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2f78
-title: 'Final Build for VS 2012 - Availability and Launch Dates Ahead'
+title: "Final Build for VS 2012 - Availability and Launch Dates Ahead"
 url: 'http://blogs.msdn.com/b/jasonz/archive/2012/08/01/final-build-for-vs-2012-availability-and-launch-dates-ahead.aspx'
 category: 5a88e1afbd6dca0d5f0d2f78
 slug: 'final-build-for-vs-2012-availability-and-launch-dates-ahead'

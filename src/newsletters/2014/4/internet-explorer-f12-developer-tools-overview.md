@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2afc
-title: 'Internet Explorer F12 Developer Tools Overview'
+title: "Internet Explorer F12 Developer Tools Overview"
 url: 'http://rachelappel.com/internet-explorer-f12-developer-tools-overview'
 category: 5a88e1aebd6dca0d5f0d2afc
 slug: 'internet-explorer-f12-developer-tools-overview'

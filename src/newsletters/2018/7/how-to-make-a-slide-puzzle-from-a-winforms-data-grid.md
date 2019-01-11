@@ -1,6 +1,6 @@
 ---
 _id: 5a8b40953bdd6c002abd3c10
-title: 'How to Make a Slide Puzzle from a WinForms Data Grid'
+title: "How to Make a Slide Puzzle from a WinForms Data Grid"
 url: 'https://www.grapecity.com/en/blogs/how-to-make-a-slide-puzzle-from-winforms-data-grid'
 category: 5a8b40953bdd6c002abd3c10
 slug: 'how-to-make-a-slide-puzzle-from-a-winforms-data-grid'

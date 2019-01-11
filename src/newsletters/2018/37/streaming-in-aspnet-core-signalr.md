@@ -1,6 +1,6 @@
 ---
 _id: 5b9744081f9f2ed28a857abb
-title: 'Streaming in ASP.NET Core SignalR'
+title: "Streaming in ASP.NET Core SignalR"
 url: 'https://coderethinked.com/streaming-in-asp-net-core-signalr'
 category: 5b9744081f9f2ed28a857abb
 slug: 'streaming-in-aspnet-core-signalr'

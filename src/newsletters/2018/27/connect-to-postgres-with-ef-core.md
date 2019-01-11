@@ -1,6 +1,6 @@
 ---
 _id: 5b3c988d10ce44df6b856a56
-title: 'Connect to Postgres with EF Core'
+title: "Connect to Postgres with EF Core"
 url: 'http://en.otomatikmuhendis.com/2017/05/05/connect-to-postgres-with-ef-core/'
 category: 5b3c988d10ce44df6b856a56
 slug: 'connect-to-postgres-with-ef-core'

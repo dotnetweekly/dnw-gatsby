@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2372
-title: 'Cross-Platform at Microsoft: Xamarin, Cordova, Unity and C++ Panel'
+title: "Cross-Platform at Microsoft: Xamarin, Cordova, Unity and C++ Panel"
 url: 'https://channel9.msdn.com/Events/Build/2016/T614'
 category: 5a88e1acbd6dca0d5f0d2372
 slug: 'cross-platform-at-microsoft-xamarin-cordova-unity-and-c-panel'

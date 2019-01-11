@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d29c6
-title: 'Topshelf and Katana: A Unified Web and Service Architecture'
+title: "Topshelf and Katana: A Unified Web and Service Architecture"
 url: 'http://msdn.microsoft.com/en-us/magazine/dn745865.aspx?loc=zbtfz_zYFCz&prod=zOtProdz&tech=zWDz_zWSrvz&lang=zASPNz&prog=zTNMz&type=zMagz&country=zUSz'
 category: 5a88e1aebd6dca0d5f0d29c6
 slug: 'topshelf-and-katana-a-unified-web-and-service-architecture'

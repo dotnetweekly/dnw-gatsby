@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d24ac
-title: 'F#, event sourcing and CQRS tutorial... and agents'
+title: "F#, event sourcing and CQRS tutorial... and agents"
 url: 'http://blog.2mas.xyz/fsharp-event-sourcing-and-cqrs-tutorial-and-agents/'
 category: 5a88e1adbd6dca0d5f0d24ac
 slug: 'f-event-sourcing-and-cqrs-tutorial-and-agents'

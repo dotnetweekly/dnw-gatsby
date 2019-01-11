@@ -1,6 +1,6 @@
 ---
 _id: 5a8b3e653bdd6c002abd3c0d
-title: 'Containers - What Are They Good For? Local Dependencies'
+title: "Containers - What Are They Good For? Local Dependencies"
 url: 'https://jimmybogard.com/containers-what-are-they-good-for-local-dependencies/'
 category: 5a8b3e653bdd6c002abd3c0d
 slug: 'containers-what-are-they-good-for-local-dependencies'

@@ -1,6 +1,6 @@
 ---
 _id: 5b1edb6c0f7cd3a5f8f0be16
-title: '10 reasons why C# is alive and kicking in 2018'
+title: "10 reasons why C# is alive and kicking in 2018"
 url: 'https://fluxmatix.com/en/blog/10-reasons-why-csharp-is-alive-and-kicking-in-2018'
 category: 5b1edb6c0f7cd3a5f8f0be16
 slug: '10-reasons-why-c-is-alive-and-kicking-in-2018'

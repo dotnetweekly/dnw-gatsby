@@ -1,6 +1,6 @@
 ---
 _id: 5c0825b6d9a593df03f70e83
-title: 'Announcing WPF, WinForms, and WinUI are going Open Source'
+title: "Announcing WPF, WinForms, and WinUI are going Open Source"
 url: 'https://www.hanselman.com/blog/AnnouncingWPFWinFormsAndWinUIAreGoingOpenSource.aspx'
 category: 5c0825b6d9a593df03f70e83
 slug: 'announcing-wpf-winforms-and-winui-are-going-open-source'

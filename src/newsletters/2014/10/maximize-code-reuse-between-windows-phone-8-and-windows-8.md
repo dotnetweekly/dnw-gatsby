@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a8e
-title: 'Maximize code reuse between Windows Phone 8 and Windows 8'
+title: "Maximize code reuse between Windows Phone 8 and Windows 8"
 url: 'http://msdn.microsoft.com/library/windowsphone/develop/jj681693(v=vs.105).aspx'
 category: 5a88e1aebd6dca0d5f0d2a8e
 slug: 'maximize-code-reuse-between-windows-phone-8-and-windows-8'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1ffe
-title: 'Build an API Service in ASP.NET Core with Twilio, Stripe, and Stormpath'
+title: "Build an API Service in ASP.NET Core with Twilio, Stripe, and Stormpath"
 url: 'https://stormpath.com/blog/build-api-service-dotnet-core-twilio-stripe'
 category: 5a88e1abbd6dca0d5f0d1ffe
 slug: 'build-an-api-service-in-asp-net-core-with-twilio-stripe-and-stormpath'

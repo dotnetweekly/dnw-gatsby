@@ -1,6 +1,6 @@
 ---
 _id: 5ad2b8ee325044006eb6d661
-title: 'API Versioning in Asp.Net Core 2.0'
+title: "API Versioning in Asp.Net Core 2.0"
 url: 'https://koukia.ca/api-versioning-in-asp-net-core-2-0-1b55970aa29d'
 category: 5ad2b8ee325044006eb6d661
 slug: 'api-versioning-in-aspnet-core-20'

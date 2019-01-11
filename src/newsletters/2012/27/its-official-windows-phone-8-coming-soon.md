@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2fca
-title: 'It"s Official! Windows Phone 8 Coming Soon'
+title: "It's Official! Windows Phone 8 Coming Soon"
 url: 'http://channel9.msdn.com/Events/Windows-Phone/Summit'
 category: 5a88e1afbd6dca0d5f0d2fca
 slug: 'its-official-windows-phone-8-coming-soon'

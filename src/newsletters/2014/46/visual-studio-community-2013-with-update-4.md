@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d284e
-title: 'Visual Studio Community 2013 with Update 4'
+title: "Visual Studio Community 2013 with Update 4"
 url: 'http://www.visualstudio.com/en-us/downloads/download-visual-studio-vs'
 category: 5a88e1aebd6dca0d5f0d284e
 slug: 'visual-studio-community-2013-with-update-4'

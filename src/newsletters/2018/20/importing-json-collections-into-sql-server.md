@@ -1,6 +1,6 @@
 ---
 _id: 5afa619e416efa07ab328ccb
-title: 'Importing JSON Collections into SQL Server'
+title: "Importing JSON Collections into SQL Server"
 url: 'https://www.red-gate.com/simple-talk/sql/t-sql-programming/importing-json-collections-sql-server/'
 category: 5afa619e416efa07ab328ccb
 slug: 'importing-json-collections-into-sql-server'

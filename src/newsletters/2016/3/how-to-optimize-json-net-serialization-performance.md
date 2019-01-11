@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d246c
-title: 'How to Optimize Json.NET Serialization Performance'
+title: "How to Optimize Json.NET Serialization Performance"
 url: 'http://www.tomdupont.net/2016/01/how-to-optimize-jsonnet-serialization.html'
 category: 5a88e1acbd6dca0d5f0d246c
 slug: 'how-to-optimize-json-net-serialization-performance'

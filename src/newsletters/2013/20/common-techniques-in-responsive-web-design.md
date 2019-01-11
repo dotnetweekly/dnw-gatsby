@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2cd0
-title: 'Common Techniques in Responsive Web Design'
+title: "Common Techniques in Responsive Web Design"
 url: 'http://msdn.microsoft.com/en-us/magazine/dn217862.aspx'
 category: 5a88e1afbd6dca0d5f0d2cd0
 slug: 'common-techniques-in-responsive-web-design'

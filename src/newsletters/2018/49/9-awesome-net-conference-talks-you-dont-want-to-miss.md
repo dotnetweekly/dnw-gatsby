@@ -1,6 +1,6 @@
 ---
 _id: 5c061ab2d9a593a53ff70e78
-title: '9 awesome .NET conference talks you don"t want to miss'
+title: "9 awesome .NET conference talks you don't want to miss"
 url: 'https://blog.elmah.io/9-awesome-net-conference-talks-you-dont-want-to-miss/'
 category: 5c061ab2d9a593a53ff70e78
 slug: '9-awesome-net-conference-talks-you-dont-want-to-miss'

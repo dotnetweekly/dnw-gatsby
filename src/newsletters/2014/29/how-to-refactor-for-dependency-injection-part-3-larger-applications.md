@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2972
-title: 'How To Refactor for Dependency Injection, Part 3: Larger Applications'
+title: "How To Refactor for Dependency Injection, Part 3: Larger Applications"
 url: 'http://visualstudiomagazine.com/articles/2014/07/01/larger-applications.aspx'
 category: 5a88e1aebd6dca0d5f0d2972
 slug: 'how-to-refactor-for-dependency-injection-part-3-larger-applications'

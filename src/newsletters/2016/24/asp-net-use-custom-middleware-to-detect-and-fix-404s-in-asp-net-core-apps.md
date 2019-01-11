@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d22fc
-title: 'ASP.NET - Use Custom Middleware to Detect and Fix 404s in ASP.NET Core Apps'
+title: "ASP.NET - Use Custom Middleware to Detect and Fix 404s in ASP.NET Core Apps"
 url: 'https://msdn.microsoft.com/magazine/mt707525'
 category: 5a88e1acbd6dca0d5f0d22fc
 slug: 'asp-net-use-custom-middleware-to-detect-and-fix-404s-in-asp-net-core-apps'

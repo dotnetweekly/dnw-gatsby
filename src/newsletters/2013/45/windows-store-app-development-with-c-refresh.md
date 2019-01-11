@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b90
-title: 'Windows Store App Development with C# Refresh'
+title: "Windows Store App Development with C# Refresh"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/windows-store-app-development-with-c-refresh#?fbid=RfHc7HWJo2b'
 category: 5a88e1aebd6dca0d5f0d2b90
 slug: 'windows-store-app-development-with-c-refresh'

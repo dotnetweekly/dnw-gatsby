@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1afa
-title: 'Indicators of Problem Design'
+title: "Indicators of Problem Design"
 url: 'http://codingsight.com/indicators-of-problem-design/'
 category: 5a88e1aabd6dca0d5f0d1afa
 slug: 'indicators-of-problem-design'

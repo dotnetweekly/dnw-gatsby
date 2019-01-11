@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1f20
-title: 'Microsoft + Docker – Investing in the future of your applications'
+title: "Microsoft + Docker – Investing in the future of your applications"
 url: 'https://azure.microsoft.com/en-us/blog/microsoft-docker-investing-in-the-future-of-your-applications/'
 category: 5a88e1abbd6dca0d5f0d1f20
 slug: 'microsoft-docker-investing-in-the-future-of-your-applications'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d290c
-title: 'Using WCF in .NET Native'
+title: "Using WCF in .NET Native"
 url: 'http://blogs.msdn.com/b/dotnet/archive/2014/08/28/using-wcf-in-net-native.aspx'
 category: 5a88e1aebd6dca0d5f0d290c
 slug: 'using-wcf-in-net-native'

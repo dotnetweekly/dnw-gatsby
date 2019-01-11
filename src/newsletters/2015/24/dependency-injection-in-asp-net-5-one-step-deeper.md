@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2666
-title: 'Dependency Injection In ASP.NET 5 – One Step Deeper'
+title: "Dependency Injection In ASP.NET 5 – One Step Deeper"
 url: 'http://www.emadashi.com/2015/06/dependency-injection-in-asp-net-5-one-step-deeper/'
 category: 5a88e1adbd6dca0d5f0d2666
 slug: 'dependency-injection-in-asp-net-5-one-step-deeper'

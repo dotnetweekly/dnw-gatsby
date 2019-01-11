@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2c44
-title: 'Quick ASP.NET Performance Tips '
+title: "Quick ASP.NET Performance Tips "
 url: 'http://weblogs.asp.net/imranbaloch/archive/2013/08/22/quick-asp-net-performance-tips.aspx'
 category: 5a88e1aebd6dca0d5f0d2c44
 slug: 'quick-asp-net-performance-tips'

@@ -1,6 +1,6 @@
 ---
 _id: 5ab0b4ba3b00a501ceb2e09a
-title: 'Stack Overflow Developer Survey 2018 Overview for .NET Developers'
+title: "Stack Overflow Developer Survey 2018 Overview for .NET Developers"
 url: 'http://dontcodetired.com/blog/post/Stack-Overflow-Developer-Survey-2018-Overview-for-NET-Developers'
 category: 5ab0b4ba3b00a501ceb2e09a
 slug: 'stack-overflow-developer-survey-2018-overview-for-net-developers'

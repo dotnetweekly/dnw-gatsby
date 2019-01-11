@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d279e
-title: 'Application Insights now supports Windows Phone and Windows Store applications'
+title: "Application Insights now supports Windows Phone and Windows Store applications"
 url: 'http://blogs.msdn.com/b/visualstudioalm/archive/2015/01/07/application-insights-now-supports-windows-phone-and-windows-store-applications.aspx'
 category: 5a88e1adbd6dca0d5f0d279e
 slug: 'application-insights-now-supports-windows-phone-and-windows-store-applications'

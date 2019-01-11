@@ -1,6 +1,6 @@
 ---
 _id: 5be5381527cd23f2d55935fa
-title: 'The Complete JavaScript Handbook'
+title: "The Complete JavaScript Handbook"
 url: 'https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c'
 category: 5be5381527cd23f2d55935fa
 slug: 'the-complete-javascript-handbook'

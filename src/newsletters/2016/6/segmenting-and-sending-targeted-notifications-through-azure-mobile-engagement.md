@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d243a
-title: 'Segmenting and Sending targeted notifications through Azure Mobile Engagement'
+title: "Segmenting and Sending targeted notifications through Azure Mobile Engagement"
 url: 'https://channel9.msdn.com/Shows/Azure-Friday/Segmenting-and-Sending-targeted-notifications-through-Azure-Mobile-Engagement'
 category: 5a88e1acbd6dca0d5f0d243a
 slug: 'segmenting-and-sending-targeted-notifications-through-azure-mobile-engagement'

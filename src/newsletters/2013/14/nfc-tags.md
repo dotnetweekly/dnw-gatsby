@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d26
-title: 'NFC Tags'
+title: "NFC Tags"
 url: 'http://blogs.msdn.com/b/msgulfcommunity/archive/2013/04/07/nfc-tags.aspx'
 category: 5a88e1afbd6dca0d5f0d2d26
 slug: 'nfc-tags'

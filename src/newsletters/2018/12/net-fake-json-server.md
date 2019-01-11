@@ -1,6 +1,6 @@
 ---
 _id: 5ab0249c988610019e6bad48
-title: '.NET Fake JSON Server'
+title: ".NET Fake JSON Server"
 url: 'https://github.com/ttu/dotnet-fake-json-server'
 category: 5ab0249c988610019e6bad48
 slug: 'net-fake-json-server'

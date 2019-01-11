@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1bc2
-title: 'Connect() 2017 Announcements'
+title: "Connect() 2017 Announcements"
 url: 'https://blogs.msdn.microsoft.com/visualstudio/2017/11/15/the-latest-in-developer-productivity-and-app-experiences/'
 category: 5a88e1aabd6dca0d5f0d1bc2
 slug: 'connect-2017-announcements'

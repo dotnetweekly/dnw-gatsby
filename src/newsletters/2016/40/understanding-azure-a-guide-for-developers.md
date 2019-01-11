@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d21e0
-title: 'Understanding Azure - A Guide for Developers'
+title: "Understanding Azure - A Guide for Developers"
 url: 'http://msft.it/6182BCCln'
 category: 5a88e1acbd6dca0d5f0d21e0
 slug: 'understanding-azure-a-guide-for-developers'

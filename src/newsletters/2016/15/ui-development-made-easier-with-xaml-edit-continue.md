@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d239e
-title: 'UI development made easier with XAML Edit &amp; Continue'
+title: "UI development made easier with XAML Edit &amp; Continue"
 url: 'https://blogs.msdn.microsoft.com/visualstudio/2016/04/06/ui-development-made-easier-with-xaml-edit-continue/'
 category: 5a88e1acbd6dca0d5f0d239e
 slug: 'ui-development-made-easier-with-xaml-edit-continue'

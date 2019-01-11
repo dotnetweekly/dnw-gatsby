@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d27d0
-title: 'Introduction to AngularJS'
+title: "Introduction to AngularJS"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/introduction-to-angularjs'
 category: 5a88e1adbd6dca0d5f0d27d0
 slug: 'introduction-to-angularjs'

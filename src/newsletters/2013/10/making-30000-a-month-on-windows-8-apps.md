@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d7a
-title: 'Making $30,000 a month on Windows 8 apps'
+title: "Making $30,000 a month on Windows 8 apps"
 url: 'http://kevinashley.com/making-30000-a-month-on-windows-8-apps/'
 category: 5a88e1afbd6dca0d5f0d2d7a
 slug: 'making-30000-a-month-on-windows-8-apps'

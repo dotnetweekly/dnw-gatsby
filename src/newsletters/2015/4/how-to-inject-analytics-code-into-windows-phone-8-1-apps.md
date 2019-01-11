@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d27c2
-title: 'How To Inject Analytics Code into Windows Phone 8.1 Apps'
+title: "How To Inject Analytics Code into Windows Phone 8.1 Apps"
 url: 'http://visualstudiomagazine.com/articles/2015/01/01/how-to-inject-analytics-code.aspx'
 category: 5a88e1adbd6dca0d5f0d27c2
 slug: 'how-to-inject-analytics-code-into-windows-phone-8-1-apps'

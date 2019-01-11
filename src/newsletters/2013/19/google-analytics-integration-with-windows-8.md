@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2cd8
-title: 'Google Analytics integration with Windows 8'
+title: "Google Analytics integration with Windows 8"
 url: 'http://www.codeproject.com/Articles/588605/Google-Analytics-integration-with-Windows-8'
 category: 5a88e1afbd6dca0d5f0d2cd8
 slug: 'google-analytics-integration-with-windows-8'

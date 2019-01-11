@@ -1,6 +1,6 @@
 ---
 _id: 5b56c42d13da0b0be2d112ea
-title: 'How to Create Health Checks in ASP.NET Core'
+title: "How to Create Health Checks in ASP.NET Core"
 url: 'https://codeopinion.com/how-to-create-health-checks-in-asp-net-core/'
 category: 5b56c42d13da0b0be2d112ea
 slug: 'how-to-create-health-checks-in-aspnet-core'

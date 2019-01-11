@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2126
-title: 'Put a .NET Core App in a Container with the new Docker Tools for Visual Studio'
+title: "Put a .NET Core App in a Container with the new Docker Tools for Visual Studio"
 url: 'https://blogs.msdn.microsoft.com/webdev/2016/11/16/new-docker-tools-for-visual-studio/'
 category: 5a88e1acbd6dca0d5f0d2126
 slug: 'put-a-net-core-app-in-a-container-with-the-new-docker-tools-for-visual-studio'

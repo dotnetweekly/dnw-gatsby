@@ -1,6 +1,6 @@
 ---
 _id: 5ab1da1413c51c025e3879ca
-title: 'Scalable and Performant ASP.NET Core Web APIs: Asynchronous Code'
+title: "Scalable and Performant ASP.NET Core Web APIs: Asynchronous Code"
 url: 'https://www.carlrippon.com/scalable-and-performant-asp-net-core-web-apis-asynchronous-operations/'
 category: 5ab1da1413c51c025e3879ca
 slug: 'scalable-and-performant-aspnet-core-web-apis-asynchronous-code'

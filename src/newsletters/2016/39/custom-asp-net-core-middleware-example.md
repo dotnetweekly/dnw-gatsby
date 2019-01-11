@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d21e6
-title: 'Custom ASP.NET Core Middleware Example'
+title: "Custom ASP.NET Core Middleware Example"
 url: 'https://blogs.msdn.microsoft.com/dotnet/2016/09/19/custom-asp-net-core-middleware-example/'
 category: 5a88e1acbd6dca0d5f0d21e6
 slug: 'custom-asp-net-core-middleware-example'

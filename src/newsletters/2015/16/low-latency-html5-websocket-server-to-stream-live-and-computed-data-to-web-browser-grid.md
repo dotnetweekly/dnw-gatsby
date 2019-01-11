@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d26f6
-title: 'Low latency html5 WebSocket Server to stream live and computed data to web browser grid'
+title: "Low latency html5 WebSocket Server to stream live and computed data to web browser grid"
 url: 'http://www.codeproject.com/Articles/890092/Low-latency-html-WebSocket-Server-to-stream-live-a'
 category: 5a88e1adbd6dca0d5f0d26f6
 slug: 'low-latency-html5-websocket-server-to-stream-live-and-computed-data-to-web-browser-grid'

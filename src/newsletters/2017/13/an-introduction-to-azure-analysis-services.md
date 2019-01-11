@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1f72
-title: 'An introduction to Azure Analysis Services'
+title: "An introduction to Azure Analysis Services"
 url: 'https://www.youtube.com/watch?v=m1jnG1zIvTo'
 category: 5a88e1abbd6dca0d5f0d1f72
 slug: 'an-introduction-to-azure-analysis-services'

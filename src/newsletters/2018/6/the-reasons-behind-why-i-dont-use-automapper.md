@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1a4a
-title: 'The reasons behind why I don"t use AutoMapper.'
+title: "The reasons behind why I don't use AutoMapper."
 url: 'https://cezarypiatek.github.io/post/why-i-dont-use-automapper/'
 category: 5a88e1aabd6dca0d5f0d1a4a
 slug: 'the-reasons-behind-why-i-dont-use-automapper'

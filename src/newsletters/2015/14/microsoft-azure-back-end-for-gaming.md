@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2710
-title: 'Microsoft Azure Back End for Gaming'
+title: "Microsoft Azure Back End for Gaming"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/microsoft-azure-back-end-for-gaming'
 category: 5a88e1adbd6dca0d5f0d2710
 slug: 'microsoft-azure-back-end-for-gaming'

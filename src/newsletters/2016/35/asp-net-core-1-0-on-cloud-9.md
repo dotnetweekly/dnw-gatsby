@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d223c
-title: 'ASP.NET Core 1.0 on Cloud 9'
+title: "ASP.NET Core 1.0 on Cloud 9"
 url: 'http://www.franksworld.com/2016/08/28/asp-net-core-1-0-on-cloud-9/'
 category: 5a88e1acbd6dca0d5f0d223c
 slug: 'asp-net-core-1-0-on-cloud-9'

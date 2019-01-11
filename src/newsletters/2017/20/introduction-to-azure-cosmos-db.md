@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1ee0
-title: 'Introduction to Azure Cosmos DB'
+title: "Introduction to Azure Cosmos DB"
 url: 'https://docs.microsoft.com/en-us/azure/cosmos-db/introduction'
 category: 5a88e1abbd6dca0d5f0d1ee0
 slug: 'introduction-to-azure-cosmos-db'

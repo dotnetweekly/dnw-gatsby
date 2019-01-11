@@ -1,6 +1,6 @@
 ---
 _id: 5ad2b82e325044006eb6d65f
-title: 'Visual Studio Roadmap for 2018'
+title: "Visual Studio Roadmap for 2018"
 url: 'https://docs.microsoft.com/en-us/visualstudio/productinfo/vs2018-roadmap'
 category: 5ad2b82e325044006eb6d65f
 slug: 'visual-studio-roadmap-for-2018'

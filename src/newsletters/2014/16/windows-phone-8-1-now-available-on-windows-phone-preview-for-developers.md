@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a36
-title: 'Windows Phone 8.1 now available on Windows Phone Preview for Developers'
+title: "Windows Phone 8.1 now available on Windows Phone Preview for Developers"
 url: 'http://blogs.windows.com/windows/b/buildingapps/archive/2014/04/14/windows-phone-8-1-now-available-on-windows-phone-preview-for-developers.aspx'
 category: 5a88e1aebd6dca0d5f0d2a36
 slug: 'windows-phone-8-1-now-available-on-windows-phone-preview-for-developers'

@@ -1,6 +1,6 @@
 ---
 _id: 5b169db7d15d385bc0ee6100
-title: 'Pushing NuGet packages built in Docker by running the container'
+title: "Pushing NuGet packages built in Docker by running the container"
 url: 'https://andrewlock.net/pushing-nuget-packages-built-in-docker-by-running-the-container/'
 category: 5b169db7d15d385bc0ee6100
 slug: 'pushing-nuget-packages-built-in-docker-by-running-the-container'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1afc
-title: 'Refactoring Legacy Monoliths: First Steps'
+title: "Refactoring Legacy Monoliths: First Steps"
 url: 'https://blog.jamesmichaelhickey.com/refactoring-legacy-monoliths-first-steps/'
 category: 5a88e1aabd6dca0d5f0d1afc
 slug: 'refactoring-legacy-monoliths-first-steps'

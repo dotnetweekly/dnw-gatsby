@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1a6c
-title: 'Beginning Functional Programming In C# - Expressions Vs. Statements'
+title: "Beginning Functional Programming In C# - Expressions Vs. Statements"
 url: 'https://www.youtube.com/watch?v=hyD0vyCu6EQ&feature=youtu.be'
 category: 5a88e1aabd6dca0d5f0d1a6c
 slug: 'beginning-functional-programming-in-c-expressions-vs-statements'

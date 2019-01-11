@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d22a6
-title: '.NET Core Roadmap'
+title: ".NET Core Roadmap"
 url: 'https://blogs.msdn.microsoft.com/dotnet/2016/07/15/net-core-roadmap/'
 category: 5a88e1acbd6dca0d5f0d22a6
 slug: 'net-core-roadmap'

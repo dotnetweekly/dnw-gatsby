@@ -1,6 +1,6 @@
 ---
 _id: 5bda8cb51428e6e31394dad9
-title: 'Implementing User Management with ASP.NET Core Identity and custom claims'
+title: "Implementing User Management with ASP.NET Core Identity and custom claims"
 url: 'https://damienbod.com/2018/10/30/implementing-user-management-with-asp-net-core-identity-and-custom-claims/'
 category: 5bda8cb51428e6e31394dad9
 slug: 'implementing-user-management-with-aspnet-core-identity-and-custom-claims'

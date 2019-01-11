@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d23f8
-title: 'Visual Studio - Debugging Improvements in Visual Studio 2015'
+title: "Visual Studio - Debugging Improvements in Visual Studio 2015"
 url: 'https://msdn.microsoft.com/en-us/magazine/mt683794.aspx'
 category: 5a88e1acbd6dca0d5f0d23f8
 slug: 'visual-studio-debugging-improvements-in-visual-studio-2015'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d24de
-title: 'Web Application Compatibility Inside Windows 10'
+title: "Web Application Compatibility Inside Windows 10"
 url: 'https://channel9.msdn.com/shows/inside-windows-platform/web-application-compatibility-inside-windows-10'
 category: 5a88e1adbd6dca0d5f0d24de
 slug: 'web-application-compatibility-inside-windows-10'

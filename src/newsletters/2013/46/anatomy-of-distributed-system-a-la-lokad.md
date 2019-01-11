@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b7e
-title: 'Anatomy of Distributed System à la Lokad'
+title: "Anatomy of Distributed System à la Lokad"
 url: 'http://abdullin.com/journal/2012/3/31/anatomy-of-distributed-system-a-la-lokad.html'
 category: 5a88e1aebd6dca0d5f0d2b7e
 slug: 'anatomy-of-distributed-system-a-la-lokad'

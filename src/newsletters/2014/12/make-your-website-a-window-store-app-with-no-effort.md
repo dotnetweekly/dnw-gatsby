@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a70
-title: 'Make your website a window store app with no effort!'
+title: "Make your website a window store app with no effort!"
 url: 'http://wat.codeplex.com/'
 category: 5a88e1aebd6dca0d5f0d2a70
 slug: 'make-your-website-a-window-store-app-with-no-effort'

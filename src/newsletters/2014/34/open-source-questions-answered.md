@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2912
-title: 'Open Source Questions Answered'
+title: "Open Source Questions Answered"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/open-source-questions-answered'
 category: 5a88e1aebd6dca0d5f0d2912
 slug: 'open-source-questions-answered'

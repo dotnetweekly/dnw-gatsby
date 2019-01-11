@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2150
-title: 'OSX Pro Tip for .NET Environment Variables'
+title: "OSX Pro Tip for .NET Environment Variables"
 url: 'https://www.placona.co.uk/1592/dotnet/osx-pro-tip-for-environment-variables/'
 category: 5a88e1acbd6dca0d5f0d2150
 slug: 'osx-pro-tip-for-net-environment-variables'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d236a
-title: '.NET Compiler Platform - Maximize your Model-View-ViewModel Experience with Roslyn'
+title: ".NET Compiler Platform - Maximize your Model-View-ViewModel Experience with Roslyn"
 url: 'https://msdn.microsoft.com/en-us/magazine/mt703435'
 category: 5a88e1acbd6dca0d5f0d236a
 slug: 'net-compiler-platform-maximize-your-model-view-viewmodel-experience-with-roslyn'

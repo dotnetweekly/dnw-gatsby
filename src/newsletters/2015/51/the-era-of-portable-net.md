@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d24b2
-title: 'The Era of Portable .NET'
+title: "The Era of Portable .NET"
 url: 'http://developer.telerik.com/featured/the-era-of-portable-net/'
 category: 5a88e1adbd6dca0d5f0d24b2
 slug: 'the-era-of-portable-net'

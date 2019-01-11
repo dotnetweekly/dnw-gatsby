@@ -1,6 +1,6 @@
 ---
 _id: 5ae354c17b1832006e43ede0
-title: 'Integration Testing in Asp.Net Core 2.0 '
+title: "Integration Testing in Asp.Net Core 2.0 "
 url: 'https://koukia.ca/integration-testing-in-asp-net-core-2-0-51d14ede3968'
 category: 5ae354c17b1832006e43ede0
 slug: 'integration-testing-in-aspnet-core-20'

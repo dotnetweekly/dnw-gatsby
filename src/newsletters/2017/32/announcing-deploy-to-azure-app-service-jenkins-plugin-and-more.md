@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1d64
-title: 'Announcing deploy to Azure app service Jenkins plugin and more'
+title: "Announcing deploy to Azure app service Jenkins plugin and more"
 url: 'https://azure.microsoft.com/en-us/blog/annoucing-jenkins-deploy-to-azure-app-service-plugin-and-new-managed-disk-support-for-azure-storage-plugin/'
 category: 5a88e1abbd6dca0d5f0d1d64
 slug: 'announcing-deploy-to-azure-app-service-jenkins-plugin-and-more'

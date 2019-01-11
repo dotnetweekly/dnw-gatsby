@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d281c
-title: 'iOS Build &amp; Debugging with the Visual Studio Tools for Apache Cordova'
+title: "iOS Build &amp; Debugging with the Visual Studio Tools for Apache Cordova"
 url: 'http://blogs.msdn.com/b/visualstudio/archive/2014/12/04/ios-build-amp-debugging-with-the-visual-studio-tools-for-apache-cordova.aspx'
 category: 5a88e1aebd6dca0d5f0d281c
 slug: 'ios-build-debugging-with-the-visual-studio-tools-for-apache-cordova'

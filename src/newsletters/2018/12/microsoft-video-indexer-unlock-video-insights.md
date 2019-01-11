@@ -1,6 +1,6 @@
 ---
 _id: 5ab0978f3b00a501ceb2e097
-title: 'Microsoft Video Indexer - Unlock Video Insights'
+title: "Microsoft Video Indexer - Unlock Video Insights"
 url: 'https://vi.microsoft.com/'
 category: 5ab0978f3b00a501ceb2e097
 slug: 'microsoft-video-indexer-unlock-video-insights'

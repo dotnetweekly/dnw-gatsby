@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1a68
-title: '.NET Application Architecture Guidance'
+title: ".NET Application Architecture Guidance"
 url: 'https://www.microsoft.com/net/learn/architecture'
 category: 5a88e1aabd6dca0d5f0d1a68
 slug: 'net-application-architecture-guidance-4'

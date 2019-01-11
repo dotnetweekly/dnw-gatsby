@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2ec0
-title: 'TypeScript: JavaScript Development at Application Scale'
+title: "TypeScript: JavaScript Development at Application Scale"
 url: 'http://blogs.msdn.com/b/somasegar/archive/2012/10/01/typescript-javascript-development-at-application-scale.aspx'
 category: 5a88e1afbd6dca0d5f0d2ec0
 slug: 'typescript-javascript-development-at-application-scale'

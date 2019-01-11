@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2ee8
-title: 'Metro (WinJS) Declarative Data Binding'
+title: "Metro (WinJS) Declarative Data Binding"
 url: 'http://stephenwalther.com/archive/2012/02/26/metro-declarative-data-binding.aspx'
 category: 5a88e1afbd6dca0d5f0d2ee8
 slug: 'metro-winjs-declarative-data-binding'

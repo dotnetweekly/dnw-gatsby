@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d25a2
-title: 'React and TypeScript Get Cozy'
+title: "React and TypeScript Get Cozy"
 url: 'https://visualstudiomagazine.com/articles/2015/09/16/react-typescript-get-cozy.aspx'
 category: 5a88e1adbd6dca0d5f0d25a2
 slug: 'react-and-typescript-get-cozy'

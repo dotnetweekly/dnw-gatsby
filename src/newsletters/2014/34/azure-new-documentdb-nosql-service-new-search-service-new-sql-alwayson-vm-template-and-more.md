@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2924
-title: ' Azure: New DocumentDB NoSQL Service, New Search Service, New SQL AlwaysOn VM Template, and more'
+title: " Azure: New DocumentDB NoSQL Service, New Search Service, New SQL AlwaysOn VM Template, and more"
 url: 'http://weblogs.asp.net/scottgu/azure-new-documentdb-nosql-service-new-search-service-new-sql-alwayson-vm-template-and-more'
 category: 5a88e1aebd6dca0d5f0d2924
 slug: 'azure-new-documentdb-nosql-service-new-search-service-new-sql-alwayson-vm-template-and-more'

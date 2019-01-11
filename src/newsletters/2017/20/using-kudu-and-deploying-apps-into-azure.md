@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1ed6
-title: 'Using Kudu and deploying apps into Azure'
+title: "Using Kudu and deploying apps into Azure"
 url: 'https://blogs.msdn.microsoft.com/uk_faculty_connection/2017/05/15/using-kudu-and-deploying-apps-into-azure/'
 category: 5a88e1abbd6dca0d5f0d1ed6
 slug: 'using-kudu-and-deploying-apps-into-azure'

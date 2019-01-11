@@ -1,6 +1,6 @@
 ---
 _id: 5bb5a38d15695b2ebaf150c3
-title: 'What’s new in Azure Machine Learning service'
+title: "What’s new in Azure Machine Learning service"
 url: 'https://azure.microsoft.com/en-us/blog/what-s-new-in-azure-machine-learning-service/'
 category: 5bb5a38d15695b2ebaf150c3
 slug: 'whats-new-in-azure-machine-learning-service'

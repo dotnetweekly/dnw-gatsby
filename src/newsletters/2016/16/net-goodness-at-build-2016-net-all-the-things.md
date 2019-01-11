@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d238c
-title: '.NET Goodness at BUILD 2016 – .NET ALL THE THINGS!'
+title: ".NET Goodness at BUILD 2016 – .NET ALL THE THINGS!"
 url: 'https://blogs.msdn.microsoft.com/bethmassi/2016/04/15/net-goodness-at-build-2016-net-all-the-things/'
 category: 5a88e1acbd6dca0d5f0d238c
 slug: 'net-goodness-at-build-2016-net-all-the-things'

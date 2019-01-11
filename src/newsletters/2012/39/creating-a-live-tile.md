@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2ec4
-title: 'Creating A Live Tile'
+title: "Creating A Live Tile"
 url: 'http://jesseliberty.com/2012/09/24/creating-a-live-tile/'
 category: 5a88e1afbd6dca0d5f0d2ec4
 slug: 'creating-a-live-tile'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2630
-title: 'Visual Studio Toolbox: Visual Studio Tools for Apache Cordova'
+title: "Visual Studio Toolbox: Visual Studio Tools for Apache Cordova"
 url: 'http://blogs.msdn.com/b/robertgreen/archive/2015/07/08/visual-studio-toolbox-visual-studio-tools-for-apache-cordova.aspx'
 category: 5a88e1adbd6dca0d5f0d2630
 slug: 'visual-studio-toolbox-visual-studio-tools-for-apache-cordova'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d29b8
-title: 'Python for C# Developers'
+title: "Python for C# Developers"
 url: 'http://www.codemag.com/article/1407051'
 category: 5a88e1aebd6dca0d5f0d29b8
 slug: 'python-for-c-developers'

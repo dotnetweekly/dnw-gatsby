@@ -1,6 +1,6 @@
 ---
 _id: 5b1a52cafcaa2a99d964173e
-title: '.NET Managed + C Unmanaged: What’s the Cost?'
+title: ".NET Managed + C Unmanaged: What’s the Cost?"
 url: 'http://codingsight.com/net-managed-c-unmanaged-whats-the-cost/'
 category: 5b1a52cafcaa2a99d964173e
 slug: 'net-managed-c-unmanaged-whats-the-cost'

@@ -1,6 +1,6 @@
 ---
 _id: 5c1243c8bdff7de9fe340aa9
-title: 'Razor Components for a JavaScript-Free FrontEnd in 2019'
+title: "Razor Components for a JavaScript-Free FrontEnd in 2019"
 url: 'https://www.telerik.com/blogs/razor-components-for-a-javascript-free-frontend-in-2019'
 category: 5c1243c8bdff7de9fe340aa9
 slug: 'razor-components-for-a-javascript-free-frontend-in-2019'

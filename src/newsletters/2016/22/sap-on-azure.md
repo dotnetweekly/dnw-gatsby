@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d231e
-title: 'SAP on Azure'
+title: "SAP on Azure"
 url: 'https://azure.microsoft.com/en-us/campaigns/sap/'
 category: 5a88e1acbd6dca0d5f0d231e
 slug: 'sap-on-azure'

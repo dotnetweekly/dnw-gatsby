@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1a40
-title: 'Simple JSON flat file data store with support for typed and dynamic data'
+title: "Simple JSON flat file data store with support for typed and dynamic data"
 url: 'https://github.com/ttu/json-flatfile-datastore'
 category: 5a88e1aabd6dca0d5f0d1a40
 slug: 'simple-json-flat-file-data-store-with-support-for-typed-and-dynamic-data'

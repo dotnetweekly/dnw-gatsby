@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1c56
-title: 'Azure OpenDev'
+title: "Azure OpenDev"
 url: 'https://azure.microsoft.com/en-us/opendev/'
 category: 5a88e1aabd6dca0d5f0d1c56
 slug: 'azure-opendev-2'

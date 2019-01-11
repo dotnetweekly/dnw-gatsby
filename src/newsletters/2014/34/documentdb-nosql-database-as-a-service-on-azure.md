@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2926
-title: 'DocumentDB - NoSQL Database As A Service On Azure'
+title: "DocumentDB - NoSQL Database As A Service On Azure"
 url: 'http://weblogs.asp.net/shijuvarghese/documentdb-microsoft-s-new-nosql-database-as-a-service-on-azure'
 category: 5a88e1aebd6dca0d5f0d2926
 slug: 'documentdb-nosql-database-as-a-service-on-azure'

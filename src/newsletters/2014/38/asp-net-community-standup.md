@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d28ee
-title: 'ASP.NET Community Standup'
+title: "ASP.NET Community Standup"
 url: 'https://www.youtube.com/watch?v=Za89_-I25AI&list=PL0M0zPgJ3HSftTAAHttA3JQU4vOjXFquF'
 category: 5a88e1aebd6dca0d5f0d28ee
 slug: 'asp-net-community-standup'

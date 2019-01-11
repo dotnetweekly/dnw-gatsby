@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2f52
-title: 'App building events for Windows 8 app developers'
+title: "App building events for Windows 8 app developers"
 url: 'http://blogs.msdn.com/b/windowsappdev/archive/2012/08/02/app-building-events-for-windows-8-app-developers.aspx'
 category: 5a88e1afbd6dca0d5f0d2f52
 slug: 'app-building-events-for-windows-8-app-developers'

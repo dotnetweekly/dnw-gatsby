@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1f7c
-title: 'Don"t lose your swagger with dotnet build'
+title: "Don't lose your swagger with dotnet build"
 url: 'http://tattoocoder.com/dont-lose-your-swagger-with-dotnet-build/'
 category: 5a88e1abbd6dca0d5f0d1f7c
 slug: 'dont-lose-your-swagger-with-dotnet-build'

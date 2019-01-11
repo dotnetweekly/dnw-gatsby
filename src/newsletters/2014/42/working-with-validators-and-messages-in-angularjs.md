@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d289a
-title: 'Working with Validators and Messages in AngularJS'
+title: "Working with Validators and Messages in AngularJS"
 url: 'http://odetocode.com/blogs/scott/archive/2014/10/16/working-with-validators-and-messages-in-angularjs.aspx'
 category: 5a88e1aebd6dca0d5f0d289a
 slug: 'working-with-validators-and-messages-in-angularjs'

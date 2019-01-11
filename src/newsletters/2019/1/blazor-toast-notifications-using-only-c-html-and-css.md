@@ -1,6 +1,6 @@
 ---
 _id: 5c30bd364acc32cf1d2fe4ba
-title: 'Blazor toast notifications using only C#, HTML and CSS'
+title: "Blazor toast notifications using only C#, HTML and CSS"
 url: 'https://codedaze.io/blazor-toast-notifications-using-only-csharp-html-css/'
 category: 5c30bd364acc32cf1d2fe4ba
 slug: 'blazor-toast-notifications-using-only-c-html-and-css'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d28e8
-title: 'C#: Building a Useful, Extensible .NET Console Application Template for Development and Testing'
+title: "C#: Building a Useful, Extensible .NET Console Application Template for Development and Testing"
 url: 'http://www.codeproject.com/Articles/816301/Csharp-Building-a-Useful-Extensible-NET-Console-Ap'
 category: 5a88e1aebd6dca0d5f0d28e8
 slug: 'c-building-a-useful-extensible-net-console-application-template-for-development-and-testing'

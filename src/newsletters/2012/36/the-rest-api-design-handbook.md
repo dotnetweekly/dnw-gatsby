@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2ef4
-title: 'The REST API Design Handbook'
+title: "The REST API Design Handbook"
 url: 'http://www.amazon.com/The-REST-Design-Handbook-ebook/dp/B00890OBFI'
 category: 5a88e1afbd6dca0d5f0d2ef4
 slug: 'the-rest-api-design-handbook'

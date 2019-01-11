@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d96
-title: 'JSON Debugger visualizer in Visual Studio 2012'
+title: "JSON Debugger visualizer in Visual Studio 2012"
 url: 'http://weblogs.asp.net/soever/archive/2013/03/03/json-debugger-visualizer-in-visual-studio-2012.aspx'
 category: 5a88e1afbd6dca0d5f0d2d96
 slug: 'json-debugger-visualizer-in-visual-studio-2012'

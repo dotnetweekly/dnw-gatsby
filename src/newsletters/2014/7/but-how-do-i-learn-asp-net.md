@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2ac2
-title: 'But How Do I Learn ASP.NET?'
+title: "But How Do I Learn ASP.NET?"
 url: 'http://www.codeproject.com/Articles/724245/But-How-Do-I-Learn-ASP-NET'
 category: 5a88e1aebd6dca0d5f0d2ac2
 slug: 'but-how-do-i-learn-asp-net'

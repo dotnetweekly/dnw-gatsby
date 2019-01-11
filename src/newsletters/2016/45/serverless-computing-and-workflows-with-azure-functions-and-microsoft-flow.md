@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d217e
-title: 'Serverless Computing and Workflows with Azure Functions and Microsoft Flow'
+title: "Serverless Computing and Workflows with Azure Functions and Microsoft Flow"
 url: 'http://dontcodetired.com/blog/post/Serverless-Computing-and-Workflows-with-Azure-Functions-and-Microsoft-Flow'
 category: 5a88e1acbd6dca0d5f0d217e
 slug: 'serverless-computing-and-workflows-with-azure-functions-and-microsoft-flow'

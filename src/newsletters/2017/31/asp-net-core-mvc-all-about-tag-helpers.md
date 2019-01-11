@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1d92
-title: 'ASP.NET Core MVC - All about Tag Helpers'
+title: "ASP.NET Core MVC - All about Tag Helpers"
 url: 'https://codingblast.com/asp-net-core-tag-helpers/'
 category: 5a88e1abbd6dca0d5f0d1d92
 slug: 'asp-net-core-mvc-all-about-tag-helpers'

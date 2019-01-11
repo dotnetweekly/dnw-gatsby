@@ -1,6 +1,6 @@
 ---
 _id: 5c0a2513d9a5931174f70e91
-title: 'Razor support in Visual Studio Code now in Preview'
+title: "Razor support in Visual Studio Code now in Preview"
 url: 'https://blogs.msdn.microsoft.com/webdev/2018/11/16/razor-support-in-visual-studio-code-now-in-preview'
 category: 5c0a2513d9a5931174f70e91
 slug: 'razor-support-in-visual-studio-code-now-in-preview'

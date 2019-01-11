@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d27e2
-title: 'A Lap Around Azure Websites'
+title: "A Lap Around Azure Websites"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/a-lap-around-azure-websites'
 category: 5a88e1adbd6dca0d5f0d27e2
 slug: 'a-lap-around-azure-websites'

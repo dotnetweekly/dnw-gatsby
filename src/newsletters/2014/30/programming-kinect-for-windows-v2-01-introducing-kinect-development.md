@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d295e
-title: 'Programming Kinect for Windows v2: (01) Introducing Kinect Development'
+title: "Programming Kinect for Windows v2: (01) Introducing Kinect Development"
 url: 'http://channel9.msdn.com/Series/Programming-Kinect-for-Windows-v2/01'
 category: 5a88e1aebd6dca0d5f0d295e
 slug: 'programming-kinect-for-windows-v2-01-introducing-kinect-development'

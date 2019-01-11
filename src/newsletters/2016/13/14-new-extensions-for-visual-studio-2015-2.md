@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d23be
-title: '14 New Extensions for Visual Studio 2015'
+title: "14 New Extensions for Visual Studio 2015"
 url: 'https://visualstudiomagazine.com/articles/2016/03/01/14-new-extensions.aspx'
 category: 5a88e1acbd6dca0d5f0d23be
 slug: '14-new-extensions-for-visual-studio-2015-2'

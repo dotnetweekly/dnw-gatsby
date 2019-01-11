@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1b24
-title: 'Open Source .NET – 3 years later'
+title: "Open Source .NET – 3 years later"
 url: 'http://mattwarren.org/2017/12/19/Open-Source-.Net-3-years-later'
 category: 5a88e1aabd6dca0d5f0d1b24
 slug: 'open-source-net-3-years-later'

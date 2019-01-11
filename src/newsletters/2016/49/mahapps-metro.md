@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2128
-title: 'mahapps.metro'
+title: "mahapps.metro"
 url: 'http://mahapps.com/'
 category: 5a88e1acbd6dca0d5f0d2128
 slug: 'mahapps-metro'

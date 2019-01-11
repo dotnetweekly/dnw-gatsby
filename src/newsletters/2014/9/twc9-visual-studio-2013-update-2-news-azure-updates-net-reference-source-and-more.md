@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a98
-title: 'TWC9: Visual Studio 2013 Update 2 news, Azure updates, .Net Reference Source and more'
+title: "TWC9: Visual Studio 2013 Update 2 news, Azure updates, .Net Reference Source and more"
 url: 'http://channel9.msdn.com/Shows/This+Week+On+Channel+9/TWC9-Feb-28-2014'
 category: 5a88e1aebd6dca0d5f0d2a98
 slug: 'twc9-visual-studio-2013-update-2-news-azure-updates-net-reference-source-and-more'

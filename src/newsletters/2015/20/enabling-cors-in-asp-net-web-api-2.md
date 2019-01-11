@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d26ba
-title: 'Enabling CORS in ASP.NET Web API 2'
+title: "Enabling CORS in ASP.NET Web API 2"
 url: 'http://benfoster.io/blog/aspnet-webapi-cors'
 category: 5a88e1adbd6dca0d5f0d26ba
 slug: 'enabling-cors-in-asp-net-web-api-2'

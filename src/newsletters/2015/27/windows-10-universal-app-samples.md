@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2636
-title: 'Windows 10 Universal App Samples'
+title: "Windows 10 Universal App Samples"
 url: 'https://channel9.msdn.com/coding4fun/blog/Windows-10-Universal-App-Samples'
 category: 5a88e1adbd6dca0d5f0d2636
 slug: 'windows-10-universal-app-samples'

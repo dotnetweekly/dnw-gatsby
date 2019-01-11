@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1e36
-title: 'Four ways to dispose IDisposables in ASP.NET Core'
+title: "Four ways to dispose IDisposables in ASP.NET Core"
 url: 'https://andrewlock.net/four-ways-to-dispose-idisposables-in-asp-net-core/'
 category: 5a88e1abbd6dca0d5f0d1e36
 slug: 'four-ways-to-dispose-idisposables-in-asp-net-core'

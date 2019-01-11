@@ -1,6 +1,6 @@
 ---
 _id: 5b4ed718d9e4dc7eef97045e
-title: 'mikependon/RepoDb: A dynamic, lightweight and fast repo-based ORM .NET Library.'
+title: "mikependon/RepoDb: A dynamic, lightweight and fast repo-based ORM .NET Library."
 url: 'https://github.com/mikependon/RepoDb'
 category: 5b4ed718d9e4dc7eef97045e
 slug: 'mikependon-repodb-a-dynamic-lightweight-and-fast-repo-based-orm-net-library'

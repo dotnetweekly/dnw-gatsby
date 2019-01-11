@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d21ee
-title: 'Announcing TypeScript 2.0'
+title: "Announcing TypeScript 2.0"
 url: 'https://blogs.msdn.microsoft.com/typescript/2016/09/22/announcing-typescript-2-0/'
 category: 5a88e1acbd6dca0d5f0d21ee
 slug: 'announcing-typescript-2-0'

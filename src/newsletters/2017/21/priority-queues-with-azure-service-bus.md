@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1e9a
-title: 'Priority Queues with Azure Service Bus'
+title: "Priority Queues with Azure Service Bus"
 url: 'http://markheath.net/post/priority-queues-with-azure-service-bus'
 category: 5a88e1abbd6dca0d5f0d1e9a
 slug: 'priority-queues-with-azure-service-bus'

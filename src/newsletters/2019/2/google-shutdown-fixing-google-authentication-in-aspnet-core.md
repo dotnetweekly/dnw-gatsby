@@ -1,6 +1,6 @@
 ---
 _id: 5c384e2c5e8f0d99e58d0c4a
-title: 'Google+ shutdown: fixing Google authentication in ASP.NET Core'
+title: "Google+ shutdown: fixing Google authentication in ASP.NET Core"
 url: 'https://www.thomaslevesque.com/2019/01/10/google-shutdown-fixing-google-authentication-in-asp-net-core/'
 category: 5c384e2c5e8f0d99e58d0c4a
 slug: 'google-shutdown-fixing-google-authentication-in-aspnet-core'

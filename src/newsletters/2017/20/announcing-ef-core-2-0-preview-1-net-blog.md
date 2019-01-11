@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1eda
-title: 'Announcing EF Core 2.0 Preview 1 | .NET Blog'
+title: "Announcing EF Core 2.0 Preview 1 | .NET Blog"
 url: 'https://blogs.msdn.microsoft.com/dotnet/2017/05/12/announcing-ef-core-2-0-preview-1/'
 category: 5a88e1abbd6dca0d5f0d1eda
 slug: 'announcing-ef-core-2-0-preview-1-net-blog'

@@ -1,6 +1,6 @@
 ---
 _id: 5a8b3e303bdd6c002abd3c0c
-title: 'The Practical Test Pyramid'
+title: "The Practical Test Pyramid"
 url: 'https://martinfowler.com/articles/practical-test-pyramid.html'
 category: 5a8b3e303bdd6c002abd3c0c
 slug: 'the-practical-test-pyramid'

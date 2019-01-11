@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2dce
-title: 'Developing an end-to-end Windows Store app using C++ and XAML: Hilo (Windows)'
+title: "Developing an end-to-end Windows Store app using C++ and XAML: Hilo (Windows)"
 url: 'http://msdn.microsoft.com/en-us/library/windows/apps/jj160316.aspx'
 category: 5a88e1afbd6dca0d5f0d2dce
 slug: 'developing-an-end-to-end-windows-store-app-using-c-and-xaml-hilo-windows'

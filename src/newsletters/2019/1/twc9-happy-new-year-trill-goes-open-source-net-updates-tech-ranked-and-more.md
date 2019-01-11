@@ -1,6 +1,6 @@
 ---
 _id: 5c30ba364acc3276ab2fe4b7
-title: 'TWC9: Happy New Year, Trill Goes Open Source, .NET Updates, Tech Ranked and more'
+title: "TWC9: Happy New Year, Trill Goes Open Source, .NET Updates, Tech Ranked and more"
 url: 'https://channel9.msdn.com/Shows/This+Week+On+Channel+9/TWC9-Happy-New-Year-Trill-Goes-Open-Source-NET-Updates-Tech-Ranked-and-more'
 category: 5c30ba364acc3276ab2fe4b7
 slug: 'twc9-happy-new-year-trill-goes-open-source-net-updates-tech-ranked-and-more'

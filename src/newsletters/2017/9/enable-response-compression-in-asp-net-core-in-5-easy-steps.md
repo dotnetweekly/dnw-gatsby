@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1fe2
-title: 'Enable Response Compression In ASP.NET Core In 5 Easy Steps'
+title: "Enable Response Compression In ASP.NET Core In 5 Easy Steps"
 url: 'http://www.binaryintellect.net/articles/85973b21-5466-413d-9cc5-f44c63686859.aspx'
 category: 5a88e1abbd6dca0d5f0d1fe2
 slug: 'enable-response-compression-in-asp-net-core-in-5-easy-steps'

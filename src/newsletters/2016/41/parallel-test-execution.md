@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d21ce
-title: 'Parallel Test Execution'
+title: "Parallel Test Execution"
 url: 'https://blogs.msdn.microsoft.com/visualstudioalm/2016/10/10/parallel-test-execution/'
 category: 5a88e1acbd6dca0d5f0d21ce
 slug: 'parallel-test-execution'

@@ -1,6 +1,6 @@
 ---
 _id: 5c250bd4745cd044b40206b6
-title: 'Comparing RestSharp and Flurl.Http while consuming a web service in .NET Core'
+title: "Comparing RestSharp and Flurl.Http while consuming a web service in .NET Core"
 url: 'https://jeremylindsayni.wordpress.com/2018/12/27/comparing-restsharp-and-flurl-http-while-consuming-a-web-service-in-net-core/'
 category: 5c250bd4745cd044b40206b6
 slug: 'comparing-restsharp-and-flurlhttp-while-consuming-a-web-service-in-net-core'

@@ -1,6 +1,6 @@
 ---
 _id: 5a8bdfba3b936a002a308a25
-title: 'Transcribing Podcasts with Microsoft Speech API'
+title: "Transcribing Podcasts with Microsoft Speech API"
 url: 'http://www.luisquintanilla.me/2018/02/11/transcribing-podcasts-microsoft-speech-api/'
 category: 5a8bdfba3b936a002a308a25
 slug: 'transcribing-podcasts-with-microsoft-speech-api'

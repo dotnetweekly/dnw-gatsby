@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2c60
-title: 'Using Buddy with Windows Phone 8'
+title: "Using Buddy with Windows Phone 8"
 url: 'http://blogs.windows.com/windows_phone/b/wpdev/archive/2013/07/23/using-buddy-with-windows-phone-8.aspx'
 category: 5a88e1aebd6dca0d5f0d2c60
 slug: 'using-buddy-with-windows-phone-8'

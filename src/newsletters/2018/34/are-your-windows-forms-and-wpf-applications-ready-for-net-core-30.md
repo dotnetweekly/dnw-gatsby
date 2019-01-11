@@ -1,6 +1,6 @@
 ---
 _id: 5b7e436fe629203036f3fe9e
-title: 'Are your Windows Forms and WPF applications ready for .NET Core 3.0?'
+title: "Are your Windows Forms and WPF applications ready for .NET Core 3.0?"
 url: 'https://blogs.msdn.microsoft.com/dotnet/2018/08/08/are-your-windows-forms-and-wpf-applications-ready-for-net-core-3-0/'
 category: 5b7e436fe629203036f3fe9e
 slug: 'are-your-windows-forms-and-wpf-applications-ready-for-net-core-30'

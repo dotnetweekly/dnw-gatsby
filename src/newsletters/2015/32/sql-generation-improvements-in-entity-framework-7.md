@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d25f4
-title: 'SQL Generation Improvements in Entity Framework 7'
+title: "SQL Generation Improvements in Entity Framework 7"
 url: 'https://channel9.msdn.com/Blogs/Seth-Juarez/SQL-Generation-Improvements-in-Entity-Framework-7'
 category: 5a88e1adbd6dca0d5f0d25f4
 slug: 'sql-generation-improvements-in-entity-framework-7'

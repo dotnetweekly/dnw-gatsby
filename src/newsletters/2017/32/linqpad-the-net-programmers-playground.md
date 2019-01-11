@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1d6a
-title: 'LINQPad - The .NET Programmer"s Playground'
+title: "LINQPad - The .NET Programmer's Playground"
 url: 'http://www.linqpad.net/'
 category: 5a88e1abbd6dca0d5f0d1d6a
 slug: 'linqpad-the-net-programmers-playground'

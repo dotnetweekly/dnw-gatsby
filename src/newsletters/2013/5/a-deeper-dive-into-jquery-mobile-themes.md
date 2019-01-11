@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2dc8
-title: 'A Deeper Dive into jQuery Mobile: Themes'
+title: "A Deeper Dive into jQuery Mobile: Themes"
 url: 'http://msdn.microsoft.com/en-us/magazine/jj891149.aspx'
 category: 5a88e1afbd6dca0d5f0d2dc8
 slug: 'a-deeper-dive-into-jquery-mobile-themes'

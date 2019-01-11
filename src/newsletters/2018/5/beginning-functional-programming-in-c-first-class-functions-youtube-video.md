@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1a8e
-title: 'Beginning Functional Programming In C# - First Class Functions (YouTube Video)'
+title: "Beginning Functional Programming In C# - First Class Functions (YouTube Video)"
 url: 'https://www.youtube.com/watch?v=L5bP4FgENJQ'
 category: 5a88e1aabd6dca0d5f0d1a8e
 slug: 'beginning-functional-programming-in-c-first-class-functions-youtube-video'

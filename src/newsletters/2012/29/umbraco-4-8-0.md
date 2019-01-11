@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2fa4
-title: 'Umbraco 4.8.0'
+title: "Umbraco 4.8.0"
 url: 'http://umbraco.codeplex.com/releases/view/86586'
 category: 5a88e1afbd6dca0d5f0d2fa4
 slug: 'umbraco-4-8-0'

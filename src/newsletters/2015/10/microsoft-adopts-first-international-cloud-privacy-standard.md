@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2758
-title: 'Microsoft adopts first international cloud privacy standard'
+title: "Microsoft adopts first international cloud privacy standard"
 url: 'http://blogs.microsoft.com/on-the-issues/2015/02/16/microsoft-adopts-first-international-cloud-privacy-standard/'
 category: 5a88e1adbd6dca0d5f0d2758
 slug: 'microsoft-adopts-first-international-cloud-privacy-standard'

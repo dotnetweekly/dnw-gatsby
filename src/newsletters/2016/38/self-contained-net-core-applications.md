@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2204
-title: 'Self-contained .NET Core Applications'
+title: "Self-contained .NET Core Applications"
 url: 'http://www.hanselman.com/blog/SelfcontainedNETCoreApplications.aspx'
 category: 5a88e1acbd6dca0d5f0d2204
 slug: 'self-contained-net-core-applications'

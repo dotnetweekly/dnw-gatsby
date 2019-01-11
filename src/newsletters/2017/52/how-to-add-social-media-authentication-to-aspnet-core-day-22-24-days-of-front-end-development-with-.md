@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1b32
-title: 'How to add Social Media Authentication to ASPNET Core - Day 22 - 24 days of "Front-end Development with ASP.NET Core, Angular, and Bootstrap"'
+title: "How to add Social Media Authentication to ASPNET Core - Day 22 - 24 days of 'Front-end Development with ASP.NET Core, Angular, and Bootstrap'"
 url: 'http://codeclimber.net.nz/archive/2017/12/22/how-to-add-social-media-authentication-to-aspnet-core-day-22-24-days-of-front-end-development-with-aspnet-core-angular-and-bootstrap/'
 category: 5a88e1aabd6dca0d5f0d1b32
 slug: 'how-to-add-social-media-authentication-to-aspnet-core-day-22-24-days-of-front-end-development-with-'

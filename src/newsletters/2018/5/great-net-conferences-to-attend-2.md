@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1a82
-title: 'Great .NET Conferences to Attend'
+title: "Great .NET Conferences to Attend"
 url: 'https://medium.com/@thomasardal/great-net-conferences-to-attend-6b015d27e566'
 category: 5a88e1aabd6dca0d5f0d1a82
 slug: 'great-net-conferences-to-attend-2'

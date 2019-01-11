@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b12
-title: 'Code First Goodies in Entity Framework 6'
+title: "Code First Goodies in Entity Framework 6"
 url: 'http://msdn.microsoft.com/en-us/magazine/dn519921.aspx'
 category: 5a88e1aebd6dca0d5f0d2b12
 slug: 'code-first-goodies-in-entity-framework-6'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2188
-title: 'ASP.NET Core: Using view injection'
+title: "ASP.NET Core: Using view injection"
 url: 'http://gunnarpeipman.com/2016/11/aspnet-core-view-injection/'
 category: 5a88e1acbd6dca0d5f0d2188
 slug: 'asp-net-core-using-view-injection'

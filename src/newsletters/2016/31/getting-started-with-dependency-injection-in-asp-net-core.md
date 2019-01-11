@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2288
-title: 'Getting Started with Dependency Injection in ASP.NET Core'
+title: "Getting Started with Dependency Injection in ASP.NET Core"
 url: 'https://www.exceptionnotfound.net/getting-started-with-dependency-injection-in-asp-net-core/'
 category: 5a88e1acbd6dca0d5f0d2288
 slug: 'getting-started-with-dependency-injection-in-asp-net-core'

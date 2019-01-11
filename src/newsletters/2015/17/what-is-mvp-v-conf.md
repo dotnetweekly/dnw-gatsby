@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d26da
-title: 'What is MVP V-Conf?'
+title: "What is MVP V-Conf?"
 url: 'http://mvp.microsoft.com/en-us/virtualconference.aspx'
 category: 5a88e1adbd6dca0d5f0d26da
 slug: 'what-is-mvp-v-conf'

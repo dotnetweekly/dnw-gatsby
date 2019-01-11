@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2706
-title: 'MVC AngularJS and WCF Rest Service For Mind Reader Quiz'
+title: "MVC AngularJS and WCF Rest Service For Mind Reader Quiz"
 url: 'http://www.codeproject.com/Articles/893821/MVC-AngularJS-and-WCF-Rest-Service-For-Mind-Reader'
 category: 5a88e1adbd6dca0d5f0d2706
 slug: 'mvc-angularjs-and-wcf-rest-service-for-mind-reader-quiz'

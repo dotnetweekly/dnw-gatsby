@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2176
-title: 'Watch the Microsoft Tech Summit keynote live'
+title: "Watch the Microsoft Tech Summit keynote live"
 url: 'https://www.microsoft.com/en-us/techsummit/livestream.aspx'
 category: 5a88e1acbd6dca0d5f0d2176
 slug: 'watch-the-microsoft-tech-summit-keynote-live'

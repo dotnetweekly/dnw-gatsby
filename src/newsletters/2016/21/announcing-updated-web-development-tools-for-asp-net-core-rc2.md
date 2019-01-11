@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2332
-title: 'Announcing Updated Web Development Tools for ASP.NET Core RC2'
+title: "Announcing Updated Web Development Tools for ASP.NET Core RC2"
 url: 'https://blogs.msdn.microsoft.com/visualstudio/2016/05/16/announcing-updated-web-development-tools-for-asp-net-core-rc2/'
 category: 5a88e1acbd6dca0d5f0d2332
 slug: 'announcing-updated-web-development-tools-for-asp-net-core-rc2'

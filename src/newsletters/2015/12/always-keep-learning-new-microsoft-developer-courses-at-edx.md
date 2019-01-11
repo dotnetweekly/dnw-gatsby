@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2738
-title: '“Always keep learning:” new Microsoft developer courses at EdX'
+title: "“Always keep learning:” new Microsoft developer courses at EdX"
 url: 'https://www.edx.org/school/microsoft'
 category: 5a88e1adbd6dca0d5f0d2738
 slug: 'always-keep-learning-new-microsoft-developer-courses-at-edx'

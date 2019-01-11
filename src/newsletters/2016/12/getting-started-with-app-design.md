@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d23da
-title: 'Getting started with app design'
+title: "Getting started with app design"
 url: 'https://blogs.windows.com/buildingapps/2016/03/15/getting-started-with-app-design/'
 category: 5a88e1acbd6dca0d5f0d23da
 slug: 'getting-started-with-app-design'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d26dc
-title: 'Visual Studio for Game Development: New Partnerships with Unity, Unreal Engine and Cocos2d'
+title: "Visual Studio for Game Development: New Partnerships with Unity, Unreal Engine and Cocos2d"
 url: 'http://blogs.msdn.com/b/somasegar/archive/2015/04/17/visual-studio-for-game-development-new-partnerships-with-unity-unreal-engine-and-cocos2d.aspx'
 category: 5a88e1adbd6dca0d5f0d26dc
 slug: 'visual-studio-for-game-development-new-partnerships-with-unity-unreal-engine-and-cocos2d-2'

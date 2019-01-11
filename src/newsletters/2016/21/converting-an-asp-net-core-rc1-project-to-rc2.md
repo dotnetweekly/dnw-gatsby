@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2334
-title: 'Converting an ASP.NET Core RC1 Project to RC2'
+title: "Converting an ASP.NET Core RC1 Project to RC2"
 url: 'https://wildermuth.com/2016/05/17/Converting-an-ASP-NET-Core-RC1-Project-to-RC2'
 category: 5a88e1acbd6dca0d5f0d2334
 slug: 'converting-an-asp-net-core-rc1-project-to-rc2'

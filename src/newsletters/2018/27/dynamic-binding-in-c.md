@@ -1,6 +1,6 @@
 ---
 _id: 5b3afb4906b611105256ffe9
-title: 'Dynamic Binding in C#'
+title: "Dynamic Binding in C#"
 url: 'http://www.dotnetcurry.com/csharp/1447/dynamic-binding-csharp'
 category: 5b3afb4906b611105256ffe9
 slug: 'dynamic-binding-in-c'

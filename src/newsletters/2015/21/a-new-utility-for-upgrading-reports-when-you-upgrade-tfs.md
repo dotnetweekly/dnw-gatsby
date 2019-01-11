@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d269e
-title: 'A new utility for upgrading reports when you upgrade TFS'
+title: "A new utility for upgrading reports when you upgrade TFS"
 url: 'http://blogs.msdn.com/b/visualstudioalm/archive/2015/05/20/a-new-utility-for-upgrading-reports-when-you-upgrade-tfs.aspx'
 category: 5a88e1adbd6dca0d5f0d269e
 slug: 'a-new-utility-for-upgrading-reports-when-you-upgrade-tfs'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a2e
-title: 'Starting with Universal Apps on Visual Studio 2013'
+title: "Starting with Universal Apps on Visual Studio 2013"
 url: 'http://blogs.msdn.com/b/eob/archive/2014/04/16/starting-with-universal-apps-on-visual-studio-2013.aspx'
 category: 5a88e1aebd6dca0d5f0d2a2e
 slug: 'starting-with-universal-apps-on-visual-studio-2013'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2526
-title: 'Essential .NET - C# Exception Handling'
+title: "Essential .NET - C# Exception Handling"
 url: 'https://msdn.microsoft.com/en-us/magazine/mt620018'
 category: 5a88e1adbd6dca0d5f0d2526
 slug: 'essential-net-c-exception-handling'

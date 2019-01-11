@@ -1,6 +1,6 @@
 ---
 _id: 5ae606cf7b1832006e43ede8
-title: 'Getting Organised With Microsoft Orleans 2.0 in .NET Core'
+title: "Getting Organised With Microsoft Orleans 2.0 in .NET Core"
 url: 'http://gigi.nullneuron.net/gigilabs/getting-organised-with-microsoft-orleans-2-0-in-net-core/'
 category: 5ae606cf7b1832006e43ede8
 slug: 'getting-organised-with-microsoft-orleans-20-in-net-core'

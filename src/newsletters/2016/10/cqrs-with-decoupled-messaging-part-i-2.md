@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d23e8
-title: 'CQRS with Decoupled Messaging - Part I'
+title: "CQRS with Decoupled Messaging - Part I"
 url: 'http://www.codeproject.com/Articles/1082250/CQRS-with-Decoupled-Messaging-Part-I'
 category: 5a88e1acbd6dca0d5f0d23e8
 slug: 'cqrs-with-decoupled-messaging-part-i-2'

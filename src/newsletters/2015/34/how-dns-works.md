@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d25d6
-title: 'How DNS works'
+title: "How DNS works"
 url: 'https://howdns.works/'
 category: 5a88e1adbd6dca0d5f0d25d6
 slug: 'how-dns-works'

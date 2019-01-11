@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d24e6
-title: 'Announcing PowerApps with Azure App Service'
+title: "Announcing PowerApps with Azure App Service"
 url: 'http://www.hanselman.com/blog/AnnouncingPowerAppsWithAzureAppService.aspx'
 category: 5a88e1adbd6dca0d5f0d24e6
 slug: 'announcing-powerapps-with-azure-app-service'

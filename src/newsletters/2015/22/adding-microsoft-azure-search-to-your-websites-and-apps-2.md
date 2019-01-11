@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2692
-title: 'Adding Microsoft Azure Search to Your Websites and Apps'
+title: "Adding Microsoft Azure Search to Your Websites and Apps"
 url: 'http://www.microsoftvirtualacademy.com/training-courses/adding-microsoft-azure-search-to-your-websites-and-apps'
 category: 5a88e1adbd6dca0d5f0d2692
 slug: 'adding-microsoft-azure-search-to-your-websites-and-apps-2'

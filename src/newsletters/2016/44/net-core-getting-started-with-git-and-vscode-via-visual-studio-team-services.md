@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d219c
-title: '.NET Core – Getting started with GIT and VSCode via Visual Studio Team Services'
+title: ".NET Core – Getting started with GIT and VSCode via Visual Studio Team Services"
 url: 'https://blogs.msdn.microsoft.com/luisdem/2016/10/18/net-core-git-vsts-vscode/'
 category: 5a88e1acbd6dca0d5f0d219c
 slug: 'net-core-getting-started-with-git-and-vscode-via-visual-studio-team-services'

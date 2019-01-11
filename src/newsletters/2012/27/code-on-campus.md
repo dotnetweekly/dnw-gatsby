@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2fcc
-title: 'Code on Campus'
+title: "Code on Campus"
 url: 'http://vslive.com/redmond'
 category: 5a88e1afbd6dca0d5f0d2fcc
 slug: 'code-on-campus'

@@ -1,6 +1,6 @@
 ---
 _id: 5bb3f5fe15695b558ff150c0
-title: 'Introduction to Dependency Injection in C# using Autofac'
+title: "Introduction to Dependency Injection in C# using Autofac"
 url: 'https://www.productivecsharp.com/2018/10/dependency-injection-csharp-using-autofact/'
 category: 5bb3f5fe15695b558ff150c0
 slug: 'introduction-to-dependency-injection-in-c-using-autofac'

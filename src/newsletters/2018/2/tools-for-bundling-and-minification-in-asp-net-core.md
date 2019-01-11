@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1b02
-title: 'Tools for bundling and minification in ASP.NET Core'
+title: "Tools for bundling and minification in ASP.NET Core"
 url: 'http://www.talkingdotnet.com/tools-for-bundling-minification-aspnet-core/'
 category: 5a88e1aabd6dca0d5f0d1b02
 slug: 'tools-for-bundling-and-minification-in-asp-net-core'

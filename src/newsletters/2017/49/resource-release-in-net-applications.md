@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1b7c
-title: 'Resource Release in .NET Applications'
+title: "Resource Release in .NET Applications"
 url: 'http://codingsight.com/resource-release-in-net-applications/'
 category: 5a88e1aabd6dca0d5f0d1b7c
 slug: 'resource-release-in-net-applications'

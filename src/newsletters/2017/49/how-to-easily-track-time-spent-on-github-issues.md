@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1b76
-title: 'How to Easily Track Time Spent on GitHub Issues'
+title: "How to Easily Track Time Spent on GitHub Issues"
 url: 'https://dzone.com/articles/how-to-track-time-of-github-issues-easily'
 category: 5a88e1aabd6dca0d5f0d1b76
 slug: 'how-to-easily-track-time-spent-on-github-issues'

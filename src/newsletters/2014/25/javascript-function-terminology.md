@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d29be
-title: 'JavaScript Function Terminology'
+title: "JavaScript Function Terminology"
 url: 'http://msmvps.com/blogs/deborahk/archive/2014/06/18/javascript-function-terminology.aspx'
 category: 5a88e1aebd6dca0d5f0d29be
 slug: 'javascript-function-terminology'

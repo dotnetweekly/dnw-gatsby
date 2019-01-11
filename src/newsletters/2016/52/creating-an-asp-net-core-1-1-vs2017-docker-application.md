@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d20e6
-title: 'Creating an ASP.NET Core 1.1 VS2017 Docker Application'
+title: "Creating an ASP.NET Core 1.1 VS2017 Docker Application"
 url: 'https://damienbod.com/2016/12/24/creating-an-asp-net-core-1-1-vs2017-docker-application/'
 category: 5a88e1acbd6dca0d5f0d20e6
 slug: 'creating-an-asp-net-core-1-1-vs2017-docker-application'

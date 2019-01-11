@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1e76
-title: 'How to build a public anonymous chat app using .NET and Pusher'
+title: "How to build a public anonymous chat app using .NET and Pusher"
 url: 'https://blog.pusher.com/build-public-anonymous-chat-app-using-net-pusher/'
 category: 5a88e1abbd6dca0d5f0d1e76
 slug: 'how-to-build-a-public-anonymous-chat-app-using-net-and-pusher'

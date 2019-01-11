@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2382
-title: 'What’s new in VS 2015 Update 2 for Universal Windows developers'
+title: "What’s new in VS 2015 Update 2 for Universal Windows developers"
 url: 'https://blogs.msdn.microsoft.com/visualstudio/2016/04/11/whats-new-in-vs-2015-update-2-for-universal-windows-developers/'
 category: 5a88e1acbd6dca0d5f0d2382
 slug: 'whats-new-in-vs-2015-update-2-for-universal-windows-developers-2'

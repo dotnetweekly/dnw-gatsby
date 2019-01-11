@@ -1,6 +1,6 @@
 ---
 _id: 5ae354737b1832006e43edde
-title: 'VS Code Can Do That?'
+title: "VS Code Can Do That?"
 url: 'https://vscodecandothat.com/'
 category: 5ae354737b1832006e43edde
 slug: 'vs-code-can-do-that'

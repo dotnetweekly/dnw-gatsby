@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d24f2
-title: 'Breakpoint Generator Extension'
+title: "Breakpoint Generator Extension"
 url: 'http://blogs.msdn.com/b/visualstudioalm/archive/2015/11/19/breakpoint-generator-extension.aspx'
 category: 5a88e1adbd6dca0d5f0d24f2
 slug: 'breakpoint-generator-extension'

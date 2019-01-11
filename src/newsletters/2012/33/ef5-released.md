@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2f4e
-title: 'EF5 Released'
+title: "EF5 Released"
 url: 'http://blogs.msdn.com/b/adonet/archive/2012/08/15/ef5-released.aspx'
 category: 5a88e1afbd6dca0d5f0d2f4e
 slug: 'ef5-released'

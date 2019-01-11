@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2440
-title: 'Learn Enough Git to Be Dangerous'
+title: "Learn Enough Git to Be Dangerous"
 url: 'http://www.learnenough.com/git-tutorial'
 category: 5a88e1acbd6dca0d5f0d2440
 slug: 'learn-enough-git-to-be-dangerous'

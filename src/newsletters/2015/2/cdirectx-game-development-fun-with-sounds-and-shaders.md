@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d27d2
-title: 'C++/DirectX Game Development: Fun with Sounds and Shaders'
+title: "C++/DirectX Game Development: Fun with Sounds and Shaders"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/c-directx-game-development-fun-with-sounds-and-shaders'
 category: 5a88e1adbd6dca0d5f0d27d2
 slug: 'cdirectx-game-development-fun-with-sounds-and-shaders'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2740
-title: 'Add Real-Time Diagnostics to Your Windows Phone 8.1 App with SignalR'
+title: "Add Real-Time Diagnostics to Your Windows Phone 8.1 App with SignalR"
 url: 'http://visualstudiomagazine.com/articles/2015/03/01/add-real-time-diagnostics.aspx'
 category: 5a88e1adbd6dca0d5f0d2740
 slug: 'add-real-time-diagnostics-to-your-windows-phone-8-1-app-with-signalr'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2ac6
-title: 'What beautiful HTML looks like!'
+title: "What beautiful HTML looks like!"
 url: 'http://css-tricks.com/examples/CleanCode/Beautiful-HTML.png'
 category: 5a88e1aebd6dca0d5f0d2ac6
 slug: 'what-beautiful-html-looks-like'

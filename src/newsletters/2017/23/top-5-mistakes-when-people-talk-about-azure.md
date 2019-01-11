@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1e68
-title: 'Top 5 mistakes when people talk about Azure'
+title: "Top 5 mistakes when people talk about Azure"
 url: 'https://blogs.msdn.microsoft.com/saguar/2017/06/09/top-5-mistakes-when-people-talk-about-azure/'
 category: 5a88e1abbd6dca0d5f0d1e68
 slug: 'top-5-mistakes-when-people-talk-about-azure'

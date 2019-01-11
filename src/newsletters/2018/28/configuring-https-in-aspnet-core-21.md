@@ -1,6 +1,6 @@
 ---
 _id: 5b43a78810ce44ac9e856a73
-title: 'Configuring HTTPS in ASP.NET Core 2.1'
+title: "Configuring HTTPS in ASP.NET Core 2.1"
 url: 'https://asp.net-hacker.rocks/2018/07/09/aspnetcore-ssl.html'
 category: 5b43a78810ce44ac9e856a73
 slug: 'configuring-https-in-aspnet-core-21'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a9e
-title: 'ALM Wednesdays'
+title: "ALM Wednesdays"
 url: 'http://www.microsoftvirtualacademy.com/Live-Training-Events#?fbid=OtJvx3O8BbU'
 category: 5a88e1aebd6dca0d5f0d2a9e
 slug: 'alm-wednesdays'

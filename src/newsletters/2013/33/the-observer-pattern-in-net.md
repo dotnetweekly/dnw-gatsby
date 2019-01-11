@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2c46
-title: 'The Observer Pattern in .NET'
+title: "The Observer Pattern in .NET"
 url: 'http://visualstudiomagazine.com/articles/2013/08/14/the-observer-pattern-in-net.aspx'
 category: 5a88e1aebd6dca0d5f0d2c46
 slug: 'the-observer-pattern-in-net'

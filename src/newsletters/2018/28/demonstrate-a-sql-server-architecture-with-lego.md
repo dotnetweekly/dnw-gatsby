@@ -1,6 +1,6 @@
 ---
 _id: 5b4adf0cd9e4dc8dda970451
-title: 'Demonstrate a SQL Server Architecture with Lego'
+title: "Demonstrate a SQL Server Architecture with Lego"
 url: 'https://www.mssqltips.com/sqlservertip/5560/demonstrate-a-sql-server-architecture-with-lego/'
 category: 5b4adf0cd9e4dc8dda970451
 slug: 'demonstrate-a-sql-server-architecture-with-lego'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d25bc
-title: 'Multithreaded Debugging'
+title: "Multithreaded Debugging"
 url: 'https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Multithreaded-Debugging'
 category: 5a88e1adbd6dca0d5f0d25bc
 slug: 'multithreaded-debugging'

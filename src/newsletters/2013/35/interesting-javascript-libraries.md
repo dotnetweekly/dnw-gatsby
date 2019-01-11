@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2c36
-title: 'Interesting Javascript Libraries'
+title: "Interesting Javascript Libraries"
 url: 'http://www.dotnetweekly.com/?p=1669'
 category: 5a88e1aebd6dca0d5f0d2c36
 slug: 'interesting-javascript-libraries'

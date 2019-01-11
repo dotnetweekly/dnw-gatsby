@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d24ae
-title: 'ASP.NET 5 MVC 6 API DOCUMENTATION USING SWASHBUCKLE SWAGGER'
+title: "ASP.NET 5 MVC 6 API DOCUMENTATION USING SWASHBUCKLE SWAGGER"
 url: 'http://damienbod.com/2015/12/13/asp-net-5-mvc-6-api-documentation-using-swagger/'
 category: 5a88e1adbd6dca0d5f0d24ae
 slug: 'asp-net-5-mvc-6-api-documentation-using-swashbuckle-swagger'

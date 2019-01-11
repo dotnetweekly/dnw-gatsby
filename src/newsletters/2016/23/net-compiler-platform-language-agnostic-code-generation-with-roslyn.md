@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d231a
-title: '.NET Compiler Platform - Language-Agnostic Code Generation with Roslyn'
+title: ".NET Compiler Platform - Language-Agnostic Code Generation with Roslyn"
 url: 'https://msdn.microsoft.com/en-us/magazine/mt707527'
 category: 5a88e1acbd6dca0d5f0d231a
 slug: 'net-compiler-platform-language-agnostic-code-generation-with-roslyn'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2194
-title: 'Introduction to ASP.NET Core 1.0'
+title: "Introduction to ASP.NET Core 1.0"
 url: 'https://mva.microsoft.com/en-US/training-courses/introduction-to-aspnet-core-10-16841'
 category: 5a88e1acbd6dca0d5f0d2194
 slug: 'introduction-to-asp-net-core-1-0'

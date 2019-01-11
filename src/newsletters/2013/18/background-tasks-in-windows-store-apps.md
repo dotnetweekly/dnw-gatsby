@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2cf4
-title: 'Background Tasks in Windows Store Apps'
+title: "Background Tasks in Windows Store Apps"
 url: 'http://visualstudiomagazine.com/articles/2013/05/01/background-tasks-in-windows-store-apps.aspx'
 category: 5a88e1afbd6dca0d5f0d2cf4
 slug: 'background-tasks-in-windows-store-apps'

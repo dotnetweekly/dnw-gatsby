@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2684
-title: 'New Open Source Project: Windows Communication Foundation'
+title: "New Open Source Project: Windows Communication Foundation"
 url: 'https://visualstudiomagazine.com/articles/2015/05/28/windows-communication-foundation-open-source.aspx'
 category: 5a88e1adbd6dca0d5f0d2684
 slug: 'new-open-source-project-windows-communication-foundation'

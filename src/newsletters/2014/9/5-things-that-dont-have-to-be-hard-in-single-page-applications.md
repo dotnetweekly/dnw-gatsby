@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a92
-title: '5 Things That Don"t Have to Be Hard in Single Page Applications'
+title: "5 Things That Don't Have to Be Hard in Single Page Applications"
 url: 'http://love2dev.com/#!article/5-Things-That-Dont-Have-to-Be-Hard-in-Single-Page-Applications'
 category: 5a88e1aebd6dca0d5f0d2a92
 slug: '5-things-that-dont-have-to-be-hard-in-single-page-applications'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2ab6
-title: 'Explore the Microsoft .NET Framework 4.5.1'
+title: "Explore the Microsoft .NET Framework 4.5.1"
 url: 'http://msdn.microsoft.com/da-dk/magazine/dn574802(en-us).aspx'
 category: 5a88e1aebd6dca0d5f0d2ab6
 slug: 'explore-the-microsoft-net-framework-4-5-1-2'

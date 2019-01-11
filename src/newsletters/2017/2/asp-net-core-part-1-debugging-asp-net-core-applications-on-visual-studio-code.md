@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d208e
-title: 'ASP.NET Core - Part 1: Debugging ASP.NET Core Applications On Visual Studio Code'
+title: "ASP.NET Core - Part 1: Debugging ASP.NET Core Applications On Visual Studio Code"
 url: 'http://www.thousandtyone.com/blog/ASPNETCorePart1DebuggingASPNETCoreApplicationsOnVisualStudioCode.aspx'
 category: 5a88e1acbd6dca0d5f0d208e
 slug: 'asp-net-core-part-1-debugging-asp-net-core-applications-on-visual-studio-code'

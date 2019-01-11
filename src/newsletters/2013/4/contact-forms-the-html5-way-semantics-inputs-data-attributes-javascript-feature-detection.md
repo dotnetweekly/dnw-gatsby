@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2dd8
-title: 'Contact forms; the HTML5 way. Semantics, inputs, data attributes, javascript feature detection'
+title: "Contact forms; the HTML5 way. Semantics, inputs, data attributes, javascript feature detection"
 url: 'http://www.toddmotto.com/creating-an-html5-responsive-ready-contact-form-with-custom-javascript-feature-detection'
 category: 5a88e1afbd6dca0d5f0d2dd8
 slug: 'contact-forms-the-html5-way-semantics-inputs-data-attributes-javascript-feature-detection'

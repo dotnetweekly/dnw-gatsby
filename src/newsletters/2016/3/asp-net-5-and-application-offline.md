@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2472
-title: 'ASP.NET 5 and Application Offline'
+title: "ASP.NET 5 and Application Offline"
 url: 'http://weblogs.asp.net/imranbaloch/application-offline-aspnet5'
 category: 5a88e1acbd6dca0d5f0d2472
 slug: 'asp-net-5-and-application-offline'

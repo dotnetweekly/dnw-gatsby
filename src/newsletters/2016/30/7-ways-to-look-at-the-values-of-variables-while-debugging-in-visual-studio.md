@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d229c
-title: '7 Ways to Look at the Values of Variables While Debugging in Visual Studio'
+title: "7 Ways to Look at the Values of Variables While Debugging in Visual Studio"
 url: 'https://blogs.msdn.microsoft.com/visualstudioalm/2016/07/15/7-ways-to-look-at-the-values-of-variables-while-debugging-in-visual-studio/#'
 category: 5a88e1acbd6dca0d5f0d229c
 slug: '7-ways-to-look-at-the-values-of-variables-while-debugging-in-visual-studio'

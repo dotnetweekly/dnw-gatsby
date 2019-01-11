@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2cce
-title: 'Reverse engineering your .NET applications'
+title: "Reverse engineering your .NET applications"
 url: 'http://www.techrepublic.com/blog/programming-and-development/reverse-engineering-your-net-applications/6834'
 category: 5a88e1afbd6dca0d5f0d2cce
 slug: 'reverse-engineering-your-net-applications'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d20b0
-title: 'Exercise your greatest power as a developer'
+title: "Exercise your greatest power as a developer"
 url: 'https://azure.microsoft.com/en-us/blog/exercise-your-greatest-power-as-a-developer/'
 category: 5a88e1acbd6dca0d5f0d20b0
 slug: 'exercise-your-greatest-power-as-a-developer'

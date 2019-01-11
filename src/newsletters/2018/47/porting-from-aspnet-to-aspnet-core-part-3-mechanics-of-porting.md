@@ -1,6 +1,6 @@
 ---
 _id: 5bf828e0d9a593778ff70e4e
-title: 'Porting from ASP.NET to ASP.NET Core: Part 3 - Mechanics of porting'
+title: "Porting from ASP.NET to ASP.NET Core: Part 3 - Mechanics of porting"
 url: 'https://jmezach.github.io/2018/11/23/porting-from-asp.net-to-asp.net-core-part-3-mechanics-of-porting/'
 category: 5bf828e0d9a593778ff70e4e
 slug: 'porting-from-aspnet-to-aspnet-core-part-3-mechanics-of-porting'

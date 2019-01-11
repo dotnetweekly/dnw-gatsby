@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1af2
-title: '8 practical tips for learning ASP.NET Core MVC· jonhilton.net'
+title: "8 practical tips for learning ASP.NET Core MVC· jonhilton.net"
 url: 'https://jonhilton.net/2018/01/11/8-practical-tips-for-learning-asp.net-core-mvc/'
 category: 5a88e1aabd6dca0d5f0d1af2
 slug: '8-practical-tips-for-learning-asp-net-core-mvc%c2%b7-jonhilton-net'

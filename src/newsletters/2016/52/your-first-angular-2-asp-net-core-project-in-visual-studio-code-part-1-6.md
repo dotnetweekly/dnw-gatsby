@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d20d4
-title: 'Your First Angular 2, ASP.NET Core Project in Visual Studio Code – Part 1/ 6'
+title: "Your First Angular 2, ASP.NET Core Project in Visual Studio Code – Part 1/ 6"
 url: 'http://angularfirst.com/your-first-angular-2-asp-net-core-project-in-visual-studio-code-part-1/'
 category: 5a88e1acbd6dca0d5f0d20d4
 slug: 'your-first-angular-2-asp-net-core-project-in-visual-studio-code-part-1-6'

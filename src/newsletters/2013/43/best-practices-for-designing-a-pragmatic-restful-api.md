@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2bb4
-title: 'Best Practices for Designing a Pragmatic RESTful API'
+title: "Best Practices for Designing a Pragmatic RESTful API"
 url: 'http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api'
 category: 5a88e1aebd6dca0d5f0d2bb4
 slug: 'best-practices-for-designing-a-pragmatic-restful-api'

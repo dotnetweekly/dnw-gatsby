@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2ba0
-title: 'Team Explorer Everywhere 2013 is Available'
+title: "Team Explorer Everywhere 2013 is Available"
 url: 'http://blogs.msdn.com/b/bharry/archive/2013/11/03/team-explorer-everywhere-2013-is-available.aspx'
 category: 5a88e1aebd6dca0d5f0d2ba0
 slug: 'team-explorer-everywhere-2013-is-available'

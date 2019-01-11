@@ -1,6 +1,6 @@
 ---
 _id: 5bd805421428e63ed494dac5
-title: 'Why XAML? Why Now?'
+title: "Why XAML? Why Now?"
 url: 'https://www.telerik.com/blogs/why-xaml-why-now'
 category: 5bd805421428e63ed494dac5
 slug: 'why-xaml-why-now'

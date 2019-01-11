@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2762
-title: 'Go Cross-Platform with the .NET Framework'
+title: "Go Cross-Platform with the .NET Framework"
 url: 'https://msdn.microsoft.com/en-us/magazine/dn913184.aspx'
 category: 5a88e1adbd6dca0d5f0d2762
 slug: 'go-cross-platform-with-the-net-framework'

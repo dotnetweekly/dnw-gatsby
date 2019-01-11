@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1e66
-title: 'Microdot: Easily create .NET Microservices with Orleans'
+title: "Microdot: Easily create .NET Microservices with Orleans"
 url: 'https://github.com/gigya/microdot'
 category: 5a88e1abbd6dca0d5f0d1e66
 slug: 'microdot-easily-create-net-microservices-with-orleans'

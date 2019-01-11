@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d46
-title: 'Visual Studio 2012 Tips Part 6 – Browse Web App With IE (No Add-Ons)'
+title: "Visual Studio 2012 Tips Part 6 – Browse Web App With IE (No Add-Ons)"
 url: 'http://www.dirkstrauss.com/visual-studio-2012/visual-studio-2012-tips-part-6-browse-web-app-with-ie-no-add-ons'
 category: 5a88e1afbd6dca0d5f0d2d46
 slug: 'visual-studio-2012-tips-part-6-browse-web-app-with-ie-no-add-ons'

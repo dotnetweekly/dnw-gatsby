@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2780
-title: 'The Developer’s Guide to the New .NET'
+title: "The Developer’s Guide to the New .NET"
 url: 'http://www.telerik.com/campaigns/devcraft/developers-guide-dotnet'
 category: 5a88e1adbd6dca0d5f0d2780
 slug: 'the-developers-guide-to-the-new-net'

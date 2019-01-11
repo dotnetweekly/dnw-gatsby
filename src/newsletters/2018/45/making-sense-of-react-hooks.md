@@ -1,6 +1,6 @@
 ---
 _id: 5be5372b27cd2352a95935f9
-title: 'Making Sense of React Hooks'
+title: "Making Sense of React Hooks"
 url: 'https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889'
 category: 5be5372b27cd2352a95935f9
 slug: 'making-sense-of-react-hooks'

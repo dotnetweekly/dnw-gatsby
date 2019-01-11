@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1dd4
-title: 'Introducing ASP.NET Core 2.0 Preview 2'
+title: "Introducing ASP.NET Core 2.0 Preview 2"
 url: 'https://blogs.msdn.microsoft.com/webdev/2017/06/28/introducing-asp-net-core-2-0-preview-2/'
 category: 5a88e1abbd6dca0d5f0d1dd4
 slug: 'introducing-asp-net-core-2-0-preview-2'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d27b0
-title: 'Introduction to API Reviews'
+title: "Introduction to API Reviews"
 url: 'http://channel9.msdn.com/Series/NET-Framework/Introduction-to-API-Reviews'
 category: 5a88e1adbd6dca0d5f0d27b0
 slug: 'introduction-to-api-reviews'

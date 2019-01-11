@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2160
-title: 'Microsoft Fortifies Commitment to Open Source, Becomes Linux Foundation Platinum Member'
+title: "Microsoft Fortifies Commitment to Open Source, Becomes Linux Foundation Platinum Member"
 url: 'https://www.linuxfoundation.org/announcements/microsoft-fortifies-commitment-to-open-source-becomes-linux-foundation-platinum'
 category: 5a88e1acbd6dca0d5f0d2160
 slug: 'microsoft-fortifies-commitment-to-open-source-becomes-linux-foundation-platinum-member'

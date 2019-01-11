@@ -1,6 +1,6 @@
 ---
 _id: 5af0ef3d7ecc5072256cd12e
-title: 'ImmutableUI and TDD with Xamarin.Forms'
+title: "ImmutableUI and TDD with Xamarin.Forms"
 url: 'https://xamarinhelp.com/immutableui-and-tdd-with-xamarin-forms/'
 category: 5af0ef3d7ecc5072256cd12e
 slug: 'immutableui-and-tdd-with-xamarinforms'

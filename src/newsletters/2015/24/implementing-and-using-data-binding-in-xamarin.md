@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d266e
-title: 'Implementing and Using Data Binding in Xamarin'
+title: "Implementing and Using Data Binding in Xamarin"
 url: 'https://msdn.microsoft.com/en-us/magazine/mt147239.aspx'
 category: 5a88e1adbd6dca0d5f0d266e
 slug: 'implementing-and-using-data-binding-in-xamarin'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d26e8
-title: '2D Drawing Techniques and Libraries for Web Games'
+title: "2D Drawing Techniques and Libraries for Web Games"
 url: 'https://msdn.microsoft.com/en-us/magazine/dn948109.aspx'
 category: 5a88e1adbd6dca0d5f0d26e8
 slug: '2d-drawing-techniques-and-libraries-for-web-games'

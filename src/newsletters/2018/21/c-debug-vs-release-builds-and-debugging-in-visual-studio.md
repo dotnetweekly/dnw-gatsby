@@ -1,6 +1,6 @@
 ---
 _id: 5b02f8284c83f94b95470257
-title: 'C# Debug vs. Release builds and debugging in Visual Studio'
+title: "C# Debug vs. Release builds and debugging in Visual Studio"
 url: 'http://benhall.io/c-debug-vs-release-builds-and-debugging-in-visual-studio-from-novice-to-expert-in-one-blog-article/'
 category: 5b02f8284c83f94b95470257
 slug: 'c-debug-vs-release-builds-and-debugging-in-visual-studio'

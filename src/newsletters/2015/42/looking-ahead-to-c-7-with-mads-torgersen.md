@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2550
-title: 'Looking Ahead to C# 7 with Mads Torgersen'
+title: "Looking Ahead to C# 7 with Mads Torgersen"
 url: 'https://channel9.msdn.com/Blogs/Seth-Juarez/Looking-Ahead-to-C-7-with-Mads-Torgersen'
 category: 5a88e1adbd6dca0d5f0d2550
 slug: 'looking-ahead-to-c-7-with-mads-torgersen'

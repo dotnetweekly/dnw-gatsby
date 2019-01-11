@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2132
-title: 'Build an app using SQL Server'
+title: "Build an app using SQL Server"
 url: 'https://www.microsoft.com/en-us/sql-server/developer-get-started/'
 category: 5a88e1acbd6dca0d5f0d2132
 slug: 'build-an-app-using-sql-server'

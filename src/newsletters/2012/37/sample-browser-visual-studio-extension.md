@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2ee6
-title: 'Sample Browser Visual Studio Extension'
+title: "Sample Browser Visual Studio Extension"
 url: 'http://visualstudiogallery.msdn.microsoft.com/4934b087-e6cc-44dd-b992-a71f00a2a6df'
 category: 5a88e1afbd6dca0d5f0d2ee6
 slug: 'sample-browser-visual-studio-extension'

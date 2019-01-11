@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2e5e
-title: 'Introduction to TypeScript'
+title: "Introduction to TypeScript"
 url: 'http://blogs.msdn.com/b/bryang/archive/2012/11/05/introduction-to-typescript.aspx'
 category: 5a88e1afbd6dca0d5f0d2e5e
 slug: 'introduction-to-typescript'

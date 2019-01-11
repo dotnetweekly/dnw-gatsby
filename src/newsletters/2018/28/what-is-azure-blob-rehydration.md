@@ -1,6 +1,6 @@
 ---
 _id: 5b4ade13d9e4dccece97044f
-title: 'What is Azure Blob Rehydration'
+title: "What is Azure Blob Rehydration"
 url: 'https://dailydotnettips.com/azure-blob-rehydration/'
 category: 5b4ade13d9e4dccece97044f
 slug: 'what-is-azure-blob-rehydration'

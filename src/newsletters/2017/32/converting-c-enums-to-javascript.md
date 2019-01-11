@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1d7a
-title: 'Converting C# enums to JavaScript'
+title: "Converting C# enums to JavaScript"
 url: 'http://gunnarpeipman.com/2017/08/enum-to-javascript/'
 category: 5a88e1abbd6dca0d5f0d1d7a
 slug: 'converting-c-enums-to-javascript'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2dbe
-title: 'Share Contract'
+title: "Share Contract"
 url: 'http://channel9.msdn.com/Series/Introducing-Windows-8/Share-Contract'
 category: 5a88e1afbd6dca0d5f0d2dbe
 slug: 'share-contract'

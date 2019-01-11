@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2980
-title: 'Creating a multi-platform app and Intro to Azure Mobile Services'
+title: "Creating a multi-platform app and Intro to Azure Mobile Services"
 url: 'http://blogs.msdn.com/b/nathalievangelist/archive/2014/06/25/creating-a-multi-platform-app-and-intro-to-azure-mobile-services.aspx'
 category: 5a88e1aebd6dca0d5f0d2980
 slug: 'creating-a-multi-platform-app-and-intro-to-azure-mobile-services'

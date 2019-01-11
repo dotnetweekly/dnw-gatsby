@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1a9a
-title: 'FullHuman/purgecss: Remove unused css'
+title: "FullHuman/purgecss: Remove unused css"
 url: 'https://github.com/FullHuman/purgecss'
 category: 5a88e1aabd6dca0d5f0d1a9a
 slug: 'fullhuman-purgecss-remove-unused-css'

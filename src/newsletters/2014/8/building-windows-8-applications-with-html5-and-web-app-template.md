@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2ab4
-title: 'Building Windows 8 Applications with HTML5 and Web App Template'
+title: "Building Windows 8 Applications with HTML5 and Web App Template"
 url: 'http://channel9.msdn.com/Shows/Web+Camps+TV/Building-Windows-8-Applications-with-HTML5-and-Web-App-Template'
 category: 5a88e1aebd6dca0d5f0d2ab4
 slug: 'building-windows-8-applications-with-html5-and-web-app-template'

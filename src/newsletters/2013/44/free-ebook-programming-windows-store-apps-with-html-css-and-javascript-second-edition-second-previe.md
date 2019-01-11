@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2ba2
-title: 'Free ebook: Programming Windows Store Apps with HTML, CSS, and JavaScript, Second Edition (second preview)'
+title: "Free ebook: Programming Windows Store Apps with HTML, CSS, and JavaScript, Second Edition (second preview)"
 url: 'http://blogs.msdn.com/b/microsoft_press/archive/2013/10/29/free-ebook-programming-windows-store-apps-with-html-css-and-javascript-second-edition-second-preview.aspx'
 category: 5a88e1aebd6dca0d5f0d2ba2
 slug: 'free-ebook-programming-windows-store-apps-with-html-css-and-javascript-second-edition-second-previe'

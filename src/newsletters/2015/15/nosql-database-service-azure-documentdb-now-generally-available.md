@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d270c
-title: 'NoSQL database service Azure DocumentDB now Generally Available'
+title: "NoSQL database service Azure DocumentDB now Generally Available"
 url: 'http://azure.microsoft.com/blog/2015/04/08/nosql-database-service-azure-documentdb-now-generally-available/'
 category: 5a88e1adbd6dca0d5f0d270c
 slug: 'nosql-database-service-azure-documentdb-now-generally-available'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d269c
-title: 'Visual Studio Debugging Tips and Tricks'
+title: "Visual Studio Debugging Tips and Tricks"
 url: 'http://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Visual-Studio-Debugging-Tips-and-Tricks'
 category: 5a88e1adbd6dca0d5f0d269c
 slug: 'visual-studio-debugging-tips-and-tricks'

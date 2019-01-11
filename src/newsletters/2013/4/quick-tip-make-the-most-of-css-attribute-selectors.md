@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2dd4
-title: 'Quick Tip: Make the Most of CSS Attribute Selectors'
+title: "Quick Tip: Make the Most of CSS Attribute Selectors"
 url: 'http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/quick-tip-make-the-most-of-css-attribute-selectors/'
 category: 5a88e1afbd6dca0d5f0d2dd4
 slug: 'quick-tip-make-the-most-of-css-attribute-selectors'

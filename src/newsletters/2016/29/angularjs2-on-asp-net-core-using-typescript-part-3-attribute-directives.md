@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d22a8
-title: 'AngularJS2 on ASP.Net Core using TypeScript Part 3 - Attribute Directives'
+title: "AngularJS2 on ASP.Net Core using TypeScript Part 3 - Attribute Directives"
 url: 'http://geekswithblogs.net/HumpreyCogay/archive/2016/07/18/attribute-directives.aspx'
 category: 5a88e1acbd6dca0d5f0d22a8
 slug: 'angularjs2-on-asp-net-core-using-typescript-part-3-attribute-directives'

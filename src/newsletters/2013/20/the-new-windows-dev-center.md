@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2cd2
-title: 'The New Windows Dev Center'
+title: "The New Windows Dev Center"
 url: 'http://msdn.microsoft.com/en-us/windows'
 category: 5a88e1afbd6dca0d5f0d2cd2
 slug: 'the-new-windows-dev-center'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2bd6
-title: 'Implementing a Data Warehouse with SQL Server Jump Start'
+title: "Implementing a Data Warehouse with SQL Server Jump Start"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/implementing-a-data-warehouse-with-sql-server-jump-start#fbid=RfHc7HWJo2b'
 category: 5a88e1aebd6dca0d5f0d2bd6
 slug: 'implementing-a-data-warehouse-with-sql-server-jump-start'

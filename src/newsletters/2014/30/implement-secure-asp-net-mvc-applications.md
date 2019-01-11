@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2962
-title: 'Implement secure ASP.NET MVC applications'
+title: "Implement secure ASP.NET MVC applications"
 url: 'http://www.codeproject.com/Articles/288631/Secure-ASP-NET-MVC-applications'
 category: 5a88e1aebd6dca0d5f0d2962
 slug: 'implement-secure-asp-net-mvc-applications'

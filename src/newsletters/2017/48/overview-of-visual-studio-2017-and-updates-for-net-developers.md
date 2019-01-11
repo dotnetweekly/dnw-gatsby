@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1b98
-title: 'Overview of Visual Studio 2017 and Updates for .NET Developers'
+title: "Overview of Visual Studio 2017 and Updates for .NET Developers"
 url: 'https://blogs.msdn.microsoft.com/visualstudio/2017/11/20/overview-of-visual-studio-2017-updates-for-net-developers/'
 category: 5a88e1aabd6dca0d5f0d1b98
 slug: 'overview-of-visual-studio-2017-and-updates-for-net-developers'

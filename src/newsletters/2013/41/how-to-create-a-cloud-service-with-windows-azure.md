@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2bd8
-title: 'How to Create a Cloud Service With Windows Azure'
+title: "How to Create a Cloud Service With Windows Azure"
 url: 'http://www.jeremymorgan.com/tutorials/windows-azure/how-to-create-a-cloud-service-with-azure/'
 category: 5a88e1aebd6dca0d5f0d2bd8
 slug: 'how-to-create-a-cloud-service-with-windows-azure'

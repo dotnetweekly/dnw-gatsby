@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2682
-title: 'Developing Universal Windows Apps'
+title: "Developing Universal Windows Apps"
 url: 'http://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Developing-Universal-Windows-Apps'
 category: 5a88e1adbd6dca0d5f0d2682
 slug: 'developing-universal-windows-apps'

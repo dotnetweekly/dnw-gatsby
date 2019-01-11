@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2e80
-title: 'SSIS Basics: Using the Execute SQL Task to Generate Result Sets'
+title: "SSIS Basics: Using the Execute SQL Task to Generate Result Sets"
 url: 'http://www.simple-talk.com/sql/ssis/ssis-basics-using-the-execute-sql-task-to-generate-result-sets/'
 category: 5a88e1afbd6dca0d5f0d2e80
 slug: 'ssis-basics-using-the-execute-sql-task-to-generate-result-sets'

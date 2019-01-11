@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d29f2
-title: '10 Angular Tips from TechEd 2014'
+title: "10 Angular Tips from TechEd 2014"
 url: 'http://www.johnpapa.net/10-angular-tips-from-teched-2014'
 category: 5a88e1aebd6dca0d5f0d29f2
 slug: '10-angular-tips-from-teched-2014'

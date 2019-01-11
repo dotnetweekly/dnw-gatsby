@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d262e
-title: 'Visual Studio 2015 New Debugging Features'
+title: "Visual Studio 2015 New Debugging Features"
 url: 'http://www.dotnetcurry.com/visualstudio/1151/new-debugging-features-visual-studio-2015'
 category: 5a88e1adbd6dca0d5f0d262e
 slug: 'visual-studio-2015-new-debugging-features'

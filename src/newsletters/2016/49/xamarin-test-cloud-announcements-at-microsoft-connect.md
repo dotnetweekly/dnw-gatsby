@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d211e
-title: 'Xamarin Test Cloud Announcements at Microsoft Connect();'
+title: "Xamarin Test Cloud Announcements at Microsoft Connect();"
 url: 'https://blog.xamarin.com/xamarin-test-cloud-announcements-at-microsoft-connect/'
 category: 5a88e1acbd6dca0d5f0d211e
 slug: 'xamarin-test-cloud-announcements-at-microsoft-connect'

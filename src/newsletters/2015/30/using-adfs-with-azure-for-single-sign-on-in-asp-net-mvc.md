@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2614
-title: 'Using ADFS with Azure for Single Sign-On in ASP.NET MVC'
+title: "Using ADFS with Azure for Single Sign-On in ASP.NET MVC"
 url: 'http://www.dotnetcurry.com/windows-azure/1158/using-adfs-azure-single-signon-aspnet-mvc'
 category: 5a88e1adbd6dca0d5f0d2614
 slug: 'using-adfs-with-azure-for-single-sign-on-in-asp-net-mvc'

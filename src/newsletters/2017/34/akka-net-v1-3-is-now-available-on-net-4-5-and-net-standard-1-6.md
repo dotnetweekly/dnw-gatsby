@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1d46
-title: 'Akka.NET v1.3 is Now Available on .NET 4.5 and .NET Standard 1.6'
+title: "Akka.NET v1.3 is Now Available on .NET 4.5 and .NET Standard 1.6"
 url: 'https://petabridge.com/blog/akkdotnet-v13-dotnetcore/'
 category: 5a88e1abbd6dca0d5f0d1d46
 slug: 'akka-net-v1-3-is-now-available-on-net-4-5-and-net-standard-1-6'

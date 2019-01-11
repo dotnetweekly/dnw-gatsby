@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2956
-title: 'Visual Studio Tools for Unity 1.9'
+title: "Visual Studio Tools for Unity 1.9"
 url: 'http://blogs.msdn.com/b/visualstudio/archive/2014/07/29/visual-studio-tools-for-unity-1-9.aspx'
 category: 5a88e1aebd6dca0d5f0d2956
 slug: 'visual-studio-tools-for-unity-1-9'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d253c
-title: 'Announcing .NET Framework 4.6.1 RC'
+title: "Announcing .NET Framework 4.6.1 RC"
 url: 'http://blogs.msdn.com/b/dotnet/archive/2015/10/29/announcing-net-framework-4-6-1-rc.aspx'
 category: 5a88e1adbd6dca0d5f0d253c
 slug: 'announcing-net-framework-4-6-1-rc'

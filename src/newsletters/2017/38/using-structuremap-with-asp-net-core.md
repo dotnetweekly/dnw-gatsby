@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1cb8
-title: 'Using StructureMap with ASP.NET Core'
+title: "Using StructureMap with ASP.NET Core"
 url: 'https://tech.io/playgrounds/5099/using-structuremap-with-asp-net-core'
 category: 5a88e1abbd6dca0d5f0d1cb8
 slug: 'using-structuremap-with-asp-net-core'

@@ -1,6 +1,6 @@
 ---
 _id: 5b6f12604862dfd0e67daf3c
-title: 'Creating a Simple AI with Unity and C#'
+title: "Creating a Simple AI with Unity and C#"
 url: 'https://www.red-gate.com/simple-talk/dotnet/c-programming/creating-a-simple-ai-with-unity-and-c/'
 category: 5b6f12604862dfd0e67daf3c
 slug: 'creating-a-simple-ai-with-unity-and-c'

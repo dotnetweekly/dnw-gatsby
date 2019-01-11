@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2aea
-title: 'How to setup a rock solid VM on Windows Azure for your WordPress blogs'
+title: "How to setup a rock solid VM on Windows Azure for your WordPress blogs"
 url: 'http://omaralzabir.com/how-to-setup-a-rock-solid-vm-on-windows-azure-for-your-wordpress-blogs/'
 category: 5a88e1aebd6dca0d5f0d2aea
 slug: 'how-to-setup-a-rock-solid-vm-on-windows-azure-for-your-wordpress-blogs'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2708
-title: 'Building Distributed Cloud Apps With Azure WebSites, WebJobs And Azure Service Bus Topic'
+title: "Building Distributed Cloud Apps With Azure WebSites, WebJobs And Azure Service Bus Topic"
 url: 'http://weblogs.asp.net/shijuvarghese/azureguidance-webjobs'
 category: 5a88e1adbd6dca0d5f0d2708
 slug: 'building-distributed-cloud-apps-with-azure-websites-webjobs-and-azure-service-bus-topic'

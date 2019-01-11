@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d297e
-title: 'Building a Node.js and MongoDB Web Service'
+title: "Building a Node.js and MongoDB Web Service"
 url: 'http://msdn.microsoft.com/en-us/magazine/dn754378.aspx'
 category: 5a88e1aebd6dca0d5f0d297e
 slug: 'building-a-node-js-and-mongodb-web-service'

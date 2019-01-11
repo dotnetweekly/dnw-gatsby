@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2f46
-title: 'A History (API) Lesson'
+title: "A History (API) Lesson"
 url: 'http://msdn.microsoft.com/en-us/magazine/jj553515.aspx'
 category: 5a88e1afbd6dca0d5f0d2f46
 slug: 'a-history-api-lesson'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d28f8
-title: '119 Code Smells'
+title: "119 Code Smells"
 url: 'http://www.red-gate.com/products/sql-development/sql-test/entrypage/code-smells?utm_source=simpletalk'
 category: 5a88e1aebd6dca0d5f0d28f8
 slug: '119-code-smells'

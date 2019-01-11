@@ -1,6 +1,6 @@
 ---
 _id: 5b3afb9906b611194e56ffeb
-title: 'Why Kubernetes is The New Application Server'
+title: "Why Kubernetes is The New Application Server"
 url: 'https://developers.redhat.com/blog/2018/06/28/why-kubernetes-is-the-new-application-server/'
 category: 5b3afb9906b611194e56ffeb
 slug: 'why-kubernetes-is-the-new-application-server'

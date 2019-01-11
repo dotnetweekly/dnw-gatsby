@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a78
-title: 'The Seven Parts of "HTML 5 Fundamentals"'
+title: "The Seven Parts of 'HTML 5 Fundamentals'"
 url: 'http://channel9.msdn.com/coding4fun/blog/The-Seven-Parts-of-HTML-5-Fundamentals-'
 category: 5a88e1aebd6dca0d5f0d2a78
 slug: 'the-seven-parts-of-html-5-fundamentals'

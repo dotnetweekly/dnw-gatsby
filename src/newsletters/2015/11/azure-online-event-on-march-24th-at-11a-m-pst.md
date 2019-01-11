@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d273e
-title: 'Azure online event on March 24th, at 11a.m PST'
+title: "Azure online event on March 24th, at 11a.m PST"
 url: 'http://azure.microsoft.com/en-us/campaigns/azure-march-announcement/'
 category: 5a88e1adbd6dca0d5f0d273e
 slug: 'azure-online-event-on-march-24th-at-11a-m-pst'

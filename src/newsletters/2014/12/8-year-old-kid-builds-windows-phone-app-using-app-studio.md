@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a6e
-title: '8 year old kid builds Windows Phone app using App Studio'
+title: "8 year old kid builds Windows Phone app using App Studio"
 url: 'http://blogs.windows.com/windows_phone/b/windowsphone/archive/2014/03/05/8-year-old-kid-builds-windows-phone-app-using-app-studio.aspx'
 category: 5a88e1aebd6dca0d5f0d2a6e
 slug: '8-year-old-kid-builds-windows-phone-app-using-app-studio'

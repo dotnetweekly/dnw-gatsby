@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2984
-title: 'Visual Studio “14” CTP 2 and Entity Framework'
+title: "Visual Studio “14” CTP 2 and Entity Framework"
 url: 'http://blogs.msdn.com/b/adonet/archive/2014/07/08/visual-studio-14-ctp-2-and-entity-framework.aspx'
 category: 5a88e1aebd6dca0d5f0d2984
 slug: 'visual-studio-14-ctp-2-and-entity-framework'

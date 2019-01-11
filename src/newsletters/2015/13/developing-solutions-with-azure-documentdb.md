@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2720
-title: 'Developing Solutions with Azure DocumentDB'
+title: "Developing Solutions with Azure DocumentDB"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/developing-solutions-with-azure-documentdb'
 category: 5a88e1adbd6dca0d5f0d2720
 slug: 'developing-solutions-with-azure-documentdb'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1acc
-title: 'Resources for Learning about .NET Internals'
+title: "Resources for Learning about .NET Internals"
 url: 'http://mattwarren.org/2018/01/22/Resources-for-Learning-about-.NET-Internals/'
 category: 5a88e1aabd6dca0d5f0d1acc
 slug: 'resources-for-learning-about-net-internals'

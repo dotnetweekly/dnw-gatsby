@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2ca8
-title: 'Getting Started with Microsoft Big Data, Hive &amp; HDInsight Jump Start'
+title: "Getting Started with Microsoft Big Data, Hive &amp; HDInsight Jump Start"
 url: 'https://www.microsoftvirtualacademy.com/liveevents/exploring-microsoft-big-data-jump-start'
 category: 5a88e1afbd6dca0d5f0d2ca8
 slug: 'getting-started-with-microsoft-big-data-hive-hdinsight-jump-start'

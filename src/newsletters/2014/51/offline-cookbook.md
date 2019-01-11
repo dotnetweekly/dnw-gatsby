@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d27f6
-title: 'Offline Cookbook'
+title: "Offline Cookbook"
 url: 'http://jakearchibald.com/2014/offline-cookbook/'
 category: 5a88e1adbd6dca0d5f0d27f6
 slug: 'offline-cookbook'

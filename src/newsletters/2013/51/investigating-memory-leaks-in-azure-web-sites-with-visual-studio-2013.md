@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b3a
-title: 'Investigating Memory Leaks in Azure Web Sites with Visual Studio 2013'
+title: "Investigating Memory Leaks in Azure Web Sites with Visual Studio 2013"
 url: 'http://blogs.msdn.com/b/visualstudioalm/archive/2013/12/20/investigating-memory-leaks-in-azure-web-sites-with-visual-studio-2013.aspx'
 category: 5a88e1aebd6dca0d5f0d2b3a
 slug: 'investigating-memory-leaks-in-azure-web-sites-with-visual-studio-2013'

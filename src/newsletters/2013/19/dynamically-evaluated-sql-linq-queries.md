@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2cdc
-title: 'Dynamically evaluated SQL LINQ queries'
+title: "Dynamically evaluated SQL LINQ queries"
 url: 'http://www.codeproject.com/Articles/43678/Dynamically-evaluated-SQL-LINQ-queries'
 category: 5a88e1afbd6dca0d5f0d2cdc
 slug: 'dynamically-evaluated-sql-linq-queries'

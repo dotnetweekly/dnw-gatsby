@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1e6a
-title: 'Running tests for .NET and Node.js on Travis CI'
+title: "Running tests for .NET and Node.js on Travis CI"
 url: 'https://medium.com/@bartwijnants/running-tests-for-net-and-node-js-on-travis-ci-8704ea3a5512'
 category: 5a88e1abbd6dca0d5f0d1e6a
 slug: 'running-tests-for-net-and-node-js-on-travis-ci'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2dc2
-title: 'Async Causality Chain Tracking'
+title: "Async Causality Chain Tracking"
 url: 'http://msdn.microsoft.com/en-us/magazine/jj891052.aspx'
 category: 5a88e1afbd6dca0d5f0d2dc2
 slug: 'async-causality-chain-tracking'

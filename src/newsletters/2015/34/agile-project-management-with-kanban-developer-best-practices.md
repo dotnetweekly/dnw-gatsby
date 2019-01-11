@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d25de
-title: 'Agile Project Management with Kanban (Developer Best Practices)'
+title: "Agile Project Management with Kanban (Developer Best Practices)"
 url: 'http://amzn.to/1J7wcWc'
 category: 5a88e1adbd6dca0d5f0d25de
 slug: 'agile-project-management-with-kanban-developer-best-practices'

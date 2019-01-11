@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d249c
-title: 'Introduction to Ember'
+title: "Introduction to Ember"
 url: 'https://mva.microsoft.com/liveevents/introduction-to-ember'
 category: 5a88e1adbd6dca0d5f0d249c
 slug: 'introduction-to-ember'

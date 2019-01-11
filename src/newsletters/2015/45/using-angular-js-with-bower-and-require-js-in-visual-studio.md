@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d252a
-title: 'Using Angular.js with Bower and Require.js in Visual Studio'
+title: "Using Angular.js with Bower and Require.js in Visual Studio"
 url: 'http://www.dotnetcurry.com/angularjs/1207/using-angularjs-bower-requirejs-visual-studio'
 category: 5a88e1adbd6dca0d5f0d252a
 slug: 'using-angular-js-with-bower-and-require-js-in-visual-studio'

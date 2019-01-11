@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b2c
-title: 'Windows Azure Web Sites (WAWS) and Intermediate Certificates'
+title: "Windows Azure Web Sites (WAWS) and Intermediate Certificates"
 url: 'http://blogs.msdn.com/b/windowsazure/archive/2014/01/06/windows-azure-web-sites-waws-and-intermediate-certificates.aspx'
 category: 5a88e1aebd6dca0d5f0d2b2c
 slug: 'windows-azure-web-sites-waws-and-intermediate-certificates'

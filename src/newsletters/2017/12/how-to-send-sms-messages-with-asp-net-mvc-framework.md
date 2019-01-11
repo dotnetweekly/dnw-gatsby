@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1f80
-title: 'How to Send SMS Messages with ASP.NET MVC Framework'
+title: "How to Send SMS Messages with ASP.NET MVC Framework"
 url: 'https://www.nexmo.com/blog/2017/03/23/send-sms-messages-asp-net-mvc-framework-dr/'
 category: 5a88e1abbd6dca0d5f0d1f80
 slug: 'how-to-send-sms-messages-with-asp-net-mvc-framework'

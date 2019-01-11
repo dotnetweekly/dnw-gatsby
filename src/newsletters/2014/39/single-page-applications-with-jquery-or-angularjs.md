@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d28da
-title: 'Single Page Applications with jQuery or AngularJS'
+title: "Single Page Applications with jQuery or AngularJS"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/single-page-applications-with-jquery-or-angularjs'
 category: 5a88e1aebd6dca0d5f0d28da
 slug: 'single-page-applications-with-jquery-or-angularjs'

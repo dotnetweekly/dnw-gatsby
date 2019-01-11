@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d48
-title: 'How Kevin Ashley Made Over $100K With App In Windows Store'
+title: "How Kevin Ashley Made Over $100K With App In Windows Store"
 url: 'http://weblogs.asp.net/palermo4/archive/2013/04/01/how-kevin-ashley-made-over-100k-with-app-in-windows-store.aspx'
 category: 5a88e1afbd6dca0d5f0d2d48
 slug: 'how-kevin-ashley-made-over-100k-with-app-in-windows-store'

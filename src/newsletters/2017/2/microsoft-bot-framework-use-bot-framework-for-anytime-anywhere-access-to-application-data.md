@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d209a
-title: 'Microsoft Bot Framework - Use Bot Framework for Anytime, Anywhere Access to Application Data'
+title: "Microsoft Bot Framework - Use Bot Framework for Anytime, Anywhere Access to Application Data"
 url: 'https://msdn.microsoft.com/magazine/mt790202'
 category: 5a88e1acbd6dca0d5f0d209a
 slug: 'microsoft-bot-framework-use-bot-framework-for-anytime-anywhere-access-to-application-data'

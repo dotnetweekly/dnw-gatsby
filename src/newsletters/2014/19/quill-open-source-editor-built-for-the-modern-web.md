@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a02
-title: 'Quill - open source editor built for the modern web'
+title: "Quill - open source editor built for the modern web"
 url: 'http://quilljs.com/'
 category: 5a88e1aebd6dca0d5f0d2a02
 slug: 'quill-open-source-editor-built-for-the-modern-web'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2746
-title: 'Application Insights, Visual Studio Online and Azure Tools for Java Developers'
+title: "Application Insights, Visual Studio Online and Azure Tools for Java Developers"
 url: 'http://blogs.msdn.com/b/somasegar/archive/2015/03/12/application-insights-visual-studio-online-and-azure-tools-for-java-developers.aspx'
 category: 5a88e1adbd6dca0d5f0d2746
 slug: 'application-insights-visual-studio-online-and-azure-tools-for-java-developers'

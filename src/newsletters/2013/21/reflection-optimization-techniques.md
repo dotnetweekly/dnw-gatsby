@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2cc4
-title: 'Reflection optimization techniques'
+title: "Reflection optimization techniques"
 url: 'http://www.codeproject.com/Articles/503527/Reflection-optimization-techniques'
 category: 5a88e1afbd6dca0d5f0d2cc4
 slug: 'reflection-optimization-techniques'

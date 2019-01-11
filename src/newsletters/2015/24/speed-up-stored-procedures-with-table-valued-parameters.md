@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d266a
-title: 'Speed Up Stored Procedures with Table Valued Parameters'
+title: "Speed Up Stored Procedures with Table Valued Parameters"
 url: 'https://visualstudiomagazine.com/articles/2015/06/01/table-valued-parameters.aspx'
 category: 5a88e1adbd6dca0d5f0d266a
 slug: 'speed-up-stored-procedures-with-table-valued-parameters'

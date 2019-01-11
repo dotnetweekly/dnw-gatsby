@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d27ac
-title: 'ASP.NET MVC Security through Validation'
+title: "ASP.NET MVC Security through Validation"
 url: 'https://www.simple-talk.com/dotnet/asp.net/asp.net-mvc-security-through-validation/'
 category: 5a88e1adbd6dca0d5f0d27ac
 slug: 'asp-net-mvc-security-through-validation'

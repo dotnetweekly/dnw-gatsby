@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1eae
-title: 'Announcing Windows Template Studio'
+title: "Announcing Windows Template Studio"
 url: 'https://blogs.windows.com/buildingapps/2017/05/16/announcing-windows-template-studio/#t4jwimJccwBgZjDi.97'
 category: 5a88e1abbd6dca0d5f0d1eae
 slug: 'announcing-windows-template-studio'

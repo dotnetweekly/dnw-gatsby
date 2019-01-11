@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d14
-title: 'Use the new and shiny responsibly.'
+title: "Use the new and shiny responsibly."
 url: 'http://html5please.com/'
 category: 5a88e1afbd6dca0d5f0d2d14
 slug: 'use-the-new-and-shiny-responsibly'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2e6e
-title: 'WOWZAPP 2012'
+title: "WOWZAPP 2012"
 url: 'http://www.microsoft.com/student/en-us/wowzapp/eventpage.aspx?drop=4'
 category: 5a88e1afbd6dca0d5f0d2e6e
 slug: 'wowzapp-2012'

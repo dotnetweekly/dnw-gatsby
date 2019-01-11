@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d2a
-title: 'Getting Started Managing Client-Side Data with the Breeze JavaScript Library'
+title: "Getting Started Managing Client-Side Data with the Breeze JavaScript Library"
 url: 'http://weblogs.asp.net/dwahlin/archive/2013/03/27/getting-started-managing-client-side-data-with-the-breeze-javascript-library.aspx'
 category: 5a88e1afbd6dca0d5f0d2d2a
 slug: 'getting-started-managing-client-side-data-with-the-breeze-javascript-library-2'

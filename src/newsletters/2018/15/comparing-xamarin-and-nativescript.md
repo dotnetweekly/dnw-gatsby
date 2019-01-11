@@ -1,6 +1,6 @@
 ---
 _id: 5ad2b745325044006eb6d65b
-title: 'Comparing Xamarin and NativeScript'
+title: "Comparing Xamarin and NativeScript"
 url: 'https://devlinduldulao.pro/comparing-xamarin-and-nativescript/'
 category: 5ad2b745325044006eb6d65b
 slug: 'comparing-xamarin-and-nativescript'

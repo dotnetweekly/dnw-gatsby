@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2488
-title: 'Release Management Overview'
+title: "Release Management Overview"
 url: 'https://channel9.msdn.com/Series/DevOps-Release-Management/Release-Management-Overview'
 category: 5a88e1adbd6dca0d5f0d2488
 slug: 'release-management-overview'

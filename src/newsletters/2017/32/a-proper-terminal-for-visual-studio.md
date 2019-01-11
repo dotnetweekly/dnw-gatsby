@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1d72
-title: 'A proper terminal for Visual Studio'
+title: "A proper terminal for Visual Studio"
 url: 'https://www.hanselman.com/blog/AProperTerminalForVisualStudio.aspx'
 category: 5a88e1abbd6dca0d5f0d1d72
 slug: 'a-proper-terminal-for-visual-studio'

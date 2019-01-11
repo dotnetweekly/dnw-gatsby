@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1af4
-title: 'LiteDB: Embedded .NET NoSQL Database'
+title: "LiteDB: Embedded .NET NoSQL Database"
 url: 'https://codeopinion.com/litedb-embedded-net-nosql-database/'
 category: 5a88e1aabd6dca0d5f0d1af4
 slug: 'litedb-embedded-net-nosql-database'

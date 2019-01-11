@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1bfa
-title: 'The History of .NET - Richard Campbell'
+title: "The History of .NET - Richard Campbell"
 url: 'https://vimeo.com/239969756'
 category: 5a88e1aabd6dca0d5f0d1bfa
 slug: 'the-history-of-net-richard-campbell'

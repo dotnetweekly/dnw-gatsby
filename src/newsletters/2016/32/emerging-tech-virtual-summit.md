@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d227c
-title: 'Emerging Tech Virtual Summit'
+title: "Emerging Tech Virtual Summit"
 url: 'https://vts.inxpo.com/scripts/Server.nxp?LASCmd=AI:4;F:QS!10100&ShowKey=33380'
 category: 5a88e1acbd6dca0d5f0d227c
 slug: 'emerging-tech-virtual-summit'

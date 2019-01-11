@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d3050
-title: 'SharpDX'
+title: "SharpDX"
 url: 'http://sharpdx.org/'
 category: 5a88e1afbd6dca0d5f0d3050
 slug: 'sharpdx'

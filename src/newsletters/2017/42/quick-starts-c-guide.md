@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1c4c
-title: 'Quick Starts - C# Guide'
+title: "Quick Starts - C# Guide"
 url: 'https://docs.microsoft.com/en-us/dotnet/csharp/quick-starts/'
 category: 5a88e1aabd6dca0d5f0d1c4c
 slug: 'quick-starts-c-guide'

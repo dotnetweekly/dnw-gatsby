@@ -1,6 +1,6 @@
 ---
 _id: 5a9a67a61c865f04b8aef48f
-title: 'Creating a chat application using React and ASP.​NET Core - Part 4'
+title: "Creating a chat application using React and ASP.​NET Core - Part 4"
 url: 'http://asp.net-hacker.rocks/2018/03/01/react-chat-part4.html'
 category: 5a9a67a61c865f04b8aef48f
 slug: 'creating-a-chat-application-using-react-and-aspnet-core-part-4'

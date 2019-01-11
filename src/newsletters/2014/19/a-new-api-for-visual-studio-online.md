@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d29fa
-title: 'A new API for Visual Studio Online'
+title: "A new API for Visual Studio Online"
 url: 'http://blogs.msdn.com/b/bharry/archive/2014/05/12/a-new-api-for-visual-studio-online.aspx'
 category: 5a88e1aebd6dca0d5f0d29fa
 slug: 'a-new-api-for-visual-studio-online'

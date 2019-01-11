@@ -1,6 +1,6 @@
 ---
 _id: 5bd2b6f78c14ec5b62a92ce8
-title: 'Our favourite .NET, Azure and C# podcasts'
+title: "Our favourite .NET, Azure and C# podcasts"
 url: 'https://blog.elmah.io/our-favourite-net-azure-and-csharp-podcasts/'
 category: 5bd2b6f78c14ec5b62a92ce8
 slug: 'our-favourite-net-azure-and-c-podcasts'

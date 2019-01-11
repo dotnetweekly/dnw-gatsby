@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b98
-title: 'Shoot"em Up .NET'
+title: "Shoot'em Up .NET"
 url: 'http://www.codeproject.com/Articles/677417/Shootem-Up-NET'
 category: 5a88e1aebd6dca0d5f0d2b98
 slug: 'shootem-up-net'

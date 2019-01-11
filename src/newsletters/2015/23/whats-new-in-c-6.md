@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d267c
-title: 'What"s New in C# 6'
+title: "What's New in C# 6"
 url: 'http://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Whats-New-in-C-6'
 category: 5a88e1adbd6dca0d5f0d267c
 slug: 'whats-new-in-c-6'

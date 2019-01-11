@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2992
-title: 'Writing a SQLite wrapper component for universal Windows apps'
+title: "Writing a SQLite wrapper component for universal Windows apps"
 url: 'http://blogs.windows.com/windows/b/buildingapps/archive/2014/07/02/writing-a-sqlite-wrapper-component-for-universal-windows-apps.aspx'
 category: 5a88e1aebd6dca0d5f0d2992
 slug: 'writing-a-sqlite-wrapper-component-for-universal-windows-apps'

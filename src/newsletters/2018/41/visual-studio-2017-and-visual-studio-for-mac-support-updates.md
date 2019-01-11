@@ -1,6 +1,6 @@
 ---
 _id: 5bbc14468a5a3955eafd9803
-title: 'Visual Studio 2017 and Visual Studio for Mac Support Updates'
+title: "Visual Studio 2017 and Visual Studio for Mac Support Updates"
 url: 'https://blogs.msdn.microsoft.com/visualstudio/2018/10/05/visual-studio-2017-and-visual-studio-for-mac-support-updates/'
 category: 5bbc14468a5a3955eafd9803
 slug: 'visual-studio-2017-and-visual-studio-for-mac-support-updates'

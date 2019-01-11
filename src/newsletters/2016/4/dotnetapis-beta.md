@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d245a
-title: 'DotNetApis (BETA)'
+title: "DotNetApis (BETA)"
 url: 'http://dotnetapis.com/'
 category: 5a88e1acbd6dca0d5f0d245a
 slug: 'dotnetapis-beta'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1c50
-title: 'Jump Start ASP.NET Core Application on Nano Server'
+title: "Jump Start ASP.NET Core Application on Nano Server"
 url: 'https://blogs.msdn.microsoft.com/premier_developer/2017/10/17/jump-start-asp-net-core-application-on-nano-server/'
 category: 5a88e1aabd6dca0d5f0d1c50
 slug: 'jump-start-asp-net-core-application-on-nano-server'

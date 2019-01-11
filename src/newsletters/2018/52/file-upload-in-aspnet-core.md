@@ -1,6 +1,6 @@
 ---
 _id: 5c275cb5745cd075880206c9
-title: 'File Upload in ASP.NET Core'
+title: "File Upload in ASP.NET Core"
 url: 'https://www.devcurry.com/2018/10/file-upload-in-aspnet-core.html'
 category: 5c275cb5745cd075880206c9
 slug: 'file-upload-in-aspnet-core'

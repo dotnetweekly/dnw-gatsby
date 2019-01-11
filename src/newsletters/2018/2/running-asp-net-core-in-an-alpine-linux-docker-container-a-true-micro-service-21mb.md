@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1b0a
-title: 'Running ASP.NET Core in an Alpine Linux Docker Container - A True Micro Service (21MB)'
+title: "Running ASP.NET Core in an Alpine Linux Docker Container - A True Micro Service (21MB)"
 url: 'https://www.atlascode.com/blog/running-asp-net-core-in-an-alpine-linux-docker-container/'
 category: 5a88e1aabd6dca0d5f0d1b0a
 slug: 'running-asp-net-core-in-an-alpine-linux-docker-container-a-true-micro-service-21mb'

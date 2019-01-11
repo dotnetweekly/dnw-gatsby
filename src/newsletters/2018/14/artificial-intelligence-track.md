@@ -1,6 +1,6 @@
 ---
 _id: 5ac424c4230cde002ab85cc9
-title: 'Artificial Intelligence Track'
+title: "Artificial Intelligence Track"
 url: 'https://academy.microsoft.com/en-us/tracks/artificial-intelligence/'
 category: 5ac424c4230cde002ab85cc9
 slug: 'artificial-intelligence-track'

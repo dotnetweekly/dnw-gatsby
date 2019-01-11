@@ -1,6 +1,6 @@
 ---
 _id: 5aaa4cf0bd74e8024ebdd77f
-title: 'Is string operator “+” so simple?'
+title: "Is string operator “+” so simple?"
 url: 'http://codingsight.com/is-string-operator-so-simple/'
 category: 5aaa4cf0bd74e8024ebdd77f
 slug: 'is-string-operator-so-simple'

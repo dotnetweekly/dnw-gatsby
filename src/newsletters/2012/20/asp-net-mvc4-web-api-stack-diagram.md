@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d3076
-title: 'ASP.NET MVC4 Web API Stack Diagram'
+title: "ASP.NET MVC4 Web API Stack Diagram"
 url: 'http://blogs.msdn.com/b/kiranchalla/archive/2012/05/05/asp-net-mvc4-web-api-stack-diagram.aspx'
 category: 5a88e1afbd6dca0d5f0d3076
 slug: 'asp-net-mvc4-web-api-stack-diagram'

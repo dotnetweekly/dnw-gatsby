@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d29c2
-title: 'MSDN Subscribers How to Spin up a VM'
+title: "MSDN Subscribers How to Spin up a VM"
 url: 'https://www.youtube.com/watch?v=JXniKkMngP8'
 category: 5a88e1aebd6dca0d5f0d29c2
 slug: 'msdn-subscribers-how-to-spin-up-a-vm'

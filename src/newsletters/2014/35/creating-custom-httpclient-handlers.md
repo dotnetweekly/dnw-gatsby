@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d290a
-title: 'Creating Custom HTTPClient Handlers'
+title: "Creating Custom HTTPClient Handlers"
 url: 'http://visualstudiomagazine.com/articles/2014/08/01/creating-custom-httpclient-handlers.aspx'
 category: 5a88e1aebd6dca0d5f0d290a
 slug: 'creating-custom-httpclient-handlers'

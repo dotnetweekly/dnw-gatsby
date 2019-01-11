@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2294
-title: 'Windows 10: App Patterns and Navigation'
+title: "Windows 10: App Patterns and Navigation"
 url: 'https://mva.microsoft.com/en-US/training-courses/windows-10-app-patterns-and-navigation-14577'
 category: 5a88e1acbd6dca0d5f0d2294
 slug: 'windows-10-app-patterns-and-navigation'

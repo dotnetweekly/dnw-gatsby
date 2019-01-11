@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2250
-title: 'TFS “15” RC1 is available'
+title: "TFS “15” RC1 is available"
 url: 'https://blogs.msdn.microsoft.com/bharry/2016/08/08/tfs-15-rc1-is-available/'
 category: 5a88e1acbd6dca0d5f0d2250
 slug: 'tfs-15-rc1-is-available'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2bac
-title: 'Managed Memory Analysis in Visual Studio 2013'
+title: "Managed Memory Analysis in Visual Studio 2013"
 url: 'http://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Managed-Memory-Analysis-in-Visual-Studio-2013'
 category: 5a88e1aebd6dca0d5f0d2bac
 slug: 'managed-memory-analysis-in-visual-studio-2013'

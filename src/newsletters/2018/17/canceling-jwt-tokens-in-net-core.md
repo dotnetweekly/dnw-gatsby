@@ -1,6 +1,6 @@
 ---
 _id: 5ae5f7847b1832006e43ede7
-title: 'Canceling JWT tokens in .NET Core'
+title: "Canceling JWT tokens in .NET Core"
 url: 'http://piotrgankiewicz.com/2018/04/25/canceling-jwt-tokens-in-net-core/'
 category: 5ae5f7847b1832006e43ede7
 slug: 'canceling-jwt-tokens-in-net-core'

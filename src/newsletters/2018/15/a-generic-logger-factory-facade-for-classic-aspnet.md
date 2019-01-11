@@ -1,6 +1,6 @@
 ---
 _id: 5ad2b7f8325044006eb6d65e
-title: 'A generic logger factory facade for classic ASP.NET'
+title: "A generic logger factory facade for classic ASP.NET"
 url: 'https://asp.net-hacker.rocks/2018/04/13/generic-logger-factory-facade.html'
 category: 5ad2b7f8325044006eb6d65e
 slug: 'a-generic-logger-factory-facade-for-classic-aspnet'

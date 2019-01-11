@@ -1,6 +1,6 @@
 ---
 _id: 5b3110654d8b02d96feaa34e
-title: 'Running ASP.NET Core application as Windows service'
+title: "Running ASP.NET Core application as Windows service"
 url: 'https://gunnarpeipman.com/aspnet/aspnet-core-windows-service/'
 category: 5b3110654d8b02d96feaa34e
 slug: 'running-aspnet-core-application-as-windows-service'

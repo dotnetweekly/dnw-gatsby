@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2af6
-title: 'Introducing Windows Azure WebJobs'
+title: "Introducing Windows Azure WebJobs"
 url: 'http://www.hanselman.com/blog/IntroducingWindowsAzureWebJobs.aspx'
 category: 5a88e1aebd6dca0d5f0d2af6
 slug: 'introducing-windows-azure-webjobs'

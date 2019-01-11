@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d2032
-title: 'Hosting a Bot Framework chat bot on a Docker container on Azure App Service on Linux – Dimitris-Ilias Gkanatsios'
+title: "Hosting a Bot Framework chat bot on a Docker container on Azure App Service on Linux – Dimitris-Ilias Gkanatsios"
 url: 'https://dgkanatsios.com/2017/02/07/hosting-a-bot-framework-chat-bot-on-a-docker-container-on-azure-app-service-on-linux/'
 category: 5a88e1abbd6dca0d5f0d2032
 slug: 'hosting-a-bot-framework-chat-bot-on-a-docker-container-on-azure-app-service-on-linux-dimitris-ilias'

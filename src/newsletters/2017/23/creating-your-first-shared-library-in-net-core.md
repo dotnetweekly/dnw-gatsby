@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1e72
-title: 'Creating your first shared library in .NET Core'
+title: "Creating your first shared library in .NET Core"
 url: 'https://www.devtrends.co.uk/blog/creating-your-first-shared-library-in-.net-core'
 category: 5a88e1abbd6dca0d5f0d1e72
 slug: 'creating-your-first-shared-library-in-net-core'

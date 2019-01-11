@@ -1,6 +1,6 @@
 ---
 _id: 5b3afcd006b6116a4056ffee
-title: 'Why State Machines Make Your Life Easier'
+title: "Why State Machines Make Your Life Easier"
 url: 'https://www.telerik.com/blogs/why-state-machines-make-your-life-easier-video'
 category: 5b3afcd006b6116a4056ffee
 slug: 'why-state-machines-make-your-life-easier'

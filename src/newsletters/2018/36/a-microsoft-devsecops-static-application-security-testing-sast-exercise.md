@@ -1,6 +1,6 @@
 ---
 _id: 5b9173d91f9f2e00c8857aa8
-title: 'A Microsoft DevSecOps Static Application Security Testing (SAST) Exercise'
+title: "A Microsoft DevSecOps Static Application Security Testing (SAST) Exercise"
 url: 'https://blogs.msdn.microsoft.com/devops/2018/08/21/microsoft-devsecops-static-application-security-testing-sast-exercise/'
 category: 5b9173d91f9f2e00c8857aa8
 slug: 'a-microsoft-devsecops-static-application-security-testing-sast-exercise'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2154
-title: 'Microsoft Connect (); 2016 Recap'
+title: "Microsoft Connect (); 2016 Recap"
 url: 'https://blog.xamarin.com/microsoft-connect-2016-recap/'
 category: 5a88e1acbd6dca0d5f0d2154
 slug: 'microsoft-connect-2016-recap'

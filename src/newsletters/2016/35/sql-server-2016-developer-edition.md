@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d224e
-title: 'SQL Server 2016 Developer edition'
+title: "SQL Server 2016 Developer edition"
 url: 'https://www.microsoft.com/en-us/cloud-platform/sql-server-editions-developers'
 category: 5a88e1acbd6dca0d5f0d224e
 slug: 'sql-server-2016-developer-edition'

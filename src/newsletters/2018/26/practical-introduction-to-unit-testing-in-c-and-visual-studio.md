@@ -1,6 +1,6 @@
 ---
 _id: 5b37d8ee61213b1a65f0c205
-title: 'Practical Introduction to Unit testing in C# and Visual Studio'
+title: "Practical Introduction to Unit testing in C# and Visual Studio"
 url: 'https://www.productivecsharp.com/2018/06/practical-introduction-to-unit-testing-in-csharp/'
 category: 5b37d8ee61213b1a65f0c205
 slug: 'practical-introduction-to-unit-testing-in-c-and-visual-studio'

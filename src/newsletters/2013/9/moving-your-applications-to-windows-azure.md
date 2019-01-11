@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d8e
-title: 'Moving Your Applications to Windows Azure'
+title: "Moving Your Applications to Windows Azure"
 url: 'http://msdn.microsoft.com/en-us/magazine/jj991979.aspx'
 category: 5a88e1afbd6dca0d5f0d2d8e
 slug: 'moving-your-applications-to-windows-azure'

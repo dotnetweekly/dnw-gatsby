@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1f62
-title: 'Json.NET 10.0 Release 1 - Async, performance, documentation and more'
+title: "Json.NET 10.0 Release 1 - Async, performance, documentation and more"
 url: 'http://james.newtonking.com/archive/2017/03/21/json-net-10-0-release-1-async-performance-documentation-and-more'
 category: 5a88e1abbd6dca0d5f0d1f62
 slug: 'json-net-10-0-release-1-async-performance-documentation-and-more'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d244a
-title: 'Manually Updating a Raspberry Pi 2 running Windows 10 IoT Core'
+title: "Manually Updating a Raspberry Pi 2 running Windows 10 IoT Core"
 url: 'https://channel9.msdn.com/blogs/raw-tech/manually-updating-a-raspberry-pi-2-running-windows-10-iot-core-to-the-1001058663-update'
 category: 5a88e1acbd6dca0d5f0d244a
 slug: 'manually-updating-a-raspberry-pi-2-running-windows-10-iot-core'

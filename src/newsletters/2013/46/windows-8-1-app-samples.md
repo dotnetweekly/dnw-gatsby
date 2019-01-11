@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b8a
-title: 'Windows 8.1 app samples'
+title: "Windows 8.1 app samples"
 url: 'http://code.msdn.microsoft.com/windowsapps/Windows-8-Modern-Style-App-Samples'
 category: 5a88e1aebd6dca0d5f0d2b8a
 slug: 'windows-8-1-app-samples'

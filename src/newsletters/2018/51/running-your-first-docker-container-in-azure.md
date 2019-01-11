@@ -1,6 +1,6 @@
 ---
 _id: 5c1afe69745cd05f1e02069a
-title: 'Running your First Docker Container in Azure'
+title: "Running your First Docker Container in Azure"
 url: 'https://channel9.msdn.com/Shows/DevOps-Lab/Running-your-First-Docker-Container-in-Azure'
 category: 5c1afe69745cd05f1e02069a
 slug: 'running-your-first-docker-container-in-azure'

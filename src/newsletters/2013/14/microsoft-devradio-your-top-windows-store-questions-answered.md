@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d1e
-title: 'Microsoft DevRadio: Your Top Windows Store Questions Answered'
+title: "Microsoft DevRadio: Your Top Windows Store Questions Answered"
 url: 'http://channel9.msdn.com/Blogs/DevRadio/Microsoft-DevRadio-Your-Top-Windows-Store-Questions-Answered'
 category: 5a88e1afbd6dca0d5f0d2d1e
 slug: 'microsoft-devradio-your-top-windows-store-questions-answered'

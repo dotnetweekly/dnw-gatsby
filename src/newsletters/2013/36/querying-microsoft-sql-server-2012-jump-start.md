@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2c16
-title: 'Querying Microsoft SQL Server 2012 Jump Start'
+title: "Querying Microsoft SQL Server 2012 Jump Start"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/querying-microsoft-sql-server-2012-jump-start#fbid=RfHc7HWJo2b'
 category: 5a88e1aebd6dca0d5f0d2c16
 slug: 'querying-microsoft-sql-server-2012-jump-start'

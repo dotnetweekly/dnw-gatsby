@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2f04
-title: 'Automated Build-Deploy-Test using TFS 2012'
+title: "Automated Build-Deploy-Test using TFS 2012"
 url: 'http://blogs.msdn.com/b/mvpawardprogram/archive/2012/09/04/automated-build-deploy-test-using-tfs-2012.aspx'
 category: 5a88e1afbd6dca0d5f0d2f04
 slug: 'automated-build-deploy-test-using-tfs-2012'

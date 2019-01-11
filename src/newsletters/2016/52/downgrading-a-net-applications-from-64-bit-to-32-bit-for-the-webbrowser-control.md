@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d20da
-title: 'Downgrading a .NET Applications from 64 bit to 32 bit for the WebBrowser Control'
+title: "Downgrading a .NET Applications from 64 bit to 32 bit for the WebBrowser Control"
 url: 'https://weblog.west-wind.com/posts/2016/Dec/23/Downgrading-a-NET-Applications-from-64-bit-to-32-bit-for-the-WebBrowser-Control'
 category: 5a88e1acbd6dca0d5f0d20da
 slug: 'downgrading-a-net-applications-from-64-bit-to-32-bit-for-the-webbrowser-control'

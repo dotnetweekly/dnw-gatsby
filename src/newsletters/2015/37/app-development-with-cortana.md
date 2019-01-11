@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d25ae
-title: 'App Development with Cortana'
+title: "App Development with Cortana"
 url: 'https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/App-Development-with-Cortana'
 category: 5a88e1adbd6dca0d5f0d25ae
 slug: 'app-development-with-cortana'

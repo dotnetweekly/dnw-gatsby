@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1f44
-title: 'ASP.NET Core - Feature Slices for ASP.NET Core MVC'
+title: "ASP.NET Core - Feature Slices for ASP.NET Core MVC"
 url: 'https://msdn.microsoft.com/magazine/mt763233'
 category: 5a88e1abbd6dca0d5f0d1f44
 slug: 'asp-net-core-feature-slices-for-asp-net-core-mvc-2'

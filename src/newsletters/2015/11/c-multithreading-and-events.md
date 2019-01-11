@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2744
-title: 'C# Multithreading and Events'
+title: "C# Multithreading and Events"
 url: 'http://www.codeproject.com/Articles/886223/Csharp-Multithreading-and-Events'
 category: 5a88e1adbd6dca0d5f0d2744
 slug: 'c-multithreading-and-events'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2716
-title: 'Call for Speakers is Now Open!'
+title: "Call for Speakers is Now Open!"
 url: 'https://www.thatconference.com/'
 category: 5a88e1adbd6dca0d5f0d2716
 slug: 'call-for-speakers-is-now-open'

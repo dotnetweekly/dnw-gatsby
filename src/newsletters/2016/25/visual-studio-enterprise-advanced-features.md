@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d22f0
-title: 'Visual Studio Enterprise: Advanced Features'
+title: "Visual Studio Enterprise: Advanced Features"
 url: 'https://mva.microsoft.com/en-US/training-courses/visual-studio-enterprise-advanced-features-15853?l=yQGlcnw6B_9506218949'
 category: 5a88e1acbd6dca0d5f0d22f0
 slug: 'visual-studio-enterprise-advanced-features'

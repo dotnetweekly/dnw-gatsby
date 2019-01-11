@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b16
-title: 'Build More Efficient Windows Store Apps Using JavaScript: Error Handling'
+title: "Build More Efficient Windows Store Apps Using JavaScript: Error Handling"
 url: 'http://msdn.microsoft.com/en-us/magazine/dn519922.aspx'
 category: 5a88e1aebd6dca0d5f0d2b16
 slug: 'build-more-efficient-windows-store-apps-using-javascript-error-handling'

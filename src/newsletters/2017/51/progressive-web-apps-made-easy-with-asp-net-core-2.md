@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1b46
-title: 'Progressive Web Apps made easy with ASP.NET Core'
+title: "Progressive Web Apps made easy with ASP.NET Core"
 url: 'https://madskristensen.net/blog/progressive-web-apps-made-easy-with-aspnet-core/'
 category: 5a88e1aabd6dca0d5f0d1b46
 slug: 'progressive-web-apps-made-easy-with-asp-net-core-2'

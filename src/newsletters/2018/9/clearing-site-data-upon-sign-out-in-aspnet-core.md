@@ -1,6 +1,6 @@
 ---
 _id: 5a93d870c18448002cf62306
-title: 'Clearing site data upon sign out in ASP.NET Core '
+title: "Clearing site data upon sign out in ASP.NET Core "
 url: 'https://www.tpeczek.com/2018/02/clearing-site-data-upon-sign-out-in.html'
 category: 5a93d870c18448002cf62306
 slug: 'clearing-site-data-upon-sign-out-in-aspnet-core'

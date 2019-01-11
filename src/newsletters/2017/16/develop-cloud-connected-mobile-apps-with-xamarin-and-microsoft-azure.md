@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1f18
-title: 'Develop Cloud Connected Mobile Apps with Xamarin and Microsoft Azure'
+title: "Develop Cloud Connected Mobile Apps with Xamarin and Microsoft Azure"
 url: 'https://adrianhall.github.io/develop-mobile-apps-with-csharp-and-azure/'
 category: 5a88e1abbd6dca0d5f0d1f18
 slug: 'develop-cloud-connected-mobile-apps-with-xamarin-and-microsoft-azure'

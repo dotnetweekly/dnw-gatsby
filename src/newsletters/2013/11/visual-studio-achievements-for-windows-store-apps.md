@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d74
-title: 'Visual Studio Achievements For Windows Store Apps'
+title: "Visual Studio Achievements For Windows Store Apps"
 url: 'http://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Visual-Studio-Achievements-For-Windows-8-App-Development'
 category: 5a88e1afbd6dca0d5f0d2d74
 slug: 'visual-studio-achievements-for-windows-store-apps'

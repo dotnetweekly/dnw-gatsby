@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d21ae
-title: 'Extending a Universal Windows Platform Media App'
+title: "Extending a Universal Windows Platform Media App"
 url: 'https://visualstudiomagazine.com/articles/2016/10/01/universal-windows-platform-media-app.aspx'
 category: 5a88e1acbd6dca0d5f0d21ae
 slug: 'extending-a-universal-windows-platform-media-app'

@@ -1,6 +1,6 @@
 ---
 _id: 5a8b590d0f165c002a816a84
-title: 'What’s New in Visual Studio for Mac'
+title: "What’s New in Visual Studio for Mac"
 url: 'https://www.visualstudio.com/vs/visual-studio-mac/'
 category: 5a8b590d0f165c002a816a84
 slug: 'whats-new-in-visual-studio-for-mac'

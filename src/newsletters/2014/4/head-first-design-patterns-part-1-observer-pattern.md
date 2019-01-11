@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2aec
-title: 'Head First Design Patterns - Part 1: Observer Pattern'
+title: "Head First Design Patterns - Part 1: Observer Pattern"
 url: 'http://wintellect.com/blogs/jwood/head-first-design-patterns---part-1-observer-pattern'
 category: 5a88e1aebd6dca0d5f0d2aec
 slug: 'head-first-design-patterns-part-1-observer-pattern'

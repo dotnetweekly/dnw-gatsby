@@ -1,6 +1,6 @@
 ---
 _id: 5bd036241ff6e7c74e87fb3d
-title: 'Learning by doing - Implementing Redis distributed cache health check for ASP.NET Core'
+title: "Learning by doing - Implementing Redis distributed cache health check for ASP.NET Core"
 url: 'https://www.tpeczek.com/2018/10/learning-by-doing-implementing-redis.html'
 category: 5bd036241ff6e7c74e87fb3d
 slug: 'learning-by-doing-implementing-redis-distributed-cache-health-check-for-aspnet-core'

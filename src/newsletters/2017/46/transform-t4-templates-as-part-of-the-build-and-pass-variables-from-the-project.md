@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1bc6
-title: 'Transform T4 templates as part of the build, and pass variables from the project'
+title: "Transform T4 templates as part of the build, and pass variables from the project"
 url: 'https://www.thomaslevesque.com/2017/11/13/transform-t4-templates-as-part-of-the-build-and-pass-variables-from-the-project/'
 category: 5a88e1aabd6dca0d5f0d1bc6
 slug: 'transform-t4-templates-as-part-of-the-build-and-pass-variables-from-the-project'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d23d6
-title: 'Conditional Middleware in ASP.NET Core'
+title: "Conditional Middleware in ASP.NET Core"
 url: 'http://weblogs.asp.net/imranbaloch/conditional-middleware-in-aspnet-core'
 category: 5a88e1acbd6dca0d5f0d23d6
 slug: 'conditional-middleware-in-asp-net-core'

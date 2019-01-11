@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1a90
-title: 'Microsoft Visual Studio DevOps Hands-on-Labs'
+title: "Microsoft Visual Studio DevOps Hands-on-Labs"
 url: 'https://almvm.azurewebsites.net/'
 category: 5a88e1aabd6dca0d5f0d1a90
 slug: 'microsoft-visual-studio-devops-hands-on-labs'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2098
-title: 'Web and Data Application Development with Visual Studio 2017 and Azure'
+title: "Web and Data Application Development with Visual Studio 2017 and Azure"
 url: 'https://mva.microsoft.com/en-US/training-courses/web-and-data-application-development-with-visual-studio-2017-and-azure-16931?l=cPvCkvnHD_8906218965'
 category: 5a88e1acbd6dca0d5f0d2098
 slug: 'web-and-data-application-development-with-visual-studio-2017-and-azure'

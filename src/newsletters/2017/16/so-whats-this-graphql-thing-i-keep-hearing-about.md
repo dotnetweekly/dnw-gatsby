@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1f1e
-title: 'So what’s this GraphQL thing I keep hearing about?'
+title: "So what’s this GraphQL thing I keep hearing about?"
 url: 'https://medium.freecodecamp.com/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf'
 category: 5a88e1abbd6dca0d5f0d1f1e
 slug: 'so-whats-this-graphql-thing-i-keep-hearing-about'

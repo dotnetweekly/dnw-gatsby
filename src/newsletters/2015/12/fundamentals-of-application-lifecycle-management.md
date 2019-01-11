@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d272a
-title: 'Fundamentals of Application Lifecycle Management'
+title: "Fundamentals of Application Lifecycle Management"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/fundamentals-of-application-lifecycle-management'
 category: 5a88e1adbd6dca0d5f0d272a
 slug: 'fundamentals-of-application-lifecycle-management'

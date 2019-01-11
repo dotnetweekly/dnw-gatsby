@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2654
-title: 'Save the Date: Visual Studio 2015 RTM on July 20th'
+title: "Save the Date: Visual Studio 2015 RTM on July 20th"
 url: 'http://blogs.msdn.com/b/somasegar/archive/2015/06/29/save-the-date-visual-studio-2015-rtm-on-july-20th.aspx'
 category: 5a88e1adbd6dca0d5f0d2654
 slug: 'save-the-date-visual-studio-2015-rtm-on-july-20th'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1eca
-title: 'Microsoft extends Azure managed database services with introduction of MySQL and PostgreSQL | Blog | Microsoft Azure'
+title: "Microsoft extends Azure managed database services with introduction of MySQL and PostgreSQL | Blog | Microsoft Azure"
 url: 'https://azure.microsoft.com/en-us/blog/microsoft-extends-azure-managed-database-services-with-introduction-of-mysql-and-postgresql/'
 category: 5a88e1abbd6dca0d5f0d1eca
 slug: 'microsoft-extends-azure-managed-database-services-with-introduction-of-mysql-and-postgresql-blog-mi'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2818
-title: 'What"s New with ASP.NET 5'
+title: "What's New with ASP.NET 5"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/what-s-new-with-asp-net-5'
 category: 5a88e1aebd6dca0d5f0d2818
 slug: 'whats-new-with-asp-net-5'

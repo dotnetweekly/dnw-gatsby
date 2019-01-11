@@ -1,6 +1,6 @@
 ---
 _id: 5bbcf87f8a5a39267efd980a
-title: 'Project References in C#'
+title: "Project References in C#"
 url: 'https://www.productivecsharp.com/2018/10/project-references/'
 category: 5bbcf87f8a5a39267efd980a
 slug: 'project-references-in-c'

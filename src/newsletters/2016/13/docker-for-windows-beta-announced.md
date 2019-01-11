@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d23c0
-title: 'Docker for Windows Beta announced'
+title: "Docker for Windows Beta announced"
 url: 'http://www.hanselman.com/blog/DockerForWindowsBetaAnnounced.aspx'
 category: 5a88e1acbd6dca0d5f0d23c0
 slug: 'docker-for-windows-beta-announced'

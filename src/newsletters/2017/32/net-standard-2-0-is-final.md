@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1d66
-title: '.NET Standard 2.0 is final'
+title: ".NET Standard 2.0 is final"
 url: 'https://github.com/dotnet/announcements/issues/24'
 category: 5a88e1abbd6dca0d5f0d1d66
 slug: 'net-standard-2-0-is-final'

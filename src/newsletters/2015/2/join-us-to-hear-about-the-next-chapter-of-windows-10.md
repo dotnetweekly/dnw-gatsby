@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d27dc
-title: 'Join us to hear about the next chapter of Windows 10'
+title: "Join us to hear about the next chapter of Windows 10"
 url: 'http://blogs.windows.com/bloggingwindows/2014/12/11/join-us-to-hear-about-the-next-chapter-of-windows-10/'
 category: 5a88e1adbd6dca0d5f0d27dc
 slug: 'join-us-to-hear-about-the-next-chapter-of-windows-10'

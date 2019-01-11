@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1ac4
-title: 'WebSocket RPC library for .NET with auto JavaScript client code generation, supporting ASP.NET Core'
+title: "WebSocket RPC library for .NET with auto JavaScript client code generation, supporting ASP.NET Core"
 url: 'http://websocket-rpc.net/'
 category: 5a88e1aabd6dca0d5f0d1ac4
 slug: 'websocket-rpc-library-for-net-with-auto-javascript-client-code-generation-supporting-asp-net-core'

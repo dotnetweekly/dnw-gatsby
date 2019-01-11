@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d29b0
-title: 'Dependency Injection in ASP.NET vNext'
+title: "Dependency Injection in ASP.NET vNext"
 url: 'http://blogs.msdn.com/b/webdev/archive/2014/06/17/dependency-injection-in-asp-net-vnext.aspx'
 category: 5a88e1aebd6dca0d5f0d29b0
 slug: 'dependency-injection-in-asp-net-vnext'

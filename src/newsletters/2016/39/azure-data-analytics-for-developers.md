@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d21ec
-title: 'Azure Data Analytics for Developers'
+title: "Azure Data Analytics for Developers"
 url: 'https://mva.microsoft.com/liveevents/azure-data-analytics-for-developers'
 category: 5a88e1acbd6dca0d5f0d21ec
 slug: 'azure-data-analytics-for-developers'

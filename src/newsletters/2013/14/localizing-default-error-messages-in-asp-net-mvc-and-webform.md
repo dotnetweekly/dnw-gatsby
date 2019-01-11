@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d2e
-title: 'Localizing Default Error Messages in ASP.NET MVC and WebForm'
+title: "Localizing Default Error Messages in ASP.NET MVC and WebForm"
 url: 'http://weblogs.asp.net/imranbaloch/archive/2013/03/31/localizing-default-error-messages-in-asp-net-mvc-and-web-form.aspx'
 category: 5a88e1afbd6dca0d5f0d2d2e
 slug: 'localizing-default-error-messages-in-asp-net-mvc-and-webform'

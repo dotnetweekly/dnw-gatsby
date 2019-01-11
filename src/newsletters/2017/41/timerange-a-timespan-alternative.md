@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1c6e
-title: 'Timerange A Timespan Alternative'
+title: "Timerange A Timespan Alternative"
 url: 'http://honestillusion.com/2017/10/10/timerange-a-timespan-alternative.html'
 category: 5a88e1aabd6dca0d5f0d1c6e
 slug: 'timerange-a-timespan-alternative'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1f48
-title: 'Announcing a unified .NET reference experience on docs.microsoft.com | Microsoft Docs'
+title: "Announcing a unified .NET reference experience on docs.microsoft.com | Microsoft Docs"
 url: 'https://docs.microsoft.com/en-us/teamblog/announcing-unified-dotnet-experience-on-docs'
 category: 5a88e1abbd6dca0d5f0d1f48
 slug: 'announcing-a-unified-net-reference-experience-on-docs-microsoft-com-microsoft-docs'

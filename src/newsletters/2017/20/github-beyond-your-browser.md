@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1ed0
-title: 'GitHub Beyond Your Browser'
+title: "GitHub Beyond Your Browser"
 url: 'http://haacked.com/archive/2017/05/16/github-beyond-the-browser/'
 category: 5a88e1abbd6dca0d5f0d1ed0
 slug: 'github-beyond-your-browser'

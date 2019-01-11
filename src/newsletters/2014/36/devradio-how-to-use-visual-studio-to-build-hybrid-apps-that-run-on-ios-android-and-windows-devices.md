@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d28fa
-title: 'DevRadio: How to use Visual Studio to Build Hybrid Apps that run on iOS, Android and Windows devices '
+title: "DevRadio: How to use Visual Studio to Build Hybrid Apps that run on iOS, Android and Windows devices "
 url: 'http://blog.jerrynixon.com/2014/09/devradio-how-to-use-visual-studio-to.html'
 category: 5a88e1aebd6dca0d5f0d28fa
 slug: 'devradio-how-to-use-visual-studio-to-build-hybrid-apps-that-run-on-ios-android-and-windows-devices'

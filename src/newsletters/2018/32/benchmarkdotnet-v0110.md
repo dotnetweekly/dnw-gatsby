@@ -1,6 +1,6 @@
 ---
 _id: 5b6900e96b826e94b2f5995c
-title: 'BenchmarkDotNet v0.11.0'
+title: "BenchmarkDotNet v0.11.0"
 url: 'https://benchmarkdotnet.org/changelog/v0.11.0.html'
 category: 5b6900e96b826e94b2f5995c
 slug: 'benchmarkdotnet-v0110'

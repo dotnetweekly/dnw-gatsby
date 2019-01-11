@@ -1,6 +1,6 @@
 ---
 _id: 5c0feb96c180f0583030fba3
-title: 'StringBuilder: the Past and the Future'
+title: "StringBuilder: the Past and the Future"
 url: 'https://codingsight.com/stringbuilder-the-past-and-the-future/'
 category: 5c0feb96c180f0583030fba3
 slug: 'stringbuilder-the-past-and-the-future'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b28
-title: 'Free ebook: Introducing Microsoft System Center 2012 R2'
+title: "Free ebook: Introducing Microsoft System Center 2012 R2"
 url: 'http://blogs.msdn.com/b/microsoft_press/archive/2013/12/16/free-ebook-introducing-microsoft-system-center-2012-r2.aspx'
 category: 5a88e1aebd6dca0d5f0d2b28
 slug: 'free-ebook-introducing-microsoft-system-center-2012-r2'

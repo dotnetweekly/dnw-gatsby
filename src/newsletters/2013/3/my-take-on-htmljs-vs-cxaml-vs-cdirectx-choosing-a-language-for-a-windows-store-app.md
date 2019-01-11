@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2dec
-title: 'My Take on HTML/JS vs. C#/XAML vs. C++/DirectX (choosing a language for a Windows Store app)'
+title: "My Take on HTML/JS vs. C#/XAML vs. C++/DirectX (choosing a language for a Windows Store app)"
 url: 'http://kraigbrockschmidt.com/blog/?p=304'
 category: 5a88e1afbd6dca0d5f0d2dec
 slug: 'my-take-on-htmljs-vs-cxaml-vs-cdirectx-choosing-a-language-for-a-windows-store-app'

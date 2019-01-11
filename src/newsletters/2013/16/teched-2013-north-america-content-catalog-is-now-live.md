@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d0a
-title: 'TechEd 2013 North America Content Catalog Is Now Live!'
+title: "TechEd 2013 North America Content Catalog Is Now Live!"
 url: 'http://channel9.msdn.com/Events/TechEd/NorthAmerica/2013'
 category: 5a88e1afbd6dca0d5f0d2d0a
 slug: 'teched-2013-north-america-content-catalog-is-now-live'

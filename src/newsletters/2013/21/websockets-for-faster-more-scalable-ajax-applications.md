@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2cc6
-title: 'WebSockets for Faster, More Scalable Ajax Applications'
+title: "WebSockets for Faster, More Scalable Ajax Applications"
 url: 'http://visualstudiomagazine.com/articles/2011/10/13/websockets-for-ajax.aspx'
 category: 5a88e1afbd6dca0d5f0d2cc6
 slug: 'websockets-for-faster-more-scalable-ajax-applications'

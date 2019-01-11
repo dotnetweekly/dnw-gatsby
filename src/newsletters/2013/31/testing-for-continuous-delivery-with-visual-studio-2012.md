@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2c58
-title: 'Testing for Continuous Delivery with Visual Studio 2012'
+title: "Testing for Continuous Delivery with Visual Studio 2012"
 url: 'http://www.microsoft.com/en-us/download/details.aspx?id=35380'
 category: 5a88e1aebd6dca0d5f0d2c58
 slug: 'testing-for-continuous-delivery-with-visual-studio-2012'

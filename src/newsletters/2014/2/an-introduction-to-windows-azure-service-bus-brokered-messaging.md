@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b24
-title: 'An Introduction to Windows Azure Service Bus Brokered Messaging'
+title: "An Introduction to Windows Azure Service Bus Brokered Messaging"
 url: 'https://www.simple-talk.com/cloud/cloud-data/an-introduction-to-windows-azure-service-bus-brokered-messaging/'
 category: 5a88e1aebd6dca0d5f0d2b24
 slug: 'an-introduction-to-windows-azure-service-bus-brokered-messaging'

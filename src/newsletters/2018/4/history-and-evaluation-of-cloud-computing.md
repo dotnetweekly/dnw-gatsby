@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1ab6
-title: 'History and Evaluation of Cloud Computing'
+title: "History and Evaluation of Cloud Computing"
 url: 'http://techxposer.com/2018/01/25/history-evaluation-cloud-computing/'
 category: 5a88e1aabd6dca0d5f0d1ab6
 slug: 'history-and-evaluation-of-cloud-computing'

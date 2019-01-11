@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d307c
-title: 'Designing a Windows 8 Metro style app starting from an existing Windows Phone app – Design Case Study Part 1'
+title: "Designing a Windows 8 Metro style app starting from an existing Windows Phone app – Design Case Study Part 1"
 url: 'http://blogs.telerik.com/windowsphoneteam/posts/12-05-10/designing-a-windows-8-metro-style-app-starting-from-an-existing-windows-phone-app-design-case-study-part-1.aspx'
 category: 5a88e1afbd6dca0d5f0d307c
 slug: 'designing-a-windows-8-metro-style-app-starting-from-an-existing-windows-phone-app-design-case-study'

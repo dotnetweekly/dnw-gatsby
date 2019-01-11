@@ -1,6 +1,6 @@
 ---
 _id: 5b4fd7bb99973706c3c806a7
-title: 'Server Core and Server with Desktop: Which one is best for you'
+title: "Server Core and Server with Desktop: Which one is best for you"
 url: 'https://cloudblogs.microsoft.com/windowsserver/2018/07/05/server-core-and-server-with-desktop-which-one-is-best-for-you/'
 category: 5b4fd7bb99973706c3c806a7
 slug: 'server-core-and-server-with-desktop-which-one-is-best-for-you'

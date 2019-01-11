@@ -1,6 +1,6 @@
 ---
 _id: 5ad839c1724957005e0d29fb
-title: 'A .NET Glossary'
+title: "A .NET Glossary"
 url: 'https://dev.to/borrrden/a-net-glossary-57l4'
 category: 5ad839c1724957005e0d29fb
 slug: 'a-net-glossary'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2668
-title: 'Building Roslyn-Based Analyzers and Diagnostics'
+title: "Building Roslyn-Based Analyzers and Diagnostics"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/building-roslyn-based-analyzers-and-diagnostics'
 category: 5a88e1adbd6dca0d5f0d2668
 slug: 'building-roslyn-based-analyzers-and-diagnostics'

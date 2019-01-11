@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2daa
-title: 'WAVE cross-platform engine'
+title: "WAVE cross-platform engine"
 url: 'http://www.waveengine.net/'
 category: 5a88e1afbd6dca0d5f0d2daa
 slug: 'wave-cross-platform-engine'

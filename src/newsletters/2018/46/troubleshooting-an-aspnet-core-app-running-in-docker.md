@@ -1,6 +1,6 @@
 ---
 _id: 5bea98c2f035654e4e387dc5
-title: 'Troubleshooting an ASP.NET Core App Running in Docker'
+title: "Troubleshooting an ASP.NET Core App Running in Docker"
 url: 'https://www.telerik.com/blogs/troubleshooting-an-aspnet-core-app-running-in-docker'
 category: 5bea98c2f035654e4e387dc5
 slug: 'troubleshooting-an-aspnet-core-app-running-in-docker'

@@ -1,6 +1,6 @@
 ---
 _id: 5afde2b4416efa83e9328cdd
-title: 'Akkatecture'
+title: "Akkatecture"
 url: 'https://akkatecture.net/'
 category: 5afde2b4416efa83e9328cdd
 slug: 'akkatecture'

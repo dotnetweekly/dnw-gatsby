@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1c2e
-title: 'Complete Dependency Injection Tutorial'
+title: "Complete Dependency Injection Tutorial"
 url: 'http://techxposer.com/tag/ioc-tutorial/'
 category: 5a88e1aabd6dca0d5f0d1c2e
 slug: 'complete-ioc-tutorial'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2fc0
-title: ' Setting up a Maintenance Plan to Backup Databases'
+title: " Setting up a Maintenance Plan to Backup Databases"
 url: 'http://technet.microsoft.com/en-us/sqlserver/dd430301.aspx'
 category: 5a88e1afbd6dca0d5f0d2fc0
 slug: 'setting-up-a-maintenance-plan-to-backup-databases'

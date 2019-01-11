@@ -1,6 +1,6 @@
 ---
 _id: 5acc25d6b69aee002a1426a8
-title: 'Don’t Get Jealous Get Better'
+title: "Don’t Get Jealous Get Better"
 url: 'https://thebeebs.co.uk/dont-get-jealous-get-better/'
 category: 5acc25d6b69aee002a1426a8
 slug: 'dont-get-jealous-get-better'

@@ -1,6 +1,6 @@
 ---
 _id: 5bda8e8a1428e64d3c94dadd
-title: 'Rust can be difficult to learn and frustrating, but it’s also the most exciting thing in software development in a long time'
+title: "Rust can be difficult to learn and frustrating, but it’s also the most exciting thing in software development in a long time"
 url: 'https://www.influxdata.com/blog/rust-can-be-difficult-to-learn-and-frustrating-but-its-also-the-most-exciting-thing-in-software-development-in-a-long-time/'
 category: 5bda8e8a1428e64d3c94dadd
 slug: 'rust-can-be-difficult-to-learn-and-frustrating-but-its-also-the-most-exciting-thing-in-software-dev'

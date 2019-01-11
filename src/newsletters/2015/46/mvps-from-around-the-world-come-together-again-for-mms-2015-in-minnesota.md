@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2510
-title: 'MVPs from around the world come together again for MMS 2015 in Minnesota!'
+title: "MVPs from around the world come together again for MMS 2015 in Minnesota!"
 url: 'http://blogs.msdn.com/b/mvpawardprogram/archive/2015/11/16/mvps-from-around-the-world-come-together-again-for-mms-2015-in-minnesota.aspx'
 category: 5a88e1adbd6dca0d5f0d2510
 slug: 'mvps-from-around-the-world-come-together-again-for-mms-2015-in-minnesota'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d286e
-title: 'Microsoft Compiler Platform aka Roslyn'
+title: "Microsoft Compiler Platform aka Roslyn"
 url: 'http://blog.filipekberg.se/2014/10/31/microsoft-compiler-platform-aka-roslyn/'
 category: 5a88e1aebd6dca0d5f0d286e
 slug: 'microsoft-compiler-platform-aka-roslyn'

@@ -1,6 +1,6 @@
 ---
 _id: 5b730743fd7ac92f949e003a
-title: 'A new approach for cross-platform .NET GUI development, introducting Qml.Net.'
+title: "A new approach for cross-platform .NET GUI development, introducting Qml.Net."
 url: 'https://www.pknopf.com/post/2018-08-06-a-new-approach-for-cross-platform-net-gui-development-introducing-qml-net/'
 category: 5b730743fd7ac92f949e003a
 slug: 'a-new-approach-for-cross-platform-net-gui-development-introducting-qmlnet'

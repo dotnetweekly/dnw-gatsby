@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1f8c
-title: 'Visual Studio Live Unit Testing: New to Visual Studio 2017 | Cross Cutting Concerns'
+title: "Visual Studio Live Unit Testing: New to Visual Studio 2017 | Cross Cutting Concerns"
 url: 'http://crosscuttingconcerns.com/Visual-Studio-Live-Unit-Testing-New-to-Visual-Studio-2017'
 category: 5a88e1abbd6dca0d5f0d1f8c
 slug: 'visual-studio-live-unit-testing-new-to-visual-studio-2017-cross-cutting-concerns'

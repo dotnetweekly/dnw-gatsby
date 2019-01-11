@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d210e
-title: 'Microsoft SQL Database Development'
+title: "Microsoft SQL Database Development"
 url: 'https://www.edx.org/xseries/microsoft-sql-database-development'
 category: 5a88e1acbd6dca0d5f0d210e
 slug: 'microsoft-sql-database-development'

@@ -1,6 +1,6 @@
 ---
 _id: 5aefbfb17ecc5010e66cd129
-title: 'A zero-allocation .NET logging library'
+title: "A zero-allocation .NET logging library"
 url: 'https://github.com/Abc-Arbitrage/ZeroLog'
 category: 5aefbfb17ecc5010e66cd129
 slug: 'a-zero-allocation-net-logging-library'

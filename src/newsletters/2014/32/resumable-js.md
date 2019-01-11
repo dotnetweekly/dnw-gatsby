@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2944
-title: 'Resumable.js'
+title: "Resumable.js"
 url: 'http://www.resumablejs.com/'
 category: 5a88e1aebd6dca0d5f0d2944
 slug: 'resumable-js'

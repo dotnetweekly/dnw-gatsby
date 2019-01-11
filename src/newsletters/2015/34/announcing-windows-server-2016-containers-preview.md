@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d25e4
-title: 'Announcing Windows Server 2016 Containers Preview'
+title: "Announcing Windows Server 2016 Containers Preview"
 url: 'http://weblogs.asp.net/scottgu/announcing-windows-server-2016-containers-preview'
 category: 5a88e1adbd6dca0d5f0d25e4
 slug: 'announcing-windows-server-2016-containers-preview'

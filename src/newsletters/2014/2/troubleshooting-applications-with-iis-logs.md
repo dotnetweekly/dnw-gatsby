@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b18
-title: 'Troubleshooting Applications with IIS Logs'
+title: "Troubleshooting Applications with IIS Logs"
 url: 'http://msdn.microsoft.com/en-us/magazine/dn519926.aspx'
 category: 5a88e1aebd6dca0d5f0d2b18
 slug: 'troubleshooting-applications-with-iis-logs'

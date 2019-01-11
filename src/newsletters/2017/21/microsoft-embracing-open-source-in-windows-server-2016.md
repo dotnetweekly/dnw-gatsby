@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1e98
-title: 'Microsoft Embracing Open Source in Windows Server 2016'
+title: "Microsoft Embracing Open Source in Windows Server 2016"
 url: 'https://channel9.msdn.com/Shows/OEMTV/OEMTV1766'
 category: 5a88e1abbd6dca0d5f0d1e98
 slug: 'microsoft-embracing-open-source-in-windows-server-2016'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d22e8
-title: 'On the Road to Release: Redesigning Visual Studio Installation'
+title: "On the Road to Release: Redesigning Visual Studio Installation"
 url: 'https://blogs.msdn.microsoft.com/visualstudio/2016/06/17/redesigning-visual-studio-installation/'
 category: 5a88e1acbd6dca0d5f0d22e8
 slug: 'on-the-road-to-release-redesigning-visual-studio-installation'

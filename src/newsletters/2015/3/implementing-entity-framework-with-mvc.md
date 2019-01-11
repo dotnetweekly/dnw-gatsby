@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d27c6
-title: 'Implementing Entity Framework with MVC'
+title: "Implementing Entity Framework with MVC"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/implementing-entity-framework-with-mvc'
 category: 5a88e1adbd6dca0d5f0d27c6
 slug: 'implementing-entity-framework-with-mvc'

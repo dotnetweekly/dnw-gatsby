@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d249e
-title: 'Getting Started with Mean Stack'
+title: "Getting Started with Mean Stack"
 url: 'http://www.codeproject.com/Articles/1066546/Getting-Started-with-Mean-Stack'
 category: 5a88e1adbd6dca0d5f0d249e
 slug: 'getting-started-with-mean-stack'

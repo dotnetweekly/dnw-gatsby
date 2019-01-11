@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2234
-title: 'Microsoft Technology Centers'
+title: "Microsoft Technology Centers"
 url: 'https://www.microsoftevents.com/profile/web/index.cfm'
 category: 5a88e1acbd6dca0d5f0d2234
 slug: 'microsoft-technology-centers'

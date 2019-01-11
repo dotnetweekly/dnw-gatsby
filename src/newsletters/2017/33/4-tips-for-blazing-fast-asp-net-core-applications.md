@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1d4e
-title: '4 Tips For Blazing Fast ASP.NET Core Applications'
+title: "4 Tips For Blazing Fast ASP.NET Core Applications"
 url: 'https://dustinewers.com/4-tips-for-blazing-fast-asp-net-core-applications/'
 category: 5a88e1abbd6dca0d5f0d1d4e
 slug: '4-tips-for-blazing-fast-asp-net-core-applications'

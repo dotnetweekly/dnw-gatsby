@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2502
-title: 'Announcing Visual Studio Code Beta'
+title: "Announcing Visual Studio Code Beta"
 url: 'http://blogs.msdn.com/b/vscode/archive/2015/11/17/announcing-visual-studio-code-beta.aspx'
 category: 5a88e1adbd6dca0d5f0d2502
 slug: 'announcing-visual-studio-code-beta'

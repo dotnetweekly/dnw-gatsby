@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d28ba
-title: 'Building Apps with node.js Jump Start'
+title: "Building Apps with node.js Jump Start"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/building-apps-with-node-js-jump-start'
 category: 5a88e1aebd6dca0d5f0d28ba
 slug: 'building-apps-with-node-js-jump-start'

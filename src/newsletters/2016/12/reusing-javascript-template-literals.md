@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d23d4
-title: 'Reusing JavaScript Template Literals'
+title: "Reusing JavaScript Template Literals"
 url: 'http://odetocode.com/blogs/scott/archive/2016/03/21/reusing-javascript-template-literals.aspx'
 category: 5a88e1acbd6dca0d5f0d23d4
 slug: 'reusing-javascript-template-literals'

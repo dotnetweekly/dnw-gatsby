@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2db8
-title: 'Walkthrough: Publishing an F#/C# MVC Application to Windows Azure'
+title: "Walkthrough: Publishing an F#/C# MVC Application to Windows Azure"
 url: 'http://msdn.microsoft.com/en-us/library/jj865569.aspx'
 category: 5a88e1afbd6dca0d5f0d2db8
 slug: 'walkthrough-publishing-an-fc-mvc-application-to-windows-azure'

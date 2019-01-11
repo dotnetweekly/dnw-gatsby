@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b54
-title: 'Demystifying Modern Social APIs Part 1: Social Sign-In'
+title: "Demystifying Modern Social APIs Part 1: Social Sign-In"
 url: 'http://msdn.microsoft.com/en-us/magazine/dn175490.aspx'
 category: 5a88e1aebd6dca0d5f0d2b54
 slug: 'demystifying-modern-social-apis-part-1-social-sign-in'

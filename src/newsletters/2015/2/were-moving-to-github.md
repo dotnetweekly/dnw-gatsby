@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d27de
-title: 'We"re moving to GitHub!'
+title: "We're moving to GitHub!"
 url: 'http://blogs.msdn.com/b/csharpfaq/archive/2015/01/10/moving-to-github.aspx'
 category: 5a88e1adbd6dca0d5f0d27de
 slug: 'were-moving-to-github'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d276a
-title: 'Introducing the UI debugging tools for XAML'
+title: "Introducing the UI debugging tools for XAML"
 url: 'http://blogs.msdn.com/b/visualstudio/archive/2015/02/24/introducing-the-ui-debugging-tools-for-xaml.aspx'
 category: 5a88e1adbd6dca0d5f0d276a
 slug: 'introducing-the-ui-debugging-tools-for-xaml'

@@ -1,6 +1,6 @@
 ---
 _id: 5b0469674c83f96558470261
-title: 'Microsoft’s Approach to AI'
+title: "Microsoft’s Approach to AI"
 url: 'https://blogs.msdn.microsoft.com/stevengu/2018/05/18/microsofts-approach-to-ai/'
 category: 5b0469674c83f96558470261
 slug: 'microsofts-approach-to-ai'

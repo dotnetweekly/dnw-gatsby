@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d209c
-title: 'Intermediate ASP.NET Core 1.0'
+title: "Intermediate ASP.NET Core 1.0"
 url: 'https://mva.microsoft.com/en-US/training-courses/intermediate-aspnet-core-10-16964?l=Kvl35KmJD_4306218965'
 category: 5a88e1acbd6dca0d5f0d209c
 slug: 'intermediate-asp-net-core-1-0'

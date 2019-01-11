@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a64
-title: 'Video Available: Developing High Performance Websites and Modern Apps with JavaScript and HTML5'
+title: "Video Available: Developing High Performance Websites and Modern Apps with JavaScript and HTML5"
 url: 'http://blogs.msdn.com/b/dorischen/archive/2014/03/27/video-available-developing-high-performance-websites-and-modern-apps-with-javascript-and-html5.aspx'
 category: 5a88e1aebd6dca0d5f0d2a64
 slug: 'video-available-developing-high-performance-websites-and-modern-apps-with-javascript-and-html5'

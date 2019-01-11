@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d29ae
-title: 'Resolving Dependencies in ASP.NET MVC 5 with StructureMap'
+title: "Resolving Dependencies in ASP.NET MVC 5 with StructureMap"
 url: 'http://ardalis.com/resolving-dependencies-in-asp.net-mvc-5-with-structuremap'
 category: 5a88e1aebd6dca0d5f0d29ae
 slug: 'resolving-dependencies-in-asp-net-mvc-5-with-structuremap'

@@ -1,6 +1,6 @@
 ---
 _id: 5ad5111eac55b0004e057ac2
-title: 'Validating fields of NHibernate model'
+title: "Validating fields of NHibernate model"
 url: 'https://cezarypiatek.github.io/post/validate-fields-in-nhibernate-model/'
 category: 5ad5111eac55b0004e057ac2
 slug: 'validating-fields-of-nhibernate-model'

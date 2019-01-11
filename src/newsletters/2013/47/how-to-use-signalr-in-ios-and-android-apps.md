@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b7a
-title: 'How To Use SignalR in iOS and Android Apps'
+title: "How To Use SignalR in iOS and Android Apps"
 url: 'http://visualstudiomagazine.com/articles/2013/11/01/how-to-use-signalr-in-ios-and-android-apps.aspx'
 category: 5a88e1aebd6dca0d5f0d2b7a
 slug: 'how-to-use-signalr-in-ios-and-android-apps'

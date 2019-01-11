@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d29e8
-title: 'Stream Hundreds of Sessions from TechEd North America 2014 '
+title: "Stream Hundreds of Sessions from TechEd North America 2014 "
 url: 'http://channel9.msdn.com/Events/TechEd/NorthAmerica/2014'
 category: 5a88e1aebd6dca0d5f0d29e8
 slug: 'stream-hundreds-of-sessions-from-teched-north-america-2014'

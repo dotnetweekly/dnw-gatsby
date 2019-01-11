@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d25da
-title: 'FAKE It Till You Make It'
+title: "FAKE It Till You Make It"
 url: 'https://lostechies.com/chrismissal/2015/08/18/fake-it-till-you-make-it/'
 category: 5a88e1adbd6dca0d5f0d25da
 slug: 'fake-it-till-you-make-it'

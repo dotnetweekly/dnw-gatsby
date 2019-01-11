@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2556
-title: 'Diagnostic Analyzers in Visual Studio 2015'
+title: "Diagnostic Analyzers in Visual Studio 2015"
 url: 'http://www.dotnetcurry.com/visualstudio/1197/diagnostic-analyzers-visual-studio-2015'
 category: 5a88e1adbd6dca0d5f0d2556
 slug: 'diagnostic-analyzers-in-visual-studio-2015'

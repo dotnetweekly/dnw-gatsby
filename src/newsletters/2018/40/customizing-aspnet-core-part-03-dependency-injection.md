@@ -1,6 +1,6 @@
 ---
 _id: 5bb26460af8d5ecde3ca6244
-title: 'Customizing ASP.​NET Core Part 03: Dependency Injection'
+title: "Customizing ASP.​NET Core Part 03: Dependency Injection"
 url: 'https://asp.net-hacker.rocks/2018/09/27/customizing-aspnetcore-03-dependency-injection.html'
 category: 5bb26460af8d5ecde3ca6244
 slug: 'customizing-aspnet-core-part-03-dependency-injection'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2dca
-title: 'Resources for iOS developers'
+title: "Resources for iOS developers"
 url: 'http://msdn.microsoft.com/en-us/library/windows/apps/jj680134'
 category: 5a88e1afbd6dca0d5f0d2dca
 slug: 'resources-for-ios-developers'

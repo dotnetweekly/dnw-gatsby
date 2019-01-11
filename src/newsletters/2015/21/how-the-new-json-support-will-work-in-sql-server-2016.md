@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d26a0
-title: 'How the New JSON Support Will Work in SQL Server 2016'
+title: "How the New JSON Support Will Work in SQL Server 2016"
 url: 'https://visualstudiomagazine.com/blogs/data-driver/2015/05/sql-server-json-support.aspx'
 category: 5a88e1adbd6dca0d5f0d26a0
 slug: 'how-the-new-json-support-will-work-in-sql-server-2016'

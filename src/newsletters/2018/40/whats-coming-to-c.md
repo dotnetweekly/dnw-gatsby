@@ -1,6 +1,6 @@
 ---
 _id: 5bb5a37315695bdefff150c2
-title: 'What"s Coming to C#?'
+title: "What's Coming to C#?"
 url: 'https://www.youtube.com/watch?v=M0hdrybOKJg'
 category: 5bb5a37315695bdefff150c2
 slug: 'whats-coming-to-c'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1d4a
-title: 'Scaling Azure Functions with Durable Functions'
+title: "Scaling Azure Functions with Durable Functions"
 url: 'https://buildazure.com/2017/08/15/scaling-azure-functions-with-durable-functions/'
 category: 5a88e1abbd6dca0d5f0d1d4a
 slug: 'scaling-azure-functions-with-durable-functions'

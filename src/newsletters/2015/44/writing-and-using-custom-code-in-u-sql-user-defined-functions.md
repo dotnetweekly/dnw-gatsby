@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d253a
-title: 'Writing and Using Custom Code in U-SQL – User-Defined Functions'
+title: "Writing and Using Custom Code in U-SQL – User-Defined Functions"
 url: 'http://blogs.msdn.com/b/visualstudio/archive/2015/10/28/writing-and-using-custom-code-in-u-sql-user-defined-functions.aspx'
 category: 5a88e1adbd6dca0d5f0d253a
 slug: 'writing-and-using-custom-code-in-u-sql-user-defined-functions'

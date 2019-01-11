@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1f06
-title: 'Azure Functions'
+title: "Azure Functions"
 url: 'https://pusher.com/sessions/meetup/dot-net-north/azure-functions'
 category: 5a88e1abbd6dca0d5f0d1f06
 slug: 'azure-functions'

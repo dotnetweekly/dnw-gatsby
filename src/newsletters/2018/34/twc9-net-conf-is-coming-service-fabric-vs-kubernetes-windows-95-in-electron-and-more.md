@@ -1,6 +1,6 @@
 ---
 _id: 5b81ca5ce7b8b99fab1cb278
-title: 'TWC9: .NET Conf is Coming, Service Fabric vs Kubernetes, Windows 95 in Electron and more'
+title: "TWC9: .NET Conf is Coming, Service Fabric vs Kubernetes, Windows 95 in Electron and more"
 url: 'https://channel9.msdn.com/Shows/This+Week+On+Channel+9/TWC9-NET-Conf-is-Coming-Service-Fabric-vs-Kubernetes-Windows-95-in-Electron-and-more'
 category: 5b81ca5ce7b8b99fab1cb278
 slug: 'twc9-net-conf-is-coming-service-fabric-vs-kubernetes-windows-95-in-electron-and-more'

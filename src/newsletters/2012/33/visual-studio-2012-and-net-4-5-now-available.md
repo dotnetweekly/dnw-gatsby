@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2f48
-title: 'Visual Studio 2012 and .NET 4.5 now available!'
+title: "Visual Studio 2012 and .NET 4.5 now available!"
 url: 'http://blogs.msdn.com/b/somasegar/archive/2012/08/15/visual-studio-2012-and-net-4-5-now-available.aspx'
 category: 5a88e1afbd6dca0d5f0d2f48
 slug: 'visual-studio-2012-and-net-4-5-now-available'

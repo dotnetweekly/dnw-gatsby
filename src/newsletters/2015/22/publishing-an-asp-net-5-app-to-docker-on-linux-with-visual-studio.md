@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2698
-title: 'Publishing an ASP.NET 5 app to Docker on Linux with Visual Studio'
+title: "Publishing an ASP.NET 5 app to Docker on Linux with Visual Studio"
 url: 'http://www.hanselman.com/blog/PublishingAnASPNET5AppToDockerOnLinuxWithVisualStudio.aspx'
 category: 5a88e1adbd6dca0d5f0d2698
 slug: 'publishing-an-asp-net-5-app-to-docker-on-linux-with-visual-studio'

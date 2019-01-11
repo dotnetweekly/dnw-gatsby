@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d24c6
-title: 'New C# REPL and scripting capabilities'
+title: "New C# REPL and scripting capabilities"
 url: 'http://bretstateham.com/new-c-repl-and-scripting-capabilities/'
 category: 5a88e1adbd6dca0d5f0d24c6
 slug: 'new-c-repl-and-scripting-capabilities'

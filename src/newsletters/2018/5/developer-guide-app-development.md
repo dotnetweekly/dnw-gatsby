@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1a94
-title: 'Developer Guide—App Development'
+title: "Developer Guide—App Development"
 url: 'https://azure.microsoft.com/en-us/campaigns/developer-guide/?wt.mc_id=AID642788_EML_5404731'
 category: 5a88e1aabd6dca0d5f0d1a94
 slug: 'developer-guide-app-development'

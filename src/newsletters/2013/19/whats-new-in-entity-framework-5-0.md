@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2cd6
-title: 'What’s New in Entity Framework 5.0?'
+title: "What’s New in Entity Framework 5.0?"
 url: 'http://www.developingthefuture.net/whats-new-in-entity-framework-5-0/'
 category: 5a88e1afbd6dca0d5f0d2cd6
 slug: 'whats-new-in-entity-framework-5-0'

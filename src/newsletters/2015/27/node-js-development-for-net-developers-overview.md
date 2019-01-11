@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d263c
-title: 'Node.js Development for .NET Developers: Overview'
+title: "Node.js Development for .NET Developers: Overview"
 url: 'http://www.andrewconnell.com/blog/node-js-development-for-net-developers-overview'
 category: 5a88e1adbd6dca0d5f0d263c
 slug: 'node-js-development-for-net-developers-overview'

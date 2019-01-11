@@ -1,6 +1,6 @@
 ---
 _id: 5bc849081ff6e737ef87fb23
-title: 'Faster Frontends in ASP.NET Core'
+title: "Faster Frontends in ASP.NET Core"
 url: 'https://www.telerik.com/blogs/faster-frontends-in-asp-net-core'
 category: 5bc849081ff6e737ef87fb23
 slug: 'faster-frontends-in-aspnet-core'

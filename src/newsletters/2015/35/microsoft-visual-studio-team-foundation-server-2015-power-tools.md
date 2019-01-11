@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d25d0
-title: 'Microsoft Visual Studio Team Foundation Server 2015 Power Tools'
+title: "Microsoft Visual Studio Team Foundation Server 2015 Power Tools"
 url: 'https://visualstudiogallery.msdn.microsoft.com/898a828a-af00-42c6-bbb2-530dc7b8f2e1'
 category: 5a88e1adbd6dca0d5f0d25d0
 slug: 'microsoft-visual-studio-team-foundation-server-2015-power-tools'

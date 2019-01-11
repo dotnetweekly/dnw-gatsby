@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1fbc
-title: 'Building applications with Azure and Azure Stack'
+title: "Building applications with Azure and Azure Stack"
 url: 'https://blogs.technet.microsoft.com/hybridcloud/2017/03/02/building-applications-with-azure-and-azure-stack/'
 category: 5a88e1abbd6dca0d5f0d1fbc
 slug: 'building-applications-with-azure-and-azure-stack'

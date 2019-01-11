@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d80
-title: 'EF6 Alpha 3 Available on NuGet'
+title: "EF6 Alpha 3 Available on NuGet"
 url: 'http://blogs.msdn.com/b/adonet/archive/2013/02/27/ef6-alpha-3-available-on-nuget.aspx'
 category: 5a88e1afbd6dca0d5f0d2d80
 slug: 'ef6-alpha-3-available-on-nuget'

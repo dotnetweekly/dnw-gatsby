@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d238e
-title: 'Interactive Analytics for Application Insights'
+title: "Interactive Analytics for Application Insights"
 url: 'http://dailydotnettips.com/2016/04/18/interactive-analytics-for-application-insights/'
 category: 5a88e1acbd6dca0d5f0d238e
 slug: 'interactive-analytics-for-application-insights'

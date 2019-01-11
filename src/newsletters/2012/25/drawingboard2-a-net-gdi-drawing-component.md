@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2ff4
-title: 'DrawingBoard2 - A .Net GDI+ drawing component'
+title: "DrawingBoard2 - A .Net GDI+ drawing component"
 url: 'http://channel9.msdn.com/coding4fun/blog/DrawingBoard2-A-Net-GDI-drawing-component'
 category: 5a88e1afbd6dca0d5f0d2ff4
 slug: 'drawingboard2-a-net-gdi-drawing-component'

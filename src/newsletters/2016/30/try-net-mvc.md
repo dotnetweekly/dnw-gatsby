@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2292
-title: 'Try .NET MVC'
+title: "Try .NET MVC"
 url: 'https://www.codeschool.com/courses/try-net-mvc/'
 category: 5a88e1acbd6dca0d5f0d2292
 slug: 'try-net-mvc'

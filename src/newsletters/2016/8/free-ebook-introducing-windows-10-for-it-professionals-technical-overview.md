@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d241e
-title: 'Free ebook: Introducing Windows 10 for IT Professionals, Technical Overview'
+title: "Free ebook: Introducing Windows 10 for IT Professionals, Technical Overview"
 url: 'http://blogs.msdn.com/b/microsoft_press/archive/2016/02/08/free-ebook-introducing-windows-10-for-it-professionals-technical-overview.aspx?MC=Windows&MC=CloudDev&MC=MSAzure&MC=DataMgmt&MC=DevOps'
 category: 5a88e1acbd6dca0d5f0d241e
 slug: 'free-ebook-introducing-windows-10-for-it-professionals-technical-overview'

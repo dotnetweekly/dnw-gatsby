@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d25fc
-title: 'Simplifying Single-Page Applications with ASP.NET MVC Partial Views'
+title: "Simplifying Single-Page Applications with ASP.NET MVC Partial Views"
 url: 'https://visualstudiomagazine.com/articles/2015/07/01/simplifying-single-page-applications.aspx'
 category: 5a88e1adbd6dca0d5f0d25fc
 slug: 'simplifying-single-page-applications-with-asp-net-mvc-partial-views'

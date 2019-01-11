@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2522
-title: 'Glimpse Part 1 - Easy Debugging ASP.NET MVC Application'
+title: "Glimpse Part 1 - Easy Debugging ASP.NET MVC Application"
 url: 'http://www.codeproject.com/Tips/1045511/Glimpse-Part-Easy-Debugging-ASP-Net-MVC-Applicat'
 category: 5a88e1adbd6dca0d5f0d2522
 slug: 'glimpse-part-1-easy-debugging-asp-net-mvc-application'

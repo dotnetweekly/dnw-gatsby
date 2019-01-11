@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1f56
-title: 'Glimpse v2 Beta1 Released!'
+title: "Glimpse v2 Beta1 Released!"
 url: 'http://blog.getglimpse.com/2015/11/18/glimpse-v2-beta1-released/'
 category: 5a88e1abbd6dca0d5f0d1f56
 slug: 'glimpse-v2-beta1-released'

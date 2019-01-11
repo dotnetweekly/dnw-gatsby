@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1b14
-title: 'The missing Azure Functions documentation – IndexOutOfRange'
+title: "The missing Azure Functions documentation – IndexOutOfRange"
 url: 'https://indexoutofrange.com/The-missing-Azure-Functions-documentation/'
 category: 5a88e1aabd6dca0d5f0d1b14
 slug: 'the-missing-azure-functions-documentation-indexoutofrange'

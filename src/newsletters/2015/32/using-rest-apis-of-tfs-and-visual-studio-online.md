@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d25f6
-title: 'Using REST APIs of TFS and Visual Studio Online'
+title: "Using REST APIs of TFS and Visual Studio Online"
 url: 'http://www.dotnetcurry.com/visualstudio/1162/using-rest-api-tfs-visual-studio-online'
 category: 5a88e1adbd6dca0d5f0d25f6
 slug: 'using-rest-apis-of-tfs-and-visual-studio-online'

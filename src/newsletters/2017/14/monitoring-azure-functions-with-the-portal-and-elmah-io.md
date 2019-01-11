@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1f54
-title: 'Monitoring Azure Functions with the Portal and elmah.io'
+title: "Monitoring Azure Functions with the Portal and elmah.io"
 url: 'https://blog.elmah.io/monitoring-azure-functions-with-the-portal-and-elmah-io/'
 category: 5a88e1abbd6dca0d5f0d1f54
 slug: 'monitoring-azure-functions-with-the-portal-and-elmah-io'

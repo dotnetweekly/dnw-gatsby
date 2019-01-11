@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d248e
-title: 'Calling VSTS APIs with C#'
+title: "Calling VSTS APIs with C#"
 url: 'http://blog.devmatter.com/calling-vsts-apis-with-c/'
 category: 5a88e1adbd6dca0d5f0d248e
 slug: 'calling-vsts-apis-with-c'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d278e
-title: 'New ways to quickly create a Code Map'
+title: "New ways to quickly create a Code Map"
 url: 'http://blogs.msdn.com/b/visualstudioalm/archive/2015/02/12/new-ways-to-quickly-create-a-code-map.aspx'
 category: 5a88e1adbd6dca0d5f0d278e
 slug: 'new-ways-to-quickly-create-a-code-map'

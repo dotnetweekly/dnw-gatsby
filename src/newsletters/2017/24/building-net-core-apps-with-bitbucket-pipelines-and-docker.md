@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1e3a
-title: 'Building .NET Core apps with BitBucket Pipelines and Docker'
+title: "Building .NET Core apps with BitBucket Pipelines and Docker"
 url: 'http://piotrgankiewicz.com/2017/06/19/building-net-core-apps-with-bitbucket-pipelines-and-docker/'
 category: 5a88e1abbd6dca0d5f0d1e3a
 slug: 'building-net-core-apps-with-bitbucket-pipelines-and-docker'

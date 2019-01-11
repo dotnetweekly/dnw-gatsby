@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2cb0
-title: 'Simple Validation with MVVM for Windows Store apps'
+title: "Simple Validation with MVVM for Windows Store apps"
 url: 'http://csharperimage.jeremylikness.com/2013/06/simple-validation-with-mvvm-for-windows.html'
 category: 5a88e1afbd6dca0d5f0d2cb0
 slug: 'simple-validation-with-mvvm-for-windows-store-apps'

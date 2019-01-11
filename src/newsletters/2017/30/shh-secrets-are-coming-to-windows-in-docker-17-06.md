@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1da0
-title: 'Shh... Secrets are Coming to Windows in Docker 17.06'
+title: "Shh... Secrets are Coming to Windows in Docker 17.06"
 url: 'https://blog.sixeyed.com/shh-secrets-are-coming-to-windows-in-docker-17-06/'
 category: 5a88e1abbd6dca0d5f0d1da0
 slug: 'shh-secrets-are-coming-to-windows-in-docker-17-06'

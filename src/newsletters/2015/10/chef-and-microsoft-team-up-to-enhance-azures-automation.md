@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d275a
-title: 'Chef and Microsoft team up to enhance Azure’s automation'
+title: "Chef and Microsoft team up to enhance Azure’s automation"
 url: 'http://www.geekwire.com/2015/chef-and-microsoft-team-up-to-enhance-azures-automation/'
 category: 5a88e1adbd6dca0d5f0d275a
 slug: 'chef-and-microsoft-team-up-to-enhance-azures-automation'

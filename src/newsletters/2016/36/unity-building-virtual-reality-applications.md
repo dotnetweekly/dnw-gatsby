@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2230
-title: 'Unity - Building Virtual Reality Applications'
+title: "Unity - Building Virtual Reality Applications"
 url: 'https://msdn.microsoft.com/magazine/mt763231'
 category: 5a88e1acbd6dca0d5f0d2230
 slug: 'unity-building-virtual-reality-applications'

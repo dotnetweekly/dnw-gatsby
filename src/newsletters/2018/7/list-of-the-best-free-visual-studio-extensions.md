@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1a46
-title: 'List of the Best Free Visual Studio Extensions'
+title: "List of the Best Free Visual Studio Extensions"
 url: 'https://blog.elmah.io/list-of-the-best-free-visual-studio-extensions/'
 category: 5a88e1aabd6dca0d5f0d1a46
 slug: 'list-of-the-best-free-visual-studio-extensions'

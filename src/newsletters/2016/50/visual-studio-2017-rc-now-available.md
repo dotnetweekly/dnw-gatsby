@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2110
-title: 'Visual Studio 2017 RC Now Available'
+title: "Visual Studio 2017 RC Now Available"
 url: 'https://blogs.msdn.microsoft.com/vcblog/2016/11/16/visual-studio-2017-rc-now-available/'
 category: 5a88e1acbd6dca0d5f0d2110
 slug: 'visual-studio-2017-rc-now-available'

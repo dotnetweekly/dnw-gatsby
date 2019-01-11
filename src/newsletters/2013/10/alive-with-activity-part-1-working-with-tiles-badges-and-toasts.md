@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d7e
-title: 'Alive with activity, Part 1: Working with tiles, badges, and toasts'
+title: "Alive with activity, Part 1: Working with tiles, badges, and toasts"
 url: 'http://blogs.msdn.com/b/windowsappdev/archive/2013/02/21/alive-with-activity-part-1-working-with-tiles-badges-and-toasts.aspx'
 category: 5a88e1afbd6dca0d5f0d2d7e
 slug: 'alive-with-activity-part-1-working-with-tiles-badges-and-toasts'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2406
-title: 'State of Open Source in .NET'
+title: "State of Open Source in .NET"
 url: 'http://www.infoq.com/news/2016/02/dotnet-open-source'
 category: 5a88e1acbd6dca0d5f0d2406
 slug: 'state-of-open-source-in-net'

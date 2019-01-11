@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2364
-title: 'Stress less and code more with development and test environments in the cloud'
+title: "Stress less and code more with development and test environments in the cloud"
 url: 'https://info.microsoft.com/stress-less-and-code-more.html'
 category: 5a88e1acbd6dca0d5f0d2364
 slug: 'stress-less-and-code-more-with-development-and-test-environments-in-the-cloud'

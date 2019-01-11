@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1b6c
-title: '"The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅'
+title: "'The mother of all demo apps' — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅"
 url: 'https://github.com/gothinkster/realworld'
 category: 5a88e1aabd6dca0d5f0d1b6c
 slug: 'the-mother-of-all-demo-apps-exemplary-fullstack-medium-com-clone-powered-by-react-angular-node-djan'

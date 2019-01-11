@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2c52
-title: 'What"s new in Visual Studio 2013 for native development '
+title: "What's new in Visual Studio 2013 for native development "
 url: 'http://www.codeproject.com/Articles/632831/Whats-new-in-Visual-Studio-2013-for-native-develop'
 category: 5a88e1aebd6dca0d5f0d2c52
 slug: 'whats-new-in-visual-studio-2013-for-native-development'

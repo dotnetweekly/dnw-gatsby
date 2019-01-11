@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d44
-title: 'Managing Windows 7 and Windows 8 Side-by-Side'
+title: "Managing Windows 7 and Windows 8 Side-by-Side"
 url: 'https://www.microsoft.com/en-us/download/details.aspx?id=37144&WT.mc_id=rss_alldownloads_all'
 category: 5a88e1afbd6dca0d5f0d2d44
 slug: 'managing-windows-7-and-windows-8-side-by-side'

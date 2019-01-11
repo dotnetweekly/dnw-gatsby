@@ -1,6 +1,6 @@
 ---
 _id: 5b805a21e7b8b9fbd11cb274
-title: 'Exposing Cosmos DB change feed from ASP.NET Core'
+title: "Exposing Cosmos DB change feed from ASP.NET Core"
 url: 'https://www.tpeczek.com/2018/08/exposing-cosmos-db-change-feed-from.html'
 category: 5b805a21e7b8b9fbd11cb274
 slug: 'exposing-cosmos-db-change-feed-from-aspnet-core'

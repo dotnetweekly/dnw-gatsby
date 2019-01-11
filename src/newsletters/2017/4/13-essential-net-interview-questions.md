@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2078
-title: '13 Essential .NET Interview Questions'
+title: "13 Essential .NET Interview Questions"
 url: 'https://www.toptal.com/dot-net/interview-questions'
 category: 5a88e1acbd6dca0d5f0d2078
 slug: '13-essential-net-interview-questions'

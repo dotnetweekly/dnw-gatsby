@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d3040
-title: 'Accessing the Accelerometer in a Windows 8 Metro Style App using HTML and JavaScript'
+title: "Accessing the Accelerometer in a Windows 8 Metro Style App using HTML and JavaScript"
 url: 'http://blogs.msdn.com/b/davedev/archive/2012/04/23/accessing-the-accelerometer-in-a-windows-8-metro-style-app-using-html-and-javascript.aspx'
 category: 5a88e1afbd6dca0d5f0d3040
 slug: 'accessing-the-accelerometer-in-a-windows-8-metro-style-app-using-html-and-javascript'

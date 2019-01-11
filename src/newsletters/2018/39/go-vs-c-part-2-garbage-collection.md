@@ -1,6 +1,6 @@
 ---
 _id: 5ba8c54b7a4fc4b406daaba6
-title: 'Go vs C#, part 2: Garbage Collection'
+title: "Go vs C#, part 2: Garbage Collection"
 url: 'https://medium.com/servicetitan-engineering/go-vs-c-part-2-garbage-collection-9384677f86f1'
 category: 5ba8c54b7a4fc4b406daaba6
 slug: 'go-vs-c-part-2-garbage-collection'

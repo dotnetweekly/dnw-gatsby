@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d294c
-title: 'Visual Studio 2013 Update 3 now available'
+title: "Visual Studio 2013 Update 3 now available"
 url: 'http://blogs.msdn.com/b/visualstudioalm/archive/2014/08/04/visual-studio-2013-update-3-now-available.aspx'
 category: 5a88e1aebd6dca0d5f0d294c
 slug: 'visual-studio-2013-update-3-now-available'

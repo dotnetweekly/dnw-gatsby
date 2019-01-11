@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d84
-title: 'YetiBowl. One Yeti, three platforms...'
+title: "YetiBowl. One Yeti, three platforms..."
 url: 'http://channel9.msdn.com/coding4fun/blog/YetiBowl-One-Yeti-three-platforms'
 category: 5a88e1afbd6dca0d5f0d2d84
 slug: 'yetibowl-one-yeti-three-platforms'

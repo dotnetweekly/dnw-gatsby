@@ -1,6 +1,6 @@
 ---
 _id: 5be5371d27cd23bea15935f8
-title: 'VueJS Cheat Sheet Part 1'
+title: "VueJS Cheat Sheet Part 1"
 url: 'https://medium.com/zero-to-code/vuejs-cheat-sheet-part-1-b30f772ed72'
 category: 5be5371d27cd23bea15935f8
 slug: 'vuejs-cheat-sheet-part-1'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1f8a
-title: '.NET Standard - Simplifying Cross Platform Development | DotNetCurry'
+title: ".NET Standard - Simplifying Cross Platform Development | DotNetCurry"
 url: 'http://www.dotnetcurry.com/dotnet/1317/dotnet-standard-cross-platform-development'
 category: 5a88e1abbd6dca0d5f0d1f8a
 slug: 'net-standard-simplifying-cross-platform-development-dotnetcurry'

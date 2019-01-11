@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d9e
-title: 'Now Available: Office Developer Tools for Visual Studio 2012'
+title: "Now Available: Office Developer Tools for Visual Studio 2012"
 url: 'http://blogs.msdn.com/b/somasegar/archive/2013/03/04/now-available-office-developer-tools-for-visual-studio-2012.aspx'
 category: 5a88e1afbd6dca0d5f0d2d9e
 slug: 'now-available-office-developer-tools-for-visual-studio-2012'

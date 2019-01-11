@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b36
-title: 'Decorate your tree with XAML'
+title: "Decorate your tree with XAML"
 url: 'http://blog.jerrynixon.com/2013/12/decorate-your-tree-with-xaml-let-me.html#more'
 category: 5a88e1aebd6dca0d5f0d2b36
 slug: 'decorate-your-tree-with-xaml'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2914
-title: 'Bing Developer Assistant for Visual Studio'
+title: "Bing Developer Assistant for Visual Studio"
 url: 'http://blog.devmatter.com/bing-developer-assistant-for-visual-studio/'
 category: 5a88e1aebd6dca0d5f0d2914
 slug: 'bing-developer-assistant-for-visual-studio'

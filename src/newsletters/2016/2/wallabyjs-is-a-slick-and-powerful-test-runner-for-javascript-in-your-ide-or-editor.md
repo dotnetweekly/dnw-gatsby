@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d247e
-title: 'WallabyJS is a slick and powerful test runner for JavaScript in your IDE or Editor'
+title: "WallabyJS is a slick and powerful test runner for JavaScript in your IDE or Editor"
 url: 'http://www.hanselman.com/blog/WallabyJSIsASlickAndPowerfulTestRunnerForJavaScriptInYourIDEOrEditor.aspx'
 category: 5a88e1adbd6dca0d5f0d247e
 slug: 'wallabyjs-is-a-slick-and-powerful-test-runner-for-javascript-in-your-ide-or-editor'

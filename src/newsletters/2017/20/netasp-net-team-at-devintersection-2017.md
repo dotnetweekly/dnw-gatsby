@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1ece
-title: '.NET/ASP.NET team at DEVintersection 2017'
+title: ".NET/ASP.NET team at DEVintersection 2017"
 url: 'https://devintersection.com/#!/Visual-Studio-ASP-Azure-Conference/'
 category: 5a88e1abbd6dca0d5f0d1ece
 slug: 'netasp-net-team-at-devintersection-2017'

@@ -1,6 +1,6 @@
 ---
 _id: 5c35d5e75e8f0d198b8d0c40
-title: 'ASP.NET Core middleware and authorization'
+title: "ASP.NET Core middleware and authorization"
 url: 'https://www.tpeczek.com/2019/01/aspnet-core-middleware-and-authorization.html'
 category: 5c35d5e75e8f0d198b8d0c40
 slug: 'aspnet-core-middleware-and-authorization'

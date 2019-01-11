@@ -1,6 +1,6 @@
 ---
 _id: 5bda8ceb1428e6996e94dada
-title: 'A first look at changes coming in ASP.NET Core 3.0'
+title: "A first look at changes coming in ASP.NET Core 3.0"
 url: 'https://blogs.msdn.microsoft.com/webdev/2018/10/29/a-first-look-at-changes-coming-in-asp-net-core-3-0/'
 category: 5bda8ceb1428e6996e94dada
 slug: 'a-first-look-at-changes-coming-in-aspnet-core-30'

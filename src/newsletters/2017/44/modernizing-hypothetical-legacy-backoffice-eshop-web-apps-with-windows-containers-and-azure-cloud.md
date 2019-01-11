@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1c16
-title: 'Modernizing hypothetical legacy backoffice eShop web apps with Windows Containers and Azure Cloud'
+title: "Modernizing hypothetical legacy backoffice eShop web apps with Windows Containers and Azure Cloud"
 url: 'https://github.com/dotnet-architecture/eShopModernizing?wt.mc_id=AID642788_EML_5288931'
 category: 5a88e1aabd6dca0d5f0d1c16
 slug: 'modernizing-hypothetical-legacy-backoffice-eshop-web-apps-with-windows-containers-and-azure-cloud'

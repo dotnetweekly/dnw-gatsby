@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a14
-title: '"It"s just a software issue"- Edge.js brings Node and .NET together on three platforms'
+title: "It's just a software issue- Edge.js brings Node and .NET together on three platforms"
 url: 'http://www.hanselman.com/blog/ItsJustASoftwareIssueEdgejsBringsNodeAndNETTogetherOnThreePlatforms.aspx'
 category: 5a88e1aebd6dca0d5f0d2a14
 slug: 'its-just-a-software-issue-edge-js-brings-node-and-net-together-on-three-platforms'

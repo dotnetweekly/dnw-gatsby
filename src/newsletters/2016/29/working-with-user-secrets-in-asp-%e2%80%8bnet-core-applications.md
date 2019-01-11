@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d22b2
-title: 'Working with user secrets in ASP.​NET Core applications'
+title: "Working with user secrets in ASP.​NET Core applications"
 url: 'http://asp.net-hacker.rocks/2016/07/11/user-secrets-in-aspnetcore.html'
 category: 5a88e1acbd6dca0d5f0d22b2
 slug: 'working-with-user-secrets-in-asp-%e2%80%8bnet-core-applications'

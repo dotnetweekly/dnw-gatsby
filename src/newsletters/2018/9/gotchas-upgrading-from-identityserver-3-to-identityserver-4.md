@@ -1,6 +1,6 @@
 ---
 _id: 5a94c8c9bc881b6c26f018df
-title: 'Gotchas upgrading from IdentityServer 3 to IdentityServer 4'
+title: "Gotchas upgrading from IdentityServer 3 to IdentityServer 4"
 url: 'https://andrewlock.net/gotchas-upgrading-from-identityserver-3-to-identityserver-4/'
 category: 5a94c8c9bc881b6c26f018df
 slug: 'gotchas-upgrading-from-identityserver-3-to-identityserver-4'

@@ -1,6 +1,6 @@
 ---
 _id: 5ac32ee377d138024e6c210e
-title: 'OAuth 2.0 and OpenID Connect (in plain English)'
+title: "OAuth 2.0 and OpenID Connect (in plain English)"
 url: 'https://www.youtube.com/watch?v=996OiexHze0'
 category: 5ac32ee377d138024e6c210e
 slug: 'oauth-20-and-openid-connect-in-plain-english'

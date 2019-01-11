@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d276e
-title: 'Understanding .NET 2015'
+title: "Understanding .NET 2015"
 url: 'http://blogs.msdn.com/b/bethmassi/archive/2015/02/25/understanding-net-2015.aspx'
 category: 5a88e1adbd6dca0d5f0d276e
 slug: 'understanding-net-2015'

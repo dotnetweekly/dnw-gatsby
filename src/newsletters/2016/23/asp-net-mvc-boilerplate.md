@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2312
-title: 'ASP.NET MVC Boilerplate'
+title: "ASP.NET MVC Boilerplate"
 url: 'https://visualstudiogallery.msdn.microsoft.com/6cf50a48-fc1e-4eaf-9e82-0b2a6705ca7d'
 category: 5a88e1acbd6dca0d5f0d2312
 slug: 'asp-net-mvc-boilerplate'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d280c
-title: 'Implementing Adapter Pattern and Imitating Multiple Inheritance in C# using Roslyn based VS Extension Wrapper Generator'
+title: "Implementing Adapter Pattern and Imitating Multiple Inheritance in C# using Roslyn based VS Extension Wrapper Generator"
 url: 'http://www.codeproject.com/Articles/850799/Implementing-Adapter-Pattern-and-Imitating-Multipl'
 category: 5a88e1adbd6dca0d5f0d280c
 slug: 'implementing-adapter-pattern-and-imitating-multiple-inheritance-in-c-using-roslyn-based-vs-extensio'

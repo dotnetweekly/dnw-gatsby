@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2274
-title: 'DevOps - Applying DevOps to a Software Development Project'
+title: "DevOps - Applying DevOps to a Software Development Project"
 url: 'https://msdn.microsoft.com/magazine/mt767695'
 category: 5a88e1acbd6dca0d5f0d2274
 slug: 'devops-applying-devops-to-a-software-development-project'

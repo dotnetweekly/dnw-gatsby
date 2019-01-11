@@ -1,6 +1,6 @@
 ---
 _id: 5bd4986d1428e6216794dabd
-title: 'Learning JavaScript objects'
+title: "Learning JavaScript objects"
 url: 'http://exploringjs.com/impatient-js/ch_single-objects.html'
 category: 5bd4986d1428e6216794dabd
 slug: 'learning-javascript-objects'

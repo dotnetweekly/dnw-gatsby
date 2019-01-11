@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1fc8
-title: 'Improving security in ASP.NET MVC using custom headers | elmah.io'
+title: "Improving security in ASP.NET MVC using custom headers | elmah.io"
 url: 'https://blog.elmah.io/improving-security-in-asp-net-mvc-using-custom-headers/'
 category: 5a88e1abbd6dca0d5f0d1fc8
 slug: 'improving-security-in-asp-net-mvc-using-custom-headers-elmah-io'

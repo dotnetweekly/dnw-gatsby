@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2de2
-title: 'Unlocking Windows 8 "God Mode" - A Useful Trick but also Mysterious Nonsense'
+title: "Unlocking Windows 8 'God Mode' - A Useful Trick but also Mysterious Nonsense"
 url: 'http://www.hanselman.com/blog/UnlockingWindows8GodModeAUsefulTrickButAlsoMysteriousNonsense.aspx'
 category: 5a88e1afbd6dca0d5f0d2de2
 slug: 'unlocking-windows-8-god-mode-a-useful-trick-but-also-mysterious-nonsense'

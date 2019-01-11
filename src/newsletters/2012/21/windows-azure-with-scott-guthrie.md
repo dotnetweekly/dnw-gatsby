@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d3060
-title: 'Windows Azure with Scott Guthrie'
+title: "Windows Azure with Scott Guthrie"
 url: 'http://lanyrd.com/2012/windows-azure-with-scott-guthrie/'
 category: 5a88e1afbd6dca0d5f0d3060
 slug: 'windows-azure-with-scott-guthrie'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2eea
-title: 'Good book on Domain Driven Design (with an ORM tool)'
+title: "Good book on Domain Driven Design (with an ORM tool)"
 url: 'http://books.google.gr/books?id=wKhQAAAAMAAJ&q=applying+domain+driven+design&dq=applying+domain+driven+design&source=bl&ots=K4z8d7I-pV&sig=ushjpzEfsL2RUgNv6t8sBFu4SoE&hl=en&sa=X&ei=ueRWUPDcGMrB0gWGkIDADg&ved=0CCwQ6AEwAA'
 category: 5a88e1afbd6dca0d5f0d2eea
 slug: 'good-book-on-domain-driven-design-with-an-orm-tool'

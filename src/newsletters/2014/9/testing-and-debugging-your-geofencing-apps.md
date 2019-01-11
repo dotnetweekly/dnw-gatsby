@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a9a
-title: 'Testing and debugging your geofencing apps'
+title: "Testing and debugging your geofencing apps"
 url: 'http://blogs.windows.com/windows/b/appbuilder/archive/2014/02/25/testing-and-debugging-your-geofencing-apps.aspx'
 category: 5a88e1aebd6dca0d5f0d2a9a
 slug: 'testing-and-debugging-your-geofencing-apps'

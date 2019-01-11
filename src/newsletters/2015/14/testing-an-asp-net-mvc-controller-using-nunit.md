@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2712
-title: 'Testing an ASP.NET MVC Controller using NUnit'
+title: "Testing an ASP.NET MVC Controller using NUnit"
 url: 'http://www.dotnetcurry.com/showarticle.aspx?ID=1110'
 category: 5a88e1adbd6dca0d5f0d2712
 slug: 'testing-an-asp-net-mvc-controller-using-nunit'

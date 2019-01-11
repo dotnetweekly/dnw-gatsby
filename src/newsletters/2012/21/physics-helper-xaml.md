@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d304e
-title: 'Physics Helper XAML'
+title: "Physics Helper XAML"
 url: 'http://physicshelperxaml.codeplex.com/'
 category: 5a88e1afbd6dca0d5f0d304e
 slug: 'physics-helper-xaml'

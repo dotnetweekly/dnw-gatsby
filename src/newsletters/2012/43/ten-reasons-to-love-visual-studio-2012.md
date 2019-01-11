@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2e82
-title: 'Ten Reasons to Love Visual Studio 2012'
+title: "Ten Reasons to Love Visual Studio 2012"
 url: 'http://blog.nwcadence.com/ten-reasons-to-love-visual-studio-2012/'
 category: 5a88e1afbd6dca0d5f0d2e82
 slug: 'ten-reasons-to-love-visual-studio-2012'

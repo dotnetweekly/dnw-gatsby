@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2c1a
-title: 'Windows Azure: New Distributed, Dedicated, High Performance Cache Service + More Cool Improvements'
+title: "Windows Azure: New Distributed, Dedicated, High Performance Cache Service + More Cool Improvements"
 url: 'http://weblogs.asp.net/scottgu/archive/2013/09/03/windows-azure-new-distributed-dedicated-high-performance-cache-service-more-cool-improvements.aspx'
 category: 5a88e1aebd6dca0d5f0d2c1a
 slug: 'windows-azure-new-distributed-dedicated-high-performance-cache-service-more-cool-improvements'

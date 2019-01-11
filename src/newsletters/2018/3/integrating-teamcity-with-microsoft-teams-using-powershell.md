@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1ade
-title: 'Integrating TeamCity with Microsoft Teams using PowerShell'
+title: "Integrating TeamCity with Microsoft Teams using PowerShell"
 url: 'https://cezarypiatek.github.io/post/integrating-teamcity-with-msteams/'
 category: 5a88e1aabd6dca0d5f0d1ade
 slug: 'integrating-teamcity-with-microsoft-teams-using-powershell'

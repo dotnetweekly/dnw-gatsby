@@ -1,6 +1,6 @@
 ---
 _id: 5adf6952724957005e0d2a0f
-title: 'Deploy Bitnami Node.js HA Cluster with Azure Cosmos DB'
+title: "Deploy Bitnami Node.js HA Cluster with Azure Cosmos DB"
 url: 'https://channel9.msdn.com/Shows/Azure-Friday/Deploy-Bitnami-Nodejs-HA-Cluster-with-Azure-Cosmos-DB'
 category: 5adf6952724957005e0d2a0f
 slug: 'deploy-bitnami-nodejs-ha-cluster-with-azure-cosmos-db'

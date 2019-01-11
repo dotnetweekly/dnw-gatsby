@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2c0e
-title: 'Learning JavaScript Design Patterns'
+title: "Learning JavaScript Design Patterns"
 url: 'http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/'
 category: 5a88e1aebd6dca0d5f0d2c0e
 slug: 'learning-javascript-design-patterns'

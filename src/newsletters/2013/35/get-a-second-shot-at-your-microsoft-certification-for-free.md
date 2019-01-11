@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2c34
-title: 'Get a second shot at your Microsoft Certification for free'
+title: "Get a second shot at your Microsoft Certification for free"
 url: 'http://www.microsoft.com/learning/en-us/second-shot.aspx'
 category: 5a88e1aebd6dca0d5f0d2c34
 slug: 'get-a-second-shot-at-your-microsoft-certification-for-free'

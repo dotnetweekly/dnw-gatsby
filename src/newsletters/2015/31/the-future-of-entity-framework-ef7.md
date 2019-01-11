@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d25f8
-title: 'The future of Entity Framework (EF7)'
+title: "The future of Entity Framework (EF7)"
 url: 'https://channel9.msdn.com/Blogs/Seth-Juarez/The-future-of-Entity-Framework-EF7'
 category: 5a88e1adbd6dca0d5f0d25f8
 slug: 'the-future-of-entity-framework-ef7'

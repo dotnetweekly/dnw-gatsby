@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2db2
-title: 'Exploring the New JavaScript API for Office'
+title: "Exploring the New JavaScript API for Office"
 url: 'http://msdn.microsoft.com/en-us/magazine/jj891051.aspx'
 category: 5a88e1afbd6dca0d5f0d2db2
 slug: 'exploring-the-new-javascript-api-for-office'

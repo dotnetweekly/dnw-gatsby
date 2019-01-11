@@ -1,6 +1,6 @@
 ---
 _id: 5b3f2af510ce4408dd856a65
-title: 'Under the hood of ASP.NET Core WebHooks - Signature Validation'
+title: "Under the hood of ASP.NET Core WebHooks - Signature Validation"
 url: 'https://www.tpeczek.com/2018/07/under-hood-of-aspnet-core-webhooks.html'
 category: 5b3f2af510ce4408dd856a65
 slug: 'under-the-hood-of-aspnet-core-webhooks-signature-validation'

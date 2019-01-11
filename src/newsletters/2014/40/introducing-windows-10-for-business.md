@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d28ce
-title: 'Introducing Windows 10 for Business'
+title: "Introducing Windows 10 for Business"
 url: 'http://blogs.windows.com/business/2014/09/30/introducing-windows-10-for-business/'
 category: 5a88e1aebd6dca0d5f0d28ce
 slug: 'introducing-windows-10-for-business'

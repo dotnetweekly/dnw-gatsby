@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d28f6
-title: 'Insight into Security Model using Principal and Identity Objects in .NET'
+title: "Insight into Security Model using Principal and Identity Objects in .NET"
 url: 'http://www.codeproject.com/Articles/5182/Insight-into-Security-Model-using-Principal-and-Id'
 category: 5a88e1aebd6dca0d5f0d28f6
 slug: 'insight-into-security-model-using-principal-and-identity-objects-in-net'

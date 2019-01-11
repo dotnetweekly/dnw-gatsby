@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a4c
-title: 'Windows Store C++ for C# Developers '
+title: "Windows Store C++ for C# Developers "
 url: 'http://msdn.microsoft.com/en-us/magazine/dn630645.aspx'
 category: 5a88e1aebd6dca0d5f0d2a4c
 slug: 'windows-store-c-for-c-developers'

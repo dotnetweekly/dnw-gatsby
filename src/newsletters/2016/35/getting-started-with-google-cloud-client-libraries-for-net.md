@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2242
-title: 'Getting started with Google Cloud Client Libraries for .NET'
+title: "Getting started with Google Cloud Client Libraries for .NET"
 url: 'https://cloudplatform.googleblog.com/2016/08/getting-started-with-Google-Cloud-Client-Libraries-for-.NET.html'
 category: 5a88e1acbd6dca0d5f0d2242
 slug: 'getting-started-with-google-cloud-client-libraries-for-net'

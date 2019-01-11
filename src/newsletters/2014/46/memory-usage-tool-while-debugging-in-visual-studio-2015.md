@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2842
-title: 'Memory Usage Tool while debugging in Visual Studio 2015'
+title: "Memory Usage Tool while debugging in Visual Studio 2015"
 url: 'http://blogs.msdn.com/b/visualstudioalm/archive/2014/11/13/memory-usage-tool-while-debugging-in-visual-studio-2015.aspx'
 category: 5a88e1aebd6dca0d5f0d2842
 slug: 'memory-usage-tool-while-debugging-in-visual-studio-2015'

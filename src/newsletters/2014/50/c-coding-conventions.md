@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2804
-title: 'C# Coding Conventions '
+title: "C# Coding Conventions "
 url: 'http://msdn.microsoft.com/en-us/library/ff926074.aspx?siteID=XdSn0e3h3.k-WwSuzu32PmpdDujRTGDYUA'
 category: 5a88e1adbd6dca0d5f0d2804
 slug: 'c-coding-conventions'

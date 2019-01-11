@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2256
-title: 'Evolution of Microsoft Bot Framework'
+title: "Evolution of Microsoft Bot Framework"
 url: 'http://www.codeproject.com/Articles/1120056/Evolution-of-Microsoft-Bot-Framework'
 category: 5a88e1acbd6dca0d5f0d2256
 slug: 'evolution-of-microsoft-bot-framework'

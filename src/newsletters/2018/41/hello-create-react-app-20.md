@@ -1,6 +1,6 @@
 ---
 _id: 5bbc14618a5a392bc2fd9804
-title: 'Hello, Create React App 2.0!'
+title: "Hello, Create React App 2.0!"
 url: 'https://www.telerik.com/blogs/hello-create-react-app-2'
 category: 5bbc14618a5a392bc2fd9804
 slug: 'hello-create-react-app-20'

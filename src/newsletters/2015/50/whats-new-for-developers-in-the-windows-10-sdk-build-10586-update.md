@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d24cc
-title: 'What’s New for Developers in the Windows 10 SDK Build 10586 Update'
+title: "What’s New for Developers in the Windows 10 SDK Build 10586 Update"
 url: 'https://blogs.windows.com/buildingapps/2015/12/03/whats-new-for-developers-in-the-windows-10-sdk-build-10586-update/?wt.mc_id=DX_47478&MC=IoT&MC=DevOps&MC=MSAzure&MC=IE&MC=JavaScript'
 category: 5a88e1adbd6dca0d5f0d24cc
 slug: 'whats-new-for-developers-in-the-windows-10-sdk-build-10586-update'

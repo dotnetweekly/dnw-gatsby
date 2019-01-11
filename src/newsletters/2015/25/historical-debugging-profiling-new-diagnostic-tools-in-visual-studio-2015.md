@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d265e
-title: 'Historical Debugging, Profiling, New Diagnostic Tools in Visual Studio 2015'
+title: "Historical Debugging, Profiling, New Diagnostic Tools in Visual Studio 2015"
 url: 'http://www.hanselman.com/blog/HistoricalDebuggingProfilingNewDiagnosticToolsInVisualStudio2015.aspx'
 category: 5a88e1adbd6dca0d5f0d265e
 slug: 'historical-debugging-profiling-new-diagnostic-tools-in-visual-studio-2015'

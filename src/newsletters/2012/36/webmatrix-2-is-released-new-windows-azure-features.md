@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2ef8
-title: 'WebMatrix 2 is Released! + New Windows Azure Features'
+title: "WebMatrix 2 is Released! + New Windows Azure Features"
 url: 'http://blogs.msdn.com/b/windowsazure/archive/2012/09/06/webmatrix-2-is-released-new-windows-azure-features.aspx'
 category: 5a88e1afbd6dca0d5f0d2ef8
 slug: 'webmatrix-2-is-released-new-windows-azure-features'

@@ -1,6 +1,6 @@
 ---
 _id: 5bafc6bbaf8d5e5ee9ca6238
-title: 'Public Preview of Graph Edge Constraints on SQL Server 2019'
+title: "Public Preview of Graph Edge Constraints on SQL Server 2019"
 url: 'https://blogs.msdn.microsoft.com/sqlserverstorageengine/2018/09/28/public-preview-of-graph-edge-constraints-on-sql-server-2019/'
 category: 5bafc6bbaf8d5e5ee9ca6238
 slug: 'public-preview-of-graph-edge-constraints-on-sql-server-2019'

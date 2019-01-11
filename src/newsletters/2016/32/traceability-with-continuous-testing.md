@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2270
-title: 'Traceability with Continuous Testing'
+title: "Traceability with Continuous Testing"
 url: 'https://blogs.msdn.microsoft.com/visualstudioalm/2016/08/02/traceability-with-continuous-testing/'
 category: 5a88e1acbd6dca0d5f0d2270
 slug: 'traceability-with-continuous-testing'

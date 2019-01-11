@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2152
-title: 'Connect(); // 2016 on demand'
+title: "Connect(); // 2016 on demand"
 url: 'https://channel9.msdn.com/Events/Connect/2016/'
 category: 5a88e1acbd6dca0d5f0d2152
 slug: 'connect-2016-on-demand'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2df4
-title: 'TypeScript: Making .NET Developers Comfortable with JavaScript'
+title: "TypeScript: Making .NET Developers Comfortable with JavaScript"
 url: 'http://msdn.microsoft.com/en-us/magazine/jj883955.aspx'
 category: 5a88e1afbd6dca0d5f0d2df4
 slug: 'typescript-making-net-developers-comfortable-with-javascript'

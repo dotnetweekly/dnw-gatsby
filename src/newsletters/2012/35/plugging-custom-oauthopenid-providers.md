@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2f1a
-title: 'Plugging custom OAuth/OpenID providers'
+title: "Plugging custom OAuth/OpenID providers"
 url: 'http://blogs.msdn.com/b/webdev/archive/2012/08/23/plugging-custom-oauth-openid-providers.aspx'
 category: 5a88e1afbd6dca0d5f0d2f1a
 slug: 'plugging-custom-oauthopenid-providers'

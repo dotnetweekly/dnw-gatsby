@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d240e
-title: 'Weak events in .NET using Reactive Extensions (Rx)'
+title: "Weak events in .NET using Reactive Extensions (Rx)"
 url: 'http://www.codeproject.com/Tips/1078183/Weak-events-in-NET-using-Reactive-Extensions-Rx'
 category: 5a88e1acbd6dca0d5f0d240e
 slug: 'weak-events-in-net-using-reactive-extensions-rx'

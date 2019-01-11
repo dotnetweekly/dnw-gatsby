@@ -1,6 +1,6 @@
 ---
 _id: 5b9d22c834a7ead3fa2b77dc
-title: 'Announcing ML.NET 0.5'
+title: "Announcing ML.NET 0.5"
 url: 'https://blogs.msdn.microsoft.com/dotnet/2018/09/12/announcing-ml-net-0-5/'
 category: 5b9d22c834a7ead3fa2b77dc
 slug: 'announcing-mlnet-05'

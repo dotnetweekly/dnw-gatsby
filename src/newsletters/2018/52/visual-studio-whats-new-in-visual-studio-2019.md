@@ -1,6 +1,6 @@
 ---
 _id: 5c2627a5745cd04c580206bf
-title: 'Visual Studio - What"s New in Visual Studio 2019'
+title: "Visual Studio - What's New in Visual Studio 2019"
 url: 'https://msdn.microsoft.com/magazine/mt848632'
 category: 5c2627a5745cd04c580206bf
 slug: 'visual-studio-whats-new-in-visual-studio-2019'

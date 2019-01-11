@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1ac2
-title: 'AWS Lambda .NET Core 2.0 Support Released'
+title: "AWS Lambda .NET Core 2.0 Support Released"
 url: 'https://aws.amazon.com/blogs/developer/aws-lambda-net-core-2-0-support-released/'
 category: 5a88e1aabd6dca0d5f0d1ac2
 slug: 'aws-lambda-net-core-2-0-support-released'

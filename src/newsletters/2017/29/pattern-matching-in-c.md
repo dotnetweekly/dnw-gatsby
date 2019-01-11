@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1dd8
-title: 'Pattern Matching In C#'
+title: "Pattern Matching In C#"
 url: 'https://l-paathshaala.com/2017/07/10/pattern-matching-in-c/'
 category: 5a88e1abbd6dca0d5f0d1dd8
 slug: 'pattern-matching-in-c'

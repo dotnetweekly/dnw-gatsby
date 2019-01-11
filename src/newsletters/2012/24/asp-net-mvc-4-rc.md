@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d3010
-title: 'ASP.NET MVC 4 RC'
+title: "ASP.NET MVC 4 RC"
 url: 'http://www.asp.net/mvc/tutorials/mvc-4'
 category: 5a88e1afbd6dca0d5f0d3010
 slug: 'asp-net-mvc-4-rc'

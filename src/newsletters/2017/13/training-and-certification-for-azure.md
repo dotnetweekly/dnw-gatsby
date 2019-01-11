@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1f70
-title: 'Training and Certification for Azure'
+title: "Training and Certification for Azure"
 url: 'https://azure.microsoft.com/en-us/community/training/'
 category: 5a88e1abbd6dca0d5f0d1f70
 slug: 'training-and-certification-for-azure'

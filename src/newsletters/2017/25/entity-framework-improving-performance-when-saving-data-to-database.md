@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1e38
-title: 'Entity Framework: Improving Performance when Saving Data to Database'
+title: "Entity Framework: Improving Performance when Saving Data to Database"
 url: 'http://codingsight.com/entity-framework-improving-performance-when-saving-data-to-database/'
 category: 5a88e1abbd6dca0d5f0d1e38
 slug: 'entity-framework-improving-performance-when-saving-data-to-database'

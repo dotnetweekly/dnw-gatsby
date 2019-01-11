@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d2046
-title: 'The .NET Language Strategy'
+title: "The .NET Language Strategy"
 url: 'https://blogs.msdn.microsoft.com/dotnet/2017/02/01/the-net-language-strategy/'
 category: 5a88e1abbd6dca0d5f0d2046
 slug: 'the-net-language-strategy'

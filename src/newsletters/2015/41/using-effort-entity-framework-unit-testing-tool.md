@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2570
-title: 'Using Effort - Entity Framework Unit Testing Tool'
+title: "Using Effort - Entity Framework Unit Testing Tool"
 url: 'http://www.codeproject.com/Tips/1036630/Using-Effort-Entity-Framework-Unit-Testing-Tool'
 category: 5a88e1adbd6dca0d5f0d2570
 slug: 'using-effort-entity-framework-unit-testing-tool'

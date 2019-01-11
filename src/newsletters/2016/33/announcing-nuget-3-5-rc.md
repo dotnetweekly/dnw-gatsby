@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2268
-title: 'Announcing NuGet 3.5 RC'
+title: "Announcing NuGet 3.5 RC"
 url: 'http://blog.nuget.org/20160811/Announcing-NuGet-3.5-RC.html'
 category: 5a88e1acbd6dca0d5f0d2268
 slug: 'announcing-nuget-3-5-rc'

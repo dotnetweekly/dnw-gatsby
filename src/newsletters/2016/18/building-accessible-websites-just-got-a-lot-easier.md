@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d235e
-title: 'Building accessible websites just got a lot easier'
+title: "Building accessible websites just got a lot easier"
 url: 'https://blogs.msdn.microsoft.com/webdev/2016/05/02/building-accessible-websites-just-got-a-lot-easier/'
 category: 5a88e1acbd6dca0d5f0d235e
 slug: 'building-accessible-websites-just-got-a-lot-easier'

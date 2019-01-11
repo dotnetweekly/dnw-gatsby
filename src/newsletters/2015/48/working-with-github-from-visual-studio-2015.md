@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d24fa
-title: 'Working with GitHub from Visual Studio 2015'
+title: "Working with GitHub from Visual Studio 2015"
 url: 'http://blogs.msdn.com/b/cdndevs/archive/2015/11/24/working-with-github-from-visual-studio-2015.aspx'
 category: 5a88e1adbd6dca0d5f0d24fa
 slug: 'working-with-github-from-visual-studio-2015'

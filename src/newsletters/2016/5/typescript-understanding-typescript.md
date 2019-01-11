@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2452
-title: 'TypeScript - Understanding TypeScript'
+title: "TypeScript - Understanding TypeScript"
 url: 'https://msdn.microsoft.com/en-us/magazine/dn890374'
 category: 5a88e1acbd6dca0d5f0d2452
 slug: 'typescript-understanding-typescript'

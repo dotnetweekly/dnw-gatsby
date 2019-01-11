@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d297a
-title: 'Twenty C# Questions Explained'
+title: "Twenty C# Questions Explained"
 url: 'http://www.microsoftvirtualacademy.com/training-courses/twenty-c-questions-explained'
 category: 5a88e1aebd6dca0d5f0d297a
 slug: 'twenty-c-questions-explained-2'

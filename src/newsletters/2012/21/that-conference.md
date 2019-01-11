@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d305e
-title: 'That Conference'
+title: "That Conference"
 url: 'http://lanyrd.com/2012/thatconference/'
 category: 5a88e1afbd6dca0d5f0d305e
 slug: 'that-conference'

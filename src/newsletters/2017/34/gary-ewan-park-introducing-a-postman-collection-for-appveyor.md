@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1d36
-title: 'Gary Ewan Park - Introducing a Postman Collection for AppVeyor'
+title: "Gary Ewan Park - Introducing a Postman Collection for AppVeyor"
 url: 'https://www.gep13.co.uk/blog/introducting-a-postman-collection-for-appveyor'
 category: 5a88e1abbd6dca0d5f0d1d36
 slug: 'gary-ewan-park-introducing-a-postman-collection-for-appveyor'

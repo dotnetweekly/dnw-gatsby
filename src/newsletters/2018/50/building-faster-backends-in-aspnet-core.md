@@ -1,6 +1,6 @@
 ---
 _id: 5c139f22bdff7d10d3340aae
-title: 'Building Faster Backends in ASP.NET Core'
+title: "Building Faster Backends in ASP.NET Core"
 url: 'https://www.telerik.com/blogs/building-faster-backends-in-aspnet-core'
 category: 5c139f22bdff7d10d3340aae
 slug: 'building-faster-backends-in-aspnet-core'

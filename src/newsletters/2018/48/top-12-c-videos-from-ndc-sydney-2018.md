@@ -1,6 +1,6 @@
 ---
 _id: 5bfdacbdd9a5930407f70e5f
-title: 'Top 12 C# Videos from NDC Sydney 2018'
+title: "Top 12 C# Videos from NDC Sydney 2018"
 url: 'https://www.productivecsharp.com/2018/11/top-csharp-videos-ndc-sydney-2018/'
 category: 5bfdacbdd9a5930407f70e5f
 slug: 'top-12-c-videos-from-ndc-sydney-2018'

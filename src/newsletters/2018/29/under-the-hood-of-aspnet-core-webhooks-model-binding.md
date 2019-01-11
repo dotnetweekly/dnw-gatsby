@@ -1,6 +1,6 @@
 ---
 _id: 5b51a525999737fc33c806b1
-title: 'Under the hood of ASP.NET Core WebHooks - Model Binding'
+title: "Under the hood of ASP.NET Core WebHooks - Model Binding"
 url: 'https://www.tpeczek.com/2018/07/under-hood-of-aspnet-core-webhooks_19.html'
 category: 5b51a525999737fc33c806b1
 slug: 'under-the-hood-of-aspnet-core-webhooks-model-binding'

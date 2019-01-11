@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d262c
-title: 'React.js Introduction For People Who Know Just Enough jQuery To Get By'
+title: "React.js Introduction For People Who Know Just Enough jQuery To Get By"
 url: 'http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/'
 category: 5a88e1adbd6dca0d5f0d262c
 slug: 'react-js-introduction-for-people-who-know-just-enough-jquery-to-get-by'

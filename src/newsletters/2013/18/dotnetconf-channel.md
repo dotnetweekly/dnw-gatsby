@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2ce8
-title: 'dotnetConf Channel'
+title: "dotnetConf Channel"
 url: 'http://www.youtube.com/user/dotnetConf'
 category: 5a88e1afbd6dca0d5f0d2ce8
 slug: 'dotnetconf-channel'

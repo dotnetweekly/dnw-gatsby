@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2610
-title: 'Getting Started with Windows 10'
+title: "Getting Started with Windows 10"
 url: 'http://www.hanselman.com/blog/GettingStartedWithWindows10.aspx'
 category: 5a88e1adbd6dca0d5f0d2610
 slug: 'getting-started-with-windows-10'

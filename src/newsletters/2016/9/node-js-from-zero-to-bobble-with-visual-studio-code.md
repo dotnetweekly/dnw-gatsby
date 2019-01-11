@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d23fe
-title: 'Node.js: From Zero to Bobble with Visual Studio Code'
+title: "Node.js: From Zero to Bobble with Visual Studio Code"
 url: 'https://blogs.msdn.microsoft.com/visualstudio/2016/02/16/node-js-zero-to-bobble-with-visual-studio-code/'
 category: 5a88e1acbd6dca0d5f0d23fe
 slug: 'node-js-from-zero-to-bobble-with-visual-studio-code'

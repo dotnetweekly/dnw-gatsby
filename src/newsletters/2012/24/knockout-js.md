@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d300e
-title: 'Knockout JS'
+title: "Knockout JS"
 url: 'http://learn.knockoutjs.com/#/?tutorial=intro'
 category: 5a88e1afbd6dca0d5f0d300e
 slug: 'knockout-js'

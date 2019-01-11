@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d23d2
-title: 'Understanding CSRF, the video tutorial edition'
+title: "Understanding CSRF, the video tutorial edition"
 url: 'http://www.troyhunt.com/2016/03/understanding-csrf-video-tutorial.html'
 category: 5a88e1acbd6dca0d5f0d23d2
 slug: 'understanding-csrf-the-video-tutorial-edition'

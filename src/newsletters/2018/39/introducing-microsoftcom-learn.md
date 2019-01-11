@@ -1,6 +1,6 @@
 ---
 _id: 5ba99e97af8d5e3527ca621f
-title: 'Introducing Microsoft.com/Learn'
+title: "Introducing Microsoft.com/Learn"
 url: 'https://docs.microsoft.com/en-us/teamblog/introducing-ms-learn'
 category: 5ba99e97af8d5e3527ca621f
 slug: 'introducing-microsoftcom-learn'

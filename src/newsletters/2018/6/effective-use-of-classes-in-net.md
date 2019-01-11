@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1a60
-title: 'Effective Use of Classes in .NET'
+title: "Effective Use of Classes in .NET"
 url: 'http://codingsight.com/effective-use-of-classes-in-net/'
 category: 5a88e1aabd6dca0d5f0d1a60
 slug: 'effective-use-of-classes-in-net'

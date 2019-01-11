@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2fd8
-title: 'Start Here! Learn the Kinect API'
+title: "Start Here! Learn the Kinect API"
 url: 'http://www.amazon.co.uk/Start-Here-Learn-Kinect-API/dp/0735663963'
 category: 5a88e1afbd6dca0d5f0d2fd8
 slug: 'start-here-learn-the-kinect-api'

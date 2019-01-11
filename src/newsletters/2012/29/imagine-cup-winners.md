@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2faa
-title: 'Imagine Cup Winners'
+title: "Imagine Cup Winners"
 url: 'http://www.robmiles.com/journal/2012/7/10/imagine-cup-winners.html'
 category: 5a88e1afbd6dca0d5f0d2faa
 slug: 'imagine-cup-winners'

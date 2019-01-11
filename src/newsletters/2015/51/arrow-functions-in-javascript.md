@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d24b6
-title: 'Arrow Functions in JavaScript'
+title: "Arrow Functions in JavaScript"
 url: 'https://channel9.msdn.com/Blogs/One-Dev-Minute/Arrow-Functions-in-JavaScript'
 category: 5a88e1adbd6dca0d5f0d24b6
 slug: 'arrow-functions-in-javascript'

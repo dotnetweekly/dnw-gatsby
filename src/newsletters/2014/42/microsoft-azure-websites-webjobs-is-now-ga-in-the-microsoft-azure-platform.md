@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d289e
-title: 'Microsoft Azure Websites WebJobs is now GA in the Microsoft Azure Platform'
+title: "Microsoft Azure Websites WebJobs is now GA in the Microsoft Azure Platform"
 url: 'http://magnusmartensson.com/azure-webjobs-ga'
 category: 5a88e1aebd6dca0d5f0d289e
 slug: 'microsoft-azure-websites-webjobs-is-now-ga-in-the-microsoft-azure-platform'

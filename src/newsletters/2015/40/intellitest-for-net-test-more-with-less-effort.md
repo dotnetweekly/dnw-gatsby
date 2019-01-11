@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2578
-title: 'IntelliTest for .NET - Test More with Less (effort)'
+title: "IntelliTest for .NET - Test More with Less (effort)"
 url: 'http://blogs.msdn.com/b/visualstudio/archive/2015/09/30/intellitest-for-net-test-more-with-less-effort.aspx'
 category: 5a88e1adbd6dca0d5f0d2578
 slug: 'intellitest-for-net-test-more-with-less-effort'

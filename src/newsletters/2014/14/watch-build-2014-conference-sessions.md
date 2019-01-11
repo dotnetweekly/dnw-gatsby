@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a50
-title: 'Watch Build 2014 Conference Sessions '
+title: "Watch Build 2014 Conference Sessions "
 url: 'http://channel9.msdn.com/events/build/2014?Media=true&wt.mc_id=build_hp'
 category: 5a88e1aebd6dca0d5f0d2a50
 slug: 'watch-build-2014-conference-sessions'

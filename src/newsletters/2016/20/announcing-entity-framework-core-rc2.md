@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d233e
-title: 'Announcing Entity Framework Core RC2'
+title: "Announcing Entity Framework Core RC2"
 url: 'https://blogs.msdn.microsoft.com/dotnet/2016/05/16/announcing-entity-framework-core-rc2/'
 category: 5a88e1acbd6dca0d5f0d233e
 slug: 'announcing-entity-framework-core-rc2'

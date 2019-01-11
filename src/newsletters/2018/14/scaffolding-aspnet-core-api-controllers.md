@@ -1,6 +1,6 @@
 ---
 _id: 5ac18ca66222cd022e712d4d
-title: 'Scaffolding ASP.NET Core API Controllers'
+title: "Scaffolding ASP.NET Core API Controllers"
 url: 'https://mattmillican.com/blog/aspnetcore-controller-scaffolding'
 category: 5ac18ca66222cd022e712d4d
 slug: 'scaffolding-aspnet-core-api-controllers'

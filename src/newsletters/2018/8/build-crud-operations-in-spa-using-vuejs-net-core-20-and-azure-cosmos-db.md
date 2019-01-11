@@ -1,6 +1,6 @@
 ---
 _id: 5a8b3f1c3bdd6c002abd3c0f
-title: 'Build CRUD operations in SPA using Vue.js, .NET Core 2.0 and Azure Cosmos DB'
+title: "Build CRUD operations in SPA using Vue.js, .NET Core 2.0 and Azure Cosmos DB"
 url: 'https://marczak.io/posts/netcore-vuejs-crud/'
 category: 5a8b3f1c3bdd6c002abd3c0f
 slug: 'build-crud-operations-in-spa-using-vuejs-net-core-20-and-azure-cosmos-db'

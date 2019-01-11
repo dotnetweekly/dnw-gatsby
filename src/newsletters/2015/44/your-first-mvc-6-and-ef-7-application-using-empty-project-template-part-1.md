@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d252e
-title: 'Your First MVC 6 And EF 7 Application (Using Empty Project Template) : Part 1'
+title: "Your First MVC 6 And EF 7 Application (Using Empty Project Template) : Part 1"
 url: 'http://www.binaryintellect.net/articles/895b33a8-0827-4e54-83d6-4938c46810b4.aspx'
 category: 5a88e1adbd6dca0d5f0d252e
 slug: 'your-first-mvc-6-and-ef-7-application-using-empty-project-template-part-1'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d29f6
-title: 'Search Engine Marketing with Bing Ads'
+title: "Search Engine Marketing with Bing Ads"
 url: 'http://www.microsoftvirtualacademy.com/Live-Training-Events'
 category: 5a88e1aebd6dca0d5f0d29f6
 slug: 'search-engine-marketing-with-bing-ads'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d27ce
-title: 'Write Cross-Platform Hybrid Apps in Visual Studio with Apache Cordova'
+title: "Write Cross-Platform Hybrid Apps in Visual Studio with Apache Cordova"
 url: 'http://msdn.microsoft.com/en-us/magazine/dn879349.aspx'
 category: 5a88e1adbd6dca0d5f0d27ce
 slug: 'write-cross-platform-hybrid-apps-in-visual-studio-with-apache-cordova'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2166
-title: 'Use the Azure DocumentDB Emulator for development and testing'
+title: "Use the Azure DocumentDB Emulator for development and testing"
 url: 'https://docs.microsoft.com/en-us/azure/documentdb/documentdb-nosql-local-emulator'
 category: 5a88e1acbd6dca0d5f0d2166
 slug: 'use-the-azure-documentdb-emulator-for-development-and-testing'

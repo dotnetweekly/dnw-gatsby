@@ -1,6 +1,6 @@
 ---
 _id: 5c262815745cd03ca90206c1
-title: 'Machine Learning - ML.NET: The Machine Learning Framework for .NET Developers'
+title: "Machine Learning - ML.NET: The Machine Learning Framework for .NET Developers"
 url: 'https://msdn.microsoft.com/magazine/mt848634'
 category: 5c262815745cd03ca90206c1
 slug: 'machine-learning-mlnet-the-machine-learning-framework-for-net-developers'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d292c
-title: 'Visual Studio “14” CTP 3 available'
+title: "Visual Studio “14” CTP 3 available"
 url: 'http://blogs.msdn.com/b/bharry/archive/2014/08/18/visual-studio-14-ctp-3-available.aspx'
 category: 5a88e1aebd6dca0d5f0d292c
 slug: 'visual-studio-14-ctp-3-available'

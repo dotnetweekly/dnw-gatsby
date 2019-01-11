@@ -1,6 +1,6 @@
 ---
 _id: 5b728b27fd7ac93b819e0036
-title: 'Talking Texts with .NET Core, Cognitive Services and Azure Storage'
+title: "Talking Texts with .NET Core, Cognitive Services and Azure Storage"
 url: 'https://www.twilio.com/blog/2018/08/talking-texts-with-net-core-cognitive-services-and-azure-storage.html'
 category: 5b728b27fd7ac93b819e0036
 slug: 'talking-texts-with-net-core-cognitive-services-and-azure-storage'

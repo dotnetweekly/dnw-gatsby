@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2fe8
-title: 'Microsoft and Elance Are Helping Developers Find Work Online'
+title: "Microsoft and Elance Are Helping Developers Find Work Online"
 url: 'https://www.elance.com/q/webinar/elance-microsoft?mpid=ms_1_001'
 category: 5a88e1afbd6dca0d5f0d2fe8
 slug: 'microsoft-and-elance-are-helping-developers-find-work-online'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2ef6
-title: 'Do you really know what a REST service is?'
+title: "Do you really know what a REST service is?"
 url: 'http://kellabyte.com/2011/09/04/clarifying-rest/'
 category: 5a88e1afbd6dca0d5f0d2ef6
 slug: 'do-you-really-know-what-a-rest-service-is'

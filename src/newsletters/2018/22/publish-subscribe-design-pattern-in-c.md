@@ -1,6 +1,6 @@
 ---
 _id: 5b1301d7d15d38e8e6ee60ed
-title: 'Publish Subscribe Design Pattern In C#'
+title: "Publish Subscribe Design Pattern In C#"
 url: 'https://kudchikarsk.github.io/publish-subscribe-design-pattern-in-csharp'
 category: 5b1301d7d15d38e8e6ee60ed
 slug: 'publish-subscribe-design-pattern-in-c'

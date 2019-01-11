@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2240
-title: 'Keeping a Clean Startup.cs in Asp.Net Core'
+title: "Keeping a Clean Startup.cs in Asp.Net Core"
 url: 'http://odetocode.com/blogs/scott/archive/2016/08/30/keeping-a-clean-startup-cs-in-asp-net-core.aspx'
 category: 5a88e1acbd6dca0d5f0d2240
 slug: 'keeping-a-clean-startup-cs-in-asp-net-core'

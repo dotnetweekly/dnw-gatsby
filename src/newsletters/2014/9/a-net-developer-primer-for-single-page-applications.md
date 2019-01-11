@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a96
-title: 'A .NET Developer Primer for Single-Page Applications'
+title: "A .NET Developer Primer for Single-Page Applications"
 url: 'http://msdn.microsoft.com/en-us/magazine/dn605877.aspx'
 category: 5a88e1aebd6dca0d5f0d2a96
 slug: 'a-net-developer-primer-for-single-page-applications'

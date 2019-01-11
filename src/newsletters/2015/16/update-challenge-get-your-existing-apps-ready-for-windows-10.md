@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d26ee
-title: 'Update Challenge. Get your existing apps ready for Windows 10.'
+title: "Update Challenge. Get your existing apps ready for Windows 10."
 url: 'https://www.dvlup.com/Challenge/0bbeeaf5-8b48-4bc6-8930-6e20bf3b480e'
 category: 5a88e1adbd6dca0d5f0d26ee
 slug: 'update-challenge-get-your-existing-apps-ready-for-windows-10'

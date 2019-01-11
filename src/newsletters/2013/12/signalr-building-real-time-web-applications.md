@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d60
-title: 'SignalR: Building real time web applications'
+title: "SignalR: Building real time web applications"
 url: 'http://blogs.msdn.com/b/webdev/archive/2012/12/17/signalr-building-real-time-web-applications.aspx'
 category: 5a88e1afbd6dca0d5f0d2d60
 slug: 'signalr-building-real-time-web-applications'

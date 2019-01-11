@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d21cc
-title: 'Announcing Visual Studio “15” Preview 5'
+title: "Announcing Visual Studio “15” Preview 5"
 url: 'https://blogs.msdn.microsoft.com/visualstudio/2016/10/05/announcing-visual-studio-15-preview-5/'
 category: 5a88e1acbd6dca0d5f0d21cc
 slug: 'announcing-visual-studio-15-preview-5'

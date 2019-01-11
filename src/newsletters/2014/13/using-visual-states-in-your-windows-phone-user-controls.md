@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a66
-title: 'Using Visual States in Your Windows Phone User Controls'
+title: "Using Visual States in Your Windows Phone User Controls"
 url: 'http://visualstudiomagazine.com/articles/2014/03/01/using-visual-states-in-your-windows-phone-user-controls.aspx'
 category: 5a88e1aebd6dca0d5f0d2a66
 slug: 'using-visual-states-in-your-windows-phone-user-controls'

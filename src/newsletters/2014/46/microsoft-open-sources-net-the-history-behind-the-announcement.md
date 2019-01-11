@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d284a
-title: 'Microsoft Open Sources .NET – The History Behind the Announcement'
+title: "Microsoft Open Sources .NET – The History Behind the Announcement"
 url: 'http://kylehodgson.com/2014/11/14/microsoft-open-sources-net-the-history-behind-the-announcement/'
 category: 5a88e1aebd6dca0d5f0d284a
 slug: 'microsoft-open-sources-net-the-history-behind-the-announcement'

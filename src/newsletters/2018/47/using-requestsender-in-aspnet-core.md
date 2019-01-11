@@ -1,6 +1,6 @@
 ---
 _id: 5bf5b1ead9a59329f3f70e47
-title: 'Using RequestSender in ASP.NET Core'
+title: "Using RequestSender in ASP.NET Core"
 url: 'https://medium.com/streamwriter/using-requestsender-in-asp-net-core-419311451f02'
 category: 5bf5b1ead9a59329f3f70e47
 slug: 'using-requestsender-in-aspnet-core'

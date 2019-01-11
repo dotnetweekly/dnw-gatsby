@@ -1,6 +1,6 @@
 ---
 _id: 5bb5a3fd15695b5d53f150c6
-title: 'Blazor 0.6.0 experimental release now available'
+title: "Blazor 0.6.0 experimental release now available"
 url: 'https://blogs.msdn.microsoft.com/webdev/2018/10/02/blazor-0-6-0-experimental-release-now-available/'
 category: 5bb5a3fd15695b5d53f150c6
 slug: 'blazor-060-experimental-release-now-available'

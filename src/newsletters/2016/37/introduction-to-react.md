@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2218
-title: 'Introduction to React'
+title: "Introduction to React"
 url: 'https://mva.microsoft.com/en-US/training-courses/introduction-to-react-16635'
 category: 5a88e1acbd6dca0d5f0d2218
 slug: 'introduction-to-react'

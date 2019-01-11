@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2138
-title: 'ASP.NET Core Logging Tutorial'
+title: "ASP.NET Core Logging Tutorial"
 url: 'http://blog.elmah.io/aspnetcore-logging-tutorial/'
 category: 5a88e1acbd6dca0d5f0d2138
 slug: 'asp-net-core-logging-tutorial'

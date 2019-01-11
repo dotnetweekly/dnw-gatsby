@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2f34
-title: 'Develop Windows 8 Apps without Windows 8? Yes, you can!'
+title: "Develop Windows 8 Apps without Windows 8? Yes, you can!"
 url: 'http://blogs.msdn.com/b/jerrynixon/archive/2012/08/21/develop-windows-8-apps-without-windows-8-yes-you-can.aspx'
 category: 5a88e1afbd6dca0d5f0d2f34
 slug: 'develop-windows-8-apps-without-windows-8-yes-you-can'

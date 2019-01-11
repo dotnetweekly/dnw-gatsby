@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1fe0
-title: 'The Faces Behind Microsoft Visual Studio'
+title: "The Faces Behind Microsoft Visual Studio"
 url: 'https://www.thurrott.com/dev/105888/faces-behind-microsoft-visual-studio'
 category: 5a88e1abbd6dca0d5f0d1fe0
 slug: 'the-faces-behind-microsoft-visual-studio'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d27a2
-title: 'Learn to program with 24 free eBooks'
+title: "Learn to program with 24 free eBooks"
 url: 'http://www.davevoyles.com/learn-program-24-free-ebooks-post-life-hacker/'
 category: 5a88e1adbd6dca0d5f0d27a2
 slug: 'learn-to-program-with-24-free-ebooks'

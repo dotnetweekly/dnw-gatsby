@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a0a
-title: 'Make Windows 8 Games with Construct 2'
+title: "Make Windows 8 Games with Construct 2"
 url: 'http://blogs.msdn.com/b/dorischen/archive/2014/03/18/make-windows-8-games-with-construct-2.aspx'
 category: 5a88e1aebd6dca0d5f0d2a0a
 slug: 'make-windows-8-games-with-construct-2'

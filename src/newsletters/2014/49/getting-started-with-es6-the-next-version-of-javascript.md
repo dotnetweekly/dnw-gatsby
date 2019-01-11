@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2814
-title: 'Getting Started with ES6 – The Next Version of JavaScript'
+title: "Getting Started with ES6 – The Next Version of JavaScript"
 url: 'http://weblogs.asp.net/dwahlin/getting-started-with-es6-%E2%80%93-the-next-version-of-javascript'
 category: 5a88e1adbd6dca0d5f0d2814
 slug: 'getting-started-with-es6-the-next-version-of-javascript'

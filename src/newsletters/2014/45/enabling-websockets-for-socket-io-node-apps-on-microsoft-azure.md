@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2868
-title: 'Enabling Websockets for Socket.io Node apps on Microsoft Azure'
+title: "Enabling Websockets for Socket.io Node apps on Microsoft Azure"
 url: 'http://www.hanselman.com/blog/EnablingWebsocketsForSocketioNodeAppsOnMicrosoftAzure.aspx'
 category: 5a88e1aebd6dca0d5f0d2868
 slug: 'enabling-websockets-for-socket-io-node-apps-on-microsoft-azure'

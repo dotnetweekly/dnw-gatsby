@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1aba
-title: 'Bootstrap 4 Released'
+title: "Bootstrap 4 Released"
 url: 'http://blog.getbootstrap.com/2018/01/18/bootstrap-4/'
 category: 5a88e1aabd6dca0d5f0d1aba
 slug: 'bootstrap-4-released'

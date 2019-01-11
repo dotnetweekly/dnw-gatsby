@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d238a
-title: 'Data Points - Handling the State of Disconnected Entities in EF'
+title: "Data Points - Handling the State of Disconnected Entities in EF"
 url: 'https://msdn.microsoft.com/en-us/magazine/mt694083.aspx'
 category: 5a88e1acbd6dca0d5f0d238a
 slug: 'data-points-handling-the-state-of-disconnected-entities-in-ef'

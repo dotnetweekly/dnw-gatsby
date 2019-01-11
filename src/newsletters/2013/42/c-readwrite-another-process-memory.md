@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2bb8
-title: 'C# Read/Write another Process" Memory'
+title: "C# Read/Write another Process' Memory"
 url: 'http://www.codeproject.com/Articles/670373/Csharp-Read-Write-another-Process-Memory'
 category: 5a88e1aebd6dca0d5f0d2bb8
 slug: 'c-readwrite-another-process-memory'

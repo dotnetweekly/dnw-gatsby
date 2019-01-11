@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1dca
-title: 'A guide to caching in ASP.NET Core'
+title: "A guide to caching in ASP.NET Core"
 url: 'https://www.devtrends.co.uk/blog/a-guide-to-caching-in-asp.net-core'
 category: 5a88e1abbd6dca0d5f0d1dca
 slug: 'a-guide-to-caching-in-asp-net-core'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2aa8
-title: 'Building Modern Web Apps with ASP.NET - A new day of free ASP.NET Training for 2014'
+title: "Building Modern Web Apps with ASP.NET - A new day of free ASP.NET Training for 2014"
 url: 'http://www.hanselman.com/blog/BuildingModernWebAppsWithASPNETANewDayOfFreeASPNETTrainingFor2014.aspx'
 category: 5a88e1aebd6dca0d5f0d2aa8
 slug: 'building-modern-web-apps-with-asp-net-a-new-day-of-free-asp-net-training-for-2014-2'

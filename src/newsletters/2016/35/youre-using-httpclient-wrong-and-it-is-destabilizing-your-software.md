@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d223e
-title: 'YOU"RE USING HTTPCLIENT WRONG AND IT IS DESTABILIZING YOUR SOFTWARE'
+title: "YOU'RE USING HTTPCLIENT WRONG AND IT IS DESTABILIZING YOUR SOFTWARE"
 url: 'http://aspnetmonsters.com/2016/08/2016-08-27-httpclientwrong/'
 category: 5a88e1acbd6dca0d5f0d223e
 slug: 'youre-using-httpclient-wrong-and-it-is-destabilizing-your-software'

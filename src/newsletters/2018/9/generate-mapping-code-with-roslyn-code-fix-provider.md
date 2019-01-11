@@ -1,6 +1,6 @@
 ---
 _id: 5a9805f9877735bd0ca462e0
-title: 'Generate mapping code with Roslyn code fix provider.'
+title: "Generate mapping code with Roslyn code fix provider."
 url: 'https://cezarypiatek.github.io/post/generate-mapping-code-with-roslyn/'
 category: 5a9805f9877735bd0ca462e0
 slug: 'generate-mapping-code-with-roslyn-code-fix-provider'

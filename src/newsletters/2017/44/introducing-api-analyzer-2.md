@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1bf8
-title: 'Introducing API Analyzer'
+title: "Introducing API Analyzer"
 url: 'https://blogs.msdn.microsoft.com/dotnet/2017/10/31/introducing-api-analyzer/'
 category: 5a88e1aabd6dca0d5f0d1bf8
 slug: 'introducing-api-analyzer-2'

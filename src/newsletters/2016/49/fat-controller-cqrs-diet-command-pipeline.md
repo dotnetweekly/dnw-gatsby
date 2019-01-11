@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2122
-title: 'Fat Controller CQRS Diet: Command Pipeline'
+title: "Fat Controller CQRS Diet: Command Pipeline"
 url: 'http://codeopinion.com/fat-controller-cqrs-diet-command-pipeline/'
 category: 5a88e1acbd6dca0d5f0d2122
 slug: 'fat-controller-cqrs-diet-command-pipeline'

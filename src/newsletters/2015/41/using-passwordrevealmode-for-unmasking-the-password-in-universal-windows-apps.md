@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2568
-title: 'Using PasswordRevealMode for unmasking the Password in Universal Windows Apps'
+title: "Using PasswordRevealMode for unmasking the Password in Universal Windows Apps"
 url: 'http://dailydotnettips.com/2015/10/06/using-passwordrevealmode-for-unmasking-the-password-in-universal-windows-apps/'
 category: 5a88e1adbd6dca0d5f0d2568
 slug: 'using-passwordrevealmode-for-unmasking-the-password-in-universal-windows-apps'

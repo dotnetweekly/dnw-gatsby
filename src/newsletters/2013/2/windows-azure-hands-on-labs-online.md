@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2df8
-title: 'Windows Azure Hands-on Labs Online'
+title: "Windows Azure Hands-on Labs Online"
 url: 'http://msdn.microsoft.com/en-us/jj618399'
 category: 5a88e1afbd6dca0d5f0d2df8
 slug: 'windows-azure-hands-on-labs-online'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1c5a
-title: 'Single Page Applications with Vue.js - Deploy on Azure'
+title: "Single Page Applications with Vue.js - Deploy on Azure"
 url: 'https://app.pluralsight.com/library/courses/vue-js-single-page-applications/table-of-contents'
 category: 5a88e1aabd6dca0d5f0d1c5a
 slug: 'single-page-applications-with-vue-js-deploy-on-azure'

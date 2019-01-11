@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2e72
-title: 'Windows Phone Launch and BUILD Day 1 Keynote Summary'
+title: "Windows Phone Launch and BUILD Day 1 Keynote Summary"
 url: 'http://blogs.msdn.com/b/jennifer/archive/2012/10/30/windows-phone-launch-and-build-day-1-keynote-summary.aspx'
 category: 5a88e1afbd6dca0d5f0d2e72
 slug: 'windows-phone-launch-and-build-day-1-keynote-summary'

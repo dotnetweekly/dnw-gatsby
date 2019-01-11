@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b0e
-title: 'How Duck Typing Benefits C# Developers'
+title: "How Duck Typing Benefits C# Developers"
 url: 'http://haacked.com/archive/2007/08/19/why-duck-typing-matters-to-c-developers.aspx/'
 category: 5a88e1aebd6dca0d5f0d2b0e
 slug: 'how-duck-typing-benefits-c-developers'

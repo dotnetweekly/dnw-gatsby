@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2164
-title: 'Visual Studio Development – Introducing Visual Studio for Mac'
+title: "Visual Studio Development – Introducing Visual Studio for Mac"
 url: 'https://msdn.microsoft.com/magazine/mt790182'
 category: 5a88e1acbd6dca0d5f0d2164
 slug: 'visual-studio-development-introducing-visual-studio-for-mac'

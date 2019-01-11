@@ -1,6 +1,6 @@
 ---
 _id: 5b8df26028101349ae94a422
-title: 'Connect to Microsoft SQL server from Node'
+title: "Connect to Microsoft SQL server from Node"
 url: 'https://blog.dotnetframework.org/2018/09/01/connect-to-microsoft-sql-server-from-node/'
 category: 5b8df26028101349ae94a422
 slug: 'connect-to-microsoft-sql-server-from-node'

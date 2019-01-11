@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1e26
-title: 'CQRS in Azure – Part 4 – Azure Development Community'
+title: "CQRS in Azure – Part 4 – Azure Development Community"
 url: 'https://blogs.msdn.microsoft.com/azuredev/2017/06/21/cqrs-in-azure-part-4/'
 category: 5a88e1abbd6dca0d5f0d1e26
 slug: 'cqrs-in-azure-part-4-azure-development-community'

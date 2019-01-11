@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d262a
-title: 'Microservices, or “How to spread the love”'
+title: "Microservices, or “How to spread the love”"
 url: 'http://codebetter.com/kylebaley/2015/07/13/microservices-or-how-to-spread-the-love/'
 category: 5a88e1adbd6dca0d5f0d262a
 slug: 'microservices-or-how-to-spread-the-love'

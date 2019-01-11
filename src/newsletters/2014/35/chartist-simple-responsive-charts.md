@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2910
-title: 'CHARTIST - SIMPLE RESPONSIVE CHARTS'
+title: "CHARTIST - SIMPLE RESPONSIVE CHARTS"
 url: 'http://gionkunz.github.io/chartist-js/'
 category: 5a88e1aebd6dca0d5f0d2910
 slug: 'chartist-simple-responsive-charts'

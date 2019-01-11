@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2728
-title: 'Developer"s Guide to Windows 10 Preview'
+title: "Developer's Guide to Windows 10 Preview"
 url: 'https://channel9.msdn.com/Series/Developers-Guide-to-Windows-10-Preview'
 category: 5a88e1adbd6dca0d5f0d2728
 slug: 'developers-guide-to-windows-10-preview'

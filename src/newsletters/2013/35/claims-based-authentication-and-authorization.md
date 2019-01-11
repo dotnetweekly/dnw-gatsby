@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2c2c
-title: 'Claims-Based Authentication and Authorization'
+title: "Claims-Based Authentication and Authorization"
 url: 'http://www.codeproject.com/Articles/639458/Claims-Based-Authentication-and-Authorization'
 category: 5a88e1aebd6dca0d5f0d2c2c
 slug: 'claims-based-authentication-and-authorization'

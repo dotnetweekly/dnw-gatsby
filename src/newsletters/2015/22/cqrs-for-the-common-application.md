@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2690
-title: 'CQRS for the Common Application'
+title: "CQRS for the Common Application"
 url: 'https://msdn.microsoft.com/en-us/magazine/mt147237.aspx'
 category: 5a88e1adbd6dca0d5f0d2690
 slug: 'cqrs-for-the-common-application'

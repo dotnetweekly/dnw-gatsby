@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2f2c
-title: 'Screencasting Like a Pro : Beginning, Middle, and End'
+title: "Screencasting Like a Pro : Beginning, Middle, and End"
 url: 'http://wekeroad.com/2012/08/22/screencasting-like-a-pro-beginning-middle-end'
 category: 5a88e1afbd6dca0d5f0d2f2c
 slug: 'screencasting-like-a-pro-beginning-middle-and-end'

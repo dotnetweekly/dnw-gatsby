@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d20
-title: 'KinectHealth'
+title: "KinectHealth"
 url: 'http://www.kinecthealth.com/'
 category: 5a88e1afbd6dca0d5f0d2d20
 slug: 'kinecthealth'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1f88
-title: 'Deconstructors for non-tuple types in C# 7.0'
+title: "Deconstructors for non-tuple types in C# 7.0"
 url: 'https://andrewlock.net/deconstructors-for-non-tuple-types-in-c-7-0/'
 category: 5a88e1abbd6dca0d5f0d1f88
 slug: 'deconstructors-for-non-tuple-types-in-c-7-0'

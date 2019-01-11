@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d272e
-title: 'Visual Studio Tools for Windows 10 Technical Preview'
+title: "Visual Studio Tools for Windows 10 Technical Preview"
 url: 'http://blogs.msdn.com/b/somasegar/archive/2015/03/23/visual-studio-tools-for-windows-10-technical-preview.aspx'
 category: 5a88e1adbd6dca0d5f0d272e
 slug: 'visual-studio-tools-for-windows-10-technical-preview'

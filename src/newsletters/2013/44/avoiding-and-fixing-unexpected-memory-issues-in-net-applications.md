@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b96
-title: 'Avoiding and fixing unexpected memory issues in .NET applications'
+title: "Avoiding and fixing unexpected memory issues in .NET applications"
 url: 'http://www.codeproject.com/Articles/676291/Avoiding-and-fixing-unexpected-memory-issues-in-NE'
 category: 5a88e1aebd6dca0d5f0d2b96
 slug: 'avoiding-and-fixing-unexpected-memory-issues-in-net-applications'

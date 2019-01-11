@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d2002
-title: 'dotnetify'
+title: "dotnetify"
 url: 'http://dotnetify.net/'
 category: 5a88e1abbd6dca0d5f0d2002
 slug: 'dotnetify'

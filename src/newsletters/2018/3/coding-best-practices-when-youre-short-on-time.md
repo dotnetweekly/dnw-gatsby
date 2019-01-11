@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1ae6
-title: 'Coding Best Practices When You"re Short On Time'
+title: "Coding Best Practices When You're Short On Time"
 url: 'https://blog.submain.com/coding-best-practices-short-time/'
 category: 5a88e1aabd6dca0d5f0d1ae6
 slug: 'coding-best-practices-when-youre-short-on-time'

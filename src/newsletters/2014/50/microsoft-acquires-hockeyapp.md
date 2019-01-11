@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d280e
-title: 'Microsoft acquires HockeyApp'
+title: "Microsoft acquires HockeyApp"
 url: 'http://blogs.msdn.com/b/bharry/archive/2014/12/11/microsoft-acquires-hockeyapp.aspx'
 category: 5a88e1adbd6dca0d5f0d280e
 slug: 'microsoft-acquires-hockeyapp'

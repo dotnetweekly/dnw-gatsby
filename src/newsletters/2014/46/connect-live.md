@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2852
-title: 'Connect(); Live'
+title: "Connect(); Live"
 url: 'http://www.visualstudio.com/en-us/connect-event-live-vs'
 category: 5a88e1aebd6dca0d5f0d2852
 slug: 'connect-live'

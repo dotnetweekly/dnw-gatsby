@@ -1,6 +1,6 @@
 ---
 _id: 5ae2f8607b1832006e43edd7
-title: 'How To Create NuGet Packages'
+title: "How To Create NuGet Packages"
 url: 'https://dotnetcore.gaprogman.com/2018/04/26/how-to-create-nuget-packages/'
 category: 5ae2f8607b1832006e43edd7
 slug: 'how-to-create-nuget-packages'

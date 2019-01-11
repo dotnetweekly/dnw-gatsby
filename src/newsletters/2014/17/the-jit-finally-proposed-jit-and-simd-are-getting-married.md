@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a20
-title: 'The JIT finally proposed. JIT and SIMD are getting married.'
+title: "The JIT finally proposed. JIT and SIMD are getting married."
 url: 'http://blogs.msdn.com/b/dotnet/archive/2014/04/07/the-jit-finally-proposed-jit-and-simd-are-getting-married.aspx'
 category: 5a88e1aebd6dca0d5f0d2a20
 slug: 'the-jit-finally-proposed-jit-and-simd-are-getting-married'

@@ -1,6 +1,6 @@
 ---
 _id: 5af366777ecc50ef636cd13a
-title: 'Azure mobile app is now generally available'
+title: "Azure mobile app is now generally available"
 url: 'https://azure.microsoft.com/en-us/blog/azure-mobile-app-now-generally-available/'
 category: 5af366777ecc50ef636cd13a
 slug: 'azure-mobile-app-is-now-generally-available'

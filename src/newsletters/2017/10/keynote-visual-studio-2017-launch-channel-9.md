@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1fb4
-title: 'Keynote | Visual Studio 2017 Launch | Channel 9'
+title: "Keynote | Visual Studio 2017 Launch | Channel 9"
 url: 'https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2017-Launch/100'
 category: 5a88e1abbd6dca0d5f0d1fb4
 slug: 'keynote-visual-studio-2017-launch-channel-9'

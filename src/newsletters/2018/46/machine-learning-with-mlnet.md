@@ -1,6 +1,6 @@
 ---
 _id: 5bebe4a0f035657c4c387dcb
-title: 'Machine Learning With ML.NET'
+title: "Machine Learning With ML.NET"
 url: 'https://www.telerik.com/blogs/machine-learning-with-ml-dotnet'
 category: 5bebe4a0f035657c4c387dcb
 slug: 'machine-learning-with-mlnet'

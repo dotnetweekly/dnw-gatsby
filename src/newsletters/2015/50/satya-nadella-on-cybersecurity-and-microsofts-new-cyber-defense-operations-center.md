@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d24d6
-title: 'Satya Nadella on Cybersecurity and Microsoft’s new Cyber Defense Operations Center'
+title: "Satya Nadella on Cybersecurity and Microsoft’s new Cyber Defense Operations Center"
 url: 'https://channel9.msdn.com/blogs/taste-of-premier/satya-nadella-on-cybersecurity'
 category: 5a88e1adbd6dca0d5f0d24d6
 slug: 'satya-nadella-on-cybersecurity-and-microsofts-new-cyber-defense-operations-center'

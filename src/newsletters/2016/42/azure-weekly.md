@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d21b6
-title: 'Azure Weekly'
+title: "Azure Weekly"
 url: 'https://buildazure.com/2016/10/17/azure-weekly-oct-17-2016/'
 category: 5a88e1acbd6dca0d5f0d21b6
 slug: 'azure-weekly'

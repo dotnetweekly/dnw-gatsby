@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d27d6
-title: 'Using Prism in Universal Windows apps'
+title: "Using Prism in Universal Windows apps"
 url: 'http://blogs.msdn.com/b/mspfe/archive/2015/01/07/using-prism-in-universal-windows-apps.aspx'
 category: 5a88e1adbd6dca0d5f0d27d6
 slug: 'using-prism-in-universal-windows-apps'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1d32
-title: 'Create a CI/CD pipeline for containerized ASP.NET Core projects'
+title: "Create a CI/CD pipeline for containerized ASP.NET Core projects"
 url: 'https://blogs.msdn.microsoft.com/visualstudio/2017/08/22/create-a-cicd-pipeline-for-containerized-asp-net-core-projects/'
 category: 5a88e1abbd6dca0d5f0d1d32
 slug: 'create-a-cicd-pipeline-for-containerized-asp-net-core-projects'

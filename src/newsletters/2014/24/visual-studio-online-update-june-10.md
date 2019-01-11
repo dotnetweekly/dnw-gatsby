@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d29d0
-title: 'Visual Studio Online Update – June 10'
+title: "Visual Studio Online Update – June 10"
 url: 'http://blogs.msdn.com/b/bharry/archive/2014/06/10/visual-studio-online-update-june-10.aspx'
 category: 5a88e1aebd6dca0d5f0d29d0
 slug: 'visual-studio-online-update-june-10'

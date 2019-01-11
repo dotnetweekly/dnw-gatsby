@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d2042
-title: 'Around The World With MVPs: MS Cloud Summit Paris'
+title: "Around The World With MVPs: MS Cloud Summit Paris"
 url: 'https://blogs.msdn.microsoft.com/mvpawardprogram/2017/02/02/around-the-world-with-mvps-paris-2/'
 category: 5a88e1abbd6dca0d5f0d2042
 slug: 'around-the-world-with-mvps-ms-cloud-summit-paris'

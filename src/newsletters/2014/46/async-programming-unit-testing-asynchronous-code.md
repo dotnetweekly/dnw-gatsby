@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d284c
-title: 'Async Programming Unit Testing Asynchronous Code'
+title: "Async Programming Unit Testing Asynchronous Code"
 url: 'http://msdn.microsoft.com/en-us/magazine/dn818493.aspx'
 category: 5a88e1aebd6dca0d5f0d284c
 slug: 'async-programming-unit-testing-asynchronous-code'

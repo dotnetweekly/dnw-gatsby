@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d27ae
-title: 'Why Developers Need to Understand Execution Plans'
+title: "Why Developers Need to Understand Execution Plans"
 url: 'https://www.simple-talk.com/sql/performance/why-developers-need-to-understand-execution-plans/'
 category: 5a88e1adbd6dca0d5f0d27ae
 slug: 'why-developers-need-to-understand-execution-plans'

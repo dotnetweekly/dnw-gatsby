@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d22d0
-title: 'First Steps: Exploring .NET Core and ASP.NET Core'
+title: "First Steps: Exploring .NET Core and ASP.NET Core"
 url: 'https://weblog.west-wind.com/posts/2016/Jun/29/First-Steps-Exploring-NET-Core-and-ASPNET-Core'
 category: 5a88e1acbd6dca0d5f0d22d0
 slug: 'first-steps-exploring-net-core-and-asp-net-core'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d3074
-title: 'Windows Azure 90-day free trial'
+title: "Windows Azure 90-day free trial"
 url: 'http://www.windowsazure.com/en-us/pricing/3-month-trial/'
 category: 5a88e1afbd6dca0d5f0d3074
 slug: 'windows-azure-90-day-free-trial'

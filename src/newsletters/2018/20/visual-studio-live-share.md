@@ -1,6 +1,6 @@
 ---
 _id: 5afb2814416efa72fa328cd0
-title: 'Visual Studio Live Share'
+title: "Visual Studio Live Share"
 url: 'https://www.visualstudio.com/services/live-share/'
 category: 5afb2814416efa72fa328cd0
 slug: 'visual-studio-live-share'

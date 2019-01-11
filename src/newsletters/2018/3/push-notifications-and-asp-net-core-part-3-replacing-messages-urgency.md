@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1ad0
-title: 'Push Notifications and ASP.NET Core - Part 3 (Replacing Messages &amp; Urgency)'
+title: "Push Notifications and ASP.NET Core - Part 3 (Replacing Messages &amp; Urgency)"
 url: 'https://www.tpeczek.com/2018/01/push-notifications-and-aspnet-core-part_18.html'
 category: 5a88e1aabd6dca0d5f0d1ad0
 slug: 'push-notifications-and-asp-net-core-part-3-replacing-messages-urgency'

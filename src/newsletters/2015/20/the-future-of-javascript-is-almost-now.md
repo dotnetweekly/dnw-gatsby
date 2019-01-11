@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d26b8
-title: 'The future of JavaScript is (almost) now'
+title: "The future of JavaScript is (almost) now"
 url: 'http://sdtimes.com/the-future-of-javascript-is-almost-now/'
 category: 5a88e1adbd6dca0d5f0d26b8
 slug: 'the-future-of-javascript-is-almost-now'

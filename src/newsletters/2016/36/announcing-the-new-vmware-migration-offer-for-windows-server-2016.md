@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2232
-title: 'Announcing the new VMware migration offer for Windows Server 2016'
+title: "Announcing the new VMware migration offer for Windows Server 2016"
 url: 'https://blogs.technet.microsoft.com/windowsserver/2016/08/24/announcing-the-new-vmware-migration-offer-for-windows-server-2016/'
 category: 5a88e1acbd6dca0d5f0d2232
 slug: 'announcing-the-new-vmware-migration-offer-for-windows-server-2016'

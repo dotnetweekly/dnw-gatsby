@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1ba4
-title: 'Mastering ASP.NET Core 2.0'
+title: "Mastering ASP.NET Core 2.0"
 url: 'https://weblogs.asp.net/ricardoperes/mastering-asp-net-core-2-0'
 category: 5a88e1aabd6dca0d5f0d1ba4
 slug: 'mastering-asp-net-core-2-0'

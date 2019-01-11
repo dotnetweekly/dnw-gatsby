@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2e08
-title: 'The C# Memory Model in Theory and Practice'
+title: "The C# Memory Model in Theory and Practice"
 url: 'http://msdn.microsoft.com/en-us/magazine/jj863136.aspx'
 category: 5a88e1afbd6dca0d5f0d2e08
 slug: 'the-c-memory-model-in-theory-and-practice'

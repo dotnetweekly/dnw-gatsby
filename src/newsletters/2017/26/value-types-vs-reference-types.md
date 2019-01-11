@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1e1c
-title: 'Value Types vs Reference Types'
+title: "Value Types vs Reference Types"
 url: 'http://adamsitnik.com/Value-Types-vs-Reference-Types/'
 category: 5a88e1abbd6dca0d5f0d1e1c
 slug: 'value-types-vs-reference-types'

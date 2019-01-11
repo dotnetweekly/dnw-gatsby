@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b4e
-title: 'A simple implementation of Microsoft.AspNet.Identity '
+title: "A simple implementation of Microsoft.AspNet.Identity "
 url: 'http://weblogs.asp.net/imranbaloch/archive/2013/12/12/a-simple-implementation-of-microsoft-aspnet-identity.aspx'
 category: 5a88e1aebd6dca0d5f0d2b4e
 slug: 'a-simple-implementation-of-microsoft-aspnet-identity'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1f96
-title: 'Connecting hardware and running first UWP app on Raspberry'
+title: "Connecting hardware and running first UWP app on Raspberry"
 url: 'http://lukaszhryciuk.com/csharp/connecting-hardware-and-running-first-uwp-app-on-raspberry/'
 category: 5a88e1abbd6dca0d5f0d1f96
 slug: 'connecting-hardware-and-running-first-uwp-app-on-raspberry'

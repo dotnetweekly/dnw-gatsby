@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2916
-title: 'Command line scaffolding for ASP.NET vNext'
+title: "Command line scaffolding for ASP.NET vNext"
 url: 'http://blogs.msdn.com/b/webdev/archive/2014/08/21/command-line-scaffolding-for-asp-net-vnext.aspx'
 category: 5a88e1aebd6dca0d5f0d2916
 slug: 'command-line-scaffolding-for-asp-net-vnext'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2812
-title: 'C# 6 IN ACTION'
+title: "C# 6 IN ACTION"
 url: 'http://codeblog.jonskeet.uk/2014/12/08/c-6-in-action/'
 category: 5a88e1adbd6dca0d5f0d2812
 slug: 'c-6-in-action'

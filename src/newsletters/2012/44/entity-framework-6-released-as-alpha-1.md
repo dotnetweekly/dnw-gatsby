@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2e68
-title: 'Entity Framework 6 Released as Alpha 1'
+title: "Entity Framework 6 Released as Alpha 1"
 url: 'http://visualstudiomagazine.com/blogs/data-driver/2012/11/entity-framework-6-alpha-1-announced.aspx'
 category: 5a88e1afbd6dca0d5f0d2e68
 slug: 'entity-framework-6-released-as-alpha-1'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2df2
-title: 'Windows Store app - Authenticate and Authorize users with Server Scripts in Windows Azure Mobile Services'
+title: "Windows Store app - Authenticate and Authorize users with Server Scripts in Windows Azure Mobile Services"
 url: 'http://channel9.msdn.com/Series/Windows-Azure-Mobile-Services/Windows-Store-app-Authenticate-and-Authorize-users-with-Server-Scripts-in-Windows-Azure-Mobile-Servi'
 category: 5a88e1afbd6dca0d5f0d2df2
 slug: 'windows-store-app-authenticate-and-authorize-users-with-server-scripts-in-windows-azure-mobile-serv'

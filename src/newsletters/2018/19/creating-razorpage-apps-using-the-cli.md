@@ -1,6 +1,6 @@
 ---
 _id: 5af0efdf7ecc50b1146cd130
-title: 'Creating RazorPage apps using the CLI'
+title: "Creating RazorPage apps using the CLI"
 url: 'http://tattoocoder.com/creating-razorpage-apps-using-the-cli/'
 category: 5af0efdf7ecc50b1146cd130
 slug: 'creating-razorpage-apps-using-the-cli'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1c12
-title: 'Data Points - DDD-Friendlier EF Core 2.0, Part 2'
+title: "Data Points - DDD-Friendlier EF Core 2.0, Part 2"
 url: 'https://msdn.microsoft.com/magazine/mt826347'
 category: 5a88e1aabd6dca0d5f0d1c12
 slug: 'data-points-ddd-friendlier-ef-core-2-0-part-2'

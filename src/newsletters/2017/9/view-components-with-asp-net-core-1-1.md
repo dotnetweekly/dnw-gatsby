@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1fe8
-title: 'View Components with ASP.NET Core 1.1'
+title: "View Components with ASP.NET Core 1.1"
 url: 'https://csharp.christiannagel.com/2017/02/28/viewcomponents/'
 category: 5a88e1abbd6dca0d5f0d1fe8
 slug: 'view-components-with-asp-net-core-1-1'

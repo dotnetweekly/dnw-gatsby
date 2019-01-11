@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d27f0
-title: 'Introducing .NET Core'
+title: "Introducing .NET Core"
 url: 'Introducing .NET Core'
 category: 5a88e1adbd6dca0d5f0d27f0
 slug: 'introducing-net-core'

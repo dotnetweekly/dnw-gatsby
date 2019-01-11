@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1d26
-title: 'Breaking Changes in EF Core 2.0'
+title: "Breaking Changes in EF Core 2.0"
 url: 'https://www.infoq.com/news/2017/08/EF-Core-2.0-3'
 category: 5a88e1abbd6dca0d5f0d1d26
 slug: 'breaking-changes-in-ef-core-2-0'

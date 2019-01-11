@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d305c
-title: 'An introduction to Unity3D - A 30 minute getting started guide'
+title: "An introduction to Unity3D - A 30 minute getting started guide"
 url: 'http://channel9.msdn.com/coding4fun/blog/An-introduction-to-Unity3D-A-30-minute-getting-started-guide'
 category: 5a88e1afbd6dca0d5f0d305c
 slug: 'an-introduction-to-unity3d-a-30-minute-getting-started-guide'

@@ -1,6 +1,6 @@
 ---
 _id: 5af0b25b7ecc50ce216cd12c
-title: 'Space eaten up by Resharper'
+title: "Space eaten up by Resharper"
 url: 'https://cezarypiatek.github.io/post/space-eaten-up-by-resharper/'
 category: 5af0b25b7ecc50ce216cd12c
 slug: 'space-eaten-up-by-resharper'

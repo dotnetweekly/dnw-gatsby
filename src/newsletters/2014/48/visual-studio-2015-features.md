@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d282c
-title: 'Visual Studio 2015 Features!'
+title: "Visual Studio 2015 Features!"
 url: 'http://geekswithblogs.net/TATWORTH/archive/2014/11/27/visual-studio-2015-features.aspx'
 category: 5a88e1aebd6dca0d5f0d282c
 slug: 'visual-studio-2015-features'

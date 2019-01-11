@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b02
-title: 'Cloud Load Testing with Visual Studio Ultimate 2013 &amp; Visual Studio Online'
+title: "Cloud Load Testing with Visual Studio Ultimate 2013 &amp; Visual Studio Online"
 url: 'https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032576182&Culture=en-US&community=0'
 category: 5a88e1aebd6dca0d5f0d2b02
 slug: 'cloud-load-testing-with-visual-studio-ultimate-2013-visual-studio-online'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d21c0
-title: 'Cognitive Services - Face and Emotion Recognition in Xamarin.Forms with Microsoft Cognitive Services'
+title: "Cognitive Services - Face and Emotion Recognition in Xamarin.Forms with Microsoft Cognitive Services"
 url: 'https://msdn.microsoft.com/magazine/mt742868'
 category: 5a88e1acbd6dca0d5f0d21c0
 slug: 'cognitive-services-face-and-emotion-recognition-in-xamarin-forms-with-microsoft-cognitive-services'

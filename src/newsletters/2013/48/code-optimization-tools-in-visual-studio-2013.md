@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b70
-title: 'Code Optimization Tools in Visual Studio 2013'
+title: "Code Optimization Tools in Visual Studio 2013"
 url: 'http://www.dotnetcurry.com/showarticle.aspx?ID=958'
 category: 5a88e1aebd6dca0d5f0d2b70
 slug: 'code-optimization-tools-in-visual-studio-2013'

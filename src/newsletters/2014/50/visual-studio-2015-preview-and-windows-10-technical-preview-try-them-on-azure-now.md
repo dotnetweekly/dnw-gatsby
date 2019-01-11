@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2808
-title: 'Visual Studio 2015 Preview and Windows 10 Technical Preview – Try Them On Azure Now'
+title: "Visual Studio 2015 Preview and Windows 10 Technical Preview – Try Them On Azure Now"
 url: 'http://www.dirkstrauss.com/how-to/microsoft-azure#.VI-8qyusXyl'
 category: 5a88e1adbd6dca0d5f0d2808
 slug: 'visual-studio-2015-preview-and-windows-10-technical-preview-try-them-on-azure-now'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2674
-title: 'Making the Case for using F# with Tomas Petricek'
+title: "Making the Case for using F# with Tomas Petricek"
 url: 'http://channel9.msdn.com/Blogs/Seth-Juarez/Making-the-Case-for-using-F-with-Tomas-Petricek'
 category: 5a88e1adbd6dca0d5f0d2674
 slug: 'making-the-case-for-using-f-with-tomas-petricek'

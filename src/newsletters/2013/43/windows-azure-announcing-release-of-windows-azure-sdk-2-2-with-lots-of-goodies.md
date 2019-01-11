@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2bb0
-title: 'Windows Azure: Announcing release of Windows Azure SDK 2.2 (with lots of goodies)'
+title: "Windows Azure: Announcing release of Windows Azure SDK 2.2 (with lots of goodies)"
 url: 'http://weblogs.asp.net/scottgu/archive/2013/10/22/windows-azure-announcing-release-of-windows-azure-sdk-2-2-with-lots-of-goodies.aspx'
 category: 5a88e1aebd6dca0d5f0d2bb0
 slug: 'windows-azure-announcing-release-of-windows-azure-sdk-2-2-with-lots-of-goodies'

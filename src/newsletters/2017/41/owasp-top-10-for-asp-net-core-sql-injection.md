@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1c70
-title: 'OWASP Top 10 for ASP.net Core - SQL Injection'
+title: "OWASP Top 10 for ASP.net Core - SQL Injection"
 url: 'https://dotnetcoretutorials.com/2017/10/11/owasp-top-10-asp-net-core-sql-injection/'
 category: 5a88e1aabd6dca0d5f0d1c70
 slug: 'owasp-top-10-for-asp-net-core-sql-injection'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d304a
-title: 'How to get a registration code for the Windows Store'
+title: "How to get a registration code for the Windows Store"
 url: 'http://blogs.msdn.com/b/jennifer/archive/2012/05/18/how-to-get-a-registration-code-for-the-windows-store.aspx'
 category: 5a88e1afbd6dca0d5f0d304a
 slug: 'how-to-get-a-registration-code-for-the-windows-store'

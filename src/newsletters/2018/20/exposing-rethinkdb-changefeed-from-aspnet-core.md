@@ -1,6 +1,6 @@
 ---
 _id: 5afaa510416efa859d328cce
-title: 'Exposing RethinkDB changefeed from ASP.NET Core'
+title: "Exposing RethinkDB changefeed from ASP.NET Core"
 url: 'https://www.tpeczek.com/2018/05/exposing-rethinkdb-changefeed-from.html'
 category: 5afaa510416efa859d328cce
 slug: 'exposing-rethinkdb-changefeed-from-aspnet-core'

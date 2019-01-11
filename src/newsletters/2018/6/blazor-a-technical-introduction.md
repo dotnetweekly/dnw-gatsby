@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1a62
-title: 'Blazor: a technical introduction'
+title: "Blazor: a technical introduction"
 url: 'http://blog.stevensanderson.com/2018/02/06/blazor-intro/'
 category: 5a88e1aabd6dca0d5f0d1a62
 slug: 'blazor-a-technical-introduction'

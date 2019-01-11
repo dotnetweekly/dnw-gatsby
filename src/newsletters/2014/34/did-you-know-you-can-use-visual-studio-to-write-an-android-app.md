@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2918
-title: 'Did you know you can use Visual Studio to write an Android app? '
+title: "Did you know you can use Visual Studio to write an Android app? "
 url: 'http://blog.jerrynixon.com/2014/08/did-you-know-you-can-use-visual-studio.html'
 category: 5a88e1aebd6dca0d5f0d2918
 slug: 'did-you-know-you-can-use-visual-studio-to-write-an-android-app'

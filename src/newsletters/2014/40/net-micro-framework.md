@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d28c2
-title: '.NET Micro Framework'
+title: ".NET Micro Framework"
 url: 'http://channel9.msdn.com/Shows/Visual-Studio-Toolbox/-NET-Micro-Framework'
 category: 5a88e1aebd6dca0d5f0d28c2
 slug: 'net-micro-framework'

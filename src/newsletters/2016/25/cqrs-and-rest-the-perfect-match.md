@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d22ee
-title: 'CQRS and REST: the perfect match'
+title: "CQRS and REST: the perfect match"
 url: 'https://lostechies.com/jimmybogard/2016/06/01/cqrs-and-rest-the-perfect-match/'
 category: 5a88e1acbd6dca0d5f0d22ee
 slug: 'cqrs-and-rest-the-perfect-match'

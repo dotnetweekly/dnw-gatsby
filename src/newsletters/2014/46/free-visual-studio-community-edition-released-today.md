@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2848
-title: 'Free Visual Studio Community edition released today!'
+title: "Free Visual Studio Community edition released today!"
 url: 'http://blogs.msdn.com/b/onecode/archive/2014/11/12/free-visual-studio-community-edition-released-today.aspx'
 category: 5a88e1aebd6dca0d5f0d2848
 slug: 'free-visual-studio-community-edition-released-today'

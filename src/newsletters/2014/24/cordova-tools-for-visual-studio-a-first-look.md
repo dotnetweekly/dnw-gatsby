@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d29c0
-title: 'Cordova Tools for Visual Studio: A first Look'
+title: "Cordova Tools for Visual Studio: A first Look"
 url: 'http://stevenedouard.com/cordova-tools-visual-studio-first-look/'
 category: 5a88e1aebd6dca0d5f0d29c0
 slug: 'cordova-tools-for-visual-studio-a-first-look'

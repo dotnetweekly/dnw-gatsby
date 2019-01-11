@@ -1,6 +1,6 @@
 ---
 _id: 5afc6df3416efa475a328cd3
-title: 'Introducing the Microsoft Edge DevTools Protocol - Microsoft Edge Dev BlogMicrosoft Edge Dev Blog'
+title: "Introducing the Microsoft Edge DevTools Protocol - Microsoft Edge Dev BlogMicrosoft Edge Dev Blog"
 url: 'https://blogs.windows.com/msedgedev/2018/05/11/introducing-edge-devtools-protocol/#oaWZvFgZc1rOGvF5.97'
 category: 5afc6df3416efa475a328cd3
 slug: 'introducing-the-microsoft-edge-devtools-protocol-microsoft-edge-dev-blogmicrosoft-edge-dev-blog'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d221a
-title: 'Free ebook: Microsoft Azure Essentials: Fundamentals of Azure, Second Edition'
+title: "Free ebook: Microsoft Azure Essentials: Fundamentals of Azure, Second Edition"
 url: 'https://blogs.msdn.microsoft.com/microsoft_press/2016/09/01/free-ebook-microsoft-azure-essentials-fundamentals-of-azure-second-edition/'
 category: 5a88e1acbd6dca0d5f0d221a
 slug: 'free-ebook-microsoft-azure-essentials-fundamentals-of-azure-second-edition'

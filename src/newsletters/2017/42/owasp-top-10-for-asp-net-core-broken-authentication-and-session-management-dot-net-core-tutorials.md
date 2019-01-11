@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1c52
-title: 'OWASP Top 10 for ASP.net Core - Broken Authentication and Session Management - Dot Net Core Tutorials'
+title: "OWASP Top 10 for ASP.net Core - Broken Authentication and Session Management - Dot Net Core Tutorials"
 url: 'https://dotnetcoretutorials.com/2017/10/16/owasp-top-10-asp-net-core-broken-authentication-session-management/'
 category: 5a88e1aabd6dca0d5f0d1c52
 slug: 'owasp-top-10-for-asp-net-core-broken-authentication-and-session-management-dot-net-core-tutorials'

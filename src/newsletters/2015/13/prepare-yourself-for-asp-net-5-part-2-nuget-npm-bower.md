@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d271c
-title: 'Prepare Yourself For ASP.NET 5 - Part 2 (NuGet, Npm, Bower)'
+title: "Prepare Yourself For ASP.NET 5 - Part 2 (NuGet, Npm, Bower)"
 url: 'http://www.binaryintellect.net/articles/3efa224b-f513-4a50-9e98-3a553b5c8ead.aspx'
 category: 5a88e1adbd6dca0d5f0d271c
 slug: 'prepare-yourself-for-asp-net-5-part-2-nuget-npm-bower'

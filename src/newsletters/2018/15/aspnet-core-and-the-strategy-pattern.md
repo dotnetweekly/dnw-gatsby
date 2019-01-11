@@ -1,6 +1,6 @@
 ---
 _id: 5acc3ef3b69aee002a1426aa
-title: 'ASP.NET Core and the Strategy Pattern'
+title: "ASP.NET Core and the Strategy Pattern"
 url: 'https://adamstorr.azurewebsites.net/blog/aspnetcore-and-the-strategy-pattern'
 category: 5acc3ef3b69aee002a1426aa
 slug: 'aspnet-core-and-the-strategy-pattern'

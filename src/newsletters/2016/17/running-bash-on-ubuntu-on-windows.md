@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2378
-title: 'Running Bash on Ubuntu on Windows!'
+title: "Running Bash on Ubuntu on Windows!"
 url: 'https://channel9.msdn.com/Events/Build/2016/P488'
 category: 5a88e1acbd6dca0d5f0d2378
 slug: 'running-bash-on-ubuntu-on-windows'

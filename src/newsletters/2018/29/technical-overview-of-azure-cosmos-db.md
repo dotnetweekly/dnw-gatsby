@@ -1,6 +1,6 @@
 ---
 _id: 5b5210c7999737005fc806b5
-title: 'Technical overview of Azure Cosmos DB'
+title: "Technical overview of Azure Cosmos DB"
 url: 'https://www.youtube.com/watch?v=Yl-rBYBd9q0'
 category: 5b5210c7999737005fc806b5
 slug: 'technical-overview-of-azure-cosmos-db'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2c4c
-title: 'New Mobile Services Samples'
+title: "New Mobile Services Samples"
 url: 'http://blogs.msdn.com/b/windowsazure/archive/2013/08/13/new-mobile-services-samples.aspx'
 category: 5a88e1aebd6dca0d5f0d2c4c
 slug: 'new-mobile-services-samples'

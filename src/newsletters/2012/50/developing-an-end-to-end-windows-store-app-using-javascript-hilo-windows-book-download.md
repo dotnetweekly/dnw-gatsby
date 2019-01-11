@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2e26
-title: 'Developing an end-to-end Windows Store app using JavaScript: Hilo (Windows) - Book Download'
+title: "Developing an end-to-end Windows Store app using JavaScript: Hilo (Windows) - Book Download"
 url: 'http://www.microsoft.com/en-us/download/details.aspx?id=36059&WT.mc_id=rss_alldownloads_all'
 category: 5a88e1afbd6dca0d5f0d2e26
 slug: 'developing-an-end-to-end-windows-store-app-using-javascript-hilo-windows-book-download'

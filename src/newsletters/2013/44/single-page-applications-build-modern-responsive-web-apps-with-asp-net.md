@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2ba4
-title: 'Single-Page Applications: Build Modern, Responsive Web Apps with ASP.NET'
+title: "Single-Page Applications: Build Modern, Responsive Web Apps with ASP.NET"
 url: 'http://msdn.microsoft.com/en-us/magazine/dn463786.aspx'
 category: 5a88e1aebd6dca0d5f0d2ba4
 slug: 'single-page-applications-build-modern-responsive-web-apps-with-asp-net'

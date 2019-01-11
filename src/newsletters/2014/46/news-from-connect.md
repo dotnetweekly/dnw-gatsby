@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2840
-title: 'News from Connect();'
+title: "News from Connect();"
 url: 'http://blogs.msdn.com/b/bharry/archive/2014/11/12/news-from-connect.aspx'
 category: 5a88e1aebd6dca0d5f0d2840
 slug: 'news-from-connect'

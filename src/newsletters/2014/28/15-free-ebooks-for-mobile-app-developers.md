@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d298e
-title: '15 Free Ebooks For Mobile App Developers'
+title: "15 Free Ebooks For Mobile App Developers"
 url: 'http://www.hongkiat.com/blog/free-ebooks-mobile-app-developers/'
 category: 5a88e1aebd6dca0d5f0d298e
 slug: '15-free-ebooks-for-mobile-app-developers'

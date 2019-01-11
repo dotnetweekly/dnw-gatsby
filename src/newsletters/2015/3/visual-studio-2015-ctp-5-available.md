@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d27c4
-title: 'Visual Studio 2015 CTP 5 Available'
+title: "Visual Studio 2015 CTP 5 Available"
 url: 'http://blogs.msdn.com/b/visualstudio/archive/2015/01/16/visual-studio-2015-cpt-5-now-available.aspx'
 category: 5a88e1adbd6dca0d5f0d27c4
 slug: 'visual-studio-2015-ctp-5-available'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1c88
-title: 'Azure Machine Learning WorkBench'
+title: "Azure Machine Learning WorkBench"
 url: 'https://blogs.msdn.microsoft.com/uk_faculty_connection/2017/09/29/azure-machine-learning-workbench/'
 category: 5a88e1abbd6dca0d5f0d1c88
 slug: 'azure-machine-learning-workbench'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2be8
-title: 'Build Windows Phone Apps using Windows Azure Mobile Services from Ground Up'
+title: "Build Windows Phone Apps using Windows Azure Mobile Services from Ground Up"
 url: 'http://blogs.msdn.com/b/wriju/archive/2013/09/30/build-windows-phone-apps-using-windows-azure-mobile-services-from-ground-up.aspx'
 category: 5a88e1aebd6dca0d5f0d2be8
 slug: 'build-windows-phone-apps-using-windows-azure-mobile-services-from-ground-up'

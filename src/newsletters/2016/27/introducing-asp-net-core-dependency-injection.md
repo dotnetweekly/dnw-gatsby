@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d22d2
-title: 'Introducing ASP.NET Core Dependency Injection'
+title: "Introducing ASP.NET Core Dependency Injection"
 url: 'http://www.developer.com/net/asp/introducing-asp.net-core-dependency-injection.html'
 category: 5a88e1acbd6dca0d5f0d22d2
 slug: 'introducing-asp-net-core-dependency-injection'

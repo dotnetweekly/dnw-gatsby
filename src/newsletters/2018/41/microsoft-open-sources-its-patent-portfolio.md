@@ -1,6 +1,6 @@
 ---
 _id: 5bbe70278a5a39dbdcfd9812
-title: '​Microsoft open-sources its patent portfolio'
+title: "​Microsoft open-sources its patent portfolio"
 url: 'https://www.zdnet.com/article/microsoft-open-sources-its-entire-patent-portfolio/'
 category: 5bbe70278a5a39dbdcfd9812
 slug: 'microsoft-open-sources-its-patent-portfolio'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d22c6
-title: 'Cutting Edge - Reflections on Code First, Persistence and Domain Modeling'
+title: "Cutting Edge - Reflections on Code First, Persistence and Domain Modeling"
 url: 'https://msdn.microsoft.com/magazine/mt736451'
 category: 5a88e1acbd6dca0d5f0d22c6
 slug: 'cutting-edge-reflections-on-code-first-persistence-and-domain-modeling'

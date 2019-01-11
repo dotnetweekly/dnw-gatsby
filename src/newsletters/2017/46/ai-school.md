@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1bd8
-title: 'AI School'
+title: "AI School"
 url: 'https://aischool.microsoft.com/learning-paths'
 category: 5a88e1aabd6dca0d5f0d1bd8
 slug: 'ai-school'

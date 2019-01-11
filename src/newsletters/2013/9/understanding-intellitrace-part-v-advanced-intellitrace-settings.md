@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d9a
-title: 'Understanding IntelliTrace Part V: Advanced IntelliTrace Settings'
+title: "Understanding IntelliTrace Part V: Advanced IntelliTrace Settings"
 url: 'http://blogs.msdn.com/b/zainnab/archive/2013/02/28/understanding-intellitrace-part-v-advanced-intellitrace-settings.aspx'
 category: 5a88e1afbd6dca0d5f0d2d9a
 slug: 'understanding-intellitrace-part-v-advanced-intellitrace-settings'

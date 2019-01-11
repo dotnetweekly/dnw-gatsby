@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2820
-title: 'EF7 - Priorities, Focus, and Initial Release'
+title: "EF7 - Priorities, Focus, and Initial Release"
 url: 'http://blogs.msdn.com/b/adonet/archive/2014/12/02/ef7-priorities-focus-and-initial-release.aspx'
 category: 5a88e1aebd6dca0d5f0d2820
 slug: 'ef7-priorities-focus-and-initial-release'

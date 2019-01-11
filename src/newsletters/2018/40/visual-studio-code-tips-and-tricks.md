@@ -1,6 +1,6 @@
 ---
 _id: 5bb5a3b715695bfd4ff150c5
-title: 'Visual Studio Code Tips and Tricks'
+title: "Visual Studio Code Tips and Tricks"
 url: 'https://code.visualstudio.com/docs/getstarted/tips-and-tricks'
 category: 5bb5a3b715695bfd4ff150c5
 slug: 'visual-studio-code-tips-and-tricks'

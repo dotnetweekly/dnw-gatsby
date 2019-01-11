@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1bae
-title: 'Choosing the C# Language latest version (minor release ) in Visual Studio 2017'
+title: "Choosing the C# Language latest version (minor release ) in Visual Studio 2017"
 url: 'http://dailydotnettips.com/2017/11/21/choosing-the-c-language-latest-version-minor-release-in-visual-studio-2017/'
 category: 5a88e1aabd6dca0d5f0d1bae
 slug: 'choosing-the-c-language-latest-version-minor-release-in-visual-studio-2017'

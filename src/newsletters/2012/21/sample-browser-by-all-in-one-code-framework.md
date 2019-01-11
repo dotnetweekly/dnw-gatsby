@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d3056
-title: 'Sample Browser - by All-In-One Code Framework'
+title: "Sample Browser - by All-In-One Code Framework"
 url: 'http://1code.codeplex.com/releases/view/86101'
 category: 5a88e1afbd6dca0d5f0d3056
 slug: 'sample-browser-by-all-in-one-code-framework'

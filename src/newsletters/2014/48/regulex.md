@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2828
-title: 'Regulex'
+title: "Regulex"
 url: 'http://jex.im/regulex/'
 category: 5a88e1aebd6dca0d5f0d2828
 slug: 'regulex'

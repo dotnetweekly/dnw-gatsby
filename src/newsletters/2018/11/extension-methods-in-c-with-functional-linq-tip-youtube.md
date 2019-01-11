@@ -1,6 +1,6 @@
 ---
 _id: 5aaa7771767c60026eaef8cf
-title: 'Extension Methods In C# (With Functional LINQ Tip) - YouTube'
+title: "Extension Methods In C# (With Functional LINQ Tip) - YouTube"
 url: 'https://www.youtube.com/watch?v=GKS7V0lIj3Q'
 category: 5aaa7771767c60026eaef8cf
 slug: 'extension-methods-in-c-with-functional-linq-tip-youtube'

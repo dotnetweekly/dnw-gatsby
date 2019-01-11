@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b46
-title: 'Sexy C#'
+title: "Sexy C#"
 url: 'http://www.codeproject.com/Articles/696879/Sexy-Csharp'
 category: 5a88e1aebd6dca0d5f0d2b46
 slug: 'sexy-c'

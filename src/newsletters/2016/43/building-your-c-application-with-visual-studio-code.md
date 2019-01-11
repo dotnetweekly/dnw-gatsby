@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d21a4
-title: 'Building your C++ application with Visual Studio Code'
+title: "Building your C++ application with Visual Studio Code"
 url: 'https://blogs.msdn.microsoft.com/vcblog/2016/10/24/building-your-c-application-with-visual-studio-code/'
 category: 5a88e1acbd6dca0d5f0d21a4
 slug: 'building-your-c-application-with-visual-studio-code'

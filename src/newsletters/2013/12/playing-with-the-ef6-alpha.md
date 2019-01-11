@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d62
-title: 'Playing with the EF6 Alpha'
+title: "Playing with the EF6 Alpha"
 url: 'http://msdn.microsoft.com/en-us/magazine/jj991973.aspx'
 category: 5a88e1afbd6dca0d5f0d2d62
 slug: 'playing-with-the-ef6-alpha'

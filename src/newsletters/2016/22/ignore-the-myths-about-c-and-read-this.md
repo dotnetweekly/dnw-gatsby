@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2328
-title: 'Ignore the Myths About C++ And Read This'
+title: "Ignore the Myths About C++ And Read This"
 url: 'https://visualstudiomagazine.com/articles/2016/05/26/cpp-myths-read-andrey-karpov.aspx'
 category: 5a88e1acbd6dca0d5f0d2328
 slug: 'ignore-the-myths-about-c-and-read-this'

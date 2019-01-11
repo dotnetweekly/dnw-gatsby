@@ -1,6 +1,6 @@
 ---
 _id: 5c0a2400d9a5932dd7f70e8f
-title: 'Double Dispatch in C# and DDD'
+title: "Double Dispatch in C# and DDD"
 url: 'https://ardalis.com/double-dispatch-in-c-and-ddd'
 category: 5c0a2400d9a5932dd7f70e8f
 slug: 'double-dispatch-in-c-and-ddd'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2f5c
-title: 'Designing for Modern UI: Module 1 of 11'
+title: "Designing for Modern UI: Module 1 of 11"
 url: 'https://www.facultyresourcecenter.com/curriculum/8999-Designing-for-Modern-UI-Module-1.aspx?c1=en-us&c2=0'
 category: 5a88e1afbd6dca0d5f0d2f5c
 slug: 'designing-for-modern-ui-module-1-of-11'

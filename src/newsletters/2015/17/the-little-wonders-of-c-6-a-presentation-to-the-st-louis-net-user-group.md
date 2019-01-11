@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d26e0
-title: 'The Little Wonders of C# 6 - A Presentation to the St. Louis .NET User Group'
+title: "The Little Wonders of C# 6 - A Presentation to the St. Louis .NET User Group"
 url: 'http://geekswithblogs.net/BlackRabbitCoder/archive/2015/04/27/the-little-wonders-of-c-6---a-presentation-to.aspx'
 category: 5a88e1adbd6dca0d5f0d26e0
 slug: 'the-little-wonders-of-c-6-a-presentation-to-the-st-louis-net-user-group'

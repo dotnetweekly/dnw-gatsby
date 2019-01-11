@@ -1,6 +1,6 @@
 ---
 _id: 5aba6a755969e8004e816a5e
-title: 'Long Arithmetic from Microsoft'
+title: "Long Arithmetic from Microsoft"
 url: 'http://codingsight.com/long-arithmetic-microsoft/'
 category: 5aba6a755969e8004e816a5e
 slug: 'long-arithmetic-from-microsoft'

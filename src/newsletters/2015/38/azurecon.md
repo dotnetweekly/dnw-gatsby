@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d259c
-title: 'AzureCon'
+title: "AzureCon"
 url: 'https://azure.microsoft.com/en-us/azurecon/?WT.mc_id=16118-DEV-dev-ec_azurecon1_dmc-posts&MC=MSAzure&MC=Windows&MC=WinPhone&MC=IE'
 category: 5a88e1adbd6dca0d5f0d259c
 slug: 'azurecon'

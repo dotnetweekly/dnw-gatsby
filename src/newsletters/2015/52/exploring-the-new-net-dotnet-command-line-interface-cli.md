@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d24aa
-title: 'Exploring the new .NET "dotnet" Command Line Interface (CLI)'
+title: "Exploring the new .NET 'dotnet' Command Line Interface (CLI)"
 url: 'http://www.hanselman.com/blog/ExploringTheNewNETDotnetCommandLineInterfaceCLI.aspx'
 category: 5a88e1adbd6dca0d5f0d24aa
 slug: 'exploring-the-new-net-dotnet-command-line-interface-cli'

@@ -1,6 +1,6 @@
 ---
 _id: 5b19f854fcaa2a2a6364173b
-title: 'Getting started with Docker and Kubernetes on Windows 10'
+title: "Getting started with Docker and Kubernetes on Windows 10"
 url: 'https://learnk8s.io/blog/installing-docker-and-kubernetes-on-windows'
 category: 5b19f854fcaa2a2a6364173b
 slug: 'getting-started-with-docker-and-kubernetes-on-windows-10'

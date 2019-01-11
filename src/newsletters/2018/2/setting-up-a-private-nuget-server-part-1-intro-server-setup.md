@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1b0c
-title: 'Setting Up A Private Nuget Server - Part 1 : Intro &amp; Server Setup'
+title: "Setting Up A Private Nuget Server - Part 1 : Intro &amp; Server Setup"
 url: 'https://dotnetcoretutorials.com/2018/01/03/setting-private-nuget-server-part-1-intro-server-setup/'
 category: 5a88e1aabd6dca0d5f0d1b0c
 slug: 'setting-up-a-private-nuget-server-part-1-intro-server-setup'

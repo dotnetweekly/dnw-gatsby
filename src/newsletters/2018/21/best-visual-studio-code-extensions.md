@@ -1,6 +1,6 @@
 ---
 _id: 5b03b6944c83f994f347025c
-title: 'Best Visual Studio Code Extensions'
+title: "Best Visual Studio Code Extensions"
 url: 'https://blog.elmah.io/best-visual-studio-code-extensions/'
 category: 5b03b6944c83f994f347025c
 slug: 'best-visual-studio-code-extensions'

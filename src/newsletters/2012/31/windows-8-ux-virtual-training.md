@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2f86
-title: 'Windows 8 UX Virtual Training'
+title: "Windows 8 UX Virtual Training"
 url: 'http://www.windowsuserexperiencetraining.com/sessions/wux-001.aspx'
 category: 5a88e1afbd6dca0d5f0d2f86
 slug: 'windows-8-ux-virtual-training'

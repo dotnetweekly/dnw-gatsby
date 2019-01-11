@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d27ca
-title: 'ASP.NET: Understanding OWIN, Katana, and the Middleware Pipeline'
+title: "ASP.NET: Understanding OWIN, Katana, and the Middleware Pipeline"
 url: 'http://www.codeproject.com/Articles/864725/ASP-NET-Understanding-OWIN-Katana-and-the-Middlewa'
 category: 5a88e1adbd6dca0d5f0d27ca
 slug: 'asp-net-understanding-owin-katana-and-the-middleware-pipeline'

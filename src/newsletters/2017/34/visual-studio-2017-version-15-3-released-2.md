@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1d42
-title: 'Visual Studio 2017 Version 15.3 Released'
+title: "Visual Studio 2017 Version 15.3 Released"
 url: 'https://blogs.msdn.microsoft.com/visualstudio/2017/08/14/visual-studio-2017-version-15-3-released/'
 category: 5a88e1abbd6dca0d5f0d1d42
 slug: 'visual-studio-2017-version-15-3-released-2'

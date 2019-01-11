@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1ea0
-title: 'Handling errors in an ASP.NET Core Web API'
+title: "Handling errors in an ASP.NET Core Web API"
 url: 'https://www.devtrends.co.uk/blog/handling-errors-in-asp.net-core-web-api'
 category: 5a88e1abbd6dca0d5f0d1ea0
 slug: 'handling-errors-in-an-asp-net-core-web-api'

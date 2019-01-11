@@ -1,6 +1,6 @@
 ---
 _id: 5bb4011015695b0a09f150c1
-title: 'A History of .NET Runtimes'
+title: "A History of .NET Runtimes"
 url: 'http://mattwarren.org/2018/10/02/A-History-of-.NET-Runtimes/'
 category: 5bb4011015695b0a09f150c1
 slug: 'a-history-of-net-runtimes'

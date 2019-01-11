@@ -1,6 +1,6 @@
 ---
 _id: 5b1302c7d15d385518ee60ee
-title: 'Announcing .NET Core 2.1'
+title: "Announcing .NET Core 2.1"
 url: 'https://blogs.msdn.microsoft.com/dotnet/2018/05/30/announcing-net-core-2-1/'
 category: 5b1302c7d15d385518ee60ee
 slug: 'announcing-net-core-21'

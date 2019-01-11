@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d26e4
-title: 'Free ebook: Microsoft Azure Essentials: Azure Machine Learning'
+title: "Free ebook: Microsoft Azure Essentials: Azure Machine Learning"
 url: 'http://blogs.msdn.com/b/microsoft_press/archive/2015/04/15/free-ebook-microsoft-azure-essentials-azure-machine-learning.aspx'
 category: 5a88e1adbd6dca0d5f0d26e4
 slug: 'free-ebook-microsoft-azure-essentials-azure-machine-learning'

@@ -1,6 +1,6 @@
 ---
 _id: 5b7fb183e7b8b9e9fb1cb272
-title: 'Xamarin.Forms Date and Time Pickers in Conversational UI'
+title: "Xamarin.Forms Date and Time Pickers in Conversational UI"
 url: 'https://www.telerik.com/blogs/xamarin-forms-date-and-time-pickers-in-conversational-ui'
 category: 5b7fb183e7b8b9e9fb1cb272
 slug: 'xamarinforms-date-and-time-pickers-in-conversational-ui'

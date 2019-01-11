@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d20f6
-title: 'Several New Azure Services now available in UK'
+title: "Several New Azure Services now available in UK"
 url: 'https://azure.microsoft.com/en-us/blog/several-new-azure-services-now-available-in-uk/'
 category: 5a88e1acbd6dca0d5f0d20f6
 slug: 'several-new-azure-services-now-available-in-uk'

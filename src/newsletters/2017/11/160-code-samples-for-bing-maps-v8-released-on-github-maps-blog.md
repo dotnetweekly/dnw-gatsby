@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1f9e
-title: '160+ Code Samples for Bing Maps V8 released on GitHub | Maps Blog'
+title: "160+ Code Samples for Bing Maps V8 released on GitHub | Maps Blog"
 url: 'http://blogs.bing.com/maps/2017-03/160-code-samples-for-bing-maps-v8-released-on-github'
 category: 5a88e1abbd6dca0d5f0d1f9e
 slug: '160-code-samples-for-bing-maps-v8-released-on-github-maps-blog'

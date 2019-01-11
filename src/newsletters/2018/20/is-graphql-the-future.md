@@ -1,6 +1,6 @@
 ---
 _id: 5afa6187416efa8184328cca
-title: 'Is GraphQL The Future?'
+title: "Is GraphQL The Future?"
 url: 'http://artsy.github.io/blog/2018/05/08/is-graphql-the-future/'
 category: 5afa6187416efa8184328cca
 slug: 'is-graphql-the-future'

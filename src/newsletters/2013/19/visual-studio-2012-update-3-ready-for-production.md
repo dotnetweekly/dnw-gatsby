@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2cde
-title: 'Visual Studio 2012, Update 3 Ready for Production'
+title: "Visual Studio 2012, Update 3 Ready for Production"
 url: 'http://visualstudiomagazine.com/blogs/onward-and-upward/2013/05/visual-studio-2012-update-3-ready.aspx'
 category: 5a88e1afbd6dca0d5f0d2cde
 slug: 'visual-studio-2012-update-3-ready-for-production'

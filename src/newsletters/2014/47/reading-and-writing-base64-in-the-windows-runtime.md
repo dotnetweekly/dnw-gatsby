@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2834
-title: 'Reading and Writing Base64 in the Windows Runtime'
+title: "Reading and Writing Base64 in the Windows Runtime"
 url: 'http://blog.jerrynixon.com/2014/11/reading-and-writing-base64-in-windows.html#more'
 category: 5a88e1aebd6dca0d5f0d2834
 slug: 'reading-and-writing-base64-in-the-windows-runtime'

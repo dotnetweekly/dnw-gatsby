@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d3072
-title: 'Hands On: Windows 8 HTML5 Platform'
+title: "Hands On: Windows 8 HTML5 Platform"
 url: 'http://ie.microsoft.com/testdrive/Graphics/hands-on-css3/Default.html'
 category: 5a88e1afbd6dca0d5f0d3072
 slug: 'hands-on-windows-8-html5-platform'

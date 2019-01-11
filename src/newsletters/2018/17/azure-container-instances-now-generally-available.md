@@ -1,6 +1,6 @@
 ---
 _id: 5ae2f8857b1832006e43edd8
-title: 'Azure Container Instances now generally available'
+title: "Azure Container Instances now generally available"
 url: 'https://azure.microsoft.com/en-us/blog/azure-container-instances-now-generally-available/'
 category: 5ae2f8857b1832006e43edd8
 slug: 'azure-container-instances-now-generally-available'

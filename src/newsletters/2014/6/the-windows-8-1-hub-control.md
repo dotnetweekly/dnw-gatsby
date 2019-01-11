@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2aca
-title: 'The Windows 8.1 Hub Control'
+title: "The Windows 8.1 Hub Control"
 url: 'http://www.dotnetcurry.com/showarticle.aspx?ID=979'
 category: 5a88e1aebd6dca0d5f0d2aca
 slug: 'the-windows-8-1-hub-control'

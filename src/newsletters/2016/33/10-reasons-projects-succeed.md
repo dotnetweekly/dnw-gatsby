@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d226c
-title: '10 Reasons Projects Succeed'
+title: "10 Reasons Projects Succeed"
 url: 'http://blog.dmbcllc.com/10-reasons-projects-succeed/'
 category: 5a88e1acbd6dca0d5f0d226c
 slug: '10-reasons-projects-succeed'

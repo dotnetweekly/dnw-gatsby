@@ -1,6 +1,6 @@
 ---
 _id: 5c30bd0d4acc320e312fe4b9
-title: 'Vue vs React — Part 0: Thinning the Herd'
+title: "Vue vs React — Part 0: Thinning the Herd"
 url: 'https://medium.com/@joe.podwys/vue-vs-react-part-0-thinning-the-herd-2ef8f27310dc'
 category: 5c30bd0d4acc320e312fe4b9
 slug: 'vue-vs-react-part-0-thinning-the-herd'

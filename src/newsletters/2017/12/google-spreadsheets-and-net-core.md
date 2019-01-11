@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1f82
-title: 'Google Spreadsheets and .NET Core'
+title: "Google Spreadsheets and .NET Core"
 url: 'https://www.twilio.com/blog/2017/03/google-spreadsheets-and-net-core.html'
 category: 5a88e1abbd6dca0d5f0d1f82
 slug: 'google-spreadsheets-and-net-core'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d2024
-title: 'Full Stack Weekly'
+title: "Full Stack Weekly"
 url: 'https://www.fullstackweekly.com/'
 category: 5a88e1abbd6dca0d5f0d2024
 slug: 'full-stack-weekly'

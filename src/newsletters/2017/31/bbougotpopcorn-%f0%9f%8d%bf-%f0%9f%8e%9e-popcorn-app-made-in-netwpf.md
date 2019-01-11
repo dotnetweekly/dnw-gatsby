@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1d96
-title: 'bbougot/Popcorn: 🍿 🎞 Popcorn app made in .NET/WPF'
+title: "bbougot/Popcorn: 🍿 🎞 Popcorn app made in .NET/WPF"
 url: 'https://github.com/bbougot/Popcorn'
 category: 5a88e1abbd6dca0d5f0d1d96
 slug: 'bbougotpopcorn-%f0%9f%8d%bf-%f0%9f%8e%9e-popcorn-app-made-in-netwpf'

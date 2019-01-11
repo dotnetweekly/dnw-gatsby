@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2e56
-title: 'Javascript - The bad parts!'
+title: "Javascript - The bad parts!"
 url: 'http://johnkpaul.github.com/presentations/empirejs/javascript-bad-parts/'
 category: 5a88e1afbd6dca0d5f0d2e56
 slug: 'javascript-the-bad-parts'

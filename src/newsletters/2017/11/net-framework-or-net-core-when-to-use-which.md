@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1f94
-title: '.Net Framework or .Net Core? When to use which'
+title: ".Net Framework or .Net Core? When to use which"
 url: 'http://www.infoworld.com/article/3180478/development-tools/net-framework-or-net-core-when-to-use-which.html'
 category: 5a88e1abbd6dca0d5f0d1f94
 slug: 'net-framework-or-net-core-when-to-use-which'

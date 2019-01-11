@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2ae6
-title: 'Introduction to Promises'
+title: "Introduction to Promises"
 url: 'http://www.promisejs.org/'
 category: 5a88e1aebd6dca0d5f0d2ae6
 slug: 'introduction-to-promises'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1cce
-title: 'Getting Started with Windows Containers'
+title: "Getting Started with Windows Containers"
 url: 'https://blogs.msdn.microsoft.com/webdev/2017/09/07/getting-started-with-windows-containers/'
 category: 5a88e1abbd6dca0d5f0d1cce
 slug: 'getting-started-with-windows-containers'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2296
-title: 'Xamarin - Working with Local Databases in Xamarin.Forms Using SQLite'
+title: "Xamarin - Working with Local Databases in Xamarin.Forms Using SQLite"
 url: 'https://msdn.microsoft.com/magazine/mt736454'
 category: 5a88e1acbd6dca0d5f0d2296
 slug: 'xamarin-working-with-local-databases-in-xamarin-forms-using-sqlite'

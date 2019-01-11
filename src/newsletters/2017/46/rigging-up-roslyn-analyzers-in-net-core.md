@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1be4
-title: 'Rigging up Roslyn Analyzers in .NET Core'
+title: "Rigging up Roslyn Analyzers in .NET Core"
 url: 'https://blogs.msdn.microsoft.com/devfish/2017/11/09/rigging-up-roslyn-analyzers-in-net-core/'
 category: 5a88e1aabd6dca0d5f0d1be4
 slug: 'rigging-up-roslyn-analyzers-in-net-core'

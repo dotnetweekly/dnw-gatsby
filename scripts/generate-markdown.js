@@ -40,8 +40,8 @@ async function createPost(week, year, link) {
       const linkJson = JSON.parse(body)
       const postData = postTmpl
         .replace('_id: %s', `_id: ${link['_id']}`)
-        .replace("title: '%s'", `title: '${link['title'].replace(/'/g, '"')}'`)
-        .replace("url: '%s'", `url: '${link['url'].replace(/'/g, '"')}'`)
+        .replace("title: \"%s\"", `title: "${link['title'].replace(/"/g, '')}"`)
+        .replace("url: '%s'", `url: '${link['url']}'`)
         .replace('category: %s', `category: ${link['_id']}`)
         .replace("slug: '%s'", `slug: '${link['slug']}'`)
         .replace('user_id: %s', `user_id: ${link['user']['_id']}`)

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1ff2
-title: 'Visual Studio 2017 Launch Event - Save The Date'
+title: "Visual Studio 2017 Launch Event - Save The Date"
 url: 'https://launch.visualstudio.com/'
 category: 5a88e1abbd6dca0d5f0d1ff2
 slug: 'visual-studio-2017-launch-event-save-the-date'

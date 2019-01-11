@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d281e
-title: 'Visual Studio 2015 Preview - Enhanced Debugging '
+title: "Visual Studio 2015 Preview - Enhanced Debugging "
 url: 'http://www.dotnetcurry.com/showarticle.aspx?ID=1059'
 category: 5a88e1aebd6dca0d5f0d281e
 slug: 'visual-studio-2015-preview-enhanced-debugging'

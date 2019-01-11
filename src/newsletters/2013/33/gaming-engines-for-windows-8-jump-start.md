@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2c4a
-title: 'Gaming Engines for Windows 8 Jump Start'
+title: "Gaming Engines for Windows 8 Jump Start"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/gaming-engines-for-windows-8-jump-start?CR_CC=200263145#fbid=RfHc7HWJo2b'
 category: 5a88e1aebd6dca0d5f0d2c4a
 slug: 'gaming-engines-for-windows-8-jump-start'

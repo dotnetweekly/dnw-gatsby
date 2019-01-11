@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1fbe
-title: 'Video Review: Getting Started with ASP.NET Core by Ugo Lattanzi'
+title: "Video Review: Getting Started with ASP.NET Core by Ugo Lattanzi"
 url: 'https://www.syncfusion.com/blogs/post/video-review-getting-started-with-asp-net-core-by-ugo-lattanzi.aspx'
 category: 5a88e1abbd6dca0d5f0d1fbe
 slug: 'video-review-getting-started-with-asp-net-core-by-ugo-lattanzi'

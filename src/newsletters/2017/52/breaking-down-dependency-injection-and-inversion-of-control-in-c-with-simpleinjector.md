@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1b34
-title: 'Breaking Down Dependency Injection and Inversion of Control in C# with SimpleInjector'
+title: "Breaking Down Dependency Injection and Inversion of Control in C# with SimpleInjector"
 url: 'http://chris.bohatka.com/breaking-down-dependency-injection-and-inversion-of-control-in-csharp-with-simpleinjector/'
 category: 5a88e1aabd6dca0d5f0d1b34
 slug: 'breaking-down-dependency-injection-and-inversion-of-control-in-c-with-simpleinjector'

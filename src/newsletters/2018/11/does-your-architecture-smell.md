@@ -1,6 +1,6 @@
 ---
 _id: 5aa50192c842a8005e8978f7
-title: 'Does your architecture smell?'
+title: "Does your architecture smell?"
 url: 'http://www.designite-tools.com/designite/does-your-architecture-smell/'
 category: 5aa50192c842a8005e8978f7
 slug: 'does-your-architecture-smell'

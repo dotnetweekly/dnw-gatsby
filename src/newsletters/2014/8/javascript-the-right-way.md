@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2aae
-title: 'JavaScript - The Right Way'
+title: "JavaScript - The Right Way"
 url: 'http://jstherightway.org/'
 category: 5a88e1aebd6dca0d5f0d2aae
 slug: 'javascript-the-right-way'

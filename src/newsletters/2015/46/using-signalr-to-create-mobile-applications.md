@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d250c
-title: 'Using SignalR to Create Mobile Applications'
+title: "Using SignalR to Create Mobile Applications"
 url: 'https://www.simple-talk.com/dotnet/development/using-signalr-to-create-mobile-applications/'
 category: 5a88e1adbd6dca0d5f0d250c
 slug: 'using-signalr-to-create-mobile-applications'

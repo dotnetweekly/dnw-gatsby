@@ -1,6 +1,6 @@
 ---
 _id: 5ac18d2b6222cd022e712d4f
-title: 'Announcing 1.1.1.1: the fastest, privacy-first consumer DNS service'
+title: "Announcing 1.1.1.1: the fastest, privacy-first consumer DNS service"
 url: 'https://blog.cloudflare.com/announcing-1111/'
 category: 5ac18d2b6222cd022e712d4f
 slug: 'announcing-1111-the-fastest-privacy-first-consumer-dns-service'

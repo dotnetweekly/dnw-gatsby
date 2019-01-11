@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2c04
-title: 'Notifications in Visual Studio 2013'
+title: "Notifications in Visual Studio 2013"
 url: 'http://blogs.msdn.com/b/visualstudio/archive/2013/09/16/notifications-in-visual-studio-2013.aspx'
 category: 5a88e1aebd6dca0d5f0d2c04
 slug: 'notifications-in-visual-studio-2013'

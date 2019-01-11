@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d291c
-title: 'Simple inheritance with JavaScript'
+title: "Simple inheritance with JavaScript"
 url: 'http://blogs.msdn.com/b/eternalcoding/archive/2014/08/20/simple-inheritance-with-javascript.aspx'
 category: 5a88e1aebd6dca0d5f0d291c
 slug: 'simple-inheritance-with-javascript'

@@ -1,6 +1,6 @@
 ---
 _id: 5aa751284308f3002a031e8b
-title: 'Scalable and Performant ASP.NET Core Web APIs: Server Caching'
+title: "Scalable and Performant ASP.NET Core Web APIs: Server Caching"
 url: 'https://www.carlrippon.com/scalable-and-performant-asp-net-core-web-apis-server-caching/'
 category: 5aa751284308f3002a031e8b
 slug: 'scalable-and-performant-aspnet-core-web-apis-server-caching'

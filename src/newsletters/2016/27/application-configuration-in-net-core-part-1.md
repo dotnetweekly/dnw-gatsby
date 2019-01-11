@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d22d6
-title: 'Application configuration in .NET Core – Part 1'
+title: "Application configuration in .NET Core – Part 1"
 url: 'https://colinmackay.scot/2016/07/03/application-configuration-in-net-core-part-1/'
 category: 5a88e1acbd6dca0d5f0d22d6
 slug: 'application-configuration-in-net-core-part-1'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2416
-title: 'MJML redefines the way you code responsive email'
+title: "MJML redefines the way you code responsive email"
 url: 'https://mjml.io/'
 category: 5a88e1acbd6dca0d5f0d2416
 slug: 'mjml-redefines-the-way-you-code-responsive-email'

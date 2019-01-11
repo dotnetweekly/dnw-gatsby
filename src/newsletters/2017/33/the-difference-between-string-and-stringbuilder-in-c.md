@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1d4c
-title: 'The Difference between String and StringBuilder in C#'
+title: "The Difference between String and StringBuilder in C#"
 url: 'https://tech.io/playgrounds/3002/the-difference-between-string-and-stringbuilder-in-c/introduction'
 category: 5a88e1abbd6dca0d5f0d1d4c
 slug: 'the-difference-between-string-and-stringbuilder-in-c'

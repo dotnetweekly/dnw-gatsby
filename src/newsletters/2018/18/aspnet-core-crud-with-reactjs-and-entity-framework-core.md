@@ -1,6 +1,6 @@
 ---
 _id: 5ae9476b973d49002dcafb86
-title: 'ASP.NET Core: CRUD With React.js and Entity Framework Core'
+title: "ASP.NET Core: CRUD With React.js and Entity Framework Core"
 url: 'https://dzone.com/articles/aspnet-core-crud-with-reactjs-and-entity-framework'
 category: 5ae9476b973d49002dcafb86
 slug: 'aspnet-core-crud-with-reactjs-and-entity-framework-core'

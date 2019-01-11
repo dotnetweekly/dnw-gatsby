@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d28c0
-title: 'Getting started with ASP.Net Web API 2 using CodeFirst'
+title: "Getting started with ASP.Net Web API 2 using CodeFirst"
 url: 'http://www.codeproject.com/Articles/821439/Getting-started-with-ASP-Net-Web-API-using-CodeF'
 category: 5a88e1aebd6dca0d5f0d28c0
 slug: 'getting-started-with-asp-net-web-api-2-using-codefirst'

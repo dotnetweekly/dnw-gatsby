@@ -1,6 +1,6 @@
 ---
 _id: 5b3192204d8b020dfceaa355
-title: 'Example Azure Implementation for Government Agencies'
+title: "Example Azure Implementation for Government Agencies"
 url: 'https://blogs.msdn.microsoft.com/azurecat/2018/06/22/new-whitepaper-example-azure-implementation-for-government-agencies/'
 category: 5b3192204d8b020dfceaa355
 slug: 'example-azure-implementation-for-government-agencies'

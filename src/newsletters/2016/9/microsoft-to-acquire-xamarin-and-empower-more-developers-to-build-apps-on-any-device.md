@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2408
-title: 'Microsoft to acquire Xamarin and empower more developers to build apps on any device'
+title: "Microsoft to acquire Xamarin and empower more developers to build apps on any device"
 url: 'http://blogs.microsoft.com/blog/2016/02/24/microsoft-to-acquire-xamarin-and-empower-more-developers-to-build-apps-on-any-device/'
 category: 5a88e1acbd6dca0d5f0d2408
 slug: 'microsoft-to-acquire-xamarin-and-empower-more-developers-to-build-apps-on-any-device'

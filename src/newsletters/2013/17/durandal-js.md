@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2cfa
-title: 'Durandal.js'
+title: "Durandal.js"
 url: 'http://durandaljs.com/'
 category: 5a88e1afbd6dca0d5f0d2cfa
 slug: 'durandal-js'

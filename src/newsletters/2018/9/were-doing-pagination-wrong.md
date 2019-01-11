@@ -1,6 +1,6 @@
 ---
 _id: 5a94c90ebc881b6c26f018e0
-title: 'We"re doing pagination wrong'
+title: "We're doing pagination wrong"
 url: 'http://theburningmonk.com/2018/02/guys-were-doing-pagination-wrong/'
 category: 5a94c90ebc881b6c26f018e0
 slug: 'were-doing-pagination-wrong'

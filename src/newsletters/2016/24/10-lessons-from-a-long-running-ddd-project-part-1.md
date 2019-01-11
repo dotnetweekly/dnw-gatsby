@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d22f6
-title: '10 Lessons from a Long Running DDD Project – Part 1'
+title: "10 Lessons from a Long Running DDD Project – Part 1"
 url: 'https://lostechies.com/jimmybogard/2016/06/13/10-lessons-from-a-long-running-ddd-project-part-1/'
 category: 5a88e1acbd6dca0d5f0d22f6
 slug: '10-lessons-from-a-long-running-ddd-project-part-1'

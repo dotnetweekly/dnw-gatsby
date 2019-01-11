@@ -1,6 +1,6 @@
 ---
 _id: 5b8df4cc2810131bde94a423
-title: 'Fuzzing the .NET JIT Compiler'
+title: "Fuzzing the .NET JIT Compiler"
 url: 'http://mattwarren.org/2018/08/28/Fuzzing-the-.NET-JIT-Compiler/'
 category: 5b8df4cc2810131bde94a423
 slug: 'fuzzing-the-net-jit-compiler'

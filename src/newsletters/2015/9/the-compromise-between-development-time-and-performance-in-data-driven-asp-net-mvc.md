@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2764
-title: 'The Compromise Between Development Time and Performance in Data-Driven ASP.NET MVC'
+title: "The Compromise Between Development Time and Performance in Data-Driven ASP.NET MVC"
 url: 'https://www.simple-talk.com/dotnet/asp.net/the-compromise-between-development-time-and-performance-in-data-driven-asp.net-mvc/'
 category: 5a88e1adbd6dca0d5f0d2764
 slug: 'the-compromise-between-development-time-and-performance-in-data-driven-asp-net-mvc'

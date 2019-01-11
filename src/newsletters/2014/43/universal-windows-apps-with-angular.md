@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d287e
-title: 'Universal Windows Apps with Angular'
+title: "Universal Windows Apps with Angular"
 url: 'http://www.palermo4.com/post/Universal-Windows-Apps-with-Angular.aspx'
 category: 5a88e1aebd6dca0d5f0d287e
 slug: 'universal-windows-apps-with-angular'

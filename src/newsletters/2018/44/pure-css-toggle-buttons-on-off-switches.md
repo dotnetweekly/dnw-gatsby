@@ -1,6 +1,6 @@
 ---
 _id: 5bda8e001428e6231594dadb
-title: 'Pure CSS Toggle Buttons | ON-OFF Switches'
+title: "Pure CSS Toggle Buttons | ON-OFF Switches"
 url: 'https://codepen.io/himalayasingh/pen/EdVzNL'
 category: 5bda8e001428e6231594dadb
 slug: 'pure-css-toggle-buttons-on-off-switches'

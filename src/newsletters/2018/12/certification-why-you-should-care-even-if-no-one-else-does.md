@@ -1,6 +1,6 @@
 ---
 _id: 5ab367c63a47f3005e73b720
-title: 'Certification – why you should care, even if no one else does.'
+title: "Certification – why you should care, even if no one else does."
 url: 'https://www.blog.smyk.it/2018/03/certification-why-you-should-care/'
 category: 5ab367c63a47f3005e73b720
 slug: 'certification-why-you-should-care-even-if-no-one-else-does'

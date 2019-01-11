@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2782
-title: 'Now what do I do? Next steps after signing up for an Azure Trial.'
+title: "Now what do I do? Next steps after signing up for an Azure Trial."
 url: 'https://regularitguy.com/2015/02/17/now-what-do-i-do-next-steps-after-signing-up-for-an-azure-trial/'
 category: 5a88e1adbd6dca0d5f0d2782
 slug: 'now-what-do-i-do-next-steps-after-signing-up-for-an-azure-trial'

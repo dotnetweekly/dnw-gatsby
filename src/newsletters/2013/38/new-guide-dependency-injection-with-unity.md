@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2bfe
-title: 'New Guide: Dependency Injection with Unity'
+title: "New Guide: Dependency Injection with Unity"
 url: 'http://blogs.msdn.com/b/agile/archive/2013/08/20/new-guide-dependency-injection-with-unity.aspx'
 category: 5a88e1aebd6dca0d5f0d2bfe
 slug: 'new-guide-dependency-injection-with-unity'

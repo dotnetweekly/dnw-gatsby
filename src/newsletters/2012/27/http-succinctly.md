@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2fd2
-title: 'HTTP Succinctly'
+title: "HTTP Succinctly"
 url: 'http://www.syncfusion.com/resources/techportal/ebooks/http'
 category: 5a88e1afbd6dca0d5f0d2fd2
 slug: 'http-succinctly'

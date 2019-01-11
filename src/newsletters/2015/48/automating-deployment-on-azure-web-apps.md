@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d24fc
-title: 'Automating Deployment on Azure Web Apps'
+title: "Automating Deployment on Azure Web Apps"
 url: 'http://blogs.msdn.com/b/mvpawardprogram/archive/2015/11/25/automating-deployment-on-azure-web-apps.aspx'
 category: 5a88e1adbd6dca0d5f0d24fc
 slug: 'automating-deployment-on-azure-web-apps'

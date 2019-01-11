@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d25e2
-title: 'Welcome ReSharper 9.2, ReSharper C++ 1.1 and More Ultimate Updates'
+title: "Welcome ReSharper 9.2, ReSharper C++ 1.1 and More Ultimate Updates"
 url: 'http://blog.jetbrains.com/dotnet/2015/08/19/welcome-resharper-9-2-resharper-c-1-1-and-more-ultimate-updates/'
 category: 5a88e1adbd6dca0d5f0d25e2
 slug: 'welcome-resharper-9-2-resharper-c-1-1-and-more-ultimate-updates'

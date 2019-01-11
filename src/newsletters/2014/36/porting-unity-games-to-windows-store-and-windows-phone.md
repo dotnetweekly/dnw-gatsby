@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d28fc
-title: 'Porting Unity Games to Windows Store and Windows Phone'
+title: "Porting Unity Games to Windows Store and Windows Phone"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/porting-unity-games-to-windows-store-and-windows-phone'
 category: 5a88e1aebd6dca0d5f0d28fc
 slug: 'porting-unity-games-to-windows-store-and-windows-phone'

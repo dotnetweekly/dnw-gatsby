@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2da4
-title: 'Mobile Game Primer'
+title: "Mobile Game Primer"
 url: 'http://msdn.microsoft.com/en-us/magazine/jj944951.aspx'
 category: 5a88e1afbd6dca0d5f0d2da4
 slug: 'mobile-game-primer'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1f50
-title: 'WPF - Custom UserControl datacontext binding gotcha'
+title: "WPF - Custom UserControl datacontext binding gotcha"
 url: 'https://nikolalukovic.com/journal/WPF-Custom-UserControl-datacontext-binding-gotcha.html'
 category: 5a88e1abbd6dca0d5f0d1f50
 slug: 'wpf-custom-usercontrol-datacontext-binding-gotcha'

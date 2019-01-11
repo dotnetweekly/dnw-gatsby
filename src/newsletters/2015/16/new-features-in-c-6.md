@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d26f4
-title: 'New Features in C# 6'
+title: "New Features in C# 6"
 url: 'http://blogs.msdn.com/b/csharpfaq/archive/2014/11/20/new-features-in-c-6.aspx'
 category: 5a88e1adbd6dca0d5f0d26f4
 slug: 'new-features-in-c-6'

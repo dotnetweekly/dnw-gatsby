@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1a8c
-title: 'Zero to App in 20 Minutes: Build Your First Chat App with Microsoft Azure, Visual Studio App Center, and Rapid'
+title: "Zero to App in 20 Minutes: Build Your First Chat App with Microsoft Azure, Visual Studio App Center, and Rapid"
 url: 'https://blogs.msdn.microsoft.com/vsappcenter/build-your-first-chat-app-with-microsoft-azure-visual-studio-app-center-and-rapid'
 category: 5a88e1aabd6dca0d5f0d1a8c
 slug: 'zero-to-app-in-20-minutes-build-your-first-chat-app-with-microsoft-azure-visual-studio-app-center-a'

@@ -1,6 +1,6 @@
 ---
 _id: 5b19f868fcaa2a321a64173c
-title: 'Creating a simple API Gateway in ASP.NET Core – Mircea Oprea'
+title: "Creating a simple API Gateway in ASP.NET Core – Mircea Oprea"
 url: 'https://medium.com/@mirceaoprea/api-gateway-aspnet-core-a46ef259dc54'
 category: 5b19f868fcaa2a321a64173c
 slug: 'creating-a-simple-api-gateway-in-aspnet-core-mircea-oprea'

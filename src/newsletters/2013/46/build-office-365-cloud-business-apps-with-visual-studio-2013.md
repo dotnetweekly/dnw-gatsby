@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b88
-title: 'Build Office 365 Cloud Business Apps with Visual Studio 2013'
+title: "Build Office 365 Cloud Business Apps with Visual Studio 2013"
 url: 'http://msdn.microsoft.com/en-us/magazine/dn463784.aspx'
 category: 5a88e1aebd6dca0d5f0d2b88
 slug: 'build-office-365-cloud-business-apps-with-visual-studio-2013'

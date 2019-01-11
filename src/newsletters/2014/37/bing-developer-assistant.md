@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d28f2
-title: 'Bing Developer Assistant'
+title: "Bing Developer Assistant"
 url: 'http://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Bing-Developer-Assistant'
 category: 5a88e1aebd6dca0d5f0d28f2
 slug: 'bing-developer-assistant'

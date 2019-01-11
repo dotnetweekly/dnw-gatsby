@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d292a
-title: 'Developing Your First Game with Unity and C#'
+title: "Developing Your First Game with Unity and C#"
 url: 'http://msdn.microsoft.com/en-us/magazine/dn759441.aspx'
 category: 5a88e1aebd6dca0d5f0d292a
 slug: 'developing-your-first-game-with-unity-and-c'

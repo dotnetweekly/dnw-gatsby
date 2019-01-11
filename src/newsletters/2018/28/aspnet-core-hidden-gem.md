@@ -1,6 +1,6 @@
 ---
 _id: 5b4addfed9e4dc62b897044e
-title: 'ASP.NET Core Hidden Gem'
+title: "ASP.NET Core Hidden Gem"
 url: 'https://rehansaeed.com/asp-net-core-hidden-gem-queryhelpers/'
 category: 5b4addfed9e4dc62b897044e
 slug: 'aspnet-core-hidden-gem'

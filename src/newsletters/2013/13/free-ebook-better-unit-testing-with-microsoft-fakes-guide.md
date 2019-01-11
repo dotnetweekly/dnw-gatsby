@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d4c
-title: 'Free eBook: Better Unit Testing with Microsoft Fakes guide'
+title: "Free eBook: Better Unit Testing with Microsoft Fakes guide"
 url: 'http://blogs.msdn.com/b/pakistan/archive/2013/03/27/free-ebook-better-unit-testing-with-microsoft-fakes-guide.aspx'
 category: 5a88e1afbd6dca0d5f0d2d4c
 slug: 'free-ebook-better-unit-testing-with-microsoft-fakes-guide'

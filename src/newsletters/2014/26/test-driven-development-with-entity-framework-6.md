@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d29ac
-title: 'Test-Driven Development with Entity Framework 6'
+title: "Test-Driven Development with Entity Framework 6"
 url: 'http://visualstudiomagazine.com/articles/2014/06/01/test-driven-development.aspx'
 category: 5a88e1aebd6dca0d5f0d29ac
 slug: 'test-driven-development-with-entity-framework-6'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d242c
-title: 'Continuous Deployment and Release Management'
+title: "Continuous Deployment and Release Management"
 url: 'https://channel9.msdn.com/Series/DevOps-Fundamentals/Continuous-Deployment-and-Release-Management'
 category: 5a88e1acbd6dca0d5f0d242c
 slug: 'continuous-deployment-and-release-management'

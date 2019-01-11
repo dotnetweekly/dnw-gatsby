@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1e90
-title: 'Docker for .NET Developers (Part 1)'
+title: "Docker for .NET Developers (Part 1)"
 url: 'https://www.stevejgordon.co.uk/docker-dotnet-developers-part-1'
 category: 5a88e1abbd6dca0d5f0d1e90
 slug: 'docker-for-net-developers-part-1'

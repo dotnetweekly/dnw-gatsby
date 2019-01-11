@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d28ca
-title: 'AngularJS Tutorial: A Comprehensive 10,000 Word Guide Read more at http://www.airpair.com/angularjs#QZ2hJZOohDhAY8DF.99'
+title: "AngularJS Tutorial: A Comprehensive 10,000 Word Guide Read more at http://www.airpair.com/angularjs#QZ2hJZOohDhAY8DF.99"
 url: 'http://www.airpair.com/angularjs'
 category: 5a88e1aebd6dca0d5f0d28ca
 slug: 'angularjs-tutorial-a-comprehensive-10000-word-guide-read-more-at-httpwww-airpair-comangularjsqz2hjz'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1be8
-title: 'Tricky Questions about C#'
+title: "Tricky Questions about C#"
 url: 'http://codingsight.com/tricky-questions-about-c-sharp/'
 category: 5a88e1aabd6dca0d5f0d1be8
 slug: 'tricky-questions-about-c'

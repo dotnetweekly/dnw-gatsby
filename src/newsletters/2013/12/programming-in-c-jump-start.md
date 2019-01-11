@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d52
-title: 'Programming in C# Jump Start'
+title: "Programming in C# Jump Start"
 url: 'https://www.microsoftvirtualacademy.com/training-courses/programming-in-c'
 category: 5a88e1afbd6dca0d5f0d2d52
 slug: 'programming-in-c-jump-start'

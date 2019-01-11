@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2120
-title: 'What"s New in F# 4.1'
+title: "What's New in F# 4.1"
 url: 'https://channel9.msdn.com/Events/Connect/2016/118'
 category: 5a88e1acbd6dca0d5f0d2120
 slug: 'whats-new-in-f-4-1'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2cb8
-title: 'Windows 8 App Projects - XAML and C# Edition'
+title: "Windows 8 App Projects - XAML and C# Edition"
 url: 'http://www.ebookshare.me/windows-8-app-projects-xaml-and-c-edition/'
 category: 5a88e1afbd6dca0d5f0d2cb8
 slug: 'windows-8-app-projects-xaml-and-c-edition'

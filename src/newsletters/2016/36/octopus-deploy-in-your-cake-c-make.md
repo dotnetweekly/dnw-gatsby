@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d221c
-title: 'Octopus Deploy in Your Cake (C# Make)'
+title: "Octopus Deploy in Your Cake (C# Make)"
 url: 'http://codeopinion.com/octopus-deploy-in-your-cake-c-make/'
 category: 5a88e1acbd6dca0d5f0d221c
 slug: 'octopus-deploy-in-your-cake-c-make'

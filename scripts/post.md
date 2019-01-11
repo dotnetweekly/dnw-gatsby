@@ -1,6 +1,6 @@
 ---
 _id: %s
-title: '%s'
+title: "%s"
 url: '%s'
 category: %s
 slug: '%s'

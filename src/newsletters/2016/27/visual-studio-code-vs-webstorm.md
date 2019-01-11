@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d22d4
-title: 'Visual Studio Code vs WebStorm'
+title: "Visual Studio Code vs WebStorm"
 url: 'http://blog.goyello.com/2016/06/30/visual-studio-code-vs-webstorm/'
 category: 5a88e1acbd6dca0d5f0d22d4
 slug: 'visual-studio-code-vs-webstorm'

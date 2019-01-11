@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d21c8
-title: 'Data Points - Run EF Core on Both .NET Framework and .NET Core'
+title: "Data Points - Run EF Core on Both .NET Framework and .NET Core"
 url: 'https://msdn.microsoft.com/magazine/mt742867'
 category: 5a88e1acbd6dca0d5f0d21c8
 slug: 'data-points-run-ef-core-on-both-net-framework-and-net-core'

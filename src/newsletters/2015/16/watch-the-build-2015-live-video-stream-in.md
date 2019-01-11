@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d26f2
-title: 'Watch the Build 2015 live video stream in'
+title: "Watch the Build 2015 live video stream in"
 url: 'http://www.buildwindows.com/'
 category: 5a88e1adbd6dca0d5f0d26f2
 slug: 'watch-the-build-2015-live-video-stream-in'

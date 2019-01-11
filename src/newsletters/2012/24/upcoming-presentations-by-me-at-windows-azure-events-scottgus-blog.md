@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d3006
-title: 'Upcoming presentations by me at Windows Azure Events (ScottGu"s Blog)'
+title: "Upcoming presentations by me at Windows Azure Events (ScottGu's Blog)"
 url: 'http://weblogs.asp.net/scottgu/archive/2012/06/17/upcoming-presentations-by-me-at-windows-azure-events.aspx'
 category: 5a88e1afbd6dca0d5f0d3006
 slug: 'upcoming-presentations-by-me-at-windows-azure-events-scottgus-blog'

@@ -1,6 +1,6 @@
 ---
 _id: 5c384ee55e8f0d5a4a8d0c4b
-title: 'SOLID Principles in C# – Liskov Substitution Principle'
+title: "SOLID Principles in C# – Liskov Substitution Principle"
 url: 'https://code-maze.com/liskov-substitution-principle/'
 category: 5c384ee55e8f0d5a4a8d0c4b
 slug: 'solid-principles-in-c-liskov-substitution-principle'

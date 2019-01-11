@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d22fe
-title: 'Essential .NET - Dependency Injection with .NET Core'
+title: "Essential .NET - Dependency Injection with .NET Core"
 url: 'https://msdn.microsoft.com/en-us/magazine/mt707534'
 category: 5a88e1acbd6dca0d5f0d22fe
 slug: 'essential-net-dependency-injection-with-net-core'

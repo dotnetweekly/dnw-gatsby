@@ -1,6 +1,6 @@
 ---
 _id: 5a94cb9fbc881b6c26f018e2
-title: 'Get started with Azure Cosmos DB through this technical training series'
+title: "Get started with Azure Cosmos DB through this technical training series"
 url: 'https://azure.microsoft.com/en-us/blog/get-started-with-azure-cosmos-db-through-this-technical-training-series/'
 category: 5a94cb9fbc881b6c26f018e2
 slug: 'get-started-with-azure-cosmos-db-through-this-technical-training-series'

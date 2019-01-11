@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d24c8
-title: 'Windows 10 IoT Core is available for commercial and industrial device builders'
+title: "Windows 10 IoT Core is available for commercial and industrial device builders"
 url: 'http://blogs.microsoft.com/iot/2015/12/03/windows-10-iot-core-is-available-for-commercial-and-industrial-device-builders-2/?wt.mc_id=DX_47496&MC=IoT&MC=DevOps&MC=MSAzure&MC=IE&MC=JavaScript'
 category: 5a88e1adbd6dca0d5f0d24c8
 slug: 'windows-10-iot-core-is-available-for-commercial-and-industrial-device-builders'

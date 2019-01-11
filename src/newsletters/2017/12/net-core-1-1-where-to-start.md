@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1f86
-title: '.NET Core 1.1 – Where to start?'
+title: ".NET Core 1.1 – Where to start?"
 url: 'https://blogs.msdn.microsoft.com/luisdem/2017/03/19/netcore-1-1-where-to-start/'
 category: 5a88e1abbd6dca0d5f0d1f86
 slug: 'net-core-1-1-where-to-start'

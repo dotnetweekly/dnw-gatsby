@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d215a
-title: 'Microsoft Azure Announces Industry’s First Cloud Bot-as-a-Service'
+title: "Microsoft Azure Announces Industry’s First Cloud Bot-as-a-Service"
 url: 'https://azure.microsoft.com/en-us/blog/microsoft-azure-announces-industry-s-first-cloud-bot-as-a-service/'
 category: 5a88e1acbd6dca0d5f0d215a
 slug: 'microsoft-azure-announces-industrys-first-cloud-bot-as-a-service'

@@ -1,6 +1,6 @@
 ---
 _id: 5b9d22b634a7ea20202b77db
-title: '.NET Conf 2018'
+title: ".NET Conf 2018"
 url: 'https://www.dotnetconf.net/'
 category: 5b9d22b634a7ea20202b77db
 slug: 'net-conf-2018'

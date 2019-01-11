@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2894
-title: 'Free ebook: Creating Mobile Apps with Xamarin.Forms, Preview Edition'
+title: "Free ebook: Creating Mobile Apps with Xamarin.Forms, Preview Edition"
 url: 'http://blogs.msdn.com/b/microsoft_press/archive/2014/10/08/free-ebook-creating-mobile-apps-with-xamarin-forms-preview-edition.aspx'
 category: 5a88e1aebd6dca0d5f0d2894
 slug: 'free-ebook-creating-mobile-apps-with-xamarin-forms-preview-edition'

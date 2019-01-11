@@ -1,6 +1,6 @@
 ---
 _id: 5b747292fd7ac94ada9e0047
-title: 'Microsoft AI - Idea challenge contest'
+title: "Microsoft AI - Idea challenge contest"
 url: 'https://www.ailab.microsoft.com/challenge'
 category: 5b747292fd7ac94ada9e0047
 slug: 'microsoft-ai-idea-challenge-contest'

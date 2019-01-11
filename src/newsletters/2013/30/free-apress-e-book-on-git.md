@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2c68
-title: 'Free APress e-book on GIT!'
+title: "Free APress e-book on GIT!"
 url: 'http://geekswithblogs.net/TATWORTH/archive/2013/07/24/free-apress-e-book-on-git.aspx'
 category: 5a88e1aebd6dca0d5f0d2c68
 slug: 'free-apress-e-book-on-git'

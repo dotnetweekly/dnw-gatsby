@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d263a
-title: '.NET Web Development and Tools Blog'
+title: ".NET Web Development and Tools Blog"
 url: 'http://blogs.msdn.com/b/webdev/archive/2015/07/04/updates-to-asp-net-5-yeoman-generators-for-beta-5.aspx'
 category: 5a88e1adbd6dca0d5f0d263a
 slug: 'net-web-development-and-tools-blog'

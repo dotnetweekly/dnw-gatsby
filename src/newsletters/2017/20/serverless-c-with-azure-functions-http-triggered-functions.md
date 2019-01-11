@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1ed4
-title: 'Serverless C# with Azure Functions: HTTP-Triggered Functions'
+title: "Serverless C# with Azure Functions: HTTP-Triggered Functions"
 url: 'https://visualstudiomagazine.com/articles/2017/04/01/http-triggered-functions.aspx'
 category: 5a88e1abbd6dca0d5f0d1ed4
 slug: 'serverless-c-with-azure-functions-http-triggered-functions'

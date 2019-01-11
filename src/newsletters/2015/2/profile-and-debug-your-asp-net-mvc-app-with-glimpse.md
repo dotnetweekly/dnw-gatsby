@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d27da
-title: 'Profile and debug your ASP.NET MVC app with Glimpse'
+title: "Profile and debug your ASP.NET MVC app with Glimpse"
 url: 'http://www.asp.net/mvc/overview/performance/profile-and-debug-your-aspnet-mvc-app-with-glimpse'
 category: 5a88e1adbd6dca0d5f0d27da
 slug: 'profile-and-debug-your-asp-net-mvc-app-with-glimpse'

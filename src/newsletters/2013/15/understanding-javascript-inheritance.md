@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d18
-title: 'Understanding JavaScript Inheritance'
+title: "Understanding JavaScript Inheritance"
 url: 'http://alexsexton.com/blog/2013/04/understanding-javascript-inheritance/'
 category: 5a88e1afbd6dca0d5f0d2d18
 slug: 'understanding-javascript-inheritance'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2ee4
-title: 'Windows Store is Now Open to All!'
+title: "Windows Store is Now Open to All!"
 url: 'http://devhammer.net/blog/windows-store-is-now-open-to-all'
 category: 5a88e1afbd6dca0d5f0d2ee4
 slug: 'windows-store-is-now-open-to-all'

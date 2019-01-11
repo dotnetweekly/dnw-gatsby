@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2c28
-title: 'What’s new in T4 for Visual Studio 2013?'
+title: "What’s new in T4 for Visual Studio 2013?"
 url: 'http://blogs.msdn.com/b/garethj/archive/2013/08/29/what-s-new-in-t4-for-visual-studio-2013.aspx'
 category: 5a88e1aebd6dca0d5f0d2c28
 slug: 'whats-new-in-t4-for-visual-studio-2013'

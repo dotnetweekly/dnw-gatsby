@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d21e2
-title: 'Announcing the launch of Windows Server 2016'
+title: "Announcing the launch of Windows Server 2016"
 url: 'https://blogs.technet.microsoft.com/hybridcloud/2016/09/26/announcing-the-launch-of-windows-server-2016/'
 category: 5a88e1acbd6dca0d5f0d21e2
 slug: 'announcing-the-launch-of-windows-server-2016'

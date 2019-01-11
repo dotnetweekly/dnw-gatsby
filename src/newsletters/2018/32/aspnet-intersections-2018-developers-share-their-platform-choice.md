@@ -1,6 +1,6 @@
 ---
 _id: 5b6da2c484139a4f7e56d0ba
-title: 'ASP.NET Intersections 2018: Developers Share their Platform Choice'
+title: "ASP.NET Intersections 2018: Developers Share their Platform Choice"
 url: 'https://www.telerik.com/blogs/aspnet-intersections-2018-developers-share-their-platform-choice'
 category: 5b6da2c484139a4f7e56d0ba
 slug: 'aspnet-intersections-2018-developers-share-their-platform-choice'

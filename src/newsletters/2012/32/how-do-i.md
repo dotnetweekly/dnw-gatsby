@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2f6a
-title: 'How Do I'
+title: "How Do I"
 url: 'http://channel9.msdn.com/Blogs/How-Do-I'
 category: 5a88e1afbd6dca0d5f0d2f6a
 slug: 'how-do-i'

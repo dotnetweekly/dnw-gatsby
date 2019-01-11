@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d25cc
-title: 'Creating Dynamic Webpages with Knockout'
+title: "Creating Dynamic Webpages with Knockout"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/creating-dynamic-webpages-with-knockout'
 category: 5a88e1adbd6dca0d5f0d25cc
 slug: 'creating-dynamic-webpages-with-knockout'

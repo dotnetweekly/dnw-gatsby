@@ -1,6 +1,6 @@
 ---
 _id: 5b1ea49b7db743ae868b38a2
-title: 'C# Pattern Matching: Are The Official Docs Lying?'
+title: "C# Pattern Matching: Are The Official Docs Lying?"
 url: 'https://www.blog.jamesmichaelhickey.com/pattern-matching-official-docs-lying/'
 category: 5b1ea49b7db743ae868b38a2
 slug: 'c-pattern-matching-are-the-official-docs-lying'

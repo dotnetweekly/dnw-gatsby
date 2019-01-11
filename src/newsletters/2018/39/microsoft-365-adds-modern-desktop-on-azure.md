@@ -1,6 +1,6 @@
 ---
 _id: 5ba99ebaaf8d5eeca1ca6220
-title: 'Microsoft 365 adds modern desktop on Azure'
+title: "Microsoft 365 adds modern desktop on Azure"
 url: 'https://azure.microsoft.com/en-us/blog/microsoft-365-adds-modern-desktop-on-azure/'
 category: 5ba99ebaaf8d5eeca1ca6220
 slug: 'microsoft-365-adds-modern-desktop-on-azure'

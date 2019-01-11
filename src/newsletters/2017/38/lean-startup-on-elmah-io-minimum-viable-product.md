@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1cb6
-title: 'Lean Startup on elmah.io – Minimum viable product'
+title: "Lean Startup on elmah.io – Minimum viable product"
 url: 'http://thomasardal.com/lean-startup-on-elmah-io-minimum-viable-product/'
 category: 5a88e1abbd6dca0d5f0d1cb6
 slug: 'lean-startup-on-elmah-io-minimum-viable-product'

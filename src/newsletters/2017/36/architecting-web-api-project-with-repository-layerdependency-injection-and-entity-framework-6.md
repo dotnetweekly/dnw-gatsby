@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1cf8
-title: 'Architecting Web API Project With Repository Layer,Dependency Injection And Entity Framework 6'
+title: "Architecting Web API Project With Repository Layer,Dependency Injection And Entity Framework 6"
 url: 'https://www.codeproject.com/Articles/1192403/Architecting-Web-API-Project-With-Repository-Layer'
 category: 5a88e1abbd6dca0d5f0d1cf8
 slug: 'architecting-web-api-project-with-repository-layerdependency-injection-and-entity-framework-6'

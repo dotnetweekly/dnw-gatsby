@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d21e4
-title: 'Windows Containers – Getting started – A step by step guide, walkthrough, tutorial'
+title: "Windows Containers – Getting started – A step by step guide, walkthrough, tutorial"
 url: 'https://blogs.msdn.microsoft.com/allthingscontainer/2016/09/15/windows-containers-getting-started-a-step-by-step-guide/'
 category: 5a88e1acbd6dca0d5f0d21e4
 slug: 'windows-containers-getting-started-a-step-by-step-guide-walkthrough-tutorial'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2198
-title: 'SQL Server Data Tools for Visual Studio'
+title: "SQL Server Data Tools for Visual Studio"
 url: 'https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/SQL-Server-Data-Tools-for-Visual-Studio'
 category: 5a88e1acbd6dca0d5f0d2198
 slug: 'sql-server-data-tools-for-visual-studio'

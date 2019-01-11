@@ -1,6 +1,6 @@
 ---
 _id: 5b31101c4d8b020058eaa34c
-title: 'Containers - What Are They Good For? Crafting our Build Environments'
+title: "Containers - What Are They Good For? Crafting our Build Environments"
 url: 'https://jimmybogard.com/containers-what-are-they-good-for-crafting-our-build-environments/'
 category: 5b31101c4d8b020058eaa34c
 slug: 'containers-what-are-they-good-for-crafting-our-build-environments'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1aac
-title: 'Orleans Smart Cache Pattern'
+title: "Orleans Smart Cache Pattern"
 url: 'https://codeopinion.com/orleans-smart-cache-pattern/'
 category: 5a88e1aabd6dca0d5f0d1aac
 slug: 'orleans-smart-cache-pattern'

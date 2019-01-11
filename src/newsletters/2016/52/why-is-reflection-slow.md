@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d20ea
-title: 'Why is reflection slow?'
+title: "Why is reflection slow?"
 url: 'http://mattwarren.org/2016/12/14/Why-is-Reflection-slow/'
 category: 5a88e1acbd6dca0d5f0d20ea
 slug: 'why-is-reflection-slow'

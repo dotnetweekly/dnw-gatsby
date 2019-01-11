@@ -1,6 +1,6 @@
 ---
 _id: 5b3111094d8b02253deaa351
-title: 'Get The Most From Conferences'
+title: "Get The Most From Conferences"
 url: 'https://completedeveloperpodcast.com/epsiode-149/'
 category: 5b3111094d8b02253deaa351
 slug: 'get-the-most-from-conferences'

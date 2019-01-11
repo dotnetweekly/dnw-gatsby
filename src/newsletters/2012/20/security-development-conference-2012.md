@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d307e
-title: 'Security Development Conference 2012'
+title: "Security Development Conference 2012"
 url: 'https://www.securitydevelopmentconference.com/main.aspx'
 category: 5a88e1afbd6dca0d5f0d307e
 slug: 'security-development-conference-2012'

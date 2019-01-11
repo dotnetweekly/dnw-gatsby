@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2aee
-title: 'Improve Logging using C# 5.0 Caller Info Attributes'
+title: "Improve Logging using C# 5.0 Caller Info Attributes"
 url: 'http://www.dotnetcurry.com/showarticle.aspx?ID=972'
 category: 5a88e1aebd6dca0d5f0d2aee
 slug: 'improve-logging-using-c-5-0-caller-info-attributes'

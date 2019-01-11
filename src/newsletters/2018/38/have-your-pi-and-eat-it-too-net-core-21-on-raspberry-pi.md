@@ -1,6 +1,6 @@
 ---
 _id: 5ba45bb37a4fc468a9daab9c
-title: 'Have Your Pi and Eat It Too: .NET Core 2.1 on Raspberry Pi'
+title: "Have Your Pi and Eat It Too: .NET Core 2.1 on Raspberry Pi"
 url: 'https://channel9.msdn.com/Events/dotnetConf/2018/S314'
 category: 5ba45bb37a4fc468a9daab9c
 slug: 'have-your-pi-and-eat-it-too-net-core-21-on-raspberry-pi'

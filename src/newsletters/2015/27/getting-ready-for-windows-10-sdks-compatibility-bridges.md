@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d264a
-title: 'Getting ready for Windows 10 – SDKs, compatibility, bridges'
+title: "Getting ready for Windows 10 – SDKs, compatibility, bridges"
 url: 'http://blogs.windows.com/buildingapps/2015/06/22/getting-ready-for-windows-10-sdks-compatibility-bridges/'
 category: 5a88e1adbd6dca0d5f0d264a
 slug: 'getting-ready-for-windows-10-sdks-compatibility-bridges'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2544
-title: 'Microsoft .NET - .NET and Universal Windows Platform Development'
+title: "Microsoft .NET - .NET and Universal Windows Platform Development"
 url: 'https://msdn.microsoft.com/en-us/magazine/mt590967'
 category: 5a88e1adbd6dca0d5f0d2544
 slug: 'microsoft-net-net-and-universal-windows-platform-development'

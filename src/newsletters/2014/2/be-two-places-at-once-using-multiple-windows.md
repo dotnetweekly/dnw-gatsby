@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b1e
-title: 'Be two places at once using multiple windows'
+title: "Be two places at once using multiple windows"
 url: 'http://blogs.windows.com/windows/b/appbuilder/archive/2014/01/09/be-two-places-at-once-using-multiple-windows.aspx'
 category: 5a88e1aebd6dca0d5f0d2b1e
 slug: 'be-two-places-at-once-using-multiple-windows'

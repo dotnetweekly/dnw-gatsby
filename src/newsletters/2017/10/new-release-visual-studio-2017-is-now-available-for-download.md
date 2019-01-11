@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1fc6
-title: 'New release: Visual Studio 2017 is now available for download'
+title: "New release: Visual Studio 2017 is now available for download"
 url: 'https://www.visualstudio.com/vs/whatsnew/'
 category: 5a88e1abbd6dca0d5f0d1fc6
 slug: 'new-release-visual-studio-2017-is-now-available-for-download'

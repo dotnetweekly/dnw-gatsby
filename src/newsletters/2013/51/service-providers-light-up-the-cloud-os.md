@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b3c
-title: 'Service Providers light up the Cloud OS'
+title: "Service Providers light up the Cloud OS"
 url: 'http://blogs.technet.com/b/microsoft_blog/archive/2013/12/12/service-providers-light-up-the-cloud-os.aspx'
 category: 5a88e1aebd6dca0d5f0d2b3c
 slug: 'service-providers-light-up-the-cloud-os'

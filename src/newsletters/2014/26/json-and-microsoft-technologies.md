@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d29aa
-title: 'JSON and Microsoft technologies'
+title: "JSON and Microsoft technologies"
 url: 'http://www.codeproject.com/Articles/779303/JSON-and-Microsoft-technologies'
 category: 5a88e1aebd6dca0d5f0d29aa
 slug: 'json-and-microsoft-technologies'

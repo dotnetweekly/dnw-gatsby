@@ -1,6 +1,6 @@
 ---
 _id: 5bc849471ff6e70e1f87fb25
-title: 'Using .NET Hardware Intrinsics API to accelerate machine learning scenarios'
+title: "Using .NET Hardware Intrinsics API to accelerate machine learning scenarios"
 url: 'https://blogs.msdn.microsoft.com/dotnet/2018/10/10/using-net-hardware-intrinsics-api-to-accelerate-machine-learning-scenarios/'
 category: 5bc849471ff6e70e1f87fb25
 slug: 'using-net-hardware-intrinsics-api-to-accelerate-machine-learning-scenarios'

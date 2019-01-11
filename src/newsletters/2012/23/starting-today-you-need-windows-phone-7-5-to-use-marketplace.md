@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d3022
-title: 'Starting today you need Windows Phone 7.5 to use Marketplace'
+title: "Starting today you need Windows Phone 7.5 to use Marketplace"
 url: 'http://windowsteamblog.com/windows_phone/b/windowsphone/archive/2012/05/22/starting-today-you-need-windows-phone-7-5-to-use-marketplace.aspx'
 category: 5a88e1afbd6dca0d5f0d3022
 slug: 'starting-today-you-need-windows-phone-7-5-to-use-marketplace'

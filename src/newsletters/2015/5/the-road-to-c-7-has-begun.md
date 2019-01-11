@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d27b8
-title: 'The Road to C# 7 Has Begun'
+title: "The Road to C# 7 Has Begun"
 url: 'http://www.infoq.com/news/2015/01/CSharp-7-Intro'
 category: 5a88e1adbd6dca0d5f0d27b8
 slug: 'the-road-to-c-7-has-begun'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1e74
-title: 'Documenting ASP.NET Core API with Swagger'
+title: "Documenting ASP.NET Core API with Swagger"
 url: 'http://foreverframe.net/documenting-asp-net-core-api-with-swagger/'
 category: 5a88e1abbd6dca0d5f0d1e74
 slug: 'documenting-asp-net-core-api-with-swagger'

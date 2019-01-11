@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d226e
-title: 'ASP.NET Core - Write Apps with Visual Studio Code and Entity Framework'
+title: "ASP.NET Core - Write Apps with Visual Studio Code and Entity Framework"
 url: 'https://msdn.microsoft.com/magazine/mt767698'
 category: 5a88e1acbd6dca0d5f0d226e
 slug: 'asp-net-core-write-apps-with-visual-studio-code-and-entity-framework'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d27b2
-title: 'A decade of unit testing'
+title: "A decade of unit testing"
 url: 'http://openmymind.net/A-Decade-Of-Unit-Testing/'
 category: 5a88e1adbd6dca0d5f0d27b2
 slug: 'a-decade-of-unit-testing'

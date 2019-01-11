@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d200c
-title: 'ASP.NET Core 1.0'
+title: "ASP.NET Core 1.0"
 url: 'http://www.jomendez.com/2017/02/15/asp-net-core-1-0/'
 category: 5a88e1abbd6dca0d5f0d200c
 slug: 'asp-net-core-1-0'

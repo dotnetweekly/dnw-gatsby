@@ -1,6 +1,6 @@
 ---
 _id: 5c0826efd9a593af32f70e85
-title: 'Microsoft Connect(); 2018'
+title: "Microsoft Connect(); 2018"
 url: 'https://www.microsoft.com/en-us/connectevent'
 category: 5c0826efd9a593af32f70e85
 slug: 'microsoft-connect-2018'

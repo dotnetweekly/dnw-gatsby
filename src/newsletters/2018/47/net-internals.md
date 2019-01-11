@@ -1,6 +1,6 @@
 ---
 _id: 5bfd1951d9a5930d0af70e59
-title: '.NET Internals'
+title: ".NET Internals"
 url: 'https://www.codejourney.net/net-internals/'
 category: 5bfd1951d9a5930d0af70e59
 slug: 'net-internals'

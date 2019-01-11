@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2860
-title: 'Azure IaaS for IT Pros Online Event'
+title: "Azure IaaS for IT Pros Online Event"
 url: 'http://channel9.msdn.com/Events/Microsoft-Azure/Level-Up-Azure-IaaS-for-IT-Pros'
 category: 5a88e1aebd6dca0d5f0d2860
 slug: 'azure-iaas-for-it-pros-online-event'

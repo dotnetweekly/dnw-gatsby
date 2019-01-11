@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1fec
-title: 'Azure Command Line 2.0 now generally available'
+title: "Azure Command Line 2.0 now generally available"
 url: 'https://azure.microsoft.com/en-us/blog/announcing-general-availability-of-vm-storage-and-network-azure-cli-2-0/'
 category: 5a88e1abbd6dca0d5f0d1fec
 slug: 'azure-command-line-2-0-now-generally-available'

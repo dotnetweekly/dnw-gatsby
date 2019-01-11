@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2f74
-title: 'Upcoming SilverlightShow Webinar: Windows 8 Metro apps and the outside world: connecting with services and integrating the cloud'
+title: "Upcoming SilverlightShow Webinar: Windows 8 Metro apps and the outside world: connecting with services and integrating the cloud"
 url: 'http://www.silverlightshow.net/news/New-SilverlightShow-webinar-Windows-8-Metro-apps-and-the-outside-world-connecting-with-services-and-integrating-the-cloud.aspx'
 category: 5a88e1afbd6dca0d5f0d2f74
 slug: 'upcoming-silverlightshow-webinar-windows-8-metro-apps-and-the-outside-world-connecting-with-service'

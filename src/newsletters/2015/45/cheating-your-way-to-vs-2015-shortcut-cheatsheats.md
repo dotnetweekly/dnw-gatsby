@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d251c
-title: 'Cheating your way to VS 2015 Shortcut Cheatsheats'
+title: "Cheating your way to VS 2015 Shortcut Cheatsheats"
 url: 'https://channel9.msdn.com/coding4fun/blog/Cheating-your-way-to-VS-2015-Shortcuts'
 category: 5a88e1adbd6dca0d5f0d251c
 slug: 'cheating-your-way-to-vs-2015-shortcut-cheatsheats'

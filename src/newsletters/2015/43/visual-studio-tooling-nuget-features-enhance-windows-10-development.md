@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2540
-title: 'Visual Studio Tooling - NuGet Features Enhance Windows 10 Development'
+title: "Visual Studio Tooling - NuGet Features Enhance Windows 10 Development"
 url: 'https://msdn.microsoft.com/en-us/magazine/mt590972'
 category: 5a88e1adbd6dca0d5f0d2540
 slug: 'visual-studio-tooling-nuget-features-enhance-windows-10-development'

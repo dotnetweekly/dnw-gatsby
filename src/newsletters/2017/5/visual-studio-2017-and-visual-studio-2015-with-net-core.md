@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2052
-title: 'Visual Studio 2017 and Visual Studio 2015 with .NET Core'
+title: "Visual Studio 2017 and Visual Studio 2015 with .NET Core"
 url: 'https://csharp.christiannagel.com/2017/01/10/dotnetcoreversionissues/'
 category: 5a88e1acbd6dca0d5f0d2052
 slug: 'visual-studio-2017-and-visual-studio-2015-with-net-core'

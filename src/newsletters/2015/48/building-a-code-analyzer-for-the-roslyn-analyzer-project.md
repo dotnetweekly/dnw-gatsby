@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d24f0
-title: 'Building a Code Analyzer for the Roslyn Analyzer Project'
+title: "Building a Code Analyzer for the Roslyn Analyzer Project"
 url: 'http://blogs.msdn.com/b/cdndevs/archive/2015/11/17/building-a-code-analyzer-for-the-roslyn-analyzer-project.aspx'
 category: 5a88e1adbd6dca0d5f0d24f0
 slug: 'building-a-code-analyzer-for-the-roslyn-analyzer-project'

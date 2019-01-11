@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2886
-title: 'November 12 - 13: Join Us for Connect(); Microsoft Visual Studio vNext and Azure Virtual Event '
+title: "November 12 - 13: Join Us for Connect(); Microsoft Visual Studio vNext and Azure Virtual Event "
 url: 'http://www.visualstudio.com/connect-event-vs'
 category: 5a88e1aebd6dca0d5f0d2886
 slug: 'november-12-13-join-us-for-connect-microsoft-visual-studio-vnext-and-azure-virtual-event'

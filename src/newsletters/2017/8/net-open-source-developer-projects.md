@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d200e
-title: '.NET Open Source Developer Projects'
+title: ".NET Open Source Developer Projects"
 url: 'https://github.com/Microsoft/dotnet/blob/master/dotnet-developer-projects.md'
 category: 5a88e1abbd6dca0d5f0d200e
 slug: 'net-open-source-developer-projects'

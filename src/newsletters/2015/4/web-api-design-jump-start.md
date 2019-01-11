@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d27be
-title: 'Web API Design Jump Start'
+title: "Web API Design Jump Start"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/web-api-design-jump-start'
 category: 5a88e1adbd6dca0d5f0d27be
 slug: 'web-api-design-jump-start'

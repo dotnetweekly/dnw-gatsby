@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2bbe
-title: 'Windows 8.1: New APIs and features for developers'
+title: "Windows 8.1: New APIs and features for developers"
 url: 'http://msdn.microsoft.com/library/windows/apps/bg182410'
 category: 5a88e1aebd6dca0d5f0d2bbe
 slug: 'windows-8-1-new-apis-and-features-for-developers'

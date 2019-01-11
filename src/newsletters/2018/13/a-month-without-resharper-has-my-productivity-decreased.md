@@ -1,6 +1,6 @@
 ---
 _id: 5ab89fd563652701eec4df6f
-title: 'A month without ReSharper — Has my productivity decreased?'
+title: "A month without ReSharper — Has my productivity decreased?"
 url: 'https://medium.com/@oldmanfart/a-month-without-resharper-has-my-productivity-decreased-a03e1923b60'
 category: 5ab89fd563652701eec4df6f
 slug: 'a-month-without-resharper-has-my-productivity-decreased'

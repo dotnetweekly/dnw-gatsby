@@ -1,6 +1,6 @@
 ---
 _id: 5b732173fd7ac995659e0041
-title: 'Upgrade your ASP.NET Core 2.1 App to Angular 6'
+title: "Upgrade your ASP.NET Core 2.1 App to Angular 6"
 url: 'https://developer.okta.com/blog/2018/08/02/aspnet-core-angular-crud'
 category: 5b732173fd7ac995659e0041
 slug: 'upgrade-your-aspnet-core-21-app-to-angular-6'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1bac
-title: 'CI/CD with .NET Core 2.0, VS Code, GitHub, Azure, and Docker'
+title: "CI/CD with .NET Core 2.0, VS Code, GitHub, Azure, and Docker"
 url: 'https://mikewilliams.io/ci-cd-with-net-core-2-0-vs-code-github-azure-and-docker-891748641315'
 category: 5a88e1aabd6dca0d5f0d1bac
 slug: 'ci-cd-with-net-core-2-0-vs-code-github-azure-and-docker'

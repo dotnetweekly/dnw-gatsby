@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d29c8
-title: 'Dangers of Violating SOLID Principles in C#'
+title: "Dangers of Violating SOLID Principles in C#"
 url: 'http://msdn.microsoft.com/en-us/magazine/dn683797.aspx?loc=zbtfz_zYFCz&prod=zOtProdz&tech=zPatz&lang=zCSz&prog=zTNMz&type=zMagz&country=zUSz'
 category: 5a88e1aebd6dca0d5f0d29c8
 slug: 'dangers-of-violating-solid-principles-in-c-2'

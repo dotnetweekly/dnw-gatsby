@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d21b4
-title: '"Instant Loading" with IndexedDB (Building a PWA, Part 2)'
+title: "'Instant Loading' with IndexedDB (Building a PWA, Part 2)"
 url: 'https://bitsofco.de/bitsofcode-pwa-part-2-instant-loading-with-indexeddb/'
 category: 5a88e1acbd6dca0d5f0d21b4
 slug: 'instant-loading-with-indexeddb-building-a-pwa-part-2'

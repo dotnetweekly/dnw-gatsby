@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d29b6
-title: 'Push Notifications to PhoneGap Apps using Notification Hubs Integration'
+title: "Push Notifications to PhoneGap Apps using Notification Hubs Integration"
 url: 'http://blogs.msdn.com/b/azuremobile/archive/2014/06/17/push-notifications-to-phonegap-apps-using-notification-hubs-integration.aspx'
 category: 5a88e1aebd6dca0d5f0d29b6
 slug: 'push-notifications-to-phonegap-apps-using-notification-hubs-integration'

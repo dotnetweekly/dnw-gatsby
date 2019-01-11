@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2e1e
-title: 'Quickly build and deploy native Mac apps in C#.'
+title: "Quickly build and deploy native Mac apps in C#."
 url: 'http://xamarin.com/mac'
 category: 5a88e1afbd6dca0d5f0d2e1e
 slug: 'quickly-build-and-deploy-native-mac-apps-in-c'

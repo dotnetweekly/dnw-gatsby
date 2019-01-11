@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d20d8
-title: 'NET Core 2.0 Planned for Spring 2017'
+title: "NET Core 2.0 Planned for Spring 2017"
 url: 'https://www.infoq.com/news/2016/12/netcore2-spring2017'
 category: 5a88e1acbd6dca0d5f0d20d8
 slug: 'net-core-2-0-planned-for-spring-2017'

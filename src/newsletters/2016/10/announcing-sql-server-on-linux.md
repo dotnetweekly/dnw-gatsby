@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d23f0
-title: 'Announcing SQL Server on Linux'
+title: "Announcing SQL Server on Linux"
 url: 'https://blogs.microsoft.com/blog/2016/03/07/announcing-sql-server-on-linux/'
 category: 5a88e1acbd6dca0d5f0d23f0
 slug: 'announcing-sql-server-on-linux'

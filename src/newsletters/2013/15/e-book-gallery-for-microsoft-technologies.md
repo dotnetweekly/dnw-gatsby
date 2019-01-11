@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d1c
-title: 'E-Book Gallery for Microsoft Technologies'
+title: "E-Book Gallery for Microsoft Technologies"
 url: 'http://naimishpandya.wordpress.com/2013/04/15/e-book-gallery-for-microsoft-technologies/?'
 category: 5a88e1afbd6dca0d5f0d2d1c
 slug: 'e-book-gallery-for-microsoft-technologies'

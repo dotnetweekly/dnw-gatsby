@@ -1,6 +1,6 @@
 ---
 _id: 5b62a7ab6b826e40b9f5993b
-title: 'How to setup ASP.NET Core 2.1 on Linux in under 10 minutes'
+title: "How to setup ASP.NET Core 2.1 on Linux in under 10 minutes"
 url: 'https://www.danielcrabtree.com/blog/481/how-to-setup-asp-net-core-2-1-on-linux-in-under-10-minutes'
 category: 5b62a7ab6b826e40b9f5993b
 slug: 'how-to-setup-aspnet-core-21-on-linux-in-under-10-minutes'

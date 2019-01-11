@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2f88
-title: 'Working with Graphics on the Web: Canvas vs. SVG'
+title: "Working with Graphics on the Web: Canvas vs. SVG"
 url: 'http://msdn.microsoft.com/en-us/magazine/jj159886.aspx'
 category: 5a88e1afbd6dca0d5f0d2f88
 slug: 'working-with-graphics-on-the-web-canvas-vs-svg'

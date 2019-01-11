@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2bee
-title: 'Creating Facebook Template in Visual Studio 2013 RC'
+title: "Creating Facebook Template in Visual Studio 2013 RC"
 url: 'http://www.dotnetfunda.com/articles/show/2573/creating-facebook-template-in-visual-studio-2013-rc'
 category: 5a88e1aebd6dca0d5f0d2bee
 slug: 'creating-facebook-template-in-visual-studio-2013-rc'

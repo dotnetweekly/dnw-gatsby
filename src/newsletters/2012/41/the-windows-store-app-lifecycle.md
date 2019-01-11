@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2ea4
-title: 'The Windows Store App Lifecycle'
+title: "The Windows Store App Lifecycle"
 url: 'http://msdn.microsoft.com/el-gr/magazine/jj660301(en-us).aspx'
 category: 5a88e1afbd6dca0d5f0d2ea4
 slug: 'the-windows-store-app-lifecycle'

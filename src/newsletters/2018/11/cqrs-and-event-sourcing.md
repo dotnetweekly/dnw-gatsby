@@ -1,6 +1,6 @@
 ---
 _id: 5aaa1dbd5f4d1d020e141920
-title: 'CQRS and Event Sourcing'
+title: "CQRS and Event Sourcing"
 url: 'http://completedeveloperpodcast.com/episode-134/'
 category: 5aaa1dbd5f4d1d020e141920
 slug: 'cqrs-and-event-sourcing'

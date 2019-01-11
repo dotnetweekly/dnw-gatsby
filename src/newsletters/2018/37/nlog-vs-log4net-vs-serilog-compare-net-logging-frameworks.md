@@ -1,6 +1,6 @@
 ---
 _id: 5b97441d1f9f2ed816857abc
-title: 'NLog vs log4net vs Serilog: Compare .NET Logging Frameworks'
+title: "NLog vs log4net vs Serilog: Compare .NET Logging Frameworks"
 url: 'https://stackify.com/nlog-vs-log4net-vs-serilog/'
 category: 5b97441d1f9f2ed816857abc
 slug: 'nlog-vs-log4net-vs-serilog-compare-net-logging-frameworks'

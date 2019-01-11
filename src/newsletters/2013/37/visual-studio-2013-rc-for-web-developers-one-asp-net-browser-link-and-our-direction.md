@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2c0a
-title: 'Visual Studio 2013 RC for Web Developers - One ASP.NET, Browser Link, and our Direction'
+title: "Visual Studio 2013 RC for Web Developers - One ASP.NET, Browser Link, and our Direction"
 url: 'http://www.hanselman.com/blog/VisualStudio2013RCForWebDevelopersOneASPNETBrowserLinkAndOurDirection.aspx'
 category: 5a88e1aebd6dca0d5f0d2c0a
 slug: 'visual-studio-2013-rc-for-web-developers-one-asp-net-browser-link-and-our-direction'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d21ca
-title: 'Visual Studio Toolbox: Using Git and GitHub'
+title: "Visual Studio Toolbox: Using Git and GitHub"
 url: 'https://blogs.msdn.microsoft.com/robertgreen/2016/10/05/visual-studio-toolbox-using-git-and-github/'
 category: 5a88e1acbd6dca0d5f0d21ca
 slug: 'visual-studio-toolbox-using-git-and-github'

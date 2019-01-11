@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1ca2
-title: 'View Components in ASP.NET Core'
+title: "View Components in ASP.NET Core"
 url: 'https://tech.io/playgrounds/4981/view-components-in-asp-net-core'
 category: 5a88e1abbd6dca0d5f0d1ca2
 slug: 'view-components-in-asp-net-core'

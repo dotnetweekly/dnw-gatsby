@@ -1,6 +1,6 @@
 ---
 _id: 5bda8bb31428e6a25494dad6
-title: 'What’s Next for Visual Studio for Mac'
+title: "What’s Next for Visual Studio for Mac"
 url: 'https://blogs.msdn.microsoft.com/visualstudio/2018/10/16/whats-next-for-visual-studio-for-mac/'
 category: 5bda8bb31428e6a25494dad6
 slug: 'whats-next-for-visual-studio-for-mac'

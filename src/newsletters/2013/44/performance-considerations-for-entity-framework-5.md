@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2baa
-title: 'Performance Considerations for Entity Framework 5'
+title: "Performance Considerations for Entity Framework 5"
 url: 'http://msdn.microsoft.com/en-us/data/hh949853.aspx'
 category: 5a88e1aebd6dca0d5f0d2baa
 slug: 'performance-considerations-for-entity-framework-5'

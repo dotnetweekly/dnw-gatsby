@@ -1,6 +1,6 @@
 ---
 _id: 5b69005b6b826e1a1bf59957
-title: 'Differences Between ASP.NET SignalR and ASP.NET Core SignalR'
+title: "Differences Between ASP.NET SignalR and ASP.NET Core SignalR"
 url: 'https://www.codemag.com/article/1807061'
 category: 5b69005b6b826e1a1bf59957
 slug: 'differences-between-aspnet-signalr-and-aspnet-core-signalr'

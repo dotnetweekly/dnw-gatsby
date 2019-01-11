@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d3024
-title: 'Windows 8 XAML in Action. Early Access 40% off'
+title: "Windows 8 XAML in Action. Early Access 40% off"
 url: 'http://www.manning.com/pbrown3/'
 category: 5a88e1afbd6dca0d5f0d3024
 slug: 'windows-8-xaml-in-action-early-access-40-off'

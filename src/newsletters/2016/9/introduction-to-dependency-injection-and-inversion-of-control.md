@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d23fc
-title: 'Introduction to Dependency Injection and Inversion of Control'
+title: "Introduction to Dependency Injection and Inversion of Control"
 url: 'http://www.codeproject.com/Articles/1075597/Introduction-to-Dependency-Injection-and-Inversion'
 category: 5a88e1acbd6dca0d5f0d23fc
 slug: 'introduction-to-dependency-injection-and-inversion-of-control'

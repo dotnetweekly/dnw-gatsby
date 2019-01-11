@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d25f0
-title: 'Azure Mobile Services - Azure Mobile Services: A Great Back End for AngularJS'
+title: "Azure Mobile Services - Azure Mobile Services: A Great Back End for AngularJS"
 url: 'https://msdn.microsoft.com/en-us/magazine/mt185573'
 category: 5a88e1adbd6dca0d5f0d25f0
 slug: 'azure-mobile-services-azure-mobile-services-a-great-back-end-for-angularjs'

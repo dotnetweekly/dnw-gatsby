@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2e58
-title: 'How Do I Deploy a Windows 8 App to Another Device for Testing?'
+title: "How Do I Deploy a Windows 8 App to Another Device for Testing?"
 url: 'http://blogs.msdn.com/b/patricka/archive/2012/11/05/how-do-i-deploy-a-windows-8-app-to-another-device-for-testing.aspx'
 category: 5a88e1afbd6dca0d5f0d2e58
 slug: 'how-do-i-deploy-a-windows-8-app-to-another-device-for-testing'

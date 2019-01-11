@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d25aa
-title: 'BETA: ASP.NET 5 Beta7 now available… with Mac/Linux .NET execution environment'
+title: "BETA: ASP.NET 5 Beta7 now available… with Mac/Linux .NET execution environment"
 url: 'http://kurtsh.com/2015/09/14/beta-asp-net-5-beta7-now-available-with-maclinux-net-execution-environment/'
 category: 5a88e1adbd6dca0d5f0d25aa
 slug: 'beta-asp-net-5-beta7-now-available-with-maclinux-net-execution-environment'

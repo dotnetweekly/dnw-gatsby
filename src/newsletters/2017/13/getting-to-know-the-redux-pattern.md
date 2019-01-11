@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1f66
-title: 'Getting to Know the Redux Pattern'
+title: "Getting to Know the Redux Pattern"
 url: 'http://www.dotnetcurry.com/reactjs/1356/redux-pattern-tutorial'
 category: 5a88e1abbd6dca0d5f0d1f66
 slug: 'getting-to-know-the-redux-pattern'

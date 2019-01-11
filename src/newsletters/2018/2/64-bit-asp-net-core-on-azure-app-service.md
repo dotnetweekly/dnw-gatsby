@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1af8
-title: '64 bit ASP.NET Core on Azure App Service'
+title: "64 bit ASP.NET Core on Azure App Service"
 url: 'https://blogs.msdn.microsoft.com/webdev/2018/01/09/64-bit-asp-net-core-on-azure-app-service/'
 category: 5a88e1aabd6dca0d5f0d1af8
 slug: '64-bit-asp-net-core-on-azure-app-service'

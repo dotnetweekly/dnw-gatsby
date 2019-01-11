@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1ecc
-title: 'Handling 404 Not Found in Asp.Net Core'
+title: "Handling 404 Not Found in Asp.Net Core"
 url: 'https://www.devtrends.co.uk/blog/handling-404-not-found-in-asp.net-core'
 category: 5a88e1abbd6dca0d5f0d1ecc
 slug: 'handling-404-not-found-in-asp-net-core'

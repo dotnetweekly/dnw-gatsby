@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d29dc
-title: 'The latest and greatest features added to Windows Phone 8.1 and Microsoft Azure - 5/20/2014'
+title: "The latest and greatest features added to Windows Phone 8.1 and Microsoft Azure - 5/20/2014"
 url: 'http://blogs.msdn.com/b/brunoterkaly/archive/2014/05/20/the-latest-and-greatest-features-added-to-windows-phone-8-1-and-microsoft-azure-5-20-2014.aspx'
 category: 5a88e1aebd6dca0d5f0d29dc
 slug: 'the-latest-and-greatest-features-added-to-windows-phone-8-1-and-microsoft-azure-5202014'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2178
-title: 'Hosting and scaling your apps with Azure Container Service'
+title: "Hosting and scaling your apps with Azure Container Service"
 url: 'https://www.youtube.com/watch?v=xz8-IZIIfe4'
 category: 5a88e1acbd6dca0d5f0d2178
 slug: 'hosting-and-scaling-your-apps-with-azure-container-service'

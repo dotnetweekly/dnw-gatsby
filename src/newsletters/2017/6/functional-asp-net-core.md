@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d2030
-title: 'Functional ASP.NET Core'
+title: "Functional ASP.NET Core"
 url: 'https://dusted.codes/functional-aspnet-core'
 category: 5a88e1abbd6dca0d5f0d2030
 slug: 'functional-asp-net-core'

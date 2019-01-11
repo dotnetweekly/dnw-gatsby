@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d307a
-title: 'Programming Windows®, 6th Edition'
+title: "Programming Windows®, 6th Edition"
 url: 'http://blogs.msdn.com/b/microsoft_press/archive/2012/04/21/mark-your-calendars-programming-windows-sixth-edition-is-coming.aspx'
 category: 5a88e1afbd6dca0d5f0d307a
 slug: 'programming-windows-6th-edition'

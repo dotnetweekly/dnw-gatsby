@@ -1,6 +1,6 @@
 ---
 _id: 5ae2f9507b1832006e43edd9
-title: 'Sending Push Notifications from a Azure Function'
+title: "Sending Push Notifications from a Azure Function"
 url: 'https://blog.verslu.is/xamarin/push-notifications-azure-function/'
 category: 5ae2f9507b1832006e43edd9
 slug: 'sending-push-notifications-from-a-azure-function'

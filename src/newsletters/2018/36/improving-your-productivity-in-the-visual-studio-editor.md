@@ -1,6 +1,6 @@
 ---
 _id: 5b91738b1f9f2e275b857aa7
-title: 'Improving your productivity in the Visual Studio Editor'
+title: "Improving your productivity in the Visual Studio Editor"
 url: 'https://blogs.msdn.microsoft.com/visualstudio/2018/08/30/improving-your-productivity-in-the-visual-studio-editor/'
 category: 5b91738b1f9f2e275b857aa7
 slug: 'improving-your-productivity-in-the-visual-studio-editor'

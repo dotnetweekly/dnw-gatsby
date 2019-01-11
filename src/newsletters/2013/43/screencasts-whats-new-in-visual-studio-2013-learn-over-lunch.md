@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2bb2
-title: 'SCREENCASTS: What"s New in Visual Studio 2013 - learn over lunch!'
+title: "SCREENCASTS: What's New in Visual Studio 2013 - learn over lunch!"
 url: 'http://www.hanselman.com/blog/SCREENCASTSWhatsNewInVisualStudio2013LearnOverLunch.aspx'
 category: 5a88e1aebd6dca0d5f0d2bb2
 slug: 'screencasts-whats-new-in-visual-studio-2013-learn-over-lunch'

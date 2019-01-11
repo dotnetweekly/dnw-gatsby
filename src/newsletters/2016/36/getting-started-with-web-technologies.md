@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2224
-title: 'Getting Started with Web Technologies'
+title: "Getting Started with Web Technologies"
 url: 'https://mva.microsoft.com/en-US/training-courses/getting-started-with-web-technologies-15937'
 category: 5a88e1acbd6dca0d5f0d2224
 slug: 'getting-started-with-web-technologies'

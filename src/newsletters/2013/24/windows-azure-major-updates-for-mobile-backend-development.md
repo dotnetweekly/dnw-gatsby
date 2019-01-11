@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2caa
-title: 'Windows Azure: Major Updates for Mobile Backend Development '
+title: "Windows Azure: Major Updates for Mobile Backend Development "
 url: 'http://weblogs.asp.net/scottgu/archive/2013/06/14/windows-azure-major-updates-for-mobile-backend-development.aspx'
 category: 5a88e1afbd6dca0d5f0d2caa
 slug: 'windows-azure-major-updates-for-mobile-backend-development'

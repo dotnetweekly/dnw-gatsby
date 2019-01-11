@@ -1,6 +1,6 @@
 ---
 _id: 5b62a93e6b826e2257f59940
-title: 'GraphQL using .NET Boxed: Mutations'
+title: "GraphQL using .NET Boxed: Mutations"
 url: 'https://itnext.io/graphql-using-net-boxed-mutations-cbc39190f6db'
 category: 5b62a93e6b826e2257f59940
 slug: 'graphql-using-net-boxed-mutations'

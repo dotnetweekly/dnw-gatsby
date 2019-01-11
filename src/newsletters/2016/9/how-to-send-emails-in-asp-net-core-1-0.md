@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2404
-title: 'How to Send Emails in ASP.NET Core 1.0'
+title: "How to Send Emails in ASP.NET Core 1.0"
 url: 'http://stevejgordon.co.uk/how-to-send-emails-in-asp-net-core-1-0'
 category: 5a88e1acbd6dca0d5f0d2404
 slug: 'how-to-send-emails-in-asp-net-core-1-0'

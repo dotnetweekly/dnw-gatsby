@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d24dc
-title: 'Connect(); // 2015'
+title: "Connect(); // 2015"
 url: 'https://channel9.msdn.com/events/visual-studio/connect-event-2015'
 category: 5a88e1adbd6dca0d5f0d24dc
 slug: 'connect-2015-2'

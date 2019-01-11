@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1f46
-title: 'A library for building cross-platform apps - ReactXP'
+title: "A library for building cross-platform apps - ReactXP"
 url: 'https://microsoft.github.io/reactxp/'
 category: 5a88e1abbd6dca0d5f0d1f46
 slug: 'a-library-for-building-cross-platform-apps-reactxp'

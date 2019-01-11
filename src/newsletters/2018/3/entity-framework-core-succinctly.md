@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1ad6
-title: 'Entity Framework Core Succinctly'
+title: "Entity Framework Core Succinctly"
 url: 'https://www.syncfusion.com/ebooks/entity_frame_work_core_succinctly'
 category: 5a88e1aabd6dca0d5f0d1ad6
 slug: 'entity-framework-core-succinctly'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2ce2
-title: 'Monetize Your Windows 8 Apps with Free InMobi Ad SDK '
+title: "Monetize Your Windows 8 Apps with Free InMobi Ad SDK "
 url: 'http://www.inmobi.com/windows-8/'
 category: 5a88e1afbd6dca0d5f0d2ce2
 slug: 'monetize-your-windows-8-apps-with-free-inmobi-ad-sdk'

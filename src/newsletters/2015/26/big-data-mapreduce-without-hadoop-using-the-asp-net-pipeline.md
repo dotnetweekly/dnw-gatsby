@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2656
-title: 'Big Data - MapReduce Without Hadoop Using the ASP.NET Pipeline'
+title: "Big Data - MapReduce Without Hadoop Using the ASP.NET Pipeline"
 url: 'https://msdn.microsoft.com/en-us/magazine/mt147240.aspx'
 category: 5a88e1adbd6dca0d5f0d2656
 slug: 'big-data-mapreduce-without-hadoop-using-the-asp-net-pipeline'

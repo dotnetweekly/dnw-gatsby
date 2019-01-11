@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2374
-title: 'The Future of C#'
+title: "The Future of C#"
 url: 'https://channel9.msdn.com/Events/Build/2016/B889'
 category: 5a88e1acbd6dca0d5f0d2374
 slug: 'the-future-of-c-2'

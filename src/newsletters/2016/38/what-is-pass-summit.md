@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d21fe
-title: 'What is PASS Summit?'
+title: "What is PASS Summit?"
 url: 'http://www.sqlpass.org/Default.aspx?alias=www.sqlpass.org/summit/2016'
 category: 5a88e1acbd6dca0d5f0d21fe
 slug: 'what-is-pass-summit'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2638
-title: 'Hey Azure, how"s my Cloud Service doing?'
+title: "Hey Azure, how's my Cloud Service doing?"
 url: 'http://geekswithblogs.net/EltonStoneman/archive/2015/07/03/hey-azure-hows-my-cloud-service-doing.aspx'
 category: 5a88e1adbd6dca0d5f0d2638
 slug: 'hey-azure-hows-my-cloud-service-doing'

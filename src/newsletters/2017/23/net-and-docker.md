@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1e78
-title: '.NET and Docker'
+title: ".NET and Docker"
 url: 'https://www.hanselman.com/blog/NETAndDocker.aspx'
 category: 5a88e1abbd6dca0d5f0d1e78
 slug: 'net-and-docker'

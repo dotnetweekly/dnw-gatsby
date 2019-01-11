@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d34
-title: 'Building Windows 8'
+title: "Building Windows 8"
 url: 'http://blogs.msdn.com/b/b8/'
 category: 5a88e1afbd6dca0d5f0d2d34
 slug: 'building-windows-8'

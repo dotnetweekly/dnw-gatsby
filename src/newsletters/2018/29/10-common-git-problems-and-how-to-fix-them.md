@@ -1,6 +1,6 @@
 ---
 _id: 5b4ed7d2d9e4dca2d8970463
-title: '10 Common Git Problems and How to Fix Them'
+title: "10 Common Git Problems and How to Fix Them"
 url: 'https://dev.to/citizen428/10-common-git-problems-and-how-to-fix-them-234o'
 category: 5b4ed7d2d9e4dca2d8970463
 slug: '10-common-git-problems-and-how-to-fix-them'

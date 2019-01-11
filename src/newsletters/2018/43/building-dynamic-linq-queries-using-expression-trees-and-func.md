@@ -1,6 +1,6 @@
 ---
 _id: 5bd16049e8929f7cdc385dfd
-title: 'Building dynamic LINQ queries using Expression Trees and Func'
+title: "Building dynamic LINQ queries using Expression Trees and Func"
 url: 'http://coderethinked.com/building-dynamic-linq-queries-using-expression-trees-and-func/'
 category: 5bd16049e8929f7cdc385dfd
 slug: 'building-dynamic-linq-queries-using-expression-trees-and-func'

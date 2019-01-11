@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1b40
-title: 'Reverse Engineering Existing Databases in Entity Framework Core 2'
+title: "Reverse Engineering Existing Databases in Entity Framework Core 2"
 url: 'https://wildermuth.com/2017/12/20/Reverse-Engineering-Existing-Databases-in-Entity-Framework-Core-2'
 category: 5a88e1aabd6dca0d5f0d1b40
 slug: 'reverse-engineering-existing-databases-in-entity-framework-core-2'

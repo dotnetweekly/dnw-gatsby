@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1c98
-title: '.NET/C# Realtime Resources - Realtime API Hub'
+title: ".NET/C# Realtime Resources - Realtime API Hub"
 url: 'https://realtimeapi.io/hub/dotnet-c-realtime-resources/'
 category: 5a88e1abbd6dca0d5f0d1c98
 slug: 'netc-realtime-resources-realtime-api-hub'

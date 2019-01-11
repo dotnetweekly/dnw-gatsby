@@ -1,6 +1,6 @@
 ---
 _id: 5b6900d86b826ee4cff5995b
-title: 'xUnit.net 2.4'
+title: "xUnit.net 2.4"
 url: 'https://xunit.github.io/releases/2.4'
 category: 5b6900d86b826ee4cff5995b
 slug: 'xunitnet-24'

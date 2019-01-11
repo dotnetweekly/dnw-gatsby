@@ -1,6 +1,6 @@
 ---
 _id: 5bd4969c1428e60f2e94dab8
-title: 'Top Stories from the Microsoft DevOps Community'
+title: "Top Stories from the Microsoft DevOps Community"
 url: 'https://blogs.msdn.microsoft.com/devops/2018/10/26/top-stories-from-the-microsoft-devops-community-2018-10-26/'
 category: 5bd4969c1428e60f2e94dab8
 slug: 'top-stories-from-the-microsoft-devops-community'

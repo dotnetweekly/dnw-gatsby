@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d232c
-title: 'Announcing the new Desktop to UWP Packaging Project for Visual Studio “15”'
+title: "Announcing the new Desktop to UWP Packaging Project for Visual Studio “15”"
 url: 'https://blogs.msdn.microsoft.com/visualstudio/2016/05/17/new-desktop-to-uwp-packaging-project-for-visual-studio-15/'
 category: 5a88e1acbd6dca0d5f0d232c
 slug: 'announcing-the-new-desktop-to-uwp-packaging-project-for-visual-studio-15'

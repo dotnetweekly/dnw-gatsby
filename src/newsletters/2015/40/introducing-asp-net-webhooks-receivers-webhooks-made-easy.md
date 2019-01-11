@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2576
-title: 'Introducing ASP.NET WebHooks Receivers - WebHooks made easy.'
+title: "Introducing ASP.NET WebHooks Receivers - WebHooks made easy."
 url: 'http://www.hanselman.com/blog/IntroducingASPNETWebHooksReceiversWebHooksMadeEasy.aspx'
 category: 5a88e1adbd6dca0d5f0d2576
 slug: 'introducing-asp-net-webhooks-receivers-webhooks-made-easy'

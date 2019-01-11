@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2ffa
-title: 'Nuget 2 released'
+title: "Nuget 2 released"
 url: 'http://nuget.org/'
 category: 5a88e1afbd6dca0d5f0d2ffa
 slug: 'nuget-2-released'

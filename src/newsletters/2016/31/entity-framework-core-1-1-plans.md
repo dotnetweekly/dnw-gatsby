@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d228a
-title: 'Entity Framework Core 1.1 Plans'
+title: "Entity Framework Core 1.1 Plans"
 url: 'https://blogs.msdn.microsoft.com/dotnet/2016/07/29/entity-framework-core-1-1-plans/'
 category: 5a88e1acbd6dca0d5f0d228a
 slug: 'entity-framework-core-1-1-plans'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1dcc
-title: 'Introduction to MSBuild in .NET Core with Nate McMaster'
+title: "Introduction to MSBuild in .NET Core with Nate McMaster"
 url: 'https://channel9.msdn.com/Shows/Code-Conversations/Introduction-to-MSBuild-in-NET-Core-with-Nate-McMaster'
 category: 5a88e1abbd6dca0d5f0d1dcc
 slug: 'introduction-to-msbuild-in-net-core-with-nate-mcmaster'

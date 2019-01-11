@@ -1,6 +1,6 @@
 ---
 _id: 5c0f773af2d67930096aa78c
-title: 'Six Opinionated Tips to be a Better .NET Developer'
+title: "Six Opinionated Tips to be a Better .NET Developer"
 url: 'https://www.isaaclevin.com/post/six-opinionated-tips/'
 category: 5c0f773af2d67930096aa78c
 slug: 'six-opinionated-tips-to-be-a-better-net-developer'

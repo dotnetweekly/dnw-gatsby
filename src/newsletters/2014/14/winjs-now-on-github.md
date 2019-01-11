@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a60
-title: 'WinJS, now on Github'
+title: "WinJS, now on Github"
 url: 'https://github.com/winjs/winjs'
 category: 5a88e1aebd6dca0d5f0d2a60
 slug: 'winjs-now-on-github'

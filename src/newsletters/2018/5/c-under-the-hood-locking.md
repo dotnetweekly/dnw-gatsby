@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1a86
-title: 'C# Under the Hood: Locking'
+title: "C# Under the Hood: Locking"
 url: 'https://www.markopapic.com/csharp-under-the-hood-locking/'
 category: 5a88e1aabd6dca0d5f0d1a86
 slug: 'c-under-the-hood-locking'

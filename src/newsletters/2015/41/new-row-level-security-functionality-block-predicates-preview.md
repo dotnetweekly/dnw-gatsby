@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2564
-title: 'New Row-Level Security functionality: Block predicates (preview)'
+title: "New Row-Level Security functionality: Block predicates (preview)"
 url: 'https://azure.microsoft.com/en-us/blog/sql-database-row-level-security-block-predicates/'
 category: 5a88e1adbd6dca0d5f0d2564
 slug: 'new-row-level-security-functionality-block-predicates-preview'

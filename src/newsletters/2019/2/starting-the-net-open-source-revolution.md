@@ -1,6 +1,6 @@
 ---
 _id: 5c384daf5e8f0d28068d0c47
-title: 'Starting the .NET Open Source Revolution'
+title: "Starting the .NET Open Source Revolution"
 url: 'https://medium.com/microsoft-open-source-stories/starting-the-net-open-source-revolution-e0268b02ac8a'
 category: 5c384daf5e8f0d28068d0c47
 slug: 'starting-the-net-open-source-revolution'

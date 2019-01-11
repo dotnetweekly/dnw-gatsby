@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1bd2
-title: 'MongoDb and LINQ: How to aggregate and join collections'
+title: "MongoDb and LINQ: How to aggregate and join collections"
 url: 'http://www.qappdesign.com/mongodb-and-linq-how-to-aggregate-and-join-collections/'
 category: 5a88e1aabd6dca0d5f0d1bd2
 slug: 'mongodb-and-linq-how-to-aggregate-and-join-collections'

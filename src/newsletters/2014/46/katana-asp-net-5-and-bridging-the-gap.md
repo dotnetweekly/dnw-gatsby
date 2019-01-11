@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d283c
-title: 'Katana, ASP.NET 5, and bridging the gap'
+title: "Katana, ASP.NET 5, and bridging the gap"
 url: 'http://blogs.msdn.com/b/webdev/archive/2014/11/14/katana-asp-net-5-and-bridging-the-gap.aspx'
 category: 5a88e1aebd6dca0d5f0d283c
 slug: 'katana-asp-net-5-and-bridging-the-gap'

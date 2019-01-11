@@ -1,6 +1,6 @@
 ---
 _id: 5aefbf397ecc5042de6cd126
-title: 'ASP.NET Core Dependency Injection - Registering Multiple Implementations of an Interface'
+title: "ASP.NET Core Dependency Injection - Registering Multiple Implementations of an Interface"
 url: 'https://www.stevejgordon.co.uk/asp-net-core-dependency-injection-registering-multiple-implementations-interface'
 category: 5aefbf397ecc5042de6cd126
 slug: 'aspnet-core-dependency-injection-registering-multiple-implementations-of-an-interface'

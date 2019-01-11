@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d233a
-title: 'RavenDB 3.5 beta is out!'
+title: "RavenDB 3.5 beta is out!"
 url: 'https://ayende.com/blog/174177/ravendb-3-5-beta-is-out'
 category: 5a88e1acbd6dca0d5f0d233a
 slug: 'ravendb-3-5-beta-is-out'

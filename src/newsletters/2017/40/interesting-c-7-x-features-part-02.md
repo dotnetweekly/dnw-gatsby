@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1c8c
-title: 'Interesting C# 7.x features - Part 02'
+title: "Interesting C# 7.x features - Part 02"
 url: 'http://malisancube.com/interesting-c-7-x-features-part-02/'
 category: 5a88e1abbd6dca0d5f0d1c8c
 slug: 'interesting-c-7-x-features-part-02'

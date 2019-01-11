@@ -1,6 +1,6 @@
 ---
 _id: 5c0f7807f2d6797b1c6aa78f
-title: 'Getting Setup With .NET Core 3 Preview and C# 8'
+title: "Getting Setup With .NET Core 3 Preview and C# 8"
 url: 'https://dotnetcoretutorials.com/2018/12/08/getting-setup-with-net-core-3-preview-and-c-8/'
 category: 5c0f7807f2d6797b1c6aa78f
 slug: 'getting-setup-with-net-core-3-preview-and-c-8'

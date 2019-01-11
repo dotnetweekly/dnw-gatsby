@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1d38
-title: '.NET DeveloperDays 2017 - Last chance for discounted price'
+title: ".NET DeveloperDays 2017 - Last chance for discounted price"
 url: 'http://net.developerdays.pl/'
 category: 5a88e1abbd6dca0d5f0d1d38
 slug: 'net-developerdays-2017-last-chance-for-discounted-price'

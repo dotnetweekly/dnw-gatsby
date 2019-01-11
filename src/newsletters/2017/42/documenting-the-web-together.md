@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1c4e
-title: 'Documenting the Web together'
+title: "Documenting the Web together"
 url: 'https://blogs.windows.com/msedgedev/2017/10/18/documenting-web-together-mdn-web-docs/#C4c4fXEOyW72HOC3.97'
 category: 5a88e1aabd6dca0d5f0d1c4e
 slug: 'documenting-the-web-together'

@@ -1,6 +1,6 @@
 ---
 _id: 5c262834745cd014310206c2
-title: 'Azure - Deploy Your Code The Right Way with Azure Pipelines'
+title: "Azure - Deploy Your Code The Right Way with Azure Pipelines"
 url: 'https://msdn.microsoft.com/magazine/mt848636'
 category: 5c262834745cd014310206c2
 slug: 'azure-deploy-your-code-the-right-way-with-azure-pipelines'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1b92
-title: 'Team Foundation Server 2018'
+title: "Team Foundation Server 2018"
 url: 'https://www.visualstudio.com/en-us/news/releasenotes/tfs2018-relnotes'
 category: 5a88e1aabd6dca0d5f0d1b92
 slug: 'team-foundation-server-2018'

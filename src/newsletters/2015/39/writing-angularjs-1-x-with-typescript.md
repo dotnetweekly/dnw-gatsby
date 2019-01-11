@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d257e
-title: 'Writing AngularJS 1.x with TypeScript'
+title: "Writing AngularJS 1.x with TypeScript"
 url: 'http://www.developerhandbook.com/typescript/writing-angularjs-1-x-with-typescript/'
 category: 5a88e1adbd6dca0d5f0d257e
 slug: 'writing-angularjs-1-x-with-typescript'

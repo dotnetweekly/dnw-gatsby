@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1ec8
-title: 'Build 2017 | Channel 9'
+title: "Build 2017 | Channel 9"
 url: 'https://channel9.msdn.com/Events/Build/2017'
 category: 5a88e1abbd6dca0d5f0d1ec8
 slug: 'build-2017-channel-9'

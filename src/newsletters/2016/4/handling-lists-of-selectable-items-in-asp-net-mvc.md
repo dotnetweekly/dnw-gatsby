@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2464
-title: 'Handling Lists of Selectable Items in ASP.NET MVC'
+title: "Handling Lists of Selectable Items in ASP.NET MVC"
 url: 'https://visualstudiomagazine.com/articles/2016/01/01/handling-lists-of-selectable-items.aspx'
 category: 5a88e1acbd6dca0d5f0d2464
 slug: 'handling-lists-of-selectable-items-in-asp-net-mvc'

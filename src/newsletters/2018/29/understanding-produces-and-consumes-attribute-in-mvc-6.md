@@ -1,6 +1,6 @@
 ---
 _id: 5b536262023502378da72a82
-title: 'Understanding Produces and Consumes Attribute in MVC 6'
+title: "Understanding Produces and Consumes Attribute in MVC 6"
 url: 'http://techxposer.com/2018/07/21/understanding-produces-consumes-attribute-mvc-6/'
 category: 5b536262023502378da72a82
 slug: 'understanding-produces-and-consumes-attribute-in-mvc-6'

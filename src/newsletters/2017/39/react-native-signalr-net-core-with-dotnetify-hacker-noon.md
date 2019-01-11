@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1ca0
-title: 'React Native + SignalR + .NET Core with dotNetify – Hacker Noon'
+title: "React Native + SignalR + .NET Core with dotNetify – Hacker Noon"
 url: 'https://hackernoon.com/react-native-signalr-net-core-with-dotnetify-f919083170d4'
 category: 5a88e1abbd6dca0d5f0d1ca0
 slug: 'react-native-signalr-net-core-with-dotnetify-hacker-noon'

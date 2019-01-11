@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1d2e
-title: 'Dependency Injection in action filters in ASP.NET Core'
+title: "Dependency Injection in action filters in ASP.NET Core"
 url: 'https://www.devtrends.co.uk/blog/dependency-injection-in-action-filters-in-asp.net-core'
 category: 5a88e1abbd6dca0d5f0d1d2e
 slug: 'dependency-injection-in-action-filters-in-asp-net-core'

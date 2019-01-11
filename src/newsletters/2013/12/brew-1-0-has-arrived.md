@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d5a
-title: 'Brew 1.0 has arrived!'
+title: "Brew 1.0 has arrived!"
 url: 'http://blog.shellscape.org/blog/2013/03/18/brew-1.0-has-arrived/'
 category: 5a88e1afbd6dca0d5f0d2d5a
 slug: 'brew-1-0-has-arrived'

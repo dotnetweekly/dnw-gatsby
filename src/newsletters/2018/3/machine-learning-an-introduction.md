@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1aca
-title: 'Machine Learning: An Introduction'
+title: "Machine Learning: An Introduction"
 url: 'http://www.dotnetcurry.com/machinelearning-ai/1413/machine-learning-introduction'
 category: 5a88e1aabd6dca0d5f0d1aca
 slug: 'machine-learning-an-introduction'

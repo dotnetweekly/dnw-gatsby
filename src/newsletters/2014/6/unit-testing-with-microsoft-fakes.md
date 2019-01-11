@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2ad0
-title: 'Unit Testing with Microsoft Fakes'
+title: "Unit Testing with Microsoft Fakes"
 url: 'http://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Unit-Testing-with-Microsoft-Fakes'
 category: 5a88e1aebd6dca0d5f0d2ad0
 slug: 'unit-testing-with-microsoft-fakes'

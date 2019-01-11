@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2fb0
-title: 'WHAT ARE WINDOWS 8 CAMPS?'
+title: "WHAT ARE WINDOWS 8 CAMPS?"
 url: 'http://www.devcamps.ms/windows'
 category: 5a88e1afbd6dca0d5f0d2fb0
 slug: 'what-are-windows-8-camps'

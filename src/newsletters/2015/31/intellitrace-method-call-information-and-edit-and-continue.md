@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d25fe
-title: 'IntelliTrace, method call information, and Edit and Continue'
+title: "IntelliTrace, method call information, and Edit and Continue"
 url: 'http://blogs.msdn.com/b/visualstudioalm/archive/2015/07/29/intellitrace-method-call-information-and-edit-and-continue.aspx'
 category: 5a88e1adbd6dca0d5f0d25fe
 slug: 'intellitrace-method-call-information-and-edit-and-continue'

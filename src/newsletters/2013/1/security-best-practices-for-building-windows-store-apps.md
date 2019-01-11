@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2e04
-title: 'Security best practices for building Windows Store apps'
+title: "Security best practices for building Windows Store apps"
 url: 'http://blogs.msdn.com/b/windowsappdev/archive/2012/12/18/security-best-practices-for-building-windows-store-apps.aspx'
 category: 5a88e1afbd6dca0d5f0d2e04
 slug: 'security-best-practices-for-building-windows-store-apps'

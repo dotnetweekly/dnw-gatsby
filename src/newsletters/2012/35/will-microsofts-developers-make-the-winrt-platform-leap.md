@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2f14
-title: 'Will Microsoft"s developers make the WinRT platform leap?'
+title: "Will Microsoft's developers make the WinRT platform leap?"
 url: 'http://www.zdnet.com/will-microsofts-developers-make-the-winrt-platform-leap-7000003254/'
 category: 5a88e1afbd6dca0d5f0d2f14
 slug: 'will-microsofts-developers-make-the-winrt-platform-leap'

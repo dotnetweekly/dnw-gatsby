@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2cb4
-title: 'LINQ for JavaScript - CodeProject'
+title: "LINQ for JavaScript - CodeProject"
 url: 'http://www.codeproject.com/Articles/603742/LINQ-for-JavaScript'
 category: 5a88e1afbd6dca0d5f0d2cb4
 slug: 'linq-for-javascript-codeproject'

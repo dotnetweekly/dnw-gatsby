@@ -1,6 +1,6 @@
 ---
 _id: 5b98838dd08949699d6ca3f1
-title: 'Watch the .NET Conf Live!'
+title: "Watch the .NET Conf Live!"
 url: 'https://blog.xamarin.com/watch-the-net-conf-live/'
 category: 5b98838dd08949699d6ca3f1
 slug: 'watch-the-net-conf-live'

@@ -1,6 +1,6 @@
 ---
 _id: 5bd498471428e64abf94dabc
-title: 'Blazon - We needed to talk performance'
+title: "Blazon - We needed to talk performance"
 url: 'https://github.com/aspnet/Blazor/issues/767'
 category: 5bd498471428e64abf94dabc
 slug: 'blazon-we-needed-to-talk-performance'

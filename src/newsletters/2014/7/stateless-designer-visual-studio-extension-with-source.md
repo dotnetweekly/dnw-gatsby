@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2aba
-title: 'Stateless Designer Visual Studio Extension (with Source)'
+title: "Stateless Designer Visual Studio Extension (with Source)"
 url: 'http://coolthingoftheday.blogspot.gr/2014/02/stateless-designer-visual-studio.html'
 category: 5a88e1aebd6dca0d5f0d2aba
 slug: 'stateless-designer-visual-studio-extension-with-source'

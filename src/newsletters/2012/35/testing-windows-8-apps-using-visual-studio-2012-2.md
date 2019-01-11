@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2f12
-title: 'Testing Windows 8 apps using Visual Studio 2012'
+title: "Testing Windows 8 apps using Visual Studio 2012"
 url: 'http://blogs.msdn.com/b/windowsappdev/archive/2012/08/20/testing-windows-8-apps-using-visual-studio-2012.aspx'
 category: 5a88e1afbd6dca0d5f0d2f12
 slug: 'testing-windows-8-apps-using-visual-studio-2012-2'

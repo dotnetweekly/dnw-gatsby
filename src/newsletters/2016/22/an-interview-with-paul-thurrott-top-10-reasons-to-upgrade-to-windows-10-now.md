@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2322
-title: 'An Interview with Paul Thurrott: Top 10 Reasons to Upgrade to Windows 10 NOW!'
+title: "An Interview with Paul Thurrott: Top 10 Reasons to Upgrade to Windows 10 NOW!"
 url: 'https://channel9.msdn.com/Shows/TechNet+Radio/TNR1655'
 category: 5a88e1acbd6dca0d5f0d2322
 slug: 'an-interview-with-paul-thurrott-top-10-reasons-to-upgrade-to-windows-10-now'

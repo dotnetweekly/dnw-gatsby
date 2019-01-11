@@ -1,6 +1,6 @@
 ---
 _id: 5b6900916b826eae4ff59959
-title: 'The Cost Of JavaScript In 2018'
+title: "The Cost Of JavaScript In 2018"
 url: 'https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4'
 category: 5b6900916b826eae4ff59959
 slug: 'the-cost-of-javascript-in-2018'

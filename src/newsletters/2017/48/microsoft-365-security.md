@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1baa
-title: 'Microsoft 365 Security'
+title: "Microsoft 365 Security"
 url: 'https://www.youtube.com/watch?v=eBByRs1GsuA'
 category: 5a88e1aabd6dca0d5f0d1baa
 slug: 'microsoft-365-security'

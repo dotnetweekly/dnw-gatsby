@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1ef2
-title: 'Visual Studio 2017 for the Mobile Developer'
+title: "Visual Studio 2017 for the Mobile Developer"
 url: 'https://blog.xamarin.com/visual-studio-loves-mobile-developers/'
 category: 5a88e1abbd6dca0d5f0d1ef2
 slug: 'visual-studio-2017-for-the-mobile-developer'

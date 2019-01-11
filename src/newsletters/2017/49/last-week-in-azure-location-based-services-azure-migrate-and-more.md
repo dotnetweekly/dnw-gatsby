@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1b78
-title: 'Last week in Azure: Location-based services, Azure Migrate, and more'
+title: "Last week in Azure: Location-based services, Azure Migrate, and more"
 url: 'https://azure.microsoft.com/en-us/blog/last-week-in-azure-week-of-2017-11-27/'
 category: 5a88e1aabd6dca0d5f0d1b78
 slug: 'last-week-in-azure-location-based-services-azure-migrate-and-more'

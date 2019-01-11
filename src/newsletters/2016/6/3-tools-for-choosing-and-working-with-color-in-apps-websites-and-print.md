@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d243e
-title: '3 Tools for Choosing and Working with Color in Apps, Websites, and Print'
+title: "3 Tools for Choosing and Working with Color in Apps, Websites, and Print"
 url: 'http://dontcodetired.com/blog/post/3-Tools-for-Choosing-and-Working-with-Color-in-Apps-Websites-and-Print.aspx'
 category: 5a88e1acbd6dca0d5f0d243e
 slug: '3-tools-for-choosing-and-working-with-color-in-apps-websites-and-print'

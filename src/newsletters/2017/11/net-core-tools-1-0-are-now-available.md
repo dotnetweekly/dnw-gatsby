@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1f9a
-title: '.NET Core Tools 1.0 are now available'
+title: ".NET Core Tools 1.0 are now available"
 url: 'http://www.kunal-chowdhury.com/2017/03/download-dotnet-core-tools.html'
 category: 5a88e1abbd6dca0d5f0d1f9a
 slug: 'net-core-tools-1-0-are-now-available'

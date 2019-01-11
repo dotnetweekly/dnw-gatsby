@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2620
-title: 'Using Node.js with Visual Studio Code'
+title: "Using Node.js with Visual Studio Code"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/using-node-js-with-visual-studio-code'
 category: 5a88e1adbd6dca0d5f0d2620
 slug: 'using-node-js-with-visual-studio-code'

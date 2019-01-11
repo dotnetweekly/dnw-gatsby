@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d24e0
-title: 'Visual Studio Code Extensions'
+title: "Visual Studio Code Extensions"
 url: 'https://channel9.msdn.com/Events/Visual-Studio/Connect-event-2015/Visual-Studio-Code-Extensions'
 category: 5a88e1adbd6dca0d5f0d24e0
 slug: 'visual-studio-code-extensions'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a40
-title: 'Building your Dream DevOps Dashboard with the new Azure Preview Portal'
+title: "Building your Dream DevOps Dashboard with the new Azure Preview Portal"
 url: 'http://blogs.msdn.com/b/briankel/archive/2014/04/10/building-your-dream-devops-dashboard-with-the-new-azure-preview-portal.aspx'
 category: 5a88e1aebd6dca0d5f0d2a40
 slug: 'building-your-dream-devops-dashboard-with-the-new-azure-preview-portal'

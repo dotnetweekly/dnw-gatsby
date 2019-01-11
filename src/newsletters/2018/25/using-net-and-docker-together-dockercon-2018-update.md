@@ -1,6 +1,6 @@
 ---
 _id: 5b283b4332697bdd0930a47a
-title: 'Using .NET and Docker Together – DockerCon 2018 Update'
+title: "Using .NET and Docker Together – DockerCon 2018 Update"
 url: 'https://blogs.msdn.microsoft.com/dotnet/2018/06/13/using-net-and-docker-together-dockercon-2018-update/'
 category: 5b283b4332697bdd0930a47a
 slug: 'using-net-and-docker-together-dockercon-2018-update'

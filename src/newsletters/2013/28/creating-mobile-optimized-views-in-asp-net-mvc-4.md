@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2c72
-title: 'Creating Mobile-Optimized Views in ASP.NET MVC 4'
+title: "Creating Mobile-Optimized Views in ASP.NET MVC 4"
 url: 'http://msdn.microsoft.com/en-us/magazine/dn296507.aspx'
 category: 5a88e1afbd6dca0d5f0d2c72
 slug: 'creating-mobile-optimized-views-in-asp-net-mvc-4'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1aa0
-title: 'Switching C# version in Visual Studio'
+title: "Switching C# version in Visual Studio"
 url: 'http://gunnarpeipman.com/2018/01/switch-csharp-version/'
 category: 5a88e1aabd6dca0d5f0d1aa0
 slug: 'switching-c-version-in-visual-studio'

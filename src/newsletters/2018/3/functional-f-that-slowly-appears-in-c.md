@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1ae4
-title: 'Functional F# that slowly appears in C#'
+title: "Functional F# that slowly appears in C#"
 url: 'http://codingsight.com/functional-f-that-slowly-appears-in-c/'
 category: 5a88e1aabd6dca0d5f0d1ae4
 slug: 'functional-f-that-slowly-appears-in-c'

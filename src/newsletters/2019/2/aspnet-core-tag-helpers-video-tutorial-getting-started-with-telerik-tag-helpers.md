@@ -1,6 +1,6 @@
 ---
 _id: 5c37746e5e8f0d06858d0c45
-title: 'ASP.NET Core Tag Helpers Video Tutorial: Getting Started with Telerik Tag Helpers'
+title: "ASP.NET Core Tag Helpers Video Tutorial: Getting Started with Telerik Tag Helpers"
 url: 'https://www.telerik.com/blogs/aspnet-core-tag-helpers-video-tutorial-getting-started-telerik-tag-helpers'
 category: 5c37746e5e8f0d06858d0c45
 slug: 'aspnet-core-tag-helpers-video-tutorial-getting-started-with-telerik-tag-helpers'

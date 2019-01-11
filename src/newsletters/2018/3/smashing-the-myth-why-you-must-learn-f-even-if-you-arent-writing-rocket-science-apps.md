@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1ae2
-title: 'Smashing the Myth: Why You Must Learn F# - Even If You Aren’t Writing Rocket Science Apps'
+title: "Smashing the Myth: Why You Must Learn F# - Even If You Aren’t Writing Rocket Science Apps"
 url: 'http://www.codemag.com/Article/1203081'
 category: 5a88e1aabd6dca0d5f0d1ae2
 slug: 'smashing-the-myth-why-you-must-learn-f-even-if-you-arent-writing-rocket-science-apps'

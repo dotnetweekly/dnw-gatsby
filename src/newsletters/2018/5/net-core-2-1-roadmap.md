@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1a8a
-title: '.NET Core 2.1 Roadmap'
+title: ".NET Core 2.1 Roadmap"
 url: 'https://blogs.msdn.microsoft.com/dotnet/2018/02/02/net-core-2-1-roadmap/'
 category: 5a88e1aabd6dca0d5f0d1a8a
 slug: 'net-core-2-1-roadmap'

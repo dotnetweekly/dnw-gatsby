@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d3054
-title: 'MSBuild Extension Pack'
+title: "MSBuild Extension Pack"
 url: 'http://msbuildextensionpack.codeplex.com/'
 category: 5a88e1afbd6dca0d5f0d3054
 slug: 'msbuild-extension-pack'

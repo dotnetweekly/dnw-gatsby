@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2558
-title: 'EF7 Beta 8 Available'
+title: "EF7 Beta 8 Available"
 url: 'http://blogs.msdn.com/b/adonet/archive/2015/10/15/ef7-beta-8-available.aspx'
 category: 5a88e1adbd6dca0d5f0d2558
 slug: 'ef7-beta-8-available'

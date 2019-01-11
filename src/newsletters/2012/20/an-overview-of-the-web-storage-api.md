@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d3068
-title: 'An Overview of the Web Storage API'
+title: "An Overview of the Web Storage API"
 url: 'http://www.sitepoint.com/an-overview-of-the-web-storage-api/'
 category: 5a88e1afbd6dca0d5f0d3068
 slug: 'an-overview-of-the-web-storage-api'

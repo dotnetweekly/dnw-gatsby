@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d2012
-title: 'Introduction to Distributed Publish-Subscribe in Akka.NET'
+title: "Introduction to Distributed Publish-Subscribe in Akka.NET"
 url: 'https://petabridge.com/blog/distributed-pub-sub-intro-akkadotnet/'
 category: 5a88e1abbd6dca0d5f0d2012
 slug: 'introduction-to-distributed-publish-subscribe-in-akka-net'

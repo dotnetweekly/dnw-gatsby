@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2efe
-title: 'What’s New for Web Development in Visual Studio 2012'
+title: "What’s New for Web Development in Visual Studio 2012"
 url: 'http://msdn.microsoft.com/el-gr/magazine/jj618298(en-us).aspx'
 category: 5a88e1afbd6dca0d5f0d2efe
 slug: 'whats-new-for-web-development-in-visual-studio-2012'

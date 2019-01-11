@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2826
-title: 'Open Source for DevOps Practices'
+title: "Open Source for DevOps Practices"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/open-source-for-devops-practices'
 category: 5a88e1aebd6dca0d5f0d2826
 slug: 'open-source-for-devops-practices'

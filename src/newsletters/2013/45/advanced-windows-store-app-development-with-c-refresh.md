@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b8e
-title: 'Advanced Windows Store App Development with C# Refresh'
+title: "Advanced Windows Store App Development with C# Refresh"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/advanced-windows-store-app-development-with-c-refresh#?fbid=RfHc7HWJo2b'
 category: 5a88e1aebd6dca0d5f0d2b8e
 slug: 'advanced-windows-store-app-development-with-c-refresh'

@@ -1,6 +1,6 @@
 ---
 _id: 5bb5a41715695b78b0f150c7
-title: 'Unit Testing With .NET Core'
+title: "Unit Testing With .NET Core"
 url: 'http://geekswithblogs.net/JeremyMorgan/archive/2018/10/02/unit-testing-with-.net-core.aspx'
 category: 5bb5a41715695b78b0f150c7
 slug: 'unit-testing-with-net-core'

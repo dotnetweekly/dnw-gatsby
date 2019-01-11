@@ -1,6 +1,6 @@
 ---
 _id: 5b6901306b826eade0f5995d
-title: 'Announcing TypeScript 3.0'
+title: "Announcing TypeScript 3.0"
 url: 'https://blogs.msdn.microsoft.com/typescript/2018/07/30/announcing-typescript-3-0/'
 category: 5b6901306b826eade0f5995d
 slug: 'announcing-typescript-30'

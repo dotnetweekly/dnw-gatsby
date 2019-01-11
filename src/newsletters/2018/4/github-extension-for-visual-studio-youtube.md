@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1ab2
-title: 'GitHub Extension for Visual Studio - YouTube'
+title: "GitHub Extension for Visual Studio - YouTube"
 url: 'https://www.youtube.com/watch?v=BYQxCyB-TP4'
 category: 5a88e1aabd6dca0d5f0d1ab2
 slug: 'github-extension-for-visual-studio-youtube'

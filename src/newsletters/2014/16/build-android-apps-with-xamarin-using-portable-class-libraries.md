@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a30
-title: 'Build Android Apps With Xamarin Using Portable Class Libraries'
+title: "Build Android Apps With Xamarin Using Portable Class Libraries"
 url: 'http://blogs.msdn.com/b/kaevans/archive/2014/04/21/build-android-apps-with-xamarin-using-portable-class-libraries.aspx'
 category: 5a88e1aebd6dca0d5f0d2a30
 slug: 'build-android-apps-with-xamarin-using-portable-class-libraries'

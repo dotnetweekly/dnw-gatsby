@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2414
-title: 'Creating Type-Safe Structures (and Dictionaries) with Tuples'
+title: "Creating Type-Safe Structures (and Dictionaries) with Tuples"
 url: 'https://visualstudiomagazine.com/articles/2016/02/01/type-safe-structures.aspx'
 category: 5a88e1acbd6dca0d5f0d2414
 slug: 'creating-type-safe-structures-and-dictionaries-with-tuples'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d21ea
-title: 'ASP.NET Monsters #63: Model Binding in ASP.NET Core'
+title: "ASP.NET Monsters #63: Model Binding in ASP.NET Core"
 url: 'https://channel9.msdn.com/Series/aspnetmonsters/ASPNET-Monsters-63-Model-Binding-in-ASPNET-Core'
 category: 5a88e1acbd6dca0d5f0d21ea
 slug: 'asp-net-monsters-63-model-binding-in-asp-net-core'

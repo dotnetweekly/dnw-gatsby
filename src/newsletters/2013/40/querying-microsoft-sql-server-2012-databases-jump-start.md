@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2be4
-title: 'Querying Microsoft SQL Server 2012 Databases Jump Start'
+title: "Querying Microsoft SQL Server 2012 Databases Jump Start"
 url: 'http://www.microsoftvirtualacademy.com/training-courses/querying-microsoft-sql-server-2012-databases-jump-start'
 category: 5a88e1aebd6dca0d5f0d2be4
 slug: 'querying-microsoft-sql-server-2012-databases-jump-start'

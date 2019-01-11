@@ -1,6 +1,6 @@
 ---
 _id: 5aa9f300f86e7001dea426b7
-title: 'New Whitepaper: Azure Virtual Datacenter: Lift and Shift Guide – AzureCAT Guidance'
+title: "New Whitepaper: Azure Virtual Datacenter: Lift and Shift Guide – AzureCAT Guidance"
 url: 'https://blogs.msdn.microsoft.com/azurecat/2018/03/12/new-whitepaper-azure-virtual-datacenter-lift-and-shift-guide/'
 category: 5aa9f300f86e7001dea426b7
 slug: 'new-whitepaper-azure-virtual-datacenter-lift-and-shift-guide-azurecat-guidance'

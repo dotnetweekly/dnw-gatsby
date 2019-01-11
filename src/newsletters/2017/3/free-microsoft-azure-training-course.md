@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2088
-title: 'Free #Microsoft #Azure training course'
+title: "Free #Microsoft #Azure training course"
 url: 'https://openedx.microsoft.com/courses/course-v1:Microsoft+AZURE203x+2016_T4/about?WT.mc_id=LX_AZR_CP_ASR_PT_CX_OO_TW_'
 category: 5a88e1acbd6dca0d5f0d2088
 slug: 'free-microsoft-azure-training-course'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2c82
-title: 'Knockout ViewModel Generator for Visual Studio'
+title: "Knockout ViewModel Generator for Visual Studio"
 url: 'http://www.youtube.com/watch?v=NChQ6aaMHDk'
 category: 5a88e1afbd6dca0d5f0d2c82
 slug: 'knockout-viewmodel-generator-for-visual-studio'

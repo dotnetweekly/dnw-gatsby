@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d2016
-title: 'Building Single Page Applications on ASP.NET Core with JavaScriptServices'
+title: "Building Single Page Applications on ASP.NET Core with JavaScriptServices"
 url: 'https://blogs.msdn.microsoft.com/webdev/2017/02/14/building-single-page-applications-on-asp-net-core-with-javascriptservices/'
 category: 5a88e1abbd6dca0d5f0d2016
 slug: 'building-single-page-applications-on-asp-net-core-with-javascriptservices'

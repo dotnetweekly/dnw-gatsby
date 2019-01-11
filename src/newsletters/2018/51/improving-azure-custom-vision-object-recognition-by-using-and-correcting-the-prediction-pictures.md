@@ -1,6 +1,6 @@
 ---
 _id: 5c1ba852745cd009830206a1
-title: 'Improving Azure Custom Vision Object Recognition by using and correcting the prediction pictures'
+title: "Improving Azure Custom Vision Object Recognition by using and correcting the prediction pictures"
 url: 'http://dotnetbyexample.blogspot.com/2018/12/improving-azure-custom-vision-object.html'
 category: 5c1ba852745cd009830206a1
 slug: 'improving-azure-custom-vision-object-recognition-by-using-and-correcting-the-prediction-pictures'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2634
-title: '11 Code Profiling and Performance Tools for Visual Studio'
+title: "11 Code Profiling and Performance Tools for Visual Studio"
 url: 'https://visualstudiomagazine.com/Articles/2015/07/01/11-Code-Profiling-and-Performance-Tools.aspx?'
 category: 5a88e1adbd6dca0d5f0d2634
 slug: '11-code-profiling-and-performance-tools-for-visual-studio'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1b0e
-title: 'Why learning TDD is hard, and what to do about it'
+title: "Why learning TDD is hard, and what to do about it"
 url: 'https://davesquared.net/2011/03/why-learning-tdd-is-hard-and-what-to-do.html'
 category: 5a88e1aabd6dca0d5f0d1b0e
 slug: 'why-learning-tdd-is-hard-and-what-to-do-about-it'

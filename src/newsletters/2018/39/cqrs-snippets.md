@@ -1,6 +1,6 @@
 ---
 _id: 5ba94740af8d5e1f30ca621d
-title: 'CQRS snippets'
+title: "CQRS snippets"
 url: 'https://cezarypiatek.github.io/post/cqrs-snippets/'
 category: 5ba94740af8d5e1f30ca621d
 slug: 'cqrs-snippets'

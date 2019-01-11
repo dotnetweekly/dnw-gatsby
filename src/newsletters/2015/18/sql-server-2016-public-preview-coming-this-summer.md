@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d26cc
-title: 'SQL Server 2016 public preview coming this summer'
+title: "SQL Server 2016 public preview coming this summer"
 url: 'http://blogs.technet.com/b/dataplatforminsider/archive/2015/05/04/sql-server-2016-public-preview-coming-this-summer.aspx'
 category: 5a88e1adbd6dca0d5f0d26cc
 slug: 'sql-server-2016-public-preview-coming-this-summer'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d28a6
-title: 'Mobile Apps for Web Developers'
+title: "Mobile Apps for Web Developers"
 url: 'http://blogs.msdn.com/b/visualstudio/archive/2014/10/14/mobile-apps-for-web-developers.aspx'
 category: 5a88e1aebd6dca0d5f0d28a6
 slug: 'mobile-apps-for-web-developers'

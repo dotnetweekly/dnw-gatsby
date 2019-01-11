@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2542
-title: 'Visual Studio Toolbox: Extensions by Mads Kristensen'
+title: "Visual Studio Toolbox: Extensions by Mads Kristensen"
 url: 'http://blogs.msdn.com/b/robertgreen/archive/2015/10/21/visual-studio-toolbox-extensions-by-mads-kristensen.aspx'
 category: 5a88e1adbd6dca0d5f0d2542
 slug: 'visual-studio-toolbox-extensions-by-mads-kristensen'

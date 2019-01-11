@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d301a
-title: 'Today Software Magazine'
+title: "Today Software Magazine"
 url: 'http://www.todaysoftmag.com/pdf/TSM_2_2012_en.pdf'
 category: 5a88e1afbd6dca0d5f0d301a
 slug: 'today-software-magazine'

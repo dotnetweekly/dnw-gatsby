@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d21de
-title: 'Introducing .NET Standard'
+title: "Introducing .NET Standard"
 url: 'https://blogs.msdn.microsoft.com/dotnet/2016/09/26/introducing-net-standard/'
 category: 5a88e1acbd6dca0d5f0d21de
 slug: 'introducing-net-standard'

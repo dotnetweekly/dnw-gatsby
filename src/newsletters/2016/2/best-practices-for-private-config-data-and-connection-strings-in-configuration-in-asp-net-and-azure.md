@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d248c
-title: 'Best practices for private config data and connection strings in configuration in ASP.NET and Azure'
+title: "Best practices for private config data and connection strings in configuration in ASP.NET and Azure"
 url: 'http://www.hanselman.com/blog/BestPracticesForPrivateConfigDataAndConnectionStringsInConfigurationInASPNETAndAzure.aspx'
 category: 5a88e1adbd6dca0d5f0d248c
 slug: 'best-practices-for-private-config-data-and-connection-strings-in-configuration-in-asp-net-and-azure'

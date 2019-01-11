@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2f98
-title: 'Free Server Training at the Microsoft Virtual Academy (MVA)'
+title: "Free Server Training at the Microsoft Virtual Academy (MVA)"
 url: 'https://www.microsoftvirtualacademy.com/GetStarted.aspx'
 category: 5a88e1afbd6dca0d5f0d2f98
 slug: 'free-server-training-at-the-microsoft-virtual-academy-mva'

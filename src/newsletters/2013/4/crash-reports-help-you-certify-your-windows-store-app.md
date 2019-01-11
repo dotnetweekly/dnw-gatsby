@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2dd6
-title: 'Crash reports help you certify your Windows Store app'
+title: "Crash reports help you certify your Windows Store app"
 url: 'http://blogs.msdn.com/b/windowsappdev/archive/2013/01/28/crash-reports-help-you-certify-your-windows-store-app.aspx'
 category: 5a88e1afbd6dca0d5f0d2dd6
 slug: 'crash-reports-help-you-certify-your-windows-store-app'

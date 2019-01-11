@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2c9a
-title: '5 min Crash Course on RequireJS'
+title: "5 min Crash Course on RequireJS"
 url: 'http://www.ryankeeter.com/5-min-crash-course-on-requirejs'
 category: 5a88e1afbd6dca0d5f0d2c9a
 slug: '5-min-crash-course-on-requirejs'

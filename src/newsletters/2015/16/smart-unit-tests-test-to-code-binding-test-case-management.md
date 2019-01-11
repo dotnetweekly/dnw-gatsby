@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d26f8
-title: 'Smart Unit Tests - Test to Code Binding, Test Case Management'
+title: "Smart Unit Tests - Test to Code Binding, Test Case Management"
 url: 'http://blogs.msdn.com/b/visualstudioalm/archive/2015/04/18/smart-unit-tests-test-to-code-binding-test-case-management.aspx'
 category: 5a88e1adbd6dca0d5f0d26f8
 slug: 'smart-unit-tests-test-to-code-binding-test-case-management'

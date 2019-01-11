@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d38
-title: 'Windows Store app support in jQuery version 2.0'
+title: "Windows Store app support in jQuery version 2.0"
 url: 'http://blogs.msdn.com/b/windowsappdev/archive/2013/04/01/windows-store-app-support-in-jquery-version-2-0.aspx'
 category: 5a88e1afbd6dca0d5f0d2d38
 slug: 'windows-store-app-support-in-jquery-version-2-0'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d3008
-title: 'Microsoft Announces New Developer Certification'
+title: "Microsoft Announces New Developer Certification"
 url: 'http://haithamsayed.wordpress.com/2012/06/08/microsoft-announces-new-developer-certification/'
 category: 5a88e1afbd6dca0d5f0d3008
 slug: 'microsoft-announces-new-developer-certification'

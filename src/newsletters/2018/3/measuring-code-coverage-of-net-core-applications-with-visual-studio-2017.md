@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1ad8
-title: 'Measuring code coverage of .NET Core applications with Visual Studio 2017'
+title: "Measuring code coverage of .NET Core applications with Visual Studio 2017"
 url: 'https://dotnetthoughts.net/measuring-code-coverage-of-dotnet-core-applications-with-vs2017/'
 category: 5a88e1aabd6dca0d5f0d1ad8
 slug: 'measuring-code-coverage-of-net-core-applications-with-visual-studio-2017'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2df6
-title: 'Inside Windows 8: Chris Stevens - Boot Environment'
+title: "Inside Windows 8: Chris Stevens - Boot Environment"
 url: 'http://channel9.msdn.com/Shows/Going+Deep/Inside-Windows-8-Chris-Stevens-Boot-Environment'
 category: 5a88e1afbd6dca0d5f0d2df6
 slug: 'inside-windows-8-chris-stevens-boot-environment'

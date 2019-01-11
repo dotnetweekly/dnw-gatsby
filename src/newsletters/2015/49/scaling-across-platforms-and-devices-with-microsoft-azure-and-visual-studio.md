@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d24ea
-title: 'Scaling Across Platforms and Devices with Microsoft Azure and Visual Studio'
+title: "Scaling Across Platforms and Devices with Microsoft Azure and Visual Studio"
 url: 'http://blogs.msdn.com/b/stevengu/archive/2015/12/02/scaling-across-platforms-and-devices-with-microsoft-azure-and-visual-studio.aspx?wt.mc_id=DX_47323&MC=MSAzure&MC=VStudio&MC=WebDev&MC=SQL'
 category: 5a88e1adbd6dca0d5f0d24ea
 slug: 'scaling-across-platforms-and-devices-with-microsoft-azure-and-visual-studio'

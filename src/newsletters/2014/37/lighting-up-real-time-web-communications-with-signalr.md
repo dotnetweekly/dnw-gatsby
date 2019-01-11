@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d28f0
-title: 'Lighting Up Real-Time Web Communications with SignalR'
+title: "Lighting Up Real-Time Web Communications with SignalR"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/lighting-up-real-time-web-communications-with-signalr'
 category: 5a88e1aebd6dca0d5f0d28f0
 slug: 'lighting-up-real-time-web-communications-with-signalr'

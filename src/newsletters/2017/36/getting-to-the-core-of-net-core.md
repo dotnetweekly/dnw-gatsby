@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1d02
-title: 'Getting to the Core of .NET Core'
+title: "Getting to the Core of .NET Core"
 url: 'https://channel9.msdn.com/Events/Visual-Studio/Live-2017/T09'
 category: 5a88e1abbd6dca0d5f0d1d02
 slug: 'getting-to-the-core-of-net-core'

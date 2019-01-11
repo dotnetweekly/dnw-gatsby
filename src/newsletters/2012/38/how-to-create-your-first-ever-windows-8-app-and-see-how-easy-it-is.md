@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2ede
-title: 'How to: Create your first ever Windows 8 app (and see how easy it is)'
+title: "How to: Create your first ever Windows 8 app (and see how easy it is)"
 url: 'http://blogs.msdn.com/b/asgoyal/archive/2012/09/11/how-to-create-your-first-ever-windows-8-app-and-see-how-easy-it-is.aspx'
 category: 5a88e1afbd6dca0d5f0d2ede
 slug: 'how-to-create-your-first-ever-windows-8-app-and-see-how-easy-it-is'

@@ -1,6 +1,6 @@
 ---
 _id: 5bfd15aad9a59327a8f70e55
-title: 'Developing Samsung TV Apps with .NET - Getting Started'
+title: "Developing Samsung TV Apps with .NET - Getting Started"
 url: 'http://dontcodetired.com/blog/post/Developing-Samsung-TV-Apps-with-NET-Getting-Started'
 category: 5bfd15aad9a59327a8f70e55
 slug: 'developing-samsung-tv-apps-with-net-getting-started'

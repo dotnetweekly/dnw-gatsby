@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d26de
-title: 'CQRS Workshop – Retrospective'
+title: "CQRS Workshop – Retrospective"
 url: 'https://lostechies.com/gabrielschenker/2015/04/25/cqrs-workshop-retrospective/'
 category: 5a88e1adbd6dca0d5f0d26de
 slug: 'cqrs-workshop-retrospective'

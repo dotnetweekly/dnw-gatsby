@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d210a
-title: 'The Minimal ASPNET 1.1 App'
+title: "The Minimal ASPNET 1.1 App"
 url: 'http://ardalis.com/the-minimal-aspnet-1-1-app'
 category: 5a88e1acbd6dca0d5f0d210a
 slug: 'the-minimal-aspnet-1-1-app'

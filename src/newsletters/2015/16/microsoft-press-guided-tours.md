@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d26f0
-title: 'Microsoft Press Guided Tours'
+title: "Microsoft Press Guided Tours"
 url: 'http://apps.microsoft.com/windows/en-us/app/microsoft-press-guided-tours/bccb3097-0491-48b1-9b7f-46e5c7e8bcac'
 category: 5a88e1adbd6dca0d5f0d26f0
 slug: 'microsoft-press-guided-tours'

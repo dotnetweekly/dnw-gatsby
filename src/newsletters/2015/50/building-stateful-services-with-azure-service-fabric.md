@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d24d2
-title: 'Building Stateful Services with Azure Service Fabric'
+title: "Building Stateful Services with Azure Service Fabric"
 url: 'http://insidethecpu.com/2015/12/11/building-stateful-services-with-azure-service-fabric/'
 category: 5a88e1adbd6dca0d5f0d24d2
 slug: 'building-stateful-services-with-azure-service-fabric'

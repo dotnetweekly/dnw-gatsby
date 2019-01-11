@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1e60
-title: 'First Foray into .NET Core 2.0'
+title: "First Foray into .NET Core 2.0"
 url: 'http://thedatafarm.com/data-access/first-foray-into-net-core-2-0/'
 category: 5a88e1abbd6dca0d5f0d1e60
 slug: 'first-foray-into-net-core-2-0'

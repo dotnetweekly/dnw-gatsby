@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1c60
-title: 'Speech Recognition in Mono and .NET C#'
+title: "Speech Recognition in Mono and .NET C#"
 url: 'https://www.codeproject.com/Articles/890117/Speech-Recognition-in-Mono-and-NET-Csharp'
 category: 5a88e1aabd6dca0d5f0d1c60
 slug: 'speech-recognition-in-mono-and-net-c'

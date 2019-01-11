@@ -1,6 +1,6 @@
 ---
 _id: 5b4ade4ad9e4dc8535970450
-title: 'ASP.NET Monsters #116: Blazor'
+title: "ASP.NET Monsters #116: Blazor"
 url: 'https://www.youtube.com/watch?v=VnTg5xiz5K8'
 category: 5b4ade4ad9e4dc8535970450
 slug: 'aspnet-monsters-116-blazor'

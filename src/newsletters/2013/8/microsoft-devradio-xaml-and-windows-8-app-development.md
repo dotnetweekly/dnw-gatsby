@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2da6
-title: 'Microsoft DevRadio: XAML and Windows 8 App Development'
+title: "Microsoft DevRadio: XAML and Windows 8 App Development"
 url: 'http://channel9.msdn.com/Blogs/DevRadio/Microsoft-DevRadio-XAML-and-Windows-8-App-Development'
 category: 5a88e1afbd6dca0d5f0d2da6
 slug: 'microsoft-devradio-xaml-and-windows-8-app-development'

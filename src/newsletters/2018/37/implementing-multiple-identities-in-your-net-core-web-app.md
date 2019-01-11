@@ -1,6 +1,6 @@
 ---
 _id: 5b98837cd0894962396ca3f0
-title: 'Implementing Multiple Identities in your .NET Core Web App'
+title: "Implementing Multiple Identities in your .NET Core Web App"
 url: 'https://blogs.msdn.microsoft.com/azuredev/2018/09/10/implementing-multiple-identities-in-your-net-core-web-app-part-2/'
 category: 5b98837cd0894962396ca3f0
 slug: 'implementing-multiple-identities-in-your-net-core-web-app'

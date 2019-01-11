@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d56
-title: 'Jason Haley - Interesting Finds'
+title: "Jason Haley - Interesting Finds"
 url: 'http://jasonhaley.com/blog/'
 category: 5a88e1afbd6dca0d5f0d2d56
 slug: 'jason-haley-interesting-finds'

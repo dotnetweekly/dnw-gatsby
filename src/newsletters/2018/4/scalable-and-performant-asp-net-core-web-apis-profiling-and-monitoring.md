@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1aa2
-title: 'Scalable and Performant ASP.NET Core Web APIs: Profiling and Monitoring'
+title: "Scalable and Performant ASP.NET Core Web APIs: Profiling and Monitoring"
 url: 'https://www.carlrippon.com/scalable-and-performant-asp-net-core-web-apis-profiling-and-monitoring/'
 category: 5a88e1aabd6dca0d5f0d1aa2
 slug: 'scalable-and-performant-asp-net-core-web-apis-profiling-and-monitoring'

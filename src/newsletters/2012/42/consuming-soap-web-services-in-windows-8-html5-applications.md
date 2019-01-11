@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2e8e
-title: 'Consuming SOAP Web Services in Windows 8 HTML5 Applications '
+title: "Consuming SOAP Web Services in Windows 8 HTML5 Applications "
 url: 'http://www.silverlightrecipes.com/2012/03/consuming-soap-web-services-in-windows.html'
 category: 5a88e1afbd6dca0d5f0d2e8e
 slug: 'consuming-soap-web-services-in-windows-8-html5-applications'

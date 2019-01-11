@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d29ec
-title: 'A C# 6.0 Language Preview'
+title: "A C# 6.0 Language Preview"
 url: 'http://msdn.microsoft.com/en-us/magazine/dn683793.aspx'
 category: 5a88e1aebd6dca0d5f0d29ec
 slug: 'a-c-6-0-language-preview'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2928
-title: 'Building Responsive UI with Bootstrap'
+title: "Building Responsive UI with Bootstrap"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/building-responsive-ui-with-bootstrap'
 category: 5a88e1aebd6dca0d5f0d2928
 slug: 'building-responsive-ui-with-bootstrap'

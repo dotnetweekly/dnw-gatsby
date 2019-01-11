@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1e1a
-title: 'Exploring CQRS within the Brighter .NET open source project'
+title: "Exploring CQRS within the Brighter .NET open source project"
 url: 'https://www.hanselman.com/blog/ExploringCQRSWithinTheBrighterNETOpenSourceProject.aspx'
 category: 5a88e1abbd6dca0d5f0d1e1a
 slug: 'exploring-cqrs-within-the-brighter-net-open-source-project'

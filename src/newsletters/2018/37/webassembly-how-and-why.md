@@ -1,6 +1,6 @@
 ---
 _id: 5b9743b81f9f2e61cf857aba
-title: 'WebAssembly: How and why'
+title: "WebAssembly: How and why"
 url: 'https://blog.logrocket.com/webassembly-how-and-why-559b7f96cd71'
 category: 5b9743b81f9f2e61cf857aba
 slug: 'webassembly-how-and-why'

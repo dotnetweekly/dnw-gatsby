@@ -1,6 +1,6 @@
 ---
 _id: 5c09c449d9a5938c0ff70e8c
-title: 'Top 5 C# News from Microsoft Connect 2018'
+title: "Top 5 C# News from Microsoft Connect 2018"
 url: 'https://www.productivecsharp.com/2018/12/top-five-news-microsoft-connect-2018/'
 category: 5c09c449d9a5938c0ff70e8c
 slug: 'top-5-c-news-from-microsoft-connect-2018'

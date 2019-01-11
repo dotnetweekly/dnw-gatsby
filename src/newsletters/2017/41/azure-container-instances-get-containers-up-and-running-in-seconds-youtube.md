@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1c72
-title: 'Azure Container Instances: Get containers up and running in seconds - YouTube'
+title: "Azure Container Instances: Get containers up and running in seconds - YouTube"
 url: 'https://www.youtube.com/watch?v=oTM3xDpTrBE'
 category: 5a88e1aabd6dca0d5f0d1c72
 slug: 'azure-container-instances-get-containers-up-and-running-in-seconds-youtube'

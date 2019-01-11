@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2978
-title: 'What To Do When SaveChanges() Fails?'
+title: "What To Do When SaveChanges() Fails?"
 url: 'http://www.binaryintellect.net/articles/c1bff938-1789-4501-8161-3f38bc465a8b.aspx'
 category: 5a88e1aebd6dca0d5f0d2978
 slug: 'what-to-do-when-savechanges-fails'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2f8e
-title: 'Microsoft Business Intelligence in Excel 2013, SharePoint 2013 and SQL Server 2012 SP1'
+title: "Microsoft Business Intelligence in Excel 2013, SharePoint 2013 and SQL Server 2012 SP1"
 url: 'http://blogs.msdn.com/b/microsoft_business_intelligence1/archive/2012/07/23/microsoft-business-intelligence-in-excel-2013-sharepoint-2013-and-sql-server-2012-sp1.aspx'
 category: 5a88e1afbd6dca0d5f0d2f8e
 slug: 'microsoft-business-intelligence-in-excel-2013-sharepoint-2013-and-sql-server-2012-sp1'

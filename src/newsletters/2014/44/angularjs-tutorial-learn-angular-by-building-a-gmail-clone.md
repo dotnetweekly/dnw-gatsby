@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2870
-title: 'AngularJS Tutorial LEARN ANGULAR BY BUILDING A GMAIL CLONE'
+title: "AngularJS Tutorial LEARN ANGULAR BY BUILDING A GMAIL CLONE"
 url: 'http://www.thinkful.com/learn/angularjs-tutorial-build-a-gmail-clone/'
 category: 5a88e1aebd6dca0d5f0d2870
 slug: 'angularjs-tutorial-learn-angular-by-building-a-gmail-clone'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1b68
-title: 'ORMs for .NET Core'
+title: "ORMs for .NET Core"
 url: 'https://www.infoq.com/news/2017/12/NetCore-ORMs'
 category: 5a88e1aabd6dca0d5f0d1b68
 slug: 'orms-for-net-core'

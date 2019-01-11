@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2e50
-title: 'Building quality Windows 8 apps: Important pre-submission checks for your Windows Store apps'
+title: "Building quality Windows 8 apps: Important pre-submission checks for your Windows Store apps"
 url: 'http://10rem.net/blog/2012/11/12/building-quality-windows-8-apps-important-pre-submission-checks-for-your-windows-store-apps'
 category: 5a88e1afbd6dca0d5f0d2e50
 slug: 'building-quality-windows-8-apps-important-pre-submission-checks-for-your-windows-store-apps'

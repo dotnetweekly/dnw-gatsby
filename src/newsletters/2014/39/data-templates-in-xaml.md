@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d28d8
-title: 'Data Templates in XAML'
+title: "Data Templates in XAML"
 url: 'http://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Data-Templates-in-XAML'
 category: 5a88e1aebd6dca0d5f0d28d8
 slug: 'data-templates-in-xaml'

@@ -1,6 +1,6 @@
 ---
 _id: 5ac7f53f56c8fe00fe0cf0bc
-title: 'Microsoft Build 2018 Developer Conference'
+title: "Microsoft Build 2018 Developer Conference"
 url: 'https://www.microsoft.com/en-us/build'
 category: 5ac7f53f56c8fe00fe0cf0bc
 slug: 'microsoft-build-2018-developer-conference'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d29de
-title: 'EF 6.1.1 Beta 1 Available'
+title: "EF 6.1.1 Beta 1 Available"
 url: 'http://blogs.msdn.com/b/adonet/archive/2014/05/20/ef-6-1-1-beta-1-available.aspx'
 category: 5a88e1aebd6dca0d5f0d29de
 slug: 'ef-6-1-1-beta-1-available'

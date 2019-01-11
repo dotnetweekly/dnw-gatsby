@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d2014
-title: 'Tutorial: Policy-based Authorization in ASP.NET Core'
+title: "Tutorial: Policy-based Authorization in ASP.NET Core"
 url: 'https://stormpath.com/blog/tutorial-policy-based-authorization-asp-net-core'
 category: 5a88e1abbd6dca0d5f0d2014
 slug: 'tutorial-policy-based-authorization-in-asp-net-core'

@@ -1,6 +1,6 @@
 ---
 _id: 5af0ef5d7ecc50e3a56cd12f
-title: 'Developing Console-based UI in C#'
+title: "Developing Console-based UI in C#"
 url: 'https://sirwan.info/archive/2018/05/02/Developing-Console-based-UI-in-C/'
 category: 5af0ef5d7ecc50e3a56cd12f
 slug: 'developing-console-based-ui-in-c'

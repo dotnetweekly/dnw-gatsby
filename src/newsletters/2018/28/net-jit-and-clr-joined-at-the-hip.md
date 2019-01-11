@@ -1,6 +1,6 @@
 ---
 _id: 5b43eddc10ce441ac4856a74
-title: '.NET JIT and CLR - Joined at the Hip'
+title: ".NET JIT and CLR - Joined at the Hip"
 url: 'http://mattwarren.org/2018/07/05/.NET-JIT-and-CLR-Joined-at-the-Hip/'
 category: 5b43eddc10ce441ac4856a74
 slug: 'net-jit-and-clr-joined-at-the-hip'

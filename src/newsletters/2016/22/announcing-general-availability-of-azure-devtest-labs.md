@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d232a
-title: 'Announcing General Availability of Azure DevTest Labs'
+title: "Announcing General Availability of Azure DevTest Labs"
 url: 'https://blogs.msdn.microsoft.com/devtestlab/2016/05/25/announcing-general-availability-of-azure-devtest-labs/'
 category: 5a88e1acbd6dca0d5f0d232a
 slug: 'announcing-general-availability-of-azure-devtest-labs'

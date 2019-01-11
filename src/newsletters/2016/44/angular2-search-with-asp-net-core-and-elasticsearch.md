@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2190
-title: 'ANGULAR2 SEARCH WITH ASP.NET CORE AND ELASTICSEARCH'
+title: "ANGULAR2 SEARCH WITH ASP.NET CORE AND ELASTICSEARCH"
 url: 'https://damienbod.com/2016/10/29/angular2-search-with-asp-net-core-and-elasticsearch/'
 category: 5a88e1acbd6dca0d5f0d2190
 slug: 'angular2-search-with-asp-net-core-and-elasticsearch'

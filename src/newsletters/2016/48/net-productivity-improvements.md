@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2148
-title: '.NET Productivity Improvements'
+title: ".NET Productivity Improvements"
 url: 'https://channel9.msdn.com/Events/Connect/2016/149'
 category: 5a88e1acbd6dca0d5f0d2148
 slug: 'net-productivity-improvements'

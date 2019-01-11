@@ -1,6 +1,6 @@
 ---
 _id: 5ab14add0e665701fe317082
-title: 'Under the Hood of Stopwatch'
+title: "Under the Hood of Stopwatch"
 url: 'http://codingsight.com/under-the-hood-of-stopwatch/'
 category: 5ab14add0e665701fe317082
 slug: 'under-the-hood-of-stopwatch'

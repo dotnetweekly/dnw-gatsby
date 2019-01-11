@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d21fa
-title: 'DataScience for Developers: Build your first predictive model with R'
+title: "DataScience for Developers: Build your first predictive model with R"
 url: 'https://medium.com/@davidsb/datascience-for-developers-build-your-first-predictive-model-with-r-a798f684752f'
 category: 5a88e1acbd6dca0d5f0d21fa
 slug: 'datascience-for-developers-build-your-first-predictive-model-with-r'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2940
-title: 'Avoid the Bug as Task anti-pattern in TFS'
+title: "Avoid the Bug as Task anti-pattern in TFS"
 url: 'http://nakedalm.com/avoid-bug-task-anti-pattern-tfs/'
 category: 5a88e1aebd6dca0d5f0d2940
 slug: 'avoid-the-bug-as-task-anti-pattern-in-tfs'

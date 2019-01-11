@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2742
-title: 'Role Based Security in ASP.NET MVC 5 Web Applications'
+title: "Role Based Security in ASP.NET MVC 5 Web Applications"
 url: 'http://www.dotnetcurry.com/showarticle.aspx?ID=1102'
 category: 5a88e1adbd6dca0d5f0d2742
 slug: 'role-based-security-in-asp-net-mvc-5-web-applications'

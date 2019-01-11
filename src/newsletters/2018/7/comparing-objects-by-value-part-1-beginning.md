@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1a44
-title: 'Comparing Objects by Value. Part 1. Beginning'
+title: "Comparing Objects by Value. Part 1. Beginning"
 url: 'http://codingsight.com/comparing-objects-by-value-part-1-beginning/'
 category: 5a88e1aabd6dca0d5f0d1a44
 slug: 'comparing-objects-by-value-part-1-beginning'

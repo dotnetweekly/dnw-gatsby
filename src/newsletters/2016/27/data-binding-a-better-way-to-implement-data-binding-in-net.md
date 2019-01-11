@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d22dc
-title: 'Data Binding - A Better Way to Implement Data Binding in .NET'
+title: "Data Binding - A Better Way to Implement Data Binding in .NET"
 url: 'https://msdn.microsoft.com/magazine/mt736453'
 category: 5a88e1acbd6dca0d5f0d22dc
 slug: 'data-binding-a-better-way-to-implement-data-binding-in-net'

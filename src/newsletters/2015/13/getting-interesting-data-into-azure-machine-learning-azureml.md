@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2724
-title: 'Getting interesting data into Azure Machine Learning (AzureML)'
+title: "Getting interesting data into Azure Machine Learning (AzureML)"
 url: 'http://blogs.msdn.com/b/jennifer/archive/2015/03/30/getting-interesting-data-into-azure-machine-learning-azureml.aspx'
 category: 5a88e1adbd6dca0d5f0d2724
 slug: 'getting-interesting-data-into-azure-machine-learning-azureml'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1af6
-title: 'Introducing Jasper — Asynchronous Messaging for .Net'
+title: "Introducing Jasper — Asynchronous Messaging for .Net"
 url: 'https://jeremydmiller.com/2018/01/09/introducing-jasper-asynchronous-messaging-for-net/'
 category: 5a88e1aabd6dca0d5f0d1af6
 slug: 'introducing-jasper-asynchronous-messaging-for-net'

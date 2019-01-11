@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d205e
-title: 'Project.json to MSBuild conversion guide'
+title: "Project.json to MSBuild conversion guide"
 url: 'http://www.natemcmaster.com/blog/2017/01/19/project-json-to-csproj/'
 category: 5a88e1acbd6dca0d5f0d205e
 slug: 'project-json-to-msbuild-conversion-guide'

@@ -1,6 +1,6 @@
 ---
 _id: 5b4ed750d9e4dc1127970460
-title: 'Azure App Service Web Apps'
+title: "Azure App Service Web Apps"
 url: 'https://channel9.msdn.com/Shows/Azure-Friday/Azure-App-Service-Web-Apps'
 category: 5b4ed750d9e4dc1127970460
 slug: 'azure-app-service-web-apps'

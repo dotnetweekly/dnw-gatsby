@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2384
-title: 'Our Reaction to the News and Announcements Made at Build 2016'
+title: "Our Reaction to the News and Announcements Made at Build 2016"
 url: 'https://channel9.msdn.com/blogs/devradio/dr1647'
 category: 5a88e1acbd6dca0d5f0d2384
 slug: 'our-reaction-to-the-news-and-announcements-made-at-build-2016'

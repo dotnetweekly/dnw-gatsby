@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2376
-title: 'Xamarin for Absolute Beginners'
+title: "Xamarin for Absolute Beginners"
 url: 'https://mva.microsoft.com/en-US/training-courses/xamarin-for-absolute-beginners-16182?l=fPHWqptJC_5705846048'
 category: 5a88e1acbd6dca0d5f0d2376
 slug: 'xamarin-for-absolute-beginners'

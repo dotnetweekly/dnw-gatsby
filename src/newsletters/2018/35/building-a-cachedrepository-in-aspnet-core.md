@@ -1,6 +1,6 @@
 ---
 _id: 5b84cb85eb7bebc95189afb6
-title: 'Building a CachedRepository in ASPNET Core'
+title: "Building a CachedRepository in ASPNET Core"
 url: 'https://ardalis.com/building-a-cachedrepository-in-aspnet-core'
 category: 5b84cb85eb7bebc95189afb6
 slug: 'building-a-cachedrepository-in-aspnet-core'

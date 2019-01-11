@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1a7a
-title: 'Span – .NET Performance and Reliability'
+title: "Span – .NET Performance and Reliability"
 url: 'http://adamsitnik.com/Span/'
 category: 5a88e1aabd6dca0d5f0d1a7a
 slug: 'span-net-performance-and-reliability'

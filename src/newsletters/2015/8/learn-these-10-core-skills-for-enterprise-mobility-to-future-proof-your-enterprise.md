@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2784
-title: 'Learn these 10 core skills for Enterprise Mobility to future proof your enterprise'
+title: "Learn these 10 core skills for Enterprise Mobility to future proof your enterprise"
 url: 'http://simon-may.com/learn-these-10-core-skills-for-enterprise-mobility-and-to-future-proof-your-enterprise/'
 category: 5a88e1adbd6dca0d5f0d2784
 slug: 'learn-these-10-core-skills-for-enterprise-mobility-to-future-proof-your-enterprise'

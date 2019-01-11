@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d301e
-title: '“Introduction to Windows 8 and the Windows Store” webcast'
+title: "“Introduction to Windows 8 and the Windows Store” webcast"
 url: 'http://blogs.msdn.com/b/jennifer/archive/2012/06/08/introduction-to-windows-8-and-the-windows-store-webcast.aspx'
 category: 5a88e1afbd6dca0d5f0d301e
 slug: 'introduction-to-windows-8-and-the-windows-store-webcast'

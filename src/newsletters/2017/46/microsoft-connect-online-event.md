@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1bd6
-title: 'Microsoft Connect(); online event'
+title: "Microsoft Connect(); online event"
 url: 'https://www.microsoft.com/en-us/connectevent/'
 category: 5a88e1aabd6dca0d5f0d1bd6
 slug: 'microsoft-connect-online-event'

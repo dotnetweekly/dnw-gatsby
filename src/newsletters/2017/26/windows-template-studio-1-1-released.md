@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1e1e
-title: 'Windows Template Studio 1.1 released!'
+title: "Windows Template Studio 1.1 released!"
 url: 'https://blogs.windows.com/buildingapps/2017/06/22/windows-template-studio-1-1-released/#GdyuKOULxmSDIeMS.97'
 category: 5a88e1abbd6dca0d5f0d1e1e
 slug: 'windows-template-studio-1-1-released'

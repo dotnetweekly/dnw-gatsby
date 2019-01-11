@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2604
-title: 'Visual Studio 2015 Succinctly'
+title: "Visual Studio 2015 Succinctly"
 url: 'http://www.syncfusion.com/resources/techportal/details/ebooks/visualstudio2015'
 category: 5a88e1adbd6dca0d5f0d2604
 slug: 'visual-studio-2015-succinctly'

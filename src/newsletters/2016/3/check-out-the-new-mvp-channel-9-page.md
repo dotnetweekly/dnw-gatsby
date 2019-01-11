@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2470
-title: 'Check out the new MVP Channel 9 page!'
+title: "Check out the new MVP Channel 9 page!"
 url: 'https://blogs.msdn.microsoft.com/mvpawardprogram/2016/01/18/check-out-the-new-mvp-channel-9-page/'
 category: 5a88e1acbd6dca0d5f0d2470
 slug: 'check-out-the-new-mvp-channel-9-page'

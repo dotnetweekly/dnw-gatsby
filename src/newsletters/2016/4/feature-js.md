@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d246a
-title: 'Feature.js'
+title: "Feature.js"
 url: 'http://featurejs.com/'
 category: 5a88e1acbd6dca0d5f0d246a
 slug: 'feature-js'

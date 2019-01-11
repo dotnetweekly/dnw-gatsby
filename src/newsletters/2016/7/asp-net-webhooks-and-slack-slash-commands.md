@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2426
-title: 'ASP.NET WebHooks and Slack Slash Commands'
+title: "ASP.NET WebHooks and Slack Slash Commands"
 url: 'https://blogs.msdn.microsoft.com/webdev/2016/02/14/asp-net-webhooks-and-slack-slash-commands/'
 category: 5a88e1acbd6dca0d5f0d2426
 slug: 'asp-net-webhooks-and-slack-slash-commands'

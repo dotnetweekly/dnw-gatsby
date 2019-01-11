@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2c24
-title: 'Free ebook: Introducing Windows Server 2012 R2 Preview Release'
+title: "Free ebook: Introducing Windows Server 2012 R2 Preview Release"
 url: 'http://blogs.msdn.com/b/microsoft_press/archive/2013/08/01/free-ebook-introducing-windows-server-2012-r2-preview-release.aspx?loc=zTS1z&prod=zWSz&tech=zOttechz&prog=zPressz&type=zDLz&media=zBKz&country=zUSz'
 category: 5a88e1aebd6dca0d5f0d2c24
 slug: 'free-ebook-introducing-windows-server-2012-r2-preview-release'

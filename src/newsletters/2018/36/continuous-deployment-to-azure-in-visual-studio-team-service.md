@@ -1,6 +1,6 @@
 ---
 _id: 5b8e0edd281013c67994a424
-title: 'Continuous deployment to Azure in Visual Studio Team Service'
+title: "Continuous deployment to Azure in Visual Studio Team Service"
 url: 'https://blog.elmah.io/continuous-deployment-to-azure-in-visual-studio-team-service/'
 category: 5b8e0edd281013c67994a424
 slug: 'continuous-deployment-to-azure-in-visual-studio-team-service'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d222c
-title: 'Announcing MSTest V2 Framework support for .NET Core 1.0 RTM'
+title: "Announcing MSTest V2 Framework support for .NET Core 1.0 RTM"
 url: 'https://blogs.msdn.microsoft.com/visualstudioalm/2016/09/01/announcing-mstest-v2-framework-support-for-net-core-1-0-rtm/'
 category: 5a88e1acbd6dca0d5f0d222c
 slug: 'announcing-mstest-v2-framework-support-for-net-core-1-0-rtm'

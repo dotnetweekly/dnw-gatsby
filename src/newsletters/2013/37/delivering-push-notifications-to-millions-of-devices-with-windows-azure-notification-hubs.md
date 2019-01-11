@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2c0c
-title: 'Delivering push notifications to millions of devices with Windows Azure Notification Hubs'
+title: "Delivering push notifications to millions of devices with Windows Azure Notification Hubs"
 url: 'http://blogs.windows.com/windows/b/appbuilder/archive/2013/09/16/delivering-push-notifications-to-millions-of-devices-with-windows-azure-notification-hubs.aspx'
 category: 5a88e1aebd6dca0d5f0d2c0c
 slug: 'delivering-push-notifications-to-millions-of-devices-with-windows-azure-notification-hubs'

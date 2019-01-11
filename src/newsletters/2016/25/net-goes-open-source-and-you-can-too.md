@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d22ea
-title: '.NET Goes Open Source... and You Can Too!'
+title: ".NET Goes Open Source... and You Can Too!"
 url: 'https://channel9.msdn.com/Events/dotnetConf/2016/NET-Goes-Open-Source-and-You-Can-Too'
 category: 5a88e1acbd6dca0d5f0d22ea
 slug: 'net-goes-open-source-and-you-can-too'

@@ -1,6 +1,6 @@
 ---
 _id: 5aa9f42ff86e7001dea426b8
-title: 'ASP.NET Core Configuration Tips'
+title: "ASP.NET Core Configuration Tips"
 url: 'https://davidpine.net/blog/asp-net-core-configuration/'
 category: 5aa9f42ff86e7001dea426b8
 slug: 'aspnet-core-configuration-tips'

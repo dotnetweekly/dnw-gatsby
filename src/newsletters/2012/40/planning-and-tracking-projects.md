@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2eb6
-title: 'Planning and Tracking Projects'
+title: "Planning and Tracking Projects"
 url: 'http://msdn.microsoft.com/library/dd286619.aspx'
 category: 5a88e1afbd6dca0d5f0d2eb6
 slug: 'planning-and-tracking-projects'

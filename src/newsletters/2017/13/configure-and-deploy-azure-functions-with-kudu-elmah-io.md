@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1f74
-title: 'Configure and deploy Azure Functions with Kudu | elmah.io'
+title: "Configure and deploy Azure Functions with Kudu | elmah.io"
 url: 'https://blog.elmah.io/configure-and-deploy-azure-functions-with-kudu/'
 category: 5a88e1abbd6dca0d5f0d1f74
 slug: 'configure-and-deploy-azure-functions-with-kudu-elmah-io'

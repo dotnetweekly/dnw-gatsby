@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d24c0
-title: '.NET Framework 4.6.1 Improves on WPF, SQL Connectivity'
+title: ".NET Framework 4.6.1 Improves on WPF, SQL Connectivity"
 url: 'https://visualstudiomagazine.com/articles/2015/12/11/net-framework-4-6-1-released.aspx'
 category: 5a88e1adbd6dca0d5f0d24c0
 slug: 'net-framework-4-6-1-improves-on-wpf-sql-connectivity'

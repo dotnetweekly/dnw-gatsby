@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2688
-title: 'Migrating 8.1 Apps to Windows 10'
+title: "Migrating 8.1 Apps to Windows 10"
 url: 'http://www.codeproject.com/Articles/995660/Migrating-Apps-to-Windows'
 category: 5a88e1adbd6dca0d5f0d2688
 slug: 'migrating-8-1-apps-to-windows-10'

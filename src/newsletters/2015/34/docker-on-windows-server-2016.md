@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d25e6
-title: 'Docker on Windows Server 2016'
+title: "Docker on Windows Server 2016"
 url: 'https://lostechies.com/gabrielschenker/2015/08/19/docker-on-windows-server-2016/'
 category: 5a88e1adbd6dca0d5f0d25e6
 slug: 'docker-on-windows-server-2016'

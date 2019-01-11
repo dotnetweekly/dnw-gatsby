@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d3012
-title: 'MSDN Webcast Series on developing Metro apps for Windows 8'
+title: "MSDN Webcast Series on developing Metro apps for Windows 8"
 url: 'http://blogs.msdn.com/b/jennifer/archive/2012/06/12/msdn-webcast-series-on-developing-metro-apps-for-windows-8.aspx'
 category: 5a88e1afbd6dca0d5f0d3012
 slug: 'msdn-webcast-series-on-developing-metro-apps-for-windows-8'

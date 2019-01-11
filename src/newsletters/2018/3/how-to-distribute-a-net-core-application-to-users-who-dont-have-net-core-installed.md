@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1ae0
-title: 'How to distribute a .NET Core application to users who don"t have .NET Core installed'
+title: "How to distribute a .NET Core application to users who don't have .NET Core installed"
 url: 'http://ttu.github.io/dotnet-core-self-contained-deployments/'
 category: 5a88e1aabd6dca0d5f0d1ae0
 slug: 'how-to-distribute-a-net-core-application-to-users-who-dont-have-net-core-installed'

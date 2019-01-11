@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d28b8
-title: 'Continuous Delivery in Minutes with Node.js, Grunt, Mocha and Git'
+title: "Continuous Delivery in Minutes with Node.js, Grunt, Mocha and Git"
 url: 'http://stevenedouard.com/continuous-delivery-azure-websites-atlassian/'
 category: 5a88e1aebd6dca0d5f0d28b8
 slug: 'continuous-delivery-in-minutes-with-node-js-grunt-mocha-and-git'

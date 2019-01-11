@@ -1,6 +1,6 @@
 ---
 _id: 5bfd1a42d9a593401af70e5d
-title: 'Generating .editorconfig files automatically using IntelliCode'
+title: "Generating .editorconfig files automatically using IntelliCode"
 url: 'https://andrewlock.net/generating-editorconfig-files-automatically-using-intellicode/'
 category: 5bfd1a42d9a593401af70e5d
 slug: 'generating-editorconfig-files-automatically-using-intellicode'

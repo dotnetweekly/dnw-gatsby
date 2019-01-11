@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2bec
-title: 'C#: Query Excel and .CSV Files Using LinqToExcel'
+title: "C#: Query Excel and .CSV Files Using LinqToExcel"
 url: 'http://typecastexception.com/post/2013/09/25/C-Query-Excel-and-CSV-Files-Using-LinqToExcel.aspx'
 category: 5a88e1aebd6dca0d5f0d2bec
 slug: 'c-query-excel-and-csv-files-using-linqtoexcel'

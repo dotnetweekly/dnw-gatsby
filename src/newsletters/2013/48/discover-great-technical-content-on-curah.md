@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b68
-title: 'Discover great technical content on Curah! '
+title: "Discover great technical content on Curah! "
 url: 'http://curah.microsoft.com/'
 category: 5a88e1aebd6dca0d5f0d2b68
 slug: 'discover-great-technical-content-on-curah'

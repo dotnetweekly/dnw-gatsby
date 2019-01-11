@@ -1,6 +1,6 @@
 ---
 _id: 5afdcdfb416efa4618328cda
-title: 'Building Blazor pager component'
+title: "Building Blazor pager component"
 url: 'http://gunnarpeipman.com/2018/05/blazor-pager-component/'
 category: 5afdcdfb416efa4618328cda
 slug: 'building-blazor-pager-component'

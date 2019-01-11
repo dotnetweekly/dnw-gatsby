@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2fe6
-title: '[ASP.NET MVC] Routing – Areas'
+title: "[ASP.NET MVC] Routing – Areas"
 url: 'http://bubblogging.wordpress.com/2012/06/13/mvc-routing-areas/'
 category: 5a88e1afbd6dca0d5f0d2fe6
 slug: 'asp-net-mvc-routing-areas'

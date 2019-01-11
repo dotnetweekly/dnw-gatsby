@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2f2a
-title: 'Windows Azure Community News Roundup'
+title: "Windows Azure Community News Roundup"
 url: 'http://blogs.msdn.com/b/windowsazure/archive/2012/08/24/windows-azure-community-news-roundup-edition-33.aspx'
 category: 5a88e1afbd6dca0d5f0d2f2a
 slug: 'windows-azure-community-news-roundup'

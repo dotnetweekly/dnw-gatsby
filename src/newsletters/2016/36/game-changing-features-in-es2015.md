@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2226
-title: 'Game-Changing Features in ES2015'
+title: "Game-Changing Features in ES2015"
 url: 'https://mva.microsoft.com/en-US/training-courses/gamechanging-features-in-es2015-16640'
 category: 5a88e1acbd6dca0d5f0d2226
 slug: 'game-changing-features-in-es2015'

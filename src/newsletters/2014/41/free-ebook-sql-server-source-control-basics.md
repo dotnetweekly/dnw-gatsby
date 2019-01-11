@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d28b4
-title: 'Free eBook: SQL Server Source Control Basics'
+title: "Free eBook: SQL Server Source Control Basics"
 url: 'http://www.red-gate.com/products/sql-development/sql-source-control/entrypage/sql-server-source-control-basics'
 category: 5a88e1aebd6dca0d5f0d28b4
 slug: 'free-ebook-sql-server-source-control-basics'

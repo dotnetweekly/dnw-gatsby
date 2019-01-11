@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2eaa
-title: 'F# samples and community resources'
+title: "F# samples and community resources"
 url: 'http://blogs.msdn.com/b/fsharpteam/archive/2012/10/10/f-samples-and-community-resources.aspx'
 category: 5a88e1afbd6dca0d5f0d2eaa
 slug: 'f-samples-and-community-resources'

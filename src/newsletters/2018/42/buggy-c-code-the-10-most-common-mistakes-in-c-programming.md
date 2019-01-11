@@ -1,6 +1,6 @@
 ---
 _id: 5bc848d91ff6e729fb87fb21
-title: 'Buggy C# Code: The 10 Most Common Mistakes in C# Programming'
+title: "Buggy C# Code: The 10 Most Common Mistakes in C# Programming"
 url: 'https://www.toptal.com/c-sharp/top-10-mistakes-that-c-sharp-programmers-make'
 category: 5bc848d91ff6e729fb87fb21
 slug: 'buggy-c-code-the-10-most-common-mistakes-in-c-programming'

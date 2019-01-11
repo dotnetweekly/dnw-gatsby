@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d294e
-title: 'USING WILDCARD SSL CERTIFICATES ON IIS 7'
+title: "USING WILDCARD SSL CERTIFICATES ON IIS 7"
 url: 'http://www.cloudservers.com/using-wildcard-ssl-certificates-on-iis-7/'
 category: 5a88e1aebd6dca0d5f0d294e
 slug: 'using-wildcard-ssl-certificates-on-iis-7-2'

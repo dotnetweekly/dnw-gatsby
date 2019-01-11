@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2bb6
-title: 'AngularJS on top of ASP.NET: Moving the MVC framework out to the browser'
+title: "AngularJS on top of ASP.NET: Moving the MVC framework out to the browser"
 url: 'https://www.simple-talk.com/blogs/2013/10/16/angularjs-on-top-of-asp-net-moving-the-mvc-framework-out-to-the-browser/'
 category: 5a88e1aebd6dca0d5f0d2bb6
 slug: 'angularjs-on-top-of-asp-net-moving-the-mvc-framework-out-to-the-browser'

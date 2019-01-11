@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2252
-title: 'Nuget: The path towards better documentation'
+title: "Nuget: The path towards better documentation"
 url: 'http://blog.nuget.org/20160822/Starting-down-the-path-towards-better-documentation.html'
 category: 5a88e1acbd6dca0d5f0d2252
 slug: 'nuget-the-path-towards-better-documentation'

@@ -1,6 +1,6 @@
 ---
 _id: 5b33fffc4d8b02b07deaa35d
-title: 'Blazor it’s here: how to write C# in the browser!'
+title: "Blazor it’s here: how to write C# in the browser!"
 url: 'https://www.productivecsharp.com/2018/06/blazor-how-to-write-csharp-in-the-browser/'
 category: 5b33fffc4d8b02b07deaa35d
 slug: 'blazor-its-here-how-to-write-c-in-the-browser'

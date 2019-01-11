@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1a92
-title: 'DevFreeBooks'
+title: "DevFreeBooks"
 url: 'https://devfreebooks.github.io/'
 category: 5a88e1aabd6dca0d5f0d1a92
 slug: 'devfreebooks'

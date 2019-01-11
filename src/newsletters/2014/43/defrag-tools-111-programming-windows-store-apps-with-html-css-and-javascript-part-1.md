@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2888
-title: 'Defrag Tools #111 - Programming Windows Store Apps with HTML, CSS and JavaScript Part 1'
+title: "Defrag Tools #111 - Programming Windows Store Apps with HTML, CSS and JavaScript Part 1"
 url: 'http://channel9.msdn.com/Shows/Defrag-Tools/Defrag-Tools-111-Programming-Windows-Store-Apps-with-HTML-CSS-and-JavaScript-Part-1'
 category: 5a88e1aebd6dca0d5f0d2888
 slug: 'defrag-tools-111-programming-windows-store-apps-with-html-css-and-javascript-part-1'

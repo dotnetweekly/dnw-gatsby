@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b5c
-title: 'The two ways to handle orientation in your Windows 8.1 app'
+title: "The two ways to handle orientation in your Windows 8.1 app"
 url: 'http://blog.jerrynixon.com/2013/12/the-two-ways-to-handle-orientation-in.html#more'
 category: 5a88e1aebd6dca0d5f0d2b5c
 slug: 'the-two-ways-to-handle-orientation-in-your-windows-8-1-app'

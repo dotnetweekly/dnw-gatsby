@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b9c
-title: 'Developing Windows Azure and Web Services Jump Start'
+title: "Developing Windows Azure and Web Services Jump Start"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/developing-windows-azure-and-web-services-jump-start#?fbid=RfHc7HWJo2b'
 category: 5a88e1aebd6dca0d5f0d2b9c
 slug: 'developing-windows-azure-and-web-services-jump-start'

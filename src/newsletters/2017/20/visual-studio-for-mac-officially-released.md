@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1ee2
-title: 'Visual Studio for Mac Officially Released'
+title: "Visual Studio for Mac Officially Released"
 url: 'https://www.visualstudio.com/vs/visual-studio-mac/'
 category: 5a88e1abbd6dca0d5f0d1ee2
 slug: 'visual-studio-for-mac-officially-released'

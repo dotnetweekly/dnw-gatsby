@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d26c2
-title: 'XAML Performance: Techniques for Maximizing Universal Windows App Experiences Built with XAML'
+title: "XAML Performance: Techniques for Maximizing Universal Windows App Experiences Built with XAML"
 url: 'http://channel9.msdn.com/Events/Build/2015/3-698'
 category: 5a88e1adbd6dca0d5f0d26c2
 slug: 'xaml-performance-techniques-for-maximizing-universal-windows-app-experiences-built-with-xaml'

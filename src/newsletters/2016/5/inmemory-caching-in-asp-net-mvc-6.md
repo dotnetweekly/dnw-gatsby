@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2454
-title: 'InMemory Caching in ASP.NET MVC 6'
+title: "InMemory Caching in ASP.NET MVC 6"
 url: 'http://www.dotnetcurry.com/aspnet-mvc/1246/inmemory-caching-aspnet-mvc-6-core'
 category: 5a88e1acbd6dca0d5f0d2454
 slug: 'inmemory-caching-in-asp-net-mvc-6'

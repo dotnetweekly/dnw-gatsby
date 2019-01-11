@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1f40
-title: 'Essential .NET - Understanding C# foreach Internals and Custom Iterators with yield'
+title: "Essential .NET - Understanding C# foreach Internals and Custom Iterators with yield"
 url: 'https://msdn.microsoft.com/en-us/magazine/mt797654.aspx'
 category: 5a88e1abbd6dca0d5f0d1f40
 slug: 'essential-net-understanding-c-foreach-internals-and-custom-iterators-with-yield'

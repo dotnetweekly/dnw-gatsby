@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d23b6
-title: 'Xamarin for Everyone'
+title: "Xamarin for Everyone"
 url: 'https://blog.xamarin.com/xamarin-for-all/'
 category: 5a88e1acbd6dca0d5f0d23b6
 slug: 'xamarin-for-everyone'

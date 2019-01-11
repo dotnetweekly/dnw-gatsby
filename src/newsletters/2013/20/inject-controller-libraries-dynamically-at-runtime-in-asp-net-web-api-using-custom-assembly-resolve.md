@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2cc8
-title: 'Inject Controller Libraries Dynamically at Runtime in ASP.NET Web API using Custom Assembly Resolvers'
+title: "Inject Controller Libraries Dynamically at Runtime in ASP.NET Web API using Custom Assembly Resolvers"
 url: 'http://www.dotnetcurry.com/ShowArticle.aspx?ID=898'
 category: 5a88e1afbd6dca0d5f0d2cc8
 slug: 'inject-controller-libraries-dynamically-at-runtime-in-asp-net-web-api-using-custom-assembly-resolve'

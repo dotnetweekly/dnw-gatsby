@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d29cc
-title: 'PhoneGap Developer'
+title: "PhoneGap Developer"
 url: 'http://www.windowsphone.com/en-us/store/app/phonegap-developer/5c6a2d1e-4fad-4bf8-aaf7-71380cc84fe3'
 category: 5a88e1aebd6dca0d5f0d29cc
 slug: 'phonegap-developer'

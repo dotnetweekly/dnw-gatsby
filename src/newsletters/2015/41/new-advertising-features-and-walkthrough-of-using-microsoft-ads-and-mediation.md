@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d256c
-title: 'New advertising features and walkthrough of using Microsoft ads and mediation'
+title: "New advertising features and walkthrough of using Microsoft ads and mediation"
 url: 'http://blogs.windows.com/buildingapps/2015/10/08/new-advertising-features-and-walkthrough-of-using-microsoft-ads-and-mediation/'
 category: 5a88e1adbd6dca0d5f0d256c
 slug: 'new-advertising-features-and-walkthrough-of-using-microsoft-ads-and-mediation'

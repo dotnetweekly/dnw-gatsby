@@ -1,6 +1,6 @@
 ---
 _id: 5ac4248a230cde002ab85cc8
-title: 'Scalable and Performant ASP.NET Core Web APIs: Microservices'
+title: "Scalable and Performant ASP.NET Core Web APIs: Microservices"
 url: 'https://www.carlrippon.com/scalable-and-performant-asp-net-core-web-apis-microservices/'
 category: 5ac4248a230cde002ab85cc8
 slug: 'scalable-and-performant-aspnet-core-web-apis-microservices'

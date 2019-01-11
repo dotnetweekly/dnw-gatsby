@@ -1,6 +1,6 @@
 ---
 _id: 5bfd1608d9a5937333f70e57
-title: 'Announcing ML.NET 0.7 (Machine Learning .NET)'
+title: "Announcing ML.NET 0.7 (Machine Learning .NET)"
 url: 'https://blogs.msdn.microsoft.com/dotnet/2018/11/08/announcing-ml-net-0-7-machine-learning-net/'
 category: 5bfd1608d9a5937333f70e57
 slug: 'announcing-mlnet-07-machine-learning-net'

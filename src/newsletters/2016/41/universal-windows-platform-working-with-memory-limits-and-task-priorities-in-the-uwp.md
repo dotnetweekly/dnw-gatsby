@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d21d0
-title: 'Universal Windows Platform - Working with Memory Limits and Task Priorities in the UWP'
+title: "Universal Windows Platform - Working with Memory Limits and Task Priorities in the UWP"
 url: 'https://msdn.microsoft.com/magazine/mt742869'
 category: 5a88e1acbd6dca0d5f0d21d0
 slug: 'universal-windows-platform-working-with-memory-limits-and-task-priorities-in-the-uwp'

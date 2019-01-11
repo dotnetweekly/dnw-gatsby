@@ -1,6 +1,6 @@
 ---
 _id: 5ac42440230cde002ab85cc7
-title: 'Writing a GitHub Webhook as an Azure Function'
+title: "Writing a GitHub Webhook as an Azure Function"
 url: 'https://www.thomaslevesque.com/2018/03/30/writing-a-github-webhook-as-an-azure-function/'
 category: 5ac42440230cde002ab85cc7
 slug: 'writing-a-github-webhook-as-an-azure-function'

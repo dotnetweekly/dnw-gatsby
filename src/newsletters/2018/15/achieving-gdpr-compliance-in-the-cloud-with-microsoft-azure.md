@@ -1,6 +1,6 @@
 ---
 _id: 5acecfa8baa51d004e9a2c80
-title: 'Achieving GDPR compliance in the cloud with Microsoft Azure'
+title: "Achieving GDPR compliance in the cloud with Microsoft Azure"
 url: 'https://azure.microsoft.com/en-us/blog/achieving-gdpr-compliance-in-the-cloud-with-microsoft-azure/'
 category: 5acecfa8baa51d004e9a2c80
 slug: 'achieving-gdpr-compliance-in-the-cloud-with-microsoft-azure'

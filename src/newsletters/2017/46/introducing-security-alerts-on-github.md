@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1bc0
-title: 'Introducing security alerts on GitHub'
+title: "Introducing security alerts on GitHub"
 url: 'https://github.com/blog/2470-introducing-security-alerts-on-github'
 category: 5a88e1aabd6dca0d5f0d1bc0
 slug: 'introducing-security-alerts-on-github'

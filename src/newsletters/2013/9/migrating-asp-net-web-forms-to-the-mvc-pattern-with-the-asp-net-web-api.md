@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d90
-title: 'Migrating ASP.NET Web Forms to the MVC Pattern with the ASP.NET Web API'
+title: "Migrating ASP.NET Web Forms to the MVC Pattern with the ASP.NET Web API"
 url: 'http://msdn.microsoft.com/en-us/magazine/jj991978.aspx'
 category: 5a88e1afbd6dca0d5f0d2d90
 slug: 'migrating-asp-net-web-forms-to-the-mvc-pattern-with-the-asp-net-web-api'

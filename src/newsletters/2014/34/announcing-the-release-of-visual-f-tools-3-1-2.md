@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2920
-title: 'Announcing the release of Visual F# Tools 3.1.2'
+title: "Announcing the release of Visual F# Tools 3.1.2"
 url: 'http://blogs.msdn.com/b/fsharpteam/archive/2014/08/20/announcing-the-release-of-visual-f-tools-3-1-2.aspx'
 category: 5a88e1aebd6dca0d5f0d2920
 slug: 'announcing-the-release-of-visual-f-tools-3-1-2'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1cc0
-title: 'Introducing the Little ASP.NET Core Book'
+title: "Introducing the Little ASP.NET Core Book"
 url: 'https://www.recaffeinate.co/post/introducing-little-aspnetcore-book/'
 category: 5a88e1abbd6dca0d5f0d1cc0
 slug: 'introducing-the-little-asp-net-core-book'

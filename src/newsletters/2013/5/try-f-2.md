@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2dc6
-title: 'Try F#'
+title: "Try F#"
 url: 'http://www.tryfsharp.org/'
 category: 5a88e1afbd6dca0d5f0d2dc6
 slug: 'try-f-2'

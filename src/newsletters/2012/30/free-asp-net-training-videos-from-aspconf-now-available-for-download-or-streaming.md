@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2f9a
-title: 'Free ASP.NET Training Videos from aspConf now available for download or streaming'
+title: "Free ASP.NET Training Videos from aspConf now available for download or streaming"
 url: 'http://www.hanselman.com/blog/FreeASPNETTrainingVideosFromAspConfNowAvailableForDownloadOrStreaming.aspx'
 category: 5a88e1afbd6dca0d5f0d2f9a
 slug: 'free-asp-net-training-videos-from-aspconf-now-available-for-download-or-streaming'

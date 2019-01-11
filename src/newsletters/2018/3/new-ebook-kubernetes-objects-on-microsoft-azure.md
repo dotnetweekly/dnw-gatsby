@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1ad2
-title: 'New eBook: Kubernetes objects on Microsoft Azure'
+title: "New eBook: Kubernetes objects on Microsoft Azure"
 url: 'https://blogs.msdn.microsoft.com/azurecat/2018/01/22/new-ebook-kubernetes-objects-on-microsoft-azure/'
 category: 5a88e1aabd6dca0d5f0d1ad2
 slug: 'new-ebook-kubernetes-objects-on-microsoft-azure'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d226a
-title: 'Visual Studio 2015 - Fixing "Dependencies npm not installed"'
+title: "Visual Studio 2015 - Fixing 'Dependencies npm not installed'"
 url: 'http://www.hanselman.com/blog/VisualStudio2015FixingDependenciesNpmNotInstalledFromFseventsWithNodeOnWindows.aspx'
 category: 5a88e1acbd6dca0d5f0d226a
 slug: 'visual-studio-2015-fixing-dependencies-npm-not-installed'

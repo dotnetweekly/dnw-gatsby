@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1d1c
-title: 'Diagnosing a single slow test'
+title: "Diagnosing a single slow test"
 url: 'https://codeblog.jonskeet.uk/2017/08/19/diagnosing-a-single-slow-test/'
 category: 5a88e1abbd6dca0d5f0d1d1c
 slug: 'diagnosing-a-single-slow-test'

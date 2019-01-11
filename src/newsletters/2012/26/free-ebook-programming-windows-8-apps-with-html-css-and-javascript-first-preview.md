@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2fe2
-title: 'Free ebook: Programming Windows 8 Apps with HTML, CSS, and JavaScript (First Preview)'
+title: "Free ebook: Programming Windows 8 Apps with HTML, CSS, and JavaScript (First Preview)"
 url: 'http://blogs.msdn.com/b/microsoft_press/archive/2012/06/04/free-ebook-programming-windows-8-apps-with-html-css-and-javascript-first-preview.aspx?Loc=zatfz_zTS1z&media=zBKz&tech=zSdz&prog=zPressz&prod=zWin8z'
 category: 5a88e1afbd6dca0d5f0d2fe2
 slug: 'free-ebook-programming-windows-8-apps-with-html-css-and-javascript-first-preview'

@@ -1,6 +1,6 @@
 ---
 _id: 5ad2b75a325044006eb6d65c
-title: 'Integrating Selenium tests in a release pipeline'
+title: "Integrating Selenium tests in a release pipeline"
 url: 'https://blogs.msdn.microsoft.com/premier_developer/2018/04/13/integrating-selenium-tests-in-a-release-pipeline/'
 category: 5ad2b75a325044006eb6d65c
 slug: 'integrating-selenium-tests-in-a-release-pipeline'

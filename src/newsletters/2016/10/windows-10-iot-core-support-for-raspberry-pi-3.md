@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d23e4
-title: 'Windows 10 IoT Core support for Raspberry Pi 3'
+title: "Windows 10 IoT Core support for Raspberry Pi 3"
 url: 'https://blogs.windows.com/buildingapps/2016/02/29/windows-10-iot-core-support-for-raspberry-pi-3/?wt.mc_id=DX_322995&MC=SQL&MC=IoT&MC=Vstudio&MC=Windows'
 category: 5a88e1acbd6dca0d5f0d23e4
 slug: 'windows-10-iot-core-support-for-raspberry-pi-3'

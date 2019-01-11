@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a3a
-title: 'Mono and Roslyn'
+title: "Mono and Roslyn"
 url: 'http://tirania.org/blog/archive/2014/Apr-09.html'
 category: 5a88e1aebd6dca0d5f0d2a3a
 slug: 'mono-and-roslyn'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2104
-title: 'New Updates to Web Tools in Visual Studio 2017 RC'
+title: "New Updates to Web Tools in Visual Studio 2017 RC"
 url: 'https://blogs.msdn.microsoft.com/webdev/2016/12/12/new-updates-to-web-tools-in-visual-studio-2017-rc/'
 category: 5a88e1acbd6dca0d5f0d2104
 slug: 'new-updates-to-web-tools-in-visual-studio-2017-rc'

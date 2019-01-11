@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1ca6
-title: 'ASP.Net Core &amp; Angular OpenID Connect using Keycloak'
+title: "ASP.Net Core &amp; Angular OpenID Connect using Keycloak"
 url: 'https://medium.com/@xavier.hahn/asp-net-core-angular-openid-connect-using-keycloak-6437948c008'
 category: 5a88e1abbd6dca0d5f0d1ca6
 slug: 'asp-net-core-angular-openid-connect-using-keycloak'

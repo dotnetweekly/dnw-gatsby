@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2618
-title: 'Structuring Views in ASP.NET MVC to Centralize Logic'
+title: "Structuring Views in ASP.NET MVC to Centralize Logic"
 url: 'https://visualstudiomagazine.com/articles/2015/07/01/structuring-views.aspx'
 category: 5a88e1adbd6dca0d5f0d2618
 slug: 'structuring-views-in-asp-net-mvc-to-centralize-logic'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d302a
-title: 'Detroit Day of Azure–recordings'
+title: "Detroit Day of Azure–recordings"
 url: 'http://blogs.msdn.com/b/jennifer/archive/2012/06/06/detroit-day-of-azure-recordings.aspx'
 category: 5a88e1afbd6dca0d5f0d302a
 slug: 'detroit-day-of-azure-recordings'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d278a
-title: 'Announcing Limited Preview for Visual Studio Online Code Search'
+title: "Announcing Limited Preview for Visual Studio Online Code Search"
 url: 'http://blogs.msdn.com/b/visualstudioalm/archive/2015/02/13/announcing-limited-preview-for-visual-studio-online-code-search.aspx'
 category: 5a88e1adbd6dca0d5f0d278a
 slug: 'announcing-limited-preview-for-visual-studio-online-code-search'

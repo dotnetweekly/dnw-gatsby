@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d16
-title: 'What Breeze can do for You'
+title: "What Breeze can do for You"
 url: 'http://www.johnpapa.net/spajs04/'
 category: 5a88e1afbd6dca0d5f0d2d16
 slug: 'what-breeze-can-do-for-you'

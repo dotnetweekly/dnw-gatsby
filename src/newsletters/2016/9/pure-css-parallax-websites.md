@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d240a
-title: 'Pure CSS Parallax Websites'
+title: "Pure CSS Parallax Websites"
 url: 'http://keithclark.co.uk/articles/pure-css-parallax-websites/'
 category: 5a88e1acbd6dca0d5f0d240a
 slug: 'pure-css-parallax-websites'

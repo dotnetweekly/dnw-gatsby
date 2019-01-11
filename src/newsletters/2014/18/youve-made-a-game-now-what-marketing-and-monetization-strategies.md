@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a0c
-title: 'You’ve made a game, now what? Marketing and Monetization strategies'
+title: "You’ve made a game, now what? Marketing and Monetization strategies"
 url: 'http://www.tobiahmarks.com/2014/03/marketing-monetization-strategies/'
 category: 5a88e1aebd6dca0d5f0d2a0c
 slug: 'youve-made-a-game-now-what-marketing-and-monetization-strategies'

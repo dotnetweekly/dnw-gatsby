@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2dd2
-title: 'Part 11: Working with JSON Data'
+title: "Part 11: Working with JSON Data"
 url: 'http://channel9.msdn.com/Series/Windows-Store-apps-for-Absolute-Beginners-with-C-/Part-11-Working-with-JSON-Data'
 category: 5a88e1afbd6dca0d5f0d2dd2
 slug: 'part-11-working-with-json-data-2'

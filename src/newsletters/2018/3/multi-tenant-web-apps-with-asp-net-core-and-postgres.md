@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1ace
-title: 'Multi-tenant web apps with ASP.NET Core and Postgres'
+title: "Multi-tenant web apps with ASP.NET Core and Postgres"
 url: 'https://www.citusdata.com/blog/2018/01/22/multi-tenant-web-apps-with-dot-net-core-and-postgres/'
 category: 5a88e1aabd6dca0d5f0d1ace
 slug: 'multi-tenant-web-apps-with-asp-net-core-and-postgres'

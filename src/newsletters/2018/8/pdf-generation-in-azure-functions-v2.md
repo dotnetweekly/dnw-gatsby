@@ -1,6 +1,6 @@
 ---
 _id: 5a8b3df33bdd6c002abd3c0b
-title: 'PDF Generation in Azure Functions V2'
+title: "PDF Generation in Azure Functions V2"
 url: 'https://odetocode.com/blogs/scott/archive/2018/02/14/pdf-generation-in-azure-functions-v2.aspx'
 category: 5a8b3df33bdd6c002abd3c0b
 slug: 'pdf-generation-in-azure-functions-v2'

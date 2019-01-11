@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2436
-title: 'Using multipurpose Command Window to execute things faster in Visual Studio'
+title: "Using multipurpose Command Window to execute things faster in Visual Studio"
 url: 'http://dailydotnettips.com/2016/02/06/using-command-window-in-visual-studio/'
 category: 5a88e1acbd6dca0d5f0d2436
 slug: 'using-multipurpose-command-window-to-execute-things-faster-in-visual-studio'

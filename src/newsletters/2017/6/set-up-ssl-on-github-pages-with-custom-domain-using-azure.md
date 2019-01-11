@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d202e
-title: 'Set up SSL on GitHub Pages with custom domain using Azure'
+title: "Set up SSL on GitHub Pages with custom domain using Azure"
 url: 'https://blog.elmah.io/set-up-ssl-on-github-pages-with-custom-domain-using-azure/'
 category: 5a88e1abbd6dca0d5f0d202e
 slug: 'set-up-ssl-on-github-pages-with-custom-domain-using-azure'

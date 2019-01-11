@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b42
-title: 'Scott Hanselman"s 2014 Ultimate Developer and Power Users Tool List for Windows'
+title: "Scott Hanselman's 2014 Ultimate Developer and Power Users Tool List for Windows"
 url: 'http://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsersToolListForWindows.aspx'
 category: 5a88e1aebd6dca0d5f0d2b42
 slug: 'scott-hanselmans-2014-ultimate-developer-and-power-users-tool-list-for-windows'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d29fc
-title: 'Visual Studio Design Patterns add-in'
+title: "Visual Studio Design Patterns add-in"
 url: 'http://www.codeproject.com/Articles/767200/Visual-Studio-Design-Patterns-add-in'
 category: 5a88e1aebd6dca0d5f0d29fc
 slug: 'visual-studio-design-patterns-add-in'

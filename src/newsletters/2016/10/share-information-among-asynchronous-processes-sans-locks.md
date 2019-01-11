@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d23f4
-title: 'Share Information Among Asynchronous Processes Sans Locks'
+title: "Share Information Among Asynchronous Processes Sans Locks"
 url: 'https://visualstudiomagazine.com/articles/2016/03/01/share-information.aspx'
 category: 5a88e1acbd6dca0d5f0d23f4
 slug: 'share-information-among-asynchronous-processes-sans-locks'

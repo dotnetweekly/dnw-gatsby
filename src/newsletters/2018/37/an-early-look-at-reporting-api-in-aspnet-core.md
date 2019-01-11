@@ -1,6 +1,6 @@
 ---
 _id: 5b98c9a5d08949472e6ca3f3
-title: 'An early look at Reporting API in ASP.NET Core'
+title: "An early look at Reporting API in ASP.NET Core"
 url: 'https://www.tpeczek.com/2018/09/an-early-look-at-reporting-api-in.html'
 category: 5b98c9a5d08949472e6ca3f3
 slug: 'an-early-look-at-reporting-api-in-aspnet-core'

@@ -1,6 +1,6 @@
 ---
 _id: 5c30be244acc32e8df2fe4be
-title: 'JWT Authentication and Authorisation in ASP.NET Core Web API'
+title: "JWT Authentication and Authorisation in ASP.NET Core Web API"
 url: 'https://salslab.com/a/jwt-authentication-and-authorisation-in-asp-net-core-web-api'
 category: 5c30be244acc32e8df2fe4be
 slug: 'jwt-authentication-and-authorisation-in-aspnet-core-web-api'

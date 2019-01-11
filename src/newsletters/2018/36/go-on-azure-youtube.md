@@ -1,6 +1,6 @@
 ---
 _id: 5b9173081f9f2e612c857aa5
-title: 'Go on Azure - YouTube'
+title: "Go on Azure - YouTube"
 url: 'https://www.youtube.com/playlist?list=PLlrxD0HtieHhowVq6lMTcdu8QM_tWyYgU'
 category: 5b9173081f9f2e612c857aa5
 slug: 'go-on-azure-youtube'

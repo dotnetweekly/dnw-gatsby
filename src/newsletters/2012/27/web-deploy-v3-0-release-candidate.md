@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2fce
-title: 'Web Deploy v3.0 Release Candidate'
+title: "Web Deploy v3.0 Release Candidate"
 url: 'http://www.microsoft.com/en-us/download/details.aspx?id=29557'
 category: 5a88e1afbd6dca0d5f0d2fce
 slug: 'web-deploy-v3-0-release-candidate'

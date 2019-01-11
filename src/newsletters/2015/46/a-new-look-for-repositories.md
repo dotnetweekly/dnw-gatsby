@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2512
-title: 'A new look for repositories'
+title: "A new look for repositories"
 url: 'https://github.com/blog/2085-a-new-look-for-repositories'
 category: 5a88e1adbd6dca0d5f0d2512
 slug: 'a-new-look-for-repositories'

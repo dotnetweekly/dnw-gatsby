@@ -1,6 +1,6 @@
 ---
 _id: 5ab8b10c06da27002a72eebc
-title: 'Push Notifications and ASP.NET Core - Part 4 (Queueing requesting delivery in background)'
+title: "Push Notifications and ASP.NET Core - Part 4 (Queueing requesting delivery in background)"
 url: 'https://www.tpeczek.com/2018/03/push-notifications-and-aspnet-core-part.html'
 category: 5ab8b10c06da27002a72eebc
 slug: 'push-notifications-and-aspnet-core-part-4-queueing-requesting-delivery-in-background'

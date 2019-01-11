@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1b8e
-title: 'Domain-Driven Design Europe 2018 in Amsterdam'
+title: "Domain-Driven Design Europe 2018 in Amsterdam"
 url: 'http://thedatafarm.com/conferences/domain-driven-design-europe-2018-in-amsterdam/'
 category: 5a88e1aabd6dca0d5f0d1b8e
 slug: 'domain-driven-design-europe-2018-in-amsterdam'

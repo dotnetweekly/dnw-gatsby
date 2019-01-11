@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2182
-title: 'ReactJS.NET 3.0'
+title: "ReactJS.NET 3.0"
 url: 'https://reactjs.net/2016/10/3.0.0-release.html'
 category: 5a88e1acbd6dca0d5f0d2182
 slug: 'reactjs-net-3-0'

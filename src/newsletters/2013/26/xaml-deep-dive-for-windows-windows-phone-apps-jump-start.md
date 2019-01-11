@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2c88
-title: 'XAML Deep Dive for Windows & Windows Phone Apps Jump Start'
+title: "XAML Deep Dive for Windows & Windows Phone Apps Jump Start"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/Windows-StoreApp-XAML-C-Jump-Start'
 category: 5a88e1afbd6dca0d5f0d2c88
 slug: 'xaml-deep-dive-for-windows-windows-phone-apps-jump-start'

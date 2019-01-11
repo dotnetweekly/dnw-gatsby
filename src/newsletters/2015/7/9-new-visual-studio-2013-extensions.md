@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2792
-title: '9 New Visual Studio 2013 Extensions'
+title: "9 New Visual Studio 2013 Extensions"
 url: 'http://visualstudiomagazine.com/articles/2015/02/01/9-new-visual-studio-2013-extensions.aspx'
 category: 5a88e1adbd6dca0d5f0d2792
 slug: '9-new-visual-studio-2013-extensions'

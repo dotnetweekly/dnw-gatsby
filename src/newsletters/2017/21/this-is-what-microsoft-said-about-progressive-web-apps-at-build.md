@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1eaa
-title: 'This is What Microsoft Said About Progressive Web Apps at Build'
+title: "This is What Microsoft Said About Progressive Web Apps at Build"
 url: 'https://www.thurrott.com/windows/windows-10/116101/microsoft-said-progressive-web-apps-build'
 category: 5a88e1abbd6dca0d5f0d1eaa
 slug: 'this-is-what-microsoft-said-about-progressive-web-apps-at-build'

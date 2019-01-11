@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b04
-title: 'Designing Applications for Windows Azure Jump Start'
+title: "Designing Applications for Windows Azure Jump Start"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/designing-applications-for-windows-azure-jump-start#?fbid=Hc0TiYdhIlr'
 category: 5a88e1aebd6dca0d5f0d2b04
 slug: 'designing-applications-for-windows-azure-jump-start'

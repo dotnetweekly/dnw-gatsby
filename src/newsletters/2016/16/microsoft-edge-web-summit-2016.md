@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2386
-title: 'Microsoft Edge Web Summit 2016'
+title: "Microsoft Edge Web Summit 2016"
 url: 'https://channel9.msdn.com/Events/WebPlatformSummit/edgesummit2016'
 category: 5a88e1acbd6dca0d5f0d2386
 slug: 'microsoft-edge-web-summit-2016'

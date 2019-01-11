@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d243c
-title: 'New features in C# 7, part 2'
+title: "New features in C# 7, part 2"
 url: 'https://www.kenneth-truyers.net/2016/01/25/new-features-in-c-sharp-7-part-2/'
 category: 5a88e1acbd6dca0d5f0d243c
 slug: 'new-features-in-c-7-part-2-2'

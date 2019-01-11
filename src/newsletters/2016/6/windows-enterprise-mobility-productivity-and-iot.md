@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2448
-title: 'Windows, Enterprise Mobility, Productivity and IoT'
+title: "Windows, Enterprise Mobility, Productivity and IoT"
 url: 'http://simon-may.com/friday-five-windows-enterprise-mobility-14/'
 category: 5a88e1acbd6dca0d5f0d2448
 slug: 'windows-enterprise-mobility-productivity-and-iot'

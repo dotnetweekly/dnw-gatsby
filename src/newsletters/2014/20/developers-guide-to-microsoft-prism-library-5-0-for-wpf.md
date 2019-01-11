@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d29ea
-title: 'Developer"s Guide to Microsoft Prism Library 5.0 for WPF'
+title: "Developer's Guide to Microsoft Prism Library 5.0 for WPF"
 url: 'http://msdn.microsoft.com/en-us/library/gg406140.aspx'
 category: 5a88e1aebd6dca0d5f0d29ea
 slug: 'developers-guide-to-microsoft-prism-library-5-0-for-wpf'

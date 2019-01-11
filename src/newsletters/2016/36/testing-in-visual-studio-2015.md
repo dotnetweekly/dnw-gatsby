@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d221e
-title: 'Testing in Visual Studio 2015'
+title: "Testing in Visual Studio 2015"
 url: 'https://mva.microsoft.com/en-US/training-courses/testing-in-visual-studio-2015-16459'
 category: 5a88e1acbd6dca0d5f0d221e
 slug: 'testing-in-visual-studio-2015'

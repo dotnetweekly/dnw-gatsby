@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2430
-title: 'Create Simple, Reliable Asynchronous Apps with BlockingCollection'
+title: "Create Simple, Reliable Asynchronous Apps with BlockingCollection"
 url: 'https://visualstudiomagazine.com/articles/2016/02/01/reliable-asynchronous-apps.aspx'
 category: 5a88e1acbd6dca0d5f0d2430
 slug: 'create-simple-reliable-asynchronous-apps-with-blockingcollection'

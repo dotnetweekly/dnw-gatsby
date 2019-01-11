@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2092
-title: 'Paging with Entity Framework Core'
+title: "Paging with Entity Framework Core"
 url: 'http://gunnarpeipman.com/2017/01/ef-core-paging/'
 category: 5a88e1acbd6dca0d5f0d2092
 slug: 'paging-with-entity-framework-core'

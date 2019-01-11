@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1e14
-title: 'Machine Learning for Developers'
+title: "Machine Learning for Developers"
 url: 'https://blogs.technet.microsoft.com/machinelearning/2017/06/22/machine-learning-for-developers/'
 category: 5a88e1abbd6dca0d5f0d1e14
 slug: 'machine-learning-for-developers'

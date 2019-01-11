@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d22b4
-title: 'Developer Assistant now supports C++'
+title: "Developer Assistant now supports C++"
 url: 'https://blogs.msdn.microsoft.com/visualstudio/2016/07/13/developer-assistant-supports-cpp/'
 category: 5a88e1acbd6dca0d5f0d22b4
 slug: 'developer-assistant-now-supports-c'

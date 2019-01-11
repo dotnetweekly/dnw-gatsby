@@ -1,6 +1,6 @@
 ---
 _id: 5be5352427cd23a0505935f4
-title: 'Announcing .NET Standard 2.1'
+title: "Announcing .NET Standard 2.1"
 url: 'https://blogs.msdn.microsoft.com/dotnet/2018/11/05/announcing-net-standard-2-1/'
 category: 5be5352427cd23a0505935f4
 slug: 'announcing-net-standard-21'

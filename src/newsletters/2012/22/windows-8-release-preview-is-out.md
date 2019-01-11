@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d303c
-title: 'Windows 8 Release Preview is out!'
+title: "Windows 8 Release Preview is out!"
 url: 'http://blogs.msdn.com/b/jennifer/archive/2012/05/31/windows-8-release-preview-is-out.aspx'
 category: 5a88e1afbd6dca0d5f0d303c
 slug: 'windows-8-release-preview-is-out'

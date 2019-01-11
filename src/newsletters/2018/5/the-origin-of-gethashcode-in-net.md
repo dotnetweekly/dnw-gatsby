@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1a88
-title: 'The origin of GetHashCode in .NET'
+title: "The origin of GetHashCode in .NET"
 url: 'http://codingsight.com/the-origin-of-gethashcode-in-net/'
 category: 5a88e1aabd6dca0d5f0d1a88
 slug: 'the-origin-of-gethashcode-in-net'

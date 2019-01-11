@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d21da
-title: 'Microsoft Bot Framework Resources'
+title: "Microsoft Bot Framework Resources"
 url: 'https://blogs.msdn.microsoft.com/smich/2016/09/30/microsoft-bot-framework-resources/'
 category: 5a88e1acbd6dca0d5f0d21da
 slug: 'microsoft-bot-framework-resources'

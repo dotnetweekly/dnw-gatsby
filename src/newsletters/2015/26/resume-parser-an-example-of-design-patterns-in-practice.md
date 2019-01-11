@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d265a
-title: 'Resume Parser - An example of Design Patterns in practice'
+title: "Resume Parser - An example of Design Patterns in practice"
 url: 'http://www.codeproject.com/Articles/874212/Resume-Parser-An-example-of-Design-Patterns-in-pra'
 category: 5a88e1adbd6dca0d5f0d265a
 slug: 'resume-parser-an-example-of-design-patterns-in-practice'

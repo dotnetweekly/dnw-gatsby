@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1d50
-title: 'Announcing ASP.NET Core 2.0'
+title: "Announcing ASP.NET Core 2.0"
 url: 'https://blogs.msdn.microsoft.com/webdev/2017/08/14/announcing-asp-net-core-2-0/'
 category: 5a88e1abbd6dca0d5f0d1d50
 slug: 'announcing-asp-net-core-2-0'

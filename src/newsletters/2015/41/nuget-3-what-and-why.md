@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d255a
-title: 'NuGet 3 - What and Why?'
+title: "NuGet 3 - What and Why?"
 url: 'http://blog.nuget.org/20151008/NuGet-3-What-and-Why.html'
 category: 5a88e1adbd6dca0d5f0d255a
 slug: 'nuget-3-what-and-why'

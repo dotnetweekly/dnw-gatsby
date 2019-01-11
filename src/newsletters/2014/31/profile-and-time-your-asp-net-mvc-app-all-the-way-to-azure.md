@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2958
-title: 'Profile and Time your ASP.NET MVC app all the way to Azure'
+title: "Profile and Time your ASP.NET MVC app all the way to Azure"
 url: 'http://blogs.msdn.com/b/webdev/archive/2014/07/29/profile-and-time-your-asp-net-mvc-app-all-the-way-to-azure.aspx'
 category: 5a88e1aebd6dca0d5f0d2958
 slug: 'profile-and-time-your-asp-net-mvc-app-all-the-way-to-azure'

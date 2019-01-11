@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2f80
-title: 'Free Offers from Microsoft Partners'
+title: "Free Offers from Microsoft Partners"
 url: 'http://msdn.microsoft.com/en-us/jj573283.aspx#FreeOffers'
 category: 5a88e1afbd6dca0d5f0d2f80
 slug: 'free-offers-from-microsoft-partners'

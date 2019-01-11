@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2e5a
-title: 'Free Windows Azure Ebooks'
+title: "Free Windows Azure Ebooks"
 url: 'http://blogs.msdn.com/b/umits/archive/2012/11/06/free-windows-azure-ebooks.aspx'
 category: 5a88e1afbd6dca0d5f0d2e5a
 slug: 'free-windows-azure-ebooks'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d2044
-title: '.NET on Linux'
+title: ".NET on Linux"
 url: 'https://dzone.com/refcardz/net-on-linux'
 category: 5a88e1abbd6dca0d5f0d2044
 slug: 'net-on-linux'

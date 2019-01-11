@@ -1,6 +1,6 @@
 ---
 _id: 5ab0a4f83b00a501ceb2e098
-title: 'ASP.NET MVC 5 with BDD ,Onion/Clean Architecture, Living documentation and a CI/CD pipeline from scratch'
+title: "ASP.NET MVC 5 with BDD ,Onion/Clean Architecture, Living documentation and a CI/CD pipeline from scratch"
 url: 'https://blogs.msdn.microsoft.com/rohithrajan/2018/03/15/asp-net-mvc-5-with-bdd-clean-or-onion-architecture-living-documentation-and-a-cicd-pipeline-from-scratch/'
 category: 5ab0a4f83b00a501ceb2e098
 slug: 'aspnet-mvc-5-with-bdd-onion-clean-architecture-living-documentation-and-a-ci-cd-pipeline-from-scrat'

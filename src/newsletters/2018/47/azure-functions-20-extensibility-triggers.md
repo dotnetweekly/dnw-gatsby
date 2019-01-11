@@ -1,6 +1,6 @@
 ---
 _id: 5bf51784d9a5933d1ef70e45
-title: 'Azure Functions 2.0 extensibility - triggers'
+title: "Azure Functions 2.0 extensibility - triggers"
 url: 'https://www.tpeczek.com/2018/11/azure-functions-20-extensibility_20.html'
 category: 5bf51784d9a5933d1ef70e45
 slug: 'azure-functions-20-extensibility-triggers'

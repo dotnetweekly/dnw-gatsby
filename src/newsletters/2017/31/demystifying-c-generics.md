@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1d8c
-title: 'Demystifying C# Generics'
+title: "Demystifying C# Generics"
 url: 'https://tech.io/playgrounds/2290/demystifying-c-generics/introduction'
 category: 5a88e1abbd6dca0d5f0d1d8c
 slug: 'demystifying-c-generics'

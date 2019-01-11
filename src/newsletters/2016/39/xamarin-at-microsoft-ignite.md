@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d21f4
-title: 'Xamarin at Microsoft Ignite'
+title: "Xamarin at Microsoft Ignite"
 url: 'https://blog.xamarin.com/xamarin-at-microsoft-ignite/'
 category: 5a88e1acbd6dca0d5f0d21f4
 slug: 'xamarin-at-microsoft-ignite'

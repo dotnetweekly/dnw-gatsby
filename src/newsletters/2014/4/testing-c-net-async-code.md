@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2af0
-title: 'Testing C#.Net Async Code'
+title: "Testing C#.Net Async Code"
 url: 'http://spin.atomicobject.com/2014/01/27/testing-async-code/'
 category: 5a88e1aebd6dca0d5f0d2af0
 slug: 'testing-c-net-async-code'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2170
-title: 'Extensibility in Visual Studio “15”: Increasing Reliability and Performance'
+title: "Extensibility in Visual Studio “15”: Increasing Reliability and Performance"
 url: 'https://blogs.msdn.microsoft.com/visualstudio/2016/11/10/extensibility-in-visual-studio-15-increasing-reliability-and-performance/'
 category: 5a88e1acbd6dca0d5f0d2170
 slug: 'extensibility-in-visual-studio-15-increasing-reliability-and-performance'

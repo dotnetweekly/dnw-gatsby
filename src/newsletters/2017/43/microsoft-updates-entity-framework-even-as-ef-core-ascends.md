@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1c26
-title: 'Microsoft Updates Entity Framework, Even as EF Core Ascends'
+title: "Microsoft Updates Entity Framework, Even as EF Core Ascends"
 url: 'https://visualstudiomagazine.com/articles/2017/10/27/entity-framework-release.aspx'
 category: 5a88e1aabd6dca0d5f0d1c26
 slug: 'microsoft-updates-entity-framework-even-as-ef-core-ascends'

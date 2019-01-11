@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2238
-title: 'PowerShell is open sourced and is available on Linux'
+title: "PowerShell is open sourced and is available on Linux"
 url: 'https://azure.microsoft.com/en-us/blog/powershell-is-open-sourced-and-is-available-on-linux/'
 category: 5a88e1acbd6dca0d5f0d2238
 slug: 'powershell-is-open-sourced-and-is-available-on-linux'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d255e
-title: 'Security through obscurity - Hiding Asp.Net MVC response headers'
+title: "Security through obscurity - Hiding Asp.Net MVC response headers"
 url: 'http://www.codeproject.com/Articles/1037948/Security-through-obscurity-Hiding-Asp-Net-MVC-resp'
 category: 5a88e1adbd6dca0d5f0d255e
 slug: 'security-through-obscurity-hiding-asp-net-mvc-response-headers'

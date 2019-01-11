@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2c94
-title: 'Tutorial series: learning how to write a 3D soft engine from scratch in C#, TypeScript or JavaScript'
+title: "Tutorial series: learning how to write a 3D soft engine from scratch in C#, TypeScript or JavaScript"
 url: 'http://blogs.msdn.com/b/davrous/archive/2013/06/13/tutorial-series-learning-how-to-write-a-3d-soft-engine-from-scratch-in-c-typescript-or-javascript.aspx'
 category: 5a88e1afbd6dca0d5f0d2c94
 slug: 'tutorial-series-learning-how-to-write-a-3d-soft-engine-from-scratch-in-c-typescript-or-javascript'

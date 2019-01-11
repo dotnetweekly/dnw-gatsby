@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1f98
-title: 'Storing Content-Security-Policy reports in elmah.io'
+title: "Storing Content-Security-Policy reports in elmah.io"
 url: 'https://blog.elmah.io/storing-content-security-policy-reports-in-elmah-io/'
 category: 5a88e1abbd6dca0d5f0d1f98
 slug: 'storing-content-security-policy-reports-in-elmah-io'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1e2e
-title: 'Rider: Taking ReSharper out of Process (Matt Ellis at .NET SW)'
+title: "Rider: Taking ReSharper out of Process (Matt Ellis at .NET SW)"
 url: 'https://pusher.com/sessions/meetup/dot-net-south-west/rider-taking-resharper-out-of-process'
 category: 5a88e1abbd6dca0d5f0d1e2e
 slug: 'rider-taking-resharper-out-of-process-matt-ellis-at-net-sw'

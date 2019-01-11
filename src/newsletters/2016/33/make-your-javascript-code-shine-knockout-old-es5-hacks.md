@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2264
-title: 'Make your JavaScript code shine: knockout old ES5 hacks'
+title: "Make your JavaScript code shine: knockout old ES5 hacks"
 url: 'https://rainsoft.io/make-your-javascript-code-shide-knockout-old-es5-hack/'
 category: 5a88e1acbd6dca0d5f0d2264
 slug: 'make-your-javascript-code-shine-knockout-old-es5-hacks'

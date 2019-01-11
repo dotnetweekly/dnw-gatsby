@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1aec
-title: 'TensorFlow API for .NET languages'
+title: "TensorFlow API for .NET languages"
 url: 'https://github.com/migueldeicaza/TensorFlowSharp'
 category: 5a88e1aabd6dca0d5f0d1aec
 slug: 'tensorflow-api-for-net-languages'

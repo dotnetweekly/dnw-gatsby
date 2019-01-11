@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1b22
-title: 'Using an EF Core database for the IdentityServer4 configuration data'
+title: "Using an EF Core database for the IdentityServer4 configuration data"
 url: 'https://damienbod.com/2017/12/30/using-an-ef-core-database-for-the-identityserver4-configuration-data/'
 category: 5a88e1aabd6dca0d5f0d1b22
 slug: 'using-an-ef-core-database-for-the-identityserver4-configuration-data'

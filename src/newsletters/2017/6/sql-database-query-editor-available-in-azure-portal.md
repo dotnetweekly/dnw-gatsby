@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d202a
-title: 'SQL Database Query Editor available in Azure Portal'
+title: "SQL Database Query Editor available in Azure Portal"
 url: 'https://azure.microsoft.com/en-us/blog/t-sql-query-editor-in-browser-azure-portal/'
 category: 5a88e1abbd6dca0d5f0d202a
 slug: 'sql-database-query-editor-available-in-azure-portal'

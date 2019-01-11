@@ -1,6 +1,6 @@
 ---
 _id: 5bba9f812931b780f5e7eb0c
-title: 'How Microsoft rewrote its C# compiler in C# and made it open source'
+title: "How Microsoft rewrote its C# compiler in C# and made it open source"
 url: 'https://medium.com/microsoft-open-source-stories/how-microsoft-rewrote-its-c-compiler-in-c-and-made-it-open-source-4ebed5646f98'
 category: 5bba9f812931b780f5e7eb0c
 slug: 'how-microsoft-rewrote-its-c-compiler-in-c-and-made-it-open-source'

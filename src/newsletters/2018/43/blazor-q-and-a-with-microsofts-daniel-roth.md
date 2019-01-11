@@ -1,6 +1,6 @@
 ---
 _id: 5bd1cdeae8929fb8de385dff
-title: 'Blazor Q&A with Microsoft"s Daniel Roth'
+title: "Blazor Q&A with Microsoft's Daniel Roth"
 url: 'https://www.telerik.com/blogs/blazor-qa-with-microsofts-daniel-roth'
 category: 5bd1cdeae8929fb8de385dff
 slug: 'blazor-q-and-a-with-microsofts-daniel-roth'

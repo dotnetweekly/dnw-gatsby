@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1ada
-title: 'Headless E2E Testing with Chrome in Visual Studio Team Services'
+title: "Headless E2E Testing with Chrome in Visual Studio Team Services"
 url: 'http://benjaminspencer.me/post/15/headless-e2e-testing-chrome-vsts'
 category: 5a88e1aabd6dca0d5f0d1ada
 slug: 'headless-e2e-testing-with-chrome-in-visual-studio-team-services'

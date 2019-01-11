@@ -1,6 +1,6 @@
 ---
 _id: 5a8c8093ea238f002af67314
-title: 'Top 10 reasons to attend European Collaboration Summit 2018'
+title: "Top 10 reasons to attend European Collaboration Summit 2018"
 url: 'http://www.collabsummit.eu/10reasons/'
 category: 5a8c8093ea238f002af67314
 slug: 'top-10-reasons-to-attend-european-collaboration-summit-2018'

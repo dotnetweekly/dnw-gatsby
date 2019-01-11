@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d0e
-title: 'Time is running out: take your second shot exam now'
+title: "Time is running out: take your second shot exam now"
 url: 'http://www.microsoft.com/learning/en/us/second-shot.aspx#fbid=xZg08gQx4DI'
 category: 5a88e1afbd6dca0d5f0d2d0e
 slug: 'time-is-running-out-take-your-second-shot-exam-now'

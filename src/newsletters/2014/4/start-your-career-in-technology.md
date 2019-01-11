@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2afa
-title: 'Start your career in technology'
+title: "Start your career in technology"
 url: 'http://borntolearn.mslearn.net/startyourcareer/'
 category: 5a88e1aebd6dca0d5f0d2afa
 slug: 'start-your-career-in-technology'

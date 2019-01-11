@@ -1,6 +1,6 @@
 ---
 _id: 5ab30ecc58a189003eb1a1ef
-title: 'A Few Great Ways to Consume RESTful APIs in C#'
+title: "A Few Great Ways to Consume RESTful APIs in C#"
 url: 'https://dzone.com/articles/a-few-great-ways-to-consume-restful-apis-in-c'
 category: 5ab30ecc58a189003eb1a1ef
 slug: 'a-few-great-ways-to-consume-restful-apis-in-c'

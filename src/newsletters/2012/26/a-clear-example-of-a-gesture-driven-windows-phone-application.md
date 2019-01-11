@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2fe4
-title: 'A clear example of a gesture driven Windows Phone application'
+title: "A clear example of a gesture driven Windows Phone application"
 url: 'http://channel9.msdn.com/coding4fun/blog/A-clear-example-of-a-gesture-driven-Windows-Phone-application'
 category: 5a88e1afbd6dca0d5f0d2fe4
 slug: 'a-clear-example-of-a-gesture-driven-windows-phone-application'

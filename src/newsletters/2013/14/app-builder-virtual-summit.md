@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d22
-title: 'App Builder Virtual Summit'
+title: "App Builder Virtual Summit"
 url: 'http://build.windowsstore.com/virtualsummit#fbid=OeDDODPWdS3'
 category: 5a88e1afbd6dca0d5f0d2d22
 slug: 'app-builder-virtual-summit'

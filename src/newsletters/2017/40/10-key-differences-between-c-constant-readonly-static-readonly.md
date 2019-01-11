@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1c96
-title: '10 key differences between C# Constant, ReadOnly &amp; Static ReadOnly'
+title: "10 key differences between C# Constant, ReadOnly &amp; Static ReadOnly"
 url: 'http://www.arungudelli.com/tutorial/c-sharp/10-differences-between-constant-vs-readonly-static-readonly-fields/'
 category: 5a88e1abbd6dca0d5f0d1c96
 slug: '10-key-differences-between-c-constant-readonly-static-readonly'

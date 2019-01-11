@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d298c
-title: 'Caching: the Good, the Bad and the Hype'
+title: "Caching: the Good, the Bad and the Hype"
 url: 'https://www.simple-talk.com/dotnet/asp.net/caching-the-good,-the-bad-and-the-hype/'
 category: 5a88e1aebd6dca0d5f0d298c
 slug: 'caching-the-good-the-bad-and-the-hype'

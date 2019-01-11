@@ -1,6 +1,6 @@
 ---
 _id: 5c23c8bc745cd0f5a20206b4
-title: 'Three reasons we love Xamarin'
+title: "Three reasons we love Xamarin"
 url: 'https://www.uruit.com/blog/three-reasons-we-love-xamarin/'
 category: 5c23c8bc745cd0f5a20206b4
 slug: 'three-reasons-we-love-xamarin'

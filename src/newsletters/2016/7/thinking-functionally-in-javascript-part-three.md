@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2428
-title: 'Thinking functionally in JavaScript (part three)'
+title: "Thinking functionally in JavaScript (part three)"
 url: 'http://blog.boyet.com/blog/javascriptlessons/thinking-functionally-in-javascript-part-three/'
 category: 5a88e1acbd6dca0d5f0d2428
 slug: 'thinking-functionally-in-javascript-part-three'

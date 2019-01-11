@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2584
-title: 'Building Cloud Apps with  Microsoft Azure'
+title: "Building Cloud Apps with  Microsoft Azure"
 url: 'https://info.microsoft.com/CE-Azure-CNTNT-FY16-10Oct-10-Dev-Camp.html'
 category: 5a88e1adbd6dca0d5f0d2584
 slug: 'building-cloud-apps-with-microsoft-azure'

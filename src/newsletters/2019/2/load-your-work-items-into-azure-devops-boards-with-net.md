@@ -1,6 +1,6 @@
 ---
 _id: 5c3512295e8f0d23388d0c3e
-title: 'Load your work items into Azure DevOps Boards with .NET'
+title: "Load your work items into Azure DevOps Boards with .NET"
 url: 'https://jeremylindsayni.wordpress.com/2019/01/07/bulk-load-your-work-items-into-azure-devops-boards-from-another-issue-tracking-system/'
 category: 5c3512295e8f0d23388d0c3e
 slug: 'load-your-work-items-into-azure-devops-boards-with-net'

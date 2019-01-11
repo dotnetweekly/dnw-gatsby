@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d236e
-title: 'News from Xamarin Evolve: What’s next for Visual Studio and Xamarin'
+title: "News from Xamarin Evolve: What’s next for Visual Studio and Xamarin"
 url: 'https://blogs.msdn.microsoft.com/visualstudio/2016/04/27/xamarin-evolve-whats-next-for-visual-studio-and-xamarin/#'
 category: 5a88e1acbd6dca0d5f0d236e
 slug: 'news-from-xamarin-evolve-whats-next-for-visual-studio-and-xamarin'

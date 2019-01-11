@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a7e
-title: 'Building Blocks'
+title: "Building Blocks"
 url: 'http://www.microsoftvirtualacademy.com/Live-Training-Events#?fbid=nSV4arFOb4d'
 category: 5a88e1aebd6dca0d5f0d2a7e
 slug: 'building-blocks'

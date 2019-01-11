@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2c6e
-title: 'Configuring ASP.NET MVC 5 Login Options '
+title: "Configuring ASP.NET MVC 5 Login Options "
 url: 'http://weblogs.asp.net/imranbaloch/archive/2013/07/18/configuring-asp-net-mvc-5-login-options.aspx'
 category: 5a88e1afbd6dca0d5f0d2c6e
 slug: 'configuring-asp-net-mvc-5-login-options'

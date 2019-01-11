@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d23f2
-title: 'C# - Discrete Event Simulation: A Population Growth Example'
+title: "C# - Discrete Event Simulation: A Population Growth Example"
 url: 'https://msdn.microsoft.com/en-us/magazine/mt683796.aspx'
 category: 5a88e1acbd6dca0d5f0d23f2
 slug: 'c-discrete-event-simulation-a-population-growth-example'

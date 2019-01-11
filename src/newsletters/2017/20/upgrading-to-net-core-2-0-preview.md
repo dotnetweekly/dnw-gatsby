@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1ed8
-title: 'Upgrading to .NET Core 2.0 Preview'
+title: "Upgrading to .NET Core 2.0 Preview"
 url: 'https://weblog.west-wind.com/posts/2017/May/15/Upgrading-to-NET-Core-20-Preview'
 category: 5a88e1abbd6dca0d5f0d1ed8
 slug: 'upgrading-to-net-core-2-0-preview'

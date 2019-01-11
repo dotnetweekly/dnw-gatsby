@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d24e2
-title: 'Essential .NET - Designing C# 7'
+title: "Essential .NET - Designing C# 7"
 url: 'https://msdn.microsoft.com/en-us/magazine/mt595758.aspx'
 category: 5a88e1adbd6dca0d5f0d24e2
 slug: 'essential-net-designing-c-7'

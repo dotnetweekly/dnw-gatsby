@@ -1,6 +1,6 @@
 ---
 _id: 5b9d230b34a7ead28a2b77dd
-title: 'Data Seeding with EF Core'
+title: "Data Seeding with EF Core"
 url: 'https://csharp.christiannagel.com/2018/09/12/efcoreseeding/'
 category: 5b9d230b34a7ead28a2b77dd
 slug: 'data-seeding-with-ef-core'

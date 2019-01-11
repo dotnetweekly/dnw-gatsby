@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2608
-title: 'How to Become a Great Front-End Engineer'
+title: "How to Become a Great Front-End Engineer"
 url: 'http://philipwalton.com/articles/how-to-become-a-great-front-end-engineer/'
 category: 5a88e1adbd6dca0d5f0d2608
 slug: 'how-to-become-a-great-front-end-engineer'

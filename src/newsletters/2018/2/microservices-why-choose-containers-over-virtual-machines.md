@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1b16
-title: 'Microservices: Why choose Containers over Virtual Machines.'
+title: "Microservices: Why choose Containers over Virtual Machines."
 url: 'https://pogsdotnet.blogspot.gr/2018/01/microservices-why-choose-containers.html'
 category: 5a88e1aabd6dca0d5f0d1b16
 slug: 'microservices-why-choose-containers-over-virtual-machines'

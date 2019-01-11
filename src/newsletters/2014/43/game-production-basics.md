@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d288a
-title: 'Game Production Basics'
+title: "Game Production Basics"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/game-production-basics'
 category: 5a88e1aebd6dca0d5f0d288a
 slug: 'game-production-basics'

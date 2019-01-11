@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d205a
-title: 'Git SSH protocol support for Visual Studio 2015'
+title: "Git SSH protocol support for Visual Studio 2015"
 url: 'http://blog.julienmialon.com/2017/01/git-ssh-protocol-support-for-visual-studio-2015/'
 category: 5a88e1acbd6dca0d5f0d205a
 slug: 'git-ssh-protocol-support-for-visual-studio-2015'

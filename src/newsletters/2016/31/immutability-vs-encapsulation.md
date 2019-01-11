@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2282
-title: 'Immutability vs Encapsulation'
+title: "Immutability vs Encapsulation"
 url: 'https://vsavkin.com/immutability-vs-encapsulation-90549ab74487'
 category: 5a88e1acbd6dca0d5f0d2282
 slug: 'immutability-vs-encapsulation'

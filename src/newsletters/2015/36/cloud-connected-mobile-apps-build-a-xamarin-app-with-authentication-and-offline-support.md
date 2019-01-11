@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d25c0
-title: 'Cloud-Connected Mobile Apps - Build a Xamarin App with Authentication and Offline Support'
+title: "Cloud-Connected Mobile Apps - Build a Xamarin App with Authentication and Offline Support"
 url: 'https://msdn.microsoft.com/en-us/magazine/mt422581'
 category: 5a88e1adbd6dca0d5f0d25c0
 slug: 'cloud-connected-mobile-apps-build-a-xamarin-app-with-authentication-and-offline-support'

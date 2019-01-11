@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d228e
-title: 'Node.js Tools 1.2 for Visual Studio 2015 released'
+title: "Node.js Tools 1.2 for Visual Studio 2015 released"
 url: 'https://blogs.msdn.microsoft.com/visualstudio/2016/07/28/node-js-tools-1-2-visual-studio-2015/'
 category: 5a88e1acbd6dca0d5f0d228e
 slug: 'node-js-tools-1-2-for-visual-studio-2015-released'

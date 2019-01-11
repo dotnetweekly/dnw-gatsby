@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d27c0
-title: 'Adding Azure Active Directory and OWIN Code into an AngularJS/ASP.NET MVC Application to Handle User Authentication'
+title: "Adding Azure Active Directory and OWIN Code into an AngularJS/ASP.NET MVC Application to Handle User Authentication"
 url: 'http://weblogs.asp.net/dwahlin/adding-azure-active-directory-and-owin-code-into-an-angularjs-asp-net-mvc-application-to-handle-user-authentication'
 category: 5a88e1adbd6dca0d5f0d27c0
 slug: 'adding-azure-active-directory-and-owin-code-into-an-angularjsasp-net-mvc-application-to-handle-user'

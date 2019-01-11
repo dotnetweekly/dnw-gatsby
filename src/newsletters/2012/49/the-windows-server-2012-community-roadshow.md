@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2e2a
-title: 'The Windows Server 2012 Community Roadshow'
+title: "The Windows Server 2012 Community Roadshow"
 url: 'https://ws2012rocks.msregistration.com/EventListbyCountry.aspx?loc=zbtfz_zrrz&prod=zWSz&tech=zOTtechz&prog=zOTprogz&type=zEVz&media=zOTmediaz'
 category: 5a88e1afbd6dca0d5f0d2e2a
 slug: 'the-windows-server-2012-community-roadshow'

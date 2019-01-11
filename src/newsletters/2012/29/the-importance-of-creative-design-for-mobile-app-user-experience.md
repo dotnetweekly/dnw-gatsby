@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2fa6
-title: 'The Importance of Creative Design For Mobile App User Experience'
+title: "The Importance of Creative Design For Mobile App User Experience"
 url: 'http://www.noupe.com/design/the-importance-creative-design-for-mobile-app-user-experience.html'
 category: 5a88e1afbd6dca0d5f0d2fa6
 slug: 'the-importance-of-creative-design-for-mobile-app-user-experience'

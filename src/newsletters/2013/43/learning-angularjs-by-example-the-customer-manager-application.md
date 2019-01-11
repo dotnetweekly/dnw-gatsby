@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2bae
-title: 'Learning AngularJS by Example – The Customer Manager Application '
+title: "Learning AngularJS by Example – The Customer Manager Application "
 url: 'http://weblogs.asp.net/dwahlin/archive/2013/10/25/learning-angularjs-by-example-the-customer-manager-application.aspx'
 category: 5a88e1aebd6dca0d5f0d2bae
 slug: 'learning-angularjs-by-example-the-customer-manager-application'

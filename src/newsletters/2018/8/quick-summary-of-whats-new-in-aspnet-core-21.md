@@ -1,6 +1,6 @@
 ---
 _id: 5a8b3dc93bdd6c002abd3c0a
-title: 'Quick summary of what’s new in ASP.NET Core 2.1'
+title: "Quick summary of what’s new in ASP.NET Core 2.1"
 url: 'http://www.talkingdotnet.com/quick-summary-whats-new-asp-net-core-2-1/'
 category: 5a8b3dc93bdd6c002abd3c0a
 slug: 'quick-summary-of-whats-new-in-aspnet-core-21'

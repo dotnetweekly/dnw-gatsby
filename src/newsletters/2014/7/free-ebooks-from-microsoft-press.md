@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2abe
-title: 'Free ebooks from Microsoft Press'
+title: "Free ebooks from Microsoft Press"
 url: 'http://www.microsoftvirtualacademy.com/ebooks#?fbid=nSV4arFOb4d'
 category: 5a88e1aebd6dca0d5f0d2abe
 slug: 'free-ebooks-from-microsoft-press'

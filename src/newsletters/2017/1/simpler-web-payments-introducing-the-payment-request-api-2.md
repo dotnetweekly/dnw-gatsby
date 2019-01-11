@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d20ae
-title: 'Simpler web payments: Introducing the Payment Request API'
+title: "Simpler web payments: Introducing the Payment Request API"
 url: 'https://blogs.windows.com/msedgedev/2016/12/15/payment-request-api-edge/'
 category: 5a88e1acbd6dca0d5f0d20ae
 slug: 'simpler-web-payments-introducing-the-payment-request-api-2'

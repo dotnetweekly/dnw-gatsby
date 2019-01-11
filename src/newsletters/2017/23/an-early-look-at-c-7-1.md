@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1e7a
-title: 'An Early Look at C# 7.1'
+title: "An Early Look at C# 7.1"
 url: 'https://www.infoq.com/news/2017/06/CSharp-7.1-b'
 category: 5a88e1abbd6dca0d5f0d1e7a
 slug: 'an-early-look-at-c-7-1'

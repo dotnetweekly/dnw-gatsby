@@ -1,6 +1,6 @@
 ---
 _id: 5b99098dd08949b0486ca3f6
-title: 'Microsoft Azure DevOps: What You Need to Know'
+title: "Microsoft Azure DevOps: What You Need to Know"
 url: 'https://www.telerik.com/blogs/microsoft-azure-devops-what-you-need-to-know'
 category: 5b99098dd08949b0486ca3f6
 slug: 'microsoft-azure-devops-what-you-need-to-know'

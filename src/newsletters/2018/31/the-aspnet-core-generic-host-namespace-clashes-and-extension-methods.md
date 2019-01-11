@@ -1,6 +1,6 @@
 ---
 _id: 5b62a7bb6b826ede24f5993c
-title: 'The ASP.NET Core Generic Host: namespace clashes and extension methods'
+title: "The ASP.NET Core Generic Host: namespace clashes and extension methods"
 url: 'https://andrewlock.net/the-asp-net-core-generic-host-namespace-clashes-and-extension-methods/'
 category: 5b62a7bb6b826ede24f5993c
 slug: 'the-aspnet-core-generic-host-namespace-clashes-and-extension-methods'

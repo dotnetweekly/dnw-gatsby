@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1e62
-title: 'WebAssembly 101: a developer"s first steps'
+title: "WebAssembly 101: a developer's first steps"
 url: 'http://blog.openbloc.fr/webassembly-first-steps/'
 category: 5a88e1abbd6dca0d5f0d1e62
 slug: 'webassembly-101-a-developers-first-steps'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1ee4
-title: 'Azure Application Architecture Guide'
+title: "Azure Application Architecture Guide"
 url: 'https://docs.microsoft.com/en-us/azure/architecture/guide/'
 category: 5a88e1abbd6dca0d5f0d1ee4
 slug: 'azure-application-architecture-guide'

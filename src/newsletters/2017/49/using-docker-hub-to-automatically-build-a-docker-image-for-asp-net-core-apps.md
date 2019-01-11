@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1b70
-title: 'Using Docker Hub to automatically build a Docker image for ASP.NET Core apps'
+title: "Using Docker Hub to automatically build a Docker image for ASP.NET Core apps"
 url: 'https://andrewlock.net/using-docker-hub-to-automatically-build-a-docker-image-for-asp-net-core-apps/'
 category: 5a88e1aabd6dca0d5f0d1b70
 slug: 'using-docker-hub-to-automatically-build-a-docker-image-for-asp-net-core-apps'

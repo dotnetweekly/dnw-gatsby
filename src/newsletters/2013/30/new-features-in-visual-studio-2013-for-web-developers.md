@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2c62
-title: 'New Features in Visual Studio 2013 for Web Developers'
+title: "New Features in Visual Studio 2013 for Web Developers"
 url: 'http://channel9.msdn.com/Shows/Web+Camps+TV/New-Features-in-Visual-Studio-2013-for-Web-Developers'
 category: 5a88e1aebd6dca0d5f0d2c62
 slug: 'new-features-in-visual-studio-2013-for-web-developers'

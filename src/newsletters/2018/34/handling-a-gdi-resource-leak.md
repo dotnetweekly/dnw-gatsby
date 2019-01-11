@@ -1,6 +1,6 @@
 ---
 _id: 5b7c1850e629202ba0f3fe96
-title: 'Handling a GDI Resource Leak'
+title: "Handling a GDI Resource Leak"
 url: 'https://codingsight.com/gdi-leak-handling/'
 category: 5b7c1850e629202ba0f3fe96
 slug: 'handling-a-gdi-resource-leak'

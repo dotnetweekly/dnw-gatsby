@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1d60
-title: 'Xamarin / C# open source SDK developer'
+title: "Xamarin / C# open source SDK developer"
 url: 'http://jobs.ably.io/o/xamarin--c-open-source-sdk-developer-remote-contract--parttime'
 category: 5a88e1abbd6dca0d5f0d1d60
 slug: 'xamarin-c-open-source-sdk-developer'

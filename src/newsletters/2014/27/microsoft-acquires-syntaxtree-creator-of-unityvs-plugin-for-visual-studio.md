@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2998
-title: 'Microsoft acquires SyntaxTree, creator of UnityVS plugin for Visual Studio'
+title: "Microsoft acquires SyntaxTree, creator of UnityVS plugin for Visual Studio"
 url: 'http://blogs.msdn.com/b/somasegar/archive/2014/07/02/microsoft-acquires-syntaxtree-creator-of-unityvs-plugin-for-visual-studio.aspx'
 category: 5a88e1aebd6dca0d5f0d2998
 slug: 'microsoft-acquires-syntaxtree-creator-of-unityvs-plugin-for-visual-studio'

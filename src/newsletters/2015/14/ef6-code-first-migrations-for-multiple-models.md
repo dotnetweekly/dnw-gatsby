@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2718
-title: 'EF6 Code First Migrations for Multiple Models'
+title: "EF6 Code First Migrations for Multiple Models"
 url: 'https://msdn.microsoft.com/en-us/magazine/dn948104.aspx'
 category: 5a88e1adbd6dca0d5f0d2718
 slug: 'ef6-code-first-migrations-for-multiple-models'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2768
-title: 'Performance Improvement When Debugging .NET Code With Visual Studio 2015'
+title: "Performance Improvement When Debugging .NET Code With Visual Studio 2015"
 url: 'http://blogs.msdn.com/b/visualstudioalm/archive/2015/02/23/performance-improvement-when-debugging-net-code-with-visual-studio-2015.aspx'
 category: 5a88e1adbd6dca0d5f0d2768
 slug: 'performance-improvement-when-debugging-net-code-with-visual-studio-2015'

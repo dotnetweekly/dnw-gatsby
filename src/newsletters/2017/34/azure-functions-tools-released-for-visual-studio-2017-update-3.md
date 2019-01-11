@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1d44
-title: 'Azure Functions Tools released for Visual Studio 2017 Update 3'
+title: "Azure Functions Tools released for Visual Studio 2017 Update 3"
 url: 'https://blogs.msdn.microsoft.com/appserviceteam/2017/08/14/azure-functions-tools-released-for-visual-studio-2017-update-3/'
 category: 5a88e1abbd6dca0d5f0d1d44
 slug: 'azure-functions-tools-released-for-visual-studio-2017-update-3'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d28ae
-title: 'ASP.NET Identity 2.0: Introduction to Working with Identity 2.0 and Web API 2.2'
+title: "ASP.NET Identity 2.0: Introduction to Working with Identity 2.0 and Web API 2.2"
 url: 'http://www.codeproject.com/Articles/823263/ASP-NET-Identity-Introduction-to-Working-with-Iden'
 category: 5a88e1aebd6dca0d5f0d28ae
 slug: 'asp-net-identity-2-0-introduction-to-working-with-identity-2-0-and-web-api-2-2'

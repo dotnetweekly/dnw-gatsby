@@ -1,6 +1,6 @@
 ---
 _id: 5b169e48d15d388524ee6102
-title: 'Introducing fuget.org'
+title: "Introducing fuget.org"
 url: 'http://praeclarum.org/post/174440517348/introducing-fugetorg'
 category: 5b169e48d15d388524ee6102
 slug: 'introducing-fugetorg'

@@ -1,6 +1,6 @@
 ---
 _id: 5bb5a4df15695b074bf150ca
-title: 'The .NET Framework is Done!'
+title: "The .NET Framework is Done!"
 url: 'https://medium.com/@andy.watt83/the-net-framework-is-done-8aec3bbae12d'
 category: 5bb5a4df15695b074bf150ca
 slug: 'the-net-framework-is-done'

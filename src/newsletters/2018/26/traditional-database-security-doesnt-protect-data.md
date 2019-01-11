@@ -1,6 +1,6 @@
 ---
 _id: 5b31103f4d8b02d88aeaa34d
-title: 'Traditional database security doesn’t protect data'
+title: "Traditional database security doesn’t protect data"
 url: 'https://www.red-gate.com/blog/audit-and-compliance/traditional-database-security-doesnt-protect-data'
 category: 5b31103f4d8b02d88aeaa34d
 slug: 'traditional-database-security-doesnt-protect-data'

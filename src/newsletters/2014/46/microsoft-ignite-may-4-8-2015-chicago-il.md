@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2858
-title: 'Microsoft Ignite | May 4–8, 2015 Chicago, IL'
+title: "Microsoft Ignite | May 4–8, 2015 Chicago, IL"
 url: 'http://ignite.microsoft.com/'
 category: 5a88e1aebd6dca0d5f0d2858
 slug: 'microsoft-ignite-may-4-8-2015-chicago-il'

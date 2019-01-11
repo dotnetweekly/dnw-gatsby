@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d21a2
-title: 'Google releases .Net APIs for Google Cloud'
+title: "Google releases .Net APIs for Google Cloud"
 url: 'https://www.infoq.com/news/2016/10/dotnet-google-cloud'
 category: 5a88e1acbd6dca0d5f0d21a2
 slug: 'google-releases-net-apis-for-google-cloud'

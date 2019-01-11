@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d21b8
-title: 'Microsoft Open Sources P'
+title: "Microsoft Open Sources P"
 url: 'http://www.i-programmer.info/news/98-languages/10186-microsoft-open-sources-p.html'
 category: 5a88e1acbd6dca0d5f0d21b8
 slug: 'microsoft-open-sources-p'

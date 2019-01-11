@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2ad4
-title: 'Deploying a DACPAC with Visual Studio'
+title: "Deploying a DACPAC with Visual Studio"
 url: 'http://msmvps.com/blogs/deborahk/archive/2014/02/05/deploying-a-dacpac-with-visual-studio.aspx'
 category: 5a88e1aebd6dca0d5f0d2ad4
 slug: 'deploying-a-dacpac-with-visual-studio'

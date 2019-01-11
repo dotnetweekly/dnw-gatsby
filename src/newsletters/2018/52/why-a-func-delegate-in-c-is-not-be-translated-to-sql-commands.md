@@ -1,6 +1,6 @@
 ---
 _id: 5c26efcb745cd0837b0206c8
-title: 'Why a func delegate in c# is not be translated to sql commands'
+title: "Why a func delegate in c# is not be translated to sql commands"
 url: 'http://coderethinked.com/why-func-delegate-is-not-translated-to-sql/'
 category: 5c26efcb745cd0837b0206c8
 slug: 'why-a-func-delegate-in-c-is-not-be-translated-to-sql-commands'

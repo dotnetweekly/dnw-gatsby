@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1f38
-title: 'ASP.NET Core - Real-World ASP.NET Core MVC Filters'
+title: "ASP.NET Core - Real-World ASP.NET Core MVC Filters"
 url: 'https://msdn.microsoft.com/magazine/mt767699'
 category: 5a88e1abbd6dca0d5f0d1f38
 slug: 'asp-net-core-real-world-asp-net-core-mvc-filters-2'

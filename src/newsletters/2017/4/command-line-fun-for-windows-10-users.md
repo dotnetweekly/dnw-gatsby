@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2060
-title: 'Command Line Fun for Windows 10 Users'
+title: "Command Line Fun for Windows 10 Users"
 url: 'http://michaelcrump.net/command-line-fun-for-win10/'
 category: 5a88e1acbd6dca0d5f0d2060
 slug: 'command-line-fun-for-windows-10-users'

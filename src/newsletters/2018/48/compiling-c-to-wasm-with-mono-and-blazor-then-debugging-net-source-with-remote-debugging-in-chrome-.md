@@ -1,6 +1,6 @@
 ---
 _id: 5bfd1a0dd9a5939a74f70e5c
-title: 'Compiling C# to WASM with Mono and Blazor then Debugging .NET Source with Remote Debugging in Chrome DevTools'
+title: "Compiling C# to WASM with Mono and Blazor then Debugging .NET Source with Remote Debugging in Chrome DevTools"
 url: 'https://www.hanselman.com/blog/CompilingCToWASMWithMonoAndBlazorThenDebuggingNETSourceWithRemoteDebuggingInChromeDevTools.aspx '
 category: 5bfd1a0dd9a5939a74f70e5c
 slug: 'compiling-c-to-wasm-with-mono-and-blazor-then-debugging-net-source-with-remote-debugging-in-chrome-'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d289c
-title: 'Visual Studio and TFS 2013.4 (Update 4) Release Candidate'
+title: "Visual Studio and TFS 2013.4 (Update 4) Release Candidate"
 url: 'http://blogs.msdn.com/b/bharry/archive/2014/10/16/visual-studio-and-tfs-2013-4-update-4-release-candidate.aspx'
 category: 5a88e1aebd6dca0d5f0d289c
 slug: 'visual-studio-and-tfs-2013-4-update-4-release-candidate'

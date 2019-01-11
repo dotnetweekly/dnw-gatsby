@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d25d8
-title: 'Building AngularJS application with TypeScript and Visual Studio Code'
+title: "Building AngularJS application with TypeScript and Visual Studio Code"
 url: 'http://www.codeproject.com/Articles/1019920/Building-AngularJS-application-with-TypeScript-and'
 category: 5a88e1adbd6dca0d5f0d25d8
 slug: 'building-angularjs-application-with-typescript-and-visual-studio-code'

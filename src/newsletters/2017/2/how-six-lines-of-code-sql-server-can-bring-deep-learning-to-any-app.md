@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d20a2
-title: 'How six lines of code + SQL Server can bring Deep Learning to ANY App'
+title: "How six lines of code + SQL Server can bring Deep Learning to ANY App"
 url: 'https://blogs.technet.microsoft.com/dataplatforminsider/2017/01/05/how-six-lines-of-code-sql-server-can-bring-deep-learning-to-any-app/'
 category: 5a88e1acbd6dca0d5f0d20a2
 slug: 'how-six-lines-of-code-sql-server-can-bring-deep-learning-to-any-app'

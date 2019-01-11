@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d20f2
-title: 'Razor Engine for Parsing Razor Pages Stored as String'
+title: "Razor Engine for Parsing Razor Pages Stored as String"
 url: 'https://dzone.com/articles/razor-engine-for-parsing-razor-pages-stored-as-str'
 category: 5a88e1acbd6dca0d5f0d20f2
 slug: 'razor-engine-for-parsing-razor-pages-stored-as-string'

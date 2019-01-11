@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1f7a
-title: 'ASP.NET Core Anatomy – UseMvc'
+title: "ASP.NET Core Anatomy – UseMvc"
 url: 'https://www.stevejgordon.co.uk/asp-net-core-anatomy-part-3-addmvc'
 category: 5a88e1abbd6dca0d5f0d1f7a
 slug: 'asp-net-core-anatomy-usemvc'

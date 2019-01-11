@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1e00
-title: 'Local functions in C# 7.0'
+title: "Local functions in C# 7.0"
 url: 'http://gunnarpeipman.com/2017/07/local-functions/'
 category: 5a88e1abbd6dca0d5f0d1e00
 slug: 'local-functions-in-csharp-7-0'

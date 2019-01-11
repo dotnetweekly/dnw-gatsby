@@ -1,6 +1,6 @@
 ---
 _id: 5b595f4a13da0bef35d112f7
-title: 'C# 8: Indexes and Ranges'
+title: "C# 8: Indexes and Ranges"
 url: 'https://csharp.christiannagel.com/2018/07/24/indexesandranges/'
 category: 5b595f4a13da0bef35d112f7
 slug: 'c-8-indexes-and-ranges'

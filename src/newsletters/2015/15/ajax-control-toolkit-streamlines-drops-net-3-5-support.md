@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2702
-title: 'Ajax Control Toolkit Streamlines, Drops .NET 3.5 Support'
+title: "Ajax Control Toolkit Streamlines, Drops .NET 3.5 Support"
 url: 'http://visualstudiomagazine.com/articles/2015/04/09/ajax-control-toolkit-drops-net-35.aspx'
 category: 5a88e1adbd6dca0d5f0d2702
 slug: 'ajax-control-toolkit-streamlines-drops-net-3-5-support'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1f64
-title: 'Why .NET Core Made C# Your Next Programming Language to Learn'
+title: "Why .NET Core Made C# Your Next Programming Language to Learn"
 url: 'https://dzone.com/articles/why-net-core-made-c-your-next-programming-language'
 category: 5a88e1abbd6dca0d5f0d1f64
 slug: 'why-net-core-made-c-your-next-programming-language-to-learn'

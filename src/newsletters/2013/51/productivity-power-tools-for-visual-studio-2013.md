@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b38
-title: 'Productivity Power Tools for Visual Studio 2013'
+title: "Productivity Power Tools for Visual Studio 2013"
 url: 'http://blogs.msdn.com/b/visualstudio/archive/2013/12/19/productivity-power-tools-for-visual-studio-2013.aspx'
 category: 5a88e1aebd6dca0d5f0d2b38
 slug: 'productivity-power-tools-for-visual-studio-2013'

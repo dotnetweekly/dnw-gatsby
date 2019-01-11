@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2326
-title: 'Making it easier to port to .NET Core'
+title: "Making it easier to port to .NET Core"
 url: 'https://blogs.msdn.microsoft.com/dotnet/2016/05/27/making-it-easier-to-port-to-net-core/'
 category: 5a88e1acbd6dca0d5f0d2326
 slug: 'making-it-easier-to-port-to-net-core'

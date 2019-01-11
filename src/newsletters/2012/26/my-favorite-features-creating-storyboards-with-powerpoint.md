@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2fde
-title: 'My Favorite Features: Creating Storyboards with PowerPoint'
+title: "My Favorite Features: Creating Storyboards with PowerPoint"
 url: 'http://blogs.msdn.com/b/jasonz/archive/2012/05/24/my-favorite-features-creating-storyboards-with-powerpoint.aspx'
 category: 5a88e1afbd6dca0d5f0d2fde
 slug: 'my-favorite-features-creating-storyboards-with-powerpoint'

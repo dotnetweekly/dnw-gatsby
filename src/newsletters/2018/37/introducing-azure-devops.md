@@ -1,6 +1,6 @@
 ---
 _id: 5b988368d089496c536ca3ef
-title: 'Introducing Azure DevOps'
+title: "Introducing Azure DevOps"
 url: 'https://azure.microsoft.com/en-us/blog/introducing-azure-devops/'
 category: 5b988368d089496c536ca3ef
 slug: 'introducing-azure-devops'

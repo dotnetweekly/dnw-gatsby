@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2310
-title: 'dotnetConf is back! Free live streaming developer event – June 7th-9th 2016'
+title: "dotnetConf is back! Free live streaming developer event – June 7th-9th 2016"
 url: 'https://blogs.msdn.microsoft.com/visualstudio/2016/06/06/dotnetconf-free-live-streaming-developer-event-2016/'
 category: 5a88e1acbd6dca0d5f0d2310
 slug: 'dotnetconf-is-back-free-live-streaming-developer-event-june-7th-9th-2016'

@@ -1,6 +1,6 @@
 ---
 _id: 5baf7c95af8d5e2466ca6236
-title: 'What I"ve Learned So Far Building Coravel (Open Source .NET Core Tooling) - Part 1'
+title: "What I've Learned So Far Building Coravel (Open Source .NET Core Tooling) - Part 1"
 url: 'https://www.blog.jamesmichaelhickey.com/what-i-ve-learned-so-far-building-coravel-open-source-net-core-tooling/'
 category: 5baf7c95af8d5e2466ca6236
 slug: 'what-ive-learned-so-far-building-coravel-open-source-net-core-tooling-part-1'

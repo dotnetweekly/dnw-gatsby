@@ -1,6 +1,6 @@
 ---
 _id: 5bb5a48615695b7387f150c8
-title: 'Introducing Azure Functions 2.0'
+title: "Introducing Azure Functions 2.0"
 url: 'https://azure.microsoft.com/en-us/blog/introducing-azure-functions-2-0/'
 category: 5bb5a48615695b7387f150c8
 slug: 'introducing-azure-functions-20'

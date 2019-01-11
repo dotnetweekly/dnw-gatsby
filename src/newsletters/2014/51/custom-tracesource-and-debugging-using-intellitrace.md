@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d27fe
-title: 'Custom TraceSource and debugging using IntelliTrace'
+title: "Custom TraceSource and debugging using IntelliTrace"
 url: 'http://blogs.msdn.com/b/visualstudioalm/archive/2014/12/17/custom-tracesource-and-debugging-using-intellitrace.aspx'
 category: 5a88e1adbd6dca0d5f0d27fe
 slug: 'custom-tracesource-and-debugging-using-intellitrace'

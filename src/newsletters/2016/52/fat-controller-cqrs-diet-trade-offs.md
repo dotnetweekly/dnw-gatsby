@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d20d6
-title: 'Fat Controller CQRS Diet: Trade-offs'
+title: "Fat Controller CQRS Diet: Trade-offs"
 url: 'http://codeopinion.com/fat-controller-cqrs-diet-trade-offs/'
 category: 5a88e1acbd6dca0d5f0d20d6
 slug: 'fat-controller-cqrs-diet-trade-offs'

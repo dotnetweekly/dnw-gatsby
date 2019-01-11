@@ -1,6 +1,6 @@
 ---
 _id: 5b288db232697b83be30a47b
-title: 'Building a cloud editor with SignalR and ASP.NET Core 2.1'
+title: "Building a cloud editor with SignalR and ASP.NET Core 2.1"
 url: 'https://blog.elmah.io/building-a-cloud-editor-with-signalr-and-asp-net-core-2-1/'
 category: 5b288db232697b83be30a47b
 slug: 'building-a-cloud-editor-with-signalr-and-aspnet-core-21'

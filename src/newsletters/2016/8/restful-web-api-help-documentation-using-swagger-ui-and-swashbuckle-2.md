@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2412
-title: 'RESTful Web API Help Documentation using Swagger UI and Swashbuckle'
+title: "RESTful Web API Help Documentation using Swagger UI and Swashbuckle"
 url: 'http://www.codeproject.com/Articles/1078249/RESTful-Web-API-Help-Documentation-using-Swagger-U'
 category: 5a88e1acbd6dca0d5f0d2412
 slug: 'restful-web-api-help-documentation-using-swagger-ui-and-swashbuckle-2'

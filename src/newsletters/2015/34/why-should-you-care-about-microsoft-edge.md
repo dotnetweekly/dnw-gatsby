@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d25e0
-title: 'Why should you care about Microsoft Edge?'
+title: "Why should you care about Microsoft Edge?"
 url: 'http://blogs.msdn.com/b/drougge/archive/2015/08/19/why-should-you-care-about-microsoft-edge.aspx'
 category: 5a88e1adbd6dca0d5f0d25e0
 slug: 'why-should-you-care-about-microsoft-edge'

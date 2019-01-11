@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2c7a
-title: 'Creating XAML Code Snippets for Visual Studio 2013'
+title: "Creating XAML Code Snippets for Visual Studio 2013"
 url: 'http://timheuer.com/blog/archive/2013/07/08/xaml-code-snippets-for-visual-studio.aspx'
 category: 5a88e1afbd6dca0d5f0d2c7a
 slug: 'creating-xaml-code-snippets-for-visual-studio-2013'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2c66
-title: 'Async Actions in ASP.NET MVC 4'
+title: "Async Actions in ASP.NET MVC 4"
 url: 'http://visualstudiomagazine.com/articles/2013/07/23/async-actions-in-aspnet-mvc-4.aspx'
 category: 5a88e1aebd6dca0d5f0d2c66
 slug: 'async-actions-in-asp-net-mvc-4'

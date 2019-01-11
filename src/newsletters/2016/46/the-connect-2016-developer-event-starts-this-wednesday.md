@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2172
-title: 'The Connect(); 2016 developer event starts this Wednesday!'
+title: "The Connect(); 2016 developer event starts this Wednesday!"
 url: 'https://connectevent.microsoft.com/'
 category: 5a88e1acbd6dca0d5f0d2172
 slug: 'the-connect-2016-developer-event-starts-this-wednesday'

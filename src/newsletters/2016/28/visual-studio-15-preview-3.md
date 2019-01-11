@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d22c4
-title: 'Visual Studio "15" Preview 3'
+title: "Visual Studio '15' Preview 3"
 url: 'https://blogs.msdn.microsoft.com/visualstudio/2016/07/07/visual-studio-15-preview-3/#'
 category: 5a88e1acbd6dca0d5f0d22c4
 slug: 'visual-studio-15-preview-3'

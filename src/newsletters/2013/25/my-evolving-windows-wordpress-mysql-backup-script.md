@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2c9c
-title: 'My evolving windows WordPress & MySQL backup script.'
+title: "My evolving windows WordPress & MySQL backup script."
 url: 'http://inzi.com/2012/05/my-evolving-windows-wordpress-mysql-backup-script/'
 category: 5a88e1afbd6dca0d5f0d2c9c
 slug: 'my-evolving-windows-wordpress-mysql-backup-script'

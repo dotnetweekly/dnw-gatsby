@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2822
-title: 'Specification pattern in C#'
+title: "Specification pattern in C#"
 url: 'http://www.codeproject.com/Articles/670115/Specification-pattern-in-Csharp'
 category: 5a88e1aebd6dca0d5f0d2822
 slug: 'specification-pattern-in-c'

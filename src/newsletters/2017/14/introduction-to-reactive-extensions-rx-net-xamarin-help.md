@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1f3c
-title: 'Introduction to Reactive Extensions (Rx.NET) - Xamarin Help'
+title: "Introduction to Reactive Extensions (Rx.NET) - Xamarin Help"
 url: 'https://xamarinhelp.com/introduction-reactive-extensions-rx-net/'
 category: 5a88e1abbd6dca0d5f0d1f3c
 slug: 'introduction-to-reactive-extensions-rx-net-xamarin-help'

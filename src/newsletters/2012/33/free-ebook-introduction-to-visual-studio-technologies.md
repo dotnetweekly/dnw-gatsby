@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2f54
-title: 'Free Ebook! Introduction to Visual Studio technologies'
+title: "Free Ebook! Introduction to Visual Studio technologies"
 url: 'http://studentguru.gr/downloads/m/manuals/134464.aspx'
 category: 5a88e1afbd6dca0d5f0d2f54
 slug: 'free-ebook-introduction-to-visual-studio-technologies'

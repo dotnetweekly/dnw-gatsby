@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1e30
-title: 'Save the date: Microsoft Edge Web Summit 2017 comes to Seattle on September 13th'
+title: "Save the date: Microsoft Edge Web Summit 2017 comes to Seattle on September 13th"
 url: 'https://blogs.windows.com/msedgedev/2017/06/20/save-the-date-edge-web-summit-2017-september-13th-seattle/#Wo2y3ABoISoxEiPp.97'
 category: 5a88e1abbd6dca0d5f0d1e30
 slug: 'save-the-date-microsoft-edge-web-summit-2017-comes-to-seattle-on-september-13th'

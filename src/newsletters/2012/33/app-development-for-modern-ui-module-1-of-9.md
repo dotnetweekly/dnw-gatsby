@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2f5a
-title: 'App Development for Modern UI: Module 1 of 9'
+title: "App Development for Modern UI: Module 1 of 9"
 url: 'https://www.facultyresourcecenter.com/curriculum/8990-App-Development-for-Modern-UI-Module-1.aspx?c1=en-us&c2=0'
 category: 5a88e1afbd6dca0d5f0d2f5a
 slug: 'app-development-for-modern-ui-module-1-of-9'

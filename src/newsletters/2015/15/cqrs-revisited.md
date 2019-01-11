@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d270a
-title: 'CQRS revisited'
+title: "CQRS revisited"
 url: 'https://lostechies.com/gabrielschenker/2015/04/07/cqrs-revisited/'
 category: 5a88e1adbd6dca0d5f0d270a
 slug: 'cqrs-revisited'

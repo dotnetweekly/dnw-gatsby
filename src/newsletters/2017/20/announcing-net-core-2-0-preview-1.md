@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1edc
-title: 'Announcing .NET Core 2.0 Preview 1'
+title: "Announcing .NET Core 2.0 Preview 1"
 url: 'https://blogs.msdn.microsoft.com/dotnet/2017/05/10/announcing-net-core-2-0-preview-1/'
 category: 5a88e1abbd6dca0d5f0d1edc
 slug: 'announcing-net-core-2-0-preview-1'

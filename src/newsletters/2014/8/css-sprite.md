@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2ab2
-title: 'css-sprite'
+title: "css-sprite"
 url: 'https://github.com/aslansky/css-sprite'
 category: 5a88e1aebd6dca0d5f0d2ab2
 slug: 'css-sprite'

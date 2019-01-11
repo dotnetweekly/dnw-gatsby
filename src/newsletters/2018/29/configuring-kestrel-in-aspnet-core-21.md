@@ -1,6 +1,6 @@
 ---
 _id: 5b5039a499973771d3c806a9
-title: 'Configuring Kestrel in ASP.NET Core 2.1'
+title: "Configuring Kestrel in ASP.NET Core 2.1"
 url: 'https://www.telerik.com/blogs/configuring-kestrel-in-asp-net-core-2-1'
 category: 5b5039a499973771d3c806a9
 slug: 'configuring-kestrel-in-aspnet-core-21'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a7a
-title: 'Open Source and Microsoft Developer Tools'
+title: "Open Source and Microsoft Developer Tools"
 url: 'http://blogs.msdn.com/b/somasegar/archive/2014/03/20/open-source-and-microsoft-developer-tools.aspx'
 category: 5a88e1aebd6dca0d5f0d2a7a
 slug: 'open-source-and-microsoft-developer-tools'

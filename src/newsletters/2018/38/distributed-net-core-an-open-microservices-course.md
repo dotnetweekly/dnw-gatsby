@@ -1,6 +1,6 @@
 ---
 _id: 5ba1e9657a4fc46d9cdaab94
-title: 'Distributed .NET Core (an open microservices course)'
+title: "Distributed .NET Core (an open microservices course)"
 url: 'https://piotrgankiewicz.com/2018/09/19/distributed-net-core-teaser/'
 category: 5ba1e9657a4fc46d9cdaab94
 slug: 'distributed-net-core-an-open-microservices-course'

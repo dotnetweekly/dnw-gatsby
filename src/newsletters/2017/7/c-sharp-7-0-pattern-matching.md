@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d2006
-title: 'C# 7.0 – Pattern Matching'
+title: "C# 7.0 – Pattern Matching"
 url: 'https://csharp.christiannagel.com/2017/02/15/patternmatching/'
 category: 5a88e1abbd6dca0d5f0d2006
 slug: 'c-sharp-7-0-pattern-matching'

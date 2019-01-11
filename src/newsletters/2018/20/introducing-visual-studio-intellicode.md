@@ -1,6 +1,6 @@
 ---
 _id: 5afde61a416efa0873328cde
-title: 'Introducing Visual Studio IntelliCode'
+title: "Introducing Visual Studio IntelliCode"
 url: 'https://blogs.msdn.microsoft.com/visualstudio/2018/05/07/introducing-visual-studio-intellicode/'
 category: 5afde61a416efa0873328cde
 slug: 'introducing-visual-studio-intellicode'

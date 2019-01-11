@@ -1,6 +1,6 @@
 ---
 _id: 5afde656416efa53f9328cdf
-title: 'Microsoft Build 2018: New releases for Visual Studio, Visual Studio for Mac, .NET Core and Xamarin.Forms'
+title: "Microsoft Build 2018: New releases for Visual Studio, Visual Studio for Mac, .NET Core and Xamarin.Forms"
 url: 'https://blogs.msdn.microsoft.com/visualstudio/2018/05/07/microsoft-build-2018-new-releases-for-visual-studio-visual-studio-for-mac-net-core-and-xamarin-forms/'
 category: 5afde656416efa53f9328cdf
 slug: 'microsoft-build-2018-new-releases-for-visual-studio-visual-studio-for-mac-net-core-and-xamarinforms'

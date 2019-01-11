@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d29c4
-title: 'Introduction to ASP.NET MVC'
+title: "Introduction to ASP.NET MVC"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/introduction-to-asp-net-mvc?loc=zbtfz_zYFCz&prod=zOtProdz&tech=zWDz&lang=zASPNz&prog=zMVAz&type=zEvz&country=zUSz'
 category: 5a88e1aebd6dca0d5f0d29c4
 slug: 'introduction-to-asp-net-mvc-2'

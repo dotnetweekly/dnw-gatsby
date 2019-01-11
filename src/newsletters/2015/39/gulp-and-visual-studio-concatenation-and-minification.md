@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2580
-title: 'Gulp and Visual Studio: concatenation and minification'
+title: "Gulp and Visual Studio: concatenation and minification"
 url: 'http://www.cognim.co.uk/gulp-vs-minification/'
 category: 5a88e1adbd6dca0d5f0d2580
 slug: 'gulp-and-visual-studio-concatenation-and-minification'

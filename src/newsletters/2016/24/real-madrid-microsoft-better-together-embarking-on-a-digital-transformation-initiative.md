@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d230c
-title: 'Real Madrid & Microsoft: Better Together - Embarking on a Digital Transformation Initiative'
+title: "Real Madrid & Microsoft: Better Together - Embarking on a Digital Transformation Initiative"
 url: 'https://channel9.msdn.com/Shows/TechNet+Radio/TNR1662'
 category: 5a88e1acbd6dca0d5f0d230c
 slug: 'real-madrid-microsoft-better-together-embarking-on-a-digital-transformation-initiative'

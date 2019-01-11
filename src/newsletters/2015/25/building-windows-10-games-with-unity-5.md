@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d265c
-title: 'Building Windows 10 Games with Unity 5'
+title: "Building Windows 10 Games with Unity 5"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/building-windows-10-games-with-unity-5'
 category: 5a88e1adbd6dca0d5f0d265c
 slug: 'building-windows-10-games-with-unity-5'

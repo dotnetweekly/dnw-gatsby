@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1aa6
-title: 'Service Fabric 6.1 Release'
+title: "Service Fabric 6.1 Release"
 url: 'https://blogs.msdn.microsoft.com/azureservicefabric/2018/01/26/service-fabric-6-1-release/'
 category: 5a88e1aabd6dca0d5f0d1aa6
 slug: 'service-fabric-6-1-release'

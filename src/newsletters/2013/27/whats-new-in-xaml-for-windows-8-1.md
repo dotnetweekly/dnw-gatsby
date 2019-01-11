@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2c7e
-title: 'What’s new in XAML for Windows 8.1'
+title: "What’s new in XAML for Windows 8.1"
 url: 'http://www.dotnetcurry.com/ShowArticle.aspx?ID=912'
 category: 5a88e1afbd6dca0d5f0d2c7e
 slug: 'whats-new-in-xaml-for-windows-8-1'

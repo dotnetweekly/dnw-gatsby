@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2e10
-title: 'Part 3: Introduction to XAML'
+title: "Part 3: Introduction to XAML"
 url: 'http://channel9.msdn.com/Series/Windows-Store-apps-for-Absolute-Beginners-with-C-/Part-3-Introduction-to-XAML'
 category: 5a88e1afbd6dca0d5f0d2e10
 slug: 'part-3-introduction-to-xaml'

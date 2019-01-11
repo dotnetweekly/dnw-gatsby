@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d235c
-title: 'Free eBook C# 6.0: What’s New Quick Start Complete'
+title: "Free eBook C# 6.0: What’s New Quick Start Complete"
 url: 'http://dontcodetired.com/blog/post/Free-eBook-C-60-Whate28099s-New-Quick-Start-Complete.aspx'
 category: 5a88e1acbd6dca0d5f0d235c
 slug: 'free-ebook-c-6-0-whats-new-quick-start-complete'

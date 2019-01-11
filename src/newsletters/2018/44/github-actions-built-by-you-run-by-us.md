@@ -1,6 +1,6 @@
 ---
 _id: 5bda8bd91428e6010594dad7
-title: 'GitHub Actions: built by you, run by us'
+title: "GitHub Actions: built by you, run by us"
 url: 'https://blog.github.com/2018-10-17-action-demos/'
 category: 5bda8bd91428e6010594dad7
 slug: 'github-actions-built-by-you-run-by-us'

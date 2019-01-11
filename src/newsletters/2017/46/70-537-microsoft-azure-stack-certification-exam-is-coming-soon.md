@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1bd0
-title: '70-537 Microsoft Azure Stack Certification Exam is Coming Soon'
+title: "70-537 Microsoft Azure Stack Certification Exam is Coming Soon"
 url: 'https://buildazure.com/2017/11/14/70-537-microsoft-azure-stack-certification-exam-is-coming-soon/'
 category: 5a88e1aabd6dca0d5f0d1bd0
 slug: '70-537-microsoft-azure-stack-certification-exam-is-coming-soon'

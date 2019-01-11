@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d216e
-title: 'ASP.NET Core RESTful Web API versioning made easy'
+title: "ASP.NET Core RESTful Web API versioning made easy"
 url: 'http://www.hanselman.com/blog/ASPNETCoreRESTfulWebAPIVersioningMadeEasy.aspx'
 category: 5a88e1acbd6dca0d5f0d216e
 slug: 'asp-net-core-restful-web-api-versioning-made-easy'

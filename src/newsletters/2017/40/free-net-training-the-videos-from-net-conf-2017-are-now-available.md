@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1c90
-title: 'Free .NET Training - The Videos from .NET Conf 2017 are now available'
+title: "Free .NET Training - The Videos from .NET Conf 2017 are now available"
 url: 'https://www.hanselman.com/blog/FreeNETTrainingTheVideosFromNETConf2017AreNowAvailable.aspx'
 category: 5a88e1abbd6dca0d5f0d1c90
 slug: 'free-net-training-the-videos-from-net-conf-2017-are-now-available'

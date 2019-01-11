@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d3044
-title: 'MSDN Webcast series on building Metro style apps'
+title: "MSDN Webcast series on building Metro style apps"
 url: 'http://blogs.msdn.com/b/jaimer/archive/2012/05/10/msdn-webcast-series-on-building-metro-style-apps.aspx'
 category: 5a88e1afbd6dca0d5f0d3044
 slug: 'msdn-webcast-series-on-building-metro-style-apps'

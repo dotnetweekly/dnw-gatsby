@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1fac
-title: 'Global Azure Bootcamp 2017'
+title: "Global Azure Bootcamp 2017"
 url: 'https://global.azurebootcamp.net/'
 category: 5a88e1abbd6dca0d5f0d1fac
 slug: 'global-azure-bootcamp-2017'

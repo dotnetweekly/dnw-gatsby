@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2646
-title: 'IntelliTest - One Test to rule them all'
+title: "IntelliTest - One Test to rule them all"
 url: 'http://blogs.msdn.com/b/visualstudioalm/archive/2015/07/05/intellitest-one-test-to-rule-them-all.aspx'
 category: 5a88e1adbd6dca0d5f0d2646
 slug: 'intellitest-one-test-to-rule-them-all'

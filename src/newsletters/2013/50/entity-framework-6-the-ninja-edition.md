@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b52
-title: 'Entity Framework 6: The Ninja Edition'
+title: "Entity Framework 6: The Ninja Edition"
 url: 'http://msdn.microsoft.com/en-us/magazine/dn532202.aspx'
 category: 5a88e1aebd6dca0d5f0d2b52
 slug: 'entity-framework-6-the-ninja-edition'

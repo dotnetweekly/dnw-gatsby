@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2e14
-title: 'Modern JavaScript: Develop and Design'
+title: "Modern JavaScript: Develop and Design"
 url: 'http://www.amazon.com/Modern-JavaScript-Develop-Larry-Ullman/dp/0321812522/'
 category: 5a88e1afbd6dca0d5f0d2e14
 slug: 'modern-javascript-develop-and-design'

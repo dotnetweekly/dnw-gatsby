@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2866
-title: 'Improving your MVC Unit Tests with Interfaces, Dependency Injection, and Mocking'
+title: "Improving your MVC Unit Tests with Interfaces, Dependency Injection, and Mocking"
 url: 'http://www.codeproject.com/Articles/835558/Improving-your-MVC-Unit-Tests-with-Interfaces-Depe'
 category: 5a88e1aebd6dca0d5f0d2866
 slug: 'improving-your-mvc-unit-tests-with-interfaces-dependency-injection-and-mocking'

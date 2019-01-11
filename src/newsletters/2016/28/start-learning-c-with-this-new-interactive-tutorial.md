@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d22c0
-title: 'Start learning C# with this new interactive tutorial'
+title: "Start learning C# with this new interactive tutorial"
 url: 'https://www.microsoft.com/net/tutorials/csharp/getting-started'
 category: 5a88e1acbd6dca0d5f0d22c0
 slug: 'start-learning-c-with-this-new-interactive-tutorial'

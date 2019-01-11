@@ -1,6 +1,6 @@
 ---
 _id: 5bda8c2d1428e64cbe94dad8
-title: 'Are There Actually Companies out There That Write Good Code?'
+title: "Are There Actually Companies out There That Write Good Code?"
 url: 'https://daedtech.com/are-there-actually-companies-out-there-that-write-good-code/'
 category: 5bda8c2d1428e64cbe94dad8
 slug: 'are-there-actually-companies-out-there-that-write-good-code'

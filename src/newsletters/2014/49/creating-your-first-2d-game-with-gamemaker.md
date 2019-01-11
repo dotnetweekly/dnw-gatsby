@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d281a
-title: 'Creating Your First 2D Game with GameMaker'
+title: "Creating Your First 2D Game with GameMaker"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/creating-your-first-2d-game-with-gamemaker'
 category: 5a88e1aebd6dca0d5f0d281a
 slug: 'creating-your-first-2d-game-with-gamemaker'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d3c
-title: 'Chrome Extensions for knockoutjs'
+title: "Chrome Extensions for knockoutjs"
 url: 'https://github.com/timstuyckens/chromeextensions-knockoutjs'
 category: 5a88e1afbd6dca0d5f0d2d3c
 slug: 'chrome-extensions-for-knockoutjs'

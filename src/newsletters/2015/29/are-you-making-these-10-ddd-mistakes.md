@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d261e
-title: 'Are You Making These 10 DDD Mistakes?'
+title: "Are You Making These 10 DDD Mistakes?"
 url: 'http://danielwhittaker.me/2015/07/05/are-you-making-these-10-ddd-mistakes/?utm_source=dotnetweekly&utm_medium=email'
 category: 5a88e1adbd6dca0d5f0d261e
 slug: 'are-you-making-these-10-ddd-mistakes'

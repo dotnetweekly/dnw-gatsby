@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2ca0
-title: 'GETTING A GAME RATING CERTIFICATE FOR WINDOWS STORE AND WINDOWS PHONE'
+title: "GETTING A GAME RATING CERTIFICATE FOR WINDOWS STORE AND WINDOWS PHONE"
 url: 'http://devhammer.net/blog/getting-a-game-rating-certificate-for-windows-store-and-windows-phone'
 category: 5a88e1afbd6dca0d5f0d2ca0
 slug: 'getting-a-game-rating-certificate-for-windows-store-and-windows-phone'

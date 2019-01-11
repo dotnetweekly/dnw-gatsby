@@ -1,6 +1,6 @@
 ---
 _id: 5b9172dc1f9f2e28da857aa4
-title: 'Never Mind JavaScript, Here’s Blazor'
+title: "Never Mind JavaScript, Here’s Blazor"
 url: 'https://msdn.microsoft.com/magazine/mt829756'
 category: 5b9172dc1f9f2e28da857aa4
 slug: 'never-mind-javascript-heres-blazor'

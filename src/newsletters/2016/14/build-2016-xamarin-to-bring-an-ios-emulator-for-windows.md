@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d23b4
-title: 'Build 2016: Xamarin to bring an iOS emulator for Windows'
+title: "Build 2016: Xamarin to bring an iOS emulator for Windows"
 url: 'http://mspoweruser.com/build-2016-xamarin-to-bring-an-ios-emulator-for-windows/'
 category: 5a88e1acbd6dca0d5f0d23b4
 slug: 'build-2016-xamarin-to-bring-an-ios-emulator-for-windows'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2420
-title: '10 Interview Questions Every JavaScript Developer Should Know'
+title: "10 Interview Questions Every JavaScript Developer Should Know"
 url: 'https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95#.p3p1nk4qf'
 category: 5a88e1acbd6dca0d5f0d2420
 slug: '10-interview-questions-every-javascript-developer-should-know'

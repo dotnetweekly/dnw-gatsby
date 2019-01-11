@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1c1a
-title: 'Create your first function in Azure using Visual Studio'
+title: "Create your first function in Azure using Visual Studio"
 url: 'https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-your-first-function-visual-studio'
 category: 5a88e1aabd6dca0d5f0d1c1a
 slug: 'create-your-first-function-in-azure-using-visual-studio'

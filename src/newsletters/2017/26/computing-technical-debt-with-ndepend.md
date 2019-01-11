@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1e18
-title: 'Computing Technical Debt with NDepend'
+title: "Computing Technical Debt with NDepend"
 url: 'http://www.daedtech.com/computing-technical-debt-ndepend/'
 category: 5a88e1abbd6dca0d5f0d1e18
 slug: 'computing-technical-debt-with-ndepend'

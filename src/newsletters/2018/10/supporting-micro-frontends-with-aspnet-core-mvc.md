@@ -1,6 +1,6 @@
 ---
 _id: 5aa4161ada3bcd0e9d890d0b
-title: 'Supporting Micro-frontends with ASP.NET Core MVC'
+title: "Supporting Micro-frontends with ASP.NET Core MVC"
 url: 'https://blogs.msdn.microsoft.com/premier_developer/2018/03/09/supporting-micro-frontends-with-asp-net-core-mvc/'
 category: 5aa4161ada3bcd0e9d890d0b
 slug: 'supporting-micro-frontends-with-aspnet-core-mvc'

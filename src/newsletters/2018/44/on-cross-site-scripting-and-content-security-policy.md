@@ -1,6 +1,6 @@
 ---
 _id: 5bdb2a7c1428e6449794dae2
-title: 'On Cross-Site Scripting and Content Security Policy'
+title: "On Cross-Site Scripting and Content Security Policy"
 url: 'https://www.telerik.com/blogs/on-cross-site-scripting-and-content-security-policy'
 category: 5bdb2a7c1428e6449794dae2
 slug: 'on-cross-site-scripting-and-content-security-policy'

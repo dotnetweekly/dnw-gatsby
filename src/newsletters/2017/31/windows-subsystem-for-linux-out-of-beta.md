@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1d94
-title: 'Windows Subsystem for Linux out of Beta'
+title: "Windows Subsystem for Linux out of Beta"
 url: 'https://blogs.msdn.microsoft.com/commandline/2017/07/28/windows-subsystem-for-linux-out-of-beta/'
 category: 5a88e1abbd6dca0d5f0d1d94
 slug: 'windows-subsystem-for-linux-out-of-beta'

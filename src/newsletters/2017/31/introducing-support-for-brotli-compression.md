@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1d88
-title: 'Introducing Support for Brotli Compression'
+title: "Introducing Support for Brotli Compression"
 url: 'https://blogs.msdn.microsoft.com/dotnet/2017/07/27/introducing-support-for-brotli-compression/?utm_source=csharpdigest&utm_medium=email&utm_campaign=featured'
 category: 5a88e1abbd6dca0d5f0d1d88
 slug: 'introducing-support-for-brotli-compression'

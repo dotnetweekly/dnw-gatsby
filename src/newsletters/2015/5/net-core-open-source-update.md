@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d27a4
-title: '.NET Core Open Source Update'
+title: ".NET Core Open Source Update"
 url: 'http://blogs.msdn.com/b/dotnet/archive/2015/01/28/net-core-open-source-update.aspx'
 category: 5a88e1adbd6dca0d5f0d27a4
 slug: 'net-core-open-source-update'

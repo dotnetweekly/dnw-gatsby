@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1ef6
-title: 'Packaging a self-contained .NET Core app for Windows Installer'
+title: "Packaging a self-contained .NET Core app for Windows Installer"
 url: 'https://nblumhardt.com/2017/04/netcore-msi/'
 category: 5a88e1abbd6dca0d5f0d1ef6
 slug: 'packaging-a-self-contained-net-core-app-for-windows-installer'

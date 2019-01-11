@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2cae
-title: 'Visual Studio 2013'
+title: "Visual Studio 2013"
 url: 'http://blogs.msdn.com/b/bryang/archive/2013/06/03/visual-studio-2013.aspx'
 category: 5a88e1afbd6dca0d5f0d2cae
 slug: 'visual-studio-2013'

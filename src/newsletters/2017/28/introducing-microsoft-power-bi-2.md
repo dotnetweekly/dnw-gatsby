@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1de2
-title: 'Introducing Microsoft Power BI'
+title: "Introducing Microsoft Power BI"
 url: 'http://ligman.me/2tE789y'
 category: 5a88e1abbd6dca0d5f0d1de2
 slug: 'introducing-microsoft-power-bi-2'

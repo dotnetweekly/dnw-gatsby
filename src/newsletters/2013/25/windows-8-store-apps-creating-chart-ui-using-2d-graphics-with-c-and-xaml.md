@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2c98
-title: 'Windows 8 Store Apps: Creating Chart UI using 2D Graphics with C# and XAML'
+title: "Windows 8 Store Apps: Creating Chart UI using 2D Graphics with C# and XAML"
 url: 'http://www.dotnetcurry.com/ShowArticle.aspx?ID=909'
 category: 5a88e1afbd6dca0d5f0d2c98
 slug: 'windows-8-store-apps-creating-chart-ui-using-2d-graphics-with-c-and-xaml'

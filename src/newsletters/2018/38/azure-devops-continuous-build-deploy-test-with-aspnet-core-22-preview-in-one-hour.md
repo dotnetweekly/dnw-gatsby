@@ -1,6 +1,6 @@
 ---
 _id: 5ba45b6c7a4fc465b2daab9a
-title: 'Azure DevOps Continuous Build/Deploy/Test with ASP.NET Core 2.2 Preview in One Hour'
+title: "Azure DevOps Continuous Build/Deploy/Test with ASP.NET Core 2.2 Preview in One Hour"
 url: 'https://www.hanselman.com/blog/AzureDevOpsContinuousBuildDeployTestWithASPNETCore22PreviewInOneHour.aspx'
 category: 5ba45b6c7a4fc465b2daab9a
 slug: 'azure-devops-continuous-build-deploy-test-with-aspnet-core-22-preview-in-one-hour'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d224a
-title: 'July Update for the Visual Studio Code C/C++ extension'
+title: "July Update for the Visual Studio Code C/C++ extension"
 url: 'https://blogs.msdn.microsoft.com/vcblog/2016/07/26/july-update-for-the-visual-studio-code-cc-extension/'
 category: 5a88e1acbd6dca0d5f0d224a
 slug: 'july-update-for-the-visual-studio-code-cc-extension'

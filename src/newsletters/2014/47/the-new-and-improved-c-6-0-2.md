@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d283a
-title: 'The New and Improved C# 6.0'
+title: "The New and Improved C# 6.0"
 url: 'http://msdn.microsoft.com/en-us/magazine/dn802602.aspx'
 category: 5a88e1aebd6dca0d5f0d283a
 slug: 'the-new-and-improved-c-6-0-2'

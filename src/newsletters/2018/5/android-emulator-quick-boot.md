@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1a78
-title: 'Android Emulator Quick Boot'
+title: "Android Emulator Quick Boot"
 url: 'https://blog.xamarin.com/android-emulator-quick-boot/'
 category: 5a88e1aabd6dca0d5f0d1a78
 slug: 'android-emulator-quick-boot'

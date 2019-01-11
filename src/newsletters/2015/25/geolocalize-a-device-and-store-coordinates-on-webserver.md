@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2662
-title: 'Geolocalize a Device and Store Coordinates on Webserver'
+title: "Geolocalize a Device and Store Coordinates on Webserver"
 url: 'http://www.codeproject.com/Articles/1002371/Geolocalize-a-Device-and-Store-Coordinates-on-Webs'
 category: 5a88e1adbd6dca0d5f0d2662
 slug: 'geolocalize-a-device-and-store-coordinates-on-webserver'

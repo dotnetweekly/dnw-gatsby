@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1bc8
-title: 'Using Web API only on ASP.NET Core - Without MVC specific stuff'
+title: "Using Web API only on ASP.NET Core - Without MVC specific stuff"
 url: 'https://codingblast.com/using-web-api-asp-net-core-without-mvc-specific-stuff/'
 category: 5a88e1aabd6dca0d5f0d1bc8
 slug: 'using-web-api-only-on-asp-net-core-without-mvc-specific-stuff'

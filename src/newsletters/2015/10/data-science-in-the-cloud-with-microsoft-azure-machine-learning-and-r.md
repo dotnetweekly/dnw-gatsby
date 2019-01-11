@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d275c
-title: 'Data Science in the Cloud with Microsoft Azure Machine Learning and R'
+title: "Data Science in the Cloud with Microsoft Azure Machine Learning and R"
 url: 'https://azureinfo.microsoft.com/CO-Azure-CNTNT-FY15-02Feb-Data-Science-in-the-Cloud.html'
 category: 5a88e1adbd6dca0d5f0d275c
 slug: 'data-science-in-the-cloud-with-microsoft-azure-machine-learning-and-r'

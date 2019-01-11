@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1a4c
-title: 'The WHY Series: Why should your controllers be thin?'
+title: "The WHY Series: Why should your controllers be thin?"
 url: 'https://purple.pizza/why-should-controllers-be-thin/'
 category: 5a88e1aabd6dca0d5f0d1a4c
 slug: 'the-why-series-why-should-your-controllers-be-thin'

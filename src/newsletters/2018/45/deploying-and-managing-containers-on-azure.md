@@ -1,6 +1,6 @@
 ---
 _id: 5be534df27cd23bb5c5935f3
-title: 'Deploying and Managing Containers on Azure'
+title: "Deploying and Managing Containers on Azure"
 url: 'https://markheath.net/post/containers-on-azure'
 category: 5be534df27cd23bb5c5935f3
 slug: 'deploying-and-managing-containers-on-azure'

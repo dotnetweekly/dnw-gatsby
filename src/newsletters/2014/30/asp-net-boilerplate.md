@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d296a
-title: 'ASP.NET Boilerplate'
+title: "ASP.NET Boilerplate"
 url: 'http://www.aspnetboilerplate.com/'
 category: 5a88e1aebd6dca0d5f0d296a
 slug: 'asp-net-boilerplate'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b26
-title: 'Windows Performance Jump Start'
+title: "Windows Performance Jump Start"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/windows-performance-jump-start'
 category: 5a88e1aebd6dca0d5f0d2b26
 slug: 'windows-performance-jump-start'

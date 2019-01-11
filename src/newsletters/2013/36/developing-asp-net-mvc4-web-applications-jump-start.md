@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2c14
-title: 'Developing ASP.NET MVC4 Web Applications Jump Start'
+title: "Developing ASP.NET MVC4 Web Applications Jump Start"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/developing-asp-net-mvc4-web-applications-jump-start#fbid=RfHc7HWJo2b'
 category: 5a88e1aebd6dca0d5f0d2c14
 slug: 'developing-asp-net-mvc4-web-applications-jump-start'

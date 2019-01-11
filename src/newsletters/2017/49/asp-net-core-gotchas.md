@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1b74
-title: 'ASP.NET Core Gotchas'
+title: "ASP.NET Core Gotchas"
 url: 'https://www.stevejgordon.co.uk/asp-net-core-gotchas-number-1'
 category: 5a88e1aabd6dca0d5f0d1b74
 slug: 'asp-net-core-gotchas'

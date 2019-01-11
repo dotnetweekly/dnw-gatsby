@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2754
-title: 'A first look at the Windows 10 universal app platform'
+title: "A first look at the Windows 10 universal app platform"
 url: 'http://blogs.windows.com/buildingapps/2015/03/02/a-first-look-at-the-windows-10-universal-app-platform/'
 category: 5a88e1adbd6dca0d5f0d2754
 slug: 'a-first-look-at-the-windows-10-universal-app-platform'

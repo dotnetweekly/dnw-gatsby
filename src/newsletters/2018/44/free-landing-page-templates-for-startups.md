@@ -1,6 +1,6 @@
 ---
 _id: 5bda8e3b1428e63e3c94dadc
-title: 'Free landing page templates for startups'
+title: "Free landing page templates for startups"
 url: 'https://cruip.com/'
 category: 5bda8e3b1428e63e3c94dadc
 slug: 'free-landing-page-templates-for-startups'

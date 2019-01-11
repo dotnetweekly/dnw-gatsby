@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d295c
-title: ' DEV - Automated and Continuous Integration for Java Applications in Visual Studio Online'
+title: " DEV - Automated and Continuous Integration for Java Applications in Visual Studio Online"
 url: 'https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032592175&Culture=en-US&community=0'
 category: 5a88e1aebd6dca0d5f0d295c
 slug: 'dev-automated-and-continuous-integration-for-java-applications-in-visual-studio-online'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d24c2
-title: 'Creating Real-World Applications with Django'
+title: "Creating Real-World Applications with Django"
 url: 'https://mva.microsoft.com/liveevents/creating-real-world-applications-with-django'
 category: 5a88e1adbd6dca0d5f0d24c2
 slug: 'creating-real-world-applications-with-django'

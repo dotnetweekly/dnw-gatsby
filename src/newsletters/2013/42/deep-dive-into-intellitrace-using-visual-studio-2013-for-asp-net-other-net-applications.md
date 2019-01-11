@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2bc0
-title: 'Deep Dive into IntelliTrace using Visual Studio 2013 for ASP.NET &amp; other .NET Applications '
+title: "Deep Dive into IntelliTrace using Visual Studio 2013 for ASP.NET &amp; other .NET Applications "
 url: 'http://www.dotnetcurry.com/ShowArticle.aspx?ID=949'
 category: 5a88e1aebd6dca0d5f0d2bc0
 slug: 'deep-dive-into-intellitrace-using-visual-studio-2013-for-asp-net-other-net-applications'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2370
-title: 'Getting Started with the HoloLens'
+title: "Getting Started with the HoloLens"
 url: 'https://channel9.msdn.com/Blogs/AdamsGarage/Getting-Started-with-the-HoloLens'
 category: 5a88e1acbd6dca0d5f0d2370
 slug: 'getting-started-with-the-hololens'

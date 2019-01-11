@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d22bc
-title: 'C++ Edit and Continue in Visual Studio 2015 Update 3'
+title: "C++ Edit and Continue in Visual Studio 2015 Update 3"
 url: 'https://blogs.msdn.microsoft.com/vcblog/2016/07/01/c-edit-and-continue-in-visual-studio-2015-update-3/'
 category: 5a88e1acbd6dca0d5f0d22bc
 slug: 'c-edit-and-continue-in-visual-studio-2015-update-3'

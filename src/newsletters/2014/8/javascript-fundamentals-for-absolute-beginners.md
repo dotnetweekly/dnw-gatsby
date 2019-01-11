@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2aac
-title: 'JavaScript Fundamentals for Absolute Beginners'
+title: "JavaScript Fundamentals for Absolute Beginners"
 url: 'http://www.microsoftvirtualacademy.com/training-courses/javascript-fundamentals-for-absolute-beginners'
 category: 5a88e1aebd6dca0d5f0d2aac
 slug: 'javascript-fundamentals-for-absolute-beginners'

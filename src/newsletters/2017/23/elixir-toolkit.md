@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1e5e
-title: 'Elixir Toolkit'
+title: "Elixir Toolkit"
 url: 'http://blog.mojotech.com/elixir-toolkit/'
 category: 5a88e1abbd6dca0d5f0d1e5e
 slug: 'elixir-toolkit'

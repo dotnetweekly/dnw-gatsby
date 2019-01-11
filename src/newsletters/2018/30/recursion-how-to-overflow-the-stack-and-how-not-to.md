@@ -1,6 +1,6 @@
 ---
 _id: 5b58a7d213da0b350ed112f1
-title: 'Recursion — How to overflow the stack and how not to'
+title: "Recursion — How to overflow the stack and how not to"
 url: 'https://medium.com/@vijeshsalian/recursion-how-to-overflow-the-stack-and-how-not-to-b9dcffdfab27'
 category: 5b58a7d213da0b350ed112f1
 slug: 'recursion-how-to-overflow-the-stack-and-how-not-to'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d32
-title: 'Automated UI Testing Done Right'
+title: "Automated UI Testing Done Right"
 url: 'http://www.mehdi-khalili.com/presentations/automated-ui-testing-done-right-at-dddsydney'
 category: 5a88e1afbd6dca0d5f0d2d32
 slug: 'automated-ui-testing-done-right'

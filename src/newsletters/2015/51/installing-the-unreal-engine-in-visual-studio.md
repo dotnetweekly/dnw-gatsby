@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d24b8
-title: 'Installing the Unreal Engine in Visual Studio'
+title: "Installing the Unreal Engine in Visual Studio"
 url: 'http://blogs.msdn.com/b/visualstudio/archive/2015/12/15/installing-the-unreal-engine-in-visual-studio.aspx'
 category: 5a88e1adbd6dca0d5f0d24b8
 slug: 'installing-the-unreal-engine-in-visual-studio'

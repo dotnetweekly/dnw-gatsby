@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2582
-title: 'AzureCon'
+title: "AzureCon"
 url: 'https://azure.microsoft.com/en-us/azurecon/'
 category: 5a88e1adbd6dca0d5f0d2582
 slug: 'azurecon-2'

@@ -1,6 +1,6 @@
 ---
 _id: 5c2626b5745cd0b1b20206bd
-title: 'Generate automatically async/await code from sync code with Roslyn'
+title: "Generate automatically async/await code from sync code with Roslyn"
 url: 'http://xoofx.com/blog/2018/12/26/generate-async-from-sync-code-with-roslyn/'
 category: 5c2626b5745cd0b1b20206bd
 slug: 'generate-automatically-async-await-code-from-sync-code-with-roslyn'

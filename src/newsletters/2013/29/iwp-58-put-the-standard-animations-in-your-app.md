@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2c6c
-title: 'IWP 58 | Put the Standard Animations in your App'
+title: "IWP 58 | Put the Standard Animations in your App"
 url: 'http://channel9.msdn.com/Shows/Inside+Windows+Phone/IWP-58--Put-the-Standard-Animations-in-your-App'
 category: 5a88e1afbd6dca0d5f0d2c6c
 slug: 'iwp-58-put-the-standard-animations-in-your-app'

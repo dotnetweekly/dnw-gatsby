@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d291e
-title: 'Free ebook about localization in .NET'
+title: "Free ebook about localization in .NET"
 url: 'http://blog.gauffin.org/2014/08/free-ebook-about-localization-in-net/'
 category: 5a88e1aebd6dca0d5f0d291e
 slug: 'free-ebook-about-localization-in-net'

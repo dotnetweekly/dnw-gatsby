@@ -1,6 +1,6 @@
 ---
 _id: 5b22049c4cf876ce866a626a
-title: 'Meet the Blazor team!'
+title: "Meet the Blazor team!"
 url: 'https://www.youtube.com/watch?v=CWuIz9khK-o'
 category: 5b22049c4cf876ce866a626a
 slug: 'meet-the-blazor-team'

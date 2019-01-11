@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2418
-title: 'Keynote NDC London 2016: JavaScript, The Cloud, and the Rise of the New Virtual Machine - Scott Hanselman'
+title: "Keynote NDC London 2016: JavaScript, The Cloud, and the Rise of the New Virtual Machine - Scott Hanselman"
 url: 'https://vimeo.com/153120762'
 category: 5a88e1acbd6dca0d5f0d2418
 slug: 'keynote-ndc-london-2016-javascript-the-cloud-and-the-rise-of-the-new-virtual-machine-scott-hanselma'

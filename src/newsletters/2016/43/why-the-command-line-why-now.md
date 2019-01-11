@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d21a8
-title: 'Why the Command Line? Why now?'
+title: "Why the Command Line? Why now?"
 url: 'http://developer.telerik.com/featured/why-command-line/'
 category: 5a88e1acbd6dca0d5f0d21a8
 slug: 'why-the-command-line-why-now'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2ef2
-title: 'Moving existing projects to EF5'
+title: "Moving existing projects to EF5"
 url: 'http://msdn.microsoft.com/en-us/magazine/jj618295.aspx'
 category: 5a88e1afbd6dca0d5f0d2ef2
 slug: 'moving-existing-projects-to-ef5'

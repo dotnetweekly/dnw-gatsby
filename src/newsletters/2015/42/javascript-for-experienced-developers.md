@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d254e
-title: 'JavaScript for Experienced Developers'
+title: "JavaScript for Experienced Developers"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/javascript-for-experienced-developers'
 category: 5a88e1adbd6dca0d5f0d254e
 slug: 'javascript-for-experienced-developers'

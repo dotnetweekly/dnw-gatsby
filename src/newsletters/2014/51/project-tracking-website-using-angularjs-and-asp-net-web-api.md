@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2802
-title: 'Project Tracking Website using AngularJS and ASP.NET Web API'
+title: "Project Tracking Website using AngularJS and ASP.NET Web API"
 url: 'http://www.dotnetcurry.com/showarticle.aspx?ID=1062'
 category: 5a88e1adbd6dca0d5f0d2802
 slug: 'project-tracking-website-using-angularjs-and-asp-net-web-api'

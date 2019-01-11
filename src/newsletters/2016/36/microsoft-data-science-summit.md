@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2236
-title: 'Microsoft Data Science Summit'
+title: "Microsoft Data Science Summit"
 url: 'https://ignite.microsoft.com/microsoftdatascience'
 category: 5a88e1acbd6dca0d5f0d2236
 slug: 'microsoft-data-science-summit'

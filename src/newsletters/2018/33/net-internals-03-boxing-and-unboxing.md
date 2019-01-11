@@ -1,6 +1,6 @@
 ---
 _id: 5b73078bfd7ac944329e003c
-title: '[.NET Internals 03] Boxing and unboxing'
+title: "[.NET Internals 03] Boxing and unboxing"
 url: 'http://www.dsibinski.pl/2018/08/net-internals-03-boxing-and-unboxing/'
 category: 5b73078bfd7ac944329e003c
 slug: 'net-internals-03-boxing-and-unboxing'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d231c
-title: 'Attribute Routing in ASP.NET MVC 5'
+title: "Attribute Routing in ASP.NET MVC 5"
 url: 'https://blogs.msdn.microsoft.com/webdev/2013/10/17/attribute-routing-in-asp-net-mvc-5/'
 category: 5a88e1acbd6dca0d5f0d231c
 slug: 'attribute-routing-in-asp-net-mvc-5'

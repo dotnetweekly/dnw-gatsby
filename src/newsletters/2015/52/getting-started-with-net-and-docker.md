@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d24a8
-title: 'Getting Started with .NET and Docker'
+title: "Getting Started with .NET and Docker"
 url: 'https://blogs.msdn.microsoft.com/mvpawardprogram/2015/12/15/getting-started-with-net-and-docker/'
 category: 5a88e1adbd6dca0d5f0d24a8
 slug: 'getting-started-with-net-and-docker'

@@ -1,6 +1,6 @@
 ---
 _id: 5b6e0ab34862df28f87daf3b
-title: 'Server-Sent Events and ASP.NET Core - You may need keep alives'
+title: "Server-Sent Events and ASP.NET Core - You may need keep alives"
 url: 'https://www.tpeczek.com/2018/08/server-sent-events-and-aspnet-core-you_9.html'
 category: 5b6e0ab34862df28f87daf3b
 slug: 'server-sent-events-and-aspnet-core-you-may-need-keep-alives'

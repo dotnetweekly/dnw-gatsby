@@ -1,6 +1,6 @@
 ---
 _id: 5ae9fae4973d49002dcafb8e
-title: 'Comparing Objects by Value: Inheritance & Comparison Operators'
+title: "Comparing Objects by Value: Inheritance & Comparison Operators"
 url: 'http://codingsight.com/comparing-objects-by-value-inheritance-comparison-operators/'
 category: 5ae9fae4973d49002dcafb8e
 slug: 'comparing-objects-by-value-inheritance-and-comparison-operators'

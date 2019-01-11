@@ -1,6 +1,6 @@
 ---
 _id: 5b74f12ae629209239f3fe83
-title: 'Making your Microservices Resilient and Fault Tolerant'
+title: "Making your Microservices Resilient and Fault Tolerant"
 url: 'https://dotnetvibes.com/2018/08/06/making-your-microservices-resilient-and-fault-tolerant/'
 category: 5b74f12ae629209239f3fe83
 slug: 'making-your-microservices-resilient-and-fault-tolerant'

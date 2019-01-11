@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2ef0
-title: 'What is the easiest way to generate HTTP requests?'
+title: "What is the easiest way to generate HTTP requests?"
 url: 'http://www.hanselman.com/blog/InstallingHTTPIEHTTPForHumansOnWindowsGreatForASPNETWebAPIAndRESTfulJSONServices.aspx'
 category: 5a88e1afbd6dca0d5f0d2ef0
 slug: 'what-is-the-easiest-way-to-generate-http-requests'

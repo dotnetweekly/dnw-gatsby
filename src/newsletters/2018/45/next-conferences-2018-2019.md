@@ -1,6 +1,6 @@
 ---
 _id: 5be5363827cd23c5a45935f5
-title: 'Next Conferences 2018/2019'
+title: "Next Conferences 2018/2019"
 url: 'https://csharp.christiannagel.com/2018/11/04/thrive2018/'
 category: 5be5363827cd23c5a45935f5
 slug: 'next-conferences-2018-2019'

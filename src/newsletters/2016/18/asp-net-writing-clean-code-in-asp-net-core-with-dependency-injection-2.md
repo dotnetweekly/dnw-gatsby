@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2360
-title: 'ASP.NET - Writing Clean Code in ASP.NET Core with Dependency Injection'
+title: "ASP.NET - Writing Clean Code in ASP.NET Core with Dependency Injection"
 url: 'https://msdn.microsoft.com/magazine/mt703433'
 category: 5a88e1acbd6dca0d5f0d2360
 slug: 'asp-net-writing-clean-code-in-asp-net-core-with-dependency-injection-2'

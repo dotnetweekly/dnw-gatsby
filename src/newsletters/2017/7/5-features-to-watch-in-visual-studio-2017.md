@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d2010
-title: '5 Features to Watch in Visual Studio 2017'
+title: "5 Features to Watch in Visual Studio 2017"
 url: 'http://developer.telerik.com/topics/net/5-features-watch-visual-studio-2017/'
 category: 5a88e1abbd6dca0d5f0d2010
 slug: '5-features-to-watch-in-visual-studio-2017'

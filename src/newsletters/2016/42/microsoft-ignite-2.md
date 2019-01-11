@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d21be
-title: 'Microsoft Ignite'
+title: "Microsoft Ignite"
 url: 'https://ignite.microsoft.com/'
 category: 5a88e1acbd6dca0d5f0d21be
 slug: 'microsoft-ignite-2'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2c3e
-title: 'Dependency Injection with Unity'
+title: "Dependency Injection with Unity"
 url: 'http://www.microsoft.com/en-us/download/details.aspx?id=39944'
 category: 5a88e1aebd6dca0d5f0d2c3e
 slug: 'dependency-injection-with-unity'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1ea6
-title: 'DDD a la carte'
+title: "DDD a la carte"
 url: 'https://pusher.com/sessions/meetup/dotnetsheff/ddd-a-la-carte'
 category: 5a88e1abbd6dca0d5f0d1ea6
 slug: 'ddd-a-la-carte'

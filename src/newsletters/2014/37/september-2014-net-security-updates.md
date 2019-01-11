@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d28f4
-title: 'September 2014 .NET Security Updates'
+title: "September 2014 .NET Security Updates"
 url: 'http://blogs.msdn.com/b/dotnet/archive/2014/09/09/september-2014-net-security-updates.aspx'
 category: 5a88e1aebd6dca0d5f0d28f4
 slug: 'september-2014-net-security-updates'

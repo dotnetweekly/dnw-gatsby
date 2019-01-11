@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a84
-title: 'Getting started with ASP.NET Web API 2.2 for OData v4.0'
+title: "Getting started with ASP.NET Web API 2.2 for OData v4.0"
 url: 'http://blogs.msdn.com/b/webdev/archive/2014/03/13/getting-started-with-asp-net-web-api-2-2-for-odata-v4-0.aspx'
 category: 5a88e1aebd6dca0d5f0d2a84
 slug: 'getting-started-with-asp-net-web-api-2-2-for-odata-v4-0'

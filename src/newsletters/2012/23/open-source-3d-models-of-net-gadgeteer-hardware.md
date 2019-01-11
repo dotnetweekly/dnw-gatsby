@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d301c
-title: 'Open-Source 3D Models of .NET Gadgeteer Hardware'
+title: "Open-Source 3D Models of .NET Gadgeteer Hardware"
 url: 'http://channel9.msdn.com/coding4fun/blog/Open-Source-3D-Models-of-NET-Gadgeteer-Hardware'
 category: 5a88e1afbd6dca0d5f0d301c
 slug: 'open-source-3d-models-of-net-gadgeteer-hardware'

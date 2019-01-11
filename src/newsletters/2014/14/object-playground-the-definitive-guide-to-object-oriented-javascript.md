@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a5c
-title: 'Object Playground: The Definitive Guide to Object-Oriented JavaScript'
+title: "Object Playground: The Definitive Guide to Object-Oriented JavaScript"
 url: 'http://www.objectplayground.com/'
 category: 5a88e1aebd6dca0d5f0d2a5c
 slug: 'object-playground-the-definitive-guide-to-object-oriented-javascript'

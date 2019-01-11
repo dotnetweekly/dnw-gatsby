@@ -1,6 +1,6 @@
 ---
 _id: 5bfddcefd9a593d037f70e60
-title: 'How to organize an Exploratory Testing Session'
+title: "How to organize an Exploratory Testing Session"
 url: 'https://www.productivecsharp.com/2018/11/organize-exploratory-testing-session/'
 category: 5bfddcefd9a593d037f70e60
 slug: 'how-to-organize-an-exploratory-testing-session'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d258e
-title: 'Modern Apps - Usability Practices for Modern Apps'
+title: "Modern Apps - Usability Practices for Modern Apps"
 url: 'https://msdn.microsoft.com/en-us/magazine/mt422589'
 category: 5a88e1adbd6dca0d5f0d258e
 slug: 'modern-apps-usability-practices-for-modern-apps'

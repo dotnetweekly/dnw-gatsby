@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1aae
-title: 'Simplest WCF REST Web Service'
+title: "Simplest WCF REST Web Service"
 url: 'https://blogs.msdn.microsoft.com/sergeim/2018/01/25/simplest-wcf-rest-web-service/'
 category: 5a88e1aabd6dca0d5f0d1aae
 slug: 'simplest-wcf-rest-web-service'

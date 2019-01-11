@@ -1,6 +1,6 @@
 ---
 _id: 5ab8a08b63652701eec4df72
-title: 'ASP.NET Core Dependency Injection - How to Register Generic Types'
+title: "ASP.NET Core Dependency Injection - How to Register Generic Types"
 url: 'https://www.stevejgordon.co.uk/asp-net-core-dependency-injection-how-to-register-generic-types'
 category: 5ab8a08b63652701eec4df72
 slug: 'aspnet-core-dependency-injection-how-to-register-generic-types'

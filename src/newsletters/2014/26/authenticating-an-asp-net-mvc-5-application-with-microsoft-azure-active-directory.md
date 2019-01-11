@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d29a6
-title: 'AUTHENTICATING AN ASP.NET MVC 5 APPLICATION WITH MICROSOFT AZURE ACTIVE DIRECTORY'
+title: "AUTHENTICATING AN ASP.NET MVC 5 APPLICATION WITH MICROSOFT AZURE ACTIVE DIRECTORY"
 url: 'http://robdmoore.id.au/blog/2014/06/29/authenticating-an-asp-net-mvc-5-application-with-microsoft-azure-active-directory/'
 category: 5a88e1aebd6dca0d5f0d29a6
 slug: 'authenticating-an-asp-net-mvc-5-application-with-microsoft-azure-active-directory'

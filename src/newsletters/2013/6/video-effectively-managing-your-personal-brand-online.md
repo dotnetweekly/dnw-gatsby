@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2dba
-title: 'Video: Effectively Managing Your Personal Brand Online'
+title: "Video: Effectively Managing Your Personal Brand Online"
 url: 'http://www.hanselman.com/blog/VideoEffectivelyManagingYourPersonalBrandOnline.aspx'
 category: 5a88e1afbd6dca0d5f0d2dba
 slug: 'video-effectively-managing-your-personal-brand-online'

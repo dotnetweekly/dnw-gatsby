@@ -1,6 +1,6 @@
 ---
 _id: 5aa497bdffd7fa0ee35abe74
-title: 'C# - Create an IoC Container from Scratch'
+title: "C# - Create an IoC Container from Scratch"
 url: 'https://www.youtube.com/watch?v=jsgtLvQrGLY'
 category: 5aa497bdffd7fa0ee35abe74
 slug: 'c-create-an-ioc-container-from-scratch'

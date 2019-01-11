@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2864
-title: 'Using System.Numerics.Vector for Graphics Programming'
+title: "Using System.Numerics.Vector for Graphics Programming"
 url: 'http://blogs.msdn.com/b/dotnet/archive/2014/11/05/using-system-numerics-vector-for-graphics-programming.aspx'
 category: 5a88e1aebd6dca0d5f0d2864
 slug: 'using-system-numerics-vector-for-graphics-programming'

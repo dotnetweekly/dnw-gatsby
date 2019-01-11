@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2216
-title: 'Programming with Python for Data Science by Microsoft'
+title: "Programming with Python for Data Science by Microsoft"
 url: 'https://www.edx.org/course/programming-python-data-science-microsoft-dat210x-0'
 category: 5a88e1acbd6dca0d5f0d2216
 slug: 'programming-with-python-for-data-science-by-microsoft'

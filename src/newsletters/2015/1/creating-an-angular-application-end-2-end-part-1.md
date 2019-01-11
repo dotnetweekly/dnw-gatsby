@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d27ea
-title: 'Creating an Angular application end-2-end – Part 1'
+title: "Creating an Angular application end-2-end – Part 1"
 url: 'http://lostechies.com/gabrielschenker/2015/01/05/creating-an-angular-application-end-2-end-part-1/'
 category: 5a88e1adbd6dca0d5f0d27ea
 slug: 'creating-an-angular-application-end-2-end-part-1'

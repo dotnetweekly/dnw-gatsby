@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a1c
-title: 'Use Code Maps to Understand Code Relationships'
+title: "Use Code Maps to Understand Code Relationships"
 url: 'http://visualstudiomagazine.com/articles/2013/04/25/use-code-maps-to-understand-code-relationships.aspx'
 category: 5a88e1aebd6dca0d5f0d2a1c
 slug: 'use-code-maps-to-understand-code-relationships'

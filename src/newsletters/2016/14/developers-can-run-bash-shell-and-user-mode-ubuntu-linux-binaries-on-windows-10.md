@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d23b2
-title: 'Developers can run Bash Shell and user-mode Ubuntu Linux binaries on Windows 10'
+title: "Developers can run Bash Shell and user-mode Ubuntu Linux binaries on Windows 10"
 url: 'http://www.hanselman.com/blog/DevelopersCanRunBashShellAndUsermodeUbuntuLinuxBinariesOnWindows10.aspx'
 category: 5a88e1acbd6dca0d5f0d23b2
 slug: 'developers-can-run-bash-shell-and-user-mode-ubuntu-linux-binaries-on-windows-10'

@@ -1,6 +1,6 @@
 ---
 _id: 5b55b89b13da0bc96ad112e8
-title: 'Composition and Interfaces in OOP World'
+title: "Composition and Interfaces in OOP World"
 url: 'http://codingsight.com/composition-and-interfaces-in-oop-world/'
 category: 5b55b89b13da0bc96ad112e8
 slug: 'composition-and-interfaces-in-oop-world'

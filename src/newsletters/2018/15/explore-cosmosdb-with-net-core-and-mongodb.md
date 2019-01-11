@@ -1,6 +1,6 @@
 ---
 _id: 5ad2b8cf325044006eb6d660
-title: 'Explore CosmosDB with .NET Core and MongoDB'
+title: "Explore CosmosDB with .NET Core and MongoDB"
 url: 'https://blogs.msdn.microsoft.com/dotnet/2018/04/09/explore-cosmosdb-with-net-core-and-mongodb/'
 category: 5ad2b8cf325044006eb6d660
 slug: 'explore-cosmosdb-with-net-core-and-mongodb'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2bbc
-title: 'Building a Release Pipeline with Team Foundation Server 2012'
+title: "Building a Release Pipeline with Team Foundation Server 2012"
 url: 'http://msdn.microsoft.com/en-us/library/dn449957.aspx'
 category: 5a88e1aebd6dca0d5f0d2bbc
 slug: 'building-a-release-pipeline-with-team-foundation-server-2012'

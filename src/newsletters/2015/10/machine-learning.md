@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d275e
-title: 'Machine Learning'
+title: "Machine Learning"
 url: 'http://azure.microsoft.com/en-us/services/machine-learning/'
 category: 5a88e1adbd6dca0d5f0d275e
 slug: 'machine-learning'

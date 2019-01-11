@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1d6c
-title: 'denysdovhan/wtfjs: A list of funny and tricky JavaScript examples'
+title: "denysdovhan/wtfjs: A list of funny and tricky JavaScript examples"
 url: 'https://github.com/denysdovhan/wtfjs#readme'
 category: 5a88e1abbd6dca0d5f0d1d6c
 slug: 'denysdovhanwtfjs-a-list-of-funny-and-tricky-javascript-examples'

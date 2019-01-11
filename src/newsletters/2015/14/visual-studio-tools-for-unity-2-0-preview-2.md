@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2714
-title: 'Visual Studio Tools for Unity 2.0 Preview 2'
+title: "Visual Studio Tools for Unity 2.0 Preview 2"
 url: 'http://blogs.msdn.com/b/visualstudio/archive/2015/04/06/visual-studio-tools-for-unity-2-0-preview-2.aspx'
 category: 5a88e1adbd6dca0d5f0d2714
 slug: 'visual-studio-tools-for-unity-2-0-preview-2'

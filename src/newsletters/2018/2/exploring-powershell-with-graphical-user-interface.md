@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1b00
-title: 'Exploring PowerShell with graphical user interface.'
+title: "Exploring PowerShell with graphical user interface."
 url: 'https://cezarypiatek.github.io/post/exploring-powershell-with-gui/'
 category: 5a88e1aabd6dca0d5f0d1b00
 slug: 'exploring-powershell-with-graphical-user-interface'

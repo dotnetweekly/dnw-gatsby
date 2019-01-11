@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2566
-title: 'Introduction to React.js'
+title: "Introduction to React.js"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/introduction-to-react-js'
 category: 5a88e1adbd6dca0d5f0d2566
 slug: 'introduction-to-react-js'

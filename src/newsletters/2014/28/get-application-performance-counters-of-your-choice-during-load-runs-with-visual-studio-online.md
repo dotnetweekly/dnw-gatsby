@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2988
-title: 'Get Application Performance Counters of your choice during load runs with Visual Studio Online'
+title: "Get Application Performance Counters of your choice during load runs with Visual Studio Online"
 url: 'http://blogs.msdn.com/b/visualstudioalm/archive/2014/07/08/get-application-performance-counters-of-your-choice-during-load-runs-with-visual-studio-online.aspx'
 category: 5a88e1aebd6dca0d5f0d2988
 slug: 'get-application-performance-counters-of-your-choice-during-load-runs-with-visual-studio-online'

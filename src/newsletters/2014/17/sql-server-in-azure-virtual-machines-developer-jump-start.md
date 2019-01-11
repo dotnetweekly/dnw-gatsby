@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a1a
-title: 'SQL Server in Azure Virtual Machines: Developer Jump Start'
+title: "SQL Server in Azure Virtual Machines: Developer Jump Start"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/sql-server-in-azure-virtual-machines-developer-jump-start'
 category: 5a88e1aebd6dca0d5f0d2a1a
 slug: 'sql-server-in-azure-virtual-machines-developer-jump-start'

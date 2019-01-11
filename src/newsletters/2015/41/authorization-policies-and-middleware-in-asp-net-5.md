@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2574
-title: 'Authorization Policies and Middleware in ASP.NET 5'
+title: "Authorization Policies and Middleware in ASP.NET 5"
 url: 'http://odetocode.com/blogs/scott/archive/2015/10/06/authorization-policies-and-middleware-in-asp-net-5.aspx'
 category: 5a88e1adbd6dca0d5f0d2574
 slug: 'authorization-policies-and-middleware-in-asp-net-5'

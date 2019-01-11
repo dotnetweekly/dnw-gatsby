@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1d30
-title: 'Vue.js and .NET MVC'
+title: "Vue.js and .NET MVC"
 url: 'https://medium.com/corebuild-software/vue-js-and-net-mvc-b5cede228626'
 category: 5a88e1abbd6dca0d5f0d1d30
 slug: 'vue-js-and-net-mvc'

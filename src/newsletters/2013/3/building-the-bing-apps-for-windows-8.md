@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2de4
-title: 'Building the Bing apps for Windows 8'
+title: "Building the Bing apps for Windows 8"
 url: 'http://blogs.msdn.com/b/windowsappdev/archive/2013/01/21/building-the-bing-apps-for-windows-8.aspx'
 category: 5a88e1afbd6dca0d5f0d2de4
 slug: 'building-the-bing-apps-for-windows-8'

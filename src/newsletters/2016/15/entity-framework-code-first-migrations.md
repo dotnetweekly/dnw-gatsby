@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2392
-title: 'Entity Framework Code First Migrations'
+title: "Entity Framework Code First Migrations"
 url: 'http://developer.telerik.com/featured/entity-framework-code-first-migrations/'
 category: 5a88e1acbd6dca0d5f0d2392
 slug: 'entity-framework-code-first-migrations'

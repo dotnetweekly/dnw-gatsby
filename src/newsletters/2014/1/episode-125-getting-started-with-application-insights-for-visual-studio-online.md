@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b2a
-title: 'Episode 125: Getting started with Application Insights for Visual Studio Online'
+title: "Episode 125: Getting started with Application Insights for Visual Studio Online"
 url: 'http://channel9.msdn.com/Shows/Cloud+Cover/Episode-125-Getting-strated-with-Application-Insights-for-Visual-Studio-Online'
 category: 5a88e1aebd6dca0d5f0d2b2a
 slug: 'episode-125-getting-started-with-application-insights-for-visual-studio-online'

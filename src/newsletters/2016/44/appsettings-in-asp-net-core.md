@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d218e
-title: 'APPSETTINGS IN ASP.NET CORE'
+title: "APPSETTINGS IN ASP.NET CORE"
 url: 'http://thomasardal.com/appsettings-in-asp-net-core/'
 category: 5a88e1acbd6dca0d5f0d218e
 slug: 'appsettings-in-asp-net-core'

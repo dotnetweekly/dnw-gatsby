@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2ab0
-title: 'SocialGoal - ASP.NET MVC 5, EF 6 Code First, AutoMapper, Autofac, TDD and DDD Sample Site'
+title: "SocialGoal - ASP.NET MVC 5, EF 6 Code First, AutoMapper, Autofac, TDD and DDD Sample Site"
 url: 'http://channel9.msdn.com/coding4fun/blog/SocialGoal-ASPNET-MVC-5-EF-6-Code-First-AutoMapper-Autofac-TDD-and-DDD-Sample-Site'
 category: 5a88e1aebd6dca0d5f0d2ab0
 slug: 'socialgoal-asp-net-mvc-5-ef-6-code-first-automapper-autofac-tdd-and-ddd-sample-site'

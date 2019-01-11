@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d28cc
-title: '5 Array Methods That You Should Be Using Now'
+title: "5 Array Methods That You Should Be Using Now"
 url: 'http://colintoh.com/blog/5-array-methods-that-you-should-use-today'
 category: 5a88e1aebd6dca0d5f0d28cc
 slug: '5-array-methods-that-you-should-be-using-now'

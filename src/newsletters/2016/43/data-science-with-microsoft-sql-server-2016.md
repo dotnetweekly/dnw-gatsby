@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d21ac
-title: 'Data Science with Microsoft SQL Server 2016'
+title: "Data Science with Microsoft SQL Server 2016"
 url: 'https://mva.microsoft.com/ebooks/'
 category: 5a88e1acbd6dca0d5f0d21ac
 slug: 'data-science-with-microsoft-sql-server-2016'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d23d0
-title: 'About memory leaks again'
+title: "About memory leaks again"
 url: 'https://antongorbikov.wordpress.com/2015/08/27/about-memory-leaks-again/'
 category: 5a88e1acbd6dca0d5f0d23d0
 slug: 'about-memory-leaks-again'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d274c
-title: 'Construct 2 Advanced Game Development'
+title: "Construct 2 Advanced Game Development"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/construct-2-advanced-game-development'
 category: 5a88e1adbd6dca0d5f0d274c
 slug: 'construct-2-advanced-game-development'

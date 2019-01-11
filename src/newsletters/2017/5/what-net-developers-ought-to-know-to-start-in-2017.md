@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2054
-title: 'What .NET Developers ought to know to start in 2017'
+title: "What .NET Developers ought to know to start in 2017"
 url: 'http://www.hanselman.com/blog/WhatNETDevelopersOughtToKnowToStartIn2017.aspx'
 category: 5a88e1acbd6dca0d5f0d2054
 slug: 'what-net-developers-ought-to-know-to-start-in-2017'

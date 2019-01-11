@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d42
-title: 'Congratulations to the New and Renewed MVPs!'
+title: "Congratulations to the New and Renewed MVPs!"
 url: 'http://blogs.msdn.com/b/mvpawardprogram/archive/2013/04/01/congratulations-to-the-new-and-renewed-mvps.aspx'
 category: 5a88e1afbd6dca0d5f0d2d42
 slug: 'congratulations-to-the-new-and-renewed-mvps'

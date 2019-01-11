@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d28aa
-title: 'Dev/Test Scenarios in the DevOps World'
+title: "Dev/Test Scenarios in the DevOps World"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/dev-test-scenarios-in-the-devops-world'
 category: 5a88e1aebd6dca0d5f0d28aa
 slug: 'devtest-scenarios-in-the-devops-world'

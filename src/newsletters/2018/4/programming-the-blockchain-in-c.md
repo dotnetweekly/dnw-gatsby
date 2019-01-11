@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1ab4
-title: 'Programming The Blockchain in C#'
+title: "Programming The Blockchain in C#"
 url: 'https://programmingblockchain.gitbooks.io/programmingblockchain/content/'
 category: 5a88e1aabd6dca0d5f0d1ab4
 slug: 'programming-the-blockchain-in-c'

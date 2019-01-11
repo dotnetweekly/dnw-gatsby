@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2f1e
-title: 'Using JSON.NET for dynamic JSON parsing'
+title: "Using JSON.NET for dynamic JSON parsing"
 url: 'http://www.west-wind.com/weblog/posts/2012/Aug/30/Using-JSONNET-for-dynamic-JSON-parsing'
 category: 5a88e1afbd6dca0d5f0d2f1e
 slug: 'using-json-net-for-dynamic-json-parsing'

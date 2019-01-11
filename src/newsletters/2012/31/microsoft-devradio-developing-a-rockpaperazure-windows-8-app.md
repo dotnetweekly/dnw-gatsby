@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2f82
-title: 'Microsoft DevRadio: Developing a RockPaperAzure Windows 8 app'
+title: "Microsoft DevRadio: Developing a RockPaperAzure Windows 8 app"
 url: 'http://devhammer.net/blog/microsoft-devradio-developing-a-rockpaperazure-windows-8-app'
 category: 5a88e1afbd6dca0d5f0d2f82
 slug: 'microsoft-devradio-developing-a-rockpaperazure-windows-8-app'

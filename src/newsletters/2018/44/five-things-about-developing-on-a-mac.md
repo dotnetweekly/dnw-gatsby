@@ -1,6 +1,6 @@
 ---
 _id: 5bda8b741428e67f2294dad4
-title: 'Five Things About Developing on a Mac'
+title: "Five Things About Developing on a Mac"
 url: 'https://channel9.msdn.com/Shows/5-Things/Five-Things-About-Developing-on-a-Mac'
 category: 5bda8b741428e67f2294dad4
 slug: 'five-things-about-developing-on-a-mac'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d92
-title: 'Generating Entity Data Model Diagram from EF Code First DbContext'
+title: "Generating Entity Data Model Diagram from EF Code First DbContext"
 url: 'http://weblogs.asp.net/shijuvarghese/archive/2013/03/03/generating-entity-data-model-diagram-from-ef-code-first-dbcontext.aspx'
 category: 5a88e1afbd6dca0d5f0d2d92
 slug: 'generating-entity-data-model-diagram-from-ef-code-first-dbcontext'

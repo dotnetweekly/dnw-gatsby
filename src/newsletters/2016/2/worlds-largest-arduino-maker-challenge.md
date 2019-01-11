@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2480
-title: 'World’s Largest Arduino Maker Challenge'
+title: "World’s Largest Arduino Maker Challenge"
 url: 'https://www.hackster.io/challenges/arduino-microsoft-maker'
 category: 5a88e1adbd6dca0d5f0d2480
 slug: 'worlds-largest-arduino-maker-challenge'

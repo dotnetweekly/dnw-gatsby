@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1e6e
-title: 'Performance Improvements in .NET Core'
+title: "Performance Improvements in .NET Core"
 url: 'https://blogs.msdn.microsoft.com/dotnet/2017/06/07/performance-improvements-in-net-core/'
 category: 5a88e1abbd6dca0d5f0d1e6e
 slug: 'performance-improvements-in-net-core'

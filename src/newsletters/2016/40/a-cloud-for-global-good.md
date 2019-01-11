@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d21dc
-title: 'A Cloud for Global Good'
+title: "A Cloud for Global Good"
 url: 'https://news.microsoft.com/cloudforgood/'
 category: 5a88e1acbd6dca0d5f0d21dc
 slug: 'a-cloud-for-global-good'

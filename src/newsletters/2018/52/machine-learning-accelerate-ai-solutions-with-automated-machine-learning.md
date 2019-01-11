@@ -1,6 +1,6 @@
 ---
 _id: 5c26285c745cd085490206c3
-title: 'Machine Learning - Accelerate AI Solutions with Automated Machine Learning'
+title: "Machine Learning - Accelerate AI Solutions with Automated Machine Learning"
 url: 'https://msdn.microsoft.com/magazine/mt848635'
 category: 5c26285c745cd085490206c3
 slug: 'machine-learning-accelerate-ai-solutions-with-automated-machine-learning'

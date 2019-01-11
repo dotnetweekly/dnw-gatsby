@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2644
-title: 'Networking API Improvements in Windows 10'
+title: "Networking API Improvements in Windows 10"
 url: 'http://blogs.windows.com/buildingapps/2015/07/02/networking-api-improvements-in-windows-10/'
 category: 5a88e1adbd6dca0d5f0d2644
 slug: 'networking-api-improvements-in-windows-10'

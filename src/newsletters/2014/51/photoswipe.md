@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d27f8
-title: 'PhotoSwipe'
+title: "PhotoSwipe"
 url: 'http://photoswipe.com/'
 category: 5a88e1adbd6dca0d5f0d27f8
 slug: 'photoswipe'

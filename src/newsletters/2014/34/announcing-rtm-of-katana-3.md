@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2922
-title: 'Announcing RTM of Katana 3'
+title: "Announcing RTM of Katana 3"
 url: 'http://blogs.msdn.com/b/webdev/archive/2014/08/20/announcing-rtm-of-katana-3.aspx'
 category: 5a88e1aebd6dca0d5f0d2922
 slug: 'announcing-rtm-of-katana-3'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d28d0
-title: 'Microsoft Security Bulletin MS14-053 - Important'
+title: "Microsoft Security Bulletin MS14-053 - Important"
 url: 'https://technet.microsoft.com/en-us/library/security/ms14-053.aspx'
 category: 5a88e1aebd6dca0d5f0d28d0
 slug: 'microsoft-security-bulletin-ms14-053-important'

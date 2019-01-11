@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1fb0
-title: 'Installation Windows 10 IoT on Raspberry Pi 3'
+title: "Installation Windows 10 IoT on Raspberry Pi 3"
 url: 'http://lukaszhryciuk.com/get-noticed/installation-windows-10-iot-on-raspberry-pi-3/'
 category: 5a88e1abbd6dca0d5f0d1fb0
 slug: 'installation-windows-10-iot-on-raspberry-pi-3'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1c18
-title: 'Microsoft Connect(); 2017'
+title: "Microsoft Connect(); 2017"
 url: 'https://info.microsoft.com/en-us-landing-microsoft-connect-2017-get-updates.html?ocid=AID657138_QSG_EML_194559'
 category: 5a88e1aabd6dca0d5f0d1c18
 slug: 'microsoft-connect-2017'

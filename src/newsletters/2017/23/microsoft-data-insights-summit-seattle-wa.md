@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1e5c
-title: 'Microsoft Data Insights Summit - Seattle, WA'
+title: "Microsoft Data Insights Summit - Seattle, WA"
 url: 'https://www.microsoft.com/en-us/datainsightssummit/default.aspx'
 category: 5a88e1abbd6dca0d5f0d1e5c
 slug: 'microsoft-data-insights-summit-seattle-wa'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a9c
-title: 'Announcing new Web Features in Visual Studio 2013 Update 2 CTP2'
+title: "Announcing new Web Features in Visual Studio 2013 Update 2 CTP2"
 url: 'http://blogs.msdn.com/b/webdev/archive/2014/02/25/announcing-new-web-features-in-visual-studio-2013-update-2-ctp2.aspx'
 category: 5a88e1aebd6dca0d5f0d2a9c
 slug: 'announcing-new-web-features-in-visual-studio-2013-update-2-ctp2'

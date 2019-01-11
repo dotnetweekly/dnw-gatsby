@@ -1,6 +1,6 @@
 ---
 _id: 5aaa1d6e5f4d1d020e14191f
-title: 'Service Fabric is going open source'
+title: "Service Fabric is going open source"
 url: 'https://blogs.msdn.microsoft.com/azureservicefabric/2018/03/14/service-fabric-is-going-open-source/'
 category: 5aaa1d6e5f4d1d020e14191f
 slug: 'service-fabric-is-going-open-source'

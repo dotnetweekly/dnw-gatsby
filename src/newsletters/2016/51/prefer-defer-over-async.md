@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d20fc
-title: 'Prefer DEFER Over ASYNC'
+title: "Prefer DEFER Over ASYNC"
 url: 'http://calendar.perfplanet.com/2016/prefer-defer-over-async/'
 category: 5a88e1acbd6dca0d5f0d20fc
 slug: 'prefer-defer-over-async'

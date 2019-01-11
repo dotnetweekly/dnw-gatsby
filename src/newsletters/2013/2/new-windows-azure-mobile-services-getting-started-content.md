@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2df0
-title: 'New Windows Azure Mobile Services Getting Started Content '
+title: "New Windows Azure Mobile Services Getting Started Content "
 url: 'http://blogs.msdn.com/b/windowsazure/archive/2013/01/09/new-windows-azure-mobile-services-getting-started-content.aspx'
 category: 5a88e1afbd6dca0d5f0d2df0
 slug: 'new-windows-azure-mobile-services-getting-started-content'

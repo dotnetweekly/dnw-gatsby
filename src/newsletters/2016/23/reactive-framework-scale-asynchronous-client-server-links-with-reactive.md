@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2314
-title: 'Reactive Framework - Scale Asynchronous Client-Server Links with Reactive'
+title: "Reactive Framework - Scale Asynchronous Client-Server Links with Reactive"
 url: 'https://msdn.microsoft.com/en-us/magazine/mt707526'
 category: 5a88e1acbd6dca0d5f0d2314
 slug: 'reactive-framework-scale-asynchronous-client-server-links-with-reactive'

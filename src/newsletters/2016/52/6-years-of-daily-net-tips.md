@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d20dc
-title: '6 Years of Daily .NET Tips'
+title: "6 Years of Daily .NET Tips"
 url: 'https://abhijitjana.net/2016/12/27/6-years-of-daily-net-tips/'
 category: 5a88e1acbd6dca0d5f0d20dc
 slug: '6-years-of-daily-net-tips'

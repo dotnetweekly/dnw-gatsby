@@ -1,6 +1,6 @@
 ---
 _id: 5b228f0f4cf876f3ff6a6272
-title: 'Dave Glick - Blazor, Razor, WebAssembly, and Mono'
+title: "Dave Glick - Blazor, Razor, WebAssembly, and Mono"
 url: 'https://daveaglick.com/posts/blazor-razor-webassembly-and-mono'
 category: 5b228f0f4cf876f3ff6a6272
 slug: 'dave-glick-blazor-razor-webassembly-and-mono'

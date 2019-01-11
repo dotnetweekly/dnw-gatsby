@@ -1,6 +1,6 @@
 ---
 _id: 5acecf53baa51d004e9a2c7f
-title: 'Updating jQuery-based Lazy Image Loading to IntersectionObserver'
+title: "Updating jQuery-based Lazy Image Loading to IntersectionObserver"
 url: 'https://www.hanselman.com/blog/UpdatingJQuerybasedLazyImageLoadingToIntersectionObserver.aspx'
 category: 5acecf53baa51d004e9a2c7f
 slug: 'updating-jquery-based-lazy-image-loading-to-intersectionobserver'

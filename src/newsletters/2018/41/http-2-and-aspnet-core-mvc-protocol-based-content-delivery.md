@@ -1,6 +1,6 @@
 ---
 _id: 5bbda9e58a5a39521dfd980f
-title: 'HTTP/2 and ASP.NET Core MVC - Protocol based content delivery'
+title: "HTTP/2 and ASP.NET Core MVC - Protocol based content delivery"
 url: 'https://www.tpeczek.com/2018/10/http2-and-aspnet-core-mvc-protocol.html'
 category: 5bbda9e58a5a39521dfd980f
 slug: 'http-2-and-aspnet-core-mvc-protocol-based-content-delivery'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1e92
-title: 'Free eBook/Guide on ‘.NET Microservices – Architecture for Containerized .NET Applications’'
+title: "Free eBook/Guide on ‘.NET Microservices – Architecture for Containerized .NET Applications’"
 url: 'https://blogs.msdn.microsoft.com/cesardelatorre/2017/05/10/free-ebookguide-on-net-microservices-architecture-for-containerized-net-applications/'
 category: 5a88e1abbd6dca0d5f0d1e92
 slug: 'free-ebookguide-on-net-microservices-architecture-for-containerized-net-applications'

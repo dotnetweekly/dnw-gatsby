@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d247a
-title: 'Identities and Work Item Tracking in TFS 2015'
+title: "Identities and Work Item Tracking in TFS 2015"
 url: 'http://blogs.msdn.com/b/visualstudioalm/archive/2016/01/13/identities-and-work-item-tracking-in-tfs-2015.aspx'
 category: 5a88e1adbd6dca0d5f0d247a
 slug: 'identities-and-work-item-tracking-in-tfs-2015'

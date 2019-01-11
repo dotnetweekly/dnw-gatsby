@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b84
-title: 'Introduction to WebSockets on Windows Azure Web Sites'
+title: "Introduction to WebSockets on Windows Azure Web Sites"
 url: 'http://blogs.msdn.com/b/windowsazure/archive/2013/11/14/introduction-to-websockets-on-windows-azure-web-sites.aspx'
 category: 5a88e1aebd6dca0d5f0d2b84
 slug: 'introduction-to-websockets-on-windows-azure-web-sites'

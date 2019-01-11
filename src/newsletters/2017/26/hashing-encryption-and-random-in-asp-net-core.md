@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1e16
-title: 'Hashing, Encryption and Random in ASP.NET Core'
+title: "Hashing, Encryption and Random in ASP.NET Core"
 url: 'https://www.devtrends.co.uk/blog/hashing-encryption-and-random-in-asp.net-core'
 category: 5a88e1abbd6dca0d5f0d1e16
 slug: 'hashing-encryption-and-random-in-asp-net-core'

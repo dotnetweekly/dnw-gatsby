@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d29e6
-title: ' Development and Testing in the Cloud with Azure'
+title: " Development and Testing in the Cloud with Azure"
 url: 'https://msevents.microsoft.com/cui/EventDetail.aspx?culture=en-US&EventID=1032583218&IO=sr8RgxfVNKvJpuUw5VQTvQ%3d%3d'
 category: 5a88e1aebd6dca0d5f0d29e6
 slug: 'development-and-testing-in-the-cloud-with-azure'

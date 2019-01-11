@@ -1,6 +1,6 @@
 ---
 _id: 5b8563e7eb7beb14e389afb9
-title: 'Building Your First ASP.NET Core MVC App'
+title: "Building Your First ASP.NET Core MVC App"
 url: 'https://codingsight.com/building-your-first-asp-net-core-mvc-app/'
 category: 5b8563e7eb7beb14e389afb9
 slug: 'building-your-first-aspnet-core-mvc-app'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2ec2
-title: 'Continuous Deployment with Windows Azure Web Sites'
+title: "Continuous Deployment with Windows Azure Web Sites"
 url: 'http://blogs.msdn.com/b/silverlining/archive/2012/09/19/continuous-deployment-with-windows-azure-web-sites.aspx'
 category: 5a88e1afbd6dca0d5f0d2ec2
 slug: 'continuous-deployment-with-windows-azure-web-sites'

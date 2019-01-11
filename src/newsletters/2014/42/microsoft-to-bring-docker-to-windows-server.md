@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2898
-title: 'Microsoft to bring Docker to Windows Server'
+title: "Microsoft to bring Docker to Windows Server"
 url: 'http://www.cio.com/article/2834133/microsoft-to-bring-docker-to-windows-server.html'
 category: 5a88e1aebd6dca0d5f0d2898
 slug: 'microsoft-to-bring-docker-to-windows-server'

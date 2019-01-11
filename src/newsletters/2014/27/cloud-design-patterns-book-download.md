@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d299c
-title: 'Cloud Design Patterns – Book Download'
+title: "Cloud Design Patterns – Book Download"
 url: 'http://www.microsoft.com/en-us/download/details.aspx?id=42026'
 category: 5a88e1aebd6dca0d5f0d299c
 slug: 'cloud-design-patterns-book-download'

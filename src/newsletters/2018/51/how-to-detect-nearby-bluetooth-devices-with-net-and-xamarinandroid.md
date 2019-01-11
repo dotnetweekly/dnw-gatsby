@@ -1,6 +1,6 @@
 ---
 _id: 5c1a2bc5745cd070b3020698
-title: 'How to detect nearby Bluetooth devices with .NET and Xamarin.Android'
+title: "How to detect nearby Bluetooth devices with .NET and Xamarin.Android"
 url: 'https://jeremylindsayni.wordpress.com/2018/12/16/how-to-detect-nearby-bluetooth-devices-with-net-and-xamarin-android/'
 category: 5c1a2bc5745cd070b3020698
 slug: 'how-to-detect-nearby-bluetooth-devices-with-net-and-xamarinandroid'

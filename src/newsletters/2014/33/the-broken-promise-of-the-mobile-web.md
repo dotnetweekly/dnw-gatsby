@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2932
-title: 'The broken Promise of the Mobile Web'
+title: "The broken Promise of the Mobile Web"
 url: 'http://weblog.west-wind.com/posts/2014/Aug/17/The-broken-Promise-of-the-Mobile-Web'
 category: 5a88e1aebd6dca0d5f0d2932
 slug: 'the-broken-promise-of-the-mobile-web'

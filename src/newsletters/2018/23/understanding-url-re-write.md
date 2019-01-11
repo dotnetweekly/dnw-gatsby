@@ -1,6 +1,6 @@
 ---
 _id: 5b169ed7d15d383e84ee6105
-title: 'Understanding URL Re-write'
+title: "Understanding URL Re-write"
 url: 'https://blogs.msdn.microsoft.com/madhurabharadwaj/2018/06/01/azure-app-services-understanding-url-re-write/'
 category: 5b169ed7d15d383e84ee6105
 slug: 'understanding-url-re-write'

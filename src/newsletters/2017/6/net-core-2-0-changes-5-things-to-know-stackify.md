@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d2040
-title: '.NET Core 2.0 Changes - 5 Things to Know'
+title: ".NET Core 2.0 Changes - 5 Things to Know"
 url: 'https://stackify.com/net-core-2-0-changes/'
 category: 5a88e1abbd6dca0d5f0d2040
 slug: 'net-core-2-0-changes-5-things-to-know-stackify'

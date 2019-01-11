@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d27bc
-title: 'Why Analytics?'
+title: "Why Analytics?"
 url: 'http://blogs.msdn.com/b/visualstudioalm/archive/2015/01/23/why-analytics.aspx'
 category: 5a88e1adbd6dca0d5f0d27bc
 slug: 'why-analytics'

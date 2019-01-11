@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b14
-title: 'Windows Phone samples: learn through code'
+title: "Windows Phone samples: learn through code"
 url: 'http://code.msdn.microsoft.com/wpapps/site/search?sortBy=Date'
 category: 5a88e1aebd6dca0d5f0d2b14
 slug: 'windows-phone-samples-learn-through-code'

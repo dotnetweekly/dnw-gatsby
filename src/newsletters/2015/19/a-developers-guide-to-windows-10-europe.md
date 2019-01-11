@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d26c6
-title: 'A Developer"s Guide to Windows 10 (Europe)'
+title: "A Developer's Guide to Windows 10 (Europe)"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/a-developers-guide-to-windows-10-europe'
 category: 5a88e1adbd6dca0d5f0d26c6
 slug: 'a-developers-guide-to-windows-10-europe'

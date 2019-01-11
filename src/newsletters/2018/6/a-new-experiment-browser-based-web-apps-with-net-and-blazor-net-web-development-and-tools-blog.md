@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1a64
-title: 'A new experiment: Browser-based web apps with .NET and Blazor | .NET Web Development and Tools Blog'
+title: "A new experiment: Browser-based web apps with .NET and Blazor | .NET Web Development and Tools Blog"
 url: 'https://blogs.msdn.microsoft.com/webdev/2018/02/06/blazor-experimental-project/'
 category: 5a88e1aabd6dca0d5f0d1a64
 slug: 'a-new-experiment-browser-based-web-apps-with-net-and-blazor-net-web-development-and-tools-blog'

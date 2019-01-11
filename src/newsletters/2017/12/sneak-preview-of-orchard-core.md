@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1f84
-title: 'Sneak Preview of Orchard Core'
+title: "Sneak Preview of Orchard Core"
 url: 'https://pusher.com/sessions/meetup/hydrahack/sneak-preview-of-orchard-core'
 category: 5a88e1abbd6dca0d5f0d1f84
 slug: 'sneak-preview-of-orchard-core'

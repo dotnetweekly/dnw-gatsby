@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2528
-title: 'Trace your Application Insights events inside Visual Studio Diagnostic tools'
+title: "Trace your Application Insights events inside Visual Studio Diagnostic tools"
 url: 'http://dailydotnettips.com/2015/11/04/trace-your-application-insights-events-inside-visual-studio-diagnostic-tools/'
 category: 5a88e1adbd6dca0d5f0d2528
 slug: 'trace-your-application-insights-events-inside-visual-studio-diagnostic-tools'

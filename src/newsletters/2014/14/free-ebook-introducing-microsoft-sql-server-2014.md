@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a52
-title: 'Free ebook: Introducing Microsoft SQL Server 2014'
+title: "Free ebook: Introducing Microsoft SQL Server 2014"
 url: 'http://blogs.msdn.com/b/microsoft_press/archive/2014/04/02/free-ebook-introducing-microsoft-sql-server-2014.aspx'
 category: 5a88e1aebd6dca0d5f0d2a52
 slug: 'free-ebook-introducing-microsoft-sql-server-2014'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2830
-title: 'Introducing Visual Studio Community 2013'
+title: "Introducing Visual Studio Community 2013"
 url: 'http://channel9.msdn.com/Events/Visual-Studio/Connect-event-2014/040'
 category: 5a88e1aebd6dca0d5f0d2830
 slug: 'introducing-visual-studio-community-2013'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d3026
-title: 'Windows Azure - No Kidding'
+title: "Windows Azure - No Kidding"
 url: 'http://www.hanselman.com/blog/WindowsAzureNoKidding.aspx'
 category: 5a88e1afbd6dca0d5f0d3026
 slug: 'windows-azure-no-kidding'

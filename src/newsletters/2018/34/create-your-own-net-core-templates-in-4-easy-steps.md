@@ -1,6 +1,6 @@
 ---
 _id: 5b7d5745e62920eb7cf3fe9a
-title: 'Create Your Own .NET Core Templates in 4 Easy Steps'
+title: "Create Your Own .NET Core Templates in 4 Easy Steps"
 url: 'https://www.telerik.com/blogs/create-your-own-net-core-templates-in-4-easy-steps'
 category: 5b7d5745e62920eb7cf3fe9a
 slug: 'create-your-own-net-core-templates-in-4-easy-steps'

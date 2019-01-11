@@ -1,6 +1,6 @@
 ---
 _id: 5ba45b577a4fc4ffecdaab99
-title: 'API Best Practices'
+title: "API Best Practices"
 url: 'https://completedeveloperpodcast.com/episode-162/'
 category: 5ba45b577a4fc4ffecdaab99
 slug: 'api-best-practices'

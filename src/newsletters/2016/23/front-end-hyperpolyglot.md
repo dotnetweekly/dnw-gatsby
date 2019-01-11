@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d230e
-title: 'Front-end Hyperpolyglot'
+title: "Front-end Hyperpolyglot"
 url: 'http://jeffcarp.github.io/frontend-hyperpolyglot/'
 category: 5a88e1acbd6dca0d5f0d230e
 slug: 'front-end-hyperpolyglot'

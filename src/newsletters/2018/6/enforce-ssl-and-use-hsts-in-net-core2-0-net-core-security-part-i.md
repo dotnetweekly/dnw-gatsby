@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1a58
-title: 'Enforce SSL and use HSTS in .Net Core(2.0): .Net Core security Part I'
+title: "Enforce SSL and use HSTS in .Net Core(2.0): .Net Core security Part I"
 url: 'https://neelbhatt.com/2018/02/04/enforce-ssl-and-use-hsts-in-net-core2-0-net-core-security-part-i/'
 category: 5a88e1aabd6dca0d5f0d1a58
 slug: 'enforce-ssl-and-use-hsts-in-net-core2-0-net-core-security-part-i'

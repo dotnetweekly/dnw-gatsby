@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d237e
-title: 'What’s new for the .NET Native Compiler and Runtime in Visual Studio 2015 Update 2'
+title: "What’s new for the .NET Native Compiler and Runtime in Visual Studio 2015 Update 2"
 url: 'https://blogs.msdn.microsoft.com/dotnet/2016/04/18/whats-new-for-the-net-native-compiler-and-runtime-in-visual-studio-2015-update-2/'
 category: 5a88e1acbd6dca0d5f0d237e
 slug: 'whats-new-for-the-net-native-compiler-and-runtime-in-visual-studio-2015-update-2'

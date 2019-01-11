@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2dd0
-title: 'Sublime Text 2 Tips and Tricks'
+title: "Sublime Text 2 Tips and Tricks"
 url: 'http://net.tutsplus.com/tutorials/tools-and-tips/sublime-text-2-tips-and-tricks/'
 category: 5a88e1afbd6dca0d5f0d2dd0
 slug: 'sublime-text-2-tips-and-tricks'

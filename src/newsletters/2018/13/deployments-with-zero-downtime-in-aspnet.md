@@ -1,6 +1,6 @@
 ---
 _id: 5ab9387ec0b22e007e41171f
-title: 'Deployments with Zero Downtime in ASP.NET'
+title: "Deployments with Zero Downtime in ASP.NET"
 url: 'https://lachlanbarclay.net/2017/12/deployments-with-zero-downtime-asp-net'
 category: 5ab9387ec0b22e007e41171f
 slug: 'deployments-with-zero-downtime-in-aspnet'

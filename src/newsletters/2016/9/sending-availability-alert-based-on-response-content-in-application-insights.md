@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2400
-title: 'Sending availability alert based on response content in Application Insights'
+title: "Sending availability alert based on response content in Application Insights"
 url: 'http://dailydotnettips.com/2016/02/29/sending-availability-alert-based-on-response-content-in-application-insights/'
 category: 5a88e1acbd6dca0d5f0d2400
 slug: 'sending-availability-alert-based-on-response-content-in-application-insights'

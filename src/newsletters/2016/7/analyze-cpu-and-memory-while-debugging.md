@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d242e
-title: 'Analyze CPU and Memory while Debugging'
+title: "Analyze CPU and Memory while Debugging"
 url: 'https://blogs.msdn.microsoft.com/visualstudio/2016/02/15/analyze-cpu-memory-while-debugging/'
 category: 5a88e1acbd6dca0d5f0d242e
 slug: 'analyze-cpu-and-memory-while-debugging'

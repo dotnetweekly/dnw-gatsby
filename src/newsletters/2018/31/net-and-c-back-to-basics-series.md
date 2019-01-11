@@ -1,6 +1,6 @@
 ---
 _id: 5b62a92d6b826e6b7df5993f
-title: '.NET & C# - Back to Basics Series'
+title: ".NET & C# - Back to Basics Series"
 url: 'https://dailydotnettips.com/net-c-back-to-basics-series/'
 category: 5b62a92d6b826e6b7df5993f
 slug: 'net-and-c-back-to-basics-series'

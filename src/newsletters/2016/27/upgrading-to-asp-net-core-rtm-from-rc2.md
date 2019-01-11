@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d22de
-title: 'Upgrading to ASP.NET Core RTM from RC2'
+title: "Upgrading to ASP.NET Core RTM from RC2"
 url: 'https://weblog.west-wind.com/posts/2016/Jun/27/Upgrading-to-ASPNET-Core-RTM-from-RC2'
 category: 5a88e1acbd6dca0d5f0d22de
 slug: 'upgrading-to-asp-net-core-rtm-from-rc2'

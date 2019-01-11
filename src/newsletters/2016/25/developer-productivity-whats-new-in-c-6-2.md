@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d22f2
-title: 'Developer Productivity: What"s New in C# 6'
+title: "Developer Productivity: What's New in C# 6"
 url: 'https://mva.microsoft.com/en-US/training-courses/developer-productivity-what-s-new-in-c-6-8733?l=VBfRDaS1_904984382'
 category: 5a88e1acbd6dca0d5f0d22f2
 slug: 'developer-productivity-whats-new-in-c-6-2'

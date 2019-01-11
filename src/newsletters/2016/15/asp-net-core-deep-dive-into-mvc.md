@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d239c
-title: 'ASP.NET Core Deep Dive into MVC'
+title: "ASP.NET Core Deep Dive into MVC"
 url: 'https://channel9.msdn.com/Events/Build/2016/B812'
 category: 5a88e1acbd6dca0d5f0d239c
 slug: 'asp-net-core-deep-dive-into-mvc'

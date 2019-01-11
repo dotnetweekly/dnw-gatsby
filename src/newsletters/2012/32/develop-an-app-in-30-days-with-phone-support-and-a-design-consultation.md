@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2f60
-title: 'Develop an app in 30 days with phone support and a design consultation'
+title: "Develop an app in 30 days with phone support and a design consultation"
 url: 'http://blogs.msdn.com/b/jennifer/archive/2012/08/09/develop-an-app-in-30-days-with-phone-support-and-a-design-consultation.aspx'
 category: 5a88e1afbd6dca0d5f0d2f60
 slug: 'develop-an-app-in-30-days-with-phone-support-and-a-design-consultation'

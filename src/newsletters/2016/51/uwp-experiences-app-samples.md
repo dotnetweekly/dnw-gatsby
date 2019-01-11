@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d20f0
-title: 'UWP Experiences – App Samples'
+title: "UWP Experiences – App Samples"
 url: 'https://blogs.windows.com/buildingapps/2016/12/16/uwp-experiences-app-samples/'
 category: 5a88e1acbd6dca0d5f0d20f0
 slug: 'uwp-experiences-app-samples'

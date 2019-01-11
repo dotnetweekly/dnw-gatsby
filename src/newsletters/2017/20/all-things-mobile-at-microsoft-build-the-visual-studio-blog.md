@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1ec4
-title: 'All Things Mobile at Microsoft Build | The Visual Studio Blog'
+title: "All Things Mobile at Microsoft Build | The Visual Studio Blog"
 url: 'https://blogs.msdn.microsoft.com/visualstudio/2017/05/11/all-things-mobile-at-microsoft-build/'
 category: 5a88e1abbd6dca0d5f0d1ec4
 slug: 'all-things-mobile-at-microsoft-build-the-visual-studio-blog'

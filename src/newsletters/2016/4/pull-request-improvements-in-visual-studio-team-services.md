@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2468
-title: 'Pull Request Improvements in Visual Studio Team Services'
+title: "Pull Request Improvements in Visual Studio Team Services"
 url: 'http://blogs.msdn.com/b/visualstudioalm/archive/2016/01/20/pull-request-improvements-in-vsts.aspx'
 category: 5a88e1acbd6dca0d5f0d2468
 slug: 'pull-request-improvements-in-visual-studio-team-services'

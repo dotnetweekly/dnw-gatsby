@@ -1,6 +1,6 @@
 ---
 _id: 5c0f777af2d6795e4f6aa78e
-title: 'Rock Your Code: Code & App Performance with Microsoft .NET'
+title: "Rock Your Code: Code & App Performance with Microsoft .NET"
 url: 'https://vimeo.com/ondemand/rockyourcodeperf'
 category: 5c0f777af2d6795e4f6aa78e
 slug: 'rock-your-code-code-and-app-performance-with-microsoft-net'

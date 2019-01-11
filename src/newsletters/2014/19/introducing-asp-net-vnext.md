@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d29fe
-title: 'Introducing ASP.NET vNext'
+title: "Introducing ASP.NET vNext"
 url: 'http://www.hanselman.com/blog/IntroducingASPNETVNext.aspx'
 category: 5a88e1aebd6dca0d5f0d29fe
 slug: 'introducing-asp-net-vnext'

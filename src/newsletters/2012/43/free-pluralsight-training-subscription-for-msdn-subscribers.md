@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2e7c
-title: 'Free! Pluralsight Training Subscription for MSDN Subscribers'
+title: "Free! Pluralsight Training Subscription for MSDN Subscribers"
 url: 'http://blogs.msdn.com/b/baliles/archive/2012/10/15/free-pluralsight-training-subscription-for-msdn-subscribers.aspx'
 category: 5a88e1afbd6dca0d5f0d2e7c
 slug: 'free-pluralsight-training-subscription-for-msdn-subscribers'

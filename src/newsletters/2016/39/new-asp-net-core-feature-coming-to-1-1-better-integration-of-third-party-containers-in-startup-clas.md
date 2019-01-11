@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d21f2
-title: 'New ASP.NET Core Feature coming to 1.1 : Better Integration of Third Party Containers in Startup Class'
+title: "New ASP.NET Core Feature coming to 1.1 : Better Integration of Third Party Containers in Startup Class"
 url: 'http://www.maherjendoubi.io/new-asp-net-core-feature-coming-to-1-1-better-integration-of-3rd-party-ioc-containers-in-startup-class/'
 category: 5a88e1acbd6dca0d5f0d21f2
 slug: 'new-asp-net-core-feature-coming-to-1-1-better-integration-of-third-party-containers-in-startup-clas'

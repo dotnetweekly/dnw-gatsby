@@ -1,6 +1,6 @@
 ---
 _id: 5b9fb2c37a4fc4efe0daab8c
-title: 'Complete Awesomeness for Mobile .NET Developers'
+title: "Complete Awesomeness for Mobile .NET Developers"
 url: 'https://channel9.msdn.com/Events/dotnetConf/2018/S106'
 category: 5b9fb2c37a4fc4efe0daab8c
 slug: 'complete-awesomeness-for-mobile-net-developers'

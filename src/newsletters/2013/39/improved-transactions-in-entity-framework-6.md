@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2bf0
-title: 'Improved Transactions in Entity Framework 6 '
+title: "Improved Transactions in Entity Framework 6 "
 url: 'http://www.dotnetcurry.com/ShowArticle.aspx?ID=945'
 category: 5a88e1aebd6dca0d5f0d2bf0
 slug: 'improved-transactions-in-entity-framework-6'

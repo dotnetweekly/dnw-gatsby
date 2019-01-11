@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2e18
-title: 'Quick Start and Code Samples for Bing API'
+title: "Quick Start and Code Samples for Bing API"
 url: 'https://skydrive.live.com/view.aspx?resid=9C9479871FBFA822!112&app=Word'
 category: 5a88e1afbd6dca0d5f0d2e18
 slug: 'quick-start-and-code-samples-for-bing-api'

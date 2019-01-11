@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d29ee
-title: 'Free book on Twitter Bootstrap'
+title: "Free book on Twitter Bootstrap"
 url: 'http://www.syncfusion.com/resources/techportal/ebooks/twitterbootstrap'
 category: 5a88e1aebd6dca0d5f0d29ee
 slug: 'free-book-on-twitter-bootstrap'

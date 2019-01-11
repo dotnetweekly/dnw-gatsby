@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d25b4
-title: 'Building Intelligence into your Apps with Azure Machine Learning with Corom Thompson'
+title: "Building Intelligence into your Apps with Azure Machine Learning with Corom Thompson"
 url: 'https://channel9.msdn.com/Shows/Azure-Friday/Building-Intelligence-into-your-Apps-with-Azure-Machine-Learning-with-Corom-Thompson'
 category: 5a88e1adbd6dca0d5f0d25b4
 slug: 'building-intelligence-into-your-apps-with-azure-machine-learning-with-corom-thompson'

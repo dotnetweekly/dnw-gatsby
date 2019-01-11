@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1b2c
-title: 'Ex-Microsoft exec Julie Larson-Green shares her secrets on building great teams'
+title: "Ex-Microsoft exec Julie Larson-Green shares her secrets on building great teams"
 url: 'https://www.onmsft.com/news/ex-microsoft-exec-julie-larson-green-shares-her-secrets-on-building-great-teams'
 category: 5a88e1aabd6dca0d5f0d1b2c
 slug: 'ex-microsoft-exec-julie-larson-green-shares-her-secrets-on-building-great-teams'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2658
-title: 'Large Web Applications Challenges'
+title: "Large Web Applications Challenges"
 url: 'http://www.softdevtube.com/2015/06/23/large-web-applications-challenges/'
 category: 5a88e1adbd6dca0d5f0d2658
 slug: 'large-web-applications-challenges'

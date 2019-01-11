@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d27c8
-title: 'Diagnostic Tools debugger window in Visual Studio 2015'
+title: "Diagnostic Tools debugger window in Visual Studio 2015"
 url: 'http://blogs.msdn.com/b/visualstudioalm/archive/2015/01/16/diagnostic-tools-debugger-window-in-visual-studio-2015.aspx'
 category: 5a88e1adbd6dca0d5f0d27c8
 slug: 'diagnostic-tools-debugger-window-in-visual-studio-2015'

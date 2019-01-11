@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1bdc
-title: 'SQL Operations Studio'
+title: "SQL Operations Studio"
 url: 'https://www.microsoft.com/en-us/sql-server/sql-server-downloads'
 category: 5a88e1aabd6dca0d5f0d1bdc
 slug: 'sql-operations-studio'

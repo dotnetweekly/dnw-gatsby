@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1b96
-title: 'Guidelines for ASP.NET MVC Core Views'
+title: "Guidelines for ASP.NET MVC Core Views"
 url: 'https://msdn.microsoft.com/magazine/mt845625'
 category: 5a88e1aabd6dca0d5f0d1b96
 slug: 'guidelines-for-asp-net-mvc-core-views'

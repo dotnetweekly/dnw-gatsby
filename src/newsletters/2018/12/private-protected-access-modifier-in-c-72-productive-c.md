@@ -1,6 +1,6 @@
 ---
 _id: 5ab21b8b13c51c025e3879cd
-title: 'Private Protected Access Modifier in C# 7.2 - Productive C#'
+title: "Private Protected Access Modifier in C# 7.2 - Productive C#"
 url: 'https://www.productivecsharp.com/2018/03/private-protected-csharp72/'
 category: 5ab21b8b13c51c025e3879cd
 slug: 'private-protected-access-modifier-in-c-72-productive-c'

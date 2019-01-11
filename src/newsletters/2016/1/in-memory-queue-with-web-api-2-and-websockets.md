@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d249a
-title: 'In-Memory Queue with Web API 2 and Websockets'
+title: "In-Memory Queue with Web API 2 and Websockets"
 url: 'http://geekswithblogs.net/DougLampe/archive/2016/01/02/in-memory-queue-with-web-api-2-and-websockets.aspx'
 category: 5a88e1adbd6dca0d5f0d249a
 slug: 'in-memory-queue-with-web-api-2-and-websockets'

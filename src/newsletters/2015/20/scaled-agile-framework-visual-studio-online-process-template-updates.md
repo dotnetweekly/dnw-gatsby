@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d26b2
-title: 'Scaled Agile Framework: Visual Studio Online process template updates'
+title: "Scaled Agile Framework: Visual Studio Online process template updates"
 url: 'http://blogs.msdn.com/b/visualstudioalm/archive/2015/05/15/scaled-agile-framework-visual-studio-online-process-template-updates.aspx'
 category: 5a88e1adbd6dca0d5f0d26b2
 slug: 'scaled-agile-framework-visual-studio-online-process-template-updates'

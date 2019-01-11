@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d3078
-title: 'Get Your App Early Access to Windows 8 Store'
+title: "Get Your App Early Access to Windows 8 Store"
 url: 'http://blogs.msdn.com/b/dachou/archive/2012/05/08/get-your-app-early-access-to-windows-8-store.aspx'
 category: 5a88e1afbd6dca0d5f0d3078
 slug: 'get-your-app-early-access-to-windows-8-store'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d0c
-title: 'Migrating a Windows Phone 7 app to a Windows Store app using XAML'
+title: "Migrating a Windows Phone 7 app to a Windows Store app using XAML"
 url: 'http://msdn.microsoft.com/en-us/library/windows/apps/hh465136.aspx#mapping'
 category: 5a88e1afbd6dca0d5f0d2d0c
 slug: 'migrating-a-windows-phone-7-app-to-a-windows-store-app-using-xaml'

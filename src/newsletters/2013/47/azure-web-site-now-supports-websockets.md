@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b78
-title: 'Azure Web Site now supports WebSockets'
+title: "Azure Web Site now supports WebSockets"
 url: 'http://blogs.msdn.com/b/webdev/archive/2013/11/14/azure-web-site-now-supports-websockets.aspx'
 category: 5a88e1aebd6dca0d5f0d2b78
 slug: 'azure-web-site-now-supports-websockets'

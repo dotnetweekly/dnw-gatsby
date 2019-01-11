@@ -1,6 +1,6 @@
 ---
 _id: 5ad2b772325044006eb6d65d
-title: 'Announcing HTTP/2 support in Azure App Service'
+title: "Announcing HTTP/2 support in Azure App Service"
 url: 'https://blogs.msdn.microsoft.com/appserviceteam/2018/04/13/announcing-http2-support-in-azure-app-service/'
 category: 5ad2b772325044006eb6d65d
 slug: 'announcing-http-2-support-in-azure-app-service'

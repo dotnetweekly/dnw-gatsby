@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1b48
-title: 'Service Workers: Going beyond the page'
+title: "Service Workers: Going beyond the page"
 url: 'https://blogs.windows.com/msedgedev/2017/12/19/service-workers-going-beyond-page/'
 category: 5a88e1aabd6dca0d5f0d1b48
 slug: 'service-workers-going-beyond-the-page'

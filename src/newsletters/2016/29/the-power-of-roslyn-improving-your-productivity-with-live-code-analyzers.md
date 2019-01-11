@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d22b0
-title: 'The Power of Roslyn: Improving Your Productivity with Live Code Analyzers'
+title: "The Power of Roslyn: Improving Your Productivity with Live Code Analyzers"
 url: 'https://channel9.msdn.com/Events/dotnetConf/2016/The-Power-of-Roslyn-Improving-Your-Productivity-with-Live-Code-Analyzers'
 category: 5a88e1acbd6dca0d5f0d22b0
 slug: 'the-power-of-roslyn-improving-your-productivity-with-live-code-analyzers'

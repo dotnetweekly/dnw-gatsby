@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a4e
-title: 'Special Offers from Build 2014 '
+title: "Special Offers from Build 2014 "
 url: 'http://msdn.microsoft.com/en-US/specialoffers'
 category: 5a88e1aebd6dca0d5f0d2a4e
 slug: 'special-offers-from-build-2014'

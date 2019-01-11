@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2bf6
-title: 'Exploring CQRS and Event Sourcing'
+title: "Exploring CQRS and Event Sourcing"
 url: 'http://msdn.microsoft.com/en-us/library/jj554200.aspx'
 category: 5a88e1aebd6dca0d5f0d2bf6
 slug: 'exploring-cqrs-and-event-sourcing'

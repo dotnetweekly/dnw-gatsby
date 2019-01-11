@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d258a
-title: 'It"s Universal: Understanding the Lifecycle of a Windows 10 Application'
+title: "It's Universal: Understanding the Lifecycle of a Windows 10 Application"
 url: 'https://visualstudiomagazine.com/articles/2015/09/01/its-universal.aspx'
 category: 5a88e1adbd6dca0d5f0d258a
 slug: 'its-universal-understanding-the-lifecycle-of-a-windows-10-application'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d273c
-title: 'The .NET Voyage into Open Source'
+title: "The .NET Voyage into Open Source"
 url: 'http://channel9.msdn.com/Events/dotnetConf/2015/The-NET-Voyage-into-Open-Source'
 category: 5a88e1adbd6dca0d5f0d273c
 slug: 'the-net-voyage-into-open-source'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2950
-title: 'Logstalgia is a website access log visualization tool. (for fun)'
+title: "Logstalgia is a website access log visualization tool. (for fun)"
 url: 'https://code.google.com/p/logstalgia/'
 category: 5a88e1aebd6dca0d5f0d2950
 slug: 'logstalgia-aka-apachepong-is-a-website-access-log-visualization-tool'

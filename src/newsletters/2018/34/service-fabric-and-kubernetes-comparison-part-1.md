@@ -1,6 +1,6 @@
 ---
 _id: 5b7b7a89e6292040d1f3fe91
-title: 'Service Fabric and Kubernetes comparison, part 1'
+title: "Service Fabric and Kubernetes comparison, part 1"
 url: 'https://blogs.msdn.microsoft.com/azuredev/2018/08/15/service-fabric-and-kubernetes-comparison-part-1-distributed-systems-architecture/'
 category: 5b7b7a89e6292040d1f3fe91
 slug: 'service-fabric-and-kubernetes-comparison-part-1'

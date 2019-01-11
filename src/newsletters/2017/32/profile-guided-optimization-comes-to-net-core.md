@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1d74
-title: 'Profile Guided Optimization Comes to .NET Core'
+title: "Profile Guided Optimization Comes to .NET Core"
 url: 'https://www.infoq.com/news/2017/07/pgo-NETCore'
 category: 5a88e1abbd6dca0d5f0d1d74
 slug: 'profile-guided-optimization-comes-to-net-core'

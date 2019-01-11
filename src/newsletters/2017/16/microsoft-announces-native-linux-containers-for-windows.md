@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1f1c
-title: 'Microsoft announces native Linux containers for Windows'
+title: "Microsoft announces native Linux containers for Windows"
 url: 'https://mspoweruser.com/microsoft-announces-native-linux-containers-windows/'
 category: 5a88e1abbd6dca0d5f0d1f1c
 slug: 'microsoft-announces-native-linux-containers-for-windows'

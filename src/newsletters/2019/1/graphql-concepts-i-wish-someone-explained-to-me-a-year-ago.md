@@ -1,6 +1,6 @@
 ---
 _id: 5c30bd5c4acc321e2d2fe4bb
-title: 'GraphQL concepts I wish someone explained to me a year ago'
+title: "GraphQL concepts I wish someone explained to me a year ago"
 url: 'https://medium.com/naresh-bhatia/graphql-concepts-i-wish-someone-explained-to-me-a-year-ago-514d5b3c0eab'
 category: 5c30bd5c4acc321e2d2fe4bb
 slug: 'graphql-concepts-i-wish-someone-explained-to-me-a-year-ago'

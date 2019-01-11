@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d3042
-title: 'Windows 8 Developer Camp – On Demand'
+title: "Windows 8 Developer Camp – On Demand"
 url: 'http://channel9.msdn.com/Events/Windows-Camp/Windows-8-Developer-Camp-On-Demand'
 category: 5a88e1afbd6dca0d5f0d3042
 slug: 'windows-8-developer-camp-on-demand'

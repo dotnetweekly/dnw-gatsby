@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2434
-title: 'ASP.NET - Progressive Enhancement with ASP.NET and React'
+title: "ASP.NET - Progressive Enhancement with ASP.NET and React"
 url: 'https://msdn.microsoft.com/el-gr/magazine/mt632272'
 category: 5a88e1acbd6dca0d5f0d2434
 slug: 'asp-net-progressive-enhancement-with-asp-net-and-react'

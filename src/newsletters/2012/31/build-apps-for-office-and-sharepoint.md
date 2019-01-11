@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2f84
-title: 'Build apps for Office and SharePoint'
+title: "Build apps for Office and SharePoint"
 url: 'http://msdn.microsoft.com/en-US/office/apps'
 category: 5a88e1afbd6dca0d5f0d2f84
 slug: 'build-apps-for-office-and-sharepoint'

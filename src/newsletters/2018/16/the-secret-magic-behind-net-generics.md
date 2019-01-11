@@ -1,6 +1,6 @@
 ---
 _id: 5ad54ebbac55b0004e057ac4
-title: 'The secret magic behind .NET generics'
+title: "The secret magic behind .NET generics"
 url: 'http://yizhang82.me/dotnet-generics-typeof-t'
 category: 5ad54ebbac55b0004e057ac4
 slug: 'the-secret-magic-behind-net-generics'

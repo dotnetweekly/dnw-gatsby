@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1e28
-title: 'Testing ASP.NET Core MVC Controllers: Getting Started'
+title: "Testing ASP.NET Core MVC Controllers: Getting Started"
 url: 'http://dontcodetired.com/blog/post/Testing-ASPNET-Core-MVC-Controllers-Getting-Started'
 category: 5a88e1abbd6dca0d5f0d1e28
 slug: 'testing-asp-net-core-mvc-controllers-getting-started'

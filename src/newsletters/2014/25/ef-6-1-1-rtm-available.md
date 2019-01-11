@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d29b4
-title: 'EF 6.1.1 RTM Available'
+title: "EF 6.1.1 RTM Available"
 url: 'http://blogs.msdn.com/b/adonet/archive/2014/06/20/ef-6-1-1-rtm-available.aspx'
 category: 5a88e1aebd6dca0d5f0d29b4
 slug: 'ef-6-1-1-rtm-available'

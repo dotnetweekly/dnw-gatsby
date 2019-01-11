@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2e0a
-title: 'Windows 8 Books'
+title: "Windows 8 Books"
 url: 'http://www.infragistics.com/community/blogs/marketing/archive/2012/12/31/windows-8-books.aspx'
 category: 5a88e1afbd6dca0d5f0d2e0a
 slug: 'windows-8-books'

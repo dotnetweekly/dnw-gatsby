@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d66
-title: 'Working With Jeet: an Alternative Responsive Framework'
+title: "Working With Jeet: an Alternative Responsive Framework"
 url: 'http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/working-with-jeet-an-alternative-responsive-framework/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+webdesigntutsplus+%28Webdesigntuts%2B%29'
 category: 5a88e1afbd6dca0d5f0d2d66
 slug: 'working-with-jeet-an-alternative-responsive-framework'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a5e
-title: 'Visual Studio 2013 keyboard shortcuts'
+title: "Visual Studio 2013 keyboard shortcuts"
 url: 'http://visualstudioshortcuts.com/2013/'
 category: 5a88e1aebd6dca0d5f0d2a5e
 slug: 'visual-studio-2013-keyboard-shortcuts'

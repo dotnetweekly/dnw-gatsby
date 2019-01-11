@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2432
-title: 'Angular.js Service and Factory'
+title: "Angular.js Service and Factory"
 url: 'http://www.dotnetcurry.com/angularjs/1252/angularjs-service-factory'
 category: 5a88e1acbd6dca0d5f0d2432
 slug: 'angular-js-service-and-factory'

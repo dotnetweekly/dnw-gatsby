@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2796
-title: 'To Repository Or NOT'
+title: "To Repository Or NOT"
 url: 'http://www.codeproject.com/Articles/875165/To-Repository-Or-NOT'
 category: 5a88e1adbd6dca0d5f0d2796
 slug: 'to-repository-or-not'

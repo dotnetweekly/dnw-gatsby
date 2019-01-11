@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2304
-title: 'ASP.NET Core: Getting Started with AngularJS 2'
+title: "ASP.NET Core: Getting Started with AngularJS 2"
 url: 'http://www.codeproject.com/Articles/1105223/ASP-NET-Core-Getting-Started-with-AngularJS'
 category: 5a88e1acbd6dca0d5f0d2304
 slug: 'asp-net-core-getting-started-with-angularjs-2'

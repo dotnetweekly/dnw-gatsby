@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d286c
-title: 'MVP Showcase at the MVP Summit'
+title: "MVP Showcase at the MVP Summit"
 url: 'http://blogs.msdn.com/b/mvpawardprogram/archive/2014/10/30/mvp-showcase-at-the-mvp-summit.aspx'
 category: 5a88e1aebd6dca0d5f0d286c
 slug: 'mvp-showcase-at-the-mvp-summit'

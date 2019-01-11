@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1b3a
-title: 'Building ASP.NET Core apps using Cake in Docker'
+title: "Building ASP.NET Core apps using Cake in Docker"
 url: 'https://andrewlock.net/building-asp-net-core-apps-using-cake-in-docker/'
 category: 5a88e1aabd6dca0d5f0d1b3a
 slug: 'building-asp-net-core-apps-using-cake-in-docker'

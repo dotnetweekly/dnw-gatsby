@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d98
-title: 'Chatting up your Windows Phone 8 Apps'
+title: "Chatting up your Windows Phone 8 Apps"
 url: 'http://channel9.msdn.com/coding4fun/blog/Chatting-up-your-Windows-Phone-8-Apps'
 category: 5a88e1afbd6dca0d5f0d2d98
 slug: 'chatting-up-your-windows-phone-8-apps'

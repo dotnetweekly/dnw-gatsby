@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2552
-title: 'Announcing Availability of ASP.NET 5 Beta8'
+title: "Announcing Availability of ASP.NET 5 Beta8"
 url: 'http://blogs.msdn.com/b/webdev/archive/2015/10/15/announcing-availability-of-asp-net-5-beta8.aspx'
 category: 5a88e1adbd6dca0d5f0d2552
 slug: 'announcing-availability-of-asp-net-5-beta8'

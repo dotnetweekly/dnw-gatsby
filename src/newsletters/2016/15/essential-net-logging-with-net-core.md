@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d23a0
-title: 'Essential .NET - Logging with .NET Core'
+title: "Essential .NET - Logging with .NET Core"
 url: 'https://msdn.microsoft.com/en-us/magazine/mt694089'
 category: 5a88e1acbd6dca0d5f0d23a0
 slug: 'essential-net-logging-with-net-core'

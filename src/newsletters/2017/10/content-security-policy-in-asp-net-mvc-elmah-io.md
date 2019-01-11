@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1fb6
-title: 'Content-Security-Policy in ASP.NET MVC'
+title: "Content-Security-Policy in ASP.NET MVC"
 url: 'https://blog.elmah.io/content-security-policy-in-asp-net-mvc/'
 category: 5a88e1abbd6dca0d5f0d1fb6
 slug: 'content-security-policy-in-asp-net-mvc-elmah-io'

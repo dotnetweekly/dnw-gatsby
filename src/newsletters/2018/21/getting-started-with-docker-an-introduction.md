@@ -1,6 +1,6 @@
 ---
 _id: 5b032eab4c83f90fa4470259
-title: 'Getting Started With Docker – An Introduction'
+title: "Getting Started With Docker – An Introduction"
 url: 'https://dotnetcore.gaprogman.com/2018/05/17/getting-started-with-docker-an-introduction/'
 category: 5b032eab4c83f90fa4470259
 slug: 'getting-started-with-docker-an-introduction'

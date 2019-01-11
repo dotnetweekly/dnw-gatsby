@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1b42
-title: 'Boost your productivity with Visual Studio"s DebuggerAttributes'
+title: "Boost your productivity with Visual Studio's DebuggerAttributes"
 url: 'https://blog.oz-code.com/boost-productivity-visual-studios-debuggerattributes/'
 category: 5a88e1aabd6dca0d5f0d1b42
 slug: 'boost-your-productivity-with-visual-studios-debuggerattributes'

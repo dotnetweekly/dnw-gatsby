@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2356
-title: 'Continuous Deployment of Service Fabric Apps using VSTS (or TFS)'
+title: "Continuous Deployment of Service Fabric Apps using VSTS (or TFS)"
 url: 'http://www.colinsalmcorner.com/post/continuous-deployment-of-service-fabric-apps-using-vsts-or-tfs'
 category: 5a88e1acbd6dca0d5f0d2356
 slug: 'continuous-deployment-of-service-fabric-apps-using-vsts-or-tfs'

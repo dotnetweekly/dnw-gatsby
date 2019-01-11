@@ -1,6 +1,6 @@
 ---
 _id: 5afa6156416efa6705328cc9
-title: 'Introducing ML.NET: Cross-platform, Proven and Open Source Machine Learning Framework'
+title: "Introducing ML.NET: Cross-platform, Proven and Open Source Machine Learning Framework"
 url: 'https://blogs.msdn.microsoft.com/dotnet/2018/05/07/introducing-ml-net-cross-platform-proven-and-open-source-machine-learning-framework/'
 category: 5afa6156416efa6705328cc9
 slug: 'introducing-mlnet-cross-platform-proven-and-open-source-machine-learning-framework'

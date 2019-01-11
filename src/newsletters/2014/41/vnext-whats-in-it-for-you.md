@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d28ac
-title: 'vNext: What"s in It for You?'
+title: "vNext: What's in It for You?"
 url: 'http://visualstudiomagazine.com/articles/2014/10/01/vnext.aspx'
 category: 5a88e1aebd6dca0d5f0d28ac
 slug: 'vnext-whats-in-it-for-you'

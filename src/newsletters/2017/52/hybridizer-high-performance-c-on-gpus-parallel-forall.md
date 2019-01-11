@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1b36
-title: 'Hybridizer: High-Performance C# on GPUs | Parallel Forall'
+title: "Hybridizer: High-Performance C# on GPUs | Parallel Forall"
 url: 'https://devblogs.nvidia.com/parallelforall/hybridizer-csharp/'
 category: 5a88e1aabd6dca0d5f0d1b36
 slug: 'hybridizer-high-performance-c-on-gpus-parallel-forall'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d29e0
-title: 'INTRODUCING: The Future of .NET on the Server'
+title: "INTRODUCING: The Future of .NET on the Server"
 url: 'http://channel9.msdn.com/Events/TechEd/NorthAmerica/2014/DEV-B385#fbid='
 category: 5a88e1aebd6dca0d5f0d29e0
 slug: 'introducing-the-future-of-net-on-the-server'

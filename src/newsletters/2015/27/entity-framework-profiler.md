@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d264c
-title: 'Entity Framework Profiler'
+title: "Entity Framework Profiler"
 url: 'http://hibernatingrhinos.com/products/efprof/incoming'
 category: 5a88e1adbd6dca0d5f0d264c
 slug: 'entity-framework-profiler'

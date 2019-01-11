@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d3058
-title: 'Introducing GitHub For Windows'
+title: "Introducing GitHub For Windows"
 url: 'http://haacked.com/archive/2012/05/21/introducing-github-for-windows.aspx'
 category: 5a88e1afbd6dca0d5f0d3058
 slug: 'introducing-github-for-windows'

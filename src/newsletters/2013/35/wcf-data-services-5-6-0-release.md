@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2c2e
-title: 'WCF Data Services 5.6.0 Release'
+title: "WCF Data Services 5.6.0 Release"
 url: 'http://blogs.msdn.com/b/astoriateam/archive/2013/08/26/wcf-data-services-5-6-0-release.aspx'
 category: 5a88e1aebd6dca0d5f0d2c2e
 slug: 'wcf-data-services-5-6-0-release'

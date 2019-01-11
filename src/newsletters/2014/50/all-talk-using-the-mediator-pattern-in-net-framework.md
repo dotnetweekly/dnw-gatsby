@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2810
-title: 'All Talk: Using the Mediator Pattern in .NET Framework'
+title: "All Talk: Using the Mediator Pattern in .NET Framework"
 url: 'http://visualstudiomagazine.com/articles/2014/12/11/mediator-pattern-net-framework.aspx'
 category: 5a88e1adbd6dca0d5f0d2810
 slug: 'all-talk-using-the-mediator-pattern-in-net-framework'

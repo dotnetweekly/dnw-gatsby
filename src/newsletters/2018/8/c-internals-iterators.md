@@ -1,6 +1,6 @@
 ---
 _id: 5a8bdf983b936a002a308a24
-title: 'C# internals: iterators'
+title: "C# internals: iterators"
 url: 'http://foreverframe.net/c-internals-iterators/'
 category: 5a8bdf983b936a002a308a24
 slug: 'c-internals-iterators'

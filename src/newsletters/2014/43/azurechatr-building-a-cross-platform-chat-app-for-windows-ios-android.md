@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2882
-title: 'AZURECHATR: BUILDING A CROSS-PLATFORM CHAT APP FOR WINDOWS, IOS & ANDROID'
+title: "AZURECHATR: BUILDING A CROSS-PLATFORM CHAT APP FOR WINDOWS, IOS & ANDROID"
 url: 'http://www.ageofmobility.com/2014/10/06/azurechatr-building-a-cross-platform-chat-app-for-windows-ios-android/'
 category: 5a88e1aebd6dca0d5f0d2882
 slug: 'azurechatr-building-a-cross-platform-chat-app-for-windows-ios-android'

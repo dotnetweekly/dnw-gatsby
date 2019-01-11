@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2590
-title: 'Developing Advanced 2D Games with HTML5'
+title: "Developing Advanced 2D Games with HTML5"
 url: 'https://www.microsoftvirtualacademy.com/en-US/training-courses/developing-advanced-2d-games-with-html5-8452'
 category: 5a88e1adbd6dca0d5f0d2590
 slug: 'developing-advanced-2d-games-with-html5-2'

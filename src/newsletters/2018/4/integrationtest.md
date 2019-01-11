@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1ac0
-title: 'IntegrationTest'
+title: "IntegrationTest"
 url: 'https://martinfowler.com/bliki/IntegrationTest.html'
 category: 5a88e1aabd6dca0d5f0d1ac0
 slug: 'integrationtest'

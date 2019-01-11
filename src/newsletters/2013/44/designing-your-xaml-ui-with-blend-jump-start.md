@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b9e
-title: 'Designing Your XAML UI with Blend Jump Start'
+title: "Designing Your XAML UI with Blend Jump Start"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/designing-your-xaml-ui-with-blend-jump-start#?fbid=RfHc7HWJo2b'
 category: 5a88e1aebd6dca0d5f0d2b9e
 slug: 'designing-your-xaml-ui-with-blend-jump-start'

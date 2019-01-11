@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d244e
-title: 'A Brief Look at the .NET Portability Analyzer'
+title: "A Brief Look at the .NET Portability Analyzer"
 url: 'https://channel9.msdn.com/Blogs/Seth-Juarez/A-Brief-Look-at-the-NET-Portability-Analyzer'
 category: 5a88e1acbd6dca0d5f0d244e
 slug: 'a-brief-look-at-the-net-portability-analyzer'

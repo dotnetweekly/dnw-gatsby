@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2394
-title: 'Previewing Salsa – the New JavaScript Language Service in Visual Studio "15"'
+title: "Previewing Salsa – the New JavaScript Language Service in Visual Studio '15'"
 url: 'https://blogs.msdn.microsoft.com/visualstudio/2016/04/08/previewing-salsa-javascript-language-service-visual-studio-15/'
 category: 5a88e1acbd6dca0d5f0d2394
 slug: 'previewing-salsa-the-new-javascript-language-service-in-visual-studio-15'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d235a
-title: 'Simplify Code with the Visitor Pattern'
+title: "Simplify Code with the Visitor Pattern"
 url: 'https://visualstudiomagazine.com/articles/2016/05/01/visitor-pattern.aspx'
 category: 5a88e1acbd6dca0d5f0d235a
 slug: 'simplify-code-with-the-visitor-pattern'

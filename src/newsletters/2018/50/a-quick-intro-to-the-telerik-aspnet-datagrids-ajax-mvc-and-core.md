@@ -1,6 +1,6 @@
 ---
 _id: 5c10d41cc180f037ab30fbad
-title: 'A Quick Intro to the Telerik ASP.NET DataGrids – AJAX, MVC and Core'
+title: "A Quick Intro to the Telerik ASP.NET DataGrids – AJAX, MVC and Core"
 url: 'https://www.telerik.com/blogs/introduction-telerik-aspnet-datagrids-ajax-mvc-core'
 category: 5c10d41cc180f037ab30fbad
 slug: 'a-quick-intro-to-the-telerik-aspnet-datagrids-ajax-mvc-and-core'

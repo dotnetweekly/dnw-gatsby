@@ -1,6 +1,6 @@
 ---
 _id: 5ae96864973d49002dcafb88
-title: 'Using subdomain based pipeline branching for static files delivery optimization in ASP.NET Core'
+title: "Using subdomain based pipeline branching for static files delivery optimization in ASP.NET Core"
 url: 'https://www.tpeczek.com/2018/04/using-subdomain-based-pipeline.html'
 category: 5ae96864973d49002dcafb88
 slug: 'using-subdomain-based-pipeline-branching-for-static-files-delivery-optimization-in-aspnet-core'

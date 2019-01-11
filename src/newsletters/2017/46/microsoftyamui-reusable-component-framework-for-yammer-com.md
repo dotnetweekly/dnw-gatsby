@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1be0
-title: 'Microsoft/YamUI: Reusable component framework for Yammer.com'
+title: "Microsoft/YamUI: Reusable component framework for Yammer.com"
 url: 'https://github.com/Microsoft/YamUI'
 category: 5a88e1aabd6dca0d5f0d1be0
 slug: 'microsoftyamui-reusable-component-framework-for-yammer-com'

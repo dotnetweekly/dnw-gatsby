@@ -1,6 +1,6 @@
 ---
 _id: 5adf6964724957005e0d2a10
-title: 'Help us plan the future of .NET!'
+title: "Help us plan the future of .NET!"
 url: 'https://blogs.msdn.microsoft.com/dotnet/2018/04/20/help-us-plan-the-future-of-net/'
 category: 5adf6964724957005e0d2a10
 slug: 'help-us-plan-the-future-of-net'

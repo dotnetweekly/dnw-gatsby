@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2f6c
-title: 'Meet the Windows Phone Dev Center'
+title: "Meet the Windows Phone Dev Center"
 url: 'http://windowsteamblog.com/windows_phone/b/wpdev/archive/2012/08/07/meet-the-windows-phone-dev-center.aspx'
 category: 5a88e1afbd6dca0d5f0d2f6c
 slug: 'meet-the-windows-phone-dev-center'

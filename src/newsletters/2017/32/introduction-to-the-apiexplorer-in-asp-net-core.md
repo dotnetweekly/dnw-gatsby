@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1d68
-title: 'Introduction to the ApiExplorer in ASP.NET Core'
+title: "Introduction to the ApiExplorer in ASP.NET Core"
 url: 'https://andrewlock.net/introduction-to-the-apiexplorer-in-asp-net-core/'
 category: 5a88e1abbd6dca0d5f0d1d68
 slug: 'introduction-to-the-apiexplorer-in-asp-net-core'

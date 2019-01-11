@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b80
-title: 'Windows 8.1 Developer Training: Geek Edition'
+title: "Windows 8.1 Developer Training: Geek Edition"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/windows-8-1-developer-training-geek-edition#?fbid=RfHc7HWJo2b'
 category: 5a88e1aebd6dca0d5f0d2b80
 slug: 'windows-8-1-developer-training-geek-edition'

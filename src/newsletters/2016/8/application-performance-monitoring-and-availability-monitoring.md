@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2410
-title: 'Application Performance Monitoring and Availability Monitoring'
+title: "Application Performance Monitoring and Availability Monitoring"
 url: 'https://channel9.msdn.com/Series/DevOps-Fundamentals/Application-Performance-Monitoring-and-Availability-Monitoring'
 category: 5a88e1acbd6dca0d5f0d2410
 slug: 'application-performance-monitoring-and-availability-monitoring'

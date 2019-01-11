@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2622
-title: 'Visual Studio 2015 and .NET 4.6 Available for Download'
+title: "Visual Studio 2015 and .NET 4.6 Available for Download"
 url: 'http://blogs.msdn.com/b/somasegar/archive/2015/07/20/visual-studio-2015-and-net-4-6-available-for-download.aspx'
 category: 5a88e1adbd6dca0d5f0d2622
 slug: 'visual-studio-2015-and-net-4-6-available-for-download'

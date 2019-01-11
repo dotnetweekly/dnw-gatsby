@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a90
-title: 'Now shipping: Principles of Object-Oriented JavaScript'
+title: "Now shipping: Principles of Object-Oriented JavaScript"
 url: 'http://www.nczonline.net/blog/2014/02/25/now-shipping-principles-of-object-oriented-javascript/'
 category: 5a88e1aebd6dca0d5f0d2a90
 slug: 'now-shipping-principles-of-object-oriented-javascript'

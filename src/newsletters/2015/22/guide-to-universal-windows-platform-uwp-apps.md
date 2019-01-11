@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d268e
-title: 'Guide to Universal Windows Platform (UWP) apps'
+title: "Guide to Universal Windows Platform (UWP) apps"
 url: 'https://msdn.microsoft.com/library/windows/apps/dn894631.aspx'
 category: 5a88e1adbd6dca0d5f0d268e
 slug: 'guide-to-universal-windows-platform-uwp-apps'

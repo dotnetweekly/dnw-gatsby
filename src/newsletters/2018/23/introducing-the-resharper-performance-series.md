@@ -1,6 +1,6 @@
 ---
 _id: 5b169df3d15d384216ee6101
-title: 'Introducing the ReSharper performance series'
+title: "Introducing the ReSharper performance series"
 url: 'https://blog.jetbrains.com/dotnet/2018/05/28/introducing-resharper-performance-series/'
 category: 5b169df3d15d384216ee6101
 slug: 'introducing-the-resharper-performance-series'

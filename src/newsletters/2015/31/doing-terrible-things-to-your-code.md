@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2600
-title: 'Doing Terrible Things To Your Code'
+title: "Doing Terrible Things To Your Code"
 url: 'http://blog.codinghorror.com/doing-terrible-things-to-your-code/'
 category: 5a88e1adbd6dca0d5f0d2600
 slug: 'doing-terrible-things-to-your-code'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2bd0
-title: 'Memento Pattern'
+title: "Memento Pattern"
 url: 'http://www.codeproject.com/Articles/667701/Memento-Pattern'
 category: 5a88e1aebd6dca0d5f0d2bd0
 slug: 'memento-pattern'

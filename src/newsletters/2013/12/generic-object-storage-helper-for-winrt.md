@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d54
-title: 'Generic Object Storage Helper for WinRT'
+title: "Generic Object Storage Helper for WinRT"
 url: 'http://winrtstoragehelper.codeplex.com/'
 category: 5a88e1afbd6dca0d5f0d2d54
 slug: 'generic-object-storage-helper-for-winrt'

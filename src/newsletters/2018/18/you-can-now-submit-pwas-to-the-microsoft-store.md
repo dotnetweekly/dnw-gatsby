@@ -1,6 +1,6 @@
 ---
 _id: 5aeaa077cabb5e781d383cac
-title: 'You can now submit PWAs to the Microsoft Store'
+title: "You can now submit PWAs to the Microsoft Store"
 url: 'https://blogs.windows.com/buildingapps/2018/05/01/the-3-improvements-to-dev-center-you-should-know-about/'
 category: 5aeaa077cabb5e781d383cac
 slug: 'you-can-now-submit-pwas-to-the-microsoft-store'

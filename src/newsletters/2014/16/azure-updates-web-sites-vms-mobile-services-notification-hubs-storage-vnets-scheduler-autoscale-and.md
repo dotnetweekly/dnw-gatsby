@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a34
-title: 'Azure Updates: Web Sites, VMs, Mobile Services, Notification Hubs, Storage, VNets, Scheduler, AutoScale and More'
+title: "Azure Updates: Web Sites, VMs, Mobile Services, Notification Hubs, Storage, VNets, Scheduler, AutoScale and More"
 url: 'http://weblogs.asp.net/scottgu/archive/2014/04/14/azure-updates-web-sites-vms-mobile-services-notification-hubs-storage-vnets-schedule-autoscale-and-more.aspx'
 category: 5a88e1aebd6dca0d5f0d2a34
 slug: 'azure-updates-web-sites-vms-mobile-services-notification-hubs-storage-vnets-scheduler-autoscale-and'

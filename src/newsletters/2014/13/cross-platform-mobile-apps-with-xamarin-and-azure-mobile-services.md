@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2a62
-title: 'Cross Platform Mobile Apps with Xamarin and Azure Mobile Services'
+title: "Cross Platform Mobile Apps with Xamarin and Azure Mobile Services"
 url: 'http://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Cross-Platform-Mobile-Apps-with-Xamarin-and-Azure-Mobile-Services'
 category: 5a88e1aebd6dca0d5f0d2a62
 slug: 'cross-platform-mobile-apps-with-xamarin-and-azure-mobile-services'

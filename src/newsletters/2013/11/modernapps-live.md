@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d72
-title: 'ModernApps Live!'
+title: "ModernApps Live!"
 url: 'http://modernappslive.com/Events/Las-Vegas-2013/Home.aspx'
 category: 5a88e1afbd6dca0d5f0d2d72
 slug: 'modernapps-live'

@@ -1,6 +1,6 @@
 ---
 _id: 5ac18c3a6222cd022e712d4c
-title: 'Modern Frontend Developer in 2018'
+title: "Modern Frontend Developer in 2018"
 url: 'https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c'
 category: 5ac18c3a6222cd022e712d4c
 slug: 'modern-frontend-developer-in-2018'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2976
-title: 'Understanding ASP.NET Templates'
+title: "Understanding ASP.NET Templates"
 url: 'http://www.codeproject.com/Articles/775111/Understanding-ASP-NET-Templates'
 category: 5a88e1aebd6dca0d5f0d2976
 slug: 'understanding-asp-net-templates'

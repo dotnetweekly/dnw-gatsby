@@ -1,6 +1,6 @@
 ---
 _id: 5b9fb0207a4fc44b50daab88
-title: 'How Discord Handles Two and Half Million Concurrent Voice Users using WebRTC'
+title: "How Discord Handles Two and Half Million Concurrent Voice Users using WebRTC"
 url: 'https://blog.discordapp.com/how-discord-handles-two-and-half-million-concurrent-voice-users-using-webrtc-ce01c3187429'
 category: 5b9fb0207a4fc44b50daab88
 slug: 'how-discord-handles-two-and-half-million-concurrent-voice-users-using-webrtc'

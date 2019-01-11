@@ -1,6 +1,6 @@
 ---
 _id: 5aa774863879bf002abc594b
-title: 'Blazor and .NET Core hosting – the future’s bright'
+title: "Blazor and .NET Core hosting – the future’s bright"
 url: 'http://blog.tdwright.co.uk/2018/03/05/blazor-and-net-core-hosting-the-futures-bright/'
 category: 5aa774863879bf002abc594b
 slug: 'blazor-and-net-core-hosting-the-futures-bright'

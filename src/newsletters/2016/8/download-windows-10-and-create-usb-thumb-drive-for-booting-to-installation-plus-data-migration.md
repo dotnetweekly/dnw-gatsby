@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d241a
-title: 'Download Windows 10 and Create USB Thumb Drive for Booting to Installation PLUS Data Migration'
+title: "Download Windows 10 and Create USB Thumb Drive for Booting to Installation PLUS Data Migration"
 url: 'https://channel9.msdn.com/blogs/raw-tech/download-windows-10-and-create-usb-thumb-drive-for-booting-to-installation-plus-data-migration'
 category: 5a88e1acbd6dca0d5f0d241a
 slug: 'download-windows-10-and-create-usb-thumb-drive-for-booting-to-installation-plus-data-migration'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1b3c
-title: 'Get Started Building Microservices with ASP.NET Core and Docker in Visual Studio Code'
+title: "Get Started Building Microservices with ASP.NET Core and Docker in Visual Studio Code"
 url: 'https://fullstackmark.com/post/12/get-started-building-microservices-with-asp.net-core-and-docker-in-visual-studio-code'
 category: 5a88e1aabd6dca0d5f0d1b3c
 slug: 'get-started-building-microservices-with-asp-net-core-and-docker-in-visual-studio-code'

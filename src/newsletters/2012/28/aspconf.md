@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2fbc
-title: 'aspConf'
+title: "aspConf"
 url: 'http://www.aspconf.net/'
 category: 5a88e1afbd6dca0d5f0d2fbc
 slug: 'aspconf'

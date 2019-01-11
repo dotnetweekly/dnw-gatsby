@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1be6
-title: 'devart .NET Core 2.0 and Entity Framework Core 2.0 Support'
+title: "devart .NET Core 2.0 and Entity Framework Core 2.0 Support"
 url: 'https://www.devart.com/news/2017/net-core-2-support.html'
 category: 5a88e1aabd6dca0d5f0d1be6
 slug: 'devart-net-core-2-0-and-entity-framework-core-2-0-support'

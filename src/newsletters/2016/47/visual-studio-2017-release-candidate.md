@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d216a
-title: 'Visual Studio 2017 Release Candidate'
+title: "Visual Studio 2017 Release Candidate"
 url: 'https://www.visualstudio.com/vs/visual-studio-2017-rc/'
 category: 5a88e1acbd6dca0d5f0d216a
 slug: 'visual-studio-2017-release-candidate'

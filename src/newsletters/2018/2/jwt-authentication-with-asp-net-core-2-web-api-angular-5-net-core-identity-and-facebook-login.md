@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1aee
-title: 'JWT Authentication with ASP.NET Core 2 Web API, Angular 5, .NET Core Identity and Facebook Login'
+title: "JWT Authentication with ASP.NET Core 2 Web API, Angular 5, .NET Core Identity and Facebook Login"
 url: 'https://fullstackmark.com/post/13/jwt-authentication-with-aspnet-core-2-web-api-angular-5-net-core-identity-and-facebook-login'
 category: 5a88e1aabd6dca0d5f0d1aee
 slug: 'jwt-authentication-with-asp-net-core-2-web-api-angular-5-net-core-identity-and-facebook-login'

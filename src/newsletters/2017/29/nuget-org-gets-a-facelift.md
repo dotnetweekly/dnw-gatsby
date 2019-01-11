@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1dc6
-title: 'NuGet.org Gets a Facelift'
+title: "NuGet.org Gets a Facelift"
 url: 'http://blog.nuget.org/20170718/NuGet-Gallery-Gets-A-Facelift.html'
 category: 5a88e1abbd6dca0d5f0d1dc6
 slug: 'nuget-org-gets-a-facelift'

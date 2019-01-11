@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d287a
-title: 'Reuse Code Assets with Universal Windows Apps'
+title: "Reuse Code Assets with Universal Windows Apps"
 url: 'http://msdn.microsoft.com/en-us/magazine/dn802607.aspx'
 category: 5a88e1aebd6dca0d5f0d287a
 slug: 'reuse-code-assets-with-universal-windows-apps'

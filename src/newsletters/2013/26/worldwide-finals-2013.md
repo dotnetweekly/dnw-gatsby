@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2c8a
-title: 'Worldwide Finals 2013'
+title: "Worldwide Finals 2013"
 url: 'http://www.imaginecup.com/Main/newsletter#cmpid=msdnflash7.1_topsection_watchlive?fbid=Q-iJDkOvwrn'
 category: 5a88e1afbd6dca0d5f0d2c8a
 slug: 'worldwide-finals-2013'

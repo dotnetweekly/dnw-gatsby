@@ -1,6 +1,6 @@
 ---
 _id: 5afa479d0729590cf5aab9df
-title: 'Announcing Microsoft"s own Content Delivery Network'
+title: "Announcing Microsoft's own Content Delivery Network"
 url: 'https://azure.microsoft.com/en-us/blog/announcing-microsoft-s-own-cdn-network/'
 category: 5afa479d0729590cf5aab9df
 slug: 'announcing-microsofts-own-content-delivery-network'

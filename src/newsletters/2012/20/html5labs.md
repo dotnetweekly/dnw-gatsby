@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d306c
-title: 'HTML5Labs'
+title: "HTML5Labs"
 url: 'http://html5labs.interoperabilitybridges.com/'
 category: 5a88e1afbd6dca0d5f0d306c
 slug: 'html5labs'

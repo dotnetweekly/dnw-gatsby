@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d21d4
-title: 'Microsoft Ignite | Day 1'
+title: "Microsoft Ignite | Day 1"
 url: 'https://ignite.microsoft.com/#fbid=3TwNZPDNOoe'
 category: 5a88e1acbd6dca0d5f0d21d4
 slug: 'microsoft-ignite-day-1'

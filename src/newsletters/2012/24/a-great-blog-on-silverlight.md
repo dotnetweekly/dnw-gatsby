@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d3002
-title: 'A Great Blog on Silverlight'
+title: "A Great Blog on Silverlight"
 url: 'http://www.michaelsnow.com/'
 category: 5a88e1afbd6dca0d5f0d3002
 slug: 'a-great-blog-on-silverlight'

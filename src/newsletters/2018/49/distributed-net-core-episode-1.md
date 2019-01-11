@@ -1,6 +1,6 @@
 ---
 _id: 5c0a96fbd9a5932949f70e95
-title: '"Distributed .NET Core" - Episode 1'
+title: "'Distributed .NET Core' - Episode 1"
 url: 'https://www.reddit.com/r/dotnet/comments/a3lp69/distributed_net_core_episode_1/'
 category: 5c0a96fbd9a5932949f70e95
 slug: 'distributed-net-core-episode-1'

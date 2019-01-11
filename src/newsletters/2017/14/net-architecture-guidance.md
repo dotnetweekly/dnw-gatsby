@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1f4a
-title: '.NET Architecture Guidance'
+title: ".NET Architecture Guidance"
 url: 'https://www.microsoft.com/net/architecture'
 category: 5a88e1abbd6dca0d5f0d1f4a
 slug: 'net-architecture-guidance'

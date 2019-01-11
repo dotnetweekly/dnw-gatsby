@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1de0
-title: 'NDC Oslo 2017 Videos now available'
+title: "NDC Oslo 2017 Videos now available"
 url: 'https://www.youtube.com/watch?v=Fuac__g928E&list=PL03Lrmd9CiGewi0lbnahxEpisoP5WZocX'
 category: 5a88e1abbd6dca0d5f0d1de0
 slug: 'ndc-oslo-2017-videos-now-available'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d282e
-title: 'You"ve Got Documents! A MongoDB Jump Start'
+title: "You've Got Documents! A MongoDB Jump Start"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/you-ve-got-documents-a-mongodb-jump-start'
 category: 5a88e1aebd6dca0d5f0d282e
 slug: 'youve-got-documents-a-mongodb-jump-start'

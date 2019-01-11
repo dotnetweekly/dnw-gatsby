@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2628
-title: 'ASP.NET 5: Jump Start to AngularJS with MVC 6 Web API'
+title: "ASP.NET 5: Jump Start to AngularJS with MVC 6 Web API"
 url: 'http://proudmonkey.azurewebsites.net/asp-net-5-jump-start-to-angularjs-with-mvc-6-web-api/?utm_source=twitterfeed&utm_medium=facebook'
 category: 5a88e1adbd6dca0d5f0d2628
 slug: 'asp-net-5-jump-start-to-angularjs-with-mvc-6-web-api'

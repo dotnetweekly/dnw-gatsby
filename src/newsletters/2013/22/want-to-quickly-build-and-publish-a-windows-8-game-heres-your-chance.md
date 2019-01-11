@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2cba
-title: 'Want to quickly build and publish a Windows 8 game? Here"s your chance.'
+title: "Want to quickly build and publish a Windows 8 game? Here's your chance."
 url: 'http://msdnevents.com/gameon/'
 category: 5a88e1afbd6dca0d5f0d2cba
 slug: 'want-to-quickly-build-and-publish-a-windows-8-game-heres-your-chance'

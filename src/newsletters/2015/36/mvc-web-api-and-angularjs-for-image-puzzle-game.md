@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d25c2
-title: 'MVC Web API and AngularJS For Image Puzzle Game'
+title: "MVC Web API and AngularJS For Image Puzzle Game"
 url: 'http://www.codeproject.com/Articles/1019587/MVC-Web-API-and-AngularJS-For-Image-Puzzle-Game'
 category: 5a88e1adbd6dca0d5f0d25c2
 slug: 'mvc-web-api-and-angularjs-for-image-puzzle-game'

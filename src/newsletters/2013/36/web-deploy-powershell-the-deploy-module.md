@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2c1e
-title: 'Web Deploy PowerShell - the deploy module'
+title: "Web Deploy PowerShell - the deploy module"
 url: 'http://www.nuget.org/packages/WDP.Deploy/'
 category: 5a88e1aebd6dca0d5f0d2c1e
 slug: 'web-deploy-powershell-the-deploy-module'

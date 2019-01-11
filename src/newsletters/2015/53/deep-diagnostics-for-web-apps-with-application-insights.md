@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d24a0
-title: 'Deep Diagnostics for Web Apps with Application Insights'
+title: "Deep Diagnostics for Web Apps with Application Insights"
 url: 'https://channel9.msdn.com/Events/Visual-Studio/Connect-event-2015/603'
 category: 5a88e1adbd6dca0d5f0d24a0
 slug: 'deep-diagnostics-for-web-apps-with-application-insights'

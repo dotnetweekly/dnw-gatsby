@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2f16
-title: 'List of Windows 8 Shortcuts'
+title: "List of Windows 8 Shortcuts"
 url: 'http://blogs.msdn.com/b/hyperyash/archive/2012/08/28/windows-8-shortcuts.aspx'
 category: 5a88e1afbd6dca0d5f0d2f16
 slug: 'list-of-windows-8-shortcuts'

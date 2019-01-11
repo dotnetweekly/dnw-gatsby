@@ -1,6 +1,6 @@
 ---
 _id: 5ae5f7587b1832006e43ede6
-title: 'Introducing the Microsoft Edge DevTools Preview app'
+title: "Introducing the Microsoft Edge DevTools Preview app"
 url: 'https://blogs.windows.com/msedgedev/2018/04/25/introducing-the-microsoft-edge-devtools-preview-app/'
 category: 5ae5f7587b1832006e43ede6
 slug: 'introducing-the-microsoft-edge-devtools-preview-app'

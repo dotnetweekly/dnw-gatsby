@@ -1,6 +1,6 @@
 ---
 _id: 5aebb7446c17a9c50ccd6082
-title: 'SOLID Principles'
+title: "SOLID Principles"
 url: 'https://completedeveloperpodcast.com/episode-142/'
 category: 5aebb7446c17a9c50ccd6082
 slug: 'solid-principles'

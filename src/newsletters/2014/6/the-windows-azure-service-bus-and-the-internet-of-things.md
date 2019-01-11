@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2acc
-title: 'The Windows Azure Service Bus and the Internet of Things'
+title: "The Windows Azure Service Bus and the Internet of Things"
 url: 'http://msdn.microsoft.com/en-us/magazine/dn574801.aspx'
 category: 5a88e1aebd6dca0d5f0d2acc
 slug: 'the-windows-azure-service-bus-and-the-internet-of-things'

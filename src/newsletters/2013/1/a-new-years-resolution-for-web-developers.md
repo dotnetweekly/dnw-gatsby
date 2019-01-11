@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2e12
-title: 'A New Year’s Resolution for Web Developers'
+title: "A New Year’s Resolution for Web Developers"
 url: 'http://www.schwammysays.net/a-new-years-resolution-for-web-developers/'
 category: 5a88e1afbd6dca0d5f0d2e12
 slug: 'a-new-years-resolution-for-web-developers'

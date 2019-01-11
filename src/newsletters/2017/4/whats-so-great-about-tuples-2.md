@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d205c
-title: 'What"s So Great About Tuples?'
+title: "What's So Great About Tuples?"
 url: 'https://visualstudiomagazine.com/articles/2017/01/01/tuples-csharp-7.aspx'
 category: 5a88e1acbd6dca0d5f0d205c
 slug: 'whats-so-great-about-tuples-2'

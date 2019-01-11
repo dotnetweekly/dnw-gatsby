@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2588
-title: 'Network simulation and more in the VS Emulator for Android'
+title: "Network simulation and more in the VS Emulator for Android"
 url: 'http://blogs.msdn.com/b/visualstudioalm/archive/2015/09/25/network-simulation-and-more-in-the-vs-emulator-for-android.aspx'
 category: 5a88e1adbd6dca0d5f0d2588
 slug: 'network-simulation-and-more-in-the-vs-emulator-for-android'

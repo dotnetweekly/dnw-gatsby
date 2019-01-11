@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d6a
-title: 'Quick tip: How to Make Ninject work with ASP.NET Web API'
+title: "Quick tip: How to Make Ninject work with ASP.NET Web API"
 url: 'http://weblogs.asp.net/hajan/archive/2013/03/16/quick-tip-how-to-make-ninject-work-with-asp-net-web-api.aspx'
 category: 5a88e1afbd6dca0d5f0d2d6a
 slug: 'quick-tip-how-to-make-ninject-work-with-asp-net-web-api'

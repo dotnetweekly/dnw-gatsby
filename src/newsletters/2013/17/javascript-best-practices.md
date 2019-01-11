@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2cfc
-title: 'JavaScript Best Practices'
+title: "JavaScript Best Practices"
 url: 'http://www.codeproject.com/Articles/580165/JavaScript-Best-Practices'
 category: 5a88e1afbd6dca0d5f0d2cfc
 slug: 'javascript-best-practices'

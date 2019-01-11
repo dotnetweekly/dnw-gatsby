@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2fe0
-title: 'Premier Episode of Microsoft DevRadio on MSDN: Building & Publishing Windows 8 Apps'
+title: "Premier Episode of Microsoft DevRadio on MSDN: Building & Publishing Windows 8 Apps"
 url: 'http://blog.jerrynixon.com/2012/06/premier-episode-of-microsoft-devradio.html'
 category: 5a88e1afbd6dca0d5f0d2fe0
 slug: 'premier-episode-of-microsoft-devradio-on-msdn-building-publishing-windows-8-apps'

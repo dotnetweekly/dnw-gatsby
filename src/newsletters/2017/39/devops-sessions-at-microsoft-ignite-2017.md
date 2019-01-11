@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1cb4
-title: 'DevOps sessions at Microsoft Ignite 2017'
+title: "DevOps sessions at Microsoft Ignite 2017"
 url: 'https://blogs.msdn.microsoft.com/devops/2017/09/23/were-getting-ready-for-microsoft-ignite-2017/'
 category: 5a88e1abbd6dca0d5f0d1cb4
 slug: 'devops-sessions-at-microsoft-ignite-2017'

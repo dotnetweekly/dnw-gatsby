@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d268c
-title: 'Windows App Studio Beta for Windows 10 Insider Preview'
+title: "Windows App Studio Beta for Windows 10 Insider Preview"
 url: 'http://blogs.windows.com/buildingapps/2015/05/26/windows-app-studio-beta-for-windows-10-insider-preview'
 category: 5a88e1adbd6dca0d5f0d268c
 slug: 'windows-app-studio-beta-for-windows-10-insider-preview'

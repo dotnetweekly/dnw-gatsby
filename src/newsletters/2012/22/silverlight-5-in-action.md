@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d303e
-title: 'Silverlight 5 in Action'
+title: "Silverlight 5 in Action"
 url: 'http://www.amazon.com/Silverlight-5-Action-Pete-Brown/dp/1617290319'
 category: 5a88e1afbd6dca0d5f0d303e
 slug: 'silverlight-5-in-action'

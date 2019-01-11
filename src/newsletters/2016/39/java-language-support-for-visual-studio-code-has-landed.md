@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d21f0
-title: 'Java Language Support for Visual Studio Code has landed'
+title: "Java Language Support for Visual Studio Code has landed"
 url: 'http://developers.redhat.com/blog/2016/09/19/java-language-support-for-visual-studio-code-has-landed/'
 category: 5a88e1acbd6dca0d5f0d21f0
 slug: 'java-language-support-for-visual-studio-code-has-landed'

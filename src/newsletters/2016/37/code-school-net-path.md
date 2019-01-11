@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2214
-title: 'Code School .NET Path'
+title: "Code School .NET Path"
 url: 'https://www.codeschool.com/learn/net/'
 category: 5a88e1acbd6dca0d5f0d2214
 slug: 'code-school-net-path'

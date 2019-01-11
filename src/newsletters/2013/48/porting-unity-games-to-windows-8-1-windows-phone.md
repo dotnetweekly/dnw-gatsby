@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b6a
-title: 'Porting Unity games to Windows 8.1 &amp; Windows Phone'
+title: "Porting Unity games to Windows 8.1 &amp; Windows Phone"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/porting-unity-games-to-windows-8-1-windows-phone#?fbid=RfHc7HWJo2b'
 category: 5a88e1aebd6dca0d5f0d2b6a
 slug: 'porting-unity-games-to-windows-8-1-windows-phone'

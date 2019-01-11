@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d2c
-title: 'Building an application using design patterns and principals in C#'
+title: "Building an application using design patterns and principals in C#"
 url: 'http://www.codeproject.com/Articles/572738/Building-an-application-using-design-patterns-and'
 category: 5a88e1afbd6dca0d5f0d2d2c
 slug: 'building-an-application-using-design-patterns-and-principals-in-c'

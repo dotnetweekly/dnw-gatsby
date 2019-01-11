@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2fa8
-title: '.NET HTML Sanitation for rich HTML Input'
+title: ".NET HTML Sanitation for rich HTML Input"
 url: 'http://www.west-wind.com/weblog/posts/2012/Jul/19/NET-HTML-Sanitation-for-rich-HTML-Input'
 category: 5a88e1afbd6dca0d5f0d2fa8
 slug: 'net-html-sanitation-for-rich-html-input'

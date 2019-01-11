@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d3052
-title: ' DevDays12 - Testing with Visual Studio'
+title: " DevDays12 - Testing with Visual Studio"
 url: 'https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032514086&Culture=EL-GR'
 category: 5a88e1afbd6dca0d5f0d3052
 slug: 'devdays12-testing-with-visual-studio'

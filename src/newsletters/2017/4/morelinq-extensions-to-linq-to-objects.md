@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d207a
-title: 'MoreLINQ: Extensions to LINQ to Objects'
+title: "MoreLINQ: Extensions to LINQ to Objects"
 url: 'https://github.com/morelinq/MoreLINQ'
 category: 5a88e1acbd6dca0d5f0d207a
 slug: 'morelinq-extensions-to-linq-to-objects'

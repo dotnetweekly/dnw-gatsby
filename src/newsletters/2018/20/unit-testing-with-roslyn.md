@@ -1,6 +1,6 @@
 ---
 _id: 5afa61cd416efa84bb328ccc
-title: 'Unit Testing with Roslyn'
+title: "Unit Testing with Roslyn"
 url: 'https://blog.stephencleary.com/2018/05/roslyn-unit-testing.html'
 category: 5afa61cd416efa84bb328ccc
 slug: 'unit-testing-with-roslyn'

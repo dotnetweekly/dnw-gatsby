@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2bf4
-title: 'EF Code First Mapping Between Types &amp; Tables'
+title: "EF Code First Mapping Between Types &amp; Tables"
 url: 'http://romiller.com/2013/09/24/ef-code-first-mapping-between-types-tables/'
 category: 5a88e1aebd6dca0d5f0d2bf4
 slug: 'ef-code-first-mapping-between-types-tables'

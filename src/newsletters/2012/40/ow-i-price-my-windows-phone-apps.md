@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2eb8
-title: 'How I price my Windows Phone apps'
+title: "How I price my Windows Phone apps"
 url: 'http://blogs.msdn.com/b/msgulfcommunity/archive/2012/09/28/how-i-price-my-windows-phone-apps.aspx'
 category: 5a88e1afbd6dca0d5f0d2eb8
 slug: 'ow-i-price-my-windows-phone-apps'

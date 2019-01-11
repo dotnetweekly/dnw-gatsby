@@ -1,6 +1,6 @@
 ---
 _id: 5b9fb0867a4fc40383daab89
-title: 'A complete containerized .NET Core Application microservice that is as small as possible'
+title: "A complete containerized .NET Core Application microservice that is as small as possible"
 url: 'https://www.hanselman.com/blog/ACompleteContainerizedNETCoreApplicationMicroserviceThatIsAsSmallAsPossible.aspx'
 category: 5b9fb0867a4fc40383daab89
 slug: 'a-complete-containerized-net-core-application-microservice-that-is-as-small-as-possible'

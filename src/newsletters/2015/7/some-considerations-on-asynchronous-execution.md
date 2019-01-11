@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2794
-title: 'Some considerations on asynchronous execution'
+title: "Some considerations on asynchronous execution"
 url: 'http://www.codeproject.com/Articles/874914/Some-considerations-on-asynchronous-execution'
 category: 5a88e1adbd6dca0d5f0d2794
 slug: 'some-considerations-on-asynchronous-execution'

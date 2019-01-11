@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2fa2
-title: 'Team Foundation Service'
+title: "Team Foundation Service"
 url: 'http://tfspreview.com/'
 category: 5a88e1afbd6dca0d5f0d2fa2
 slug: 'team-foundation-service'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d5c
-title: 'BACKBONE 1.0'
+title: "BACKBONE 1.0"
 url: 'http://ashkenas.com/backbonejs-1.0/'
 category: 5a88e1afbd6dca0d5f0d2d5c
 slug: 'backbone-1-0'

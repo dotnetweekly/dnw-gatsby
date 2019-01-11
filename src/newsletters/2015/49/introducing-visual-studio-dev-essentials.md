@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d24ec
-title: 'Introducing Visual Studio Dev Essentials'
+title: "Introducing Visual Studio Dev Essentials"
 url: 'https://channel9.msdn.com/Events/Visual-Studio/Connect-event-2015/610?wt.mc_id=DX_37009&MC=MSAzure&MC=VStudio&MC=WebDev&MC=SQL'
 category: 5a88e1adbd6dca0d5f0d24ec
 slug: 'introducing-visual-studio-dev-essentials'

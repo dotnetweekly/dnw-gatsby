@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d244c
-title: 'Microsoft Mechanics: Azure Stack and what it means for IT'
+title: "Microsoft Mechanics: Azure Stack and what it means for IT"
 url: 'https://www.youtube.com/watch?v=YaT81RLYHok'
 category: 5a88e1acbd6dca0d5f0d244c
 slug: 'microsoft-mechanics-azure-stack-and-what-it-means-for-it'

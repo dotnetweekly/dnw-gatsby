@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1fe6
-title: 'Serverless architecture with Azure'
+title: "Serverless architecture with Azure"
 url: 'https://www.simple-talk.com/cloud/cloud-development/serverless-architecture-azure/'
 category: 5a88e1abbd6dca0d5f0d1fe6
 slug: 'serverless-architecture-with-azure'

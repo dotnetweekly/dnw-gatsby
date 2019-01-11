@@ -1,6 +1,6 @@
 ---
 _id: 5aa0b8921011460d21870d0d
-title: 'Scalable and Performant ASP.NET Core Web APIs: Client Caching'
+title: "Scalable and Performant ASP.NET Core Web APIs: Client Caching"
 url: 'https://www.carlrippon.com/scalable-and-performant-asp-net-core-web-apis-client-caching/'
 category: 5aa0b8921011460d21870d0d
 slug: 'scalable-and-performant-aspnet-core-web-apis-client-caching'

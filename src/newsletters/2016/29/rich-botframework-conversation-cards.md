@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d22b8
-title: 'Rich botframework conversation cards'
+title: "Rich botframework conversation cards"
 url: 'http://robinosborne.co.uk/2016/07/18/rich-botframework-conversation-cards/'
 category: 5a88e1acbd6dca0d5f0d22b8
 slug: 'rich-botframework-conversation-cards'

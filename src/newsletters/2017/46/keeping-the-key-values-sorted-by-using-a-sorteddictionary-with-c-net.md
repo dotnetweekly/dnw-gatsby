@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1bcc
-title: 'Keeping the key-values sorted by using a SortedDictionary with C# .NET'
+title: "Keeping the key-values sorted by using a SortedDictionary with C# .NET"
 url: 'https://dotnetcodr.com/2017/11/14/keeping-the-key-values-sorted-by-using-a-sorteddictionary-with-c-net-3/'
 category: 5a88e1aabd6dca0d5f0d1bcc
 slug: 'keeping-the-key-values-sorted-by-using-a-sorteddictionary-with-c-net'

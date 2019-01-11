@@ -1,6 +1,6 @@
 ---
 _id: 5c0a2391d9a5934d55f70e8e
-title: 'F# spoiled me, or why I don’t enjoy C# anymore'
+title: "F# spoiled me, or why I don’t enjoy C# anymore"
 url: 'https://medium.com/@liman.rom/f-spoiled-me-or-why-i-dont-enjoy-c-anymore-39e025035a98'
 category: 5c0a2391d9a5934d55f70e8e
 slug: 'f-spoiled-me-or-why-i-dont-enjoy-c-anymore'

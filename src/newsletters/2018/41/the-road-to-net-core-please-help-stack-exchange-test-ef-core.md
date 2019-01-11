@@ -1,6 +1,6 @@
 ---
 _id: 5bbc14bb8a5a3940f4fd9805
-title: 'The road to .NET Core - please help Stack Exchange test EF Core!'
+title: "The road to .NET Core - please help Stack Exchange test EF Core!"
 url: 'https://ankitsharmablogs.com/deploying-a-blazor-application-on-azure/'
 category: 5bbc14bb8a5a3940f4fd9805
 slug: 'the-road-to-net-core-please-help-stack-exchange-test-ef-core'

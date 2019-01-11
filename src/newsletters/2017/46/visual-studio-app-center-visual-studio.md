@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1bde
-title: 'Visual Studio App Center | Visual Studio'
+title: "Visual Studio App Center | Visual Studio"
 url: 'https://www.visualstudio.com/app-center/'
 category: 5a88e1aabd6dca0d5f0d1bde
 slug: 'visual-studio-app-center-visual-studio'

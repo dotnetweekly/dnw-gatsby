@@ -1,6 +1,6 @@
 ---
 _id: 5be5333127cd2392335935f1
-title: 'A Deep Dive into Entity Framework Performance When Using "Contains"'
+title: "A Deep Dive into Entity Framework Performance When Using 'Contains'"
 url: 'https://www.toptal.com/dot-net/entity-framework-performance-using-contains'
 category: 5be5333127cd2392335935f1
 slug: 'a-deep-dive-into-entity-framework-performance-when-using-contains'

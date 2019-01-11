@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1c10
-title: 'Welcome to C# 7.1 | .NET Blog'
+title: "Welcome to C# 7.1 | .NET Blog"
 url: 'https://blogs.msdn.microsoft.com/dotnet/2017/10/31/welcome-to-c-7-1/'
 category: 5a88e1aabd6dca0d5f0d1c10
 slug: 'welcome-to-c-7-1-net-blog'

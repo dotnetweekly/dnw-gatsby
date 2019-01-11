@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d6e
-title: 'Learn CSS Layout'
+title: "Learn CSS Layout"
 url: 'http://learnlayout.com'
 category: 5a88e1afbd6dca0d5f0d2d6e
 slug: 'learn-css-layout'

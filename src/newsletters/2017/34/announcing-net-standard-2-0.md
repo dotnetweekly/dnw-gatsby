@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1d40
-title: 'Announcing .NET Standard 2.0'
+title: "Announcing .NET Standard 2.0"
 url: 'https://blogs.msdn.microsoft.com/dotnet/2017/08/14/announcing-net-standard-2-0/'
 category: 5a88e1abbd6dca0d5f0d1d40
 slug: 'announcing-net-standard-2-0'

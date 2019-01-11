@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aabd6dca0d5f0d1ab8
-title: 'Signals in C#'
+title: "Signals in C#"
 url: 'http://codingsight.com/signals-in-c/'
 category: 5a88e1aabd6dca0d5f0d1ab8
 slug: 'signals-in-c'

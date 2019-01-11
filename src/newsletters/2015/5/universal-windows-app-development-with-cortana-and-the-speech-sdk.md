@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d27a8
-title: 'Universal Windows App Development with Cortana and the Speech SDK'
+title: "Universal Windows App Development with Cortana and the Speech SDK"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/universal-windows-app-development-with-cortana-and-the-speech-sdk'
 category: 5a88e1adbd6dca0d5f0d27a8
 slug: 'universal-windows-app-development-with-cortana-and-the-speech-sdk'

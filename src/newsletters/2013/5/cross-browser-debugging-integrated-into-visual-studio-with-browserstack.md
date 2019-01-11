@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2dc0
-title: 'Cross Browser Debugging integrated into Visual Studio with BrowserStack'
+title: "Cross Browser Debugging integrated into Visual Studio with BrowserStack"
 url: 'http://www.hanselman.com/blog/CrossBrowserDebuggingIntegratedIntoVisualStudioWithBrowserStack.aspx'
 category: 5a88e1afbd6dca0d5f0d2dc0
 slug: 'cross-browser-debugging-integrated-into-visual-studio-with-browserstack'

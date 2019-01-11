@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2352
-title: 'Introducing The NuGet Beta Channel'
+title: "Introducing The NuGet Beta Channel"
 url: 'http://blog.nuget.org/20160502/Introducing-The-NuGet-Beta-Channel.html'
 category: 5a88e1acbd6dca0d5f0d2352
 slug: 'introducing-the-nuget-beta-channel'

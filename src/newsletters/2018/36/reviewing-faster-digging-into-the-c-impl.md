@@ -1,6 +1,6 @@
 ---
 _id: 5b8df1b1281013813894a420
-title: 'Reviewing FASTER: Digging into the C++ impl'
+title: "Reviewing FASTER: Digging into the C++ impl"
 url: 'https://ayende.com/blog/184321-A/reviewing-faster-digging-into-the-c-impl'
 category: 5b8df1b1281013813894a420
 slug: 'reviewing-faster-digging-into-the-c-impl'

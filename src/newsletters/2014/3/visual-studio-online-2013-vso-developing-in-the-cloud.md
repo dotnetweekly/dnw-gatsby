@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2b00
-title: 'Visual Studio Online 2013 (VSO) – Developing in the Cloud '
+title: "Visual Studio Online 2013 (VSO) – Developing in the Cloud "
 url: 'http://www.dotnetcurry.com/showarticle.aspx?ID=969'
 category: 5a88e1aebd6dca0d5f0d2b00
 slug: 'visual-studio-online-2013-vso-developing-in-the-cloud'

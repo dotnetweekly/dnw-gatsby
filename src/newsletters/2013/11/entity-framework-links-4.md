@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2d64
-title: 'Entity Framework Links #4'
+title: "Entity Framework Links #4"
 url: 'http://blogs.msdn.com/b/adonet/archive/2013/03/18/entity-framework-links-4.aspx'
 category: 5a88e1afbd6dca0d5f0d2d64
 slug: 'entity-framework-links-4'

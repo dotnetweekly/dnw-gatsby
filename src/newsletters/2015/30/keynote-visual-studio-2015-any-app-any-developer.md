@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d2612
-title: 'Keynote: Visual Studio 2015 - Any app, Any developer'
+title: "Keynote: Visual Studio 2015 - Any app, Any developer"
 url: 'https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2015-Final-Release-Event/Keynote-Visual-Studio-2015-Any-app-Any-developer'
 category: 5a88e1adbd6dca0d5f0d2612
 slug: 'keynote-visual-studio-2015-any-app-any-developer'

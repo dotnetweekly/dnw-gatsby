@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2e28
-title: 'Welcome to Windows Azure 101'
+title: "Welcome to Windows Azure 101"
 url: 'http://www.meetwindowsazure.com/Azure101#corey-sanders?loc=zbtf_zYFC&prod=zWA&tech=zCL&prog=zOTprog&type=zOTtype&media=zVid'
 category: 5a88e1afbd6dca0d5f0d2e28
 slug: 'welcome-to-windows-azure-101'

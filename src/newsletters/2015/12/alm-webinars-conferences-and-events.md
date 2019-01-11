@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1adbd6dca0d5f0d272c
-title: 'ALM webinars, conferences and events'
+title: "ALM webinars, conferences and events"
 url: 'http://blogs.msdn.com/b/visualstudioalm/archive/2015/03/20/alm-webinars-and-conference-and-events.aspx'
 category: 5a88e1adbd6dca0d5f0d272c
 slug: 'alm-webinars-conferences-and-events'

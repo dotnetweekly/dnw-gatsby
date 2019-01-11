@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1abbd6dca0d5f0d1ff6
-title: 'OzCode: Debugging extension for Visual Studio'
+title: "OzCode: Debugging extension for Visual Studio"
 url: 'https://oz-code.com/'
 category: 5a88e1abbd6dca0d5f0d1ff6
 slug: 'ozcode-debugging-extension-for-visual-studio'

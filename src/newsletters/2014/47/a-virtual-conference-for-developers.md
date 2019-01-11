@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2838
-title: 'A Virtual Conference for Developers'
+title: "A Virtual Conference for Developers"
 url: 'https://hacksummit.org/'
 category: 5a88e1aebd6dca0d5f0d2838
 slug: 'a-virtual-conference-for-developers'

@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d2c5a
-title: 'Announcing the release of the Windows Azure SDK 2.1 for .NET'
+title: "Announcing the release of the Windows Azure SDK 2.1 for .NET"
 url: 'http://weblogs.asp.net/scottgu/archive/2013/07/31/announcing-the-release-of-the-windows-azure-sdk-2-1-for-net.aspx'
 category: 5a88e1aebd6dca0d5f0d2c5a
 slug: 'announcing-the-release-of-the-windows-azure-sdk-2-1-for-net'

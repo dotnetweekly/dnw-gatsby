@@ -1,6 +1,6 @@
 ---
 _id: 5a88e1acbd6dca0d5f0d2388
-title: 'Microsoft SQL Server Developer Edition is now free'
+title: "Microsoft SQL Server Developer Edition is now free"
 url: 'https://blogs.technet.microsoft.com/dataplatforminsider/2016/03/31/microsoft-sql-server-developer-edition-is-now-free/'
 category: 5a88e1acbd6dca0d5f0d2388
 slug: 'microsoft-sql-server-developer-edition-is-now-free-2'
