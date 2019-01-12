@@ -11,5 +11,3 @@ tags: [.net]
 ---
 
 Today building open source software at Microsoft is normal — but when I started at Microsoft in 2007, it sure wasn’t. It took a few years to figure out the right thing to do and to get the big ship that is Microsoft turned into the wind of open source. But we’re there now and I look back on those early challenges with a smile. This is my story of the first successful open source project at Microsoft and how it paved the way to where we are today.
-
-
