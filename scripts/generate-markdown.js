@@ -1,4 +1,3 @@
-const crypto = require('crypto')
 const fs = require('fs')
 const request = require('request')
 const path = require('path')
@@ -40,7 +39,7 @@ async function createPost(week, year, link) {
       const linkJson = JSON.parse(body)
       const postData = postTmpl
         .replace('_id: %s', `_id: ${link['_id']}`)
-        .replace("title: \"%s\"", `title: "${link['title'].replace(/"/g, '')}"`)
+        .replace('title: "%s"', `title: "${link['title'].replace(/"/g, '')}"`)
         .replace("url: '%s'", `url: '${link['url']}'`)
         .replace('category: %s', `category: ${link['_id']}`)
         .replace("slug: '%s'", `slug: '${link['slug']}'`)
@@ -95,7 +94,6 @@ async function generate() {
         await createPost(currentWeek, currentYear, links[key])
       }
     }
-
     const yearWeeks = weeksInYear(currentYear)
     currentWeek++
     if (yearWeeks < currentWeek) {
@@ -120,6 +118,15 @@ async function generate() {
   // res.data.data.map((newsletter, i) => {
 
   // })
+  console.log('OK')
+  return
 }
 
-generate()
+exports.generateMarkdown = async function() {
+  await generate()
+}
+
+const args = process.argv
+if (args.length > 0 && args[0] == 'run') {
+  generate()
+}

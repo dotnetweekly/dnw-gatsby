@@ -110,7 +110,7 @@ class ProfilePage extends React.Component {
     const { errors, success, isLoading, fData } = this.state
     return (
       <Layout>
-        <div className="content">
+        <div className="content" style={{ padding: '0 10px' }}>
           <h1>Profile</h1>
           <FormField
             title="First Name"

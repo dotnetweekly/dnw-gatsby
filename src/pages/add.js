@@ -138,7 +138,7 @@ class AddPage extends React.Component {
     const { categories, tags } = this.state
     return (
       <Layout>
-        <div className="content">
+        <div className="content" style={{ padding: '0 10px' }}>
           <h1>Add a Link</h1>
           <div className="field is-horizontal">
             <div className="field-label is-normal">

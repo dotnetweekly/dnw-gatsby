@@ -93,7 +93,7 @@ class LoginPage extends React.Component {
     const { errors, success, isLoading, fData } = this.state
     return (
       <Layout>
-        <div className="content">
+        <div className="content" style={{ padding: '0 10px' }}>
           <h1>Forgot Password</h1>
           <FormField
             title="Email"

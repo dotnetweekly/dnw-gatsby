@@ -107,7 +107,7 @@ class RegisterPage extends React.Component {
     const { errors, success, isLoading, fData } = this.state
     return (
       <Layout>
-        <div className="content">
+        <div className="content" style={{ padding: '0 10px' }}>
           <h1>Register</h1>
           <p>
             Register today to submit links and receive the weekly newsletter

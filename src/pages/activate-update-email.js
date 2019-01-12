@@ -86,7 +86,7 @@ class ActivatePage extends React.Component {
     const { errors, success, isLoading } = this.state
     return (
       <Layout>
-        <div className="content">
+        <div className="content" style={{ padding: '0 10px' }}>
           {isLoading && <h1>Activating...</h1>}
           {errors.length > 0 && (
             <ul>

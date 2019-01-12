@@ -6,7 +6,6 @@
   "dependencies": {
     "axios": "^0.18.0",
     "bulma": "^0.7.2",
-    "crypto": "^1.0.1",
     "gatsby": "^2.0.91",
     "gatsby-cli": "^2.4.8",
     "gatsby-image": "^2.0.26",

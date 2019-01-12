@@ -4,6 +4,31 @@
 
 version: 2
 jobs:
+  github-commit:
+    docker: 
+      - image: circleci/node:11.1
+    working_directory: ~/repo
+
+    steps:
+      - checkout
+      
+      # Download and cache dependencies
+      - restore_cache:
+          keys:
+            # Find a cache corresponding to this specific package-lock.json checksum
+            # when this file is changed, this key will fail
+            - v1-npm-deps-{{ checksum "package-lock.json" }}
+            # Find the most recently generated cache used from any branch
+            - v1-npm-deps-
+      
+      - run:
+          name: Install Dependencies
+          command: npm install git-commit-push-via-github-api
+      
+      - run:
+          name: Github Deploy
+          command:  node gatsby-node/updateGit.js
+          
   build:
     docker: 
       - image: circleci/node:11.1
@@ -39,3 +64,19 @@ jobs:
       - run:
           name: Firebase Deploy
           command: ./node_modules/.bin/firebase deploy  --project dotnet-weekly --token=$FIREBASE_TOKEN
+
+workflows:
+  version: 2
+  commit:
+    jobs:
+      - build
+  nightly:
+    triggers:
+      - schedule:
+          cron: "0 0 * * *"
+          filters:
+            branches:
+              only:
+                - master
+    jobs:
+      - github-commit

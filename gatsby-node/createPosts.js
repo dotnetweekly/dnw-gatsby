@@ -34,9 +34,9 @@ exports.createPosts = function(createPage, graphql) {
           }
           const blogPosts = result.data.allMarkdownRemark.edges
           blogPosts.forEach((edge, index) => {
-            let next =
+            let prev =
               index === 0 ? null : blogPosts[index - 1].node.frontmatter.slug
-            const prev =
+            const next =
               index === blogPosts.length - 1
                 ? null
                 : blogPosts[index + 1].node.frontmatter.slug
