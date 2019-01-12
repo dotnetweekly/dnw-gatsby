@@ -29,6 +29,10 @@ generateMarkdownSync().then(() => {
     return !oldPosts.includes(x)
   })
 
+  if (newPosts.length === 0) {
+    return
+  }
+
   gitCommitPush({
     // commit to https://github.com/azu/commit-to-github-test
     owner: 'dotnetweekly',
