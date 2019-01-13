@@ -28,6 +28,7 @@ const Layout = ({ children }) => (
           ]}
           link={[
             { rel: 'shortcut icon', type: 'image/png', href: `${icon32}` },
+            { rel: 'alternate', type: 'application/rss+xml"', title='RSS', href='https://dnw-api.azurewebsites.net/api/v1/links?feed=rss' }
           ]}
         >
           <html lang="en" />

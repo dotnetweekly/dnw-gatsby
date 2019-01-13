@@ -35,6 +35,18 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: 'UA-31484897-2',
+        // Puts tracking script in the head instead of the body
+        head: false,
+        // Avoids sending pageview hits from custom paths
+        exclude: [],
+        sampleRate: 5,
+        siteSpeedSampleRate: 10,
+      },
+    },
+    {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `dotNET Weekly`,
