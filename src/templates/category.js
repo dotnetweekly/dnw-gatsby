@@ -21,6 +21,7 @@ class App extends React.Component {
   }
 
   renderLinksList(week, year, edges) {
+    console.log(edges)
     return (
       <div className="links">
         {edges.map((edge, i) => {
@@ -42,7 +43,11 @@ class App extends React.Component {
               <p className="link-tags">
                 {frontmatter.tags &&
                   frontmatter.tags.map(tag => {
-                    return <span className="tag is-light">{tag}</span>
+                    return (
+                      <span key={`link-${i}-${tag}`} className="tag is-light">
+                        {tag}
+                      </span>
+                    )
                   })}
               </p>
             </div>

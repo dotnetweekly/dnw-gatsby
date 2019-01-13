@@ -4,6 +4,12 @@ const axios = require('axios')
 const calendarHelp = require('../src/utils/calendar')
 const conf = require('../conf')
 
+Date.prototype.addDays = function(days) {
+  var date = new Date(this.valueOf())
+  date.setDate(date.getDate() + days)
+  return date
+}
+
 const {
   weeksInYear,
   getUtcNow,
@@ -35,18 +41,18 @@ function createPages(week, year, graphql, createPage) {
   const currentYear = now.getFullYear()
   const dateRange = calendarHelp.getDateRangeOfWeek(week, year)
   const dateArr = calendarHelp
-    .getDates(dateRange.from, dateRange.to)
+    .getDates(dateRange.from.addDays(-2), dateRange.to.addDays(-1))
     .map(fullDate => {
-      return `${fullDate.getFullYear()}-${getNumStr(
+      return `(${fullDate.getFullYear()}-${getNumStr(
         fullDate.getMonth() + 1
-      )}-${getNumStr(fullDate.getDate())}`
+      )}-${getNumStr(fullDate.getDate())})`
     })
   graphql(`
   {
     allMarkdownRemark(
-      filter: { frontmatter: { createdOn: { regex: "/(${dateArr.join(
+      filter: { frontmatter: { createdOn: { regex: "/(?!$)${dateArr.join(
         '|'
-      )})/g" } } }
+      )}/" } } }
     ) {
       edges {
         node {
@@ -69,9 +75,6 @@ function createPages(week, year, graphql, createPage) {
     }
   }
 `).then(result => {
-    if (result.errors) {
-      console.log(result.errors)
-    }
     const categoryPath = `/week/${week}/year/${year}`
     if (week == currentWeek && year == currentYear) {
       createPage({
@@ -134,7 +137,7 @@ async function generateCategories(createPage, graphql) {
     }
 
     count++
-    if (count > 2500) {
+    if (count > 25000) {
       break
     }
   }

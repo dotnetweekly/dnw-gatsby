@@ -108,7 +108,7 @@ async function generate() {
     }
 
     count++
-    if (count > 500) {
+    if (count > 2500) {
       break
     }
   }
@@ -118,7 +118,6 @@ async function generate() {
   // res.data.data.map((newsletter, i) => {
 
   // })
-  console.log('OK')
   return
 }
 

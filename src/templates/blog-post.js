@@ -7,7 +7,6 @@ function BlogPost(props) {
   const { frontmatter } = post
   const { title } = post.frontmatter
   const { next, prev } = props.pathContext
-  console.log(next, prev)
 
   return (
     <Layout>
