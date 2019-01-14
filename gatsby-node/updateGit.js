@@ -17,7 +17,10 @@ const weekFolder = path.join(
   `../src/newsletters/${currentYear}/${currentWeek}/`
 )
 
-let oldPosts = fs.readdirSync(weekFolder)
+let oldPosts = []
+if (fs.existsSync(weekFolder)) {
+  oldPosts = fs.readdirSync(weekFolder)
+}
 
 async function generateMarkdownSync() {
   return await generateMarkdown()
