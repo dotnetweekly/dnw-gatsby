@@ -49,7 +49,7 @@ jobs:
 
       - run:
           name: Install Dependencies
-          command: npm install && node ./scripts/generate-markdown.js
+          command: npm install && node ./scripts/generate-markdown.js run
 
       - save_cache:
           key: v1-npm-deps-{{ checksum "package-lock.json" }}
