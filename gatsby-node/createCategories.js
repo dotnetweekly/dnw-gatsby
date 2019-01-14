@@ -41,12 +41,13 @@ function createPages(week, year, graphql, createPage) {
   const currentYear = now.getFullYear()
   const dateRange = calendarHelp.getDateRangeOfWeek(week, year)
   const dateArr = calendarHelp
-    .getDates(dateRange.from.addDays(-2), dateRange.to.addDays(-1))
+    .getDates(dateRange.from.addDays(-2), dateRange.to.addDays(-2))
     .map(fullDate => {
       return `(${fullDate.getFullYear()}-${getNumStr(
         fullDate.getMonth() + 1
       )}-${getNumStr(fullDate.getDate())})`
     })
+  console.log(week, ':', year, ':', dateArr, ':', dateRange)
   graphql(`
   {
     allMarkdownRemark(
