@@ -21,7 +21,6 @@ class App extends React.Component {
   }
 
   renderLinksList(week, year, edges) {
-    console.log(edges)
     return (
       <div className="links">
         {edges.map((edge, i) => {

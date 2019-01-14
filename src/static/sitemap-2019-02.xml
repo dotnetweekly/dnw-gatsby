@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/creating-a-top-menu-search-bar-in-blazor</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/typescript-28-conditional-types</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/twc9-unlimited-free-private-github-repos-python-in-azure-app-service-ces-highlights-and-more</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/solid-principles-in-c-liskov-substitution-principle</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/google-shutdown-fixing-google-authentication-in-aspnet-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/books/download-free-ebook-learn-azure-in-a-month-of-lunches</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/starting-the-net-open-source-revolution</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/aspnet-core-tag-helpers-video-tutorial-getting-started-with-telerik-tag-helpers</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/aspnet-core-middleware-and-authorization</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/another-good-reason-to-use-githubcom-to-host-your-net-source-code-automated-nuget-package-vulnerabi</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/load-your-work-items-into-azure-devops-boards-with-net</loc> </url>
+</urlset>

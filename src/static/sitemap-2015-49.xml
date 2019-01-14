@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/videos/visual-studio-code-extensions</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/essential-net-designing-c-7</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/xaml-behaviors-open-source-and-on-uwp</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/announcing-powerapps-with-azure-app-service</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/a-first-look-at-azure-sql-data-warehouse</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/scaling-across-platforms-and-devices-with-microsoft-azure-and-visual-studio</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/introducing-visual-studio-dev-essentials</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/riding-the-modern-web-5-things-to-consider-as-a-web-developer</loc> </url>
+</urlset>

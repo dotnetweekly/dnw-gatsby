@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/videos/the-future-of-microsoft-tools-and-services-for-the-new-role-of-developers</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/introducing-asp-net-5-and-web-tooling</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/announcing-visual-studio-code-beta</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/announcing-net-core-and-asp-net-5-rc</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/the-easiest-way-to-share-code-nuget</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/entity-framework-ef-3-5-vs-ef-4-vs-ef-5-vs-ef6</loc> </url>
+</urlset>

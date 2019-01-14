@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/windows-8-1-and-visual-studio-2013-blank-template-explorations</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/whats-new-in-t4-for-visual-studio-2013</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/handling-soap-exception-in-wcf-based-applications</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/claims-based-authentication-and-authorization</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/wcf-data-services-5-6-0-release</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/net-asynchronous-patterns</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/asp-net-mvc-5-authentication-filters</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/get-a-second-shot-at-your-microsoft-certification-for-free</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/interesting-javascript-libraries</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/net-universe-2013-poster</loc> </url>
+</urlset>

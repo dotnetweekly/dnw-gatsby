@@ -16,6 +16,7 @@
     "gatsby-plugin-sass": "^2.0.7",
     "gatsby-plugin-sharp": "^2.0.17",
     "gatsby-source-filesystem": "^2.0.13",
+    "gatsby-source-rss": "^1.0.0",
     "gatsby-transformer-remark": "^2.2.0",
     "gatsby-transformer-sharp": "^2.1.10",
     "node-sass": "^4.11.0",
@@ -39,6 +40,7 @@
   },
   "devDependencies": {
     "firebase-tools": "^6.2.2",
+    "ncp": "^2.0.0",
     "prettier": "^1.15.3"
   },
   "repository": {

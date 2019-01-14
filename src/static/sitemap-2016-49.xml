@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/heres-1-4-billion-records-from-have-i-been-pwned-for-you-to-analyse</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-asp-net-core-javascript-services-to-play-nice-with-client-side-frameworks</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/sql-server-speed-up-performance-without-code-change</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/documentdb-apis-and-sdks</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/xamarin-test-cloud-announcements-at-microsoft-connect</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/whats-new-in-f-4-1</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/fat-controller-cqrs-diet-command-pipeline</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-net-core-configuration-with-legacy-projects</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/put-a-net-core-app-in-a-container-with-the-new-docker-tools-for-visual-studio</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/mahapps-metro</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/module-1-net-core-application-insights</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/getting-the-most-out-of-git</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/why-you-should-take-another-look-at-c</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/build-an-app-using-sql-server</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/use-the-mssql-extension-for-visual-studio-code</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/developing-microsoft-azure-solutions-2</loc> </url>
+</urlset>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/books/free-ebookguide-on-net-microservices-architecture-for-containerized-net-applications</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/kubernetes-in-action-how-orchestration-and-containers-can-increase-uptime-and-resiliency</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/asp-net-mvc-beginner-tutorials</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/microsoft-embracing-open-source-in-windows-server-2016</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/priority-queues-with-azure-service-bus</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/which-is-better-react-native-or-xamarin-forms</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-net-and-docker-together</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/handling-errors-in-an-asp-net-core-web-api</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/configuration-management-in-legacy-net-applications-net-framework-4-5-1</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/this-is-what-microsoft-said-about-progressive-web-apps-at-build</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/dear-documentdb-customers-welcome-to-azure-cosmos-db</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/announcing-windows-template-studio</loc> </url>
+</urlset>

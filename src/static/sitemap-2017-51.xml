@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/building-asp-net-core-apps-using-cake-in-docker</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/get-started-building-microservices-with-asp-net-core-and-docker-in-visual-studio-code</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/net-event-counters-when-logging-isnt-fast-enough</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/reverse-engineering-existing-databases-in-entity-framework-core-2</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/boost-your-productivity-with-visual-studios-debuggerattributes</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/support-multiple-versions-of-asp-net-core-web-api</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/progressive-web-apps-made-easy-with-asp-net-core-2</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/service-workers-going-beyond-the-page</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/jeremy-bytes-how-does-task-in-c-affect-performance</loc> </url>
+</urlset>

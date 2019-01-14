@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/net-managed-c-unmanaged-whats-the-cost</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/creating-a-simple-api-gateway-in-aspnet-core-mircea-oprea</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/getting-started-with-docker-and-kubernetes-on-windows-10</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/microsoft-and-github-the-implications-for-developers</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/understanding-url-re-write</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/ddd-and-co-part-1-whats-wrong-with-crud</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/test-strategy-for-microservices</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/introducing-fugetorg</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/introducing-the-resharper-performance-series</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/pushing-nuget-packages-built-in-docker-by-running-the-container</loc> </url>
+</urlset>

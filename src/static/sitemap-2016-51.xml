@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/uwp-experiences-app-samples</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/razor-engine-for-parsing-razor-pages-stored-as-string</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/top-javascript-frameworks-topics-to-learn-in-2017</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/several-new-azure-services-now-available-in-uk</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/relay-iis-log-entries-to-read-them-in-docker</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/free-intermediate-asp-net-core-1-0-training-on-microsoft-virtual-academy</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/prefer-defer-over-async</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/microsoft-partners-with-tomtom-announces-asp-net-webhooks-v1-and-updates-visual-studio-code</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/asp-net-core-routing-tutorial</loc> </url>
+</urlset>

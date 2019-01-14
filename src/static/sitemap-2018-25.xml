@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/under-the-hood-of-aspnet-core-webhooks-verification-requests</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/deploy-your-aspnet-core-app-to-azure</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/introduction-to-machine-learning-and-mlnet</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/building-a-cloud-editor-with-signalr-and-aspnet-core-21</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-net-and-docker-together-dockercon-2018-update</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/why-typescript-might-be-a-good-fit-for-your-next-project</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/tools-for-exploring-net-internals</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/aspnet-core-beginner-microsoft-virtual-academy</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/announcing-net-core-21</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/debug-netcore-containers-in-docker-and-kubernetes</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/aspnet-core-architect-david-fowlers-hidden-gems-in-21</loc> </url>
+</urlset>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/front-end-hyperpolyglot</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/dotnetconf-is-back-free-live-streaming-developer-event-june-7th-9th-2016</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/asp-net-mvc-boilerplate</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/reactive-framework-scale-asynchronous-client-server-links-with-reactive</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/announcing-mstest-framework-support-for-net-core-rc2-asp-net-core-rc2</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/game-dev-show-15-building-a-windows-10-or-xbox-game-with-win2d-c-and-xaml</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/net-compiler-platform-language-agnostic-code-generation-with-roslyn</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/attribute-routing-in-asp-net-mvc-5</loc> </url>
+</urlset>

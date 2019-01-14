@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/videos/5-things-about-asp-net-5-that-will-blow-your-mind</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/microsoft-azure-back-end-for-gaming</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/testing-an-asp-net-mvc-controller-using-nunit</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/visual-studio-tools-for-unity-2-0-preview-2</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/call-for-speakers-is-now-open</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/ef6-code-first-migrations-for-multiple-models</loc> </url>
+</urlset>

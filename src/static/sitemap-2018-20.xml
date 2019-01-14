@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/microsoft-build-2018-new-releases-for-visual-studio-visual-studio-for-mac-net-core-and-xamarinforms</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/introducing-visual-studio-intellicode</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/akkatecture</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/creating-deploying-and-debugging-an-aspnet-core-application-on-azure</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/diary-of-a-net-developer-learning-react</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/building-blazor-pager-component</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/introducing-the-microsoft-edge-devtools-protocol-microsoft-edge-dev-blogmicrosoft-edge-dev-blog</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/announcing-microsofts-own-content-delivery-network</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/visual-studio-live-share</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/exposing-rethinkdb-changefeed-from-aspnet-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/unit-testing-with-roslyn</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/importing-json-collections-into-sql-server</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/is-graphql-the-future</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/introducing-mlnet-cross-platform-proven-and-open-source-machine-learning-framework</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/azure-signalr-service-a-fully-managed-service-to-add-real-time-functionality</loc> </url>
+</urlset>

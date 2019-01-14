@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>dotNET Weekly - Week 2 Year 2019</title>
+        <link>https://www.dotnetweekly.com/week/2/year/2019?feed=rss</link>
+        <description></description>
+        <lastBuildDate>Mon, 14 Jan 2019 08:04:57 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
+        <category>Articles</category>
+        <category>Books</category>
+        <item>
+            <title><![CDATA[Creating a top menu search bar in Blazor]]></title>
+            <link>https://www.dotnetweekly.com/articles/creating-a-top-menu-search-bar-in-blazor</link>
+            <guid>https://www.dotnetweekly.com/articles/creating-a-top-menu-search-bar-in-blazor</guid>
+            <pubDate>Sun, 13 Jan 2019 14:54:08 GMT</pubDate>
+            <content:encoded><![CDATA[In this article, Mircea Oprea goes through basic Blazor concepts by creating a simple application that searches through a feed of posts.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[TypeScript 2.8: Conditional Types]]></title>
+            <link>https://www.dotnetweekly.com/articles/typescript-28-conditional-types</link>
+            <guid>https://www.dotnetweekly.com/articles/typescript-28-conditional-types</guid>
+            <pubDate>Sun, 13 Jan 2019 03:09:24 GMT</pubDate>
+            <content:encoded><![CDATA[TypeScript 2.8 introduced conditional types, a powerful and exciting addition to the type system. Conditional types let us express non-uniform type mappings, that is, type transformations that differ depending on a condition.
+
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[TWC9: Unlimited Free Private GitHub Repos, Python in Azure App Service, CES Highlights and more]]></title>
+            <link>https://www.dotnetweekly.com/articles/twc9-unlimited-free-private-github-repos-python-in-azure-app-service-ces-highlights-and-more</link>
+            <guid>https://www.dotnetweekly.com/articles/twc9-unlimited-free-private-github-repos-python-in-azure-app-service-ces-highlights-and-more</guid>
+            <pubDate>Sat, 12 Jan 2019 07:53:42 GMT</pubDate>
+            <content:encoded><![CDATA[[00:20] Microsoft Ignite: The Tour continues to ramp up.
+[00:48] Microsoft IoT and AI stuff at CES 2019 and some Windows device highlightsfrom CES.
+[01:37] GitHub Offers Unlimited Free Private Repos
+[02:40] Updates to GitHub Pull Request Extension for VS Code
+[03:05] Python 2.7 Support for App Service on Linux and more on native Python support on Azure App Service
+[03:34] Starting the .NET Open Source Revolution
+[04:23] Deploy Externally Generated R Models to Azure Machine Learning Studio Web Services
+[04:35] Five Microsoft Learn Modules for Getting Started with Azure
+[04:42] The IoT Show: Microsoft Professional Program for Azure IoT
+[04:50] Xamarin Show: Essential API of the Week, Connectivity
+[04:55] Azure Friday: Interning in Azure Engineering
+[05:06] DevOps Interviews: Agile Planning
+[05:23] Christina's Pick of the Week: The Slightly Sketchy 1990s 'Computer Fairs,' A Major Part Of My Gaming History]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SOLID Principles in C# – Liskov Substitution Principle]]></title>
+            <link>https://www.dotnetweekly.com/articles/solid-principles-in-c-liskov-substitution-principle</link>
+            <guid>https://www.dotnetweekly.com/articles/solid-principles-in-c-liskov-substitution-principle</guid>
+            <pubDate>Fri, 11 Jan 2019 08:08:05 GMT</pubDate>
+            <content:encoded><![CDATA[The Liskov Substitution Principle (LSP) states that child class objects should be able to replace a parent class objects without compromising the application integrity. What this means essentially, is that we should put an effort to create such derived class objects which can replace objects of the base class without modifying its behavior. If we don’t, our application might end up being broken.
+
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Google+ shutdown: fixing Google authentication in ASP.NET Core]]></title>
+            <link>https://www.dotnetweekly.com/articles/google-shutdown-fixing-google-authentication-in-aspnet-core</link>
+            <guid>https://www.dotnetweekly.com/articles/google-shutdown-fixing-google-authentication-in-aspnet-core</guid>
+            <pubDate>Fri, 11 Jan 2019 08:05:00 GMT</pubDate>
+            <content:encoded><![CDATA[A few months ago, Google decided to shutdown Google+, due to multiple data leaks. More recently, they announced that the Google+ APIs will be shutdown on March 7, 2019, which is pretty soon! In fact, calls to these APIs might start to fail as soon as January 28, which is less than 3 weeks from now. You might think that it doesn’t affect you as a developer; but if you’re using Google authentication in an ASP.NET Core app, think again! The built-in Google authentication provider (services.AddAuthentication().AddGoogle(...)) uses a Google+ API to retrieve information about the signed-in user, which will soon stop working. You can read the details in this Github thread. Note that it also affects classic ASP.NET MVC.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[DOWNLOAD: Free eBook, “Learn Azure in a Month of Lunches”]]></title>
+            <link>https://www.dotnetweekly.com/articles/download-free-ebook-learn-azure-in-a-month-of-lunches</link>
+            <guid>https://www.dotnetweekly.com/articles/download-free-ebook-learn-azure-in-a-month-of-lunches</guid>
+            <pubDate>Fri, 11 Jan 2019 08:03:27 GMT</pubDate>
+            <content:encoded><![CDATA[We’ve released a free eBook, “Free eBook, “Learn Azure in a Month of Lunches: A practical guide to learning Azure cloud computing skills quickly”.
+
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Starting the .NET Open Source Revolution]]></title>
+            <link>https://www.dotnetweekly.com/articles/starting-the-net-open-source-revolution</link>
+            <guid>https://www.dotnetweekly.com/articles/starting-the-net-open-source-revolution</guid>
+            <pubDate>Fri, 11 Jan 2019 08:02:55 GMT</pubDate>
+            <content:encoded><![CDATA[Today building open source software at Microsoft is normal — but when I started at Microsoft in 2007, it sure wasn’t. It took a few years to figure out the right thing to do and to get the big ship that is Microsoft turned into the wind of open source. But we’re there now and I look back on those early challenges with a smile. This is my story of the first successful open source project at Microsoft and how it paved the way to where we are today.
+
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ASP.NET Core Tag Helpers Video Tutorial: Getting Started with Telerik Tag Helpers]]></title>
+            <link>https://www.dotnetweekly.com/articles/aspnet-core-tag-helpers-video-tutorial-getting-started-with-telerik-tag-helpers</link>
+            <guid>https://www.dotnetweekly.com/articles/aspnet-core-tag-helpers-video-tutorial-getting-started-with-telerik-tag-helpers</guid>
+            <pubDate>Thu, 10 Jan 2019 16:35:58 GMT</pubDate>
+            <content:encoded><![CDATA[This instructional video series is a hands-on demo of ASP.NET Core Tag Helpers with the help of Telerik UI for ASP.NET Core. Learn the basics of working with Tag Helpers by building a fully functional app using multiple UI components (grid, chart, date picker and more). The course is guided by industry pros: Scott Addie, Sr. Content Developer for Microsoft, and Ed Charbeneau, three-time Microsoft MVP.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ASP.NET Core middleware and authorization]]></title>
+            <link>https://www.dotnetweekly.com/articles/aspnet-core-middleware-and-authorization</link>
+            <guid>https://www.dotnetweekly.com/articles/aspnet-core-middleware-and-authorization</guid>
+            <pubDate>Wed, 09 Jan 2019 11:07:19 GMT</pubDate>
+            <content:encoded><![CDATA[In ASP.NET Core the authorization mechanism is well exposed for MVC, but not for middleware. This post shows how it can be fully utilized while configuring middleware pipeline.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Another good reason to use GitHub.com to host your .NET source code – automated NuGet package vulnerability scans]]></title>
+            <link>https://www.dotnetweekly.com/articles/another-good-reason-to-use-githubcom-to-host-your-net-source-code-automated-nuget-package-vulnerabi</link>
+            <guid>https://www.dotnetweekly.com/articles/another-good-reason-to-use-githubcom-to-host-your-net-source-code-automated-nuget-package-vulnerabi</guid>
+            <pubDate>Tue, 08 Jan 2019 21:13:12 GMT</pubDate>
+            <content:encoded><![CDATA[This quick post is about how you can use GitHub and the OSS Index to scan your project’s NuGet packages for vulnerabilities – a good example of how perform your application security early on in the application life cycle (also known as ‘shift left‘)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Load your work items into Azure DevOps Boards with .NET]]></title>
+            <link>https://www.dotnetweekly.com/articles/load-your-work-items-into-azure-devops-boards-with-net</link>
+            <guid>https://www.dotnetweekly.com/articles/load-your-work-items-into-azure-devops-boards-with-net</guid>
+            <pubDate>Tue, 08 Jan 2019 21:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[This post is about how to write a .NET application to move workitems from another source (e.g. JIRA, Excel etc) into Azure Boards in Azure DevOps, and a Nuget package I’ve built to hopefully make it a bit easier for anyone else doing this as well.]]></content:encoded>
+        </item>
+    </channel>
+</rss>

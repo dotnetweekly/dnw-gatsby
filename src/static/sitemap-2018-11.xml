@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/videos/extension-methods-in-c-with-functional-linq-tip-youtube</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/is-string-operator-so-simple</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/cqrs-and-event-sourcing</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/service-fabric-is-going-open-source</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/graphql-with-aspnet-core-part-i-hello-world</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/aspnet-core-configuration-tips</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/books/new-whitepaper-azure-virtual-datacenter-lift-and-shift-guide-azurecat-guidance</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/remote-views-in-vuejs</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/aspnet-core-2-high-performance-book-review</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/blazor-and-net-core-hosting-the-futures-bright</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/scalable-and-performant-aspnet-core-web-apis-server-caching</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/redis-backed-response-caching-in-aspnet-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/scalable-and-performant-aspnet-core-web-apis-client-caching</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/fun-with-global-tools-in-net-core-21-preview-1</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/does-your-architecture-smell</loc> </url>
+</urlset>

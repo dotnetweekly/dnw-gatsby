@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/under-the-hood-of-aspnet-core-webhooks-signature-validation</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/connect-to-postgres-with-ef-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/cheat-sheet-dotnet-cli</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/static-website-hosting-for-azure-storage-now-in-public-preview</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/why-state-machines-make-your-life-easier</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/aspnet-core-22-roadmap</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/rest-vs-graphql-a-critical-review</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/why-kubernetes-is-the-new-application-server</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/garbage-collection-a-memorandum-on-memory-in-c</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/dynamic-binding-in-c</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/deep-dive-into-the-worlds-first-treeview-control-for-xamarin</loc> </url>
+</urlset>

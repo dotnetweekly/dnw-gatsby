@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/introducing-the-new-data-science-virtual-machine-on-windows-server-2016</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/cloud-app-security-exploring-microsoft-virtual-academy</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/microsoft-data-insights-summit-seattle-wa</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/elixir-toolkit</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/first-foray-into-net-core-2-0</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/webassembly-101-a-developers-first-steps</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/c-7-2-and-8-0-roadmap</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/microdot-easily-create-net-microservices-with-orleans</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/top-5-mistakes-when-people-talk-about-azure</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/running-tests-for-net-and-node-js-on-travis-ci</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/manage-your-open-source-usage-and-security-as-reported-by-your-cicd-pipeline</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/performance-improvements-in-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/important-interview-questions-and-answers-for-asp-net-mvc</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/creating-your-first-shared-library-in-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/documenting-asp-net-core-api-with-swagger</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/how-to-build-a-public-anonymous-chat-app-using-net-and-pusher</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/net-and-docker</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/an-early-look-at-c-7-1</loc> </url>
+</urlset>

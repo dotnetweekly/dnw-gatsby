@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/your-first-mvc-6-and-ef-7-application-dependency-injection-part-3</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-signalr-to-create-mobile-applications</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/journey-to-sql-authority-with-pinal-dave</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/mvps-from-around-the-world-come-together-again-for-mms-2015-in-minnesota</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/a-new-look-for-repositories</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/scheduling-load-tests</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/azure-event-hubs-primer</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/asp-net-5-view-components</loc> </url>
+</urlset>

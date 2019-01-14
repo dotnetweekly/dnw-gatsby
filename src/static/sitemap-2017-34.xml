@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/diagnosing-a-single-slow-test</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/why-you-should-care-about-serverless-computing</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/new-c-7-features-in-action-deconstruction-in-c-7</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/referencing-net-standard-assemblies-from-both-net-core-and-net-framework-scott-hanselman</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/announcing-the-coco-framework-for-enterprise-blockchain-networks</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/xamarin-webinar-registration-xamarin</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/dependency-injection-in-action-filters-in-asp-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/vue-js-and-net-mvc</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/create-a-cicd-pipeline-for-containerized-asp-net-core-projects</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/debugging-asp-net-core-apps-in-visual-studio-code-forever-frame</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/gary-ewan-park-introducing-a-postman-collection-for-appveyor</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/net-developerdays-2017-last-chance-for-discounted-price</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/announcing-net-standard-2-0</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/visual-studio-2017-version-15-3-released-2</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/azure-functions-tools-released-for-visual-studio-2017-update-3</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/akka-net-v1-3-is-now-available-on-net-4-5-and-net-standard-1-6</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/announcing-net-core-2-0</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/scaling-azure-functions-with-durable-functions</loc> </url>
+</urlset>

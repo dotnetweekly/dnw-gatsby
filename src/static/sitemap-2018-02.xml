@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/jwt-authentication-with-asp-net-core-2-web-api-angular-5-net-core-identity-and-facebook-login</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/optimize-your-azure-spend-premier-developer</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/8-practical-tips-for-learning-asp-net-core-mvc%c2%b7-jonhilton-net</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/litedb-embedded-net-nosql-database</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/introducing-jasper-asynchronous-messaging-for-net</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/64-bit-asp-net-core-on-azure-app-service</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/indicators-of-problem-design</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/refactoring-legacy-monoliths-first-steps</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/push-notifications-and-asp-net-core-part-2-requesting-delivery</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/exploring-powershell-with-graphical-user-interface</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/tools-for-bundling-and-minification-in-asp-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/sql-keys-in-depth</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/great-net-conferences-to-attend</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/running-asp-net-core-in-an-alpine-linux-docker-container-a-true-micro-service-21mb</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/setting-up-a-private-nuget-server-part-1-intro-server-setup</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/why-learning-tdd-is-hard-and-what-to-do-about-it</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/simulating-bad-networks-to-test-sql-server-replication-simple-talk</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/push-notifications-and-asp-net-core-part-1-push-api-2</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/the-missing-azure-functions-documentation-indexoutofrange</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/microservices-why-choose-containers-over-virtual-machines</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/cierge-passwordless-authentication-done-right</loc> </url>
+</urlset>

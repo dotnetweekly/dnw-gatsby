@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/cqrs-in-azure-part-4-azure-development-community</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/testing-asp-net-core-mvc-controllers-getting-started</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/c-async-await-tutorial-understanding-visualizing-tasks</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/preparing-for-a-speaking-event-these-mvps-have-some-tips</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/rider-taking-resharper-out-of-process-matt-ellis-at-net-sw</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/save-the-date-microsoft-edge-web-summit-2017-comes-to-seattle-on-september-13th</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/keeping-secrets-in-asp-net-core-the-blinking-caret</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/taritsynbundletransformer-bundle-transformer</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/four-ways-to-dispose-idisposables-in-asp-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/entity-framework-improving-performance-when-saving-data-to-database</loc> </url>
+</urlset>

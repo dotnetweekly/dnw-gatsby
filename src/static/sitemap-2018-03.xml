@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/machine-learning-an-introduction</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/resources-for-learning-about-net-internals</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/multi-tenant-web-apps-with-asp-net-core-and-postgres</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/push-notifications-and-asp-net-core-part-3-replacing-messages-urgency</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/books/new-ebook-kubernetes-objects-on-microsoft-azure</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/smashing-the-myth-why-you-must-learn-f-even-if-you-arent-writing-rocket-science-apps</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/http-2-push-vs-http-preload-2</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/books/entity-framework-core-succinctly</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/measuring-code-coverage-of-net-core-applications-with-visual-studio-2017</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/headless-e2e-testing-with-chrome-in-visual-studio-team-services</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/extending-the-new-windbg-part-2-tool-windows-and-command-output</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/integrating-teamcity-with-microsoft-teams-using-powershell</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/how-to-distribute-a-net-core-application-to-users-who-dont-have-net-core-installed</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/functional-f-that-slowly-appears-in-c</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/coding-best-practices-when-youre-short-on-time</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/creating-a-custom-asp-net-core-output-formatter</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/a-microservices-implementation-journey-part-1</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/tensorflow-api-for-net-languages</loc> </url>
+</urlset>

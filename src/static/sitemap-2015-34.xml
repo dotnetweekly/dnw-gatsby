@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/how-does-a-relational-database-work</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/how-dns-works</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/building-angularjs-application-with-typescript-and-visual-studio-code</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/fake-it-till-you-make-it</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/test-load-balancertlb</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/books/agile-project-management-with-kanban-developer-best-practices</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/why-should-you-care-about-microsoft-edge</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/welcome-resharper-9-2-resharper-c-1-1-and-more-ultimate-updates</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/announcing-windows-server-2016-containers-preview</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/docker-on-windows-server-2016</loc> </url>
+</urlset>

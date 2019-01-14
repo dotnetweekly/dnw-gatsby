@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/scalable-and-performant-asp-net-core-web-apis-profiling-and-monitoring</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/i-need-to-implement-a-websocket-server-what-should-i-use</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/service-fabric-6-1-release</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/making-ios-11-even-easier-with-xamarin-forms</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/github-extension-for-visual-studio-youtube</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/net-standard-explained-how-to-share-code</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/orleans-smart-cache-pattern</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/simplest-wcf-rest-web-service</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/the-performance-characteristics-of-async-methods-in-c</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/books/programming-the-blockchain-in-c</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/history-and-evaluation-of-cloud-computing</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/signals-in-c</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/bootstrap-4-released</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/real-time-sentiment-analysis-with-c</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/microsoft-makecode</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/integrationtest</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/aws-lambda-net-core-2-0-support-released</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/websocket-rpc-library-for-net-with-auto-javascript-client-code-generation-supporting-asp-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/introducing-dotget-an-installer-for-net-core-cli-apps</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/interactive-line-editing-in-net</loc> </url>
+</urlset>

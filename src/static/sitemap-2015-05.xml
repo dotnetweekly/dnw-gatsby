@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/net-core-open-source-update</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/continuous-delivery-on-windows-azure-websites-using-visual-studio-online-vso</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/universal-windows-app-development-with-cortana-and-the-speech-sdk</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/licensing-changes-user-acceptance-testing-and-agile-planning</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/asp-net-mvc-security-through-validation</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/why-developers-need-to-understand-execution-plans</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/introduction-to-api-reviews</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/a-decade-of-unit-testing</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/understanding-azure-website-auto-scale-magic</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/evolving-asp-net-apps-validating-redirects-and-forwards</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/the-road-to-c-7-has-begun</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/fun-with-asp-net-5-linux-docker-part-2</loc> </url>
+</urlset>

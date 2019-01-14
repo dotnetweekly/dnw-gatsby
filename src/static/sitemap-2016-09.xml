@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/introduction-to-dependency-injection-and-inversion-of-control</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/node-js-from-zero-to-bobble-with-visual-studio-code</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/sending-availability-alert-based-on-response-content-in-application-insights</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/asp-net-mvc-user-role-base-menu-management-using-web-api-and-angularjs</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/how-to-send-emails-in-asp-net-core-1-0</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/state-of-open-source-in-net</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/microsoft-to-acquire-xamarin-and-empower-more-developers-to-build-apps-on-any-device</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/pure-css-parallax-websites</loc> </url>
+</urlset>

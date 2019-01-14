@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/debugging-botframework-locally-using-ngrok</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/datascience-for-developers-build-your-first-predictive-model-with-r</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/xamarin-cross-platform-productivity-with-xamarin-2</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/what-is-pass-summit</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/16-new-tools-and-extensions-for-visual-studio</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/the-xamarin-show-1-sharing-code-across-ios-android-and-windows</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/self-contained-net-core-applications</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/using-devops-to-drive-organizational-agility-and-innovation</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/making-asp-net-apps-first-class-citizens-on-google-cloud-platform</loc> </url>
+</urlset>

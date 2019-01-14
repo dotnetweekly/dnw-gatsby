@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/typec-a-simple-net-dependency-injection-ioc-container</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/prepare-yourself-for-asp-net-5-part-2-nuget-npm-bower</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/node-js-tools-1-0-for-visual-studio</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/developing-solutions-with-azure-documentdb</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/smart-unit-tests-in-visual-studio-2015</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/getting-interesting-data-into-azure-machine-learning-azureml</loc> </url>
+</urlset>

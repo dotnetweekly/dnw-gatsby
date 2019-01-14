@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/xamarin-c-open-source-sdk-developer</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/welcome-to-the-net-framework-4-7-1-early-access-net-blog</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/announcing-deploy-to-azure-app-service-jenkins-plugin-and-more</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/net-standard-2-0-is-final</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/introduction-to-the-apiexplorer-in-asp-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/linqpad-the-net-programmers-playground</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/denysdovhanwtfjs-a-list-of-funny-and-tricky-javascript-examples</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/updates-to-the-windows-as-a-service-model</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/microservices-and-docker-containers-architecture-patterns-and-development-guidance</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/a-proper-terminal-for-visual-studio</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/profile-guided-optimization-comes-to-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/fast-and-easy-containers-azure-container-instances-blog-microsoft-azure</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/rainwayappwarden-warden-net-is-an-easy-to-use-process-management-library-for-keeping-track-of-proce</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/converting-c-enums-to-javascript</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/analyzing-runtime-coreclr-events-from-linux</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/tuples-in-net-world-and-c-7-0-improvements</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/different-ways-to-implement-singleton-in-net-and-make-people-hate-you-along-the-way</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/asp-net-core-mvc-custom-tag-helpers</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/building-a-scheduled-task-in-asp-net-corestandard-2-0</loc> </url>
+</urlset>

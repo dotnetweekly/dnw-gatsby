@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/appsettings-in-asp-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/angular2-search-with-asp-net-core-and-elasticsearch</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-dotnet-watch-test-for-continuous-testing-with-net-core-and-xunit-net</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/introduction-to-asp-net-core-1-0</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/azure-service-fabric-patterns-and-practices-2</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/sql-server-data-tools-for-visual-studio</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/asp-net-core-net-core-ef-core-1-1-updates-in-preview</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/net-core-getting-started-with-git-and-vscode-via-visual-studio-team-services</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/the-xamarin-show-7-continuous-c-f-ide-for-ipad-with-frank-krueger</loc> </url>
+</urlset>

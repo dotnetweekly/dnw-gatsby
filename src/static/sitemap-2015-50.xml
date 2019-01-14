@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/net-framework-4-6-1-improves-on-wpf-sql-connectivity</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/creating-real-world-applications-with-django</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/creating-load-test-plugins-for-cloud-based-load-test</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/new-c-repl-and-scripting-capabilities</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/windows-10-iot-core-is-available-for-commercial-and-industrial-device-builders</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/microsoft-edges-javascript-engine-to-go-open-source</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/whats-new-for-developers-in-the-windows-10-sdk-build-10586-update</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/a-case-for-microservices</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/microsoft-azure-certification-where-to-start-a-study-resource-list</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/building-stateful-services-with-azure-service-fabric</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/satya-nadella-on-cybersecurity-and-microsofts-new-cyber-defense-operations-center</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/live-writer-is-now-open-source</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/release-management-workflow-migrator</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/connect-2015-2</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/web-application-compatibility-inside-windows-10</loc> </url>
+</urlset>

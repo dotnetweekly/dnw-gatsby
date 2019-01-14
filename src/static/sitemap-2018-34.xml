@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/videos/twc9-net-conf-is-coming-service-fabric-vs-kubernetes-windows-95-in-electron-and-more</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/windows-95-in-electron-runs-on-macos-linux-and-windows</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/exposing-cosmos-db-change-feed-from-aspnet-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/xamarinforms-date-and-time-pickers-in-conversational-ui</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/cutting-edge-social-style-notifications-with-aspnet-core-signalr</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/are-your-windows-forms-and-wpf-applications-ready-for-net-core-30</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/create-your-own-net-core-templates-in-4-easy-steps</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/handling-a-gdi-resource-leak</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/anatomy-of-a-net-assembly-pe-headers</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/micro-services-with-azure-functions-pdf-download</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/safely-storing-sensitive-configuration-data-in-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/timsort-the-fastest-sorting-algorithm-youve-never-heard-of</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/service-fabric-and-kubernetes-comparison-part-1</loc> </url>
+</urlset>

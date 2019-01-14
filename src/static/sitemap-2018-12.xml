@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/certification-why-you-should-care-even-if-no-one-else-does</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/a-few-great-ways-to-consume-restful-apis-in-c</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/private-protected-access-modifier-in-c-72-productive-c</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/scalable-and-performant-aspnet-core-web-apis-asynchronous-code</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/under-the-hood-of-stopwatch</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/announcing-general-availability-of-azure-database-services-for-mysql-and-postgresql</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/stack-overflow-developer-survey-2018-overview-for-net-developers</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/oouiwasm-net-in-the-browser</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/aspnet-mvc-5-with-bdd-onion-clean-architecture-living-documentation-and-a-ci-cd-pipeline-from-scrat</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/microsoft-video-indexer-unlock-video-insights</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/net-fake-json-server</loc> </url>
+</urlset>

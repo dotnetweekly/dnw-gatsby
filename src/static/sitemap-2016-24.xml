@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/scripty-a-c-t4-alternative</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/10-lessons-from-a-long-running-ddd-project-part-1</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/microsoft-buys-linkedin-for-26-2-billion</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/get-sql-server-2016-now</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/asp-net-use-custom-middleware-to-detect-and-fix-404s-in-asp-net-core-apps</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/essential-net-dependency-injection-with-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/visual-studio-2015-update-3-rc</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/quickly-add-a-reference-to-a-nuget-packages-in-visual-studio-2015</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/asp-net-core-getting-started-with-angularjs-2</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/power-tools-for-windows-10</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/python-django-on-nano-server</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/books/free-ebook-microsoft-azure-essentials-migrating-sql-server-databases-to-azure-2</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/real-madrid-microsoft-better-together-embarking-on-a-digital-transformation-initiative</loc> </url>
+</urlset>

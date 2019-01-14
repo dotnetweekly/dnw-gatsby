@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/easy-crud-for-your-web-api-with-dapper</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/net-core-roadmap</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/angularjs2-on-asp-net-core-using-typescript-part-3-attribute-directives</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/your-first-net-core-web-application-using-just-the-command-line-in-ten-minutes-or-less</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/htmltags-4-1-released-for-asp-net-4-and-asp-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/vs-2015-tooling-update-for-unity-game-devs</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/the-power-of-roslyn-improving-your-productivity-with-live-code-analyzers</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/working-with-user-secrets-in-asp-%e2%80%8bnet-core-applications</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/developer-assistant-now-supports-c</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/create-your-first-botframework-bot-in-azure</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/rich-botframework-conversation-cards</loc> </url>
+</urlset>

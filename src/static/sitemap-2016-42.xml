@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/instant-loading-with-indexeddb-building-a-pwa-part-2</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/azure-weekly</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/microsoft-open-sources-p</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/9-things-you-should-know-about-sql-azure-databases</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/microsoft-ignite-2</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/cognitive-services-face-and-emotion-recognition-in-xamarin-forms-with-microsoft-cognitive-services</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/using-git-and-github</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/3-ways-to-manage-dependent-classes-in-the-net-framework</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/the-xamarin-show-5-mvvm-data-binding-with-xamarin-forms</loc> </url>
+</urlset>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/videos/cross-platform-at-microsoft-xamarin-cordova-unity-and-c-panel</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/the-future-of-c-2</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/xamarin-for-absolute-beginners</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/running-bash-on-ubuntu-on-windows</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/building-strongly-typed-application-configuration-utility-with-roslyn</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/how-to-host-your-own-nuget-server-and-package-feed</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/whats-new-for-the-net-native-compiler-and-runtime-in-visual-studio-2015-update-2</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/exploiting-the-concurrentdictionary-in-asynchronous-applications</loc> </url>
+</urlset>

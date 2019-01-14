@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/dave-glick-blazor-razor-webassembly-and-mono</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/working-with-momentjs</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/detecting-data-breaches</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/meet-the-blazor-team</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/type-conversion-in-net</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/10-reasons-why-c-is-alive-and-kicking-in-2018</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/c-pattern-matching-are-the-official-docs-lying</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-npm-webpack-and-typescript-to-create-simple-aspnet-core-web-app</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/under-the-hood-of-aspnet-core-webhooks-routing</loc> </url>
+</urlset>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/the-path-from-a-desktop-app-to-a-universal-windows-platform-uwp-app</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/general-availability-of-azure-devtest-labs-vsts-extension</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/on-the-road-to-release-redesigning-visual-studio-installation</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/net-goes-open-source-and-you-can-too</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/a-peek-into-net-open-source-contributions</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/cqrs-and-rest-the-perfect-match</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/visual-studio-enterprise-advanced-features</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/developer-productivity-whats-new-in-c-6-2</loc> </url>
+</urlset>

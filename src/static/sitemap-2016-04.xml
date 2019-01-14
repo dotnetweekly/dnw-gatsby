@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/asp-net-5-is-dead-introducing-asp-net-core-1-0-and-net-core-1-0</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/json-configuration-in-asp-net-core-mvc</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/dotnetapis-beta</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/xaml-behaviors-and-open-source-for-windows-uwp-apps</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/9-new-windows-10-courses-for-developers-8-short-ones-and-1-long-one</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/capturing-analytics-data-with-azure-mobile-engagement</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/create-your-own-project-template-for-visual-studio-2013-and-2015</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/handling-lists-of-selectable-items-in-asp-net-mvc</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/developing-kinect-for-windows-v2-0-app-with-visual-studio-2015-on-windows-10</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/pull-request-improvements-in-visual-studio-team-services</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/feature-js</loc> </url>
+</urlset>

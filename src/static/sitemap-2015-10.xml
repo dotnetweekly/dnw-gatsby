@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/events-training/construct-2-advanced-game-development</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/creating-unit-test-method-stubs-with-create-unit-tests</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/collaboration-puts-typescript-right-in-the-middle-of-angularjs</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/getting-started-with-typescript-classes-types-and-interfaces</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/a-first-look-at-the-windows-10-universal-app-platform</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/dotnetconf-2015</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/microsoft-adopts-first-international-cloud-privacy-standard</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/chef-and-microsoft-team-up-to-enhance-azures-automation</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/books/data-science-in-the-cloud-with-microsoft-azure-machine-learning-and-r</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/machine-learning</loc> </url>
+</urlset>

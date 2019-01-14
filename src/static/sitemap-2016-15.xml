@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/entity-framework-code-first-migrations</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/previewing-salsa-the-new-javascript-language-service-in-visual-studio-15</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/angular-2-typescript-configuration-and-debugging-for-visual-studio-2015</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/build-2016-code-labs-code-and-more</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/new-and-noteworthy-extensions-for-visual-studio-march-2016</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/asp-net-core-deep-dive-into-mvc</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/ui-development-made-easier-with-xaml-edit-continue</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/essential-net-logging-with-net-core</loc> </url>
+</urlset>

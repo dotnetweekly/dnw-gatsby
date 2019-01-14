@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/videos/microsoft-devradio-your-top-windows-store-questions-answered</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/kinecthealth</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/app-builder-virtual-summit</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/nfc-tags</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/visual-studio-2012-update-2-now-available</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/getting-started-managing-client-side-data-with-the-breeze-javascript-library-2</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/building-an-application-using-design-patterns-and-principals-in-c</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/localizing-default-error-messages-in-asp-net-mvc-and-webform</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/net-shell-extensions-shell-property-sheets</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/automated-ui-testing-done-right</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/building-windows-8</loc> </url>
+</urlset>

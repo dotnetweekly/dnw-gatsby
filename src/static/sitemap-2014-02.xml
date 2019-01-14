@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/code-snippet-in-visual-studio</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/books/asp-net-web-api-build-restful-web-applications-and-services-on-the-net-framework</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/how-duck-typing-benefits-c-developers</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/in-depth-training-from-the-experts-who-built-azure-january-27-31</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/code-first-goodies-in-entity-framework-6</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/windows-phone-samples-learn-through-code</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/build-more-efficient-windows-store-apps-using-javascript-error-handling</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/troubleshooting-applications-with-iis-logs</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/html5-threading-with-web-workers-and-data-storage-with-indexeddb</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/visual-studio-online</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/be-two-places-at-once-using-multiple-windows</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/windows-8-1-developer-training-geek-edition-2</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/an-introduction-to-windows-azure-service-bus-brokered-messaging</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/windows-performance-jump-start</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/books/free-ebook-introducing-microsoft-system-center-2012-r2</loc> </url>
+</urlset>

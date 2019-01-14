@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/making-your-microservices-resilient-and-fault-tolerant</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/microsoft-ai-idea-challenge-contest</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/17-must-have-net-developer-tools-the-essential-list</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/guard-a-fast-extensible-argument-validation-library</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/upgrade-your-aspnet-core-21-app-to-angular-6</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/so-you-want-to-create-your-own-net-runtime-chris-bacon</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/vue-cli-3-a-game-changer-for-frontend-development</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/books/the-developers-guide-to-microsoft-azure-ebook-august-update-is-now-available</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/net-internals-03-boxing-and-unboxing</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/an-introduction-to-the-windows-template-studio-for-desktop-development</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/a-new-approach-for-cross-platform-net-gui-development-introducting-qmlnet</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/talking-texts-with-net-core-cognitive-services-and-azure-storage</loc> </url>
+</urlset>

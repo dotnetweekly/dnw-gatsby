@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/asp-net-progressive-enhancement-with-asp-net-and-react</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-multipurpose-command-window-to-execute-things-faster-in-visual-studio</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/building-uwp-apps-using-xamarin-forms</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/segmenting-and-sending-targeted-notifications-through-azure-mobile-engagement</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/new-features-in-c-7-part-2-2</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/3-tools-for-choosing-and-working-with-color-in-apps-websites-and-print</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/learn-enough-git-to-be-dangerous</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/dynamic-code-generation-in-c</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/10-articles-every-programmer-must-read</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/windows-enterprise-mobility-productivity-and-iot</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/manually-updating-a-raspberry-pi-2-running-windows-10-iot-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/microsoft-mechanics-azure-stack-and-what-it-means-for-it</loc> </url>
+</urlset>

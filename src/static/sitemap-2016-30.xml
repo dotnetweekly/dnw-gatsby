@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/getting-started-with-f-on-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/try-net-mvc</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/windows-10-app-patterns-and-navigation</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/xamarin-working-with-local-databases-in-xamarin-forms-using-sqlite</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/essential-net-visual-studio-2015-with-net-core-tooling-2</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/exploring-dotnet-new-with-net-core-2</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/7-ways-to-look-at-the-values-of-variables-while-debugging-in-visual-studio</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-dependency-injection-with-view-components</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/visual-studio-15-preview-3-for-c-and-visual-basic</loc> </url>
+</urlset>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/books/now-shipping-principles-of-object-oriented-javascript</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/5-things-that-dont-have-to-be-hard-in-single-page-applications</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/looking-at-asp-net-mvc-5-1-and-web-api-2-1-part-4-web-api-help-pages-bson-and-global-error-handling</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/a-net-developer-primer-for-single-page-applications</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/twc9-visual-studio-2013-update-2-news-azure-updates-net-reference-source-and-more</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/testing-and-debugging-your-geofencing-apps</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/announcing-new-web-features-in-visual-studio-2013-update-2-ctp2</loc> </url>
+</urlset>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/asp-net-core-exeeds-1-15-million-requests-12-6-gbps</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/weak-events-in-net-using-reactive-extensions-rx</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/application-performance-monitoring-and-availability-monitoring</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/restful-web-api-help-documentation-using-swagger-ui-and-swashbuckle-2</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/creating-type-safe-structures-and-dictionaries-with-tuples</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/mjml-redefines-the-way-you-code-responsive-email</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/keynote-ndc-london-2016-javascript-the-cloud-and-the-rise-of-the-new-virtual-machine-scott-hanselma</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/download-windows-10-and-create-usb-thumb-drive-for-booting-to-installation-plus-data-migration</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/devops-fomo-get-up-to-speed-on-culture-and-continuous-delivery-with-the-devops-fundamentals-series</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/books/free-ebook-introducing-windows-10-for-it-professionals-technical-overview</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/10-interview-questions-every-javascript-developer-should-know</loc> </url>
+</urlset>

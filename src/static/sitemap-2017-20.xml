@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/getting-started-with-aspnet-core-2-0-preview-1</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/all-things-mobile-at-microsoft-build-the-visual-studio-blog</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/new-innovations-at-microsoft-build-2017-helping-developers-achieve-more-blog-microsoft-azure</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/build-2017-channel-9</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/microsoft-extends-azure-managed-database-services-with-introduction-of-mysql-and-postgresql-blog-mi</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/handling-404-not-found-in-asp-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/netasp-net-team-at-devintersection-2017</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/github-beyond-your-browser</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/building-single-page-applications-with-asp-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/serverless-c-with-azure-functions-http-triggered-functions</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-kudu-and-deploying-apps-into-azure</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/upgrading-to-net-core-2-0-preview</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/announcing-ef-core-2-0-preview-1-net-blog</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/announcing-net-core-2-0-preview-1</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/microsoft-launches-skype-video-bots-in-preview</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/introduction-to-azure-cosmos-db</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/visual-studio-for-mac-officially-released</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/azure-application-architecture-guide</loc> </url>
+</urlset>

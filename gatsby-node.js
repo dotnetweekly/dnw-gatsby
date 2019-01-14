@@ -7,7 +7,10 @@
 const { sourceNewsletter } = require('./gatsby-node/sourceNewsletter')
 const { createPosts } = require('./gatsby-node/createPosts')
 const { createCategories } = require('./gatsby-node/createCategories')
+const { createRSS } = require('./gatsby-node/createRSS')
+const { createSitemaps } = require('./gatsby-node/createSitemap')
 const path = require('path')
+const fs = require('fs')
 
 exports.sourceNodes = async ({ actions }) => {
   const { createNode } = actions
@@ -19,6 +22,8 @@ exports.createPages = async ({ actions, graphql }) => {
   const { createPage } = actions
   await createPosts(createPage, graphql)
   await createCategories(createPage, graphql)
+  await createRSS(createPage, graphql)
+  await createSitemaps(createPage, graphql)
   return
 }
 
@@ -31,6 +36,20 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
       value: node.frontmatter.slug,
     })
   }
+}
+
+exports.onPostBuild = ({ graphql }) => {
+  fs.readdir(path.resolve(__dirname, 'src/static'), (err, files) => {
+    files.forEach(file => {
+      fs.copyFile(
+        `${path.resolve(__dirname, 'src/static')}/${file}`,
+        `${path.resolve(__dirname, 'public')}/${file}`,
+        err => {
+          if (err) throw err
+        }
+      )
+    })
+  })
 }
 
 // Implement the Gatsby API “onCreatePage”. This is

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/videos/developing-universal-windows-apps</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/new-open-source-project-windows-communication-foundation</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/testing-in-continuous-integration-and-continuous-deployment-workflows</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/migrating-8-1-apps-to-windows-10</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/hello-world-windows-10-available-on-july-29</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/windows-app-studio-beta-for-windows-10-insider-preview</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/guide-to-universal-windows-platform-uwp-apps</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/cqrs-for-the-common-application</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/adding-microsoft-azure-search-to-your-websites-and-apps-2</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/evolving-asp-net-apps-load-testing</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-typescript-with-visual-studio-code-on-osx</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/publishing-an-asp-net-5-app-to-docker-on-linux-with-visual-studio</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/azure-remoteapp-core-skills</loc> </url>
+</urlset>

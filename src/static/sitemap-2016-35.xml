@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/videos/asp-net-core-1-0-on-cloud-9</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/youre-using-httpclient-wrong-and-it-is-destabilizing-your-software</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/keeping-a-clean-startup-cs-in-asp-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/getting-started-with-google-cloud-client-libraries-for-net</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/get-the-unity-5-5-beta-now</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/getting-started-with-asp-net-performance-monitoring-and-optimization</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/july-update-for-the-visual-studio-code-cc-extension</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/announcing-typescript-2-0-beta</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/sql-server-2016-developer-edition</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/tfs-15-rc1-is-available</loc> </url>
+</urlset>

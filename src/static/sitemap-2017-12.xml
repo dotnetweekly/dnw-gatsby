@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/how-to-send-sms-messages-with-asp-net-mvc-framework</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/google-spreadsheets-and-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/sneak-preview-of-orchard-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/net-core-1-1-where-to-start</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/net-standard-simplifying-cross-platform-development-dotnetcurry</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/visual-studio-live-unit-testing-new-to-visual-studio-2017-cross-cutting-concerns</loc> </url>
+</urlset>

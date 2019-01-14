@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/public-preview-of-graph-edge-constraints-on-sql-server-2019</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/what-ive-learned-so-far-building-coravel-open-source-net-core-tooling-part-1</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/net-tools-amazing-list-of-opensource-net-tools-and-resources</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/top-10-networking-features-in-windows-server-2019-1-container-networking-with-kubernetes</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/delivering-security-innovation-that-puts-microsofts-experience-to-work-for-you</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/customizing-aspnet-core-part-02-configuration</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/customizing-aspnet-core-part-01-logging</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/microsoft-365-adds-modern-desktop-on-azure</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/introducing-microsoftcom-learn</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/cqrs-snippets</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/go-vs-c-garbage-collection</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/go-vs-c-part-2-garbage-collection</loc> </url>
+</urlset>

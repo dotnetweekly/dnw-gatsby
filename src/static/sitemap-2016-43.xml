@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/how-many-developers-use-c-vs-c-vs-other-programming-languages</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/google-releases-net-apis-for-google-cloud</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/building-your-c-application-with-visual-studio-code</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/sql-server-displaying-sql-agent-jobs-running-at-a-specific-time</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/why-the-command-line-why-now</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/exploring-servicestacks-simple-and-fast-web-services-on-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/books/data-science-with-microsoft-sql-server-2016</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/extending-a-universal-windows-platform-media-app</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/improved-overall-visual-studio-15-responsiveness</loc> </url>
+</urlset>

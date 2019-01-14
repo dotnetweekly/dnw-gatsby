@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/making-websites-location-aware-with-html5-geolocation</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/web-essentials-2012</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/exploring-the-new-javascript-api-for-office</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/building-a-simple-comet-application-in-the-microsoft-net-framework</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/bundling-and-minifying-in-asp-net-mvc</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/walkthrough-publishing-an-fc-mvc-application-to-windows-azure</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/video-effectively-managing-your-personal-brand-online</loc> </url>
+</urlset>

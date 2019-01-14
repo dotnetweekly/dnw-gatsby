@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/unit-testing-javascriptjquery-in-asp-net-mvc-project-using-qunit-step-by-step</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/tutorial-series-learning-how-to-write-a-3d-soft-engine-from-scratch-in-c-typescript-or-javascript</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-asp-net-webapi-with-web-forms</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/windows-8-store-apps-creating-chart-ui-using-2d-graphics-with-c-and-xaml</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/5-min-crash-course-on-requirejs</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/my-evolving-windows-wordpress-mysql-backup-script</loc> </url>
+</urlset>

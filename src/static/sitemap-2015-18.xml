@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/an-introduction-to-building-windows-apps-for-windows-10-devices</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/sql-server-2016-public-preview-coming-this-summer</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/introducing-visual-studio-code-visual-studio-2015-rc-application-insights-public-preview-and-net-co</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/extensions-for-visual-studio-online-rest-apis-for-tfs-2015-rc-and-more-from-build-2015</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/announcing-visual-studio-code-preview</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/announcing-the-github-extension-for-visual-studio</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/microsoft-edge-is-the-browser-for-windows-10</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/welcoming-developers-to-windows-10</loc> </url>
+</urlset>

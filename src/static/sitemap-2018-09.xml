@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/creating-a-chat-application-using-react-and-aspnet-core-part-4</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/identify-users-and-their-permissions-with-jwts-and-aspnet-core-webapi</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/enforce-ssl-and-use-hsts-in-net-core20-net-core-security-part-i</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/generate-mapping-code-with-roslyn-code-fix-provider</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/async-await-best-practices</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/why-i-am-excited-about-unity-in-2018</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/get-started-with-azure-cosmos-db-through-this-technical-training-series</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/jsonnet-110-release-1-net-standard-20-jsonconverters-json-path-and-more</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/were-doing-pagination-wrong</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/gotchas-upgrading-from-identityserver-3-to-identityserver-4</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/clearing-site-data-upon-sign-out-in-aspnet-core</loc> </url>
+</urlset>

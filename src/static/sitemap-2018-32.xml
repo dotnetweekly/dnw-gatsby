@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/creating-a-simple-ai-with-unity-and-c</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/server-sent-events-and-aspnet-core-you-may-need-keep-alives</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/aspnet-intersections-2018-developers-share-their-platform-choice</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/announcing-typescript-30</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/benchmarkdotnet-v0110</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/xunitnet-24</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/web-assembly-and-blazor-re-assembling-the-web</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/the-cost-of-javascript-in-2018</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/zero-downtime-deployments-in-an-iis-world</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/differences-between-aspnet-signalr-and-aspnet-core-signalr</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/xenko-game-engine-xenko-30-is-now-free-and-open-source</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/books/serverless-apps-architecture-patterns-and-azure-implementation-microsoft-docs</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/safely-storing-sensitive-configuration-data-in-net-core</loc> </url>
+</urlset>

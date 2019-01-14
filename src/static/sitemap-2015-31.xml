@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/videos/the-future-of-entity-framework-ef7</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/building-apps-for-windows-10-with-visual-studio-2015</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/simplifying-single-page-applications-with-asp-net-mvc-partial-views</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/intellitrace-method-call-information-and-edit-and-continue</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/doing-terrible-things-to-your-code</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/the-always-up-to-date-visual-studio-2015-setup</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/books/visual-studio-2015-succinctly</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/how-to-become-a-great-front-end-engineer</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/dependency-injection-in-asp-net-5</loc> </url>
+</urlset>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/ryujit-just-in-time-compiler-optimization-enhancements</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/dissecting-the-pattern-matching-in-c-7-dissecting-the-code</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/quick-starts-c-guide</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/documenting-the-web-together</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/jump-start-asp-net-core-application-on-nano-server</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/owasp-top-10-for-asp-net-core-broken-authentication-and-session-management-dot-net-core-tutorials</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/announcing-the-net-framework-4-7-1</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/azure-opendev-2</loc> </url>
+</urlset>

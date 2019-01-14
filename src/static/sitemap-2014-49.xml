@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/c-6-in-action</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/getting-started-with-es6-the-next-version-of-javascript</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-entity-framework-with-an-existing-database-data-access</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/whats-new-with-asp-net-5</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/creating-your-first-2d-game-with-gamemaker</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/ios-build-debugging-with-the-visual-studio-tools-for-apache-cordova</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/visual-studio-2015-preview-enhanced-debugging</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/ef7-priorities-focus-and-initial-release</loc> </url>
+</urlset>

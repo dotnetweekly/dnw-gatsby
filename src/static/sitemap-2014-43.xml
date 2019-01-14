@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/universal-windows-apps-with-angular</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/azureconf-2014</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/azurechatr-building-a-cross-platform-chat-app-for-windows-ios-android</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/a-pattern-for-sharing-data-across-domain-driven-design-bounded-contexts</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/november-12-13-join-us-for-connect-microsoft-visual-studio-vnext-and-azure-virtual-event</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/defrag-tools-111-programming-windows-store-apps-with-html-css-and-javascript-part-1</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/game-production-basics</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/big-day-for-kinect-developers</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/writing-cleaner-code-with-reactive-extensions</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/apache-cordova-gains-windows-8-1-and-windows-phone-8-1-support</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/use-signalr-to-build-modern-apps</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/books/free-ebook-creating-mobile-apps-with-xamarin-forms-preview-edition</loc> </url>
+</urlset>

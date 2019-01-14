@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/start-to-develop-with-kinect</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/books/gamification-intro</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/webmatrix-2-front-end-web-developers-take-note-asp-net-php-node-js-and-more</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-blend-to-design-html5-windows-8-application-part-i-overview-and-hello-world</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/visual-studio-2012-launch-my-events-sample-modern-application-source</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/how-to-create-your-first-ever-windows-8-app-and-see-how-easy-it-is</loc> </url>
+</urlset>

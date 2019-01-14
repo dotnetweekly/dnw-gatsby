@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/gpu-programming-face-detection-using-the-eigenfaces-algorithm-on-the-gpu</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/ui-tests-for-desktop-and-uwp-apps</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/five-reasons-why-javascript-developers-should-even-care-about-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-net-hardware-intrinsics-api-to-accelerate-machine-learning-scenarios</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/enabling-cors-in-aspnet-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/faster-frontends-in-aspnet-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/aspnet-core-check-missing-dependencies-on-startup</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/buggy-c-code-the-10-most-common-mistakes-in-c-programming</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/why-is-net-core-so-special-why-you-should-use-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/net-threadpool-starvation-and-how-queuing-makes-it-worse</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/how-to-use-the-testcase-attribute-in-c-and-nunit</loc> </url>
+</urlset>

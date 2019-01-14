@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/katana-asp-net-5-and-bridging-the-gap</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/customizing-asp-net-authentication-with-identity</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/news-from-connect</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/memory-usage-tool-while-debugging-in-visual-studio-2015</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/leveraging-reactive-extensions-for-asynchronous-processing</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/single-page-crud-application-spa-using-asp-net-web-api-mvc-and-angular-js</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/free-visual-studio-community-edition-released-today</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/microsoft-open-sources-net-the-history-behind-the-announcement</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/async-programming-unit-testing-asynchronous-code</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/visual-studio-community-2013-with-update-4</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/inside-windows-platform-microsoft-ocr-libraries</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/connect-live</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/visual-studio-2015-preview-downloads</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/opening-up-visual-studio-and-net-to-every-developer-any-application-net-server-core-open-source-and</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/microsoft-ignite-may-4-8-2015-chicago-il</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/azure-resource-manager-devops-jump-start</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/w3c-charts-a-course-for-the-future-of-the-open-web-by-finalizing-html5-standard</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/windows-10-technical-preview-fundamentals-for-it-pros</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/azure-iaas-for-it-pros-online-event</loc> </url>
+</urlset>

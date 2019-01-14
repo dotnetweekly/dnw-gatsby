@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/announcing-new-web-features-in-visual-studio-2013-update-3-rtm</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/azure-virtual-machine-machine-learning-iot-event-ingestion-mobile-sql-redis-sdk-improvements</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/visual-studio-2013-update-3-now-available</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-wildcard-ssl-certificates-on-iis-7-2</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/logstalgia-aka-apachepong-is-a-website-access-log-visualization-tool</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/leverage-output-caching-with-iis7-x-and-iis8-x</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/visual-studio-2013-update-3-azure-sdk-2-4-windows-phone-8-1-update-and-apache-cordova-tools-ctp-2</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/visual-studio-tools-for-unity-1-9</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/profile-and-time-your-asp-net-mvc-app-all-the-way-to-azure</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/cross-platform-mobile-development-with-visual-studio</loc> </url>
+</urlset>

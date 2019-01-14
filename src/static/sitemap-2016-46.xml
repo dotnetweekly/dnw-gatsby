@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/asp-net-core-restful-web-api-versioning-made-easy</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/extensibility-in-visual-studio-15-increasing-reliability-and-performance</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/the-connect-2016-developer-event-starts-this-wednesday</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/build-your-first-container-using-docker-on-hyper%e2%80%91v</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/watch-the-microsoft-tech-summit-keynote-live</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/hosting-and-scaling-your-apps-with-azure-container-service</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/azure-container-service-the-clouds-most-open-option-for-containers</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/office-ui-fabric</loc> </url>
+</urlset>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/entity-framework-links-4</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/working-with-jeet-an-alternative-responsive-framework</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/helping-you-select-an-mv-framework</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/quick-tip-how-to-make-ninject-work-with-asp-net-web-api</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/15-useful-websites-for-testing-code-snippets</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/learn-css-layout</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/get-in-the-cloud-get-certified</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/modernapps-live</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/visual-studio-achievements-for-windows-store-apps</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/building-a-game-with-javascript-making-things-move</loc> </url>
+</urlset>

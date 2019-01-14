@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/events-training/building-responsive-ui-with-bootstrap</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/developing-your-first-game-with-unity-and-c</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/visual-studio-14-ctp-3-available</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/try-out-the-new-releases-net-framework-vnext-asp-net-vnext-net-native-and-ryujit</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/asynchronous-programming-in-web-api-asp-net-mvc</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/the-broken-promise-of-the-mobile-web</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/create-a-secure-asp-net-mvc-5-web-app-with-log-in-email-confirmation-and-password-reset</loc> </url>
+</urlset>

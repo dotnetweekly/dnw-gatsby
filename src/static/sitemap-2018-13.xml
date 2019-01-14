@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/events-training/microsoft-tech-summit-warsaw-free-2-day-tech-event</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/deploy-net-core-application-to-iis-step-by-step-guide</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/use-the-power-of-azure-functions-and-cognitive-services-to-collect-geolocation-information</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/scalable-and-performant-aspnet-core-web-apis-microservices</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/long-arithmetic-from-microsoft</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/how-i-made-linq-6x-faster-by-using-a-functional-optimization</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/deployments-with-zero-downtime-in-aspnet</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/push-notifications-and-aspnet-core-part-4-queueing-requesting-delivery-in-background</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/aspnet-core-dependency-injection-how-to-register-generic-types</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/automatic-unit-testing-in-net-core-plus-code-coverage-in-visual-studio-code</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/getting-started-with-blazor-my-red-pill-moment</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/a-month-without-resharper-has-my-productivity-decreased</loc> </url>
+</urlset>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/windows-10-iot-core-support-for-raspberry-pi-3</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/books/free-ebook-introducing-microsoft-sql-server-2016-mission-critical-applications-deeper-insights-hype</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/cqrs-with-decoupled-messaging-part-i-2</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/cqrs-with-decoupled-messaging-part-i</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/announcing-asp-net-webhooks-release-candidate-1</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/women-techmakers-lightning-talks</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/announcing-sql-server-on-linux</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/c-discrete-event-simulation-a-population-growth-example</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/share-information-among-asynchronous-processes-sans-locks</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/new-and-noteworthy-visual-studio-extensions-feburary-2016</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/visual-studio-debugging-improvements-in-visual-studio-2015</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/ux-design-resources-guide</loc> </url>
+</urlset>

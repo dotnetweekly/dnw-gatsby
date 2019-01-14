@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/single-page-applications-with-vue-js-deploy-on-azure</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/7-hidden-gems-in-visual-studio-2017-the-visual-studio-blog</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/visual-studio-code-tools-for-artificial-intelligenceai-first-look</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/speech-recognition-in-mono-and-net-c</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/timerange-a-timespan-alternative</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/owasp-top-10-for-asp-net-core-sql-injection</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/azure-container-instances-get-containers-up-and-running-in-seconds-youtube</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/bringing-webvr-to-everyone-with-the-windows-10-fall-creators-update</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/dissecting-the-local-functions-in-c-7</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/working-with-asynchronous-methods-in-c</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/net-standard-the-version-table</loc> </url>
+</urlset>

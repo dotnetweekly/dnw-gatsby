@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/json-net-10-0-release-1-async-performance-documentation-and-more</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/why-net-core-made-c-your-next-programming-language-to-learn</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/getting-to-know-the-redux-pattern</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/how-to-receive-sms-messages-with-asp-net-mvc-framework</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/net-dynamically-generating-classes-in-runtime</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/training-and-certification-for-azure</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/an-introduction-to-azure-analysis-services</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/configure-and-deploy-azure-functions-with-kudu-elmah-io</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-resilient-entity-framework-core-sql-connections-and-transactions-retries-with-exponential-bac</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/command-line-using-dotnet-watch-test-for-continuous-testing-with-net-core-1-0-and-xunit-net</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/asp-net-core-anatomy-usemvc</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/dont-lose-your-swagger-with-dotnet-build</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/deconstructors-for-non-tuple-types-in-c-7-0</loc> </url>
+</urlset>

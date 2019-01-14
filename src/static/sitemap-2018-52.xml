@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/file-upload-in-aspnet-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/why-a-func-delegate-in-c-is-not-be-translated-to-sql-commands</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/exploring-the-net-core-runtime-in-which-i-set-myself-a-challenge</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/spying-on-net-garbage-collector-with-traceevent</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/visual-studio-collaborative-development-with-visual-studio-live-share</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/machine-learning-accelerate-ai-solutions-with-automated-machine-learning</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/azure-deploy-your-code-the-right-way-with-azure-pipelines</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/machine-learning-mlnet-the-machine-learning-framework-for-net-developers</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/azure-7-tips-and-tricks-for-azure-app-service</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/visual-studio-whats-new-in-visual-studio-2019</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/net-core-whats-coming-in-net-core-30</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/generate-automatically-async-await-code-from-sync-code-with-roslyn</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/changing-fundamental-behavior-with-two-lines-of-code</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/how-to-unit-test-a-class-that-consumes-an-httpclient-with-ihttpclientfactory-in-aspnet-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/performance-tests-benchmarking-for-aspnet-core-22-endpoints</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/comparing-restsharp-and-flurlhttp-while-consuming-a-web-service-in-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/three-reasons-we-love-xamarin</loc> </url>
+</urlset>

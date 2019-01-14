@@ -1,6 +1,7 @@
 const fs = require('fs')
 const request = require('request')
 const path = require('path')
+const config = require('../conf')
 
 const postTmpl = fs.readFileSync(path.join(__dirname, 'post.md')).toString()
 
@@ -10,8 +11,8 @@ const {
   getWeekNumber,
 } = require('../src/utils/calendar')
 
-const URL_Newsletter = 'https://dnw-newsletter.azurewebsites.net/api/v1/'
-const URL_API = 'https://dnw-api.azurewebsites.net/api/v1/'
+const URL_Newsletter = config.newsletterDomain
+const URL_API = config.apiDomain
 
 async function getLinks(week, year) {
   return await new Promise((resolve, reject) => {
@@ -126,6 +127,6 @@ exports.generateMarkdown = async function() {
 }
 
 const args = process.argv
-if (args.length > 0 && args[0] == 'run') {
+if (args.length > 0 && args[2] == 'run') {
   generate()
 }

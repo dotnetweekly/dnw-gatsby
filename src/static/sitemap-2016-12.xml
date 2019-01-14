@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/integrating-asp-net-core-configuration-in-mvc-4</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/about-memory-leaks-again</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/understanding-csrf-the-video-tutorial-edition</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/reusing-javascript-template-literals</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/conditional-middleware-in-asp-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/essential-net-configuration-in-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/getting-started-with-app-design</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/building-blocks-2016</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/roslyn-scripting-on-coreclr-net-cli-and-dnx-and-in-memory-assemblies</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/open-sourcing-the-visual-studio-productivity-power-tools</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/bind-a-visual-studio-solution-to-a-sonarqube-project-provisions-and-configures-roslyn-analyzers</loc> </url>
+</urlset>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/parse-json-strings-in-windows-runtime-components</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/monetize-your-windows-8-apps-with-free-inmobi-ad-sdk</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/building-an-html5-web-sockets-server-with-asp-net-4-5</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/facebook-sdk-for-net-released</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/dotnetconf-channel</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/announcing-the-release-of-webmatrix-3</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/xaml-as-dsl</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/knockoutjs-with-asp-net-mvc4</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/concurrency-control-of-wcf-service-with-entity-framework</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/implementing-a-finite-state-machine-using-asyncawait</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/background-tasks-in-windows-store-apps</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/iwp54-windows-phone-data-binding-and-the-magic-of-xaml</loc> </url>
+</urlset>

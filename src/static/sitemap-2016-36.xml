@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/octopus-deploy-in-your-cake-c-make</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/testing-in-visual-studio-2015</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/essential-net-command-line-processing-with-net-core-1-0</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/getting-started-with-web-technologies</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/game-changing-features-in-es2015</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/reactive-framework-build-asynchronous-ajax-enabled-web-pages-with-reactive-extensions</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/announcing-mstest-v2-framework-support-for-net-core-1-0-rtm</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/microsoft-azure-for-it-pros-content-series-live-kick-off</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/unity-building-virtual-reality-applications</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/announcing-the-new-vmware-migration-offer-for-windows-server-2016</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/microsoft-technology-centers</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/microsoft-data-science-summit</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/powershell-is-open-sourced-and-is-available-on-linux</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/new-c-7-0-features-in-visual-studio-15-preview-4</loc> </url>
+</urlset>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/events-training/deep-dive-friday-visual-studio-2015-debugging-for-the-win</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/scaled-agile-framework-visual-studio-online-process-template-updates</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/asynchronous-programming-in-es6-using-generators-and-promises</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/end-to-end-testing-in-modern-web-sites-and-apps</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/the-future-of-javascript-is-almost-now</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/enabling-cors-in-asp-net-web-api-2</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/publishing-your-asp-net-app-to-linux-in-5-minutes-with-docker</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/may-2015-net-security-updates</loc> </url>
+</urlset>

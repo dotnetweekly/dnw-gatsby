@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/asp-net-5-jump-start-to-angularjs-with-mvc-6-web-api</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/microservices-or-how-to-spread-the-love</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/react-js-introduction-for-people-who-know-just-enough-jquery-to-get-by</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/visual-studio-2015-new-debugging-features</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/visual-studio-toolbox-visual-studio-tools-for-apache-cordova</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/announcing-the-new-cortana-analytics-suite-from-microsoft</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/11-code-profiling-and-performance-tools-for-visual-studio</loc> </url>
+</urlset>

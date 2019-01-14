@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/continuous-deployment-with-windows-azure-web-sites</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/creating-a-live-tile</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/episode-49-of-visual-studio-toolbox-getting-started-with-windows-azure</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/101-ways-to-run-tests-with-visual-studio-2012</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/building-a-javascript-client-for-a-web-api-service</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/books/a-book-on-things-about-c-that-you-thought-you-new</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/great-improvements-to-windows-azure-web-sites</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/september-2012-release-of-the-ajax-control-toolkit</loc> </url>
+</urlset>

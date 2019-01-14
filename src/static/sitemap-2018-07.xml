@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/simple-json-flat-file-data-store-with-support-for-typed-and-dynamic-data</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/developing-web-apps-with-asp-net-core-2-0-and-react-part-1</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/comparing-objects-by-value-part-1-beginning</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/list-of-the-best-free-visual-studio-extensions</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/newly-written-signalr-with-net-core-2-0-and-typescript</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/bitbucket-pipelines-and-docker-for-continuous-delivery</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/how-to-make-a-slide-puzzle-from-a-winforms-data-grid</loc> </url>
+</urlset>

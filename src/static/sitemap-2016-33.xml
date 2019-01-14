@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/difference-between-covariance-and-contravariance-in-c-generics</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-microsoft-test-manager-mtm-with-multiple-environments</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/securing-your-asp-net-app-with-2fa-using-nexmo-sms-and-sendgrid-email</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/make-your-javascript-code-shine-knockout-old-es5-hacks</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/should-i-use-asp-net-core-or-mvc-5</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/announcing-nuget-3-5-rc</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/visual-studio-2015-fixing-dependencies-npm-not-installed</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/10-reasons-projects-succeed</loc> </url>
+</urlset>

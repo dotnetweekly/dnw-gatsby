@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/books/free-ebook-managing-agile-open-source-software-projects-with-microsoft-visual-studio-online</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/ajax-control-toolkit-streamlines-drops-net-3-5-support</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/adding-microsoft-azure-search-to-your-websites-and-apps</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/mvc-angularjs-and-wcf-rest-service-for-mind-reader-quiz</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/building-distributed-cloud-apps-with-azure-websites-webjobs-and-azure-service-bus-topic</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/cqrs-revisited</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/nosql-database-service-azure-documentdb-now-generally-available</loc> </url>
+</urlset>

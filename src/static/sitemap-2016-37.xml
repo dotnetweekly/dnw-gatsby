@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/announcing-september-2016-updates-for-net-core-1-0</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/whats-in-store-for-c-7-0</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/building-your-first-bot-using-microsoft-bot-framework</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/code-school-net-path</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/programming-with-python-for-data-science-by-microsoft</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/introduction-to-react</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/books/free-ebook-microsoft-azure-essentials-fundamentals-of-azure-second-edition</loc> </url>
+</urlset>

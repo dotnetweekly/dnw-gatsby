@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/events-training/alm-wednesdays</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-portable-class-libraries-in-ios-and-android-apps</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/learn-mvc-model-view-controller-step-by-step-in-7-days-day-1</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/need-help-cleaning-up-your-code-codemaid-to-the-rescue</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/new-ui-and-capabilities-for-windows-phone-app-studio-beta-developers</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/building-modern-web-apps-with-asp-net-a-new-day-of-free-asp-net-training-for-2014-2</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/html5-video-and-history-features-users-can-really-see</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/javascript-fundamentals-for-absolute-beginners</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/javascript-the-right-way</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/socialgoal-asp-net-mvc-5-ef-6-code-first-automapper-autofac-tdd-and-ddd-sample-site</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/css-sprite</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/building-windows-8-applications-with-html5-and-web-app-template</loc> </url>
+</urlset>

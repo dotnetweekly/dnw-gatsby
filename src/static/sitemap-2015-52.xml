@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/videos/creating-fluid-and-beautiful-ui-using-the-new-visual-layer</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/securing-asp-net-web-api-using-token-based-authentication-and-using-it-in-angular-js-application</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/getting-started-with-net-and-docker</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/exploring-the-new-net-dotnet-command-line-interface-cli</loc> </url>
+</urlset>

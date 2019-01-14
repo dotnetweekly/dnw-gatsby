@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/serverless-computing-and-workflows-with-azure-functions-and-microsoft-flow</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/angular-2-seed-for-visual-studio-2015</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/reactjs-net-3-0</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/microsoft-flow-is-now-available</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/announcing-the-mvp-reconnect-program-the-2016-mvp-global-summit</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/asp-net-core-using-view-injection</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/how-to-create-a-custom-controller-factory-asp-net-mvc</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/introducing-microsoft-teams-the-chat-based-workspace-in-office-365</loc> </url>
+</urlset>

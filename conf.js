@@ -9,7 +9,7 @@ module.exports = {
   appBgColor: '#ffffff',
   appIcon: 'assets/app-icon.png',
   appIconLarge: 'assets/app-icon-large.png',
-  newsletterDomain: 'http://localhost:6100/',
+  newsletterDomain: 'https://dnw-newsletter.azurewebsites.net/api/v1/',
   apiDomain: 'https://dnw-api.azurewebsites.net/api/v1/',
   client: 'http://localhost:5000/',
   loadDbName: 'dnwLocal',

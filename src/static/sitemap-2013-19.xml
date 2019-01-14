@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/whats-new-in-entity-framework-5-0</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/google-analytics-integration-with-windows-8</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/windows-store-apps-with-xaml-and-html-writing-c-components-for-the-windows-store-apps</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/dynamically-evaluated-sql-linq-queries</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/visual-studio-2012-update-3-ready-for-production</loc> </url>
+</urlset>

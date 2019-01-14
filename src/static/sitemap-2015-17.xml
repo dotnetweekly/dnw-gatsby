@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/events-training/what-is-mvp-v-conf</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/visual-studio-for-game-development-new-partnerships-with-unity-unreal-engine-and-cocos2d-2</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/cqrs-workshop-retrospective</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/the-little-wonders-of-c-6-a-presentation-to-the-st-louis-net-user-group</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/build-2015</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/books/free-ebook-microsoft-azure-essentials-azure-machine-learning</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/securing-asp-net-mvc-applications-using-windows-azure-active-directory</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/2d-drawing-techniques-and-libraries-for-web-games</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/node-js-tools-1-0-on-github-and-vms-available</loc> </url>
+</urlset>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/your-first-mvc-6-and-ef-7-application</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/cheating-your-way-to-vs-2015-shortcut-cheatsheats</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/updates-to-microsoft-asp-net-webhooks-preview</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/thanks-for-a-great-mvp-global-summit</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/glimpse-part-1-easy-debugging-asp-net-mvc-application</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/value-object-design-pattern-in-c</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/essential-net-c-exception-handling</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/trace-your-application-insights-events-inside-visual-studio-diagnostic-tools</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-angular-js-with-bower-and-require-js-in-visual-studio</loc> </url>
+</urlset>

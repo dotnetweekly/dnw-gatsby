@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/events-training/open-source-questions-answered</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/bing-developer-assistant-for-visual-studio</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/command-line-scaffolding-for-asp-net-vnext</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/did-you-know-you-can-use-visual-studio-to-write-an-android-app</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/using-fiddlercore-to-capture-http-requests-with-net</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/simple-inheritance-with-javascript</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/books/free-ebook-about-localization-in-net</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/announcing-the-release-of-visual-f-tools-3-1-2</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/announcing-rtm-of-katana-3</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/azure-new-documentdb-nosql-service-new-search-service-new-sql-alwayson-vm-template-and-more</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/documentdb-nosql-database-as-a-service-on-azure</loc> </url>
+</urlset>

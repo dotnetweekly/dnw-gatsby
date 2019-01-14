@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/nuget-3-what-and-why</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/how-to-test-owin-oauth-middleware</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/security-through-obscurity-hiding-asp-net-mvc-response-headers</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/inner-workings-of-tempdata-in-asp-net-mvc-5</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/azure-powershell-1-0-preview</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/new-row-level-security-functionality-block-predicates-preview</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/introduction-to-react-js</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-passwordrevealmode-for-unmasking-the-password-in-universal-windows-apps</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/visual-studio-bower-modern-tools-for-web-development</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/new-advertising-features-and-walkthrough-of-using-microsoft-ads-and-mediation</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/the-october-edition-of-msdn-magazine</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-effort-entity-framework-unit-testing-tool</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/how-to-learn-a-new-programming-language-while-maintaining-your-day-job-and-still-being-there-for-yo</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/authorization-policies-and-middleware-in-asp-net-5</loc> </url>
+</urlset>

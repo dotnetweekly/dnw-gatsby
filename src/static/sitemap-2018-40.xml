@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/the-net-framework-is-done</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/introducing-azure-functions-20</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/unit-testing-with-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/blazor-060-experimental-release-now-available</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/visual-studio-code-tips-and-tricks</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/whats-new-in-visual-studio-code</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/whats-new-in-azure-machine-learning-service</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/whats-coming-to-c</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/a-history-of-net-runtimes</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/introduction-to-dependency-injection-in-c-using-autofac</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/customizing-aspnet-core-part-04-https</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/customizing-aspnet-core-part-03-dependency-injection</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/generating-random-passwords-in-aspnet-core</loc> </url>
+</urlset>

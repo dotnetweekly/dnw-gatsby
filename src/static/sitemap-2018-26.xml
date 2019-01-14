@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/videos/practical-introduction-to-unit-testing-in-c-and-visual-studio</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/blazor-its-here-how-to-write-c-in-the-browser</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/5-lessons-learned-while-migrating-from-aspnet-to-aspnet-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/the-june-release-of-sql-operations-studio-is-now-available</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/books/example-azure-implementation-for-government-agencies</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/books/net-microservices-architecture-e-book</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/an-aspnet-core-razor-pages-bootstrap-4-application-using-webpack-typescript-and-npm</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/get-the-most-from-conferences</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/implementing-mediums-passwordless-authentication-using-aspnet-core-identity</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/writing-logs-to-elasticsearch-with-fluentd-using-serilog-in-aspnet-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/running-aspnet-core-application-as-windows-service</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/traditional-database-security-doesnt-protect-data</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/containers-what-are-they-good-for-crafting-our-build-environments</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/coravel-net-core-meet-laravel</loc> </url>
+</urlset>

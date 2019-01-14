@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/free-akka-net-cheat-sheet</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/your-first-mvc-6-and-ef-7-application-using-empty-project-template-part-1</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/welcome-mvps-to-the-2015-mvp-global-summit</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/performance-tests-for-azure-web-apps</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/how-to-simulate-a-low-bandwidth-connection-for-testing-web-sites-and-applications</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/profile-your-cpu-in-the-debugger-in-visual-studio-2015</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/continuous-integration-with-ionic-framework-using-visual-studio-online-from-check-in-to-device</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/writing-and-using-custom-code-in-u-sql-user-defined-functions</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/announcing-net-framework-4-6-1-rc</loc> </url>
+</urlset>

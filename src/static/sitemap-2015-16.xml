@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/a-mobile-first-approach-to-modern-app-development</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/update-challenge-get-your-existing-apps-ready-for-windows-10</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/microsoft-press-guided-tours</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/watch-the-build-2015-live-video-stream-in</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/new-features-in-c-6</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/low-latency-html5-websocket-server-to-stream-live-and-computed-data-to-web-browser-grid</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/smart-unit-tests-test-to-code-binding-test-case-management</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/speed-up-your-application-with-stored-procedure-and-temporary-tables</loc> </url>
+</urlset>
