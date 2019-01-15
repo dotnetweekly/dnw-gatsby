@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1ea6
 title: "DDD a la carte"
 url: 'https://pusher.com/sessions/meetup/dotnetsheff/ddd-a-la-carte'
-category: 5a88e1abbd6dca0d5f0d1ea6
+category: videos
 slug: 'ddd-a-la-carte'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

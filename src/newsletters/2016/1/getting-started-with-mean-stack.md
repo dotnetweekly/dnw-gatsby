@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d249e
 title: "Getting Started with Mean Stack"
 url: 'http://www.codeproject.com/Articles/1066546/Getting-Started-with-Mean-Stack'
-category: 5a88e1adbd6dca0d5f0d249e
+category: articles
 slug: 'getting-started-with-mean-stack'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2dee
 title: "What Is New In WPF 4.5"
 url: 'http://www.infragistics.com/community/blogs/marketing/archive/2013/01/16/what-is-new-in-wpf-4-5.aspx'
-category: 5a88e1afbd6dca0d5f0d2dee
+category: articles
 slug: 'what-is-new-in-wpf-4-5'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

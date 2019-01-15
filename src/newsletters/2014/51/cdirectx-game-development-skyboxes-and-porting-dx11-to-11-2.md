@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d27fc
 title: "C++/DirectX Game Development: Skyboxes and Porting DX11 to 11.2"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/c-directx-game-development-skyboxes-and-porting-dx11-to-11-2'
-category: 5a88e1adbd6dca0d5f0d27fc
+category: events-training
 slug: 'cdirectx-game-development-skyboxes-and-porting-dx11-to-11-2'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

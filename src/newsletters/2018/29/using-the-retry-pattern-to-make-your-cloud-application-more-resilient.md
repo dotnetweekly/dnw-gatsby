@@ -2,7 +2,7 @@
 _id: 5b4ed741d9e4dc031197045f
 title: "Using the Retry pattern to make your cloud application more resilient"
 url: 'https://azure.microsoft.com/en-us/blog/using-the-retry-pattern-to-make-your-cloud-application-more-resilient/'
-category: 5b4ed741d9e4dc031197045f
+category: articles
 slug: 'using-the-retry-pattern-to-make-your-cloud-application-more-resilient'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2c18
 title: "Visual Studio 2013 &amp; TFS 2013 RC is available"
 url: 'http://blogs.msdn.com/b/bharry/archive/2013/09/09/visual-studio-2013-amp-tfs-2013-rc-is-available.aspx'
-category: 5a88e1aebd6dca0d5f0d2c18
+category: libraries-tools
 slug: 'visual-studio-2013-tfs-2013-rc-is-available'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

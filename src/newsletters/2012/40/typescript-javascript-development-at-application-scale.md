@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2ec0
 title: "TypeScript: JavaScript Development at Application Scale"
 url: 'http://blogs.msdn.com/b/somasegar/archive/2012/10/01/typescript-javascript-development-at-application-scale.aspx'
-category: 5a88e1afbd6dca0d5f0d2ec0
+category: libraries-tools
 slug: 'typescript-javascript-development-at-application-scale'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

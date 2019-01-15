@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2b06
 title: "Get Started with Windows Azure Today Jump Start"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/get-started-with-windows-azure-today-jump-start#?fbid=Hc0TiYdhIlr'
-category: 5a88e1aebd6dca0d5f0d2b06
+category: events-training
 slug: 'get-started-with-windows-azure-today-jump-start'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

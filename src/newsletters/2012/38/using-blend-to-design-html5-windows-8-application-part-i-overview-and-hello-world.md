@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2eda
 title: "Using Blend to Design HTML5 Windows 8 Application (Part I): Overview and Hello World"
 url: 'http://blogs.msdn.com/b/dorischen/archive/2012/09/13/using-blend-to-design-html5-windows-8-application-part-i-overview-and-hello-world.aspx'
-category: 5a88e1afbd6dca0d5f0d2eda
+category: articles
 slug: 'using-blend-to-design-html5-windows-8-application-part-i-overview-and-hello-world'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5bb4011015695b0a09f150c1
 title: "A History of .NET Runtimes"
 url: 'http://mattwarren.org/2018/10/02/A-History-of-.NET-Runtimes/'
-category: 5bb4011015695b0a09f150c1
+category: articles
 slug: 'a-history-of-net-runtimes'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

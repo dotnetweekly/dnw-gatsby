@@ -2,7 +2,7 @@
 _id: 5b9173081f9f2e612c857aa5
 title: "Go on Azure - YouTube"
 url: 'https://www.youtube.com/playlist?list=PLlrxD0HtieHhowVq6lMTcdu8QM_tWyYgU'
-category: 5b9173081f9f2e612c857aa5
+category: videos
 slug: 'go-on-azure-youtube'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

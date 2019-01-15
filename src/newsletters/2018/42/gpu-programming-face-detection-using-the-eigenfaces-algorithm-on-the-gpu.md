@@ -2,7 +2,7 @@
 _id: 5bc849be1ff6e75d1187fb28
 title: "GPU Programming - Face Detection Using the Eigenfaces Algorithm on the GPU"
 url: 'https://msdn.microsoft.com/magazine/mt830358'
-category: 5bc849be1ff6e75d1187fb28
+category: articles
 slug: 'gpu-programming-face-detection-using-the-eigenfaces-algorithm-on-the-gpu'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

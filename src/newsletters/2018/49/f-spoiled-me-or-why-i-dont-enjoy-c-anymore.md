@@ -2,7 +2,7 @@
 _id: 5c0a2391d9a5934d55f70e8e
 title: "F# spoiled me, or why I don’t enjoy C# anymore"
 url: 'https://medium.com/@liman.rom/f-spoiled-me-or-why-i-dont-enjoy-c-anymore-39e025035a98'
-category: 5c0a2391d9a5934d55f70e8e
+category: articles
 slug: 'f-spoiled-me-or-why-i-dont-enjoy-c-anymore'
 user_id: 5c060608d9a5932132f70e77
 username: 'dnwuryxfUK714'

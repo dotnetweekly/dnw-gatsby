@@ -2,7 +2,7 @@
 _id: 5c275cb5745cd075880206c9
 title: "File Upload in ASP.NET Core"
 url: 'https://www.devcurry.com/2018/10/file-upload-in-aspnet-core.html'
-category: 5c275cb5745cd075880206c9
+category: articles
 slug: 'file-upload-in-aspnet-core'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

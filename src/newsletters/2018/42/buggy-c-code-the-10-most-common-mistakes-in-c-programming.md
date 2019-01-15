@@ -2,7 +2,7 @@
 _id: 5bc848d91ff6e729fb87fb21
 title: "Buggy C# Code: The 10 Most Common Mistakes in C# Programming"
 url: 'https://www.toptal.com/c-sharp/top-10-mistakes-that-c-sharp-programmers-make'
-category: 5bc848d91ff6e729fb87fb21
+category: articles
 slug: 'buggy-c-code-the-10-most-common-mistakes-in-c-programming'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

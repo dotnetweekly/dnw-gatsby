@@ -2,7 +2,7 @@
 _id: 5a9e2fffb995cbb7b1affa6c
 title: "Turning a ASP.NET Core website into a Progressive Web App (PWA)"
 url: 'https://blog.elmah.io/turning-an-aspnet-core-website-into-a-progressive-web-app-pwa/'
-category: 5a9e2fffb995cbb7b1affa6c
+category: articles
 slug: 'turning-a-aspnet-core-website-into-a-progressive-web-app-pwa'
 user_id: 5a8a922d8b86e53b3449a770
 username: 'ThomasArdal'

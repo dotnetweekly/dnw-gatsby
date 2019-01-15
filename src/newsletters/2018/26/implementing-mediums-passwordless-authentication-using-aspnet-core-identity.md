@@ -2,7 +2,7 @@
 _id: 5b3110cd4d8b02b7baeaa350
 title: "Implementing Medium's Passwordless Authentication using ASP.NET Core Identity"
 url: 'https://www.scottbrady91.com/ASPNET-Identity/Implementing-Mediums-Passwordless-Authentication-using-ASPNET-Core-Identity'
-category: 5b3110cd4d8b02b7baeaa350
+category: articles
 slug: 'implementing-mediums-passwordless-authentication-using-aspnet-core-identity'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

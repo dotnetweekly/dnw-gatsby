@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2f8c
 title: "Web Config Transformation in .NET"
 url: 'http://www.c-sharpcorner.com/UploadFile/amit12345/web-config-transformation/'
-category: 5a88e1afbd6dca0d5f0d2f8c
+category: articles
 slug: 'web-config-transformation-in-net'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

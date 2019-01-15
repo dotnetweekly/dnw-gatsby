@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2aae
 title: "JavaScript - The Right Way"
 url: 'http://jstherightway.org/'
-category: 5a88e1aebd6dca0d5f0d2aae
+category: articles
 slug: 'javascript-the-right-way'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

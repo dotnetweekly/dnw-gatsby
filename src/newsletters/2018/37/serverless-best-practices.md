@@ -2,7 +2,7 @@
 _id: 5b97434e1f9f2e6e97857ab9
 title: "Serverless Best Practices"
 url: 'https://medium.com/@PaulDJohnston/serverless-best-practices-b3c97d551535'
-category: 5b97434e1f9f2e6e97857ab9
+category: articles
 slug: 'serverless-best-practices'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

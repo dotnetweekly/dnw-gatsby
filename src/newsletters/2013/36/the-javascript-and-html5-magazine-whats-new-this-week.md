@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2c20
 title: "The JavaScript and HTML5 Magazine – What's New this Week?"
 url: 'https://flipboard.com/section/the-javascript-%26-html5-magazine-bmOTsK'
-category: 5a88e1aebd6dca0d5f0d2c20
+category: books
 slug: 'the-javascript-and-html5-magazine-whats-new-this-week'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

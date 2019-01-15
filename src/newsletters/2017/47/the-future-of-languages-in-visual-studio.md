@@ -2,7 +2,7 @@
 _id: 5a88e1aabd6dca0d5f0d1ba2
 title: "The Future of Languages in Visual Studio"
 url: 'https://poshtools.com/2017/11/22/the-future-of-languages-in-visual-studio/'
-category: 5a88e1aabd6dca0d5f0d1ba2
+category: articles
 slug: 'the-future-of-languages-in-visual-studio'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

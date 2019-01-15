@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1d8a
 title: "Custom response caching in ASP.NET Core (with cache invalidation)"
 url: 'https://www.devtrends.co.uk/blog/custom-response-caching-in-asp.net-core-with-cache-invalidation'
-category: 5a88e1abbd6dca0d5f0d1d8a
+category: articles
 slug: 'custom-response-caching-in-asp-net-core-with-cache-invalidation'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5c3c4b535e8f0d362f8d0c5a
 title: "Find, Fix, and Avoid Memory Leaks in C# .NET: 8 Best Practices"
 url: 'https://michaelscodingspot.com/2019/01/03/find-fix-and-avoid-memory-leaks-in-c-net-8-best-practices/'
-category: 5c3c4b535e8f0d362f8d0c5a
+category: articles
 slug: 'find-fix-and-avoid-memory-leaks-in-c-net-8-best-practices'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

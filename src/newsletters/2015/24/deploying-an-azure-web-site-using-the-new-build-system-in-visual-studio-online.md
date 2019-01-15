@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d266c
 title: "Deploying an Azure Web Site using the new build system in Visual Studio Online"
 url: 'http://blogs.msdn.com/b/visualstudioalm/archive/2015/06/12/deploying-an-azure-web-site-using-the-new-build-system-in-visual-studio-online.aspx'
-category: 5a88e1adbd6dca0d5f0d266c
+category: articles
 slug: 'deploying-an-azure-web-site-using-the-new-build-system-in-visual-studio-online'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

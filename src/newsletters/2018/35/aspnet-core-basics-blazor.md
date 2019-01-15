@@ -2,7 +2,7 @@
 _id: 5b84cc07eb7beb352789afb7
 title: "ASP.NET Core Basics: Blazor"
 url: 'https://itnext.io/asp-net-core-basics-blazor-37ce0e8e4d97'
-category: 5b84cc07eb7beb352789afb7
+category: articles
 slug: 'aspnet-core-basics-blazor'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

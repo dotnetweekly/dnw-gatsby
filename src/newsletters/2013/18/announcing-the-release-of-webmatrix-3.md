@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2cea
 title: "Announcing the Release of WebMatrix 3"
 url: 'http://weblogs.asp.net/scottgu/archive/2013/05/01/announcing-the-release-of-webmatrix-3.aspx'
-category: 5a88e1afbd6dca0d5f0d2cea
+category: libraries-tools
 slug: 'announcing-the-release-of-webmatrix-3'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

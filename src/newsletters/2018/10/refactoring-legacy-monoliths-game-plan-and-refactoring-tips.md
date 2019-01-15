@@ -2,7 +2,7 @@
 _id: 5aa01575487dbf0cc7384522
 title: "Refactoring Legacy Monoliths - Game Plan And Refactoring Tips"
 url: 'https://www.blog.jamesmichaelhickey.com/refactoring-game-plan-and-tips/'
-category: 5aa01575487dbf0cc7384522
+category: articles
 slug: 'refactoring-legacy-monoliths-game-plan-and-refactoring-tips'
 user_id: 5a8a92328b86e53b3449b0ac
 username: 'jamesmh_dev'

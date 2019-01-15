@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2d88
 title: "Building a Windows Store Game Using HTML and JavaScript available from Lynda.com"
 url: 'http://blogs.msdn.com/b/davedev/archive/2013/02/26/building-a-windows-store-game-using-html-and-javascript-available-from-lynda-com.aspx'
-category: 5a88e1afbd6dca0d5f0d2d88
+category: videos
 slug: 'building-a-windows-store-game-using-html-and-javascript-available-from-lynda-com'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5ab138ba0e665701fe317081
 title: "Announcing general availability of Azure database services for MySQL and PostgreSQL"
 url: 'https://azure.microsoft.com/en-us/blog/announcing-general-availability-of-azure-database-services-for-mysql-and-postgresql/'
-category: 5ab138ba0e665701fe317081
+category: articles
 slug: 'announcing-general-availability-of-azure-database-services-for-mysql-and-postgresql'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

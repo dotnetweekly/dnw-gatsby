@@ -2,7 +2,7 @@
 _id: 5b29514632697b1a9b30a480
 title: "Deploy Your ASP.NET Core App to Azure"
 url: 'https://developer.okta.com/blog/2018/06/19/deploy-your-aspnet-core-app-to-azure'
-category: 5b29514632697b1a9b30a480
+category: articles
 slug: 'deploy-your-aspnet-core-app-to-azure'
 user_id: 5aac0b097727df036e153c2f
 username: 'leebrandt'

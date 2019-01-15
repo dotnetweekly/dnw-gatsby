@@ -2,7 +2,7 @@
 _id: 5b45944510ce4454db856a7a
 title: "Adding validation to strongly typed configuration objects in ASP.NET Core"
 url: 'https://andrewlock.net/adding-validation-to-strongly-typed-configuration-objects-in-asp-net-core/'
-category: 5b45944510ce4454db856a7a
+category: articles
 slug: 'adding-validation-to-strongly-typed-configuration-objects-in-aspnet-core'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

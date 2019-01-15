@@ -2,7 +2,7 @@
 _id: 5ad7a6a8ac55b0004e057acf
 title: "Introducing Microsoft Azure Sphere: Secure and power the intelligent edge"
 url: 'https://azure.microsoft.com/en-us/blog/introducing-microsoft-azure-sphere-secure-and-power-the-intelligent-edge/'
-category: 5ad7a6a8ac55b0004e057acf
+category: articles
 slug: 'introducing-microsoft-azure-sphere-secure-and-power-the-intelligent-edge'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d234e
 title: ".NET Core RC2 – Improvements, Schedule, and Roadmap"
 url: 'https://blogs.msdn.microsoft.com/dotnet/2016/05/06/net-core-rc2-improvements-schedule-and-roadmap/'
-category: 5a88e1acbd6dca0d5f0d234e
+category: articles
 slug: 'net-core-rc2-improvements-schedule-and-roadmap'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d27cc
 title: "Open Source Angular Cloud Data Connector Now Available on GitHub"
 url: 'http://msopentech.com/blog/2015/01/05/open-source-angular-cloud-data-connector-now-available-on-github/'
-category: 5a88e1adbd6dca0d5f0d27cc
+category: libraries-tools
 slug: 'open-source-angular-cloud-data-connector-now-available-on-github'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

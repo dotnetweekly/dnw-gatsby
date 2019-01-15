@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2942
 title: "Leveraging existing code across .NET platforms"
 url: 'http://blogs.msdn.com/b/dotnet/archive/2014/08/06/leveraging-existing-code-across-net-platforms.aspx'
-category: 5a88e1aebd6dca0d5f0d2942
+category: articles
 slug: 'leveraging-existing-code-across-net-platforms'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

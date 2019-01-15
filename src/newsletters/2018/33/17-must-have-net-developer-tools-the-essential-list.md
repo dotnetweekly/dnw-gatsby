@@ -2,7 +2,7 @@
 _id: 5b73b532fd7ac95fa89e0044
 title: "17+ Must Have .NET Developer Tools - The Essential List"
 url: 'https://blog.elmah.io/17-must-have-net-developer-tools-the-essential-list/'
-category: 5b73b532fd7ac95fa89e0044
+category: articles
 slug: '17-must-have-net-developer-tools-the-essential-list'
 user_id: 5a8a922d8b86e53b3449a770
 username: 'ThomasArdal'

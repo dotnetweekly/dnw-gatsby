@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2eb2
 title: "Index of UX guidelines for Windows Store apps"
 url: 'http://msdn.microsoft.com/en-US/library/windows/apps/hh465424'
-category: 5a88e1afbd6dca0d5f0d2eb2
+category: articles
 slug: 'index-of-ux-guidelines-for-windows-store-apps'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

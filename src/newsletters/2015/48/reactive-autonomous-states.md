@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d24f4
 title: "Reactive Autonomous States"
 url: 'http://www.codeproject.com/Articles/1060081/Reactive-Autonomous-States'
-category: 5a88e1adbd6dca0d5f0d24f4
+category: articles
 slug: 'reactive-autonomous-states'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

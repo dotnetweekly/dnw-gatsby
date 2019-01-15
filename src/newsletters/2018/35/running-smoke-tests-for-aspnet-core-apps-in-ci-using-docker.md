@@ -2,7 +2,7 @@
 _id: 5b88b136eb7bebee7989afc7
 title: "Running smoke tests for ASP.NET Core apps in CI using Docker"
 url: 'https://andrewlock.net/running-smoke-tests-for-asp-net-core-apps-in-ci-using-docker/'
-category: 5b88b136eb7bebee7989afc7
+category: articles
 slug: 'running-smoke-tests-for-aspnet-core-apps-in-ci-using-docker'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d228c
 title: "Developer Productivity in VS 2015 and VS 15"
 url: 'https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Developer-Productivity-in-VS-2015-and-VS-15'
-category: 5a88e1acbd6dca0d5f0d228c
+category: videos
 slug: 'developer-productivity-in-vs-2015-and-vs-15'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

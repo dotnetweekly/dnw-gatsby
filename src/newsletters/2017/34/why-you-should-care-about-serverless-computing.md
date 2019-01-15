@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1d1e
 title: "Why you should care about serverless computing"
 url: 'https://blogs.msdn.microsoft.com/visualstudio/2017/08/21/why-you-should-care-about-serverless-computing/'
-category: 5a88e1abbd6dca0d5f0d1d1e
+category: articles
 slug: 'why-you-should-care-about-serverless-computing'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

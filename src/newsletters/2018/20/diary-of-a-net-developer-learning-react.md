@@ -2,7 +2,7 @@
 _id: 5afdce2a416efa62e1328cdb
 title: "Diary Of A Net Developer - Learning React"
 url: 'https://jonhilton.net/2018/05/16/diary-of-a-net-developer---learning-react/'
-category: 5afdce2a416efa62e1328cdb
+category: articles
 slug: 'diary-of-a-net-developer-learning-react'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

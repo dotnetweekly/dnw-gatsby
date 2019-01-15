@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1d24
 title: ".NET Core Test Explorer for Visual Studio Code"
 url: 'https://formulahendry.wordpress.com/2017/08/13/net-core-test-explorer-for-visual-studio-code/'
-category: 5a88e1abbd6dca0d5f0d1d24
+category: articles
 slug: 'net-core-test-explorer-for-visual-studio-code'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

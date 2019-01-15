@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d2306
 title: "Power Tools for Windows 10"
 url: 'https://mva.microsoft.com/en-US/training-courses/power-tools-for-windows-10-16405?l=2xJ2DdeUC_506573942'
-category: 5a88e1acbd6dca0d5f0d2306
+category: videos
 slug: 'power-tools-for-windows-10'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

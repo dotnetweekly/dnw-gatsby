@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d218e
 title: "APPSETTINGS IN ASP.NET CORE"
 url: 'http://thomasardal.com/appsettings-in-asp-net-core/'
-category: 5a88e1acbd6dca0d5f0d218e
+category: articles
 slug: 'appsettings-in-asp-net-core'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

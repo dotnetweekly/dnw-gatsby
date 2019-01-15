@@ -2,7 +2,7 @@
 _id: 5b3111094d8b02253deaa351
 title: "Get The Most From Conferences"
 url: 'https://completedeveloperpodcast.com/epsiode-149/'
-category: 5b3111094d8b02253deaa351
+category: articles
 slug: 'get-the-most-from-conferences'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

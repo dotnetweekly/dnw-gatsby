@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2ada
 title: "The CMS ecosystem and Microsoft"
 url: 'http://weblogs.asp.net/bleroy/archive/2014/02/07/the-cms-ecosystem-and-microsoft.aspx'
-category: 5a88e1aebd6dca0d5f0d2ada
+category: libraries-tools
 slug: 'the-cms-ecosystem-and-microsoft'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

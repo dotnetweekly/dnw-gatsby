@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1f6a
 title: "WebSockets support in ASP.NET Core | Microsoft Docs"
 url: 'https://docs.microsoft.com/en-us/aspnet/core/fundamentals/websockets'
-category: 5a88e1abbd6dca0d5f0d1f6a
+category: articles
 slug: 'websockets-support-in-asp-net-core-microsoft-docs'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

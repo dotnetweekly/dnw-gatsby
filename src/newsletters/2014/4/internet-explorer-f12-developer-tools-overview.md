@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2afc
 title: "Internet Explorer F12 Developer Tools Overview"
 url: 'http://rachelappel.com/internet-explorer-f12-developer-tools-overview'
-category: 5a88e1aebd6dca0d5f0d2afc
+category: libraries-tools
 slug: 'internet-explorer-f12-developer-tools-overview'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

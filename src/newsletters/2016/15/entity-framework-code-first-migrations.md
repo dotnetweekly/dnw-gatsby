@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d2392
 title: "Entity Framework Code First Migrations"
 url: 'http://developer.telerik.com/featured/entity-framework-code-first-migrations/'
-category: 5a88e1acbd6dca0d5f0d2392
+category: libraries-tools
 slug: 'entity-framework-code-first-migrations'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

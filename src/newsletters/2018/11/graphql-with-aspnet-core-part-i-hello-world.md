@@ -2,7 +2,7 @@
 _id: 5aa9f451f86e7001dea426b9
 title: "GraphQL with ASP.NET Core (Part- I : Hello World)"
 url: 'http://fiyazhasan.me/graphql-with-asp-net-core/'
-category: 5aa9f451f86e7001dea426b9
+category: articles
 slug: 'graphql-with-aspnet-core-part-i-hello-world'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

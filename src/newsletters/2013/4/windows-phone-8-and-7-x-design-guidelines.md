@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2ddc
 title: "Windows Phone 8 and 7.x Design Guidelines"
 url: 'http://blogs.msdn.com/b/africaapps/archive/2013/01/20/windows-phone-8-design-guidelines.aspx'
-category: 5a88e1afbd6dca0d5f0d2ddc
+category: articles
 slug: 'windows-phone-8-and-7-x-design-guidelines'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

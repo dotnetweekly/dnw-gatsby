@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d2620
 title: "Using Node.js with Visual Studio Code"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/using-node-js-with-visual-studio-code'
-category: 5a88e1adbd6dca0d5f0d2620
+category: events-training
 slug: 'using-node-js-with-visual-studio-code'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5b0cc0c9d15d3870ebee60d1
 title: "Dependency injection into actions in ASP.NET Core MVC 2.1"
 url: 'https://www.strathweb.com/2018/05/dependency-injection-into-actions-in-asp-net-core-mvc-2-1/'
-category: 5b0cc0c9d15d3870ebee60d1
+category: articles
 slug: 'dependency-injection-into-actions-in-aspnet-core-mvc-21'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

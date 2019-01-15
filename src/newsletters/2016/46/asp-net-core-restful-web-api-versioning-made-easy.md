@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d216e
 title: "ASP.NET Core RESTful Web API versioning made easy"
 url: 'http://www.hanselman.com/blog/ASPNETCoreRESTfulWebAPIVersioningMadeEasy.aspx'
-category: 5a88e1acbd6dca0d5f0d216e
+category: articles
 slug: 'asp-net-core-restful-web-api-versioning-made-easy'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

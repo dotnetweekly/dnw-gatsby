@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d24be
 title: "Windows 10 cheat sheet (with video!)"
 url: 'http://www.computerworld.com/article/3014286/microsoft-windows/windows-10-cheat-sheet.html'
-category: 5a88e1adbd6dca0d5f0d24be
+category: articles
 slug: 'windows-10-cheat-sheet-with-video'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

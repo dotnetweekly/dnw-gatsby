@@ -2,7 +2,7 @@
 _id: 5b3afb4906b611105256ffe9
 title: "Dynamic Binding in C#"
 url: 'http://www.dotnetcurry.com/csharp/1447/dynamic-binding-csharp'
-category: 5b3afb4906b611105256ffe9
+category: articles
 slug: 'dynamic-binding-in-c'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

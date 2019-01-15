@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d2546
 title: "ASP.NET MVC 6 Dependency Injection"
 url: 'http://www.davidhayden.me/blog/asp-net-mvc-6-dependency-injection'
-category: 5a88e1adbd6dca0d5f0d2546
+category: articles
 slug: 'asp-net-mvc-6-dependency-injection'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

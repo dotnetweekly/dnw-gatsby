@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1ff0
 title: "Using Azure Functions and Microsoft Flow to Send Notifications for NuGet Package Downloads"
 url: 'http://dontcodetired.com/blog/post/Using-Azure-Functions-and-Microsoft-Flow-to-Send-Notifications-for-NuGet-Package-Downloads'
-category: 5a88e1abbd6dca0d5f0d1ff0
+category: articles
 slug: 'using-azure-functions-and-microsoft-flow-to-send-notifications-for-nuget-package-downloads'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

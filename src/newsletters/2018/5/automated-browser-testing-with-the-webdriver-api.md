@@ -2,7 +2,7 @@
 _id: 5a88e1aabd6dca0d5f0d1a9c
 title: "Automated Browser Testing With The WebDriver API"
 url: 'https://www.smashingmagazine.com/2018/01/automated-testing/'
-category: 5a88e1aabd6dca0d5f0d1a9c
+category: articles
 slug: 'automated-browser-testing-with-the-webdriver-api'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

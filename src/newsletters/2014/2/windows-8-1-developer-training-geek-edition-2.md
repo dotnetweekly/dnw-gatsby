@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2b22
 title: "Windows 8.1 Developer Training: Geek Edition"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/windows-8-1-developer-training-geek-edition#?fbid=Hc0TiYdhIlr'
-category: 5a88e1aebd6dca0d5f0d2b22
+category: events-training
 slug: 'windows-8-1-developer-training-geek-edition-2'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

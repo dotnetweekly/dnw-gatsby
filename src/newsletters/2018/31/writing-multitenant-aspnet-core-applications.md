@@ -2,7 +2,7 @@
 _id: 5b62a91d6b826e6de6f5993e
 title: "Writing Multitenant ASP.NET Core Applications"
 url: 'https://stackify.com/writing-multitenant-asp-net-core-applications/'
-category: 5b62a91d6b826e6de6f5993e
+category: articles
 slug: 'writing-multitenant-aspnet-core-applications'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

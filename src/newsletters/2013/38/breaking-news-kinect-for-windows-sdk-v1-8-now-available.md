@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2bf8
 title: "[Breaking News] Kinect for Windows SDK v1.8 now available"
 url: 'http://channel9.msdn.com/coding4fun/blog/Breaking-News-Kinect-for-Windows-SDK-v18-now-available'
-category: 5a88e1aebd6dca0d5f0d2bf8
+category: libraries-tools
 slug: 'breaking-news-kinect-for-windows-sdk-v1-8-now-available'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

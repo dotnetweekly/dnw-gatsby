@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d22be
 title: "Feature Preview: Creating load tests using HTTP archive"
 url: 'https://blogs.msdn.microsoft.com/visualstudioalm/2016/05/20/feature-preview-creating-load-tests-using-http-archive/'
-category: 5a88e1acbd6dca0d5f0d22be
+category: articles
 slug: 'feature-preview-creating-load-tests-using-http-archive'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

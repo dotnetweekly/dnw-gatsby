@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d22ca
 title: "Explore Telemetry Trends using Application Insights Trends Tool in Visual Studio"
 url: 'http://dailydotnettips.com/2016/07/01/explore-telemetry-trends-using-application-insights-trends-tool-in-visual-studio/'
-category: 5a88e1acbd6dca0d5f0d22ca
+category: articles
 slug: 'explore-telemetry-trends-using-application-insights-trends-tool-in-visual-studio'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

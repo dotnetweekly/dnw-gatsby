@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2a04
 title: "New Microsoft Threat Modeling Tool 2014 Now Available"
 url: 'http://blogs.technet.com/b/security/archive/2014/04/15/new-microsoft-threat-modeling-tool-2014-now-available.aspx'
-category: 5a88e1aebd6dca0d5f0d2a04
+category: libraries-tools
 slug: 'new-microsoft-threat-modeling-tool-2014-now-available'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

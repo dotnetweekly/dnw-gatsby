@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d22ec
 title: "A Peek into .NET Open Source Contributions"
 url: 'https://blogs.msdn.microsoft.com/webdev/2016/06/10/a-peek-into-net-open-source-contributions/'
-category: 5a88e1acbd6dca0d5f0d22ec
+category: articles
 slug: 'a-peek-into-net-open-source-contributions'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

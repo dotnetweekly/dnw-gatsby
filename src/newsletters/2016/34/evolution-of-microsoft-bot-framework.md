@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d2256
 title: "Evolution of Microsoft Bot Framework"
 url: 'http://www.codeproject.com/Articles/1120056/Evolution-of-Microsoft-Bot-Framework'
-category: 5a88e1acbd6dca0d5f0d2256
+category: articles
 slug: 'evolution-of-microsoft-bot-framework'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

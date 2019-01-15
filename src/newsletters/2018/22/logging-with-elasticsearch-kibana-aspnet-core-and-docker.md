@@ -2,7 +2,7 @@
 _id: 5b110303d15d389dabee60e8
 title: "Logging with ElasticSearch, Kibana, ASP.NET Core and Docker"
 url: 'https://www.humankode.com/asp-net-core/logging-with-elasticsearch-kibana-asp-net-core-and-docker'
-category: 5b110303d15d389dabee60e8
+category: articles
 slug: 'logging-with-elasticsearch-kibana-aspnet-core-and-docker'
 user_id: 5b11024dd15d3841a0ee60e7
 username: 'thecarlo'

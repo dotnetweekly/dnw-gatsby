@@ -2,7 +2,7 @@
 _id: 5c262a5c745cd060bc0206c5
 title: "Spying on .NET Garbage Collector with TraceEvent"
 url: 'https://medium.com/criteo-labs/spying-on-net-garbage-collector-with-traceevent-f49dc3117de'
-category: 5c262a5c745cd060bc0206c5
+category: articles
 slug: 'spying-on-net-garbage-collector-with-traceevent'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

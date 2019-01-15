@@ -2,7 +2,7 @@
 _id: 5af366777ecc50ef636cd13a
 title: "Azure mobile app is now generally available"
 url: 'https://azure.microsoft.com/en-us/blog/azure-mobile-app-now-generally-available/'
-category: 5af366777ecc50ef636cd13a
+category: articles
 slug: 'azure-mobile-app-is-now-generally-available'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

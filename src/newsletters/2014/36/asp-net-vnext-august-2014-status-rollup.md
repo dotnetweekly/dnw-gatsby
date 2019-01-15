@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2900
 title: "ASP.NET vNext - August 2014 Status Rollup"
 url: 'http://www.hanselman.com/blog/ASPNETVNextAugust2014StatusRollup.aspx'
-category: 5a88e1aebd6dca0d5f0d2900
+category: articles
 slug: 'asp-net-vnext-august-2014-status-rollup'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

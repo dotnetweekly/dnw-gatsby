@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d27d8
 title: "ASP.NET MVC 5 - Handling Exceptions with some simpler ways "
 url: 'http://www.dotnetcurry.com/showarticle.aspx?ID=1068'
-category: 5a88e1adbd6dca0d5f0d27d8
+category: articles
 slug: 'asp-net-mvc-5-handling-exceptions-with-some-simpler-ways'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

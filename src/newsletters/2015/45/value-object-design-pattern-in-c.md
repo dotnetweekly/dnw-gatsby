@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d2524
 title: "Value Object Design Pattern in C#"
 url: 'http://www.codeproject.com/Articles/1046193/Value-Object-Design-Pattern-in-Csharp'
-category: 5a88e1adbd6dca0d5f0d2524
+category: articles
 slug: 'value-object-design-pattern-in-c'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

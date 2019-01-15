@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d279c
 title: "Visual Studio 2015 Diagnostic Tools"
 url: 'https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Visual-Studio-2015-Diagnostic-Tools'
-category: 5a88e1adbd6dca0d5f0d279c
+category: videos
 slug: 'visual-studio-2015-diagnostic-tools'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

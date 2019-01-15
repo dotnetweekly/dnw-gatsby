@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2c48
 title: "Windows Store Apps with HTML5 Refresh Jump Start "
 url: 'http://www.microsoftvirtualacademy.com/liveevents/windows-store-apps-with-html5-refresh-jump-start?CR_CC=200263143#fbid=RfHc7HWJo2b'
-category: 5a88e1aebd6dca0d5f0d2c48
+category: events-training
 slug: 'windows-store-apps-with-html5-refresh-jump-start'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

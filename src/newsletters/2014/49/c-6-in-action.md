@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d2812
 title: "C# 6 IN ACTION"
 url: 'http://codeblog.jonskeet.uk/2014/12/08/c-6-in-action/'
-category: 5a88e1adbd6dca0d5f0d2812
+category: articles
 slug: 'c-6-in-action'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

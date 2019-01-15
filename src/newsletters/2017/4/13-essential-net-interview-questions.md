@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d2078
 title: "13 Essential .NET Interview Questions"
 url: 'https://www.toptal.com/dot-net/interview-questions'
-category: 5a88e1acbd6dca0d5f0d2078
+category: articles
 slug: '13-essential-net-interview-questions'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

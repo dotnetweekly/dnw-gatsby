@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1d22
 title: "New C# 7 features in action: Deconstruction in C# 7"
 url: 'http://www.techcartnow.com/new-c-sharp-7-features-in-action-deconstruction-in-c-sharp-7/'
-category: 5a88e1abbd6dca0d5f0d1d22
+category: articles
 slug: 'new-c-7-features-in-action-deconstruction-in-c-7'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

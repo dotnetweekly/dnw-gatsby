@@ -2,7 +2,7 @@
 _id: 5b9faff67a4fc4599ddaab87
 title: "Announcing Azure Pipelines with unlimited CI/CD minutes for open source"
 url: 'https://azure.microsoft.com/en-us/blog/announcing-azure-pipelines-with-unlimited-ci-cd-minutes-for-open-source/'
-category: 5b9faff67a4fc4599ddaab87
+category: articles
 slug: 'announcing-azure-pipelines-with-unlimited-ci-cd-minutes-for-open-source'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

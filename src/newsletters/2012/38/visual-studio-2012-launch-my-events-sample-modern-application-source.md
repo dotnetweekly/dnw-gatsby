@@ -1,8 +1,8 @@
 ---
 _id: 5a88e1afbd6dca0d5f0d2edc
-title: "Visual Studio 2012 Launch 'My Events' sample modern application source"
+title: "Visual Studio 2012 Launch My Events sample modern application source"
 url: 'http://channel9.msdn.com/coding4fun/blog/Visual-Studio-2012-Launch-My-Events-sample-modern-application-source'
-category: 5a88e1afbd6dca0d5f0d2edc
+category: articles
 slug: 'visual-studio-2012-launch-my-events-sample-modern-application-source'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

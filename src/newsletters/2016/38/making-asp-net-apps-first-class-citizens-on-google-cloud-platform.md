@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d220a
 title: "Making ASP.NET apps first-class citizens on Google Cloud Platform"
 url: 'https://cloudplatform.googleblog.com/2016/08/making-ASP.NET-apps-first-class-citizens-on-Google-Cloud-Platform.html'
-category: 5a88e1acbd6dca0d5f0d220a
+category: articles
 slug: 'making-asp-net-apps-first-class-citizens-on-google-cloud-platform'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

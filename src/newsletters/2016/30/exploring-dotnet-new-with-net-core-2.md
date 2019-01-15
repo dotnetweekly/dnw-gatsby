@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d229a
 title: "Exploring dotnet new with .NET Core"
 url: 'http://www.hanselman.com/blog/ExploringDotnetNewWithNETCore.aspx'
-category: 5a88e1acbd6dca0d5f0d229a
+category: articles
 slug: 'exploring-dotnet-new-with-net-core-2'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

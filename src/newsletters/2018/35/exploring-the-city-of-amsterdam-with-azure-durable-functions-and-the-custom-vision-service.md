@@ -2,7 +2,7 @@
 _id: 5b83a21deb7bebe45e89afb1
 title: "Exploring the City of Amsterdam with Azure Durable Functions and the Custom Vision Service"
 url: 'https://www.patrickvankleef.com/2018/08/27/exploring-city-with-azure-durable-functions-and-the-custom-vision-service/'
-category: 5b83a21deb7bebe45e89afb1
+category: articles
 slug: 'exploring-the-city-of-amsterdam-with-azure-durable-functions-and-the-custom-vision-service'
 user_id: 5a8a92348b86e53b3449b45c
 username: 'dnwu3413'

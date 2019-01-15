@@ -2,7 +2,7 @@
 _id: 5aa774863879bf002abc594b
 title: "Blazor and .NET Core hosting – the future’s bright"
 url: 'http://blog.tdwright.co.uk/2018/03/05/blazor-and-net-core-hosting-the-futures-bright/'
-category: 5aa774863879bf002abc594b
+category: articles
 slug: 'blazor-and-net-core-hosting-the-futures-bright'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

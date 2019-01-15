@@ -2,7 +2,7 @@
 _id: 5c0feb96c180f0583030fba3
 title: "StringBuilder: the Past and the Future"
 url: 'https://codingsight.com/stringbuilder-the-past-and-the-future/'
-category: 5c0feb96c180f0583030fba3
+category: articles
 slug: 'stringbuilder-the-past-and-the-future'
 user_id: 5aaa4af315c227023e22fe4b
 username: 'Dandy123'

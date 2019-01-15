@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2ecc
 title: "A book on things about C# that you thought you new"
 url: 'http://www.amazon.com/Effective-Covers-4-0-Specific-Development/dp/0321658701'
-category: 5a88e1afbd6dca0d5f0d2ecc
+category: books
 slug: 'a-book-on-things-about-c-that-you-thought-you-new'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

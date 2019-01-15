@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1d9e
 title: "Progressive Web App using Angular 4, .NET Core, and Entity Framework"
 url: 'https://github.com/tycomo/generator-pwa-angular-core'
-category: 5a88e1abbd6dca0d5f0d1d9e
+category: libraries-tools
 slug: 'progressive-web-app-using-angular-4-net-core-and-entity-framework'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

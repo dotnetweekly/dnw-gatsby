@@ -2,7 +2,7 @@
 _id: 5b97413b1f9f2e6939857ab7
 title: "Writing Your Own Debugger and Language Extensions with Visual Studio Code"
 url: 'https://www.codemag.com/article/1809051'
-category: 5b97413b1f9f2e6939857ab7
+category: articles
 slug: 'writing-your-own-debugger-and-language-extensions-with-visual-studio-code'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

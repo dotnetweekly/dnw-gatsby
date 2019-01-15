@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d22d8
 title: ".NET Backward Compatibility – Part 1"
 url: 'http://www.codeproject.com/Articles/1110442/NET-Backward-Compatibility-Part'
-category: 5a88e1acbd6dca0d5f0d22d8
+category: articles
 slug: 'net-backward-compatibility-part-1'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

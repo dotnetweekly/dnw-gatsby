@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2d58
 title: "Windows Azure: New Hadoop service + HTML5/JS (CORS), PhoneGap, Mercurial and Dropbox support"
 url: 'http://weblogs.asp.net/scottgu/archive/2013/03/18/windows-azure-new-hadoop-service-html5-js-cors-phonegap-mercurial-and-dropbox-support.aspx'
-category: 5a88e1afbd6dca0d5f0d2d58
+category: articles
 slug: 'windows-azure-new-hadoop-service-html5js-cors-phonegap-mercurial-and-dropbox-support'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

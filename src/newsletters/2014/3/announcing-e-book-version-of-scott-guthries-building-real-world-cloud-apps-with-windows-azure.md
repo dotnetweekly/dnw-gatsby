@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2b08
 title: "Announcing E-book version of Scott Guthrie’s “Building Real-World Cloud Apps with Windows Azure”"
 url: 'http://blogs.msdn.com/b/webdev/archive/2014/01/14/announcing-e-book-version-of-scott-guthrie-s-building-real-world-cloud-apps-with-windows-azure.aspx'
-category: 5a88e1aebd6dca0d5f0d2b08
+category: books
 slug: 'announcing-e-book-version-of-scott-guthries-building-real-world-cloud-apps-with-windows-azure'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

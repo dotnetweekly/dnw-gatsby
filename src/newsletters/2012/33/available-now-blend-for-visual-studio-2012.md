@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2f40
 title: "AVAILABLE NOW: BLEND FOR VISUAL STUDIO 2012"
 url: 'http://blendinsider.com/technical/available-now-blend-for-visual-studio-2012-2012-08-15/'
-category: 5a88e1afbd6dca0d5f0d2f40
+category: libraries-tools
 slug: 'available-now-blend-for-visual-studio-2012'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

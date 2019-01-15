@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1fe4
 title: "Asynchronous vs Deferred JavaScript"
 url: 'https://bitsofco.de/async-vs-defer/'
-category: 5a88e1abbd6dca0d5f0d1fe4
+category: articles
 slug: 'asynchronous-vs-deferred-javascript'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

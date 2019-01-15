@@ -2,7 +2,7 @@
 _id: 5b282c24edb737dc5238cc8b
 title: "ASP.NET Core - Beginner - Microsoft Virtual Academy"
 url: 'https://mva.microsoft.com/en-US/training-courses/aspnet-core-beginner-18153'
-category: 5b282c24edb737dc5238cc8b
+category: events-training
 slug: 'aspnet-core-beginner-microsoft-virtual-academy'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

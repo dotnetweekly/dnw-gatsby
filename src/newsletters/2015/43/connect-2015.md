@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d253e
 title: "Connect(); //2015"
 url: 'https://www.visualstudio.com/connect2015'
-category: 5a88e1adbd6dca0d5f0d253e
+category: events-training
 slug: 'connect-2015'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

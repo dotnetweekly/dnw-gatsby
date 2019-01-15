@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d26d0
 title: "Extensions for Visual Studio Online, REST APIs for TFS 2015 RC, and more from Build 2015"
 url: 'http://blogs.msdn.com/b/visualstudioalm/archive/2015/05/01/extensions-for-visual-studio-online-rest-apis-for-tfs-2015-rc-and-more-from-build-2015.aspx'
-category: 5a88e1adbd6dca0d5f0d26d0
+category: libraries-tools
 slug: 'extensions-for-visual-studio-online-rest-apis-for-tfs-2015-rc-and-more-from-build-2015'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

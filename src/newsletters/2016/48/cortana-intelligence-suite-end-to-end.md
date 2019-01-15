@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d2146
 title: "Cortana Intelligence Suite End to End"
 url: 'https://mva.microsoft.com/liveevents/cortana-intelligence-suite-end-to-end'
-category: 5a88e1acbd6dca0d5f0d2146
+category: events-training
 slug: 'cortana-intelligence-suite-end-to-end'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

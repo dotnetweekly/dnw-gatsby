@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2d70
 title: "Get in the Cloud. Get Certified."
 url: 'http://borntolearn.mslearn.net/mcsa90/default.aspx?WT.mc_id=MSLS_MCSA90#fbid=DgIorS3O7Ew'
-category: 5a88e1afbd6dca0d5f0d2d70
+category: articles
 slug: 'get-in-the-cloud-get-certified'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

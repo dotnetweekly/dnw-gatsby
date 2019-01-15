@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d28c4
 title: "Creating Mobile Apps with Xamarin.Forms, Preview Edition"
 url: 'http://www.microsoftvirtualacademy.com/ebooks#Creating%20Mobile%20Apps%20with%20Xamarin.Forms,%20Preview%20Edition'
-category: 5a88e1aebd6dca0d5f0d28c4
+category: books
 slug: 'creating-mobile-apps-with-xamarin-forms-preview-edition'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

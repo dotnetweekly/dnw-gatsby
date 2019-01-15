@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1d2a
 title: "Announcing the Coco Framework for enterprise blockchain networks"
 url: 'https://azure.microsoft.com/en-us/blog/announcing-microsoft-s-coco-framework-for-enterprise-blockchain-networks/'
-category: 5a88e1abbd6dca0d5f0d1d2a
+category: articles
 slug: 'announcing-the-coco-framework-for-enterprise-blockchain-networks'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

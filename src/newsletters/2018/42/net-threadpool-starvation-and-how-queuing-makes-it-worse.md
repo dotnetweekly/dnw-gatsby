@@ -2,7 +2,7 @@
 _id: 5bc78c521ff6e76a3487fb1c
 title: ".NET Threadpool starvation, and how queuing makes it worse"
 url: 'http://labs.criteo.com/2018/10/net-threadpool-starvation-and-how-queuing-makes-it-worse/'
-category: 5bc78c521ff6e76a3487fb1c
+category: articles
 slug: 'net-threadpool-starvation-and-how-queuing-makes-it-worse'
 user_id: 5a8a92338b86e53b3449b136
 username: 'dnwu3010'

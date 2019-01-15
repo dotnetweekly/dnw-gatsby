@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d293a
 title: "Developing Universal Windows Apps with HTML and JavaScript Jump Start"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/developing-universal-windows-apps-with-html-css-javascript-jump-start'
-category: 5a88e1aebd6dca0d5f0d293a
+category: events-training
 slug: 'developing-universal-windows-apps-with-html-and-javascript-jump-start'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

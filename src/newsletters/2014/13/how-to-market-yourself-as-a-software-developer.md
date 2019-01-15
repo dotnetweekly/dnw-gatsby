@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2a6a
 title: "How To Market Yourself as a Software Developer"
 url: 'http://devcareerboost.com/how-to-market-yourself/?utm_source=dotnetweekly&utm_medium=email&utm_campaign=launch'
-category: 5a88e1aebd6dca0d5f0d2a6a
+category: articles
 slug: 'how-to-market-yourself-as-a-software-developer'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

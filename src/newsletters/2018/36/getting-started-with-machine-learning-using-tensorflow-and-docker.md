@@ -2,7 +2,7 @@
 _id: 5b8df217281013443f94a421
 title: "Getting Started with Machine Learning using TensorFlow and Docker"
 url: 'https://blog.codewithdan.com/getting-started-with-machine-learning-using-tensorflow-and-docker/'
-category: 5b8df217281013443f94a421
+category: articles
 slug: 'getting-started-with-machine-learning-using-tensorflow-and-docker'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5b9fafd97a4fc42407daab86
 title: "Let's Encrypt at Scale"
 url: 'https://engineering.autotrader.co.uk/2018/09/04/letsencrypt-at-scale.html'
-category: 5b9fafd97a4fc42407daab86
+category: articles
 slug: 'lets-encrypt-at-scale'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

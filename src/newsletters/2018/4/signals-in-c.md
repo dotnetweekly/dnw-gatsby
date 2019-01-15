@@ -2,7 +2,7 @@
 _id: 5a88e1aabd6dca0d5f0d1ab8
 title: "Signals in C#"
 url: 'http://codingsight.com/signals-in-c/'
-category: 5a88e1aabd6dca0d5f0d1ab8
+category: articles
 slug: 'signals-in-c'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

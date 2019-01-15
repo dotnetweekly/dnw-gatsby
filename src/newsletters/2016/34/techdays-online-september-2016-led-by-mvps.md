@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d225c
 title: "TechDays Online September 2016 (led by MVPs)"
 url: 'https://www.eventbrite.co.uk/e/techdays-online-september-2016-led-by-mvps-tickets-27251539087'
-category: 5a88e1acbd6dca0d5f0d225c
+category: events-training
 slug: 'techdays-online-september-2016-led-by-mvps'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

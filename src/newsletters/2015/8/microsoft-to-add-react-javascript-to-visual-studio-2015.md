@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d2778
 title: "Microsoft To Add React JavaScript to Visual Studio 2015"
 url: 'http://visualstudiomagazine.com/articles/2015/02/20/react-for-web-essentials.aspx'
-category: 5a88e1adbd6dca0d5f0d2778
+category: libraries-tools
 slug: 'microsoft-to-add-react-javascript-to-visual-studio-2015'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d230e
 title: "Front-end Hyperpolyglot"
 url: 'http://jeffcarp.github.io/frontend-hyperpolyglot/'
-category: 5a88e1acbd6dca0d5f0d230e
+category: articles
 slug: 'front-end-hyperpolyglot'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

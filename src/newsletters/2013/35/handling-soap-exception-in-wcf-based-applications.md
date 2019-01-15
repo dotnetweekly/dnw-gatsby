@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2c2a
 title: "Handling SOAP Exception in WCF Based Applications"
 url: 'http://www.codeproject.com/Articles/645864/Handling-SOAP-Exception-in-WCF-Based-Applications'
-category: 5a88e1aebd6dca0d5f0d2c2a
+category: articles
 slug: 'handling-soap-exception-in-wcf-based-applications'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

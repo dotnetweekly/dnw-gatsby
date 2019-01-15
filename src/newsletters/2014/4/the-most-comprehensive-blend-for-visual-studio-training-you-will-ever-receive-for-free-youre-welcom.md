@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2afe
 title: "The most Comprehensive Blend for Visual Studio training you will ever receive – for Free; you’re welcome!"
 url: 'http://blog.jerrynixon.com/2014/01/the-most-comprehensive-blend-for-visual.html'
-category: 5a88e1aebd6dca0d5f0d2afe
+category: articles
 slug: 'the-most-comprehensive-blend-for-visual-studio-training-you-will-ever-receive-for-free-youre-welcom'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5bda8bd91428e6010594dad7
 title: "GitHub Actions: built by you, run by us"
 url: 'https://blog.github.com/2018-10-17-action-demos/'
-category: 5bda8bd91428e6010594dad7
+category: articles
 slug: 'github-actions-built-by-you-run-by-us'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

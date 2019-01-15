@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1d7e
 title: "Tuples in .NET world and C# 7.0 improvements"
 url: 'https://tech.io/playgrounds/2218/tuples-in--net-world-and-c-7-0-improvements'
-category: 5a88e1abbd6dca0d5f0d1d7e
+category: articles
 slug: 'tuples-in-net-world-and-c-7-0-improvements'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

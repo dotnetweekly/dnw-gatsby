@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2830
 title: "Introducing Visual Studio Community 2013"
 url: 'http://channel9.msdn.com/Events/Visual-Studio/Connect-event-2014/040'
-category: 5a88e1aebd6dca0d5f0d2830
+category: videos
 slug: 'introducing-visual-studio-community-2013'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

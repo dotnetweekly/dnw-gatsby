@@ -2,7 +2,7 @@
 _id: 5c26278a745cd0cd0f0206be
 title: ".NET Core - What's Coming in .NET Core 3.0"
 url: 'https://msdn.microsoft.com/magazine/mt848631'
-category: 5c26278a745cd0cd0f0206be
+category: articles
 slug: 'net-core-whats-coming-in-net-core-30'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

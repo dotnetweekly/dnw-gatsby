@@ -2,7 +2,7 @@
 _id: 5ad75c28ac55b0004e057acd
 title: "Tuning performance on Azure websites using remote profiling"
 url: 'https://blog.elmah.io/tuning-performance-on-azure-websites-using-remote-profiling/'
-category: 5ad75c28ac55b0004e057acd
+category: articles
 slug: 'tuning-performance-on-azure-websites-using-remote-profiling'
 user_id: 5a8a922d8b86e53b3449a770
 username: 'ThomasArdal'

@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d24c4
 title: "Creating Load Test Plugins for Cloud-based Load Test"
 url: 'http://blogs.msdn.com/b/visualstudioalm/archive/2015/12/08/creating-a-load-test-plugins-for-cloud-based-load-test.aspx'
-category: 5a88e1adbd6dca0d5f0d24c4
+category: articles
 slug: 'creating-load-test-plugins-for-cloud-based-load-test'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

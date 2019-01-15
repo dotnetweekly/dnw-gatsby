@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d28d4
 title: "Before you take over supporting a web application…."
 url: 'http://blogs.msdn.com/b/ericparvin/archive/2014/09/16/before-you-take-over-supporting-a-web-application.aspx'
-category: 5a88e1aebd6dca0d5f0d28d4
+category: articles
 slug: 'before-you-take-over-supporting-a-web-application'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

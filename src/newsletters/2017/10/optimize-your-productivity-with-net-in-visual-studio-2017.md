@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1fb8
 title: "Optimize your productivity with .NET in Visual Studio 2017"
 url: 'https://blogs.msdn.microsoft.com/visualstudio/2017/03/08/optimize-your-productivity-with-net-in-visual-studio-2017-2/'
-category: 5a88e1abbd6dca0d5f0d1fb8
+category: articles
 slug: 'optimize-your-productivity-with-net-in-visual-studio-2017'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

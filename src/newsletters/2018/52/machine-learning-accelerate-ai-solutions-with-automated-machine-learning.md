@@ -2,7 +2,7 @@
 _id: 5c26285c745cd085490206c3
 title: "Machine Learning - Accelerate AI Solutions with Automated Machine Learning"
 url: 'https://msdn.microsoft.com/magazine/mt848635'
-category: 5c26285c745cd085490206c3
+category: articles
 slug: 'machine-learning-accelerate-ai-solutions-with-automated-machine-learning'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

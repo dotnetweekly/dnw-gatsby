@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2f70
 title: "Visual Studio 2012 Launch"
 url: 'http://www.visualstudiolaunch.com/vs2012vle/splash'
-category: 5a88e1afbd6dca0d5f0d2f70
+category: events-training
 slug: 'visual-studio-2012-launch'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

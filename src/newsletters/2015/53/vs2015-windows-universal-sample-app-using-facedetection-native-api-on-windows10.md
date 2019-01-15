@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d24a2
 title: "#VS2015 – Windows Universal sample App using #FaceDetection native API on #Windows10"
 url: 'http://elbruno.com/2015/12/30/vs2015-windows-universal-sample-app-using-facedetection-native-api-on-windows10/'
-category: 5a88e1adbd6dca0d5f0d24a2
+category: articles
 slug: 'vs2015-windows-universal-sample-app-using-facedetection-native-api-on-windows10'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

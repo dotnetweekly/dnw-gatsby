@@ -2,7 +2,7 @@
 _id: 5aaa4cf0bd74e8024ebdd77f
 title: "Is string operator “+” so simple?"
 url: 'http://codingsight.com/is-string-operator-so-simple/'
-category: 5aaa4cf0bd74e8024ebdd77f
+category: articles
 slug: 'is-string-operator-so-simple'
 user_id: 5aaa4af315c227023e22fe4b
 username: 'Dandy123'

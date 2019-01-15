@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d285a
 title: "Azure Resource Manager DevOps Jump Start"
 url: 'http://www.microsoftvirtualacademy.com/training-courses/azure-resource-manager-devops-jump-start'
-category: 5a88e1aebd6dca0d5f0d285a
+category: events-training
 slug: 'azure-resource-manager-devops-jump-start'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

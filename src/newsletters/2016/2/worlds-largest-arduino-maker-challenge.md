@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d2480
 title: "World’s Largest Arduino Maker Challenge"
 url: 'https://www.hackster.io/challenges/arduino-microsoft-maker'
-category: 5a88e1adbd6dca0d5f0d2480
+category: events-training
 slug: 'worlds-largest-arduino-maker-challenge'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

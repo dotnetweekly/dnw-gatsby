@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2e22
 title: "The More I Know, the Less I Know"
 url: 'http://simpleprogrammer.com/2012/12/15/the-more-i-know-the-less-i-know/'
-category: 5a88e1afbd6dca0d5f0d2e22
+category: articles
 slug: 'the-more-i-know-the-less-i-know'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

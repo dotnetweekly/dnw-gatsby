@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d251a
 title: "Your First MVC 6 And EF 7 Application"
 url: 'http://www.binaryintellect.net/articles/2ef80ae4-1d89-495e-b29f-5d6d3161cb93.aspx'
-category: 5a88e1adbd6dca0d5f0d251a
+category: articles
 slug: 'your-first-mvc-6-and-ef-7-application'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

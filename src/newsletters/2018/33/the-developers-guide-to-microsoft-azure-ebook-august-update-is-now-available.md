@@ -2,7 +2,7 @@
 _id: 5b7320e9fd7ac959c89e003e
 title: "The Developer’s Guide to Microsoft Azure eBook - August update is now available"
 url: 'https://azure.microsoft.com/en-us/blog/the-developer-s-guide-to-microsoft-azure-ebook-august-update-is-now-available/'
-category: 5b7320e9fd7ac959c89e003e
+category: books
 slug: 'the-developers-guide-to-microsoft-azure-ebook-august-update-is-now-available'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d2478
 title: "Tips for making a DevOps transformation"
 url: 'https://channel9.msdn.com/Shows/DevOps-Dimension/2--Nordstrom--Tips-for-making-a-DevOps-transformation'
-category: 5a88e1adbd6dca0d5f0d2478
+category: videos
 slug: 'tips-for-making-a-devops-transformation'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d2358
 title: "Tooling to Facilitate Framework Migrations"
 url: 'https://blogs.msdn.microsoft.com/dotnet/2016/05/05/tooling-to-facilitate-framework-migrations/'
-category: 5a88e1acbd6dca0d5f0d2358
+category: libraries-tools
 slug: 'tooling-to-facilitate-framework-migrations'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

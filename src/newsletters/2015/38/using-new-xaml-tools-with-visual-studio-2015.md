@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d25a6
 title: "Using new XAML tools with Visual Studio 2015"
 url: 'http://www.dotnetcurry.com/visualstudio/1182/new-xaml-tools-visual-studio-2015'
-category: 5a88e1adbd6dca0d5f0d25a6
+category: libraries-tools
 slug: 'using-new-xaml-tools-with-visual-studio-2015'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

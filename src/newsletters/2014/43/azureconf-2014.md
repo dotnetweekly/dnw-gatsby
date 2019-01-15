@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2880
 title: "AzureConf 2014"
 url: 'http://channel9.msdn.com/Events/Microsoft-Azure/AzureConf-2014'
-category: 5a88e1aebd6dca0d5f0d2880
+category: events-training
 slug: 'azureconf-2014'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

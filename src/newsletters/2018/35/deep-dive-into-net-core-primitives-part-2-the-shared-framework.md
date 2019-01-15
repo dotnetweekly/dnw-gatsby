@@ -2,7 +2,7 @@
 _id: 5b88b0cbeb7beb823289afc6
 title: "Deep-dive into .NET Core primitives, part 2: the shared framework"
 url: 'https://natemcmaster.com/blog/2018/08/29/netcore-primitives-2/'
-category: 5b88b0cbeb7beb823289afc6
+category: articles
 slug: 'deep-dive-into-net-core-primitives-part-2-the-shared-framework'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

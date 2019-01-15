@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1d7c
 title: "Analyzing runtime CoreCLR events from Linux"
 url: 'http://tooslowexception.com/analyzing-runtime-coreclr-events-from-linux-trace-compass/'
-category: 5a88e1abbd6dca0d5f0d1d7c
+category: articles
 slug: 'analyzing-runtime-coreclr-events-from-linux'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

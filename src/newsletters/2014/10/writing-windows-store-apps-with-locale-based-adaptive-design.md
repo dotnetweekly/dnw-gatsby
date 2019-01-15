@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2a8c
 title: "Writing Windows Store apps with locale-based adaptive design"
 url: 'http://blogs.windows.com/windows/b/appbuilder/archive/2014/03/06/writing-windows-store-apps-with-locale-based-adaptive-design.aspx'
-category: 5a88e1aebd6dca0d5f0d2a8c
+category: articles
 slug: 'writing-windows-store-apps-with-locale-based-adaptive-design'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5aa41679da3bcd0e9d890d0c
 title: "SOLID Design Principles Explained - The Single Responsibility Principle"
 url: 'https://stackify.com/solid-design-principles/'
-category: 5aa41679da3bcd0e9d890d0c
+category: articles
 slug: 'solid-design-principles-explained-the-single-responsibility-principle'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

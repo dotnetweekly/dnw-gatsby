@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d2290
 title: "Getting started with F# on .NET Core"
 url: 'https://docs.microsoft.com/en-us/dotnet/articles/fsharp/getting-started-netcore'
-category: 5a88e1acbd6dca0d5f0d2290
+category: articles
 slug: 'getting-started-with-f-on-net-core'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

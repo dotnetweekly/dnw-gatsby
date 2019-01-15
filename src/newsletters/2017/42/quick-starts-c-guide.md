@@ -2,7 +2,7 @@
 _id: 5a88e1aabd6dca0d5f0d1c4c
 title: "Quick Starts - C# Guide"
 url: 'https://docs.microsoft.com/en-us/dotnet/csharp/quick-starts/'
-category: 5a88e1aabd6dca0d5f0d1c4c
+category: libraries-tools
 slug: 'quick-starts-c-guide'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

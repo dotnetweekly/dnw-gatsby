@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d211c
 title: "DocumentDB APIs and SDKs"
 url: 'https://docs.microsoft.com/en-us/azure/documentdb/documentdb-sdk-dotnet-core'
-category: 5a88e1acbd6dca0d5f0d211c
+category: libraries-tools
 slug: 'documentdb-apis-and-sdks'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

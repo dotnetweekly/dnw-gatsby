@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1d48
 title: "Announcing .NET Core 2.0"
 url: 'https://blogs.msdn.microsoft.com/dotnet/2017/08/14/announcing-net-core-2-0/'
-category: 5a88e1abbd6dca0d5f0d1d48
+category: articles
 slug: 'announcing-net-core-2-0'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

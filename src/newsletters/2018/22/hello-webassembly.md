@@ -2,7 +2,7 @@
 _id: 5b130327d15d384badee60ef
 title: "Hello WebAssembly"
 url: 'https://medium.com/@caspervonb/hello-webassembly-882bba5c9fb7'
-category: 5b130327d15d384badee60ef
+category: articles
 slug: 'hello-webassembly'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

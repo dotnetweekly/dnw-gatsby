@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2ce8
 title: "dotnetConf Channel"
 url: 'http://www.youtube.com/user/dotnetConf'
-category: 5a88e1afbd6dca0d5f0d2ce8
+category: videos
 slug: 'dotnetconf-channel'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

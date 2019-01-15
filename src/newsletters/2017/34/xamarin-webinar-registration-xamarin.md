@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1d2c
 title: "Xamarin Webinar Registration - Xamarin"
 url: 'https://www.xamarin.com/webinars/register/xamarin-university-presents-desktop-developers-guide-to-mobile-with-visual-studio-tools-for-xamarin?utm_medium=Blog&utm_source=VS&utm_campaign=webinar_Desktop_Dev&MC=JavaScript&MC=MobileDev&MC=.NET&MC=SecSys&MC=CloudDev'
-category: 5a88e1abbd6dca0d5f0d1d2c
+category: events-training
 slug: 'xamarin-webinar-registration-xamarin'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

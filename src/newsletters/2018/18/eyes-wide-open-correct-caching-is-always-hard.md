@@ -2,7 +2,7 @@
 _id: 5aefbf6f7ecc506e6a6cd127
 title: "Eyes wide open - Correct Caching is always hard"
 url: 'https://www.hanselman.com/blog/EyesWideOpenCorrectCachingIsAlwaysHard.aspx'
-category: 5aefbf6f7ecc506e6a6cd127
+category: articles
 slug: 'eyes-wide-open-correct-caching-is-always-hard'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

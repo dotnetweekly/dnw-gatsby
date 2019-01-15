@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1ef4
 title: "Azure Management Libraries for .NET generally available now"
 url: 'https://azure.microsoft.com/en-us/blog/azure-management-libraries-for-net-generally-available-now/'
-category: 5a88e1abbd6dca0d5f0d1ef4
+category: libraries-tools
 slug: 'azure-management-libraries-for-net-generally-available-now'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

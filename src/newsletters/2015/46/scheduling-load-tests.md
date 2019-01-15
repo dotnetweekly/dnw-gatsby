@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d2514
 title: "Scheduling Load Tests"
 url: 'http://blogs.msdn.com/b/charles_sterling/archive/2015/11/16/scheduling-load-tests.aspx'
-category: 5a88e1adbd6dca0d5f0d2514
+category: articles
 slug: 'scheduling-load-tests'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d219a
 title: "ASP.NET Core, .NET Core, EF Core 1.1 Updates In Preview"
 url: 'https://visualstudiomagazine.com/articles/2016/10/26/asp-net-core-ef-core-dotnet-core-1-1-preview-1.aspx'
-category: 5a88e1acbd6dca0d5f0d219a
+category: libraries-tools
 slug: 'asp-net-core-net-core-ef-core-1-1-updates-in-preview'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

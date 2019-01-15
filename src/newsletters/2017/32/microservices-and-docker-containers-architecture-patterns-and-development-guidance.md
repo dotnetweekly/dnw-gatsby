@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1d70
 title: "Microservices and Docker containers: Architecture, Patterns and Development guidance"
 url: 'https://blogs.msdn.microsoft.com/dotnet/2017/08/02/microservices-and-docker-containers-architecture-patterns-and-development-guidance/'
-category: 5a88e1abbd6dca0d5f0d1d70
+category: articles
 slug: 'microservices-and-docker-containers-architecture-patterns-and-development-guidance'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

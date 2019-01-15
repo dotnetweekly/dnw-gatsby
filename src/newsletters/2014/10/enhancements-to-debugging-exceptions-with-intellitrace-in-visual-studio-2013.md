@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2a88
 title: "Enhancements to Debugging Exceptions with IntelliTrace in Visual Studio 2013"
 url: 'http://blogs.msdn.com/b/visualstudioalm/archive/2014/03/07/enhancements-to-debugging-exceptions-with-intellitrace-in-visual-studio-2013.aspx'
-category: 5a88e1aebd6dca0d5f0d2a88
+category: articles
 slug: 'enhancements-to-debugging-exceptions-with-intellitrace-in-visual-studio-2013'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

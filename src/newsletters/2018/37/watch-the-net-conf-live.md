@@ -2,7 +2,7 @@
 _id: 5b98838dd08949699d6ca3f1
 title: "Watch the .NET Conf Live!"
 url: 'https://blog.xamarin.com/watch-the-net-conf-live/'
-category: 5b98838dd08949699d6ca3f1
+category: events-training
 slug: 'watch-the-net-conf-live'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

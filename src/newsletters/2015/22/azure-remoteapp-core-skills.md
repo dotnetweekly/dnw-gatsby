@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d269a
 title: "Azure RemoteApp Core Skills"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/azure-remoteapp-core-skills-the-americas'
-category: 5a88e1adbd6dca0d5f0d269a
+category: events-training
 slug: 'azure-remoteapp-core-skills'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

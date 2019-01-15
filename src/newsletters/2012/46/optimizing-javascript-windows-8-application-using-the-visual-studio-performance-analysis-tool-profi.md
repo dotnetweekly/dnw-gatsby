@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2e52
 title: "Optimizing JavaScript Windows 8 application: Using the Visual Studio performance analysis tool (profiler)"
 url: 'http://blogs.msdn.com/b/eternalcoding/archive/2012/11/15/optimizing-javascript-windows-8-application-using-the-visual-studio-performance-analysis-tool-profiler.aspx'
-category: 5a88e1afbd6dca0d5f0d2e52
+category: articles
 slug: 'optimizing-javascript-windows-8-application-using-the-visual-studio-performance-analysis-tool-profi'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

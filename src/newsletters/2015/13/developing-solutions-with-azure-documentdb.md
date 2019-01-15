@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d2720
 title: "Developing Solutions with Azure DocumentDB"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/developing-solutions-with-azure-documentdb'
-category: 5a88e1adbd6dca0d5f0d2720
+category: events-training
 slug: 'developing-solutions-with-azure-documentdb'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

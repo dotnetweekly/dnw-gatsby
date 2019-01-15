@@ -2,7 +2,7 @@
 _id: 5a88e1aabd6dca0d5f0d1a62
 title: "Blazor: a technical introduction"
 url: 'http://blog.stevensanderson.com/2018/02/06/blazor-intro/'
-category: 5a88e1aabd6dca0d5f0d1a62
+category: articles
 slug: 'blazor-a-technical-introduction'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

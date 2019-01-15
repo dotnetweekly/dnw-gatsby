@@ -2,7 +2,7 @@
 _id: 5aa416a5da3bcd0e9d890d0d
 title: "User Authentication with Vue.js, ASP.NET Core 2 and Facebook Login"
 url: 'https://fullstackmark.com/post/16/user-authentication-with-vuejs-aspnet-core-2-and-facebook-login'
-category: 5aa416a5da3bcd0e9d890d0d
+category: articles
 slug: 'user-authentication-with-vuejs-aspnet-core-2-and-facebook-login'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2cb2
 title: "See the Intermediate Language for C# Code"
 url: 'http://www.codeproject.com/Articles/602648/See-the-Intermediate-Language-for-Csharp-Code'
-category: 5a88e1afbd6dca0d5f0d2cb2
+category: libraries-tools
 slug: 'see-the-intermediate-language-for-c-code'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

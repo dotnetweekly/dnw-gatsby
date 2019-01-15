@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2ae0
 title: "Getting Exact Location of Exception in C# Code"
 url: 'http://www.codeproject.com/Articles/717363/Getting-Exact-Location-of-Exception-in-Csharp-Code'
-category: 5a88e1aebd6dca0d5f0d2ae0
+category: articles
 slug: 'getting-exact-location-of-exception-in-c-code'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

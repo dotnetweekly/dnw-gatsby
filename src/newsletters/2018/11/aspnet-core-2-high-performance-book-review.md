@@ -2,7 +2,7 @@
 _id: 5aa9f258f86e7001dea426b5
 title: "ASP.NET Core 2 High Performance – Book Review"
 url: 'https://www.carlrippon.com/asp-net-core-2-high-performance-book-review/'
-category: 5aa9f258f86e7001dea426b5
+category: articles
 slug: 'aspnet-core-2-high-performance-book-review'
 user_id: 5a9e151169f83ea1390e87cb
 username: 'dnwuBkFzB5iuz'

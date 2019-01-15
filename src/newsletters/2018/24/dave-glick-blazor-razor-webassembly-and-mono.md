@@ -2,7 +2,7 @@
 _id: 5b228f0f4cf876f3ff6a6272
 title: "Dave Glick - Blazor, Razor, WebAssembly, and Mono"
 url: 'https://daveaglick.com/posts/blazor-razor-webassembly-and-mono'
-category: 5b228f0f4cf876f3ff6a6272
+category: articles
 slug: 'dave-glick-blazor-razor-webassembly-and-mono'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

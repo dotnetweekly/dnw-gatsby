@@ -2,7 +2,7 @@
 _id: 5b8df26028101349ae94a422
 title: "Connect to Microsoft SQL server from Node"
 url: 'https://blog.dotnetframework.org/2018/09/01/connect-to-microsoft-sql-server-from-node/'
-category: 5b8df26028101349ae94a422
+category: articles
 slug: 'connect-to-microsoft-sql-server-from-node'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d295a
 title: "Cross Platform Mobile Development with Visual Studio"
 url: 'http://blogs.msdn.com/b/uk_faculty_connection/archive/2014/07/29/cross-platform-mobile-development-with-visual-studio.aspx'
-category: 5a88e1aebd6dca0d5f0d295a
+category: articles
 slug: 'cross-platform-mobile-development-with-visual-studio'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

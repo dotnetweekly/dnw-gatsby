@@ -2,7 +2,7 @@
 _id: 5b17cc346d5864a516b3da7a
 title: "Microsoft and GitHub: The Implications for Developers"
 url: 'https://www.telerik.com/blogs/microsoft-and-github-implications-for-developers'
-category: 5b17cc346d5864a516b3da7a
+category: articles
 slug: 'microsoft-and-github-the-implications-for-developers'
 user_id: 5afa9e1a416efa64fa328ccd
 username: 'elmira_dam'

@@ -2,7 +2,7 @@
 _id: 5a8b41a23bdd6c002abd3c12
 title: "Bitbucket Pipelines and Docker for Continuous Delivery"
 url: 'https://blog.quickbird.uk/bitbucket-pipelines-and-docker-for-continuous-delivery-909bd28e8ce9'
-category: 5a8b41a23bdd6c002abd3c12
+category: articles
 slug: 'bitbucket-pipelines-and-docker-for-continuous-delivery'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

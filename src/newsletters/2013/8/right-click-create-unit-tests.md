@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2dac
 title: "Right-Click, Create Unit Tests"
 url: 'http://blogs.msdn.com/b/malaysia/archive/2013/02/20/right-click-create-unit-tests.aspx'
-category: 5a88e1afbd6dca0d5f0d2dac
+category: articles
 slug: 'right-click-create-unit-tests'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

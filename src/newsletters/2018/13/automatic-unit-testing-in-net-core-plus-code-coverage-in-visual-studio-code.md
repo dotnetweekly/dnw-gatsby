@@ -2,7 +2,7 @@
 _id: 5ab8a03c63652701eec4df71
 title: "Automatic Unit Testing in .NET Core plus Code Coverage in Visual Studio Code"
 url: 'https://www.hanselman.com/blog/AutomaticUnitTestingInNETCorePlusCodeCoverageInVisualStudioCode.aspx'
-category: 5ab8a03c63652701eec4df71
+category: articles
 slug: 'automatic-unit-testing-in-net-core-plus-code-coverage-in-visual-studio-code'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

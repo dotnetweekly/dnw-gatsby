@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d21a0
 title: "How Many Developers Use C++ vs. C# vs. Other Programming Languages"
 url: 'https://blogs.msdn.microsoft.com/zxue/2016/10/24/how-many-developers-use-c-vs-c-vs-other-programming-languages/'
-category: 5a88e1acbd6dca0d5f0d21a0
+category: articles
 slug: 'how-many-developers-use-c-vs-c-vs-other-programming-languages'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

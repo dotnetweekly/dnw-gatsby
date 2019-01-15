@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d2646
 title: "IntelliTest - One Test to rule them all"
 url: 'http://blogs.msdn.com/b/visualstudioalm/archive/2015/07/05/intellitest-one-test-to-rule-them-all.aspx'
-category: 5a88e1adbd6dca0d5f0d2646
+category: articles
 slug: 'intellitest-one-test-to-rule-them-all'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

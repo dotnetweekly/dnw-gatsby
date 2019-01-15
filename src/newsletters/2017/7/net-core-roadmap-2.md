@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d2004
 title: ".NET Core Roadmap"
 url: 'https://github.com/dotnet/core/blob/master/roadmap.md'
-category: 5a88e1abbd6dca0d5f0d2004
+category: articles
 slug: 'net-core-roadmap-2'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2fcc
 title: "Code on Campus"
 url: 'http://vslive.com/redmond'
-category: 5a88e1afbd6dca0d5f0d2fcc
+category: events-training
 slug: 'code-on-campus'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

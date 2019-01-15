@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d267e
 title: "Developing for iOS using the Tools for Apache Cordova"
 url: 'http://blogs.msdn.com/b/visualstudio/archive/2015/06/05/developing-for-ios-using-the-tools-for-apache-cordova.aspx'
-category: 5a88e1adbd6dca0d5f0d267e
+category: articles
 slug: 'developing-for-ios-using-the-tools-for-apache-cordova'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

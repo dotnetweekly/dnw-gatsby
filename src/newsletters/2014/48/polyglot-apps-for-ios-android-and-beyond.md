@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2824
 title: "Polyglot Apps for iOS, Android and Beyond"
 url: 'http://visualstudiomagazine.com/articles/2014/11/01/polyglot-apps.aspx'
-category: 5a88e1aebd6dca0d5f0d2824
+category: articles
 slug: 'polyglot-apps-for-ios-android-and-beyond'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

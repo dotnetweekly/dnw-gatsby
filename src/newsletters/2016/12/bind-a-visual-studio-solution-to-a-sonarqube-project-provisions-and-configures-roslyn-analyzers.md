@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d23e2
 title: "Bind a Visual Studio solution to a SonarQube project provisions and configures Roslyn analyzers"
 url: 'https://blogs.msdn.microsoft.com/visualstudioalm/2016/03/17/bind-a-visual-studio-solution-to-a-sonarqube-project-provisions-and-configures-roslyn-analyzers/'
-category: 5a88e1acbd6dca0d5f0d23e2
+category: articles
 slug: 'bind-a-visual-studio-solution-to-a-sonarqube-project-provisions-and-configures-roslyn-analyzers'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

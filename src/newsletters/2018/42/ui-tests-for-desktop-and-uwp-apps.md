@@ -2,7 +2,7 @@
 _id: 5bc8498f1ff6e7b19587fb27
 title: "UI Tests for Desktop and UWP Apps"
 url: 'https://www.youtube.com/watch?v=zlnq3HAhwr8'
-category: 5bc8498f1ff6e7b19587fb27
+category: videos
 slug: 'ui-tests-for-desktop-and-uwp-apps'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

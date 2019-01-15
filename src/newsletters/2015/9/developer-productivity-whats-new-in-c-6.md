@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d2766
 title: "Developer Productivity: What's New in C# 6"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/developer-productivity-what-s-new-in-c-6'
-category: 5a88e1adbd6dca0d5f0d2766
+category: events-training
 slug: 'developer-productivity-whats-new-in-c-6'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

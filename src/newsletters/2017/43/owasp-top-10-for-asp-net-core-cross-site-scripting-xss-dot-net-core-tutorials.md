@@ -2,7 +2,7 @@
 _id: 5a88e1aabd6dca0d5f0d1c34
 title: "OWASP Top 10 for ASP.net Core - Cross-Site Scripting (XSS) - Dot Net Core Tutorials"
 url: 'https://dotnetcoretutorials.com/2017/10/25/owasp-top-10-asp-net-core-cross-site-scripting-xss/'
-category: 5a88e1aabd6dca0d5f0d1c34
+category: articles
 slug: 'owasp-top-10-for-asp-net-core-cross-site-scripting-xss-dot-net-core-tutorials'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

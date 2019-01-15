@@ -2,7 +2,7 @@
 _id: 5aa9f42ff86e7001dea426b8
 title: "ASP.NET Core Configuration Tips"
 url: 'https://davidpine.net/blog/asp-net-core-configuration/'
-category: 5aa9f42ff86e7001dea426b8
+category: articles
 slug: 'aspnet-core-configuration-tips'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

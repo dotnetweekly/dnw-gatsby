@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2be0
 title: "Spend the day with Windows Azure."
 url: 'http://www.microsoft.com/enterprise/events/make-it-happen'
-category: 5a88e1aebd6dca0d5f0d2be0
+category: events-training
 slug: 'spend-the-day-with-windows-azure'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

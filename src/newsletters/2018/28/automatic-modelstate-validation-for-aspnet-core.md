@@ -2,7 +2,7 @@
 _id: 5b45947510ce4413c0856a7b
 title: "Automatic ModelState Validation for ASP.NET Core"
 url: 'https://www.daniellittle.xyz/automatic-modelstate-validation/'
-category: 5b45947510ce4413c0856a7b
+category: articles
 slug: 'automatic-modelstate-validation-for-aspnet-core'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

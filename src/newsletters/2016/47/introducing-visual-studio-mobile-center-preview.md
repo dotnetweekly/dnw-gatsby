@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d215c
 title: "Introducing Visual Studio Mobile Center (Preview)"
 url: 'https://blogs.msdn.microsoft.com/visualstudio/2016/11/16/visual-studio-mobile-center/'
-category: 5a88e1acbd6dca0d5f0d215c
+category: articles
 slug: 'introducing-visual-studio-mobile-center-preview'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

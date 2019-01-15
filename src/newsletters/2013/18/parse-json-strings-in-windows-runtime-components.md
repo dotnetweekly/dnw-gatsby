@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2ce0
 title: "Parse JSON Strings in Windows Runtime Components"
 url: 'http://msdn.microsoft.com/en-us/magazine/dn198241.aspx'
-category: 5a88e1afbd6dca0d5f0d2ce0
+category: libraries-tools
 slug: 'parse-json-strings-in-windows-runtime-components'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

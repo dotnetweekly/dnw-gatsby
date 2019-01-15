@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d22fa
 title: "Get SQL Server 2016 now"
 url: 'https://www.microsoft.com/en-us/server-cloud/products/sql-server/'
-category: 5a88e1acbd6dca0d5f0d22fa
+category: libraries-tools
 slug: 'get-sql-server-2016-now'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

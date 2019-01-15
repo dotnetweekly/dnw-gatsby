@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d264e
 title: "Free ebook: Microsoft Azure Essentials: Azure Web Apps for Developers"
 url: 'http://blogs.msdn.com/b/microsoft_press/archive/2015/06/09/free-ebook-microsoft-azure-essentials-azure-web-apps-for-developers.aspx'
-category: 5a88e1adbd6dca0d5f0d264e
+category: books
 slug: 'free-ebook-microsoft-azure-essentials-azure-web-apps-for-developers-2'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

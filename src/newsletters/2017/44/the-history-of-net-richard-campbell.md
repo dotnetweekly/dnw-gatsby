@@ -2,7 +2,7 @@
 _id: 5a88e1aabd6dca0d5f0d1bfa
 title: "The History of .NET - Richard Campbell"
 url: 'https://vimeo.com/239969756'
-category: 5a88e1aabd6dca0d5f0d1bfa
+category: videos
 slug: 'the-history-of-net-richard-campbell'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

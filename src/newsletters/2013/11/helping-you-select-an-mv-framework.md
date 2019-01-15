@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2d68
 title: "Helping you select an MV* framework"
 url: 'http://todomvc.com/'
-category: 5a88e1afbd6dca0d5f0d2d68
+category: libraries-tools
 slug: 'helping-you-select-an-mv-framework'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

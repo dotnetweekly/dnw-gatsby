@@ -2,7 +2,7 @@
 _id: 5b3afc0706b6115fe756ffec
 title: "REST vs. GraphQL: A Critical Review"
 url: 'https://blog.goodapi.co/rest-vs-graphql-a-critical-review-5f77392658e7'
-category: 5b3afc0706b6115fe756ffec
+category: articles
 slug: 'rest-vs-graphql-a-critical-review'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

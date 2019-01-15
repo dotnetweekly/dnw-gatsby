@@ -2,7 +2,7 @@
 _id: 5c262874745cd0221c0206c4
 title: "Visual Studio - Collaborative Development with Visual Studio Live Share"
 url: 'https://msdn.microsoft.com/magazine/mt848633'
-category: 5c262874745cd0221c0206c4
+category: articles
 slug: 'visual-studio-collaborative-development-with-visual-studio-live-share'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

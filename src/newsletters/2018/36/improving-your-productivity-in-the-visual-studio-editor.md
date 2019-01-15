@@ -2,7 +2,7 @@
 _id: 5b91738b1f9f2e275b857aa7
 title: "Improving your productivity in the Visual Studio Editor"
 url: 'https://blogs.msdn.microsoft.com/visualstudio/2018/08/30/improving-your-productivity-in-the-visual-studio-editor/'
-category: 5b91738b1f9f2e275b857aa7
+category: articles
 slug: 'improving-your-productivity-in-the-visual-studio-editor'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

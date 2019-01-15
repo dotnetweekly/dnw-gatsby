@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2a16
 title: "Background transfer API in universal Windows apps: what you need to know"
 url: 'http://blogs.windows.com/windows/b/buildingapps/archive/2014/04/25/background-transfer-api-in-universal-windows-apps-what-you-need-to-know.aspx'
-category: 5a88e1aebd6dca0d5f0d2a16
+category: articles
 slug: 'background-transfer-api-in-universal-windows-apps-what-you-need-to-know'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

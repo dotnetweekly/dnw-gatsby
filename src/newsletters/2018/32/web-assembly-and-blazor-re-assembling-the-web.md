@@ -2,7 +2,7 @@
 _id: 5b6900a86b826ec5d8f5995a
 title: "Web Assembly and Blazor: Re-assembling the Web"
 url: 'https://weblog.west-wind.com/posts/2018/Jul/31/Web-Assembly-and-Blazor-Reassembling-the-Web'
-category: 5b6900a86b826ec5d8f5995a
+category: articles
 slug: 'web-assembly-and-blazor-re-assembling-the-web'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

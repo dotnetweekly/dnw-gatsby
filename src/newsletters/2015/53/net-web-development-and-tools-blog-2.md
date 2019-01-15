@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d2494
 title: ".NET Web Development and Tools Blog"
 url: 'http://blogs.msdn.com/b/webdev/archive/2015/12/31/new-year-updates-to-asp-net-webhooks-preview.aspx'
-category: 5a88e1adbd6dca0d5f0d2494
+category: articles
 slug: 'net-web-development-and-tools-blog-2'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2af0
 title: "Testing C#.Net Async Code"
 url: 'http://spin.atomicobject.com/2014/01/27/testing-async-code/'
-category: 5a88e1aebd6dca0d5f0d2af0
+category: articles
 slug: 'testing-c-net-async-code'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

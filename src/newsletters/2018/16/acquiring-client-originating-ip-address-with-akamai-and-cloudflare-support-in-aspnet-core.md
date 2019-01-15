@@ -2,7 +2,7 @@
 _id: 5ad71371ac55b0004e057acc
 title: "Acquiring client originating IP address (with Akamai and CloudFlare support) in ASP.NET Core"
 url: 'https://www.tpeczek.com/2018/04/acquiring-client-originating-ip-address_17.html'
-category: 5ad71371ac55b0004e057acc
+category: articles
 slug: 'acquiring-client-originating-ip-address-with-akamai-and-cloudflare-support-in-aspnet-core'
 user_id: 5a8a922f8b86e53b3449ab24
 username: 'tpeczek'

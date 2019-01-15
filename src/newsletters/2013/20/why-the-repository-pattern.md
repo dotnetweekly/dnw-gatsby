@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2cca
 title: "Why the Repository Pattern"
 url: 'http://endyourif.com/why-the-repository-pattern/'
-category: 5a88e1afbd6dca0d5f0d2cca
+category: articles
 slug: 'why-the-repository-pattern'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

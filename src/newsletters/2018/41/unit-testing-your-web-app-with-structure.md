@@ -2,7 +2,7 @@
 _id: 5bbc15658a5a39ea94fd9807
 title: "Unit Testing your Web App with Structure"
 url: 'https://www.telerik.com/blogs/unit-testing-your-web-app-with-structure'
-category: 5bbc15658a5a39ea94fd9807
+category: articles
 slug: 'unit-testing-your-web-app-with-structure'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

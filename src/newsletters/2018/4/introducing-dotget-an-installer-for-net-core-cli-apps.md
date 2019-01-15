@@ -2,7 +2,7 @@
 _id: 5a88e1aabd6dca0d5f0d1ac6
 title: "Introducing dotGet: an installer for .NET Core CLI apps"
 url: 'https://medium.com/@tonerdo/introducing-dotget-an-installer-for-net-core-cli-apps-9ba79ac7cd89'
-category: 5a88e1aabd6dca0d5f0d1ac6
+category: articles
 slug: 'introducing-dotget-an-installer-for-net-core-cli-apps'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

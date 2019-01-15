@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2974
 title: "Creating Cool WPF Charts using the ModernUI Chart Library and WebAPI "
 url: 'http://www.dotnetcurry.com/showarticle.aspx?ID=1027'
-category: 5a88e1aebd6dca0d5f0d2974
+category: articles
 slug: 'creating-cool-wpf-charts-using-the-modernui-chart-library-and-webapi'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

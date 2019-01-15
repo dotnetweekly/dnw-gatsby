@@ -2,7 +2,7 @@
 _id: 5bdfe3cb1428e6e17794daea
 title: "Don't use Func delegate on the Entity Framework entities"
 url: 'http://coderethinked.com/don-t-use-func-delegate-on-the-ef-entities/'
-category: 5bdfe3cb1428e6e17794daea
+category: articles
 slug: 'dont-use-func-delegate-on-the-entity-framework-entities'
 user_id: 5b8794c8eb7beb86d689afc1
 username: 'karthikchintala'

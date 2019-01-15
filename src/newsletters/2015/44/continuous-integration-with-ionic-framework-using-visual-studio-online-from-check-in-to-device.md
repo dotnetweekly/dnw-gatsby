@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d2538
 title: "Continuous Integration with Ionic Framework using Visual Studio Online – From Check In to Device"
 url: 'http://blogs.msdn.com/b/mvpawardprogram/archive/2015/10/27/continuous-integration-with-ionic-framework-using-visual-studio-online-from-check-in-to-device.aspx'
-category: 5a88e1adbd6dca0d5f0d2538
+category: articles
 slug: 'continuous-integration-with-ionic-framework-using-visual-studio-online-from-check-in-to-device'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

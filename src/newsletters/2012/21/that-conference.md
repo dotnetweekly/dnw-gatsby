@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d305e
 title: "That Conference"
 url: 'http://lanyrd.com/2012/thatconference/'
-category: 5a88e1afbd6dca0d5f0d305e
+category: events-training
 slug: 'that-conference'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

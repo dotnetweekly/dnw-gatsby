@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d209e
 title: "Roslyn - Generate JavaScript with Roslyn and T4 Templates"
 url: 'https://msdn.microsoft.com/magazine/mt790203'
-category: 5a88e1acbd6dca0d5f0d209e
+category: articles
 slug: 'roslyn-generate-javascript-with-roslyn-and-t4-templates'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

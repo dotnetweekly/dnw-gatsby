@@ -2,7 +2,7 @@
 _id: 5a88e1aabd6dca0d5f0d1a6e
 title: "Building a command-line tool with progress bar in .NET Core"
 url: 'https://blog.elmah.io/building-a-command-line-tool-with-progress-bar-in-net-core/'
-category: 5a88e1aabd6dca0d5f0d1a6e
+category: articles
 slug: 'building-a-command-line-tool-with-progress-bar-in-net-core'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

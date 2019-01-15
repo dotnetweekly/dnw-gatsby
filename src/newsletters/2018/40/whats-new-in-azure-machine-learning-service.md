@@ -2,7 +2,7 @@
 _id: 5bb5a38d15695b2ebaf150c3
 title: "What’s new in Azure Machine Learning service"
 url: 'https://azure.microsoft.com/en-us/blog/what-s-new-in-azure-machine-learning-service/'
-category: 5bb5a38d15695b2ebaf150c3
+category: articles
 slug: 'whats-new-in-azure-machine-learning-service'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

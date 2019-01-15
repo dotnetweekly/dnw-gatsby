@@ -2,7 +2,7 @@
 _id: 5ac7f53f56c8fe00fe0cf0bc
 title: "Microsoft Build 2018 Developer Conference"
 url: 'https://www.microsoft.com/en-us/build'
-category: 5ac7f53f56c8fe00fe0cf0bc
+category: events-training
 slug: 'microsoft-build-2018-developer-conference'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

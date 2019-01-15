@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d238e
 title: "Interactive Analytics for Application Insights"
 url: 'http://dailydotnettips.com/2016/04/18/interactive-analytics-for-application-insights/'
-category: 5a88e1acbd6dca0d5f0d238e
+category: articles
 slug: 'interactive-analytics-for-application-insights'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

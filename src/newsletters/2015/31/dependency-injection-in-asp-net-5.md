@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d260a
 title: "Dependency injection in ASP.NET 5"
 url: 'http://gunnarpeipman.com/2015/08/dependency-injection-in-asp-net-5/'
-category: 5a88e1adbd6dca0d5f0d260a
+category: articles
 slug: 'dependency-injection-in-asp-net-5'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d303a
 title: "Visual Studio 2012 RC is released - The Big Web Rollup"
 url: 'http://www.hanselman.com/blog/VisualStudio2012RCIsReleasedTheBigWebRollup.aspx'
-category: 5a88e1afbd6dca0d5f0d303a
+category: articles
 slug: 'visual-studio-2012-rc-is-released-the-big-web-rollup'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

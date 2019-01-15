@@ -2,7 +2,7 @@
 _id: 5ae94780973d49002dcafb87
 title: "Add Caching to my Web Application?"
 url: 'https://ardalis.com/should-i-add-caching-to-my-web-application'
-category: 5ae94780973d49002dcafb87
+category: articles
 slug: 'add-caching-to-my-web-application'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

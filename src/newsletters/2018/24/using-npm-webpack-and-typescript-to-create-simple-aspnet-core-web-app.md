@@ -2,7 +2,7 @@
 _id: 5b1e86fe7db7433d9c8b38a1
 title: "Using npm, Webpack, and TypeScript to create simple ASP.NET Core web app"
 url: 'http://codingsight.com/using-npm-webpack-and-typescript-to-create-simple-aspnet-core-web-app/'
-category: 5b1e86fe7db7433d9c8b38a1
+category: articles
 slug: 'using-npm-webpack-and-typescript-to-create-simple-aspnet-core-web-app'
 user_id: 5aaa4af315c227023e22fe4b
 username: 'Dandy123'

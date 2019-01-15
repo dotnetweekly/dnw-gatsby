@@ -2,7 +2,7 @@
 _id: 5b9173541f9f2e6d9c857aa6
 title: "Turn your whiteboard sketches to working code in seconds with Sketch2Code"
 url: 'https://azure.microsoft.com/en-us/blog/turn-your-whiteboard-sketches-to-working-code-in-seconds-with-sketch2code/'
-category: 5b9173541f9f2e6d9c857aa6
+category: articles
 slug: 'turn-your-whiteboard-sketches-to-working-code-in-seconds-with-sketch2code'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d27b4
 title: "Understanding Azure website auto-scale magic"
 url: 'http://www.troyhunt.com/2015/01/understanding-azure-website-auto-scale.html'
-category: 5a88e1adbd6dca0d5f0d27b4
+category: articles
 slug: 'understanding-azure-website-auto-scale-magic'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

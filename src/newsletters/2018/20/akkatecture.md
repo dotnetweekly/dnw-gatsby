@@ -2,7 +2,7 @@
 _id: 5afde2b4416efa83e9328cdd
 title: "Akkatecture"
 url: 'https://akkatecture.net/'
-category: 5afde2b4416efa83e9328cdd
+category: libraries-tools
 slug: 'akkatecture'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2e54
 title: "Easy Asynchrony with C#: No More Callbacks!"
 url: 'http://channel9.msdn.com/Events/Build/2012/3-011?format=auto'
-category: 5a88e1afbd6dca0d5f0d2e54
+category: videos
 slug: 'easy-asynchrony-with-c-no-more-callbacks'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

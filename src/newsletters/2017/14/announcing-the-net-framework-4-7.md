@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1f52
 title: "Announcing the .NET Framework 4.7"
 url: 'https://blogs.msdn.microsoft.com/dotnet/2017/04/05/announcing-the-net-framework-4-7/'
-category: 5a88e1abbd6dca0d5f0d1f52
+category: articles
 slug: 'announcing-the-net-framework-4-7'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

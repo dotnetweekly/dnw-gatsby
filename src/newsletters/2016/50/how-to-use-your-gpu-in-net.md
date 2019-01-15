@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d2108
 title: "How to Use Your GPU in .NET"
 url: 'https://www.codeproject.com/Articles/1116907/How-to-Use-Your-GPU-in-NET'
-category: 5a88e1acbd6dca0d5f0d2108
+category: articles
 slug: 'how-to-use-your-gpu-in-net'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

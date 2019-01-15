@@ -2,7 +2,7 @@
 _id: 5ba45bc37a4fc46b5edaab9d
 title: "Parallel Custom Build Tools in Visual Studio 2017"
 url: 'https://blogs.msdn.microsoft.com/vcblog/2018/09/18/parallel-custom-build-tools-in-visual-studio-2017/'
-category: 5ba45bc37a4fc46b5edaab9d
+category: articles
 slug: 'parallel-custom-build-tools-in-visual-studio-2017'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

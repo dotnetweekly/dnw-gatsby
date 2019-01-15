@@ -2,7 +2,7 @@
 _id: 5b68ffd36b826ed757f59956
 title: "Xenko Game Engine - Xenko 3.0 is now free and open-source!"
 url: 'https://xenko.com/blog/xenko-opensource-mit/'
-category: 5b68ffd36b826ed757f59956
+category: libraries-tools
 slug: 'xenko-game-engine-xenko-30-is-now-free-and-open-source'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

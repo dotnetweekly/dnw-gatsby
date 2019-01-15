@@ -2,7 +2,7 @@
 _id: 5b7b7b9ce6292013fef3fe95
 title: "Anatomy of a .NET Assembly - PE Headers"
 url: 'https://www.red-gate.com/simple-talk/blogs/anatomy-of-a-net-assembly-pe-headers/'
-category: 5b7b7b9ce6292013fef3fe95
+category: articles
 slug: 'anatomy-of-a-net-assembly-pe-headers'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

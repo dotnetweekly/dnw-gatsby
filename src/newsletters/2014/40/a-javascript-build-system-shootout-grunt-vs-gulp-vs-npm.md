@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d28c8
 title: "A JavaScript Build System Shootout: Grunt vs. Gulp vs. NPM"
 url: 'http://modernweb.com/2014/08/04/choose-grunt-gulp-npm/'
-category: 5a88e1aebd6dca0d5f0d28c8
+category: libraries-tools
 slug: 'a-javascript-build-system-shootout-grunt-vs-gulp-vs-npm'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5c10dfc5c180f0a19b30fbae
 title: "Alternative approach to HttpClient in Azure Functions 2.0 - bringing in HttpClientFactory"
 url: 'https://www.tpeczek.com/2018/12/alternative-approach-to-httpclient-in.html'
-category: 5c10dfc5c180f0a19b30fbae
+category: articles
 slug: 'alternative-approach-to-httpclient-in-azure-functions-20-bringing-in-httpclientfactory'
 user_id: 5a8a922f8b86e53b3449ab24
 username: 'tpeczek'

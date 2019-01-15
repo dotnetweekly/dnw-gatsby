@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2dae
 title: "Making Websites Location Aware With HTML5 Geolocation"
 url: 'http://webdesign.tutsplus.com/tutorials/ux-tutorials/making-websites-location-aware-with-html5-geolocation/'
-category: 5a88e1afbd6dca0d5f0d2dae
+category: articles
 slug: 'making-websites-location-aware-with-html5-geolocation'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

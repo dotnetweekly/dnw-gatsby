@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2fbc
 title: "aspConf"
 url: 'http://www.aspconf.net/'
-category: 5a88e1afbd6dca0d5f0d2fbc
+category: events-training
 slug: 'aspconf'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

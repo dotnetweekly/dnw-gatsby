@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d278c
 title: "Using ASP.NET 5, Angular.js and Entity Framework 7 Beta for building a Business Application "
 url: 'http://www.dotnetcurry.com/showarticle.aspx?ID=1088'
-category: 5a88e1adbd6dca0d5f0d278c
+category: articles
 slug: 'using-asp-net-5-angular-js-and-entity-framework-7-beta-for-building-a-business-application'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

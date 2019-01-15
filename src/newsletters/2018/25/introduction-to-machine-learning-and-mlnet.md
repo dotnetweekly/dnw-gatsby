@@ -2,7 +2,7 @@
 _id: 5b294c7a32697b8ba930a47f
 title: "Introduction to Machine Learning and ML.NET"
 url: 'https://rubikscode.net/2018/06/18/using-ml-net-introduction-to-machine-learning-and-ml-net/'
-category: 5b294c7a32697b8ba930a47f
+category: articles
 slug: 'introduction-to-machine-learning-and-mlnet'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2d94
 title: "NFC Tag Fun with Windows Phone 8"
 url: 'http://www.robmiles.com/journal/2013/3/2/nfc-tag-fun-with-windows-phone-8.html'
-category: 5a88e1afbd6dca0d5f0d2d94
+category: articles
 slug: 'nfc-tag-fun-with-windows-phone-8'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2ea6
 title: "Microsoft DevRadio: Using Blend to Help Design Your Windows 8 Apps (Part 2)"
 url: 'http://devhammer.net/blog/microsoft-devradio-using-blend-to-help-design-your-windows-8-apps-part-2'
-category: 5a88e1afbd6dca0d5f0d2ea6
+category: videos
 slug: 'microsoft-devradio-using-blend-to-help-design-your-windows-8-apps-part-2'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5abb38190c7c83006ed04f56
 title: "Use the power of Azure Functions and Cognitive Services to collect geolocation information"
 url: 'https://www.patrickvankleef.com/2018/03/28/collect-data-with-azure-functions-and-cognitive-services/'
-category: 5abb38190c7c83006ed04f56
+category: articles
 slug: 'use-the-power-of-azure-functions-and-cognitive-services-to-collect-geolocation-information'
 user_id: 5a8a92348b86e53b3449b45c
 username: 'dnwu3413'

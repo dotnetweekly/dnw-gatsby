@@ -2,7 +2,7 @@
 _id: 5a88e1aabd6dca0d5f0d1b08
 title: "Great .NET Conferences to Attend"
 url: 'https://blog.elmah.io/great-dot-net-conferences-to-attend/'
-category: 5a88e1aabd6dca0d5f0d1b08
+category: events-training
 slug: 'great-net-conferences-to-attend'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

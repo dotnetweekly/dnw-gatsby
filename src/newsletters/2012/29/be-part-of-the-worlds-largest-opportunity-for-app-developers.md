@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2fae
 title: "Be Part of the World’s Largest Opportunity for App Developers."
 url: 'http://www.30tolaunch.com/windows8/Events'
-category: 5a88e1afbd6dca0d5f0d2fae
+category: events-training
 slug: 'be-part-of-the-worlds-largest-opportunity-for-app-developers'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

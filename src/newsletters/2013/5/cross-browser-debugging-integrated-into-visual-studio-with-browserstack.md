@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2dc0
 title: "Cross Browser Debugging integrated into Visual Studio with BrowserStack"
 url: 'http://www.hanselman.com/blog/CrossBrowserDebuggingIntegratedIntoVisualStudioWithBrowserStack.aspx'
-category: 5a88e1afbd6dca0d5f0d2dc0
+category: libraries-tools
 slug: 'cross-browser-debugging-integrated-into-visual-studio-with-browserstack'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

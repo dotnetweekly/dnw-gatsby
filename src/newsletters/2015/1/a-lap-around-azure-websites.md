@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d27e2
 title: "A Lap Around Azure Websites"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/a-lap-around-azure-websites'
-category: 5a88e1adbd6dca0d5f0d27e2
+category: events-training
 slug: 'a-lap-around-azure-websites'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

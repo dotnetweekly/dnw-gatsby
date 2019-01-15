@@ -2,7 +2,7 @@
 _id: 5bfd1608d9a5937333f70e57
 title: "Announcing ML.NET 0.7 (Machine Learning .NET)"
 url: 'https://blogs.msdn.microsoft.com/dotnet/2018/11/08/announcing-ml-net-0-7-machine-learning-net/'
-category: 5bfd1608d9a5937333f70e57
+category: articles
 slug: 'announcing-mlnet-07-machine-learning-net'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

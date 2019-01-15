@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d2182
 title: "ReactJS.NET 3.0"
 url: 'https://reactjs.net/2016/10/3.0.0-release.html'
-category: 5a88e1acbd6dca0d5f0d2182
+category: libraries-tools
 slug: 'reactjs-net-3-0'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

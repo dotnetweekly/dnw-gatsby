@@ -2,7 +2,7 @@
 _id: 5a88e1aabd6dca0d5f0d1b12
 title: "Push Notifications and ASP.NET Core - Part 1 (Push API)"
 url: 'https://www.tpeczek.com/2017/12/push-notifications-and-aspnet-core-part.html'
-category: 5a88e1aabd6dca0d5f0d1b12
+category: articles
 slug: 'push-notifications-and-asp-net-core-part-1-push-api-2'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

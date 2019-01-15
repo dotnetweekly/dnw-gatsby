@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d2024
 title: "Full Stack Weekly"
 url: 'https://www.fullstackweekly.com/'
-category: 5a88e1abbd6dca0d5f0d2024
+category: articles
 slug: 'full-stack-weekly'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

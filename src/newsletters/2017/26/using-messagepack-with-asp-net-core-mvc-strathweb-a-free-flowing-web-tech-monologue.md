@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1e20
 title: "Using MessagePack with ASP.NET Core MVC | StrathWeb. A free flowing web tech monologue."
 url: 'https://www.strathweb.com/2017/06/using-messagepack-with-asp-net-core-mvc/'
-category: 5a88e1abbd6dca0d5f0d1e20
+category: libraries-tools
 slug: 'using-messagepack-with-asp-net-core-mvc-strathweb-a-free-flowing-web-tech-monologue'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5aba6a755969e8004e816a5e
 title: "Long Arithmetic from Microsoft"
 url: 'http://codingsight.com/long-arithmetic-microsoft/'
-category: 5aba6a755969e8004e816a5e
+category: articles
 slug: 'long-arithmetic-from-microsoft'
 user_id: 5aaa4af315c227023e22fe4b
 username: 'Dandy123'

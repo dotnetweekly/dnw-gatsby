@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2906
 title: "Developing 2D &amp; 3D Games with Unity for Windows Jump Start"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/developing-2d-and-3d-games-with-unity-for-windows-jump-start'
-category: 5a88e1aebd6dca0d5f0d2906
+category: events-training
 slug: 'developing-2d-3d-games-with-unity-for-windows-jump-start'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

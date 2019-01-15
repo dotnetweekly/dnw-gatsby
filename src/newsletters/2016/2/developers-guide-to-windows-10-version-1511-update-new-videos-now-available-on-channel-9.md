@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d2484
 title: "Developer’s Guide to Windows 10 Version 1511 Update – new videos now available on Channel 9"
 url: 'https://blogs.windows.com/buildingapps/2015/12/21/developers-guide-to-windows-10-version-1511-update-new-videos-now-available-on-channel-9/'
-category: 5a88e1adbd6dca0d5f0d2484
+category: videos
 slug: 'developers-guide-to-windows-10-version-1511-update-new-videos-now-available-on-channel-9'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

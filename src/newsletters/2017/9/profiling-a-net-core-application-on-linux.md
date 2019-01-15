@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1fea
 title: "Profiling a .NET Core Application on Linux"
 url: 'http://blogs.microsoft.co.il/sasha/2017/02/27/profiling-a-net-core-application-on-linux/'
-category: 5a88e1abbd6dca0d5f0d1fea
+category: articles
 slug: 'profiling-a-net-core-application-on-linux'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

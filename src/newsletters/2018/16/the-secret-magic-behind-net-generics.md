@@ -2,7 +2,7 @@
 _id: 5ad54ebbac55b0004e057ac4
 title: "The secret magic behind .NET generics"
 url: 'http://yizhang82.me/dotnet-generics-typeof-t'
-category: 5ad54ebbac55b0004e057ac4
+category: articles
 slug: 'the-secret-magic-behind-net-generics'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

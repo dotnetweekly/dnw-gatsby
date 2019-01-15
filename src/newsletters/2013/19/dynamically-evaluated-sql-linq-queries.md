@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2cdc
 title: "Dynamically evaluated SQL LINQ queries"
 url: 'http://www.codeproject.com/Articles/43678/Dynamically-evaluated-SQL-LINQ-queries'
-category: 5a88e1afbd6dca0d5f0d2cdc
+category: articles
 slug: 'dynamically-evaluated-sql-linq-queries'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

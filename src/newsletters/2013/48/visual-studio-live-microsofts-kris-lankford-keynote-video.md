@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2b6e
 title: "Visual Studio Live!: Microsoft's Kris Lankford Keynote Video "
 url: 'http://visualstudiomagazine.com/blogs/vs-live-video/2013/11/microsoft-lankford-keynote.aspx'
-category: 5a88e1aebd6dca0d5f0d2b6e
+category: videos
 slug: 'visual-studio-live-microsofts-kris-lankford-keynote-video'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

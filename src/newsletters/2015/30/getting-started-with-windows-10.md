@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d2610
 title: "Getting Started with Windows 10"
 url: 'http://www.hanselman.com/blog/GettingStartedWithWindows10.aspx'
-category: 5a88e1adbd6dca0d5f0d2610
+category: articles
 slug: 'getting-started-with-windows-10'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

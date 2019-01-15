@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d2808
 title: "Visual Studio 2015 Preview and Windows 10 Technical Preview – Try Them On Azure Now"
 url: 'http://www.dirkstrauss.com/how-to/microsoft-azure#.VI-8qyusXyl'
-category: 5a88e1adbd6dca0d5f0d2808
+category: libraries-tools
 slug: 'visual-studio-2015-preview-and-windows-10-technical-preview-try-them-on-azure-now'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

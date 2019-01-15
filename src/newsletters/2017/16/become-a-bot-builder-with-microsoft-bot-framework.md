@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1f14
 title: "Become a Bot Builder with Microsoft Bot Framework"
 url: 'https://pusher.com/sessions/meetup/dotnetsheff/become-a-bot-builder-with-microsoft-bot-framework'
-category: 5a88e1abbd6dca0d5f0d1f14
+category: videos
 slug: 'become-a-bot-builder-with-microsoft-bot-framework'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d2752
 title: "Getting Started with TypeScript – Classes, Types and Interfaces"
 url: 'http://weblogs.asp.net/dwahlin/getting-started-with-typescript-classes-static-types-and-interfaces'
-category: 5a88e1adbd6dca0d5f0d2752
+category: articles
 slug: 'getting-started-with-typescript-classes-types-and-interfaces'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

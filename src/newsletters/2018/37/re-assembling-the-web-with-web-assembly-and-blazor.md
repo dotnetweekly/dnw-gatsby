@@ -2,7 +2,7 @@
 _id: 5b9741241f9f2ec63c857ab6
 title: "Re-Assembling the Web with Web Assembly and Blazor"
 url: 'https://www.codemag.com/article/1809061'
-category: 5b9741241f9f2ec63c857ab6
+category: articles
 slug: 're-assembling-the-web-with-web-assembly-and-blazor'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

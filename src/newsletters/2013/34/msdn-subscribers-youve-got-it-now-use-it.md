@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2c3a
 title: "MSDN Subscribers: You’ve Got It, Now Use It "
 url: 'http://www.windowsazure.com/en-us/pricing/member-offers/msdn-benefits/'
-category: 5a88e1aebd6dca0d5f0d2c3a
+category: libraries-tools
 slug: 'msdn-subscribers-youve-got-it-now-use-it'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

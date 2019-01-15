@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d23ac
 title: "Team Foundation Server Extensions"
 url: 'https://blogs.msdn.microsoft.com/visualstudioalm/2016/03/31/team-foundation-server-extensions-2/'
-category: 5a88e1acbd6dca0d5f0d23ac
+category: libraries-tools
 slug: 'team-foundation-server-extensions'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

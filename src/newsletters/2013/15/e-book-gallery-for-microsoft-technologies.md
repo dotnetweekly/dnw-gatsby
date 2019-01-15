@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2d1c
 title: "E-Book Gallery for Microsoft Technologies"
 url: 'http://naimishpandya.wordpress.com/2013/04/15/e-book-gallery-for-microsoft-technologies/?'
-category: 5a88e1afbd6dca0d5f0d2d1c
+category: books
 slug: 'e-book-gallery-for-microsoft-technologies'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

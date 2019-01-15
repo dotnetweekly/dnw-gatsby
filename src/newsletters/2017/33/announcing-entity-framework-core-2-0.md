@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1d52
 title: "Announcing Entity Framework Core 2.0"
 url: 'https://blogs.msdn.microsoft.com/dotnet/2017/08/14/announcing-entity-framework-core-2-0/'
-category: 5a88e1abbd6dca0d5f0d1d52
+category: articles
 slug: 'announcing-entity-framework-core-2-0'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

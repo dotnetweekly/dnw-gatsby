@@ -2,7 +2,7 @@
 _id: 5b2802fcedb73733a338cc87
 title: "ASP.NET Core Architect David Fowler's hidden gems in 2.1"
 url: 'https://www.hanselman.com/blog/ASPNETCoreArchitectDavidFowlersHiddenGemsIn21.aspx'
-category: 5b2802fcedb73733a338cc87
+category: articles
 slug: 'aspnet-core-architect-david-fowlers-hidden-gems-in-21'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

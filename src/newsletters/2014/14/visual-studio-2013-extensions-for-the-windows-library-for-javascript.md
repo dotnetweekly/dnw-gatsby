@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2a54
 title: "Visual Studio 2013 Extensions for the Windows Library for JavaScript"
 url: 'http://www.microsoft.com/en-us/download/details.aspx?id=40793'
-category: 5a88e1aebd6dca0d5f0d2a54
+category: libraries-tools
 slug: 'visual-studio-2013-extensions-for-the-windows-library-for-javascript'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

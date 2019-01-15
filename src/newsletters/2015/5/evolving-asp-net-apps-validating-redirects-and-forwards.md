@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d27b6
 title: "Evolving ASP.NET Apps–Validating Redirects and Forwards"
 url: 'http://blogs.msdn.com/b/cdndevs/archive/2015/01/29/evolving-asp-net-apps-validating-redirects-and-forwards.aspx'
-category: 5a88e1adbd6dca0d5f0d27b6
+category: articles
 slug: 'evolving-asp-net-apps-validating-redirects-and-forwards'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

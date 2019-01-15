@@ -2,7 +2,7 @@
 _id: 5b62a5416b826e0d2af5993a
 title: "Hacker hunting and built-in protections with Microsoft Azure"
 url: 'https://www.youtube.com/watch?v=n58eHSLoU9w'
-category: 5b62a5416b826e0d2af5993a
+category: videos
 slug: 'hacker-hunting-and-built-in-protections-with-microsoft-azure'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

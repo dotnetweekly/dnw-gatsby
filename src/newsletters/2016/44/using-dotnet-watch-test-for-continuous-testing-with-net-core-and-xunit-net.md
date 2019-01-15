@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d2192
 title: "Using dotnet watch test for continuous testing with .NET Core and XUnit.net"
 url: 'http://www.hanselman.com/blog/UsingDotnetWatchTestForContinuousTestingWithNETCoreAndXUnitnet.aspx'
-category: 5a88e1acbd6dca0d5f0d2192
+category: articles
 slug: 'using-dotnet-watch-test-for-continuous-testing-with-net-core-and-xunit-net'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

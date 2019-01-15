@@ -2,7 +2,7 @@
 _id: 5a88e1aabd6dca0d5f0d1b20
 title: "Let's Encrypt Certificates TLS - Securing IIS Web Sites with Let's Encrypt Certificates"
 url: 'http://www.codemag.com/article/1801071'
-category: 5a88e1aabd6dca0d5f0d1b20
+category: articles
 slug: 'lets-encrypt-certificates-tls-securing-iis-web-sites-with-lets-encrypt-certificates'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

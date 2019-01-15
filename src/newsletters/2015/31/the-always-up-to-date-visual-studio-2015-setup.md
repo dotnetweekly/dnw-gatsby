@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d2602
 title: "The Always-Up-To-Date Visual Studio 2015 Setup"
 url: 'http://timsneath.azurewebsites.net/visual-studio-2015-updated-setup/'
-category: 5a88e1adbd6dca0d5f0d2602
+category: libraries-tools
 slug: 'the-always-up-to-date-visual-studio-2015-setup'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

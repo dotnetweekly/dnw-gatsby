@@ -2,7 +2,7 @@
 _id: 5b56c3a213da0bf4d9d112e9
 title: "Unit test coverage and continuous testing. Now in Rider"
 url: 'https://blog.jetbrains.com/dotnet/2018/07/20/unit-test-coverage-continuous-testing-now-rider/'
-category: 5b56c3a213da0bf4d9d112e9
+category: articles
 slug: 'unit-test-coverage-and-continuous-testing-now-in-rider'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

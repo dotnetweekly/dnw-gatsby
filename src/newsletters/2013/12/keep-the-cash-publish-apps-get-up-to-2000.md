@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2d50
 title: "Keep The Cash. Publish apps.Get up to $2000"
 url: 'http://build.windowsstore.com/keepthecash#fbid=OeDDODPWdS3'
-category: 5a88e1afbd6dca0d5f0d2d50
+category: articles
 slug: 'keep-the-cash-publish-apps-get-up-to-2000'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

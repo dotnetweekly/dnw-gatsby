@@ -2,7 +2,7 @@
 _id: 5a88e1aabd6dca0d5f0d1bca
 title: "DevOps at Microsoft – lots of videos"
 url: 'https://blogs.msdn.microsoft.com/bharry/2017/11/13/devops-at-microsoft-lots-of-videos/'
-category: 5a88e1aabd6dca0d5f0d1bca
+category: videos
 slug: 'devops-at-microsoft-lots-of-videos'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

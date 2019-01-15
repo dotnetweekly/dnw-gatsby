@@ -2,7 +2,7 @@
 _id: 5b99d358d0894940ac6ca3f8
 title: "Microsoft Ignite 2018 September 24–28, 2018 Orlando, Florida"
 url: 'https://www.microsoft.com/en-us/ignite?ocid=AID725708_QSG_BNR_273064&MC=SecSys&MC=WinServer&MC=SysMagSof&MC=MSAzure&MC=OnPremInf'
-category: 5b99d358d0894940ac6ca3f8
+category: events-training
 slug: 'microsoft-ignite-2018-september-2428-2018-orlando-florida'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

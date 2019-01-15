@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d286a
 title: "Announcing RemoteIE: Test the latest IE on Windows, Mac OS X, iOS and Android"
 url: 'http://blogs.msdn.com/b/ie/archive/2014/11/02/announcing-remoteie-test-the-latest-ie-on-windows-mac-os-x-ios-and-android.aspx'
-category: 5a88e1aebd6dca0d5f0d286a
+category: libraries-tools
 slug: 'announcing-remoteie-test-the-latest-ie-on-windows-mac-os-x-ios-and-android'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

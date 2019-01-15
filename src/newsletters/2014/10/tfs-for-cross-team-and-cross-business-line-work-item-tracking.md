@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2a8a
 title: "TFS for cross team and cross business line work item tracking"
 url: 'http://nakedalm.com/tfs-cross-team-cross-business-line-work-item-tracking/'
-category: 5a88e1aebd6dca0d5f0d2a8a
+category: articles
 slug: 'tfs-for-cross-team-and-cross-business-line-work-item-tracking'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

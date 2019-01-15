@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d20ec
 title: "Blog Series About ASP.NET Core"
 url: 'http://thomasardal.com/blog-series-about-asp-net-core/'
-category: 5a88e1acbd6dca0d5f0d20ec
+category: articles
 slug: 'blog-series-about-asp-net-core'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

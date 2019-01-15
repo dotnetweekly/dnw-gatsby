@@ -2,7 +2,7 @@
 _id: 5ab0a5183b00a501ceb2e099
 title: "Ooui.Wasm - .NET in the browser"
 url: 'http://praeclarum.org/post/171899388348/oouiwasm-net-in-the-browser'
-category: 5ab0a5183b00a501ceb2e099
+category: libraries-tools
 slug: 'oouiwasm-net-in-the-browser'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

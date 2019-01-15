@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2878
 title: "Upcoming Changes in Visual Studio Architecture and Design Tools"
 url: 'http://blogs.msdn.com/b/visualstudioalm/archive/2014/10/24/upcoming-changes-in-visual-studio-architecture-and-design-tools.aspx'
-category: 5a88e1aebd6dca0d5f0d2878
+category: articles
 slug: 'upcoming-changes-in-visual-studio-architecture-and-design-tools'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

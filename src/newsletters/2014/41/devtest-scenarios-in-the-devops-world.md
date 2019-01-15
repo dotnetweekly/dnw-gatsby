@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d28aa
 title: "Dev/Test Scenarios in the DevOps World"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/dev-test-scenarios-in-the-devops-world'
-category: 5a88e1aebd6dca0d5f0d28aa
+category: events-training
 slug: 'devtest-scenarios-in-the-devops-world'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

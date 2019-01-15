@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d259e
 title: "Concurrency Visualizer for Visual Studio 2015"
 url: 'https://visualstudiogallery.msdn.microsoft.com/a6c24ce9-beec-4545-9261-293061436ee9'
-category: 5a88e1adbd6dca0d5f0d259e
+category: libraries-tools
 slug: 'concurrency-visualizer-for-visual-studio-2015'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

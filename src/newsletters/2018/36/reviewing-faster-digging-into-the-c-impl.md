@@ -2,7 +2,7 @@
 _id: 5b8df1b1281013813894a420
 title: "Reviewing FASTER: Digging into the C++ impl"
 url: 'https://ayende.com/blog/184321-A/reviewing-faster-digging-into-the-c-impl'
-category: 5b8df1b1281013813894a420
+category: articles
 slug: 'reviewing-faster-digging-into-the-c-impl'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2ac2
 title: "But How Do I Learn ASP.NET?"
 url: 'http://www.codeproject.com/Articles/724245/But-How-Do-I-Learn-ASP-NET'
-category: 5a88e1aebd6dca0d5f0d2ac2
+category: articles
 slug: 'but-how-do-i-learn-asp-net'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5b0cbf17d15d38fa3bee60d0
 title: "Life of a C# Developer: How to build and test an AWS Lambda locally"
 url: 'https://joaorosa.io/2018/05/21/life-of-a-c-developer-how-to-build-and-test-an-aws-lambda-locally/'
-category: 5b0cbf17d15d38fa3bee60d0
+category: articles
 slug: 'life-of-a-c-developer-how-to-build-and-test-an-aws-lambda-locally'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

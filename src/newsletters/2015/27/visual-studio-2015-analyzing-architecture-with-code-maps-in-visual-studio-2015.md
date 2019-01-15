@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d2642
 title: "Visual Studio 2015 - Analyzing Architecture with Code Maps in Visual Studio 2015"
 url: 'https://msdn.microsoft.com/en-us/magazine/mt238403.aspx'
-category: 5a88e1adbd6dca0d5f0d2642
+category: articles
 slug: 'visual-studio-2015-analyzing-architecture-with-code-maps-in-visual-studio-2015'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

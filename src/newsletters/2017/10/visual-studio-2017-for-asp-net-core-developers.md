@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1fc0
 title: "Visual Studio 2017 for ASP.NET Core Developers"
 url: 'https://www.stevejgordon.co.uk/visual-studio-2017-released'
-category: 5a88e1abbd6dca0d5f0d1fc0
+category: articles
 slug: 'visual-studio-2017-for-asp-net-core-developers'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

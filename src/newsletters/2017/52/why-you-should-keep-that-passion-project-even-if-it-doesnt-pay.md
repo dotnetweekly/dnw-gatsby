@@ -2,7 +2,7 @@
 _id: 5a88e1aabd6dca0d5f0d1b26
 title: "Why You Should Keep That Passion Project (Even If It Doesn't Pay)"
 url: 'https://blog.trello.com/keep-that-passion-project-even-if-it-doesnt-pay'
-category: 5a88e1aabd6dca0d5f0d1b26
+category: articles
 slug: 'why-you-should-keep-that-passion-project-even-if-it-doesnt-pay'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

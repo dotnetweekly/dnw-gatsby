@@ -35,13 +35,21 @@ exports.createPosts = function(createPage, graphql) {
           const blogPosts = result.data.allMarkdownRemark.edges
           blogPosts.forEach((edge, index) => {
             let prev =
-              index === 0 ? null : blogPosts[index - 1].node.frontmatter.slug
+              index === 0
+                ? null
+                : `/${blogPosts[index - 1].node.frontmatter.category}/${
+                    blogPosts[index - 1].node.frontmatter.slug
+                  }`
             const next =
               index === blogPosts.length - 1
                 ? null
-                : blogPosts[index + 1].node.frontmatter.slug
+                : `/${blogPosts[index + 1].node.frontmatter.category}/${
+                    blogPosts[index + 1].node.frontmatter.slug
+                  }`
             createPage({
-              path: `/articles/${edge.node.frontmatter.slug}`,
+              path: `/${edge.node.frontmatter.category}/${
+                edge.node.frontmatter.slug
+              }`,
               component: path.resolve(
                 path.join(__dirname, `../src/templates/blog-post.js`)
               ),

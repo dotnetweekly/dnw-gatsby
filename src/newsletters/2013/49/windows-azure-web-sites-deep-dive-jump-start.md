@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2b60
 title: "Windows Azure Web Sites - Deep Dive Jump Start"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/windows-azure-web-sites-deep-dive-jump-start#?fbid=w5_iwLkbZhf'
-category: 5a88e1aebd6dca0d5f0d2b60
+category: events-training
 slug: 'windows-azure-web-sites-deep-dive-jump-start'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

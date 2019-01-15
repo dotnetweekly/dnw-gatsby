@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d203e
 title: "SQLDownUnder- SQL Server and Business Intelligence Training Mentoring"
 url: 'http://sqldownunder.azurewebsites.net/Resources/SDUTools'
-category: 5a88e1abbd6dca0d5f0d203e
+category: articles
 slug: 'sqldownunder-sql-server-and-business-intelligence-training-mentoring'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

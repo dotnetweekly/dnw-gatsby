@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d21c4
 title: "3 Ways to Manage Dependent Classes in the .NET Framework"
 url: 'https://visualstudiomagazine.com/articles/2016/10/01/manage-dependent-classes.aspx'
-category: 5a88e1acbd6dca0d5f0d21c4
+category: articles
 slug: '3-ways-to-manage-dependent-classes-in-the-net-framework'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d26e6
 title: "Securing ASP.NET MVC applications using Windows Azure Active Directory"
 url: 'http://www.dotnetcurry.com/showarticle.aspx?ID=1123'
-category: 5a88e1adbd6dca0d5f0d26e6
+category: articles
 slug: 'securing-asp-net-mvc-applications-using-windows-azure-active-directory'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

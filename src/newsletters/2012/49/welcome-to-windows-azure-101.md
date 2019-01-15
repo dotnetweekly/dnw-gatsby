@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2e28
 title: "Welcome to Windows Azure 101"
 url: 'http://www.meetwindowsazure.com/Azure101#corey-sanders?loc=zbtf_zYFC&prod=zWA&tech=zCL&prog=zOTprog&type=zOTtype&media=zVid'
-category: 5a88e1afbd6dca0d5f0d2e28
+category: videos
 slug: 'welcome-to-windows-azure-101'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

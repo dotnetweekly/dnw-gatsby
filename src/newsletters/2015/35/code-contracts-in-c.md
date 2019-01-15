@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d25d2
 title: "Code Contracts in C#"
 url: 'http://www.dotnetcurry.com/csharp/1172/code-contracts-csharp-static-runtime-checks'
-category: 5a88e1adbd6dca0d5f0d25d2
+category: articles
 slug: 'code-contracts-in-c'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

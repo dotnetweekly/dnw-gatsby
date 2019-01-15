@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1ffc
 title: "Rapid API Development with Azure Functions"
 url: 'http://markheath.net/post/rapid-api-development-with-azure-functions'
-category: 5a88e1abbd6dca0d5f0d1ffc
+category: articles
 slug: 'rapid-api-development-with-azure-functions'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

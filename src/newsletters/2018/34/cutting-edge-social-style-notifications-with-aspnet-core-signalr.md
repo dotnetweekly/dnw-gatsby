@@ -2,7 +2,7 @@
 _id: 5b7e437ee629207ef4f3fe9f
 title: "Cutting Edge - Social-Style Notifications with ASP.NET Core SignalR"
 url: 'https://msdn.microsoft.com/magazine/mt829709'
-category: 5b7e437ee629207ef4f3fe9f
+category: articles
 slug: 'cutting-edge-social-style-notifications-with-aspnet-core-signalr'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

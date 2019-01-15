@@ -2,7 +2,7 @@
 _id: 5b320ea74d8b024251eaa35a
 title: "5 Lessons Learned While Migrating from ASP.NET to ASP.NET Core"
 url: 'https://www.wittysparks.com/5-lessons-learned-while-migrating-from-asp-net-to-asp-net-core/'
-category: 5b320ea74d8b024251eaa35a
+category: articles
 slug: '5-lessons-learned-while-migrating-from-aspnet-to-aspnet-core'
 user_id: 5b320e064d8b021e41eaa359
 username: 'zealousys'

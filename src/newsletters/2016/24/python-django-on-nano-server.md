@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d2308
 title: "Python & Django on Nano Server"
 url: 'https://blogs.technet.microsoft.com/nanoserver/2016/05/17/python-django-on-nano-server/'
-category: 5a88e1acbd6dca0d5f0d2308
+category: articles
 slug: 'python-django-on-nano-server'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

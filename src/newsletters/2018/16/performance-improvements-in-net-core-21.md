@@ -2,7 +2,7 @@
 _id: 5adcc673724957005e0d2a0a
 title: "Performance Improvements in .NET Core 2.1"
 url: 'https://blogs.msdn.microsoft.com/dotnet/2018/04/18/performance-improvements-in-net-core-2-1/'
-category: 5adcc673724957005e0d2a0a
+category: articles
 slug: 'performance-improvements-in-net-core-21'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

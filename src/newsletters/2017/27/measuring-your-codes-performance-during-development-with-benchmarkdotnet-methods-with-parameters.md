@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1e04
 title: "Measuring your code’s performance during development with BenchmarkDotNet - Methods with parameters"
 url: 'https://jeremylindsayni.wordpress.com/2017/06/25/measure-code-performance-during-development-with-benchmarkdotnet-part-2-methods-with-data-transfer-object-parameters/'
-category: 5a88e1abbd6dca0d5f0d1e04
+category: articles
 slug: 'measuring-your-codes-performance-during-development-with-benchmarkdotnet-methods-with-parameters'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

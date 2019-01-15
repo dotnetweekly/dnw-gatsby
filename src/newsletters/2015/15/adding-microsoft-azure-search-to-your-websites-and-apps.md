@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d2704
 title: "Adding Microsoft Azure Search to Your Websites and Apps"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/adding-microsoft-azure-search-to-your-websites-and-apps'
-category: 5a88e1adbd6dca0d5f0d2704
+category: events-training
 slug: 'adding-microsoft-azure-search-to-your-websites-and-apps'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

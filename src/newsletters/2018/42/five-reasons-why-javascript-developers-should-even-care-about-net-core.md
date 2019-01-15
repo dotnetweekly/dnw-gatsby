@@ -2,7 +2,7 @@
 _id: 5bc8496b1ff6e7267787fb26
 title: "Five Reasons Why JavaScript Developers Should EVEN Care About .NET Core"
 url: 'https://channel9.msdn.com/Shows/5-Things/S02-E02-Five-Reasons-Why-JavaScript-Developers-Should-EVEN-Care-About-NET-Core'
-category: 5bc8496b1ff6e7267787fb26
+category: articles
 slug: 'five-reasons-why-javascript-developers-should-even-care-about-net-core'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

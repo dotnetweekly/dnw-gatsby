@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d24bc
 title: "JSON support in SQL Server 2016"
 url: 'https://www.simple-talk.com/sql/learn-sql-server/json-support-in-sql-server-2016'
-category: 5a88e1adbd6dca0d5f0d24bc
+category: articles
 slug: 'json-support-in-sql-server-2016'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

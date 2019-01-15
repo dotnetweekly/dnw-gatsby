@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d2112
 title: "Error Logging Middleware in ASP.NET Core"
 url: 'http://blog.elmah.io/error-logging-middleware-in-aspnetcore/'
-category: 5a88e1acbd6dca0d5f0d2112
+category: articles
 slug: 'error-logging-middleware-in-asp-net-core'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

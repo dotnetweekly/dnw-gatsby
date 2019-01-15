@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2b1a
 title: "HTML5 Threading with Web Workers and Data Storage with IndexedDB"
 url: 'http://msdn.microsoft.com/en-us/magazine/dn423698.aspx'
-category: 5a88e1aebd6dca0d5f0d2b1a
+category: articles
 slug: 'html5-threading-with-web-workers-and-data-storage-with-indexeddb'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

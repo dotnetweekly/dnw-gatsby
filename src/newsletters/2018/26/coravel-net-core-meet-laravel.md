@@ -2,7 +2,7 @@
 _id: 5b30bf474d8b0217c7eaa34b
 title: "Coravel: .Net Core Meet Laravel"
 url: 'https://github.com/jamesmh/coravel'
-category: 5b30bf474d8b0217c7eaa34b
+category: libraries-tools
 slug: 'coravel-net-core-meet-laravel'
 user_id: 5a8a92328b86e53b3449b0ac
 username: 'jamesmh_dev'

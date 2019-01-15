@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d3028
 title: "Meet the New Windows Azure"
 url: 'http://weblogs.asp.net/scottgu/archive/2012/06/07/meet-the-new-windows-azure.aspx'
-category: 5a88e1afbd6dca0d5f0d3028
+category: articles
 slug: 'meet-the-new-windows-azure'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2a72
 title: "Browser Compatibility Testing with Modern.IE Tools"
 url: 'http://rachelappel.com/browser-compatibility-testing-with-modern.ie-tools'
-category: 5a88e1aebd6dca0d5f0d2a72
+category: libraries-tools
 slug: 'browser-compatibility-testing-with-modern-ie-tools'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

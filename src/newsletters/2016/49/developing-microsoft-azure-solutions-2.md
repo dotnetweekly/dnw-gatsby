@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d2136
 title: "Developing Microsoft Azure Solutions"
 url: 'https://www.edx.org/course/developing-microsoft-azure-solutions-microsoft-dev233'
-category: 5a88e1acbd6dca0d5f0d2136
+category: events-training
 slug: 'developing-microsoft-azure-solutions-2'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

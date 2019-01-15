@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2fbe
 title: "Web Standards Update for Visual Studio 2010 SP1"
 url: 'http://blogs.msdn.com/b/webdevtools/archive/2011/06/15/web-standards-update-for-visual-studio-2010-sp1.aspx'
-category: 5a88e1afbd6dca0d5f0d2fbe
+category: libraries-tools
 slug: 'web-standards-update-for-visual-studio-2010-sp1-2'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

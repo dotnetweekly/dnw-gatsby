@@ -2,7 +2,7 @@
 _id: 5b5094ff999737eefdc806ae
 title: "How Unit Testing Improves Code Quality in TDD"
 url: 'https://www.simform.com/unit-testing-tdd'
-category: 5b5094ff999737eefdc806ae
+category: articles
 slug: 'how-unit-testing-improves-code-quality-in-tdd'
 user_id: 5b5093a1999737b56dc806ac
 username: 'dkalpesh'

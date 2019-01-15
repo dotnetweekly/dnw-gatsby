@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2e16
 title: "Building a better .NET Application Configuration Class - revisited"
 url: 'http://www.west-wind.com/weblog/posts/2012/Dec/28/Building-a-better-NET-Application-Configuration-Class-revisited'
-category: 5a88e1afbd6dca0d5f0d2e16
+category: articles
 slug: 'building-a-better-net-application-configuration-class-revisited'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

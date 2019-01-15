@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2bf2
 title: "New Filter Overrides feature in ASP.NET MVC 5 and ASP.NET Web API 2"
 url: 'http://weblogs.asp.net/imranbaloch/archive/2013/09/25/new-filter-overrides-in-asp-net-mvc-5-and-asp-net-web-api-2.aspx'
-category: 5a88e1aebd6dca0d5f0d2bf2
+category: articles
 slug: 'new-filter-overrides-feature-in-asp-net-mvc-5-and-asp-net-web-api-2'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

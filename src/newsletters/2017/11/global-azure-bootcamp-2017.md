@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1fac
 title: "Global Azure Bootcamp 2017"
 url: 'https://global.azurebootcamp.net/'
-category: 5a88e1abbd6dca0d5f0d1fac
+category: events-training
 slug: 'global-azure-bootcamp-2017'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

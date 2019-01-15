@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1e6c
 title: "Manage your open source usage and security as reported by your CI/CD pipeline"
 url: 'https://blogs.msdn.microsoft.com/visualstudioalmrangers/2017/06/08/manage-your-open-source-usage-and-security-as-reported-by-your-cicd-pipeline/'
-category: 5a88e1abbd6dca0d5f0d1e6c
+category: articles
 slug: 'manage-your-open-source-usage-and-security-as-reported-by-your-cicd-pipeline'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

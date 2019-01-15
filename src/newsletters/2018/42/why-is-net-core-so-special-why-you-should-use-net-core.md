@@ -2,7 +2,7 @@
 _id: 5bc807a01ff6e73ffb87fb1f
 title: "Why Is .NET Core So Special? (Why You Should Use .NET Core)"
 url: 'https://www.blog.jamesmichaelhickey.com/What-Makes-NET-Core-So-Special-Why-You-Should-Use-NET-Core/'
-category: 5bc807a01ff6e73ffb87fb1f
+category: articles
 slug: 'why-is-net-core-so-special-why-you-should-use-net-core'
 user_id: 5a8a92328b86e53b3449b0ac
 username: 'jamesmh_dev'

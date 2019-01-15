@@ -2,7 +2,7 @@
 _id: 5b8698fceb7bebbfa889afbf
 title: "Async/Await For The Rest Of Us"
 url: 'https://www.blog.jamesmichaelhickey.com/async-await-for-the-rest-of-us/'
-category: 5b8698fceb7bebbfa889afbf
+category: articles
 slug: 'async-await-for-the-rest-of-us'
 user_id: 5a8a92328b86e53b3449b0ac
 username: 'jamesmh_dev'

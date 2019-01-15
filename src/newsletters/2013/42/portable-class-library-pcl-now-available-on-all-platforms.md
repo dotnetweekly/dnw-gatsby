@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2bc2
 title: "Portable Class Library (PCL) now available on all platforms"
 url: 'http://blogs.msdn.com/b/dotnet/archive/2013/10/14/portable-class-library-pcl-now-available-on-all-platforms.aspx'
-category: 5a88e1aebd6dca0d5f0d2bc2
+category: libraries-tools
 slug: 'portable-class-library-pcl-now-available-on-all-platforms'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

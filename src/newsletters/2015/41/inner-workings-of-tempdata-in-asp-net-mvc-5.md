@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d2560
 title: "Inner-workings of TempData in ASP.NET MVC 5"
 url: 'http://www.codeproject.com/Articles/1037946/Inner-workings-of-TempData-in-ASP-NET-MVC'
-category: 5a88e1adbd6dca0d5f0d2560
+category: articles
 slug: 'inner-workings-of-tempdata-in-asp-net-mvc-5'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

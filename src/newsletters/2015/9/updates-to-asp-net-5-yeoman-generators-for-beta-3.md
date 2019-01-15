@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d2760
 title: "Updates to ASP.NET 5 yeoman generators for beta 3"
 url: 'http://blogs.msdn.com/b/webdev/archive/2015/02/28/asp-net-yeoman-generators-for-beta-3.aspx'
-category: 5a88e1adbd6dca0d5f0d2760
+category: libraries-tools
 slug: 'updates-to-asp-net-5-yeoman-generators-for-beta-3'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2c38
 title: ".NET Universe 2013 Poster"
 url: 'http://www.microsoft.com/en-us/download/details.aspx?id=39952'
-category: 5a88e1aebd6dca0d5f0d2c38
+category: articles
 slug: 'net-universe-2013-poster'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

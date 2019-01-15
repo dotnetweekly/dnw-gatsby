@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2964
 title: "Handling file/folder pickers and the web authentication broker in universal Windows apps"
 url: 'http://blogs.msdn.com/b/microsoft_press/archive/2014/07/28/handling-file-folder-pickers-and-the-web-authentication-broker-in-universal-windows-apps.aspx'
-category: 5a88e1aebd6dca0d5f0d2964
+category: articles
 slug: 'handling-filefolder-pickers-and-the-web-authentication-broker-in-universal-windows-apps'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

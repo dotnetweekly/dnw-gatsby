@@ -2,7 +2,7 @@
 _id: 5b21169e52654a8743c7f0f6
 title: "Type Conversion in .NET"
 url: 'http://codingsight.com/value-conversion-in-net/'
-category: 5b21169e52654a8743c7f0f6
+category: articles
 slug: 'type-conversion-in-net'
 user_id: 5aaa4af315c227023e22fe4b
 username: 'Dandy123'

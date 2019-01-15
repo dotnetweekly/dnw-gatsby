@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d2748
 title: "CodeLens in Visual Studio Online is now in Public Preview for Europe region"
 url: 'http://blogs.msdn.com/b/visualstudioalm/archive/2015/03/11/codelens-in-visual-studio-online-is-now-in-public-preview-for-europe-region.aspx'
-category: 5a88e1adbd6dca0d5f0d2748
+category: libraries-tools
 slug: 'codelens-in-visual-studio-online-is-now-in-public-preview-for-europe-region'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

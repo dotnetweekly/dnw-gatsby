@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d291a
 title: "Using FiddlerCore to capture HTTP Requests with .NET"
 url: 'http://weblog.west-wind.com/posts/2014/Jul/29/Using-FiddlerCore-to-capture-HTTP-Requests-with-NET'
-category: 5a88e1aebd6dca0d5f0d291a
+category: libraries-tools
 slug: 'using-fiddlercore-to-capture-http-requests-with-net'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

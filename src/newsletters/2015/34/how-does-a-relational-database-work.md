@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d25d4
 title: "How does a relational database work"
 url: 'http://coding-geek.com/how-databases-work/'
-category: 5a88e1adbd6dca0d5f0d25d4
+category: articles
 slug: 'how-does-a-relational-database-work'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

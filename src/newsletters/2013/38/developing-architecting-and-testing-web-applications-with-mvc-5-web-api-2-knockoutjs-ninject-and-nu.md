@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2bfa
 title: "Developing, Architecting and Testing Web Applications with MVC 5, Web API 2, KnockoutJS, Ninject and NUnit"
 url: 'http://www.codeproject.com/Articles/653816/Developing-Architecting-and-Testing-Web-Applicatio'
-category: 5a88e1aebd6dca0d5f0d2bfa
+category: articles
 slug: 'developing-architecting-and-testing-web-applications-with-mvc-5-web-api-2-knockoutjs-ninject-and-nu'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

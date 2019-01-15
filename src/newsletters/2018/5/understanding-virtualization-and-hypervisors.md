@@ -2,7 +2,7 @@
 _id: 5a88e1aabd6dca0d5f0d1a96
 title: "Understanding Virtualization and Hypervisors"
 url: 'http://techxposer.com/2018/01/30/understanding-virtualization-hypervisors/'
-category: 5a88e1aabd6dca0d5f0d1a96
+category: articles
 slug: 'understanding-virtualization-and-hypervisors'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

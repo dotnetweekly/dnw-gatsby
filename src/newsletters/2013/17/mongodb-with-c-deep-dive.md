@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2d04
 title: "MongoDB with C#: Deep Dive"
 url: 'http://www.drdobbs.com/windows/mongodb-with-c-deep-dive/240152181'
-category: 5a88e1afbd6dca0d5f0d2d04
+category: articles
 slug: 'mongodb-with-c-deep-dive'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5bc848f41ff6e7826987fb22
 title: "ASP.NET Core - check missing dependencies on startup"
 url: 'https://engineering.gigpin.com/2018-10-08-asp-net-core-check-dependencies/'
-category: 5bc848f41ff6e7826987fb22
+category: articles
 slug: 'aspnet-core-check-missing-dependencies-on-startup'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

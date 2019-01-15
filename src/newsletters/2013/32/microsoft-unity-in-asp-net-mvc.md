@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2c4e
 title: "Microsoft Unity in ASP.NET MVC"
 url: 'http://www.codeproject.com/Articles/631679/Microsoft-Unity-in-ASP-NET-MVC'
-category: 5a88e1aebd6dca0d5f0d2c4e
+category: articles
 slug: 'microsoft-unity-in-asp-net-mvc'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

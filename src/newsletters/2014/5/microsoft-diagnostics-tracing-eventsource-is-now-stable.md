@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2ae4
 title: "Microsoft.Diagnostics.Tracing.EventSource is now stable"
 url: 'http://blogs.msdn.com/b/dotnet/archive/2014/01/30/microsoft-diagnostics-tracing-eventsource-rtms.aspx'
-category: 5a88e1aebd6dca0d5f0d2ae4
+category: libraries-tools
 slug: 'microsoft-diagnostics-tracing-eventsource-is-now-stable'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

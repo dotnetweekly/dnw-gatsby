@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2b56
 title: "Cross-Browser, Coded UI Testing with Visual Studio 2013"
 url: 'http://msdn.microsoft.com/en-us/magazine/dn532204.aspx'
-category: 5a88e1aebd6dca0d5f0d2b56
+category: articles
 slug: 'cross-browser-coded-ui-testing-with-visual-studio-2013'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

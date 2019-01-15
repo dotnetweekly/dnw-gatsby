@@ -2,7 +2,7 @@
 _id: 5a88e1aabd6dca0d5f0d1af4
 title: "LiteDB: Embedded .NET NoSQL Database"
 url: 'https://codeopinion.com/litedb-embedded-net-nosql-database/'
-category: 5a88e1aabd6dca0d5f0d1af4
+category: articles
 slug: 'litedb-embedded-net-nosql-database'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

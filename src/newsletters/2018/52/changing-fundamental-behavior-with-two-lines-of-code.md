@@ -2,7 +2,7 @@
 _id: 5c26268b745cd0cb4e0206bc
 title: "Changing fundamental behavior with two lines of code"
 url: 'https://ayende.com/blog/185634-C/changing-fundamental-behavior-with-two-lines-of-code'
-category: 5c26268b745cd0cb4e0206bc
+category: articles
 slug: 'changing-fundamental-behavior-with-two-lines-of-code'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

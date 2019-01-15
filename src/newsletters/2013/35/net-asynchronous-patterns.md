@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2c30
 title: ".NET Asynchronous Patterns"
 url: 'http://www.codeproject.com/Articles/646239/NET-Asynchronous-Patterns'
-category: 5a88e1aebd6dca0d5f0d2c30
+category: articles
 slug: 'net-asynchronous-patterns'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

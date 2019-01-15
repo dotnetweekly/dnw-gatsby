@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2e6c
 title: "Windows Phone 8 SDK Now Out"
 url: 'http://www.robmiles.com/journal/2012/11/1/windows-phone-8-sdk-now-out.html'
-category: 5a88e1afbd6dca0d5f0d2e6c
+category: articles
 slug: 'windows-phone-8-sdk-now-out'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

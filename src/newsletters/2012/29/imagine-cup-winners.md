@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2faa
 title: "Imagine Cup Winners"
 url: 'http://www.robmiles.com/journal/2012/7/10/imagine-cup-winners.html'
-category: 5a88e1afbd6dca0d5f0d2faa
+category: events-training
 slug: 'imagine-cup-winners'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

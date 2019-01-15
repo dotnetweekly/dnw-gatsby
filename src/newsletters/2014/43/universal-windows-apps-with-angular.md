@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d287e
 title: "Universal Windows Apps with Angular"
 url: 'http://www.palermo4.com/post/Universal-Windows-Apps-with-Angular.aspx'
-category: 5a88e1aebd6dca0d5f0d287e
+category: articles
 slug: 'universal-windows-apps-with-angular'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

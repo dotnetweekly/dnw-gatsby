@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2c80
 title: "Using HTML 5 SessionState to save rendered Page Content"
 url: 'http://www.west-wind.com/weblog/posts/2013/Jul/01/Using-HTML-5-SessionState-to-save-rendered-Page-Content'
-category: 5a88e1afbd6dca0d5f0d2c80
+category: articles
 slug: 'using-html-5-sessionstate-to-save-rendered-page-content'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

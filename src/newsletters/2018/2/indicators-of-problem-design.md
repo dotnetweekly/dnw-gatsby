@@ -2,7 +2,7 @@
 _id: 5a88e1aabd6dca0d5f0d1afa
 title: "Indicators of Problem Design"
 url: 'http://codingsight.com/indicators-of-problem-design/'
-category: 5a88e1aabd6dca0d5f0d1afa
+category: articles
 slug: 'indicators-of-problem-design'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

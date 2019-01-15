@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d22ce
 title: "I’m Giving Away Microsoft eBooks again!"
 url: 'https://blogs.msdn.microsoft.com/mssmallbiz/2016/07/10/free-thats-right-im-giving-away-millions-of-free-microsoft-ebooks-again-including-windows-10-office-365-office-2016-power-bi-azure-windows-8-1-office-2013-sharepoint-2016-sha/'
-category: 5a88e1acbd6dca0d5f0d22ce
+category: books
 slug: 'im-giving-away-microsoft-ebooks-again'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5aa1067681c2b60d3f8c9888
 title: "Deep-dive into .NET Core primitives: deps.json, runtimeconfig.json, and dll's"
 url: 'https://www.natemcmaster.com/blog/2017/12/21/netcore-primitives/'
-category: 5aa1067681c2b60d3f8c9888
+category: articles
 slug: 'deep-dive-into-net-core-primitives-depsjson-runtimeconfigjson-and-dlls'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

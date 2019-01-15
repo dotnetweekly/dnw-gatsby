@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d298a
 title: "ASP.NET vNext and Visual Studio 14 CTP: The Bright Future"
 url: 'http://www.dotnetcurry.com/showarticle.aspx?ID=1025'
-category: 5a88e1aebd6dca0d5f0d298a
+category: articles
 slug: 'asp-net-vnext-and-visual-studio-14-ctp-the-bright-future'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

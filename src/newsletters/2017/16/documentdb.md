@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1f16
 title: "DocumentDB"
 url: 'https://pusher.com/sessions/meetup/dot-net-north/documentdb'
-category: 5a88e1abbd6dca0d5f0d1f16
+category: videos
 slug: 'documentdb'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

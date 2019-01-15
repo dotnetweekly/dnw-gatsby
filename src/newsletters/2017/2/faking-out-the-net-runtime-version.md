@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d2094
 title: "Faking out the .NET Runtime Version"
 url: 'https://weblog.west-wind.com/posts/2017/Jan/09/Faking-out-the-NET-Runtime-Version'
-category: 5a88e1acbd6dca0d5f0d2094
+category: articles
 slug: 'faking-out-the-net-runtime-version'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

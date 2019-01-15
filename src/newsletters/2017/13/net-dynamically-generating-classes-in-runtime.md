@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1f6e
 title: ".NET - Dynamically generating classes in runtime"
 url: 'https://nikolalukovic.com/programming/NET-Dynamically-generating-classes-in-runtime.html'
-category: 5a88e1abbd6dca0d5f0d1f6e
+category: articles
 slug: 'net-dynamically-generating-classes-in-runtime'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

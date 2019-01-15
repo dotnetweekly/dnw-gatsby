@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d2176
 title: "Watch the Microsoft Tech Summit keynote live"
 url: 'https://www.microsoft.com/en-us/techsummit/livestream.aspx'
-category: 5a88e1acbd6dca0d5f0d2176
+category: articles
 slug: 'watch-the-microsoft-tech-summit-keynote-live'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

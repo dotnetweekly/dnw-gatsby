@@ -2,7 +2,7 @@
 _id: 5a88e1aabd6dca0d5f0d1bec
 title: "Using ASP.NET ModelState With Vue.js"
 url: 'https://daveaglick.com/posts/using-aspnet-modelstate-with-vuejs'
-category: 5a88e1aabd6dca0d5f0d1bec
+category: articles
 slug: 'using-asp-net-modelstate-with-vue-js'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

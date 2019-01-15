@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2896
 title: "Docker and Microsoft: Integrating Docker with Windows Server and Microsoft Azure"
 url: 'http://weblogs.asp.net/scottgu/docker-and-microsoft-integrating-docker-with-windows-server-and-microsoft-azure'
-category: 5a88e1aebd6dca0d5f0d2896
+category: libraries-tools
 slug: 'docker-and-microsoft-integrating-docker-with-windows-server-and-microsoft-azure'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

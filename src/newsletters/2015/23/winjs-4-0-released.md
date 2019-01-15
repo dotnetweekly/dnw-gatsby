@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d267a
 title: "WinJS 4.0 Released"
 url: 'http://blogs.windows.com/buildingapps/2015/06/08/winjs-4-0-released/'
-category: 5a88e1adbd6dca0d5f0d267a
+category: libraries-tools
 slug: 'winjs-4-0-released'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

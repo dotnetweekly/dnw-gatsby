@@ -2,7 +2,7 @@
 _id: 5c1aff5a745cd089d102069b
 title: "Is ASP.NET Core now a Mature Platform?"
 url: 'https://rehansaeed.com/is-asp-net-core-now-a-mature-platform/'
-category: 5c1aff5a745cd089d102069b
+category: articles
 slug: 'is-aspnet-core-now-a-mature-platform'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

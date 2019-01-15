@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2a28
 title: "Building universal Windows apps for all Windows devices"
 url: 'http://msdn.microsoft.com/en-US/windows/dn642498'
-category: 5a88e1aebd6dca0d5f0d2a28
+category: articles
 slug: 'building-universal-windows-apps-for-all-windows-devices'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

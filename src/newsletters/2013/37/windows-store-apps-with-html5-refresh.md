@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2c06
 title: "Windows Store Apps with HTML5 Refresh"
 url: 'http://channel9.msdn.com/Series/html5refresh'
-category: 5a88e1aebd6dca0d5f0d2c06
+category: videos
 slug: 'windows-store-apps-with-html5-refresh'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

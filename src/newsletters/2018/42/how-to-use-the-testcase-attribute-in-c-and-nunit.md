@@ -2,7 +2,7 @@
 _id: 5bc64ec18ef64d1ceec87417
 title: "How to use the TestCase attribute in C# and NUnit"
 url: 'https://aang.uk/2IZ57wt'
-category: 5bc64ec18ef64d1ceec87417
+category: videos
 slug: 'how-to-use-the-testcase-attribute-in-c-and-nunit'
 user_id: 5a8a92348b86e53b3449b47a
 username: 'andrea.angella'

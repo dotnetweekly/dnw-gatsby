@@ -2,7 +2,7 @@
 _id: 5a94c90ebc881b6c26f018e0
 title: "We're doing pagination wrong"
 url: 'http://theburningmonk.com/2018/02/guys-were-doing-pagination-wrong/'
-category: 5a94c90ebc881b6c26f018e0
+category: articles
 slug: 'were-doing-pagination-wrong'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

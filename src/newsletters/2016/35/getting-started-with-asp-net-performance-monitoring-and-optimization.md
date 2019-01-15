@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d2246
 title: "Getting Started with ASP.Net Performance Monitoring and Optimization"
 url: 'https://www.infoq.com/articles/dotnet-performance-monitoring-optimization'
-category: 5a88e1acbd6dca0d5f0d2246
+category: libraries-tools
 slug: 'getting-started-with-asp-net-performance-monitoring-and-optimization'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

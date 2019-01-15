@@ -2,7 +2,7 @@
 _id: 5a9e15c269f83ea1390e87cd
 title: "Scalable and Performant ASP.NET Core Web APIs: Filtering and Searching"
 url: 'https://www.carlrippon.com/scalable-and-performant-asp-net-core-web-apis-filtering-and-searching/'
-category: 5a9e15c269f83ea1390e87cd
+category: articles
 slug: 'scalable-and-performant-aspnet-core-web-apis-filtering-and-searching'
 user_id: 5a9e151169f83ea1390e87cb
 username: 'dnwuBkFzB5iuz'

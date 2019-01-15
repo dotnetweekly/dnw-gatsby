@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d2638
 title: "Hey Azure, how's my Cloud Service doing?"
 url: 'http://geekswithblogs.net/EltonStoneman/archive/2015/07/03/hey-azure-hows-my-cloud-service-doing.aspx'
-category: 5a88e1adbd6dca0d5f0d2638
+category: articles
 slug: 'hey-azure-hows-my-cloud-service-doing'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

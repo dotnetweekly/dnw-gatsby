@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d2490
 title: "ARE YOU READY FOR JANUARY 12?"
 url: 'https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support'
-category: 5a88e1adbd6dca0d5f0d2490
+category: articles
 slug: 'are-you-ready-for-january-12'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

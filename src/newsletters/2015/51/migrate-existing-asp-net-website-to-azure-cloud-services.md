@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d24b4
 title: "Migrate Existing ASP.NET Website to Azure Cloud Services"
 url: 'http://blogs.msdn.com/b/mikerichter/archive/2015/12/10/existing-asp-net-website-and-azure-cloud-service.aspx'
-category: 5a88e1adbd6dca0d5f0d24b4
+category: articles
 slug: 'migrate-existing-asp-net-website-to-azure-cloud-services'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

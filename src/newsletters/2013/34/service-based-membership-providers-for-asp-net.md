@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2c42
 title: "Service Based Membership Providers for ASP.NET"
 url: 'http://www.codeproject.com/Articles/633962/Service-Based-Membership-Providers-for-ASP-NET'
-category: 5a88e1aebd6dca0d5f0d2c42
+category: articles
 slug: 'service-based-membership-providers-for-asp-net'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

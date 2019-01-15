@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d2324
 title: "Learn from other IT pros running apps in the cloud"
 url: 'https://info.microsoft.com/CO-Azure-CNTNT-FY16-04Apr-01-eBook-MigratingManagingAndMore.html'
-category: 5a88e1acbd6dca0d5f0d2324
+category: books
 slug: 'learn-from-other-it-pros-running-apps-in-the-cloud'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

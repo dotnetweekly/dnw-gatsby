@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d287c
 title: "Cloud-based Load Testing REST APIs are here"
 url: 'http://blogs.msdn.com/b/visualstudioalm/archive/2014/11/03/cloud-load-testing-rest-apis-are-here.aspx'
-category: 5a88e1aebd6dca0d5f0d287c
+category: articles
 slug: 'cloud-based-load-testing-rest-apis-are-here'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

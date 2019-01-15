@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d2442
 title: "Dynamic code generation in C#"
 url: 'https://ayende.com/blog/173185/dynamic-code-generation-in-c'
-category: 5a88e1acbd6dca0d5f0d2442
+category: articles
 slug: 'dynamic-code-generation-in-c'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

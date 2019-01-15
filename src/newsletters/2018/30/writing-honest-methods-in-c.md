@@ -2,7 +2,7 @@
 _id: 5b58a7f113da0b9834d112f2
 title: "Writing Honest Methods in C#"
 url: 'http://www.dotnetcurry.com/patterns-practices/1449/pure-impure-methods-csharp'
-category: 5b58a7f113da0b9834d112f2
+category: articles
 slug: 'writing-honest-methods-in-c'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

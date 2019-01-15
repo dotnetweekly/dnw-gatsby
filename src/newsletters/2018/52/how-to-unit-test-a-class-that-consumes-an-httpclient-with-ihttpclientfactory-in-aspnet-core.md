@@ -2,7 +2,7 @@
 _id: 5c262660745cd015010206bb
 title: "How to unit test a class that consumes an HttpClient with IHttpClientFactory in ASP.NET Core?"
 url: 'http://anthonygiretti.com/2018/09/06/how-to-unit-test-a-class-that-consumes-an-httpclient-with-ihttpclientfactory-in-asp-net-core/'
-category: 5c262660745cd015010206bb
+category: articles
 slug: 'how-to-unit-test-a-class-that-consumes-an-httpclient-with-ihttpclientfactory-in-aspnet-core'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

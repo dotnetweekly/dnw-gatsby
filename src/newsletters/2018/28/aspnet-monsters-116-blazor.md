@@ -2,7 +2,7 @@
 _id: 5b4ade4ad9e4dc8535970450
 title: "ASP.NET Monsters #116: Blazor"
 url: 'https://www.youtube.com/watch?v=VnTg5xiz5K8'
-category: 5b4ade4ad9e4dc8535970450
+category: videos
 slug: 'aspnet-monsters-116-blazor'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

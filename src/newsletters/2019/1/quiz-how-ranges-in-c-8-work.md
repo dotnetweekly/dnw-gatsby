@@ -2,7 +2,7 @@
 _id: 5c2ff4154acc32579b2fe4b5
 title: "Quiz - How Ranges in C# 8 work"
 url: 'https://www.productivecsharp.com/2019/01/quiz-ranges-csharp-8/'
-category: 5c2ff4154acc32579b2fe4b5
+category: articles
 slug: 'quiz-how-ranges-in-c-8-work'
 user_id: 5a8a92348b86e53b3449b47a
 username: 'andrea.angella'

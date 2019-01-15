@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2ebc
 title: "WOWZAPP 2012: The Worldwide Hackathon for Windows"
 url: 'http://blogs.msdn.com/b/andrewparsons/archive/2012/10/03/wowzapp-2012-the-worldwide-hackathon-for-windows.aspx'
-category: 5a88e1afbd6dca0d5f0d2ebc
+category: events-training
 slug: 'wowzapp-2012-the-worldwide-hackathon-for-windows'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

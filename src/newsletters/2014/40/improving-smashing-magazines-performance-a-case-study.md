@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d28c6
 title: "Improving Smashing Magazine’s Performance: A Case Study"
 url: 'http://www.smashingmagazine.com/2014/09/08/improving-smashing-magazine-performance-case-study/'
-category: 5a88e1aebd6dca0d5f0d28c6
+category: articles
 slug: 'improving-smashing-magazines-performance-a-case-study'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

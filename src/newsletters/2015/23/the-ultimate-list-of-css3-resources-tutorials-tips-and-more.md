@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d2676
 title: "The Ultimate list of CSS3 Resources, Tutorials, Tips and More"
 url: 'http://www.simplilearn.com/css3-resources-ultimate-list-article?SSAID=314743'
-category: 5a88e1adbd6dca0d5f0d2676
+category: articles
 slug: 'the-ultimate-list-of-css3-resources-tutorials-tips-and-more'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

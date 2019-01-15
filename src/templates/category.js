@@ -30,7 +30,7 @@ class App extends React.Component {
           return (
             <div className="link" key={`link-${i}`}>
               <h2 className="title is-3">
-                <Link to={`/articles/${frontmatter.slug}`}>
+                <Link to={`/${frontmatter.category}/${frontmatter.slug}`}>
                   {frontmatter.title}
                 </Link>
               </h2>

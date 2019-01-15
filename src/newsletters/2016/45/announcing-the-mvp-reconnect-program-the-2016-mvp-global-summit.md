@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d2186
 title: "Announcing The MVP Reconnect Program & The 2016 MVP Global Summit"
 url: 'https://blogs.msdn.microsoft.com/stevengu/2016/11/03/announcing-the-mvp-reconnect-program-the-2016-mvp-global-summit/'
-category: 5a88e1acbd6dca0d5f0d2186
+category: events-training
 slug: 'announcing-the-mvp-reconnect-program-the-2016-mvp-global-summit'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

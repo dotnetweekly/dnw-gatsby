@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d29d8
 title: "Bring Your Best Unity Games to the Windows Store for a Chance to Win up to US$50,000 "
 url: 'http://unity3d.com/contest/windows'
-category: 5a88e1aebd6dca0d5f0d29d8
+category: events-training
 slug: 'bring-your-best-unity-games-to-the-windows-store-for-a-chance-to-win-up-to-us50000'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

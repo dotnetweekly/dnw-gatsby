@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d21d4
 title: "Microsoft Ignite | Day 1"
 url: 'https://ignite.microsoft.com/#fbid=3TwNZPDNOoe'
-category: 5a88e1acbd6dca0d5f0d21d4
+category: events-training
 slug: 'microsoft-ignite-day-1'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

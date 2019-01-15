@@ -2,7 +2,7 @@
 _id: 5bd4969c1428e60f2e94dab8
 title: "Top Stories from the Microsoft DevOps Community"
 url: 'https://blogs.msdn.microsoft.com/devops/2018/10/26/top-stories-from-the-microsoft-devops-community-2018-10-26/'
-category: 5bd4969c1428e60f2e94dab8
+category: articles
 slug: 'top-stories-from-the-microsoft-devops-community'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

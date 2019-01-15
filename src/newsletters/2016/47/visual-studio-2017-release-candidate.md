@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d216a
 title: "Visual Studio 2017 Release Candidate"
 url: 'https://www.visualstudio.com/vs/visual-studio-2017-rc/'
-category: 5a88e1acbd6dca0d5f0d216a
+category: articles
 slug: 'visual-studio-2017-release-candidate'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

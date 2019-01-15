@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1efc
 title: "Contributing to .NET for Dummies"
 url: 'http://rion.io/2017/04/28/contributing-to-net-for-dummies/'
-category: 5a88e1abbd6dca0d5f0d1efc
+category: articles
 slug: 'contributing-to-net-for-dummies'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

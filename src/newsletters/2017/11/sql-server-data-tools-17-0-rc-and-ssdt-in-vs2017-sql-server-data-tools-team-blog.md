@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1f9c
 title: "SQL Server Data Tools 17.0 RC, and SSDT in VS2017 | SQL Server Data Tools Team Blog"
 url: 'https://blogs.msdn.microsoft.com/ssdt/2017/03/10/sql-server-data-tools-17-0-rc-and-ssdt-in-vs2017/'
-category: 5a88e1abbd6dca0d5f0d1f9c
+category: libraries-tools
 slug: 'sql-server-data-tools-17-0-rc-and-ssdt-in-vs2017-sql-server-data-tools-team-blog'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

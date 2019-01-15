@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2da2
 title: "Microsoft DevRadio: (Part 9) Practical Azure with Jim O’Neil – Windows Azure Web Sites"
 url: 'http://channel9.msdn.com/Blogs/DevRadio/Microsoft-DevRadio-Part-9-Practical-Azure-with-Jim-ONeil--Windows-Azure-Web-Sites'
-category: 5a88e1afbd6dca0d5f0d2da2
+category: videos
 slug: 'microsoft-devradio-part-9-practical-azure-with-jim-oneil-windows-azure-web-sites'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

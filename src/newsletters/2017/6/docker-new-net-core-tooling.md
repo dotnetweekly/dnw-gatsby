@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d202c
 title: "Docker - New .NET Core tooling"
 url: 'https://channel9.msdn.com/Shows/On-NET/Docker-New-NET-Core-tooling'
-category: 5a88e1abbd6dca0d5f0d202c
+category: videos
 slug: 'docker-new-net-core-tooling'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

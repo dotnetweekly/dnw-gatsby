@@ -2,7 +2,7 @@
 _id: 5b7b7afde62920b21df3fe92
 title: "Timsort — the fastest sorting algorithm you’ve never heard of"
 url: 'https://hackernoon.com/timsort-the-fastest-sorting-algorithm-youve-never-heard-of-36b28417f399'
-category: 5b7b7afde62920b21df3fe92
+category: articles
 slug: 'timsort-the-fastest-sorting-algorithm-youve-never-heard-of'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

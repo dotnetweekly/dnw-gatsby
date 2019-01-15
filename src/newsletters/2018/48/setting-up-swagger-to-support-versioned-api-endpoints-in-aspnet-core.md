@@ -2,7 +2,7 @@
 _id: 5bfd19c8d9a593515bf70e5a
 title: "Setting up Swagger to support versioned API endpoints in ASP.NET Core"
 url: 'https://dejanstojanovic.net/aspnet/2018/november/setting-up-swagger-to-support-versioned-api-endpoints-in-aspnet-core/'
-category: 5bfd19c8d9a593515bf70e5a
+category: articles
 slug: 'setting-up-swagger-to-support-versioned-api-endpoints-in-aspnet-core'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

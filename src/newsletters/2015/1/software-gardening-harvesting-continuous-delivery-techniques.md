@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d27e4
 title: "Software Gardening: Harvesting (Continuous Delivery Techniques) "
 url: 'http://www.dotnetcurry.com/showarticle.aspx?ID=1065'
-category: 5a88e1adbd6dca0d5f0d27e4
+category: articles
 slug: 'software-gardening-harvesting-continuous-delivery-techniques'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d2106
 title: "An Overview of Client-Side Storage"
 url: 'https://bitsofco.de/an-overview-of-client-side-storage/'
-category: 5a88e1acbd6dca0d5f0d2106
+category: articles
 slug: 'an-overview-of-client-side-storage'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

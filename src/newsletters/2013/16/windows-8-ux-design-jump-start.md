@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2d10
 title: "Windows 8 UX Design Jump Start"
 url: 'https://www.microsoftvirtualacademy.com/liveevents/ux-for-windows-apps?CR_CC=200206309'
-category: 5a88e1afbd6dca0d5f0d2d10
+category: events-training
 slug: 'windows-8-ux-design-jump-start'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

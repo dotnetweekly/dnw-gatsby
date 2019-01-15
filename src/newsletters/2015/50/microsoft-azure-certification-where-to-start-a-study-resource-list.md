@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d24d0
 title: "Microsoft Azure Certification: Where to Start? A Study Resource List"
 url: 'http://buildazure.com/2015/12/09/microsoft-azure-certification-where-to-start/'
-category: 5a88e1adbd6dca0d5f0d24d0
+category: articles
 slug: 'microsoft-azure-certification-where-to-start-a-study-resource-list'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

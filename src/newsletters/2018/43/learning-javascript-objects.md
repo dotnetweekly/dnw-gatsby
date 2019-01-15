@@ -2,7 +2,7 @@
 _id: 5bd4986d1428e6216794dabd
 title: "Learning JavaScript objects"
 url: 'http://exploringjs.com/impatient-js/ch_single-objects.html'
-category: 5bd4986d1428e6216794dabd
+category: articles
 slug: 'learning-javascript-objects'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

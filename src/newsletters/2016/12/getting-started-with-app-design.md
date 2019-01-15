@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d23da
 title: "Getting started with app design"
 url: 'https://blogs.windows.com/buildingapps/2016/03/15/getting-started-with-app-design/'
-category: 5a88e1acbd6dca0d5f0d23da
+category: articles
 slug: 'getting-started-with-app-design'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

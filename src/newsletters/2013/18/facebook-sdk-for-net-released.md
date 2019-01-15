@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2ce6
 title: "Facebook SDK for .NET Released"
 url: 'http://visualstudiomagazine.com/blogs/onward-and-upward/2013/04/facebook-sdk-for-net-released.aspx'
-category: 5a88e1afbd6dca0d5f0d2ce6
+category: libraries-tools
 slug: 'facebook-sdk-for-net-released'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

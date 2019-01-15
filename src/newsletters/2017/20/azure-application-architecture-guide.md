@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1ee4
 title: "Azure Application Architecture Guide"
 url: 'https://docs.microsoft.com/en-us/azure/architecture/guide/'
-category: 5a88e1abbd6dca0d5f0d1ee4
+category: articles
 slug: 'azure-application-architecture-guide'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

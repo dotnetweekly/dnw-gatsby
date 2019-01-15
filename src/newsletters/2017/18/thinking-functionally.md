@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1eec
 title: "Thinking Functionally"
 url: 'https://pusher.com/sessions/meetup/dot-net-north/thinking-functionally'
-category: 5a88e1abbd6dca0d5f0d1eec
+category: videos
 slug: 'thinking-functionally'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

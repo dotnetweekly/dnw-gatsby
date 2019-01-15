@@ -2,7 +2,7 @@
 _id: 5b84cafeeb7beb230589afb5
 title: "How to extract a data-rich service from a monolith"
 url: 'https://martinfowler.com/articles/extract-data-rich-service.html'
-category: 5b84cafeeb7beb230589afb5
+category: articles
 slug: 'how-to-extract-a-data-rich-service-from-a-monolith'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

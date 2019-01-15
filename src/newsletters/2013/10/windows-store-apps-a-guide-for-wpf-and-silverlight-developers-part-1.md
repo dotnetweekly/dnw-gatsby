@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2d82
 title: "Windows Store Apps: A Guide for WPF and Silverlight Developers, Part 1"
 url: 'http://msdn.microsoft.com/en-us/magazine/jj984633.aspx'
-category: 5a88e1afbd6dca0d5f0d2d82
+category: articles
 slug: 'windows-store-apps-a-guide-for-wpf-and-silverlight-developers-part-1'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

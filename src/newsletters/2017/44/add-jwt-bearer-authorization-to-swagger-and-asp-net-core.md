@@ -2,7 +2,7 @@
 _id: 5a88e1aabd6dca0d5f0d1c1c
 title: "Add JWT Bearer Authorization to Swagger and ASP.NET Core"
 url: 'https://ppolyzos.com/2017/10/30/add-jwt-bearer-authorization-to-swagger-and-asp-net-core/'
-category: 5a88e1aabd6dca0d5f0d1c1c
+category: articles
 slug: 'add-jwt-bearer-authorization-to-swagger-and-asp-net-core'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

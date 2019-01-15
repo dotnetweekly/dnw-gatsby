@@ -2,7 +2,7 @@
 _id: 5bb26460af8d5ecde3ca6244
 title: "Customizing ASP.​NET Core Part 03: Dependency Injection"
 url: 'https://asp.net-hacker.rocks/2018/09/27/customizing-aspnetcore-03-dependency-injection.html'
-category: 5bb26460af8d5ecde3ca6244
+category: articles
 slug: 'customizing-aspnet-core-part-03-dependency-injection'
 user_id: 5ba9d7efaf8d5ee8f0ca6221
 username: 'JuergenGutsch'

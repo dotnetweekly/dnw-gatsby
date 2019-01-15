@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d26d6
 title: "Microsoft Edge is the browser for Windows 10"
 url: 'http://blogs.msdn.com/b/ie/archive/2015/04/29/microsoft-edge-is-the-browser-for-windows-10.aspx'
-category: 5a88e1adbd6dca0d5f0d26d6
+category: articles
 slug: 'microsoft-edge-is-the-browser-for-windows-10'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

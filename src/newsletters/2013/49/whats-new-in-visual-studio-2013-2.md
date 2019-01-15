@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2b58
 title: "What’s New in Visual Studio 2013"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/what-s-new-in-visual-studio-2013#?fbid=RfHc7HWJo2b'
-category: 5a88e1aebd6dca0d5f0d2b58
+category: events-training
 slug: 'whats-new-in-visual-studio-2013-2'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5afa6187416efa8184328cca
 title: "Is GraphQL The Future?"
 url: 'http://artsy.github.io/blog/2018/05/08/is-graphql-the-future/'
-category: 5afa6187416efa8184328cca
+category: articles
 slug: 'is-graphql-the-future'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

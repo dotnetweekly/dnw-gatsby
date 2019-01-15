@@ -2,7 +2,7 @@
 _id: 5a8bdf833b936a002a308a23
 title: "Unit Testing with the HttpClient"
 url: 'https://codedaze.io/unit-testing-with-httpclient/'
-category: 5a8bdf833b936a002a308a23
+category: articles
 slug: 'unit-testing-with-the-httpclient'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

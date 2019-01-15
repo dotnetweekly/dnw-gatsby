@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d2686
 title: "Testing in Continuous Integration and Continuous Deployment Workflows"
 url: 'http://blogs.msdn.com/b/visualstudioalm/archive/2015/05/29/testing-in-continuous-integration-and-continuous-deployment-workflows.aspx'
-category: 5a88e1adbd6dca0d5f0d2686
+category: articles
 slug: 'testing-in-continuous-integration-and-continuous-deployment-workflows'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

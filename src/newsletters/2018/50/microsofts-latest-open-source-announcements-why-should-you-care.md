@@ -2,7 +2,7 @@
 _id: 5c0e7e7df2d679a3476aa788
 title: "Microsoft’s Latest Open Source Announcements: Why Should You Care?"
 url: 'https://www.telerik.com/blogs/microsofts-latest-open-source-announcements-why-should-you-care'
-category: 5c0e7e7df2d679a3476aa788
+category: articles
 slug: 'microsofts-latest-open-source-announcements-why-should-you-care'
 user_id: 5afa9e1a416efa64fa328ccd
 username: 'elmira_dam'

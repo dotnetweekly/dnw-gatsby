@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2b9a
 title: "MVC using Web API and JQuery to GET or POST Data"
 url: 'http://www.codeproject.com/Tips/678138/MVC-using-Web-API-and-JQuery-to-GET-or-POST-Data'
-category: 5a88e1aebd6dca0d5f0d2b9a
+category: articles
 slug: 'mvc-using-web-api-and-jquery-to-get-or-post-data'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

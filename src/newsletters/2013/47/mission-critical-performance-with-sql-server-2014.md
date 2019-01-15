@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2b74
 title: "Mission Critical Performance with SQL Server 2014"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/mission-critical-performance-with-sql-server-2014#?fbid=q7_CbY_Cicv'
-category: 5a88e1aebd6dca0d5f0d2b74
+category: events-training
 slug: 'mission-critical-performance-with-sql-server-2014'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

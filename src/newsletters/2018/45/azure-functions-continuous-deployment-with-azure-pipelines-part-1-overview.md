@@ -2,7 +2,7 @@
 _id: 5be5344327cd235c7e5935f2
 title: "Azure Functions Continuous Deployment with Azure Pipelines: Part 1 - Overview"
 url: 'http://dontcodetired.com/blog/post/Azure-Functions-Continuous-Deployment-with-Azure-Pipelines-Part-1-Overview'
-category: 5be5344327cd235c7e5935f2
+category: articles
 slug: 'azure-functions-continuous-deployment-with-azure-pipelines-part-1-overview'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

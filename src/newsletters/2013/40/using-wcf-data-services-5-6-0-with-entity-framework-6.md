@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2bdc
 title: "Using WCF Data Services 5.6.0 with Entity Framework 6+"
 url: 'http://blogs.msdn.com/b/astoriateam/archive/2013/10/02/using-wcf-data-services-5-6-0-with-entity-framework-6.aspx'
-category: 5a88e1aebd6dca0d5f0d2bdc
+category: libraries-tools
 slug: 'using-wcf-data-services-5-6-0-with-entity-framework-6'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

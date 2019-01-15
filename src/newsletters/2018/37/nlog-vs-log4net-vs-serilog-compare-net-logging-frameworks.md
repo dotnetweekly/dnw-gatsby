@@ -2,7 +2,7 @@
 _id: 5b97441d1f9f2ed816857abc
 title: "NLog vs log4net vs Serilog: Compare .NET Logging Frameworks"
 url: 'https://stackify.com/nlog-vs-log4net-vs-serilog/'
-category: 5b97441d1f9f2ed816857abc
+category: articles
 slug: 'nlog-vs-log4net-vs-serilog-compare-net-logging-frameworks'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

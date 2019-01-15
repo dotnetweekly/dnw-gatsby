@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d2482
 title: "Save 40% on exam prep books & eBooks"
 url: 'https://www.microsoftpressstore.com/promotions/save-up-to-55-on-exam-prep-books-ebooks-141071?'
-category: 5a88e1adbd6dca0d5f0d2482
+category: books
 slug: 'save-40-on-exam-prep-books-ebooks'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

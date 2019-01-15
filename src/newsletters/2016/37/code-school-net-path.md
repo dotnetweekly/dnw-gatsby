@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d2214
 title: "Code School .NET Path"
 url: 'https://www.codeschool.com/learn/net/'
-category: 5a88e1acbd6dca0d5f0d2214
+category: videos
 slug: 'code-school-net-path'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

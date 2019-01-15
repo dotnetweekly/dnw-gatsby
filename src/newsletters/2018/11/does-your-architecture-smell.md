@@ -2,7 +2,7 @@
 _id: 5aa50192c842a8005e8978f7
 title: "Does your architecture smell?"
 url: 'http://www.designite-tools.com/designite/does-your-architecture-smell/'
-category: 5aa50192c842a8005e8978f7
+category: articles
 slug: 'does-your-architecture-smell'
 user_id: 5aa500edc842a8005e8978f5
 username: 'tushar'

@@ -2,7 +2,7 @@
 _id: 5a88e1aabd6dca0d5f0d1aae
 title: "Simplest WCF REST Web Service"
 url: 'https://blogs.msdn.microsoft.com/sergeim/2018/01/25/simplest-wcf-rest-web-service/'
-category: 5a88e1aabd6dca0d5f0d1aae
+category: articles
 slug: 'simplest-wcf-rest-web-service'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

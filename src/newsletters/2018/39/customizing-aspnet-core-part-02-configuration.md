@@ -2,7 +2,7 @@
 _id: 5ba9d9a2af8d5e6a0aca6224
 title: "Customizing ASP.​NET Core Part 02: Configuration"
 url: 'https://asp.net-hacker.rocks/2018/09/24/customizing-aspnetcore-02-configuration.html'
-category: 5ba9d9a2af8d5e6a0aca6224
+category: articles
 slug: 'customizing-aspnet-core-part-02-configuration'
 user_id: 5ba9d7efaf8d5ee8f0ca6221
 username: 'JuergenGutsch'

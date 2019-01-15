@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2948
 title: "Announcing new Web Features in Visual Studio 2013 Update 3 RTM"
 url: 'http://blogs.msdn.com/b/webdev/archive/2014/08/04/announcing-new-web-features-in-visual-studio-2013-update-3-rtm.aspx'
-category: 5a88e1aebd6dca0d5f0d2948
+category: articles
 slug: 'announcing-new-web-features-in-visual-studio-2013-update-3-rtm'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

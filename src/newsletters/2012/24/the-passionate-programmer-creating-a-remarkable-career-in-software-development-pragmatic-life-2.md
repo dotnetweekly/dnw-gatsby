@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d300c
 title: "The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life)"
 url: 'http://www.amazon.com/The-Passionate-Programmer-Remarkable-Development/dp/1934356344'
-category: 5a88e1afbd6dca0d5f0d300c
+category: books
 slug: 'the-passionate-programmer-creating-a-remarkable-career-in-software-development-pragmatic-life-2'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

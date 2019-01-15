@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2970
 title: "ASP.NET MVC 5 Identity: Extending and Modifying Roles"
 url: 'http://www.codeproject.com/Articles/727054/ASP-NET-MVC-Identity-Extending-and-Modifying-R'
-category: 5a88e1aebd6dca0d5f0d2970
+category: articles
 slug: 'asp-net-mvc-5-identity-extending-and-modifying-roles'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

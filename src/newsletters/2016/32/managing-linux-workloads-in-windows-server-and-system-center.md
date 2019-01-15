@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d227a
 title: "Managing Linux Workloads in Windows Server and System Center"
 url: 'https://mva.microsoft.com/en-US/training-courses/managing-linux-workloads-in-windows-server-and-system-center-8764?l=Pxb5jsx1_6504984382'
-category: 5a88e1acbd6dca0d5f0d227a
+category: videos
 slug: 'managing-linux-workloads-in-windows-server-and-system-center'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

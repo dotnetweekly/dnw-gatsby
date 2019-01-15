@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1e62
 title: "WebAssembly 101: a developer's first steps"
 url: 'http://blog.openbloc.fr/webassembly-first-steps/'
-category: 5a88e1abbd6dca0d5f0d1e62
+category: libraries-tools
 slug: 'webassembly-101-a-developers-first-steps'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

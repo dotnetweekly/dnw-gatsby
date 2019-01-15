@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2aa6
 title: "New UI and capabilities for Windows Phone App Studio Beta developers"
 url: 'http://blogs.windows.com/windows_phone/b/wpdev/archive/2014/02/20/new-ui-and-capabilities-for-windows-phone-app-studio-beta-developers.aspx'
-category: 5a88e1aebd6dca0d5f0d2aa6
+category: libraries-tools
 slug: 'new-ui-and-capabilities-for-windows-phone-app-studio-beta-developers'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

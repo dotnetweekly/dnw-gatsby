@@ -2,7 +2,7 @@
 _id: 5b3192014d8b02a837eaa354
 title: ".NET Microservices Architecture e-book"
 url: 'https://www.microsoft.com/net/download/thank-you/microservices-architecture-ebook'
-category: 5b3192014d8b02a837eaa354
+category: books
 slug: 'net-microservices-architecture-e-book'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

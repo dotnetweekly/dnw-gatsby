@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d2162
 title: "Announcing the new Visual Studio for Mac"
 url: 'https://blogs.msdn.microsoft.com/visualstudio/2016/11/16/visual-studio-for-mac/'
-category: 5a88e1acbd6dca0d5f0d2162
+category: libraries-tools
 slug: 'announcing-the-new-visual-studio-for-mac'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d211e
 title: "Xamarin Test Cloud Announcements at Microsoft Connect();"
 url: 'https://blog.xamarin.com/xamarin-test-cloud-announcements-at-microsoft-connect/'
-category: 5a88e1acbd6dca0d5f0d211e
+category: libraries-tools
 slug: 'xamarin-test-cloud-announcements-at-microsoft-connect'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

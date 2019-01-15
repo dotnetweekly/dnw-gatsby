@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d2716
 title: "Call for Speakers is Now Open!"
 url: 'https://www.thatconference.com/'
-category: 5a88e1adbd6dca0d5f0d2716
+category: events-training
 slug: 'call-for-speakers-is-now-open'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

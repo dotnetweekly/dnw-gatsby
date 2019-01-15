@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d26c4
 title: "Using ASP.NET 5 and EF7 with Modern Web Dev Tools like AngularJS and Grunt"
 url: 'http://www.dotnetcurry.com/showarticle.aspx?ID=1128'
-category: 5a88e1adbd6dca0d5f0d26c4
+category: articles
 slug: 'using-asp-net-5-and-ef7-with-modern-web-dev-tools-like-angularjs-and-grunt'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

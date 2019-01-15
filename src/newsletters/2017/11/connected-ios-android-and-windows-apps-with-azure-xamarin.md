@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1fae
 title: "Connected iOS, Android, and Windows apps with Azure & Xamarin"
 url: 'https://launch.visualstudio.com/connected-ios-android-windows-apps-azure-xamarin/'
-category: 5a88e1abbd6dca0d5f0d1fae
+category: videos
 slug: 'connected-ios-android-and-windows-apps-with-azure-xamarin'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

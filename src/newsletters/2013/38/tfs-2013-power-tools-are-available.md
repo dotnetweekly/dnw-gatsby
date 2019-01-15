@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2bfc
 title: "TFS 2013 Power Tools are available"
 url: 'http://blogs.msdn.com/b/bharry/archive/2013/09/22/tfs-2013-power-tools-are-available.aspx'
-category: 5a88e1aebd6dca0d5f0d2bfc
+category: libraries-tools
 slug: 'tfs-2013-power-tools-are-available'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

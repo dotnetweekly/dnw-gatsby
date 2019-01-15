@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d3004
 title: "BasicHLSL Direct3D Sample"
 url: 'http://msdn.microsoft.com/en-us/library/windows/desktop/bb153298(v=vs.85).aspx'
-category: 5a88e1afbd6dca0d5f0d3004
+category: libraries-tools
 slug: 'basichlsl-direct3d-sample'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

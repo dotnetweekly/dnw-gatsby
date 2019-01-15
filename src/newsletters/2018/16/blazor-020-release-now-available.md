@@ -2,7 +2,7 @@
 _id: 5ada9899724957005e0d2a04
 title: "Blazor 0.2.0 release now available"
 url: 'https://blogs.msdn.microsoft.com/webdev/2018/04/17/blazor-0-2-0-release-now-available/'
-category: 5ada9899724957005e0d2a04
+category: articles
 slug: 'blazor-020-release-now-available'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2e7a
 title: "Understanding Text Encoding in ASP.NET MVC (ASP.NET MVC Foundations Series)"
 url: 'http://blog.michaelckennedy.net/2012/10/15/understanding-text-encoding-in-asp-net-mvc/'
-category: 5a88e1afbd6dca0d5f0d2e7a
+category: articles
 slug: 'understanding-text-encoding-in-asp-net-mvc-asp-net-mvc-foundations-series'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

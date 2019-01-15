@@ -2,7 +2,7 @@
 _id: 5c2627c8745cd042100206c0
 title: "Azure - 7 Tips and Tricks for Azure App Service"
 url: 'https://msdn.microsoft.com/magazine/mt848638'
-category: 5c2627c8745cd042100206c0
+category: articles
 slug: 'azure-7-tips-and-tricks-for-azure-app-service'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5ab8a01863652701eec4df70
 title: "Getting started with Blazor – my red pill moment"
 url: 'http://blog.tdwright.co.uk/2018/03/25/getting-started-with-blazor-my-red-pill-moment/'
-category: 5ab8a01863652701eec4df70
+category: articles
 slug: 'getting-started-with-blazor-my-red-pill-moment'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

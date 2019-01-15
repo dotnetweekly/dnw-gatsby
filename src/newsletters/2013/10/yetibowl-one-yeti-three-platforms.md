@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2d84
 title: "YetiBowl. One Yeti, three platforms..."
 url: 'http://channel9.msdn.com/coding4fun/blog/YetiBowl-One-Yeti-three-platforms'
-category: 5a88e1afbd6dca0d5f0d2d84
+category: articles
 slug: 'yetibowl-one-yeti-three-platforms'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

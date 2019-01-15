@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d20e0
 title: "My Take on an Azure Open Source Cross-Platform DevOps Toolkit – The Beginning – Part 1/ 12"
 url: 'https://blogs.msdn.microsoft.com/allthingscontainer/2016/12/17/my-take-on-an-azure-open-source-cross-platform-devops-toolkit/'
-category: 5a88e1acbd6dca0d5f0d20e0
+category: articles
 slug: 'my-take-on-an-azure-open-source-cross-platform-devops-toolkit-the-beginning-part-1-12'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

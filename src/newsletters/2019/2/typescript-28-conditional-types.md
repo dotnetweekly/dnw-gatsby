@@ -2,7 +2,7 @@
 _id: 5c3aabe45e8f0d72698d0c52
 title: "TypeScript 2.8: Conditional Types"
 url: 'https://blog.mariusschulz.com/2019/01/09/typescript-2-8-conditional-types'
-category: 5c3aabe45e8f0d72698d0c52
+category: articles
 slug: 'typescript-28-conditional-types'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

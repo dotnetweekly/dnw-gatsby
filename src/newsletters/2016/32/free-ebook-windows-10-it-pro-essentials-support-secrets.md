@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d227e
 title: "Free ebook: Windows 10 IT Pro Essentials Support Secrets"
 url: 'https://blogs.msdn.microsoft.com/microsoft_press/2016/07/14/free-ebook-windows-10-it-pro-essentials-support-secrets/'
-category: 5a88e1acbd6dca0d5f0d227e
+category: books
 slug: 'free-ebook-windows-10-it-pro-essentials-support-secrets'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

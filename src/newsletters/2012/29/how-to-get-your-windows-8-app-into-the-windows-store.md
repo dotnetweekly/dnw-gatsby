@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2fb2
 title: "How to get your Windows 8 app into the Windows Store"
 url: 'http://blogs.msdn.com/b/davedev/archive/2012/05/15/how-to-get-your-windows-8-app-into-the-windows-store.aspx'
-category: 5a88e1afbd6dca0d5f0d2fb2
+category: articles
 slug: 'how-to-get-your-windows-8-app-into-the-windows-store'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

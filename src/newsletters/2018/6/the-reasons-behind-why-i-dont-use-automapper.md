@@ -2,7 +2,7 @@
 _id: 5a88e1aabd6dca0d5f0d1a4a
 title: "The reasons behind why I don't use AutoMapper."
 url: 'https://cezarypiatek.github.io/post/why-i-dont-use-automapper/'
-category: 5a88e1aabd6dca0d5f0d1a4a
+category: articles
 slug: 'the-reasons-behind-why-i-dont-use-automapper'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

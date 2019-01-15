@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d2730
 title: "Code Refactoring (Software Gardening - Pruning)"
 url: 'http://www.dotnetcurry.com/showarticle.aspx?ID=1105'
-category: 5a88e1adbd6dca0d5f0d2730
+category: articles
 slug: 'code-refactoring-software-gardening-pruning'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

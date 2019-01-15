@@ -2,7 +2,7 @@
 _id: 5b595f3a13da0be501d112f6
 title: "Using Middleware to Log Requests and Responses in ASP.NET Core"
 url: 'https://exceptionnotfound.net/using-middleware-to-log-requests-and-responses-in-asp-net-core/'
-category: 5b595f3a13da0be501d112f6
+category: articles
 slug: 'using-middleware-to-log-requests-and-responses-in-aspnet-core'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

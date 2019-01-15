@@ -2,7 +2,7 @@
 _id: 5bc260638a5a396228fd981e
 title: "Managing HTTP Requests in ASP.NET Core"
 url: 'https://streamwriter.net/managing-http-requests-in-asp-net-core/'
-category: 5bc260638a5a396228fd981e
+category: articles
 slug: 'managing-http-requests-in-aspnet-core'
 user_id: 5bb20e16af8d5e21acca623d
 username: 'mirceateodor.oprea@gmail.com'

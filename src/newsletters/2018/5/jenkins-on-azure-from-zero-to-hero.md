@@ -2,7 +2,7 @@
 _id: 5a88e1aabd6dca0d5f0d1a84
 title: "Jenkins on Azure: from zero to hero"
 url: 'https://azure.microsoft.com/en-us/blog/jenkins-on-azure-from-zero-to-hero/'
-category: 5a88e1aabd6dca0d5f0d1a84
+category: articles
 slug: 'jenkins-on-azure-from-zero-to-hero'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

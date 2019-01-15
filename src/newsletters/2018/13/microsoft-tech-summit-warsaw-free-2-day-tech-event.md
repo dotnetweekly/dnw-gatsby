@@ -2,7 +2,7 @@
 _id: 5abdbe16258bd9015e8c91f9
 title: "Microsoft Tech Summit Warsaw – Free 2 Day Tech Event"
 url: 'https://www.microsoft.com/pl-pl/techsummit/warsaw'
-category: 5abdbe16258bd9015e8c91f9
+category: events-training
 slug: 'microsoft-tech-summit-warsaw-free-2-day-tech-event'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

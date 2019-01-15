@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2e12
 title: "A New Year’s Resolution for Web Developers"
 url: 'http://www.schwammysays.net/a-new-years-resolution-for-web-developers/'
-category: 5a88e1afbd6dca0d5f0d2e12
+category: articles
 slug: 'a-new-years-resolution-for-web-developers'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

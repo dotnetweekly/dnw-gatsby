@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d216c
 title: "Bot Framework - Solving Business Problems with the Microsoft Bot Framework"
 url: 'https://msdn.microsoft.com/magazine/mt788623'
-category: 5a88e1acbd6dca0d5f0d216c
+category: articles
 slug: 'bot-framework-solving-business-problems-with-the-microsoft-bot-framework'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2a46
 title: "Building Apps for Windows Phone 8.1 Jump Start"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/building-apps-for-windows-phone-8-1-jump-start'
-category: 5a88e1aebd6dca0d5f0d2a46
+category: events-training
 slug: 'building-apps-for-windows-phone-8-1-jump-start'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

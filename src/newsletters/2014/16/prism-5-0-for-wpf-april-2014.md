@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2a2c
 title: "Prism 5.0 for WPF – April 2014"
 url: 'http://www.microsoft.com/en-us/download/details.aspx?id=42537'
-category: 5a88e1aebd6dca0d5f0d2a2c
+category: libraries-tools
 slug: 'prism-5-0-for-wpf-april-2014'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

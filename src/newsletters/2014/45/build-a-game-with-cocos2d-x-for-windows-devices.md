@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2862
 title: "Build a Game with Cocos2d-x for Windows Devices"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/build-a-game-with-cocos2d-x-for-windows-devices'
-category: 5a88e1aebd6dca0d5f0d2862
+category: events-training
 slug: 'build-a-game-with-cocos2d-x-for-windows-devices'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

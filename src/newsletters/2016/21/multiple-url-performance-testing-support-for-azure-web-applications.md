@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d2336
 title: "Multiple URL performance testing support for Azure Web Applications"
 url: 'https://blogs.msdn.microsoft.com/visualstudioalm/2016/05/22/multiple-url-performance-testing-support-for-azure-web-applications/'
-category: 5a88e1acbd6dca0d5f0d2336
+category: articles
 slug: 'multiple-url-performance-testing-support-for-azure-web-applications'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

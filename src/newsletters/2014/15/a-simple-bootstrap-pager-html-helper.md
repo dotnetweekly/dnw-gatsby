@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2a42
 title: "A simple Bootstrap Pager Html Helper "
 url: 'http://weblogs.asp.net/imranbaloch/archive/2014/04/14/a-simple-bootstrap-pager-html-helper.aspx'
-category: 5a88e1aebd6dca0d5f0d2a42
+category: articles
 slug: 'a-simple-bootstrap-pager-html-helper'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d250e
 title: "Journey to SQL Authority with Pinal Dave"
 url: 'http://blog.sqlauthority.com/2015/11/17/sql-server-looking-inside-sql-complete-advantages-of-intellisense-features/'
-category: 5a88e1adbd6dca0d5f0d250e
+category: articles
 slug: 'journey-to-sql-authority-with-pinal-dave'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

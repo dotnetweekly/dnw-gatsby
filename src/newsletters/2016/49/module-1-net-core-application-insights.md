@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d212a
 title: "Module #1: .NET Core + Application Insights"
 url: 'https://channel9.msdn.com/Events/Connect/2016/MVAWebDev-01'
-category: 5a88e1acbd6dca0d5f0d212a
+category: videos
 slug: 'module-1-net-core-application-insights'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5b9d22b634a7ea20202b77db
 title: ".NET Conf 2018"
 url: 'https://www.dotnetconf.net/'
-category: 5b9d22b634a7ea20202b77db
+category: events-training
 slug: 'net-conf-2018'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

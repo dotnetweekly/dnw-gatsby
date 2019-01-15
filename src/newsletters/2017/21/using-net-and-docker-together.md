@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1e9e
 title: "Using .NET and Docker Together"
 url: 'https://blogs.msdn.microsoft.com/dotnet/2017/05/25/using-net-and-docker-together/'
-category: 5a88e1abbd6dca0d5f0d1e9e
+category: articles
 slug: 'using-net-and-docker-together'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

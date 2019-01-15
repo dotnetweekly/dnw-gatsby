@@ -2,7 +2,7 @@
 _id: 5aefbf937ecc506b9c6cd128
 title: "Troy Hunt: 86% of Passwords are Terrible (and Other Statistics)"
 url: 'https://www.troyhunt.com/86-of-passwords-are-terrible-and-other-statistics/'
-category: 5aefbf937ecc506b9c6cd128
+category: articles
 slug: 'troy-hunt-86-of-passwords-are-terrible-and-other-statistics'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

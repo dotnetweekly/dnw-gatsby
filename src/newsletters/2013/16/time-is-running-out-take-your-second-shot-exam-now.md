@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2d0e
 title: "Time is running out: take your second shot exam now"
 url: 'http://www.microsoft.com/learning/en/us/second-shot.aspx#fbid=xZg08gQx4DI'
-category: 5a88e1afbd6dca0d5f0d2d0e
+category: articles
 slug: 'time-is-running-out-take-your-second-shot-exam-now'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

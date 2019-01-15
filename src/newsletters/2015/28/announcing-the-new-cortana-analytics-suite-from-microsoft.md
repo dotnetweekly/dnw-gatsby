@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d2632
 title: "Announcing the new Cortana Analytics Suite from Microsoft"
 url: 'http://blogs.technet.com/b/machinelearning/archive/2015/07/13/announcing-the-new-cortana-analytics-suite-from-microsoft.aspx'
-category: 5a88e1adbd6dca0d5f0d2632
+category: libraries-tools
 slug: 'announcing-the-new-cortana-analytics-suite-from-microsoft'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

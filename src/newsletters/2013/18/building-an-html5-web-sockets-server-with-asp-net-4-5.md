@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2ce4
 title: "Building an HTML5 Web Sockets Server with ASP.NET 4.5"
 url: 'http://weblogs.asp.net/dwahlin/archive/2013/04/13/building-an-html5-web-sockets-server-with-asp-net-4-5.aspx'
-category: 5a88e1afbd6dca0d5f0d2ce4
+category: videos
 slug: 'building-an-html5-web-sockets-server-with-asp-net-4-5'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

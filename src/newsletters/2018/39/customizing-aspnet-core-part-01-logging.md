@@ -2,7 +2,7 @@
 _id: 5ba9d981af8d5e8460ca6223
 title: "Customizing ASP.​NET Core Part 01: Logging"
 url: 'https://asp.net-hacker.rocks/2018/09/20/customizing-aspnetcore-01-logging.html'
-category: 5ba9d981af8d5e8460ca6223
+category: articles
 slug: 'customizing-aspnet-core-part-01-logging'
 user_id: 5ba9d7efaf8d5ee8f0ca6221
 username: 'JuergenGutsch'

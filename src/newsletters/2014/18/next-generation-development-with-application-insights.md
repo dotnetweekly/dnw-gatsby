@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2a12
 title: "Next-Generation Development with Application Insights"
 url: 'http://msdn.microsoft.com/en-us/magazine/dn683794.aspx'
-category: 5a88e1aebd6dca0d5f0d2a12
+category: articles
 slug: 'next-generation-development-with-application-insights'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

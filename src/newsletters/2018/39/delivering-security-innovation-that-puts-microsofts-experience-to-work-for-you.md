@@ -2,7 +2,7 @@
 _id: 5bac50d7af8d5e8fdfca622c
 title: "Delivering security innovation that puts Microsoft's experience to work for you"
 url: 'https://cloudblogs.microsoft.com/microsoftsecure/2018/09/24/delivering-security-innovation-that-puts-microsofts-experience-to-work-for-you/'
-category: 5bac50d7af8d5e8fdfca622c
+category: articles
 slug: 'delivering-security-innovation-that-puts-microsofts-experience-to-work-for-you'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

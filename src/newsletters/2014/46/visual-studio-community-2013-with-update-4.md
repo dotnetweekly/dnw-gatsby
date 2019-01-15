@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d284e
 title: "Visual Studio Community 2013 with Update 4"
 url: 'http://www.visualstudio.com/en-us/downloads/download-visual-studio-vs'
-category: 5a88e1aebd6dca0d5f0d284e
+category: libraries-tools
 slug: 'visual-studio-community-2013-with-update-4'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

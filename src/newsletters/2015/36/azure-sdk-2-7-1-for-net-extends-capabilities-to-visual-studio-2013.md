@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d25be
 title: "Azure SDK 2.7.1 for .NET Extends Capabilities to Visual Studio 2013"
 url: 'https://visualstudiomagazine.com/articles/2015/09/02/azure-sdk-2-7-1-for-net-visual-studio-2013.aspx'
-category: 5a88e1adbd6dca0d5f0d25be
+category: libraries-tools
 slug: 'azure-sdk-2-7-1-for-net-extends-capabilities-to-visual-studio-2013'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

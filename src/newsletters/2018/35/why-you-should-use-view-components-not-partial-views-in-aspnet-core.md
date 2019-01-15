@@ -2,7 +2,7 @@
 _id: 5b86a1bfeb7beb526789afc0
 title: "Why You Should Use View Components, not Partial Views, in ASP.NET Core"
 url: 'https://www.telerik.com/blogs/why-you-should-use-view-components-not-partial-views-aspnet-core'
-category: 5b86a1bfeb7beb526789afc0
+category: articles
 slug: 'why-you-should-use-view-components-not-partial-views-in-aspnet-core'
 user_id: 5afa9e1a416efa64fa328ccd
 username: 'elmira_dam'

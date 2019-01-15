@@ -2,7 +2,7 @@
 _id: 5b4adf0cd9e4dc8dda970451
 title: "Demonstrate a SQL Server Architecture with Lego"
 url: 'https://www.mssqltips.com/sqlservertip/5560/demonstrate-a-sql-server-architecture-with-lego/'
-category: 5b4adf0cd9e4dc8dda970451
+category: articles
 slug: 'demonstrate-a-sql-server-architecture-with-lego'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

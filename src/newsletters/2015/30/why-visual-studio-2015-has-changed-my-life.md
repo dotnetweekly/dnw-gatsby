@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d260c
 title: "Why Visual Studio 2015 has changed my life"
 url: 'http://www.developerhandbook.com/visual-studio/visual-studio-2015-changed-my-life/'
-category: 5a88e1adbd6dca0d5f0d260c
+category: articles
 slug: 'why-visual-studio-2015-has-changed-my-life'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

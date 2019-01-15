@@ -2,7 +2,7 @@
 _id: 5c2b346f745cd032a20206cc
 title: "Using Polly and Flurl to improve your website"
 url: 'https://jeremylindsayni.wordpress.com/2019/01/01/using-polly-and-flurl-to-improve-your-website/'
-category: 5c2b346f745cd032a20206cc
+category: articles
 slug: 'using-polly-and-flurl-to-improve-your-website'
 user_id: 5c16c1d6bdff7d864b340ab8
 username: 'jeremylindsay'

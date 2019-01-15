@@ -2,7 +2,7 @@
 _id: 5a88e1aabd6dca0d5f0d1b6e
 title: "Quick Actions in Visual Studio 2017"
 url: 'https://baskarrao.wordpress.com/2017/12/02/quick-actions-in-visual-studio-2017/'
-category: 5a88e1aabd6dca0d5f0d1b6e
+category: articles
 slug: 'quick-actions-in-visual-studio-2017'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

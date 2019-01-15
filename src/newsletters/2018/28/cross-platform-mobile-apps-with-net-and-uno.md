@@ -2,7 +2,7 @@
 _id: 5b4addc3d9e4dc0a0797044d
 title: "Cross Platform Mobile Apps with .NET and Uno"
 url: 'https://medium.com/@pielegacy/cross-platform-mobile-apps-with-net-and-uno-dee2b024281d'
-category: 5b4addc3d9e4dc0a0797044d
+category: articles
 slug: 'cross-platform-mobile-apps-with-net-and-uno'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

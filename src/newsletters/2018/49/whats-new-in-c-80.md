@@ -2,7 +2,7 @@
 _id: 5c0826b1d9a59374f4f70e84
 title: "What's New in C# 8.0"
 url: 'https://channel9.msdn.com/Events/Connect/Microsoft-Connect--2018/D140'
-category: 5c0826b1d9a59374f4f70e84
+category: articles
 slug: 'whats-new-in-c-80'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

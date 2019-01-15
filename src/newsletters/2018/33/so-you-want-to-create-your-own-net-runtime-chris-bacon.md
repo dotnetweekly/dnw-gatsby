@@ -2,7 +2,7 @@
 _id: 5b732157fd7ac90c889e0040
 title: "So you want to create your own .NET runtime? - Chris Bacon"
 url: 'https://www.youtube.com/watch?v=jK8jYQ3ZKiI'
-category: 5b732157fd7ac90c889e0040
+category: videos
 slug: 'so-you-want-to-create-your-own-net-runtime-chris-bacon'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

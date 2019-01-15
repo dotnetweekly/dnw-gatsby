@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2f4a
 title: "Visual Studio 2012 and .NET Framework 4.5 is RELEASED - Here's 5 minute videos to get you up to speed quick"
 url: 'http://www.hanselman.com/blog/VisualStudio2012AndNETFramework45IsRELEASEDHeres5MinuteVideosToGetYouUpToSpeedQuick.aspx'
-category: 5a88e1afbd6dca0d5f0d2f4a
+category: libraries-tools
 slug: 'visual-studio-2012-and-net-framework-4-5-is-released-heres-5-minute-videos-to-get-you-up-to-speed-q'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

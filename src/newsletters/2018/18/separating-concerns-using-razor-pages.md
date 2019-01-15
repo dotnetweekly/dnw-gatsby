@@ -2,7 +2,7 @@
 _id: 5aeaa03ecabb5e963c383cab
 title: "Separating concerns using Razor Pages"
 url: 'https://jonhilton.net/razor-pages-separation-of-concerns/'
-category: 5aeaa03ecabb5e963c383cab
+category: articles
 slug: 'separating-concerns-using-razor-pages'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

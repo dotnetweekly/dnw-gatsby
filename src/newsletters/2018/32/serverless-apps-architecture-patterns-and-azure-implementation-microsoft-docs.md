@@ -2,7 +2,7 @@
 _id: 5b68ffa66b826ee027f59955
 title: "Serverless apps: Architecture, patterns, and Azure implementation | Microsoft Docs"
 url: 'https://docs.microsoft.com/en-us/dotnet/standard/serverless-architecture/'
-category: 5b68ffa66b826ee027f59955
+category: books
 slug: 'serverless-apps-architecture-patterns-and-azure-implementation-microsoft-docs'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

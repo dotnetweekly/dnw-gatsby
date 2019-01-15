@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d2506
 title: "The Easiest Way to Share Code: NuGet"
 url: 'https://visualstudiomagazine.com/articles/2015/11/01/nuget.aspx'
-category: 5a88e1adbd6dca0d5f0d2506
+category: articles
 slug: 'the-easiest-way-to-share-code-nuget'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d28be
 title: "Universal Windows apps get better with Windows 10"
 url: 'http://blogs.windows.com/buildingapps/2014/09/30/universal-windows-apps-get-better-with-windows-10/'
-category: 5a88e1aebd6dca0d5f0d28be
+category: articles
 slug: 'universal-windows-apps-get-better-with-windows-10'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

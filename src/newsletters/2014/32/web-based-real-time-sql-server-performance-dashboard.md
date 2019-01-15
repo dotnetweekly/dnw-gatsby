@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2946
 title: "Web-based real-time SQL Server Performance Dashboard"
 url: 'http://www.codeproject.com/Articles/799053/Web-based-real-time-SQL-Server-Performance-Dashboa'
-category: 5a88e1aebd6dca0d5f0d2946
+category: libraries-tools
 slug: 'web-based-real-time-sql-server-performance-dashboard'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

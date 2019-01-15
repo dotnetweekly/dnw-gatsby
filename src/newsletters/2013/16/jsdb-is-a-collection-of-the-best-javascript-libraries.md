@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2d12
 title: "JSDB is a collection of the best javascript libraries"
 url: 'http://www.jsdb.io/?sort=trending'
-category: 5a88e1afbd6dca0d5f0d2d12
+category: libraries-tools
 slug: 'jsdb-is-a-collection-of-the-best-javascript-libraries'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

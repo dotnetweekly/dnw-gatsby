@@ -2,7 +2,7 @@
 _id: 5b4ed750d9e4dc1127970460
 title: "Azure App Service Web Apps"
 url: 'https://channel9.msdn.com/Shows/Azure-Friday/Azure-App-Service-Web-Apps'
-category: 5b4ed750d9e4dc1127970460
+category: videos
 slug: 'azure-app-service-web-apps'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

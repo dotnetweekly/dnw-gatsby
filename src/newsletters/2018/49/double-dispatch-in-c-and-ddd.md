@@ -2,7 +2,7 @@
 _id: 5c0a2400d9a5932dd7f70e8f
 title: "Double Dispatch in C# and DDD"
 url: 'https://ardalis.com/double-dispatch-in-c-and-ddd'
-category: 5c0a2400d9a5932dd7f70e8f
+category: articles
 slug: 'double-dispatch-in-c-and-ddd'
 user_id: 5c060608d9a5932132f70e77
 username: 'dnwuryxfUK714'

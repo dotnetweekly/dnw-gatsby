@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2cbc
 title: "Create Object Clones Through the Prototype Pattern in .NET"
 url: 'http://visualstudiomagazine.com/articles/2013/05/31/the-prototype-pattern-in-net.aspx'
-category: 5a88e1afbd6dca0d5f0d2cbc
+category: articles
 slug: 'create-object-clones-through-the-prototype-pattern-in-net'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

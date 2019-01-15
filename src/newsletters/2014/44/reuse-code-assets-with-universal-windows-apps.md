@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d287a
 title: "Reuse Code Assets with Universal Windows Apps"
 url: 'http://msdn.microsoft.com/en-us/magazine/dn802607.aspx'
-category: 5a88e1aebd6dca0d5f0d287a
+category: articles
 slug: 'reuse-code-assets-with-universal-windows-apps'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

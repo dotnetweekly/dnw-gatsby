@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2d76
 title: "Building a Game With JavaScript: Making Things Move"
 url: 'http://devlicio.us/blogs/christopher_bennage/archive/2013/03/13/building-a-game-with-javascript-making-things-move.aspx'
-category: 5a88e1afbd6dca0d5f0d2d76
+category: articles
 slug: 'building-a-game-with-javascript-making-things-move'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

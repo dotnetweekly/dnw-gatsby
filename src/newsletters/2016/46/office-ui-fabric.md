@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d217c
 title: "Office UI Fabric"
 url: 'https://dev.office.com/fabric'
-category: 5a88e1acbd6dca0d5f0d217c
+category: libraries-tools
 slug: 'office-ui-fabric'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

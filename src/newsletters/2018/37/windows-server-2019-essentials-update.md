@@ -2,7 +2,7 @@
 _id: 5b99d375d08949bb6b6ca3f9
 title: "Windows Server 2019 Essentials update"
 url: 'https://cloudblogs.microsoft.com/windowsserver/2018/09/05/windows-server-2019-essentials-update/'
-category: 5b99d375d08949bb6b6ca3f9
+category: articles
 slug: 'windows-server-2019-essentials-update'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d29b2
 title: "Getting started with Visual Studio Editor Margin Extensions"
 url: 'http://www.codeproject.com/Articles/784998/Introduction-Visual-Studio-Editor-Margin-Extension'
-category: 5a88e1aebd6dca0d5f0d29b2
+category: articles
 slug: 'getting-started-with-visual-studio-editor-margin-extensions'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

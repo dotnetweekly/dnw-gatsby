@@ -2,7 +2,7 @@
 _id: 5b58a80c13da0bb20bd112f3
 title: "Working with Polly - Using the Context to Obtain the Retry Count for Diagnostics"
 url: 'https://www.stevejgordon.co.uk/polly-using-context-to-obtain-retry-count-diagnostics'
-category: 5b58a80c13da0bb20bd112f3
+category: articles
 slug: 'working-with-polly-using-the-context-to-obtain-the-retry-count-for-diagnostics'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

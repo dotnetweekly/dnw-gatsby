@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2b98
 title: "Shoot'em Up .NET"
 url: 'http://www.codeproject.com/Articles/677417/Shootem-Up-NET'
-category: 5a88e1aebd6dca0d5f0d2b98
+category: articles
 slug: 'shootem-up-net'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

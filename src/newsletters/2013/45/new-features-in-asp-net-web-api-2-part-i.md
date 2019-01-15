@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2b92
 title: "New Features in ASP.NET Web API 2 - Part I"
 url: 'http://weblogs.asp.net/dwahlin/archive/2013/11/11/new-features-in-asp-net-web-api-2-part-i.aspx'
-category: 5a88e1aebd6dca0d5f0d2b92
+category: articles
 slug: 'new-features-in-asp-net-web-api-2-part-i'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

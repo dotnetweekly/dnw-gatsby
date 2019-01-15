@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d2206
 title: "Using DevOps to Drive Organizational Agility and Innovation"
 url: 'https://channel9.msdn.com/Events/DevOps-Microsoft-Chef/ChefConf-2016/Using-DevOps-to-Drive-Organizational-Agility-and-Innovation'
-category: 5a88e1acbd6dca0d5f0d2206
+category: videos
 slug: 'using-devops-to-drive-organizational-agility-and-innovation'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

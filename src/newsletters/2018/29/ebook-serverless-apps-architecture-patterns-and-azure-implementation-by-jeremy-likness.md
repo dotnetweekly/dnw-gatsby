@@ -2,7 +2,7 @@
 _id: 5b4ed8eed9e4dcaa70970464
 title: "eBook: Serverless Apps: Architecture, Patterns, and Azure Implementation by Jeremy Likness"
 url: 'https://buildazure.com/2018/07/14/ebook-serverless-apps-architecture-patterns-and-azure-implementation-by-jeremy-likness/'
-category: 5b4ed8eed9e4dcaa70970464
+category: books
 slug: 'ebook-serverless-apps-architecture-patterns-and-azure-implementation-by-jeremy-likness'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d28c2
 title: ".NET Micro Framework"
 url: 'http://channel9.msdn.com/Shows/Visual-Studio-Toolbox/-NET-Micro-Framework'
-category: 5a88e1aebd6dca0d5f0d28c2
+category: videos
 slug: 'net-micro-framework'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

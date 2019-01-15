@@ -2,7 +2,7 @@
 _id: 5ac32ee377d138024e6c210e
 title: "OAuth 2.0 and OpenID Connect (in plain English)"
 url: 'https://www.youtube.com/watch?v=996OiexHze0'
-category: 5ac32ee377d138024e6c210e
+category: articles
 slug: 'oauth-20-and-openid-connect-in-plain-english'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d27ee
 title: "Cross-Platform Development with Xamarin & Visual Studio"
 url: 'http://www.microsoftvirtualacademy.com/training-courses/-cross-platform-development-with-xamarin-visual-studio'
-category: 5a88e1adbd6dca0d5f0d27ee
+category: videos
 slug: 'cross-platform-development-with-xamarin-visual-studio'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

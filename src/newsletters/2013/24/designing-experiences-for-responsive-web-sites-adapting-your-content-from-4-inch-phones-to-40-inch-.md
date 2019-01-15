@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2ca4
 title: "Designing Experiences for Responsive Web Sites: Adapting Your Content From 4-Inch Phones to 40-Inch TVs"
 url: 'http://msdn.microsoft.com/en-us/magazine/dn197837.aspx'
-category: 5a88e1afbd6dca0d5f0d2ca4
+category: articles
 slug: 'designing-experiences-for-responsive-web-sites-adapting-your-content-from-4-inch-phones-to-40-inch-'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

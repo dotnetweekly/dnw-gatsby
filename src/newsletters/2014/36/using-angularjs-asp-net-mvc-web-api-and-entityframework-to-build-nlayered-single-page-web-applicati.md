@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d28fe
 title: "Using AngularJs, ASP.NET MVC, Web API and EntityFramework to build NLayered Single Page Web Applications"
 url: 'http://www.codeproject.com/Articles/791740/Using-AngularJs-ASP-NET-MVC-Web-API-and-EntityFram'
-category: 5a88e1aebd6dca0d5f0d28fe
+category: articles
 slug: 'using-angularjs-asp-net-mvc-web-api-and-entityframework-to-build-nlayered-single-page-web-applicati'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

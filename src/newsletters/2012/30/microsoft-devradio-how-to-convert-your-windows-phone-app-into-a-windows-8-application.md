@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2f8a
 title: "Microsoft DevRadio: How to Convert Your Windows Phone App into a Windows 8 Application"
 url: 'http://channel9.msdn.com/Blogs/DevRadio/Microsoft-DevRadio-How-to-Convert-Your-Windows-Phone-App-into-a-Windows-8-Application/'
-category: 5a88e1afbd6dca0d5f0d2f8a
+category: videos
 slug: 'microsoft-devradio-how-to-convert-your-windows-phone-app-into-a-windows-8-application'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

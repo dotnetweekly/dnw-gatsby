@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2832
 title: "Creating Windows Phone and Windows Store Games with MonoGame"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/creating-windows-phone-and-windows-store-games-with-monogame'
-category: 5a88e1aebd6dca0d5f0d2832
+category: events-training
 slug: 'creating-windows-phone-and-windows-store-games-with-monogame'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

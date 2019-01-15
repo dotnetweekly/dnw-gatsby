@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1f42
 title: "Server-Sent Events (SSE) Support for ASP.NET Core - DZone Web Dev"
 url: 'https://dzone.com/articles/server-sent-events-sse-support-for-aspnet-core'
-category: 5a88e1abbd6dca0d5f0d1f42
+category: articles
 slug: 'server-sent-events-sse-support-for-asp-net-core-dzone-web-dev'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

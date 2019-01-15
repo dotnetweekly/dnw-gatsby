@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2e5c
 title: "Deploying your first Facebook App on Azure using ASP.NET MVC Facebook Template"
 url: 'http://blogs.msdn.com/b/yaohuang1/archive/2012/10/31/deploying-your-first-facebook-app-on-azure-using-asp-net-mvc-facebook-template.aspx'
-category: 5a88e1afbd6dca0d5f0d2e5c
+category: articles
 slug: 'deploying-your-first-facebook-app-on-azure-using-asp-net-mvc-facebook-template'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

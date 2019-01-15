@@ -2,7 +2,7 @@
 _id: 5b9fb0be7a4fc43f45daab8a
 title: "Changing Jasper’s Direction"
 url: 'https://jeremydmiller.com/2018/09/15/changing-jaspers-direction/'
-category: 5b9fb0be7a4fc43f45daab8a
+category: articles
 slug: 'changing-jaspers-direction'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

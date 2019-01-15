@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d2734
 title: "A Deep Dive into the ASP.NET 5 Runtime"
 url: 'https://msdn.microsoft.com/en-us/magazine/dn913182.aspx'
-category: 5a88e1adbd6dca0d5f0d2734
+category: articles
 slug: 'a-deep-dive-into-the-asp-net-5-runtime'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

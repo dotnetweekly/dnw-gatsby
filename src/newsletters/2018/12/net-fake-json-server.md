@@ -2,7 +2,7 @@
 _id: 5ab0249c988610019e6bad48
 title: ".NET Fake JSON Server"
 url: 'https://github.com/ttu/dotnet-fake-json-server'
-category: 5ab0249c988610019e6bad48
+category: libraries-tools
 slug: 'net-fake-json-server'
 user_id: 5a8a92328b86e53b3449b03a
 username: 'tomitu'

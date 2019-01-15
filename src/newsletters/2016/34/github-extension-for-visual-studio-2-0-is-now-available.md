@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d2254
 title: "GitHub Extension for Visual Studio 2.0 is now available"
 url: 'https://github.com/blog/2232-github-extension-for-visual-studio-2-0'
-category: 5a88e1acbd6dca0d5f0d2254
+category: libraries-tools
 slug: 'github-extension-for-visual-studio-2-0-is-now-available'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

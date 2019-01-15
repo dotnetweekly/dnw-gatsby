@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2d14
 title: "Use the new and shiny responsibly."
 url: 'http://html5please.com/'
-category: 5a88e1afbd6dca0d5f0d2d14
+category: libraries-tools
 slug: 'use-the-new-and-shiny-responsibly'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

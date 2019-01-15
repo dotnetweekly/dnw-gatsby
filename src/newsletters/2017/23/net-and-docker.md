@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1e78
 title: ".NET and Docker"
 url: 'https://www.hanselman.com/blog/NETAndDocker.aspx'
-category: 5a88e1abbd6dca0d5f0d1e78
+category: articles
 slug: 'net-and-docker'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

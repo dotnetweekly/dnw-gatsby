@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2cfe
 title: "Git Integration in Visual Studio 2012 after Update 2"
 url: 'http://www.dotnetcurry.com/ShowArticle.aspx?ID=879'
-category: 5a88e1afbd6dca0d5f0d2cfe
+category: articles
 slug: 'git-integration-in-visual-studio-2012-after-update-2'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

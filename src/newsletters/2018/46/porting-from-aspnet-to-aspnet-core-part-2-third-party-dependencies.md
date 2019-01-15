@@ -2,7 +2,7 @@
 _id: 5be9a6ecf03565c12a387dc1
 title: "Porting from ASP.NET to ASP.NET Core - Part 2: Third party dependencies"
 url: 'https://jmezach.github.io/2018/11/07/porting-from-asp.net-to-asp.net-core-part-2-third-party-dependencies/'
-category: 5be9a6ecf03565c12a387dc1
+category: articles
 slug: 'porting-from-aspnet-to-aspnet-core-part-2-third-party-dependencies'
 user_id: 5be9a5d5f03565303e387dc0
 username: 'jmezach'

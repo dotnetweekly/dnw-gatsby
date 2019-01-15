@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d26c0
 title: "Building Universal Windows Games with Unity"
 url: 'http://channel9.msdn.com/Events/Build/2015/2-648'
-category: 5a88e1adbd6dca0d5f0d26c0
+category: videos
 slug: 'building-universal-windows-games-with-unity'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

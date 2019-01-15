@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d29ba
 title: "Thousands of code samples at your finger tips"
 url: 'http://blogs.msdn.com/b/codefx/'
-category: 5a88e1aebd6dca0d5f0d29ba
+category: libraries-tools
 slug: 'thousands-of-code-samples-at-your-finger-tips'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

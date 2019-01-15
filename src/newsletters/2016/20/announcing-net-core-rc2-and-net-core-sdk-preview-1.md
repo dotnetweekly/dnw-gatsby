@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d233c
 title: "Announcing .NET Core RC2 and .NET Core SDK Preview 1"
 url: 'https://blogs.msdn.microsoft.com/dotnet/2016/05/16/announcing-net-core-rc2/'
-category: 5a88e1acbd6dca0d5f0d233c
+category: libraries-tools
 slug: 'announcing-net-core-rc2-and-net-core-sdk-preview-1'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

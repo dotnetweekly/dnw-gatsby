@@ -2,7 +2,7 @@
 _id: 5b97419b1f9f2e6d1b857ab8
 title: "Thoughts about .NET, The Cloud, AI, ML, and teaching software engineers | endjin blog"
 url: 'https://blogs.endjin.com/2018/09/thoughts-about-net-the-cloud-ai-ml-and-teaching-software-engineers/'
-category: 5b97419b1f9f2e6d1b857ab8
+category: articles
 slug: 'thoughts-about-net-the-cloud-ai-ml-and-teaching-software-engineers-endjin-blog'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

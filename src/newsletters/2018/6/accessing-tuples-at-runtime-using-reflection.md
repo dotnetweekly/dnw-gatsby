@@ -2,7 +2,7 @@
 _id: 5a88e1aabd6dca0d5f0d1a66
 title: "Accessing Tuples at Runtime using Reflection"
 url: 'https://www.danielcrabtree.com/blog/365/accessing-tuples-at-runtime-using-reflection'
-category: 5a88e1aabd6dca0d5f0d1a66
+category: articles
 slug: 'accessing-tuples-at-runtime-using-reflection'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

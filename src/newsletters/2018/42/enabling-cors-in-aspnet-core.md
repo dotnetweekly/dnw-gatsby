@@ -2,7 +2,7 @@
 _id: 5bc8492d1ff6e7c5bb87fb24
 title: "Enabling CORS in ASP.NET Core"
 url: 'https://code-maze.com/enabling-cors-in-asp-net-core/'
-category: 5bc8492d1ff6e7c5bb87fb24
+category: articles
 slug: 'enabling-cors-in-aspnet-core'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

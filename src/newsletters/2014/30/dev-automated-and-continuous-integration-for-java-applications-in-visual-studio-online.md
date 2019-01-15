@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d295c
 title: " DEV - Automated and Continuous Integration for Java Applications in Visual Studio Online"
 url: 'https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032592175&Culture=en-US&community=0'
-category: 5a88e1aebd6dca0d5f0d295c
+category: events-training
 slug: 'dev-automated-and-continuous-integration-for-java-applications-in-visual-studio-online'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

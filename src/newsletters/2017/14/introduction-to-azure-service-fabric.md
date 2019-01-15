@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1f4e
 title: "Introduction to Azure Service Fabric"
 url: 'https://pusher.com/sessions/meetup/dotnetsheff/introduction-to-azure-service-fabric'
-category: 5a88e1abbd6dca0d5f0d1f4e
+category: videos
 slug: 'introduction-to-azure-service-fabric'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

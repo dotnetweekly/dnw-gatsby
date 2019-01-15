@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d271e
 title: "Node.js Tools 1.0 for Visual Studio"
 url: 'http://blogs.msdn.com/b/visualstudio/archive/2015/03/25/node-js-tools-1-0-for-visual-studio.aspx'
-category: 5a88e1adbd6dca0d5f0d271e
+category: libraries-tools
 slug: 'node-js-tools-1-0-for-visual-studio'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

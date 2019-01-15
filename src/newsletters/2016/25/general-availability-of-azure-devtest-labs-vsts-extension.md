@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d22e6
 title: "General availability of Azure DevTest Labs – VSTS extension"
 url: 'https://blogs.msdn.microsoft.com/visualstudioalm/2016/06/18/azure-devtest-labs-vsts-extension/'
-category: 5a88e1acbd6dca0d5f0d22e6
+category: libraries-tools
 slug: 'general-availability-of-azure-devtest-labs-vsts-extension'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

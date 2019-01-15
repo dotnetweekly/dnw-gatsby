@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1cbe
 title: "ASP.NET Core - Getting Started with ASP.NET Core 2.0"
 url: 'https://msdn.microsoft.com/magazine/mt842504?MC=AppDnDTool&MC=ASPNET&MC=Testing&MC=MSAzure&MC=DevOps'
-category: 5a88e1abbd6dca0d5f0d1cbe
+category: articles
 slug: 'asp-net-core-getting-started-with-asp-net-core-2-0'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

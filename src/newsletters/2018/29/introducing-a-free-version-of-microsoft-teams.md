@@ -2,7 +2,7 @@
 _id: 5b4fd78b999737ce22c806a6
 title: "Introducing a free version of Microsoft Teams"
 url: 'https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Introducing-a-free-version-of-Microsoft-Teams/ba-p/214592'
-category: 5b4fd78b999737ce22c806a6
+category: libraries-tools
 slug: 'introducing-a-free-version-of-microsoft-teams'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

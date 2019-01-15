@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d27d4
 title: "ReSharper Tips for Quicker Code Delivery"
 url: 'http://visualstudiomagazine.com/articles/2015/01/08/resharper-tips-for-quicker-code-delivery.aspx'
-category: 5a88e1adbd6dca0d5f0d27d4
+category: articles
 slug: 'resharper-tips-for-quicker-code-delivery'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

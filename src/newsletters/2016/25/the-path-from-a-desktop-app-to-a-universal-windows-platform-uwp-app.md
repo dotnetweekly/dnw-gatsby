@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d22e4
 title: "The path from a desktop app to a Universal Windows Platform (UWP) app"
 url: 'https://blogs.windows.com/buildingapps/2016/06/15/the-path-from-a-desktop-app-to-a-universal-windows-platform-uwp-app/'
-category: 5a88e1acbd6dca0d5f0d22e4
+category: articles
 slug: 'the-path-from-a-desktop-app-to-a-universal-windows-platform-uwp-app'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

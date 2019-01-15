@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d28a4
 title: "Announcing new Web Features in Visual Studio 2013 Update 4 RC"
 url: 'http://blogs.msdn.com/b/webdev/archive/2014/10/16/announcing-new-web-features-in-visual-studio-2013-update-4-rc.aspx'
-category: 5a88e1aebd6dca0d5f0d28a4
+category: libraries-tools
 slug: 'announcing-new-web-features-in-visual-studio-2013-update-4-rc'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

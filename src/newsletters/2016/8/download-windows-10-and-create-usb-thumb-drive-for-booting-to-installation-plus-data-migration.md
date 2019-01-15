@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d241a
 title: "Download Windows 10 and Create USB Thumb Drive for Booting to Installation PLUS Data Migration"
 url: 'https://channel9.msdn.com/blogs/raw-tech/download-windows-10-and-create-usb-thumb-drive-for-booting-to-installation-plus-data-migration'
-category: 5a88e1acbd6dca0d5f0d241a
+category: videos
 slug: 'download-windows-10-and-create-usb-thumb-drive-for-booting-to-installation-plus-data-migration'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

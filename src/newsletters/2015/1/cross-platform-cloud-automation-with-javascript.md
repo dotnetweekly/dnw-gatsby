@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d27e6
 title: "Cross-Platform Cloud Automation with JavaScript"
 url: 'http://msdn.microsoft.com/el-gr/magazine/dn890376(en-us).aspx'
-category: 5a88e1adbd6dca0d5f0d27e6
+category: articles
 slug: 'cross-platform-cloud-automation-with-javascript'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

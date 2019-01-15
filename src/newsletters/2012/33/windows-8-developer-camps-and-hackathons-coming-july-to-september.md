@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2f4c
 title: "Windows 8 Developer Camps and Hackathons - Coming July to September"
 url: 'http://devhammer.net/blog/windows-8-developer-camps-and-hackathons-ndash-coming-july-to-september'
-category: 5a88e1afbd6dca0d5f0d2f4c
+category: events-training
 slug: 'windows-8-developer-camps-and-hackathons-coming-july-to-september'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d3050
 title: "SharpDX"
 url: 'http://sharpdx.org/'
-category: 5a88e1afbd6dca0d5f0d3050
+category: libraries-tools
 slug: 'sharpdx'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

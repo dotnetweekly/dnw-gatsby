@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d28ac
 title: "vNext: What's in It for You?"
 url: 'http://visualstudiomagazine.com/articles/2014/10/01/vnext.aspx'
-category: 5a88e1aebd6dca0d5f0d28ac
+category: articles
 slug: 'vnext-whats-in-it-for-you'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

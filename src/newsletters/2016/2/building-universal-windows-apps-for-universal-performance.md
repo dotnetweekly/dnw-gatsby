@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d248a
 title: "Building Universal Windows Apps for Universal Performance"
 url: 'https://visualstudiomagazine.com/articles/2016/01/08/windows-apps-uwp-performance.aspx'
-category: 5a88e1adbd6dca0d5f0d248a
+category: articles
 slug: 'building-universal-windows-apps-for-universal-performance'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

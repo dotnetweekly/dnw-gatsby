@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2dc2
 title: "Async Causality Chain Tracking"
 url: 'http://msdn.microsoft.com/en-us/magazine/jj891052.aspx'
-category: 5a88e1afbd6dca0d5f0d2dc2
+category: articles
 slug: 'async-causality-chain-tracking'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

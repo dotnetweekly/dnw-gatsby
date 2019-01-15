@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d22e0
 title: "Processing Data with ASP.NET MVC, JSX+React and TypeScript"
 url: 'https://visualstudiomagazine.com/articles/2016/06/01/processing-data.aspx'
-category: 5a88e1acbd6dca0d5f0d22e0
+category: articles
 slug: 'processing-data-with-asp-net-mvc-jsxreact-and-typescript'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

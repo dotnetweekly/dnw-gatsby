@@ -2,7 +2,7 @@
 _id: 5a88e1aabd6dca0d5f0d1afe
 title: "Push Notifications and ASP.NET Core - Part 2 (Requesting Delivery)"
 url: 'https://www.tpeczek.com/2018/01/push-notifications-and-aspnet-core-part.html'
-category: 5a88e1aabd6dca0d5f0d1afe
+category: articles
 slug: 'push-notifications-and-asp-net-core-part-2-requesting-delivery'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

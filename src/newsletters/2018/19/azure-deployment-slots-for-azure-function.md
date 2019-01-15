@@ -2,7 +2,7 @@
 _id: 5af0ef2d7ecc50e7b66cd12d
 title: "Azure Deployment Slots for Azure Function"
 url: 'https://dailydotnettips.com/2018/05/06/azure-deployment-slots-for-azure-functions/'
-category: 5af0ef2d7ecc50e7b66cd12d
+category: articles
 slug: 'azure-deployment-slots-for-azure-function'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

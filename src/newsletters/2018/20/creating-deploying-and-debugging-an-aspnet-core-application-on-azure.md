@@ -2,7 +2,7 @@
 _id: 5afde297416efa45b2328cdc
 title: "Creating, Deploying, and Debugging an ASP.NET Core Application on Azure"
 url: 'https://www.red-gate.com/simple-talk/cloud/cloud-development/creating-deploying-and-debugging-an-asp-net-core-application-on-azure/'
-category: 5afde297416efa45b2328cdc
+category: articles
 slug: 'creating-deploying-and-debugging-an-aspnet-core-application-on-azure'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1dc4
 title: "Practical samples of aspnet core projects you can use"
 url: 'https://github.com/dodyg/practical-aspnetcore'
-category: 5a88e1abbd6dca0d5f0d1dc4
+category: libraries-tools
 slug: 'practical-samples-of-aspnet-core-projects-you-can-use'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d27f0
 title: "Introducing .NET Core"
 url: 'Introducing .NET Core'
-category: 5a88e1adbd6dca0d5f0d27f0
+category: articles
 slug: 'introducing-net-core'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

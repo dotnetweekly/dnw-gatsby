@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2cd4
 title: "PropertyCross - Helping you select a cross-platform mobile framework"
 url: 'http://propertycross.com/'
-category: 5a88e1afbd6dca0d5f0d2cd4
+category: articles
 slug: 'propertycross-helping-you-select-a-cross-platform-mobile-framework'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

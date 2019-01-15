@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d2586
 title: "What's new for .NET and UWP in Win10 Tools 1.1"
 url: 'http://blogs.msdn.com/b/dotnet/archive/2015/09/28/what-s-new-for-net-and-uwp-in-win10-tools-1-1.aspx'
-category: 5a88e1adbd6dca0d5f0d2586
+category: libraries-tools
 slug: 'whats-new-for-net-and-uwp-in-win10-tools-1-1'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

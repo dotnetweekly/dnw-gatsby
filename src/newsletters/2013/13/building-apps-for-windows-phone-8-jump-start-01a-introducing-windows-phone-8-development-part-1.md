@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2d3e
 title: "Building Apps for Windows Phone 8 Jump Start: (01a) Introducing Windows Phone 8 Development Part 1"
 url: 'http://channel9.msdn.com/Series/Building-Apps-for-Windows-Phone-8-Jump-Start/Building-Apps-for-Windows-Phone-8-Jump-Start-01a-Introducing-Windows-Phone-8-Development-Part-1'
-category: 5a88e1afbd6dca0d5f0d2d3e
+category: videos
 slug: 'building-apps-for-windows-phone-8-jump-start-01a-introducing-windows-phone-8-development-part-1'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

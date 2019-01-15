@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2ac0
 title: "IntelliTrace MVC Navigation"
 url: 'http://blogs.msdn.com/b/visualstudioalm/archive/2014/02/12/intellitrace-mvc-navigation.aspx'
-category: 5a88e1aebd6dca0d5f0d2ac0
+category: articles
 slug: 'intellitrace-mvc-navigation'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

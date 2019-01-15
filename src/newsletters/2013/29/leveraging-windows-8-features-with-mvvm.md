@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2c70
 title: "Leveraging Windows 8 Features with MVVM"
 url: 'http://msdn.microsoft.com/en-us/magazine/dn296512.aspx'
-category: 5a88e1afbd6dca0d5f0d2c70
+category: articles
 slug: 'leveraging-windows-8-features-with-mvvm'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d26bc
 title: "Publishing your ASP.NET App to Linux in 5 minutes with Docker"
 url: 'http://www.codeproject.com/Articles/990839/Publishing-your-ASP-NET-App-to-Linux-in-minutes-wi'
-category: 5a88e1adbd6dca0d5f0d26bc
+category: articles
 slug: 'publishing-your-asp-net-app-to-linux-in-5-minutes-with-docker'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

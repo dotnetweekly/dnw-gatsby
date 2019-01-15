@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d22f4
 title: "Scripty, a C# T4 Alternative"
 url: 'https://channel9.msdn.com/coding4fun/blog/Scripty-a-C-T4-Alternative'
-category: 5a88e1acbd6dca0d5f0d22f4
+category: libraries-tools
 slug: 'scripty-a-c-t4-alternative'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

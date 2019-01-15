@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d29e4
 title: "EF7 - New Platforms, New Data Stores"
 url: 'http://blogs.msdn.com/b/adonet/archive/2014/05/19/ef7-new-platforms-new-data-stores.aspx'
-category: 5a88e1aebd6dca0d5f0d29e4
+category: libraries-tools
 slug: 'ef7-new-platforms-new-data-stores'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

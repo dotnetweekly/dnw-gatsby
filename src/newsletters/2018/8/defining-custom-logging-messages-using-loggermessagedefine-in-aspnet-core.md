@@ -2,7 +2,7 @@
 _id: 5a8fd81935182d002a23db37
 title: "Defining Custom Logging Messages Using LoggerMessage.Define In ASP.NET Core"
 url: 'http://crbtech.in/Dot-Net-Training/defining-custom-logging-messages-using-loggermessage-define-asp-net-core/'
-category: 5a8fd81935182d002a23db37
+category: articles
 slug: 'defining-custom-logging-messages-using-loggermessagedefine-in-aspnet-core'
 user_id: 5a8fd71e35182d002a23db36
 username: 'priyu323'

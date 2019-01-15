@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d25a0
 title: "Sending WebHooks with ASP.NET WebHooks Preview"
 url: 'http://blogs.msdn.com/b/webdev/archive/2015/09/15/sending-webhooks-with-asp-net-webhooks-preview.aspx'
-category: 5a88e1adbd6dca0d5f0d25a0
+category: articles
 slug: 'sending-webhooks-with-asp-net-webhooks-preview'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

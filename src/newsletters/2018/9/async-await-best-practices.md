@@ -2,7 +2,7 @@
 _id: 5a950d1774898fac6202e768
 title: "Async/Await Best Practices"
 url: 'https://channel9.msdn.com/Shows/On-NET/Brandon-Minnick-asyncawait-best-practices/'
-category: 5a950d1774898fac6202e768
+category: videos
 slug: 'async-await-best-practices'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

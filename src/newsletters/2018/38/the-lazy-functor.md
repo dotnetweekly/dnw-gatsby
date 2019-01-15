@@ -2,7 +2,7 @@
 _id: 5b9fb12a7a4fc4b76fdaab8b
 title: "The Lazy functor"
 url: 'http://blog.ploeh.dk/2018/09/10/the-lazy-functor/'
-category: 5b9fb12a7a4fc4b76fdaab8b
+category: articles
 slug: 'the-lazy-functor'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1aabd6dca0d5f0d1ac8
 title: "Interactive Line Editing in .NET"
 url: 'http://tirania.org/blog/archive/2018/Jan-12.html'
-category: 5a88e1aabd6dca0d5f0d1ac8
+category: articles
 slug: 'interactive-line-editing-in-net'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

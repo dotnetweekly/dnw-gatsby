@@ -2,7 +2,7 @@
 _id: 5bbc14cc8a5a39b557fd9806
 title: "Deploying A Blazor Application On Azure"
 url: 'https://ankitsharmablogs.com/deploying-a-blazor-application-on-azure/'
-category: 5bbc14cc8a5a39b557fd9806
+category: articles
 slug: 'deploying-a-blazor-application-on-azure'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

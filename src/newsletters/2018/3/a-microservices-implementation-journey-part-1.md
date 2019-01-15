@@ -2,7 +2,7 @@
 _id: 5a88e1aabd6dca0d5f0d1aea
 title: "A Microservices implementation journey — Part 1"
 url: 'https://koukia.ca/a-microservices-implementation-journey-part-1-9f6471fe917'
-category: 5a88e1aabd6dca0d5f0d1aea
+category: articles
 slug: 'a-microservices-implementation-journey-part-1'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

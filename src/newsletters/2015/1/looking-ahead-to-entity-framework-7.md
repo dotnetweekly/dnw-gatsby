@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d27e8
 title: "Looking Ahead to Entity Framework 7"
 url: 'http://msdn.microsoft.com/el-gr/magazine/dn890367(en-us).aspx'
-category: 5a88e1adbd6dca0d5f0d27e8
+category: libraries-tools
 slug: 'looking-ahead-to-entity-framework-7'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

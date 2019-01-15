@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d29d4
 title: "Gain Knowledge from Thousands of Developers on the Office 365 Technical Network "
 url: 'https://www.yammer.com/itpronetwork'
-category: 5a88e1aebd6dca0d5f0d29d4
+category: libraries-tools
 slug: 'gain-knowledge-from-thousands-of-developers-on-the-office-365-technical-network'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

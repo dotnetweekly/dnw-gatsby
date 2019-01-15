@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2f62
 title: "FLUENT SECURITY configuration for ASP.NET MVC"
 url: 'http://www.fluentsecurity.net/'
-category: 5a88e1afbd6dca0d5f0d2f62
+category: libraries-tools
 slug: 'fluent-security-configuration-for-asp-net-mvc'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

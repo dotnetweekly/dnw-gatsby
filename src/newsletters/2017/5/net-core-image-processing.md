@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d2056
 title: ".NET Core Image Processing"
 url: 'https://blogs.msdn.microsoft.com/dotnet/2017/01/19/net-core-image-processing/'
-category: 5a88e1acbd6dca0d5f0d2056
+category: articles
 slug: 'net-core-image-processing'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

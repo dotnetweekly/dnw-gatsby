@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d2502
 title: "Announcing Visual Studio Code Beta"
 url: 'http://blogs.msdn.com/b/vscode/archive/2015/11/17/announcing-visual-studio-code-beta.aspx'
-category: 5a88e1adbd6dca0d5f0d2502
+category: libraries-tools
 slug: 'announcing-visual-studio-code-beta'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1c9a
 title: "Creating a CI/CD pipeline on Azure Container Services with Kubernetes and Visual Studio Team Services"
 url: 'https://dgkanatsios.com/2017/05/29/creating-a-cicd-pipeline-on-azure-container-services-with-kubernetes-and-visual-studio-team-services/'
-category: 5a88e1abbd6dca0d5f0d1c9a
+category: articles
 slug: 'creating-a-cicd-pipeline-on-azure-container-services-with-kubernetes-and-visual-studio-team-service'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

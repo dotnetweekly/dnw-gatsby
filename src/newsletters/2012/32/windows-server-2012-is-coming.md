@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2f68
 title: "Windows Server 2012 Is Coming"
 url: 'http://blogs.technet.com/b/serverandtools/archive/2012/08/07/windows-server-2012-is-coming.aspx'
-category: 5a88e1afbd6dca0d5f0d2f68
+category: libraries-tools
 slug: 'windows-server-2012-is-coming'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

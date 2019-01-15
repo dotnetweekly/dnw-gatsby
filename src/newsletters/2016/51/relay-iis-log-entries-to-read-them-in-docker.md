@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d20f8
 title: "Relay IIS Log Entries To Read Them in Docker"
 url: 'https://blog.sixeyed.com/relay-iis-log-entries-to-read-them-in-docker/'
-category: 5a88e1acbd6dca0d5f0d20f8
+category: articles
 slug: 'relay-iis-log-entries-to-read-them-in-docker'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

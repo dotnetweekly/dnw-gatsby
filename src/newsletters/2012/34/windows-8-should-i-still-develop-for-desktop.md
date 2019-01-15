@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2f32
 title: "Windows 8: Should I still develop for desktop?"
 url: 'http://blogs.msdn.com/b/jfox/archive/2012/08/22/windows-8-should-i-still-develop-for-desktop.aspx'
-category: 5a88e1afbd6dca0d5f0d2f32
+category: articles
 slug: 'windows-8-should-i-still-develop-for-desktop'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

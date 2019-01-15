@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d2200
 title: "16 New Tools and Extensions for Visual Studio"
 url: 'https://visualstudiomagazine.com/articles/2016/09/01/16-new-vs-2015-extensions.aspx'
-category: 5a88e1acbd6dca0d5f0d2200
+category: libraries-tools
 slug: '16-new-tools-and-extensions-for-visual-studio'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2a4c
 title: "Windows Store C++ for C# Developers "
 url: 'http://msdn.microsoft.com/en-us/magazine/dn630645.aspx'
-category: 5a88e1aebd6dca0d5f0d2a4c
+category: libraries-tools
 slug: 'windows-store-c-for-c-developers'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

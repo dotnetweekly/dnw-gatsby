@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2f7c
 title: "Grab Over 80 Free Ebooks from Microsoft and Learn Something Tech-y"
 url: 'http://lifehacker.com/5930800/grab-over-80-free-ebooks-from-microsoft'
-category: 5a88e1afbd6dca0d5f0d2f7c
+category: books
 slug: 'grab-over-80-free-ebooks-from-microsoft-and-learn-something-tech-y'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

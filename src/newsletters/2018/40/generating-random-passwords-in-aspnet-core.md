@@ -2,7 +2,7 @@
 _id: 5bb20f51af8d5e563aca6240
 title: "Generating random passwords in ASP.NET Core"
 url: 'https://streamwriter.net/generating-random-passwords-in-asp-net-core/'
-category: 5bb20f51af8d5e563aca6240
+category: articles
 slug: 'generating-random-passwords-in-aspnet-core'
 user_id: 5bb20e16af8d5e21acca623d
 username: 'mirceateodor.oprea@gmail.com'

@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d292c
 title: "Visual Studio “14” CTP 3 available"
 url: 'http://blogs.msdn.com/b/bharry/archive/2014/08/18/visual-studio-14-ctp-3-available.aspx'
-category: 5a88e1aebd6dca0d5f0d292c
+category: libraries-tools
 slug: 'visual-studio-14-ctp-3-available'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

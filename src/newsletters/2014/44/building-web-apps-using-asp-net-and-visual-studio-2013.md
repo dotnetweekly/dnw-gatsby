@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2874
 title: "Building Web Apps Using ASP.NET and Visual Studio 2013"
 url: 'http://channel9.msdn.com/Events/TechEd/Europe/2014/DEV-B323'
-category: 5a88e1aebd6dca0d5f0d2874
+category: videos
 slug: 'building-web-apps-using-asp-net-and-visual-studio-2013'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

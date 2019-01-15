@@ -2,7 +2,7 @@
 _id: 5afa611e416efa829c328cc8
 title: "Azure SignalR Service, a fully-managed service to add real-time functionality"
 url: 'https://azure.microsoft.com/en-us/blog/azure-signalr-service-a-fully-managed-service-to-add-real-time-functionality/'
-category: 5afa611e416efa829c328cc8
+category: articles
 slug: 'azure-signalr-service-a-fully-managed-service-to-add-real-time-functionality'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a9f4c8d8adcae002b31b60c
 title: "Migrate existing ASP.Net Core 2.0 application to ASP.Net Core 2.1"
 url: 'http://www.talkingdotnet.com/migrate-existing-aspnet-core-2-application-aspnet-core-2-1/'
-category: 5a9f4c8d8adcae002b31b60c
+category: articles
 slug: 'migrate-existing-aspnet-core-20-application-to-aspnet-core-21'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

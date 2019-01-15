@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d296a
 title: "ASP.NET Boilerplate"
 url: 'http://www.aspnetboilerplate.com/'
-category: 5a88e1aebd6dca0d5f0d296a
+category: libraries-tools
 slug: 'asp-net-boilerplate'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

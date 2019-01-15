@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2a38
 title: "The future of .NET, today. The .NET Compiler Platform"
 url: 'http://channel9.msdn.com/coding4fun/blog/The-future-of-NET-today-The-NET-Compiler-Platform'
-category: 5a88e1aebd6dca0d5f0d2a38
+category: articles
 slug: 'the-future-of-net-today-the-net-compiler-platform'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

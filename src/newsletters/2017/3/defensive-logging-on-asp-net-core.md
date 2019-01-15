@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d207e
 title: "Defensive logging on ASP.NET Core"
 url: 'http://gunnarpeipman.com/2017/01/aspnet-core-defensive-logging/'
-category: 5a88e1acbd6dca0d5f0d207e
+category: articles
 slug: 'defensive-logging-on-asp-net-core'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

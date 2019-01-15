@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d29f0
 title: "Writing C# Code Using SOLID Principles"
 url: 'http://www.codeguru.com/csharp/csharp/writing-c-code-using-solid-principles.htm'
-category: 5a88e1aebd6dca0d5f0d29f0
+category: articles
 slug: 'writing-c-code-using-solid-principles'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

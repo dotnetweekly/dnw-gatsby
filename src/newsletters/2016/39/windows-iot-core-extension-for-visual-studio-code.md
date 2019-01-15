@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d21f6
 title: "Windows IoT Core Extension for Visual Studio Code"
 url: 'https://blogs.windows.com/buildingapps/2016/09/08/windows-iot-core-extension-for-visual-studio-code/'
-category: 5a88e1acbd6dca0d5f0d21f6
+category: libraries-tools
 slug: 'windows-iot-core-extension-for-visual-studio-code'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

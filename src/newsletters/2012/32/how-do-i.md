@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2f6a
 title: "How Do I"
 url: 'http://channel9.msdn.com/Blogs/How-Do-I'
-category: 5a88e1afbd6dca0d5f0d2f6a
+category: videos
 slug: 'how-do-i'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

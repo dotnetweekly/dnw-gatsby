@@ -2,7 +2,7 @@
 _id: 5ae5f7077b1832006e43ede5
 title: "GraphQL with ASP.NET Core (Part- V : Fields, Arguments, Variables)"
 url: 'http://fiyazhasan.me/graphql-with-asp-net-core-part-v-fields-arguments-variables/'
-category: 5ae5f7077b1832006e43ede5
+category: articles
 slug: 'graphql-with-aspnet-core-part-v-fields-arguments-variables'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1aabd6dca0d5f0d1bf0
 title: "Lightweight bundling, minifying, and compression, for CSS and JavaScript with ASP.NET Core and Smidge"
 url: 'https://www.hanselman.com/blog/LightweightBundlingMinifyingAndCompressionForCSSAndJavaScriptWithASPNETCoreAndSmidge.aspx'
-category: 5a88e1aabd6dca0d5f0d1bf0
+category: articles
 slug: 'lightweight-bundling-minifying-and-compression-for-css-and-javascript-with-asp-net-core-and-smidge'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

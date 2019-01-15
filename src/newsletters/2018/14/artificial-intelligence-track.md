@@ -2,7 +2,7 @@
 _id: 5ac424c4230cde002ab85cc9
 title: "Artificial Intelligence Track"
 url: 'https://academy.microsoft.com/en-us/tracks/artificial-intelligence/'
-category: 5ac424c4230cde002ab85cc9
+category: events-training
 slug: 'artificial-intelligence-track'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1aabd6dca0d5f0d1a94
 title: "Developer Guide—App Development"
 url: 'https://azure.microsoft.com/en-us/campaigns/developer-guide/?wt.mc_id=AID642788_EML_5404731'
-category: 5a88e1aabd6dca0d5f0d1a94
+category: books
 slug: 'developer-guide-app-development'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

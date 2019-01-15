@@ -2,7 +2,7 @@
 _id: 5b9d23c534a7ea73782b77de
 title: "A Breakdown of Blazor Project Types"
 url: 'https://www.telerik.com/blogs/a-breakdown-of-blazor-project-types'
-category: 5b9d23c534a7ea73782b77de
+category: articles
 slug: 'a-breakdown-of-blazor-project-types'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

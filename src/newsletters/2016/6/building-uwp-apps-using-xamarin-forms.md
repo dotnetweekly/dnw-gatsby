@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d2438
 title: "Building UWP Apps Using Xamarin.Forms"
 url: 'https://visualstudiomagazine.com/articles/2016/02/01/xamarin-forms.aspx'
-category: 5a88e1acbd6dca0d5f0d2438
+category: articles
 slug: 'building-uwp-apps-using-xamarin-forms'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

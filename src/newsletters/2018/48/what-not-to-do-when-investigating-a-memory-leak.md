@@ -2,7 +2,7 @@
 _id: 5bff33a7d9a5932c41f70e63
 title: "What Not To Do when Investigating a Memory Leak"
 url: 'https://www.productivecsharp.com/2018/11/what-not-to-do-when-investigating-memory-leak/'
-category: 5bff33a7d9a5932c41f70e63
+category: articles
 slug: 'what-not-to-do-when-investigating-a-memory-leak'
 user_id: 5a8a92348b86e53b3449b47a
 username: 'andrea.angella'

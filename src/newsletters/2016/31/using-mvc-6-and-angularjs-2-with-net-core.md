@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d2280
 title: "Using MVC 6 And AngularJS 2 With .NET Core"
 url: 'http://www.c-sharpcorner.com/article/using-mvc-6-and-angularjs-2-with-net-core/'
-category: 5a88e1acbd6dca0d5f0d2280
+category: articles
 slug: 'using-mvc-6-and-angularjs-2-with-net-core'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

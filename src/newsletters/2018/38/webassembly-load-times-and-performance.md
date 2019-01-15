@@ -2,7 +2,7 @@
 _id: 5ba45ba47a4fc40d34daab9b
 title: "WebAssembly Load Times and Performance"
 url: 'https://blogs.unity3d.com/2018/09/17/webassembly-load-times-and-performance/'
-category: 5ba45ba47a4fc40d34daab9b
+category: articles
 slug: 'webassembly-load-times-and-performance'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -13,12 +13,12 @@ function BlogPost(props) {
       <div style={{ padding: '0 10px' }}>
         <p>
           {next && (
-            <Link className="is-pulled-left" to={`/articles/${next}`}>
+            <Link className="is-pulled-left" to={`${next}`}>
               Previous
             </Link>
           )}
           {prev && (
-            <Link className="is-pulled-right" to={`/articles/${prev}`}>
+            <Link className="is-pulled-right" to={`${prev}`}>
               Next
             </Link>
           )}

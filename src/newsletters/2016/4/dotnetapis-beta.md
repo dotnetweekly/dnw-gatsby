@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d245a
 title: "DotNetApis (BETA)"
 url: 'http://dotnetapis.com/'
-category: 5a88e1acbd6dca0d5f0d245a
+category: libraries-tools
 slug: 'dotnetapis-beta'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

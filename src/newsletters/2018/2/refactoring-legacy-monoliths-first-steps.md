@@ -2,7 +2,7 @@
 _id: 5a88e1aabd6dca0d5f0d1afc
 title: "Refactoring Legacy Monoliths: First Steps"
 url: 'https://blog.jamesmichaelhickey.com/refactoring-legacy-monoliths-first-steps/'
-category: 5a88e1aabd6dca0d5f0d1afc
+category: articles
 slug: 'refactoring-legacy-monoliths-first-steps'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

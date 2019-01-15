@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d2690
 title: "CQRS for the Common Application"
 url: 'https://msdn.microsoft.com/en-us/magazine/mt147237.aspx'
-category: 5a88e1adbd6dca0d5f0d2690
+category: articles
 slug: 'cqrs-for-the-common-application'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

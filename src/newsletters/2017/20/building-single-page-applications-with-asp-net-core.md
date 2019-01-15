@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1ed2
 title: "Building Single-Page Applications with ASP.NET Core"
 url: 'https://channel9.msdn.com/Blogs/Seth-Juarez/Building-Single-Page-Applications-with-ASPNET-Core'
-category: 5a88e1abbd6dca0d5f0d1ed2
+category: articles
 slug: 'building-single-page-applications-with-asp-net-core'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

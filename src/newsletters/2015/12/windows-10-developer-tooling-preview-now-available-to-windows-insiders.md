@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d2736
 title: "Windows 10 developer tooling preview now available to Windows Insiders"
 url: 'http://blogs.windows.com/buildingapps/2015/03/23/windows-10-developer-tooling-preview-now-available-to-windows-insiders/'
-category: 5a88e1adbd6dca0d5f0d2736
+category: libraries-tools
 slug: 'windows-10-developer-tooling-preview-now-available-to-windows-insiders'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2ae8
 title: "60 Design Templates for Windows Store Apps"
 url: 'http://www.codeproject.com/Articles/616073/60-Design-Templates-for-Windows-Store-Apps'
-category: 5a88e1aebd6dca0d5f0d2ae8
+category: libraries-tools
 slug: '60-design-templates-for-windows-store-apps'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

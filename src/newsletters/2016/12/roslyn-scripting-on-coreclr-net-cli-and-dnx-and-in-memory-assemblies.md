@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d23de
 title: "Roslyn scripting on CoreCLR (.NET CLI and DNX) and in memory assemblies"
 url: 'http://www.strathweb.com/2016/03/roslyn-scripting-on-coreclr-net-cli-and-dnx-and-in-memory-assemblies/'
-category: 5a88e1acbd6dca0d5f0d23de
+category: articles
 slug: 'roslyn-scripting-on-coreclr-net-cli-and-dnx-and-in-memory-assemblies'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d25fa
 title: "Building Apps for Windows 10 with Visual Studio 2015"
 url: 'http://blogs.msdn.com/b/somasegar/archive/2015/07/29/building-apps-for-windows-10-with-visual-studio-2015.aspx'
-category: 5a88e1adbd6dca0d5f0d25fa
+category: articles
 slug: 'building-apps-for-windows-10-with-visual-studio-2015'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

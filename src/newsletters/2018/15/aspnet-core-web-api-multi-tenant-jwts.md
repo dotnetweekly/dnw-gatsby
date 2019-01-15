@@ -2,7 +2,7 @@
 _id: 5acee39dbaa51d004e9a2c81
 title: "ASP.NET Core Web API Multi-Tenant JWTs"
 url: 'https://www.carlrippon.com/asp-net-core-web-api-multi-tenant-jwts/'
-category: 5acee39dbaa51d004e9a2c81
+category: articles
 slug: 'aspnet-core-web-api-multi-tenant-jwts'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d237a
 title: "Building strongly typed application configuration utility with Roslyn"
 url: 'http://www.strathweb.com/2016/04/building-strongly-typed-application-configuration-utility-with-roslyn/'
-category: 5a88e1acbd6dca0d5f0d237a
+category: articles
 slug: 'building-strongly-typed-application-configuration-utility-with-roslyn'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

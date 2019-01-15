@@ -2,7 +2,7 @@
 _id: 5b169e76d15d3872d5ee6103
 title: "Test Strategy for Microservices"
 url: 'https://www.gocd.org/2018/05/08/continuous-delivery-microservices-test-strategy/'
-category: 5b169e76d15d3872d5ee6103
+category: articles
 slug: 'test-strategy-for-microservices'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

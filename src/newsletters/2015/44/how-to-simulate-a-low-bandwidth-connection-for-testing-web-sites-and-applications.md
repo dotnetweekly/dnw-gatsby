@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d2534
 title: "How to simulate a low bandwidth connection for testing web sites and applications"
 url: 'http://www.hanselman.com/blog/HowToSimulateALowBandwidthConnectionForTestingWebSitesAndApplications.aspx'
-category: 5a88e1adbd6dca0d5f0d2534
+category: articles
 slug: 'how-to-simulate-a-low-bandwidth-connection-for-testing-web-sites-and-applications'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

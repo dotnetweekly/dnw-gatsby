@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2816
 title: "Using Entity Framework With an Existing Database: Data Access"
 url: 'ps://www.simple-talk.com/dotnet/.net-framework/using-entity-framework-with-an-existing-database-data-access/'
-category: 5a88e1aebd6dca0d5f0d2816
+category: articles
 slug: 'using-entity-framework-with-an-existing-database-data-access'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

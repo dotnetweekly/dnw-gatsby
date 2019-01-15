@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d270e
 title: "5 Things about ASP.NET 5 that will Blow your Mind!"
 url: 'http://channel9.msdn.com/Shows/Web+Camps+TV/5-Things-about-ASPNET-5-that-will-Blow-your-Mind'
-category: 5a88e1adbd6dca0d5f0d270e
+category: videos
 slug: '5-things-about-asp-net-5-that-will-blow-your-mind'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

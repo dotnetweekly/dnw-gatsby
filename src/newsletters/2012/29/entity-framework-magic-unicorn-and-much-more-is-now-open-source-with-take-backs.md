@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2fac
 title: "Entity Framework Magic Unicorn (and much more!) is now open source with take backs"
 url: 'http://www.hanselman.com/blog/EntityFrameworkMagicUnicornAndMuchMoreIsNowOpenSourceWithTakeBacks.aspx'
-category: 5a88e1afbd6dca0d5f0d2fac
+category: articles
 slug: 'entity-framework-magic-unicorn-and-much-more-is-now-open-source-with-take-backs'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

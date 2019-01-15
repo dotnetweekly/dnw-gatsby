@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d25b0
 title: "Improve the performance of your Azure SQL Databases using Index Advisor"
 url: 'http://azure.microsoft.com/en-us/blog/optimize-database-performance-using-index-advisor-7/'
-category: 5a88e1adbd6dca0d5f0d25b0
+category: articles
 slug: 'improve-the-performance-of-your-azure-sql-databases-using-index-advisor'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a8b3e303bdd6c002abd3c0c
 title: "The Practical Test Pyramid"
 url: 'https://martinfowler.com/articles/practical-test-pyramid.html'
-category: 5a8b3e303bdd6c002abd3c0c
+category: articles
 slug: 'the-practical-test-pyramid'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

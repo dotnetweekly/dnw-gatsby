@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d27dc
 title: "Join us to hear about the next chapter of Windows 10"
 url: 'http://blogs.windows.com/bloggingwindows/2014/12/11/join-us-to-hear-about-the-next-chapter-of-windows-10/'
-category: 5a88e1adbd6dca0d5f0d27dc
+category: events-training
 slug: 'join-us-to-hear-about-the-next-chapter-of-windows-10'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

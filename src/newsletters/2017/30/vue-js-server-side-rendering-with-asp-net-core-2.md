@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1d9c
 title: "Vue.js server-side rendering with ASP.NET Core"
 url: 'https://stu.ratcliffe.io/2017/07/20/vuejs-serverside-rendering-with-aspnet-core'
-category: 5a88e1abbd6dca0d5f0d1d9c
+category: articles
 slug: 'vue-js-server-side-rendering-with-asp-net-core-2'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

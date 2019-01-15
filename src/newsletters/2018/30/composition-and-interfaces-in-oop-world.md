@@ -2,7 +2,7 @@
 _id: 5b55b89b13da0bc96ad112e8
 title: "Composition and Interfaces in OOP World"
 url: 'http://codingsight.com/composition-and-interfaces-in-oop-world/'
-category: 5b55b89b13da0bc96ad112e8
+category: articles
 slug: 'composition-and-interfaces-in-oop-world'
 user_id: 5aaa4af315c227023e22fe4b
 username: 'Dandy123'

@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d225e
 title: "Difference between Covariance and Contravariance in C# Generics"
 url: 'http://www.csharpstar.com/difference-between-covariance-and-contravariance-csharp/'
-category: 5a88e1acbd6dca0d5f0d225e
+category: articles
 slug: 'difference-between-covariance-and-contravariance-in-c-generics'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

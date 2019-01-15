@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d23ec
 title: "Announcing ASP.NET WebHooks Release Candidate 1"
 url: 'https://blogs.msdn.microsoft.com/webdev/2016/03/05/announcing-asp-net-webhooks-release-candidate-1/'
-category: 5a88e1acbd6dca0d5f0d23ec
+category: libraries-tools
 slug: 'announcing-asp-net-webhooks-release-candidate-1'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

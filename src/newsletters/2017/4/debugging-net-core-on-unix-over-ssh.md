@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d2050
 title: "Debugging .NET Core on Unix over SSH"
 url: 'https://blogs.msdn.microsoft.com/visualstudioalm/2017/01/26/debugging-net-core-on-unix-over-ssh/'
-category: 5a88e1acbd6dca0d5f0d2050
+category: articles
 slug: 'debugging-net-core-on-unix-over-ssh'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

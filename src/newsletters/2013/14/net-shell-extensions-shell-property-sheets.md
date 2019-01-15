@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2d30
 title: "NET Shell Extensions - Shell Property Sheets"
 url: 'http://www.codeproject.com/Articles/573392/NET-Shell-Extensions-Shell-Property-Sheets'
-category: 5a88e1afbd6dca0d5f0d2d30
+category: articles
 slug: 'net-shell-extensions-shell-property-sheets'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

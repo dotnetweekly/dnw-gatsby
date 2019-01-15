@@ -2,7 +2,7 @@
 _id: 5a99f7b15045f3c957b3fc9d
 title: "Identify users and their permissions with JWTs and ASP.NET Core WebAPI"
 url: 'https://jonhilton.net/identify-users-permissions-with-jwts-and-asp-net-core-webapi/'
-category: 5a99f7b15045f3c957b3fc9d
+category: articles
 slug: 'identify-users-and-their-permissions-with-jwts-and-aspnet-core-webapi'
 user_id: 5a99f5eb5045f3c957b3fc98
 username: 'ahoskins'

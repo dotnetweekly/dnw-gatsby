@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d21f8
 title: "Debugging BotFramework locally using ngrok"
 url: 'http://robinosborne.co.uk/2016/09/19/debugging-botframework-locally-using-ngrok/'
-category: 5a88e1acbd6dca0d5f0d21f8
+category: articles
 slug: 'debugging-botframework-locally-using-ngrok'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

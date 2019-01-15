@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2dde
 title: "Helping Search Engines Handle Pagination"
 url: 'http://webdesign.tutsplus.com/articles/general/helping-search-engines-handle-pagination/'
-category: 5a88e1afbd6dca0d5f0d2dde
+category: articles
 slug: 'helping-search-engines-handle-pagination'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

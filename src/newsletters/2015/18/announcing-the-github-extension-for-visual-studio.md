@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d26d4
 title: "Announcing the GitHub Extension for Visual Studio"
 url: 'http://blogs.msdn.com/b/visualstudio/archive/2015/04/30/announcing-the-github-extension-for-visual-studio.aspx'
-category: 5a88e1adbd6dca0d5f0d26d4
+category: libraries-tools
 slug: 'announcing-the-github-extension-for-visual-studio'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

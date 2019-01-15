@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2c74
 title: "Activate the Windows Azure benefits included with your MSDN subscription and you could win an Aston Martin."
 url: 'http://www.windowsazure.com/en-us/campaigns/car/'
-category: 5a88e1afbd6dca0d5f0d2c74
+category: articles
 slug: 'activate-the-windows-azure-benefits-included-with-your-msdn-subscription-and-you-could-win-an-aston'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

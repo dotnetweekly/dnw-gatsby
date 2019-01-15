@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2b32
 title: "Using Windows 8 and 8.1 - Comprehensive How-To Video Tutorials"
 url: 'http://www.youtube.com/playlist?list=PL0M0zPgJ3HSfrydBvq11e7ib7DaWZphwE'
-category: 5a88e1aebd6dca0d5f0d2b32
+category: videos
 slug: 'using-windows-8-and-8-1-comprehensive-how-to-video-tutorials'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

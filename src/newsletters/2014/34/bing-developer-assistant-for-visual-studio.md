@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2914
 title: "Bing Developer Assistant for Visual Studio"
 url: 'http://blog.devmatter.com/bing-developer-assistant-for-visual-studio/'
-category: 5a88e1aebd6dca0d5f0d2914
+category: libraries-tools
 slug: 'bing-developer-assistant-for-visual-studio'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

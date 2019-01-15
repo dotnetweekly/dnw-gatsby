@@ -2,7 +2,7 @@
 _id: 5a88e1aabd6dca0d5f0d1ad4
 title: "HTTP/2 PUSH vs HTTP Preload"
 url: 'https://dexecure.com/blog/http2-push-vs-http-preload/'
-category: 5a88e1aabd6dca0d5f0d1ad4
+category: articles
 slug: 'http-2-push-vs-http-preload-2'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

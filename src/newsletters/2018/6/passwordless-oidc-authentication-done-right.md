@@ -2,7 +2,7 @@
 _id: 5a88e1aabd6dca0d5f0d1a76
 title: "Passwordless OIDC authentication done right"
 url: 'https://github.com/pwdless/cierge'
-category: 5a88e1aabd6dca0d5f0d1a76
+category: libraries-tools
 slug: 'passwordless-oidc-authentication-done-right'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

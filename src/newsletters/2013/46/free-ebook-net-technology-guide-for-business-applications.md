@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2b82
 title: "Free ebook: .NET Technology Guide for Business Applications"
 url: 'http://blogs.msdn.com/b/microsoft_press/archive/2013/11/13/free-ebook-net-technology-guide-for-business-applications.aspx'
-category: 5a88e1aebd6dca0d5f0d2b82
+category: books
 slug: 'free-ebook-net-technology-guide-for-business-applications'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

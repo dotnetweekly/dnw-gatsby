@@ -2,7 +2,7 @@
 _id: 5bda8b961428e62f1094dad5
 title: "Create your first intelligent bot with Microsoft AI"
 url: 'https://info.microsoft.com/ww-landing-ai-developers-bot-ebook.html'
-category: 5bda8b961428e62f1094dad5
+category: books
 slug: 'create-your-first-intelligent-bot-with-microsoft-ai'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

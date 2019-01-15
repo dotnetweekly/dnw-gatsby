@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1ece
 title: ".NET/ASP.NET team at DEVintersection 2017"
 url: 'https://devintersection.com/#!/Visual-Studio-ASP-Azure-Conference/'
-category: 5a88e1abbd6dca0d5f0d1ece
+category: events-training
 slug: 'netasp-net-team-at-devintersection-2017'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

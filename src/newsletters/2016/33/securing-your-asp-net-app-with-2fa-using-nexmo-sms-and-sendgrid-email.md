@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d2262
 title: "Securing Your ASP.NET App with 2FA using Nexmo SMS and SendGrid Email"
 url: 'https://www.nexmo.com/blog/2016/08/10/securing-asp-net-app-2fa-using-nexmo-sms-sendgrid-email-dr/'
-category: 5a88e1acbd6dca0d5f0d2262
+category: articles
 slug: 'securing-your-asp-net-app-with-2fa-using-nexmo-sms-and-sendgrid-email'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

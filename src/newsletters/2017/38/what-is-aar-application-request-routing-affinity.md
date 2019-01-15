@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1cba
 title: "What is AAR (Application Request Routing) Affinity?"
 url: 'http://techxposer.com/2017/09/04/what-is-aar-application-request-routing-affinity/'
-category: 5a88e1abbd6dca0d5f0d1cba
+category: articles
 slug: 'what-is-aar-application-request-routing-affinity'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

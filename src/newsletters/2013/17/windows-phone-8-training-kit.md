@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2d06
 title: "Windows Phone 8 Training Kit"
 url: 'http://www.microsoft.com/en-us/download/details.aspx?id=38782&WT.mc_id=rss_alldownloads_all'
-category: 5a88e1afbd6dca0d5f0d2d06
+category: libraries-tools
 slug: 'windows-phone-8-training-kit'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

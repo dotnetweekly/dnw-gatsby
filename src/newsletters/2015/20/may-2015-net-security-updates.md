@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d26be
 title: "May 2015 .NET Security Updates"
 url: 'http://blogs.msdn.com/b/dotnet/archive/2015/05/12/may-2015-net-security-updates.aspx'
-category: 5a88e1adbd6dca0d5f0d26be
+category: articles
 slug: 'may-2015-net-security-updates'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

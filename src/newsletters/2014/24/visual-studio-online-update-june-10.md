@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d29d0
 title: "Visual Studio Online Update – June 10"
 url: 'http://blogs.msdn.com/b/bharry/archive/2014/06/10/visual-studio-online-update-june-10.aspx'
-category: 5a88e1aebd6dca0d5f0d29d0
+category: libraries-tools
 slug: 'visual-studio-online-update-june-10'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

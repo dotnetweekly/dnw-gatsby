@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d21d6
 title: "Introducing Microsoft SQL Server 2016"
 url: 'https://info.microsoft.com/Introducing-SQL-Server-2016-eBook.html'
-category: 5a88e1acbd6dca0d5f0d21d6
+category: books
 slug: 'introducing-microsoft-sql-server-2016'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

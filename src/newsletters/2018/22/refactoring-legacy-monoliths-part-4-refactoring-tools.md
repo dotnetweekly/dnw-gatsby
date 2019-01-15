@@ -2,7 +2,7 @@
 _id: 5b0d84a3d15d387510ee60d7
 title: "Refactoring Legacy Monoliths – Part 4: Refactoring Tools"
 url: 'https://www.blog.jamesmichaelhickey.com/refactoring-legacy-monoliths-part-4-refactoring-tools/'
-category: 5b0d84a3d15d387510ee60d7
+category: articles
 slug: 'refactoring-legacy-monoliths-part-4-refactoring-tools'
 user_id: 5a8a92328b86e53b3449b0ac
 username: 'jamesmh_dev'

@@ -2,7 +2,7 @@
 _id: 5b8df4cc2810131bde94a423
 title: "Fuzzing the .NET JIT Compiler"
 url: 'http://mattwarren.org/2018/08/28/Fuzzing-the-.NET-JIT-Compiler/'
-category: 5b8df4cc2810131bde94a423
+category: articles
 slug: 'fuzzing-the-net-jit-compiler'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

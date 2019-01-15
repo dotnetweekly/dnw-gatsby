@@ -2,7 +2,7 @@
 _id: 5b169e48d15d388524ee6102
 title: "Introducing fuget.org"
 url: 'http://praeclarum.org/post/174440517348/introducing-fugetorg'
-category: 5b169e48d15d388524ee6102
+category: articles
 slug: 'introducing-fugetorg'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

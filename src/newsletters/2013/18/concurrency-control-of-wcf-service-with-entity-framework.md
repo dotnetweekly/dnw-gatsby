@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2cf0
 title: "Concurrency Control of WCF Service with Entity Framework"
 url: 'http://www.codeproject.com/Articles/162746/Concurrency-Control-of-WCF-Service-with-Entity-Fra'
-category: 5a88e1afbd6dca0d5f0d2cf0
+category: articles
 slug: 'concurrency-control-of-wcf-service-with-entity-framework'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5b62a9046b826e68d6f5993d
 title: "Avoid Lazy Loading in ASP.NET"
 url: 'https://wildermuth.com/2018/07/28/Avoid-Lazy-Loading-in-ASP-NET'
-category: 5b62a9046b826e68d6f5993d
+category: articles
 slug: 'avoid-lazy-loading-in-aspnet'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

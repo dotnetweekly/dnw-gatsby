@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1ee0
 title: "Introduction to Azure Cosmos DB"
 url: 'https://docs.microsoft.com/en-us/azure/cosmos-db/introduction'
-category: 5a88e1abbd6dca0d5f0d1ee0
+category: articles
 slug: 'introduction-to-azure-cosmos-db'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

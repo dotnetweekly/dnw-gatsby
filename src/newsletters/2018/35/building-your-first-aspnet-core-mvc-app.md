@@ -2,7 +2,7 @@
 _id: 5b8563e7eb7beb14e389afb9
 title: "Building Your First ASP.NET Core MVC App"
 url: 'https://codingsight.com/building-your-first-asp-net-core-mvc-app/'
-category: 5b8563e7eb7beb14e389afb9
+category: articles
 slug: 'building-your-first-aspnet-core-mvc-app'
 user_id: 5aaa4af315c227023e22fe4b
 username: 'Dandy123'

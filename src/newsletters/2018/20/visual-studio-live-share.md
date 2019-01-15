@@ -2,7 +2,7 @@
 _id: 5afb2814416efa72fa328cd0
 title: "Visual Studio Live Share"
 url: 'https://www.visualstudio.com/services/live-share/'
-category: 5afb2814416efa72fa328cd0
+category: articles
 slug: 'visual-studio-live-share'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

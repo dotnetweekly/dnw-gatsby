@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2ad2
 title: "Introducing the new hub control for heterogeneous data"
 url: 'http://blogs.windows.com/windows/b/appbuilder/archive/2014/02/05/introducing-the-new-hub-control-for-heterogeneous-data.aspx'
-category: 5a88e1aebd6dca0d5f0d2ad2
+category: articles
 slug: 'introducing-the-new-hub-control-for-heterogeneous-data'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

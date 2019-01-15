@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d2116
 title: "Here's 1.4 billion records from Have I been pwned for you to analyse"
 url: 'https://www.troyhunt.com/heres-1-4-billion-records-from-have-i-been-pwned-for-you-to-analyse/'
-category: 5a88e1acbd6dca0d5f0d2116
+category: libraries-tools
 slug: 'heres-1-4-billion-records-from-have-i-been-pwned-for-you-to-analyse'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

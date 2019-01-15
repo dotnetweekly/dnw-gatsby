@@ -2,7 +2,7 @@
 _id: 5be5352427cd23a0505935f4
 title: "Announcing .NET Standard 2.1"
 url: 'https://blogs.msdn.microsoft.com/dotnet/2018/11/05/announcing-net-standard-2-1/'
-category: 5be5352427cd23a0505935f4
+category: articles
 slug: 'announcing-net-standard-21'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5c3b51105e8f0d34828d0c55
 title: "Creating a top menu search bar in Blazor"
 url: 'https://streamwriter.net/creating-a-top-menu-search-bar-in-blazor/'
-category: 5c3b51105e8f0d34828d0c55
+category: articles
 slug: 'creating-a-top-menu-search-bar-in-blazor'
 user_id: 5bb20e16af8d5e21acca623d
 username: 'mirceateodor.oprea@gmail.com'

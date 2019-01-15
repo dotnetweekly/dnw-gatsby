@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2b46
 title: "Sexy C#"
 url: 'http://www.codeproject.com/Articles/696879/Sexy-Csharp'
-category: 5a88e1aebd6dca0d5f0d2b46
+category: articles
 slug: 'sexy-c'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

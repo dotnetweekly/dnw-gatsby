@@ -2,7 +2,7 @@
 _id: 5ab14add0e665701fe317082
 title: "Under the Hood of Stopwatch"
 url: 'http://codingsight.com/under-the-hood-of-stopwatch/'
-category: 5ab14add0e665701fe317082
+category: articles
 slug: 'under-the-hood-of-stopwatch'
 user_id: 5aaa4af315c227023e22fe4b
 username: 'Dandy123'

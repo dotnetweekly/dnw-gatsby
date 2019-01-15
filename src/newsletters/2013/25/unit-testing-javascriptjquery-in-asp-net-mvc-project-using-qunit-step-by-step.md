@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2c92
 title: "Unit Testing JavaScript/JQuery in ASP.Net MVC Project using QUnit Step by Step"
 url: 'http://blogs.msdn.com/b/pranab/archive/2013/06/20/unit-testing-javascript-jquery-in-asp-net-mvc-project-using-qunit.aspx'
-category: 5a88e1afbd6dca0d5f0d2c92
+category: articles
 slug: 'unit-testing-javascriptjquery-in-asp-net-mvc-project-using-qunit-step-by-step'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

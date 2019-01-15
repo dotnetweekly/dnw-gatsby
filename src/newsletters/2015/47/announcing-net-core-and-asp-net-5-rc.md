@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d2504
 title: "Announcing .NET Core and ASP.NET 5 RC"
 url: 'http://blogs.msdn.com/b/dotnet/archive/2015/11/18/announcing-net-core-and-asp-net-5-rc.aspx'
-category: 5a88e1adbd6dca0d5f0d2504
+category: libraries-tools
 slug: 'announcing-net-core-and-asp-net-5-rc'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

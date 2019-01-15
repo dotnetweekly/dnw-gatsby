@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2912
 title: "Open Source Questions Answered"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/open-source-questions-answered'
-category: 5a88e1aebd6dca0d5f0d2912
+category: events-training
 slug: 'open-source-questions-answered'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

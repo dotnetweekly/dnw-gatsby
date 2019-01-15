@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2b86
 title: "Visual Studio 2013 Launch: Announcing Visual Studio Online"
 url: 'http://blogs.msdn.com/b/somasegar/archive/2013/11/13/visual-studio-2013-launch-announcing-visual-studio-online.aspx'
-category: 5a88e1aebd6dca0d5f0d2b86
+category: articles
 slug: 'visual-studio-2013-launch-announcing-visual-studio-online'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

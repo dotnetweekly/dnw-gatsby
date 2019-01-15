@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2f7a
 title: "Responsive design using Foundation with ASP.Net MVC"
 url: 'http://www.simple-talk.com/dotnet/asp.net/responsive-design-using-foundation-with-asp.net-mvc/'
-category: 5a88e1afbd6dca0d5f0d2f7a
+category: libraries-tools
 slug: 'responsive-design-using-foundation-with-asp-net-mvc'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

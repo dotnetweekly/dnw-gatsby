@@ -2,7 +2,7 @@
 _id: 5a88e1aabd6dca0d5f0d1a9e
 title: "Scalable and Performant ASP.NET Core Web APIs: Load Testing"
 url: 'https://www.carlrippon.com/scalable-and-performant-asp-net-core-web-apis-load-testing/'
-category: 5a88e1aabd6dca0d5f0d1a9e
+category: articles
 slug: 'scalable-and-performant-asp-net-core-web-apis-load-testing'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

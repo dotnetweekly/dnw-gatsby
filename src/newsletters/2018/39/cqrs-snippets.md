@@ -2,7 +2,7 @@
 _id: 5ba94740af8d5e1f30ca621d
 title: "CQRS snippets"
 url: 'https://cezarypiatek.github.io/post/cqrs-snippets/'
-category: 5ba94740af8d5e1f30ca621d
+category: articles
 slug: 'cqrs-snippets'
 user_id: 5a980534877735bd0ca462de
 username: 'cezarypiatek'

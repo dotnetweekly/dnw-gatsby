@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d2516
 title: "Azure Event Hubs Primer"
 url: 'http://www.wintellect.com/devcenter/paulballard/azure-event-hubs-primer'
-category: 5a88e1adbd6dca0d5f0d2516
+category: libraries-tools
 slug: 'azure-event-hubs-primer'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

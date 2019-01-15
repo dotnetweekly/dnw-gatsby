@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1ca2
 title: "View Components in ASP.NET Core"
 url: 'https://tech.io/playgrounds/4981/view-components-in-asp-net-core'
-category: 5a88e1abbd6dca0d5f0d1ca2
+category: articles
 slug: 'view-components-in-asp-net-core'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

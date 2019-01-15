@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d214a
 title: "Visual Studio Development – Productivity Enhancements in Visual Studio 2017 RC"
 url: 'https://msdn.microsoft.com/magazine/mt790181'
-category: 5a88e1acbd6dca0d5f0d214a
+category: articles
 slug: 'visual-studio-development-productivity-enhancements-in-visual-studio-2017-rc'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

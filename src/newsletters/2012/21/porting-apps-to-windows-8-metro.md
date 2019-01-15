@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d304c
 title: "Porting apps to Windows 8 Metro"
 url: 'http://blogs.msdn.com/b/jennifer/archive/2012/05/25/porting-apps-to-windows-8-metro.aspx'
-category: 5a88e1afbd6dca0d5f0d304c
+category: articles
 slug: 'porting-apps-to-windows-8-metro'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

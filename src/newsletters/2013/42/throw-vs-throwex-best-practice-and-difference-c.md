@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2bba
 title: "throw vs. throw(ex) best practice and difference - c#"
 url: 'http://www.dotnetlogix.com/Article/Csharp/266/throw-vs-throwex-best-practice-and-difference---c.html'
-category: 5a88e1aebd6dca0d5f0d2bba
+category: articles
 slug: 'throw-vs-throwex-best-practice-and-difference-c'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

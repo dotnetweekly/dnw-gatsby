@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2f1c
 title: "Visual Studio 2012 Backwards Compatible with 2010"
 url: 'http://msmvps.com/blogs/deborahk/archive/2012/08/25/visual-studio-2012-backwards-compatible-with-2010.aspx'
-category: 5a88e1afbd6dca0d5f0d2f1c
+category: articles
 slug: 'visual-studio-2012-backwards-compatible-with-2010'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

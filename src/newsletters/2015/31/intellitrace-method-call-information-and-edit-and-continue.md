@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d25fe
 title: "IntelliTrace, method call information, and Edit and Continue"
 url: 'http://blogs.msdn.com/b/visualstudioalm/archive/2015/07/29/intellitrace-method-call-information-and-edit-and-continue.aspx'
-category: 5a88e1adbd6dca0d5f0d25fe
+category: articles
 slug: 'intellitrace-method-call-information-and-edit-and-continue'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

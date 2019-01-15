@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2e0a
 title: "Windows 8 Books"
 url: 'http://www.infragistics.com/community/blogs/marketing/archive/2012/12/31/windows-8-books.aspx'
-category: 5a88e1afbd6dca0d5f0d2e0a
+category: books
 slug: 'windows-8-books'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

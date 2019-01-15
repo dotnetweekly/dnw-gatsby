@@ -1,8 +1,8 @@
 ---
 _id: 5a88e1aebd6dca0d5f0d29a0
-title: ".NET Compiler Platform ('Roslyn') for the Rest of Us"
+title: ".NET Compiler Platform (Roslyn) for the Rest of Us"
 url: 'http://blogs.msdn.com/b/bethmassi/archive/2014/06/24/net-compiler-platform-quot-roslyn-quot-for-the-rest-of-us.aspx'
-category: 5a88e1aebd6dca0d5f0d29a0
+category: videos
 slug: 'net-compiler-platform-roslyn-for-the-rest-of-us'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

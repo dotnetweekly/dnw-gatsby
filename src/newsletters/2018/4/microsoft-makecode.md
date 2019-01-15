@@ -2,7 +2,7 @@
 _id: 5a88e1aabd6dca0d5f0d1abe
 title: "Microsoft MakeCode"
 url: 'https://makecode.com/'
-category: 5a88e1aabd6dca0d5f0d1abe
+category: articles
 slug: 'microsoft-makecode'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

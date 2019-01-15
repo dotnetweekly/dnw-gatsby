@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1ff4
 title: "Improving user engagement with Windows and Cortana Skills"
 url: 'https://channel9.msdn.com/events/Windows/Windows-Developer-Day-Creators-Update/Improving-user-engagement-with-Windows-and-Cortana-Skills'
-category: 5a88e1abbd6dca0d5f0d1ff4
+category: videos
 slug: 'improving-user-engagement-with-windows-and-cortana-skills'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

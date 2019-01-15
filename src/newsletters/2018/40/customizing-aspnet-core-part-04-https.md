@@ -2,7 +2,7 @@
 _id: 5bb2649faf8d5e4532ca6245
 title: "Customizing ASP.​NET Core Part 04: HTTPS"
 url: 'https://asp.net-hacker.rocks/2018/10/01/customizing-aspnetcore-04-https.html'
-category: 5bb2649faf8d5e4532ca6245
+category: articles
 slug: 'customizing-aspnet-core-part-04-https'
 user_id: 5ba9d7efaf8d5ee8f0ca6221
 username: 'JuergenGutsch'

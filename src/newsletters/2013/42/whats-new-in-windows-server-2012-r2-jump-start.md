@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2bc8
 title: "What's New in Windows Server 2012 R2 Jump Start"
 url: 'http://www.microsoftvirtualacademy.com/training-courses/new-windows-server-2012-r2-jump-start?CR_CC=200229591#fbid=3i3gEl3SHIc'
-category: 5a88e1aebd6dca0d5f0d2bc8
+category: videos
 slug: 'whats-new-in-windows-server-2012-r2-jump-start'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

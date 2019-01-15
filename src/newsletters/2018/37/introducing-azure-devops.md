@@ -2,7 +2,7 @@
 _id: 5b988368d089496c536ca3ef
 title: "Introducing Azure DevOps"
 url: 'https://azure.microsoft.com/en-us/blog/introducing-azure-devops/'
-category: 5b988368d089496c536ca3ef
+category: articles
 slug: 'introducing-azure-devops'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

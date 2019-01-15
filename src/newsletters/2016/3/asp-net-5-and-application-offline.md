@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d2472
 title: "ASP.NET 5 and Application Offline"
 url: 'http://weblogs.asp.net/imranbaloch/application-offline-aspnet5'
-category: 5a88e1acbd6dca0d5f0d2472
+category: articles
 slug: 'asp-net-5-and-application-offline'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

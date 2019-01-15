@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1efa
 title: "Basic repository generator in C#"
 url: 'https://github.com/printezisn/npbaserepo'
-category: 5a88e1abbd6dca0d5f0d1efa
+category: libraries-tools
 slug: 'basic-repository-generator-in-c'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

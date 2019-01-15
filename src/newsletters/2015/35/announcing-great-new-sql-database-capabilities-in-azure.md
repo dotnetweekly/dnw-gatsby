@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d25ce
 title: "Announcing Great New SQL Database Capabilities in Azure"
 url: 'http://weblogs.asp.net/scottgu/announcing-great-new-sql-database-capabilities-in-azure'
-category: 5a88e1adbd6dca0d5f0d25ce
+category: libraries-tools
 slug: 'announcing-great-new-sql-database-capabilities-in-azure'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

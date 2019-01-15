@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2da4
 title: "Mobile Game Primer"
 url: 'http://msdn.microsoft.com/en-us/magazine/jj944951.aspx'
-category: 5a88e1afbd6dca0d5f0d2da4
+category: articles
 slug: 'mobile-game-primer'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

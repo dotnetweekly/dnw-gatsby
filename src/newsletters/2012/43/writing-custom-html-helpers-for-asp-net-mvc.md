@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2e7e
 title: "Writing Custom HTML Helpers for ASP.NET MVC"
 url: 'http://www.simple-talk.com/dotnet/asp.net/writing-custom-html-helpers-for-asp.net-mvc/'
-category: 5a88e1afbd6dca0d5f0d2e7e
+category: articles
 slug: 'writing-custom-html-helpers-for-asp-net-mvc'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

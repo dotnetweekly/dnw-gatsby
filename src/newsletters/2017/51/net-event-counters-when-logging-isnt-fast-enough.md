@@ -2,7 +2,7 @@
 _id: 5a88e1aabd6dca0d5f0d1b3e
 title: ".NET Event Counters - When logging isn't fast enough"
 url: 'https://stackify.com/net-event-counters/'
-category: 5a88e1aabd6dca0d5f0d1b3e
+category: articles
 slug: 'net-event-counters-when-logging-isnt-fast-enough'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d229e
 title: "Using dependency injection with view components"
 url: 'http://gunnarpeipman.com/2016/07/using-dependency-injection-with-view-components/'
-category: 5a88e1acbd6dca0d5f0d229e
+category: articles
 slug: 'using-dependency-injection-with-view-components'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

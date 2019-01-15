@@ -2,7 +2,7 @@
 _id: 5b31109b4d8b02248aeaa34f
 title: "Writing logs to Elasticsearch with Fluentd using Serilog in ASP.NET Core"
 url: 'https://andrewlock.net/writing-logs-to-elasticsearch-with-fluentd-using-serilog-in-asp-net-core/'
-category: 5b31109b4d8b02248aeaa34f
+category: articles
 slug: 'writing-logs-to-elasticsearch-with-fluentd-using-serilog-in-aspnet-core'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

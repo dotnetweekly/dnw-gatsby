@@ -2,7 +2,7 @@
 _id: 5b283b2432697b38c930a479
 title: "Why TypeScript Might Be A Good Fit for Your Next Project"
 url: 'https://www.telerik.com/blogs/why-typescript-might-be-a-good-fit-for-your-next-project-video'
-category: 5b283b2432697b38c930a479
+category: libraries-tools
 slug: 'why-typescript-might-be-a-good-fit-for-your-next-project'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

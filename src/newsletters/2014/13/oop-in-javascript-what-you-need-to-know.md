@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2a6c
 title: "OOP In JavaScript: What You NEED to Know"
 url: 'http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/'
-category: 5a88e1aebd6dca0d5f0d2a6c
+category: articles
 slug: 'oop-in-javascript-what-you-need-to-know'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

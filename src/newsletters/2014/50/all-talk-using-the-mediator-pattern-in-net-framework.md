@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d2810
 title: "All Talk: Using the Mediator Pattern in .NET Framework"
 url: 'http://visualstudiomagazine.com/articles/2014/12/11/mediator-pattern-net-framework.aspx'
-category: 5a88e1adbd6dca0d5f0d2810
+category: articles
 slug: 'all-talk-using-the-mediator-pattern-in-net-framework'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

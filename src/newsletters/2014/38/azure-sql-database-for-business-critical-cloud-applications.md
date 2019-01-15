@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d28e4
 title: "Azure SQL Database for Business-Critical Cloud Applications"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/azure-sql-database-for-business-critical-cloud-applications'
-category: 5a88e1aebd6dca0d5f0d28e4
+category: events-training
 slug: 'azure-sql-database-for-business-critical-cloud-applications'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

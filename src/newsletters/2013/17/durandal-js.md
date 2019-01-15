@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2cfa
 title: "Durandal.js"
 url: 'http://durandaljs.com/'
-category: 5a88e1afbd6dca0d5f0d2cfa
+category: libraries-tools
 slug: 'durandal-js'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

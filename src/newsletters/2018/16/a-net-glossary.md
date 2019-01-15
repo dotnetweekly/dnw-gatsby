@@ -2,7 +2,7 @@
 _id: 5ad839c1724957005e0d29fb
 title: "A .NET Glossary"
 url: 'https://dev.to/borrrden/a-net-glossary-57l4'
-category: 5ad839c1724957005e0d29fb
+category: articles
 slug: 'a-net-glossary'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

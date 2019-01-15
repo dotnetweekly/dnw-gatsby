@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2dea
 title: "8 Tips to Sell Windows Store App"
 url: 'http://blogs.msdn.com/b/mvpawardprogram/archive/2013/01/14/8-tips-to-sell-windows-store-app.aspx'
-category: 5a88e1afbd6dca0d5f0d2dea
+category: articles
 slug: '8-tips-to-sell-windows-store-app'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

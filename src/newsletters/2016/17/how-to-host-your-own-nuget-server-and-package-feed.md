@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d237c
 title: "How to host your own NuGet Server and Package Feed"
 url: 'http://www.hanselman.com/blog/HowToHostYourOwnNuGetServerAndPackageFeed.aspx'
-category: 5a88e1acbd6dca0d5f0d237c
+category: articles
 slug: 'how-to-host-your-own-nuget-server-and-package-feed'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

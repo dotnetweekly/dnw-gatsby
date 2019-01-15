@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2f94
 title: "Differences Between ASP.NET Web API and ASP.NET MVC – Routing"
 url: 'http://www.cloudydeveloper.com/?p=1971'
-category: 5a88e1afbd6dca0d5f0d2f94
+category: articles
 slug: 'differences-between-asp-net-web-api-and-asp-net-mvc-routing'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

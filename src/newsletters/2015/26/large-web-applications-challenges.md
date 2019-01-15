@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d2658
 title: "Large Web Applications Challenges"
 url: 'http://www.softdevtube.com/2015/06/23/large-web-applications-challenges/'
-category: 5a88e1adbd6dca0d5f0d2658
+category: videos
 slug: 'large-web-applications-challenges'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

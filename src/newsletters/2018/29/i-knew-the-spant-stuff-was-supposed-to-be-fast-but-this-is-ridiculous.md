@@ -2,7 +2,7 @@
 _id: 5b4ed701d9e4dc2d4f97045d
 title: "I knew the Span<T> stuff was supposed to be fast, but this is ridiculous!"
 url: 'https://gist.github.com/Zhentar/07b92a52c619641ab61aab50b1e5ec91'
-category: 5b4ed701d9e4dc2d4f97045d
+category: articles
 slug: 'i-knew-the-spant-stuff-was-supposed-to-be-fast-but-this-is-ridiculous'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5c399d065e8f0d79578d0c51
 title: "TWC9: Unlimited Free Private GitHub Repos, Python in Azure App Service, CES Highlights and more"
 url: 'https://channel9.msdn.com/Shows/This+Week+On+Channel+9/TWC9-Unlimited-Free-Private-GitHub-Repos-Python-in-Azure-App-Service-CES-Highlights-and-more'
-category: 5c399d065e8f0d79578d0c51
+category: articles
 slug: 'twc9-unlimited-free-private-github-repos-python-in-azure-app-service-ces-highlights-and-more'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

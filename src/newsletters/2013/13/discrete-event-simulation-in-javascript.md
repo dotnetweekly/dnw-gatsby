@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2d3a
 title: "Discrete Event Simulation in JavaScript"
 url: 'http://www.codeproject.com/Articles/569143/SIM-JS-Discrete-Event-Simulation-in-JavaScript'
-category: 5a88e1afbd6dca0d5f0d2d3a
+category: libraries-tools
 slug: 'discrete-event-simulation-in-javascript'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

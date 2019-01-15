@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2d02
 title: "Essential Reactive Extensions with .NET 4.5 and LINQ"
 url: 'http://visualstudiomagazine.com/articles/2013/04/10/essential-reactive-extensions.aspx'
-category: 5a88e1afbd6dca0d5f0d2d02
+category: articles
 slug: 'essential-reactive-extensions-with-net-4-5-and-linq'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2af8
 title: "Auto History Extension in Visual Studio 2013"
 url: 'http://blogs.msdn.com/b/visualstudio/archive/2014/01/23/auto-history-extension-in-visual-studio-2013.aspx'
-category: 5a88e1aebd6dca0d5f0d2af8
+category: articles
 slug: 'auto-history-extension-in-visual-studio-2013'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

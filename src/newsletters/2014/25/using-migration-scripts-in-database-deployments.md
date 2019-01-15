@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d29bc
 title: "Using Migration Scripts in Database Deployments"
 url: 'https://www.simple-talk.com/sql/database-administration/using-migration-scripts-in-database-deployments/'
-category: 5a88e1aebd6dca0d5f0d29bc
+category: articles
 slug: 'using-migration-scripts-in-database-deployments'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

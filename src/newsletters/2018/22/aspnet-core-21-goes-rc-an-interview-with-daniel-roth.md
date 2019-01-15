@@ -2,7 +2,7 @@
 _id: 5b0eb71cd15d3892bfee60da
 title: "ASP.NET Core 2.1 Goes RC: An Interview with Daniel Roth"
 url: 'https://www.telerik.com/blogs/aspnet-core-21-goes-rc-an-interview-with-daniel-roth'
-category: 5b0eb71cd15d3892bfee60da
+category: articles
 slug: 'aspnet-core-21-goes-rc-an-interview-with-daniel-roth'
 user_id: 5afa9e1a416efa64fa328ccd
 username: 'elmira_dam'

@@ -2,7 +2,7 @@
 _id: 5b2221044cf8761f4c6a626d
 title: "Working with Moment.JS"
 url: 'http://techxposer.com/2018/06/13/working-moment-js/'
-category: 5b2221044cf8761f4c6a626d
+category: articles
 slug: 'working-with-momentjs'
 user_id: 5b22207a4cf876fbaa6a626c
 username: 'sai.koona'

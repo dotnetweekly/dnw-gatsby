@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2994
 title: "Programming the Kinect for Windows v2 Jump Start"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/programming-the-kinect-for-windows-jump-start'
-category: 5a88e1aebd6dca0d5f0d2994
+category: events-training
 slug: 'programming-the-kinect-for-windows-v2-jump-start'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

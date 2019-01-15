@@ -2,7 +2,7 @@
 _id: 5b3afb5c06b61136aa56ffea
 title: "Garbage collection, a memorandum on memory in C#"
 url: 'https://blogs.endjin.com/2018/06/garbage-collection-a-memorandum-on-memory-in-csharp/'
-category: 5b3afb5c06b61136aa56ffea
+category: articles
 slug: 'garbage-collection-a-memorandum-on-memory-in-c'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1e64
 title: "C# 7.2 and 8.0 Roadmap"
 url: 'https://www.infoq.com/news/2017/06/CSharp-7.2#'
-category: 5a88e1abbd6dca0d5f0d1e64
+category: articles
 slug: 'c-7-2-and-8-0-roadmap'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

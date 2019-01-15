@@ -2,7 +2,7 @@
 _id: 5bd1dbc2e8929f1aeb385e02
 title: "The art of designing exceptions"
 url: 'https://cezarypiatek.github.io/post/the-art-of-designing-exceptions/'
-category: 5bd1dbc2e8929f1aeb385e02
+category: articles
 slug: 'the-art-of-designing-exceptions'
 user_id: 5a980534877735bd0ca462de
 username: 'cezarypiatek'

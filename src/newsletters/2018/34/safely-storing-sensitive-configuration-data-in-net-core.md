@@ -2,7 +2,7 @@
 _id: 5b7b7b41e62920e05ef3fe93
 title: "Safely Storing Sensitive Configuration Data in .NET Core"
 url: 'http://techxposer.com/2018/08/04/safely-storing-sensitive-configuration-data-net-core/'
-category: 5b7b7b41e62920e05ef3fe93
+category: articles
 slug: 'safely-storing-sensitive-configuration-data-in-net-core'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

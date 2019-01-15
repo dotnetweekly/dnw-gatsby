@@ -2,7 +2,7 @@
 _id: 5b747292fd7ac94ada9e0047
 title: "Microsoft AI - Idea challenge contest"
 url: 'https://www.ailab.microsoft.com/challenge'
-category: 5b747292fd7ac94ada9e0047
+category: events-training
 slug: 'microsoft-ai-idea-challenge-contest'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

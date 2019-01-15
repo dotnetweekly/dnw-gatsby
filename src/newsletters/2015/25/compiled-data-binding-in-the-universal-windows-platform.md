@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d2660
 title: "Compiled Data Binding in the Universal Windows Platform"
 url: 'https://visualstudiomagazine.com/articles/2015/06/01/compiled-data-binding.aspx'
-category: 5a88e1adbd6dca0d5f0d2660
+category: articles
 slug: 'compiled-data-binding-in-the-universal-windows-platform'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

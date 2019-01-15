@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d277c
 title: "Introducing ASP.NET 5"
 url: 'http://weblogs.asp.net/scottgu/introducing-asp-net-5'
-category: 5a88e1adbd6dca0d5f0d277c
+category: articles
 slug: 'introducing-asp-net-5'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

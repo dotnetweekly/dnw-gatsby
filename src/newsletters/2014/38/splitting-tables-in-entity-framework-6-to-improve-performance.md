@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d28ea
 title: "Splitting Tables in Entity Framework 6 to Improve Performance"
 url: 'http://visualstudiomagazine.com/articles/2014/09/01/splitting-tables.aspx'
-category: 5a88e1aebd6dca0d5f0d28ea
+category: articles
 slug: 'splitting-tables-in-entity-framework-6-to-improve-performance'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

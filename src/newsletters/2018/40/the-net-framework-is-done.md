@@ -2,7 +2,7 @@
 _id: 5bb5a4df15695b074bf150ca
 title: "The .NET Framework is Done!"
 url: 'https://medium.com/@andy.watt83/the-net-framework-is-done-8aec3bbae12d'
-category: 5bb5a4df15695b074bf150ca
+category: articles
 slug: 'the-net-framework-is-done'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

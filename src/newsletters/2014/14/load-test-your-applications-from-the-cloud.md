@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2a48
 title: "Load-Test Your Applications from the Cloud "
 url: 'http://www.visualstudio.com/get-started/load-test-your-app-vs'
-category: 5a88e1aebd6dca0d5f0d2a48
+category: articles
 slug: 'load-test-your-applications-from-the-cloud'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

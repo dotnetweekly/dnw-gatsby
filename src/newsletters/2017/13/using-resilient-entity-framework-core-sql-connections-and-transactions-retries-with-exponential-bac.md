@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1f76
 title: "Using Resilient Entity Framework Core Sql Connections and Transactions: Retries with Exponential Backoff"
 url: 'https://blogs.msdn.microsoft.com/cesardelatorre/2017/03/26/using-resilient-entity-framework-core-sql-connections-and-transactions-retries-with-exponential-backoff/'
-category: 5a88e1abbd6dca0d5f0d1f76
+category: articles
 slug: 'using-resilient-entity-framework-core-sql-connections-and-transactions-retries-with-exponential-bac'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

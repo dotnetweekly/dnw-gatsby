@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d2788
 title: "Developing Advanced 2D Games with HTML5"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/developing-advanced-2d-games-with-html5'
-category: 5a88e1adbd6dca0d5f0d2788
+category: events-training
 slug: 'developing-advanced-2d-games-with-html5'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

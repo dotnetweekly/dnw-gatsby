@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d2508
 title: "Entity Framework EF 3.5 vs EF 4 vs EF 5 vs EF6"
 url: 'http://csharpstar.com/entity-framework-ef-3-5-vs-ef-4-vs-ef-5-vs-ef6/'
-category: 5a88e1adbd6dca0d5f0d2508
+category: articles
 slug: 'entity-framework-ef-3-5-vs-ef-4-vs-ef-5-vs-ef6'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

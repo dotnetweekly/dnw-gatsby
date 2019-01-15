@@ -2,7 +2,7 @@
 _id: 5bda8bb31428e6a25494dad6
 title: "What’s Next for Visual Studio for Mac"
 url: 'https://blogs.msdn.microsoft.com/visualstudio/2018/10/16/whats-next-for-visual-studio-for-mac/'
-category: 5bda8bb31428e6a25494dad6
+category: articles
 slug: 'whats-next-for-visual-studio-for-mac'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

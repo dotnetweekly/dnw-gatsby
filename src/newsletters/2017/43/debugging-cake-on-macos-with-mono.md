@@ -2,7 +2,7 @@
 _id: 5a88e1aabd6dca0d5f0d1c46
 title: "Debugging Cake on macOS with Mono"
 url: 'https://redth.codes/debugging-cake-on-macos-with-mono/'
-category: 5a88e1aabd6dca0d5f0d1c46
+category: libraries-tools
 slug: 'debugging-cake-on-macos-with-mono'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

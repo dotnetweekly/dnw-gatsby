@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1d34
 title: "Debugging ASP.NET Core apps in Visual Studio Code - Forever F[r]ame"
 url: 'http://foreverframe.net/debugging-asp-net-core-apps-in-visual-studio-code/'
-category: 5a88e1abbd6dca0d5f0d1d34
+category: articles
 slug: 'debugging-asp-net-core-apps-in-visual-studio-code-forever-frame'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

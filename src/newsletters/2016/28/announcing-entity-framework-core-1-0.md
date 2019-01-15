@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d22cc
 title: "Announcing Entity Framework Core 1.0"
 url: 'https://blogs.msdn.microsoft.com/dotnet/2016/06/27/entity-framework-core-1-0-0-available/'
-category: 5a88e1acbd6dca0d5f0d22cc
+category: libraries-tools
 slug: 'announcing-entity-framework-core-1-0'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

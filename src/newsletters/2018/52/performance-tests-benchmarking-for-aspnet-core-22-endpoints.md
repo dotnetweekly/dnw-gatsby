@@ -2,7 +2,7 @@
 _id: 5c262634745cd0a3bd0206ba
 title: "Performance Tests / Benchmarking for ASP.NET Core 2.2 Endpoints"
 url: 'https://rimdev.io/performance-tests-benchmarks-for-aspnetcore-2.2-endpoints/'
-category: 5c262634745cd0a3bd0206ba
+category: articles
 slug: 'performance-tests-benchmarking-for-aspnet-core-22-endpoints'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2c40
 title: "Send Push Notifications from an OData Service using Windows Azure Notification Hubs"
 url: 'http://blogs.msdn.com/b/silverlining/archive/2013/08/26/send-push-notifications-from-an-odata-service-using-windows-azure-notification-hubs.aspx'
-category: 5a88e1aebd6dca0d5f0d2c40
+category: articles
 slug: 'send-push-notifications-from-an-odata-service-using-windows-azure-notification-hubs'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

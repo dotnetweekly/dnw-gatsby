@@ -2,7 +2,7 @@
 _id: 5b4ed79dd9e4dc482e970461
 title: "Machine Learning with IoT Devices on the Edge"
 url: 'https://msdn.microsoft.com/magazine/mt847186'
-category: 5b4ed79dd9e4dc482e970461
+category: articles
 slug: 'machine-learning-with-iot-devices-on-the-edge'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

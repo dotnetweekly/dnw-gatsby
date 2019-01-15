@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d20fa
 title: "Free Intermediate ASP.NET Core 1.0 Training on Microsoft Virtual Academy"
 url: 'http://www.hanselman.com/blog/FreeIntermediateASPNETCore10TrainingOnMicrosoftVirtualAcademy.aspx'
-category: 5a88e1acbd6dca0d5f0d20fa
+category: videos
 slug: 'free-intermediate-asp-net-core-1-0-training-on-microsoft-virtual-academy'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

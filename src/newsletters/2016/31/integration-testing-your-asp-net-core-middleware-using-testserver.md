@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d2284
 title: "Integration testing your ASP.NET Core middleware using TestServer"
 url: 'http://josephwoodward.co.uk//2016/07/integration-testing-asp-net-core-middleware'
-category: 5a88e1acbd6dca0d5f0d2284
+category: articles
 slug: 'integration-testing-your-asp-net-core-middleware-using-testserver'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

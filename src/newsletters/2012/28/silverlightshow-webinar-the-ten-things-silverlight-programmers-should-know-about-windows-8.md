@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2fc4
 title: "SilverlightShow webinar: The Ten Things Silverlight Programmers Should Know About Windows 8"
 url: 'http://www.silverlightshow.net/news/SilverlightShow-Webinar-10-Things-Silverlight-Developers-Should-Know-About-Windows-8.aspx'
-category: 5a88e1afbd6dca0d5f0d2fc4
+category: videos
 slug: 'silverlightshow-webinar-the-ten-things-silverlight-programmers-should-know-about-windows-8'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

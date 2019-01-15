@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d20de
 title: "Coding Without a Plan"
 url: 'https://visualstudiomagazine.com/articles/2016/12/01/coding-without-a-plan.aspx'
-category: 5a88e1acbd6dca0d5f0d20de
+category: articles
 slug: 'coding-without-a-plan'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

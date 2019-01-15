@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d284c
 title: "Async Programming Unit Testing Asynchronous Code"
 url: 'http://msdn.microsoft.com/en-us/magazine/dn818493.aspx'
-category: 5a88e1aebd6dca0d5f0d284c
+category: articles
 slug: 'async-programming-unit-testing-asynchronous-code'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

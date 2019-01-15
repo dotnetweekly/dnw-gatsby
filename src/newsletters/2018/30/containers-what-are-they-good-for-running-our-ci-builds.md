@@ -2,7 +2,7 @@
 _id: 5b595f2413da0b3b01d112f5
 title: "Containers - What Are They Good For? Running Our CI Builds"
 url: 'https://jimmybogard.com/containers-what-are-they-good-for-ci-builds/'
-category: 5b595f2413da0b3b01d112f5
+category: articles
 slug: 'containers-what-are-they-good-for-running-our-ci-builds'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

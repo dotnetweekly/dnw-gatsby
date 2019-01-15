@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d26b6
 title: "End-to-End Testing in Modern Web Sites and Apps"
 url: 'https://msdn.microsoft.com/en-us/magazine/dn973018.aspx'
-category: 5a88e1adbd6dca0d5f0d26b6
+category: articles
 slug: 'end-to-end-testing-in-modern-web-sites-and-apps'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2be2
 title: "Hands-On Labs for Microsoft Enterprise Library 6"
 url: 'http://www.microsoft.com/en-us/download/details.aspx?id=40286'
-category: 5a88e1aebd6dca0d5f0d2be2
+category: libraries-tools
 slug: 'hands-on-labs-for-microsoft-enterprise-library-6'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2ba8
 title: "Windows Azure: Import/Export Hard Drives, VM ACLs, Web Sockets, Remote Debugging, Continuous Delivery, New Relic, Billing Alerts and More"
 url: 'http://weblogs.asp.net/scottgu/archive/2013/11/04/windows-azure-import-export-hard-drives-vm-acls-web-sockets-remote-debugging-continuous-delivery-new-relic-billing-alerts-and-more.aspx'
-category: 5a88e1aebd6dca0d5f0d2ba8
+category: libraries-tools
 slug: 'windows-azure-importexport-hard-drives-vm-acls-web-sockets-remote-debugging-continuous-delivery-new'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

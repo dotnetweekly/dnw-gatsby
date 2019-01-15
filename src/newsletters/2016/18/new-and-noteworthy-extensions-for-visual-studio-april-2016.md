@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d2368
 title: "New and Noteworthy Extensions for Visual Studio – April 2016"
 url: 'https://blogs.msdn.microsoft.com/visualstudio/2016/05/02/new-noteworthy-visual-studio-extensions-april-2016/'
-category: 5a88e1acbd6dca0d5f0d2368
+category: libraries-tools
 slug: 'new-and-noteworthy-extensions-for-visual-studio-april-2016'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

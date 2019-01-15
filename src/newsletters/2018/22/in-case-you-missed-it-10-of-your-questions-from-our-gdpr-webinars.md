@@ -2,7 +2,7 @@
 _id: 5b0cbd71d15d385786ee60cf
 title: "In case you missed it: 10 of your questions from our GDPR webinars"
 url: 'https://azure.microsoft.com/en-us/blog/in-case-you-missed-it-10-of-your-questions-from-our-gdpr-webinars/'
-category: 5b0cbd71d15d385786ee60cf
+category: articles
 slug: 'in-case-you-missed-it-10-of-your-questions-from-our-gdpr-webinars'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

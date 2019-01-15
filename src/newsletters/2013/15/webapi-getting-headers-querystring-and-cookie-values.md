@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2d1a
 title: "WebAPI: Getting Headers, QueryString and Cookie Values"
 url: 'http://www.west-wind.com/weblog/posts/2013/Apr/15/WebAPI-Getting-Headers-QueryString-and-Cookie-Values'
-category: 5a88e1afbd6dca0d5f0d2d1a
+category: articles
 slug: 'webapi-getting-headers-querystring-and-cookie-values'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5b4c5d24d9e4dc1065970455
 title: "Wikidata on Azure: Towards simple analytic queries"
 url: 'https://blog.autsoft.hu/wikidata-on-azure-part-3-preprocessing-data-for-simple-analytic-queries/'
-category: 5b4c5d24d9e4dc1065970455
+category: articles
 slug: 'wikidata-on-azure-towards-simple-analytic-queries'
 user_id: 5ab17cfe41324c020ed5cc33
 username: 'kszicsillag'

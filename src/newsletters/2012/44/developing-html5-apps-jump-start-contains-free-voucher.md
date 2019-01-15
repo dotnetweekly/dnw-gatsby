@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2e6a
 title: "Developing HTML5 Apps Jump Start (contains free voucher!)"
 url: 'http://www.microsoftvirtualacademy.com/tracks/developing-html5-apps-jump-start'
-category: 5a88e1afbd6dca0d5f0d2e6a
+category: events-training
 slug: 'developing-html5-apps-jump-start-contains-free-voucher'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

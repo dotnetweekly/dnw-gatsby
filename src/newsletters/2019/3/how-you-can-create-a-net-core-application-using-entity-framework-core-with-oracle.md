@@ -2,7 +2,7 @@
 _id: 5c3c45e25e8f0dc5478d0c59
 title: "How You Can Create a .NET Core Application Using Entity Framework Core with Oracle"
 url: 'https://www.talkingdotnet.com/create-net-core-application-using-entity-framework-core-with-oracle/'
-category: 5c3c45e25e8f0dc5478d0c59
+category: articles
 slug: 'how-you-can-create-a-net-core-application-using-entity-framework-core-with-oracle'
 user_id: 5c38b3355e8f0d77dd8d0c4d
 username: 'julias'

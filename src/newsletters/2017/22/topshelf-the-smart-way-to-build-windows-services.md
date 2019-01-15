@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1ea4
 title: "Topshelf, the Smart Way to Build Windows Services"
 url: 'https://pusher.com/sessions/meetup/dotnetsheff/topshelf-the-smart-way-to-build-windows-services'
-category: 5a88e1abbd6dca0d5f0d1ea4
+category: videos
 slug: 'topshelf-the-smart-way-to-build-windows-services'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

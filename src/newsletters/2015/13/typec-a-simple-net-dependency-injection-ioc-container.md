@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d271a
 title: "TypeC - A Simple .NET Dependency Injection / IoC Container"
 url: 'http://blogs.msdn.com/b/hanuk/archive/2015/03/28/typec-a-simple-net-injection-ioc-container.aspx'
-category: 5a88e1adbd6dca0d5f0d271a
+category: libraries-tools
 slug: 'typec-a-simple-net-dependency-injection-ioc-container'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

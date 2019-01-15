@@ -2,7 +2,7 @@
 _id: 5b31925a4d8b0292adeaa356
 title: "The June release of SQL Operations Studio is now available"
 url: 'https://cloudblogs.microsoft.com/sqlserver/2018/06/20/the-june-release-of-sql-operations-studio-is-now-available/'
-category: 5b31925a4d8b0292adeaa356
+category: libraries-tools
 slug: 'the-june-release-of-sql-operations-studio-is-now-available'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d23b8
 title: "Hack a Mousetrap with Windows 10 Internet Of Things"
 url: 'https://channel9.msdn.com/Series/Hack-Your-World/Hack-a-Mousetrap-with-Windows-10-Internet-Of-Things'
-category: 5a88e1acbd6dca0d5f0d23b8
+category: videos
 slug: 'hack-a-mousetrap-with-windows-10-internet-of-things'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

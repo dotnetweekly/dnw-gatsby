@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d2184
 title: "Microsoft Flow is Now Available"
 url: 'https://www.thurrott.com/cloud/84541/microsoft-flow-now-available'
-category: 5a88e1acbd6dca0d5f0d2184
+category: articles
 slug: 'microsoft-flow-is-now-available'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

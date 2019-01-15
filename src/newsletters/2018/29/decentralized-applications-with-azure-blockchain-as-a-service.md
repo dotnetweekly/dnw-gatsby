@@ -2,7 +2,7 @@
 _id: 5b4ed7bbd9e4dc0c58970462
 title: "Decentralized Applications with Azure Blockchain as a Service"
 url: 'https://msdn.microsoft.com/magazine/mt847188'
-category: 5b4ed7bbd9e4dc0c58970462
+category: articles
 slug: 'decentralized-applications-with-azure-blockchain-as-a-service'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

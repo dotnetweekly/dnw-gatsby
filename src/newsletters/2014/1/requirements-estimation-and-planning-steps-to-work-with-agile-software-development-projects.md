@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2b30
 title: "Requirements, Estimation and Planning: Steps to work with Agile software development projects"
 url: 'http://www.codeproject.com/Articles/674450/Requirements-Estimation-and-Planning-Steps-to-work'
-category: 5a88e1aebd6dca0d5f0d2b30
+category: articles
 slug: 'requirements-estimation-and-planning-steps-to-work-with-agile-software-development-projects'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

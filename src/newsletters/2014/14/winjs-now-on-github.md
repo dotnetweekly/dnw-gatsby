@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2a60
 title: "WinJS, now on Github"
 url: 'https://github.com/winjs/winjs'
-category: 5a88e1aebd6dca0d5f0d2a60
+category: libraries-tools
 slug: 'winjs-now-on-github'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

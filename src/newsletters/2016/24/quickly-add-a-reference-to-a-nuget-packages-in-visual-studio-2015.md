@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d2302
 title: "Quickly add a reference to a NuGet packages in Visual Studio 2015"
 url: 'http://dailydotnettips.com/2016/06/09/quickly-add-a-reference-to-a-nuget-packages-in-visual-studio-2015/'
-category: 5a88e1acbd6dca0d5f0d2302
+category: libraries-tools
 slug: 'quickly-add-a-reference-to-a-nuget-packages-in-visual-studio-2015'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

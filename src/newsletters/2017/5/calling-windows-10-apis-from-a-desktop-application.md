@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d2058
 title: "Calling Windows 10 APIs From a Desktop Application"
 url: 'https://blogs.windows.com/buildingapps/2017/01/25/calling-windows-10-apis-desktop-application/#QVGKcEioE1SYGyXO.97'
-category: 5a88e1acbd6dca0d5f0d2058
+category: articles
 slug: 'calling-windows-10-apis-from-a-desktop-application'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

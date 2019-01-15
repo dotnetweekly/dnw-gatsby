@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2a18
 title: "Let’s Code: Build your own FlipView Page Indicator "
 url: 'http://blog.jerrynixon.com/2014/04/lets-code-build-your-own-flipview-page.html'
-category: 5a88e1aebd6dca0d5f0d2a18
+category: articles
 slug: 'lets-code-build-your-own-flipview-page-indicator'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

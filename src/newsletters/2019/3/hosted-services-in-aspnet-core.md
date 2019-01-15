@@ -2,7 +2,7 @@
 _id: 5c3c51215e8f0d83e08d0c5d
 title: "Hosted Services In ASP.net Core"
 url: 'https://dotnetcoretutorials.com/2019/01/13/hosted-services-in-asp-net-core/'
-category: 5c3c51215e8f0d83e08d0c5d
+category: articles
 slug: 'hosted-services-in-aspnet-core'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

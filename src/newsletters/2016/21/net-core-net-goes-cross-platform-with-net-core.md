@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d2338
 title: ".NET Core - .NET Goes Cross-Platform with .NET Core"
 url: 'https://msdn.microsoft.com/en-us/magazine/mt694084.aspx'
-category: 5a88e1acbd6dca0d5f0d2338
+category: articles
 slug: 'net-core-net-goes-cross-platform-with-net-core'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

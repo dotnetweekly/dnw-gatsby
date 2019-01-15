@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2902
 title: "ASP.NET MVC Do's and Dont's / Best Practices"
 url: 'http://curah.microsoft.com/198908/aspnet-mvc-dos-and-donts-best-practices'
-category: 5a88e1aebd6dca0d5f0d2902
+category: articles
 slug: 'asp-net-mvc-dos-and-donts-best-practices'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

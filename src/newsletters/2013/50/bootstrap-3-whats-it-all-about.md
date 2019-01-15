@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2b50
 title: "Bootstrap 3: What’s It All About?"
 url: 'http://www.codemag.com/article/1401071'
-category: 5a88e1aebd6dca0d5f0d2b50
+category: libraries-tools
 slug: 'bootstrap-3-whats-it-all-about'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

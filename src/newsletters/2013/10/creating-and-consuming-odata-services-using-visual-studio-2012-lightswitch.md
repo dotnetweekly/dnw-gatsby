@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2d86
 title: "Creating and Consuming OData Services using Visual Studio 2012 LightSwitch"
 url: 'http://www.dotnetcurry.com/ShowArticle.aspx?ID=867'
-category: 5a88e1afbd6dca0d5f0d2d86
+category: articles
 slug: 'creating-and-consuming-odata-services-using-visual-studio-2012-lightswitch'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2c5c
 title: "WCF for the Real World, Not Hello World"
 url: 'http://www.codeproject.com/Articles/627240/WCF-for-the-Real-World-Not-Hello-World'
-category: 5a88e1aebd6dca0d5f0d2c5c
+category: articles
 slug: 'wcf-for-the-real-world-not-hello-world'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

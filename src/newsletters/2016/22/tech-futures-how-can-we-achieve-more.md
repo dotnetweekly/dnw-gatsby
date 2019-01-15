@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d2320
 title: "Tech Futures: How can we achieve more?"
 url: 'https://channel9.msdn.com/Shows/TechNet+Radio/TNR1656'
-category: 5a88e1acbd6dca0d5f0d2320
+category: videos
 slug: 'tech-futures-how-can-we-achieve-more'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

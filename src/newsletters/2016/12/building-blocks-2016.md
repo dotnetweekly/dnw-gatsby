@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d23dc
 title: "Building Blocks 2016"
 url: 'https://mva.microsoft.com/liveevents/building-blocks-2016'
-category: 5a88e1acbd6dca0d5f0d23dc
+category: events-training
 slug: 'building-blocks-2016'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2908
 title: "How to run Background Tasks in ASP.NET"
 url: 'http://www.hanselman.com/blog/HowToRunBackgroundTasksInASPNET.aspx'
-category: 5a88e1aebd6dca0d5f0d2908
+category: articles
 slug: 'how-to-run-background-tasks-in-asp-net'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

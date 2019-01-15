@@ -2,7 +2,7 @@
 _id: 5bd498471428e64abf94dabc
 title: "Blazon - We needed to talk performance"
 url: 'https://github.com/aspnet/Blazor/issues/767'
-category: 5bd498471428e64abf94dabc
+category: articles
 slug: 'blazon-we-needed-to-talk-performance'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d23ea
 title: "Introduction to ASP.NET Core 1.0 video"
 url: 'http://codeclimber.net.nz/archive/2016/03/04/Introduction-to-ASP-NET-Core-1-0-video.aspx'
-category: 5a88e1acbd6dca0d5f0d23ea
+category: videos
 slug: 'cqrs-with-decoupled-messaging-part-i'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

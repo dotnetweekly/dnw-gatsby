@@ -2,7 +2,7 @@
 _id: 5b2204de4cf87609526a626b
 title: "Detecting Data Breaches"
 url: 'https://www.red-gate.com/simple-talk/sysadmin/data-protection-and-privacy/detecting-data-breaches/'
-category: 5b2204de4cf87609526a626b
+category: articles
 slug: 'detecting-data-breaches'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

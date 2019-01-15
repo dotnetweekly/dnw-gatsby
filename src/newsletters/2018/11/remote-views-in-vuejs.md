@@ -2,7 +2,7 @@
 _id: 5aa9f2ebf86e7001dea426b6
 title: "Remote Views in Vue.js"
 url: 'https://wildermuth.com/2018/03/11/Remote-Views-in-Vue-js'
-category: 5aa9f2ebf86e7001dea426b6
+category: articles
 slug: 'remote-views-in-vuejs'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

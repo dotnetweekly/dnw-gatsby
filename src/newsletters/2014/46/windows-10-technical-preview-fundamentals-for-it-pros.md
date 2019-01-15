@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d285e
 title: "Windows 10 Technical Preview Fundamentals for IT Pros"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/windows-10-technical-preview-fundamentals-for-it-pros'
-category: 5a88e1aebd6dca0d5f0d285e
+category: events-training
 slug: 'windows-10-technical-preview-fundamentals-for-it-pros'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

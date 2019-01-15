@@ -2,7 +2,7 @@
 _id: 5a88e1aabd6dca0d5f0d1c44
 title: "RyuJIT Just-in-Time Compiler Optimization Enhancements"
 url: 'https://blogs.msdn.microsoft.com/dotnet/2017/10/16/ryujit-just-in-time-compiler-optimization-enhancements/'
-category: 5a88e1aabd6dca0d5f0d1c44
+category: articles
 slug: 'ryujit-just-in-time-compiler-optimization-enhancements'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d241c
 title: "DevOps FoMO? Get up to speed on culture and continuous delivery with the DevOps Fundamentals Series"
 url: 'http://www.talmeida.net/blog/devops-fundamentals-series'
-category: 5a88e1acbd6dca0d5f0d241c
+category: articles
 slug: 'devops-fomo-get-up-to-speed-on-culture-and-continuous-delivery-with-the-devops-fundamentals-series'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

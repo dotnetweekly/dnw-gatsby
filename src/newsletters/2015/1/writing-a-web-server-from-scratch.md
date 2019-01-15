@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d27e0
 title: "Writing a Web Server from Scratch"
 url: 'http://www.codeproject.com/Articles/859108/Writing-a-Web-Server-from-Scratch'
-category: 5a88e1adbd6dca0d5f0d27e0
+category: articles
 slug: 'writing-a-web-server-from-scratch'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

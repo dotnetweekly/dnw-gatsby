@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2b8c
 title: "Windows Azure Dev Camp Online"
 url: 'http://www.msdnevents.com/azuredevcamponline/'
-category: 5a88e1aebd6dca0d5f0d2b8c
+category: events-training
 slug: 'windows-azure-dev-camp-online'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

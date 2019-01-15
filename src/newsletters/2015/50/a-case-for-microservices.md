@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d24ce
 title: "A case for microservices"
 url: 'http://peter.bourgon.org/a-case-for-microservices/'
-category: 5a88e1adbd6dca0d5f0d24ce
+category: articles
 slug: 'a-case-for-microservices'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

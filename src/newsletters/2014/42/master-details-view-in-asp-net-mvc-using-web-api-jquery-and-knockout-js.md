@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d28a8
 title: "Master-Details View in ASP.NET MVC using WEB API, jQuery and Knockout.js "
 url: 'http://www.dotnetcurry.com/showarticle.aspx?ID=1048'
-category: 5a88e1aebd6dca0d5f0d28a8
+category: articles
 slug: 'master-details-view-in-asp-net-mvc-using-web-api-jquery-and-knockout-js'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

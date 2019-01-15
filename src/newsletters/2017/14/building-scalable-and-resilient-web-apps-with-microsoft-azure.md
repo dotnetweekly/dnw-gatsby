@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1f4c
 title: "Building Scalable and Resilient Web Apps with Microsoft Azure"
 url: 'https://pusher.com/sessions/meetup/dotnetsheff/building-scalable-and-resilient-web-apps-with-microsoft-azure'
-category: 5a88e1abbd6dca0d5f0d1f4c
+category: videos
 slug: 'building-scalable-and-resilient-web-apps-with-microsoft-azure'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

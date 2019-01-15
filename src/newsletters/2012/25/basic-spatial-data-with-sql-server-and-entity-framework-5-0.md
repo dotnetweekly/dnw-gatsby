@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2ff2
 title: "Basic Spatial Data with SQL Server and Entity Framework 5.0"
 url: 'http://www.west-wind.com/weblog/posts/2012/Jun/21/Basic-Spatial-Data-with-SQL-Server-and-Entity-Framework-50'
-category: 5a88e1afbd6dca0d5f0d2ff2
+category: articles
 slug: 'basic-spatial-data-with-sql-server-and-entity-framework-5-0'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

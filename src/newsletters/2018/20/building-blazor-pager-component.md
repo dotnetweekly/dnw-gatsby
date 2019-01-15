@@ -2,7 +2,7 @@
 _id: 5afdcdfb416efa4618328cda
 title: "Building Blazor pager component"
 url: 'http://gunnarpeipman.com/2018/05/blazor-pager-component/'
-category: 5afdcdfb416efa4618328cda
+category: articles
 slug: 'building-blazor-pager-component'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5bb5a37315695bdefff150c2
 title: "What's Coming to C#?"
 url: 'https://www.youtube.com/watch?v=M0hdrybOKJg'
-category: 5bb5a37315695bdefff150c2
+category: videos
 slug: 'whats-coming-to-c'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

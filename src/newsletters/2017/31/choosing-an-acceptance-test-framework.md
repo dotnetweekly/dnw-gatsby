@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1d98
 title: "Choosing an Acceptance Test Framework"
 url: 'https://www.daedtech.com/choosing-acceptance-test-framwork/'
-category: 5a88e1abbd6dca0d5f0d1d98
+category: articles
 slug: 'choosing-an-acceptance-test-framework'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

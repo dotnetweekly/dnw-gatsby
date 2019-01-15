@@ -2,7 +2,7 @@
 _id: 5b9fb2c37a4fc4efe0daab8c
 title: "Complete Awesomeness for Mobile .NET Developers"
 url: 'https://channel9.msdn.com/Events/dotnetConf/2018/S106'
-category: 5b9fb2c37a4fc4efe0daab8c
+category: articles
 slug: 'complete-awesomeness-for-mobile-net-developers'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

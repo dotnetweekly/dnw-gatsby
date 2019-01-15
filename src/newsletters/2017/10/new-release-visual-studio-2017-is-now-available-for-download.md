@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1fc6
 title: "New release: Visual Studio 2017 is now available for download"
 url: 'https://www.visualstudio.com/vs/whatsnew/'
-category: 5a88e1abbd6dca0d5f0d1fc6
+category: articles
 slug: 'new-release-visual-studio-2017-is-now-available-for-download'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

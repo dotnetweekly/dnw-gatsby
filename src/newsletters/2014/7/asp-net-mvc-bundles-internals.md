@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2abc
 title: "ASP.NET MVC bundles internals"
 url: 'http://www.codeproject.com/Articles/728146/ASP-NET-MVC-bundles-internals'
-category: 5a88e1aebd6dca0d5f0d2abc
+category: articles
 slug: 'asp-net-mvc-bundles-internals'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

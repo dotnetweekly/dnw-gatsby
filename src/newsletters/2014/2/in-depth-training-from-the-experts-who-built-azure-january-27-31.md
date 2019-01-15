@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2b10
 title: "In-depth training from the experts who built Azure: January 27-31"
 url: 'http://www.microsoftvirtualacademy.com/colleges/windows-azure-deep-dive'
-category: 5a88e1aebd6dca0d5f0d2b10
+category: events-training
 slug: 'in-depth-training-from-the-experts-who-built-azure-january-27-31'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

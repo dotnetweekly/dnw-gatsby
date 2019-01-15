@@ -2,7 +2,7 @@
 _id: 5c0a24fcd9a59353daf70e90
 title: "Introducing the Azure Blockchain Development Kit"
 url: 'https://azure.microsoft.com/en-us/blog/introducing-the-azure-blockchain-development-kit/'
-category: 5c0a24fcd9a59353daf70e90
+category: articles
 slug: 'introducing-the-azure-blockchain-development-kit'
 user_id: 5c060608d9a5932132f70e77
 username: 'dnwuryxfUK714'

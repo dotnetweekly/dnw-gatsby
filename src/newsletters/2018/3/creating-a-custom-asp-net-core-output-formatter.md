@@ -2,7 +2,7 @@
 _id: 5a88e1aabd6dca0d5f0d1ae8
 title: "Creating a custom ASP.NET Core Output Formatter"
 url: 'https://codeopinion.com/creating-a-custom-asp-net-core-output-formatter/'
-category: 5a88e1aabd6dca0d5f0d1ae8
+category: articles
 slug: 'creating-a-custom-asp-net-core-output-formatter'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

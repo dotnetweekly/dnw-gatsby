@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d23ca
 title: "Announcing the release of the Visual Studio Team Services extension for Visual Studio Code"
 url: 'https://blogs.msdn.microsoft.com/visualstudioalm/2016/03/25/announcing-the-release-of-the-visual-studio-team-services-extension-for-visual-studio-code/'
-category: 5a88e1acbd6dca0d5f0d23ca
+category: libraries-tools
 slug: 'announcing-the-release-of-the-visual-studio-team-services-extension-for-visual-studio-code'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

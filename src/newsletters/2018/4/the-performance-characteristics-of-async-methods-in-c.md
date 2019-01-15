@@ -2,7 +2,7 @@
 _id: 5a88e1aabd6dca0d5f0d1ab0
 title: "The performance characteristics of async methods in C#"
 url: 'https://blogs.msdn.microsoft.com/seteplia/2018/01/25/the-performance-characteristics-of-async-methods/'
-category: 5a88e1aabd6dca0d5f0d1ab0
+category: articles
 slug: 'the-performance-characteristics-of-async-methods-in-c'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

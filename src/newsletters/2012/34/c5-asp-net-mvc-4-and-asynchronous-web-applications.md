@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2f24
 title: "C#5, ASP.NET MVC 4, and asynchronous Web applications"
 url: 'http://channel9.msdn.com/Events/TechDays/Techdays-2012-the-Netherlands/2287'
-category: 5a88e1afbd6dca0d5f0d2f24
+category: articles
 slug: 'c5-asp-net-mvc-4-and-asynchronous-web-applications'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

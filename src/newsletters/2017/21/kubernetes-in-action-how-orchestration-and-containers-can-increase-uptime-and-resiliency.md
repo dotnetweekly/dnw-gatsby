@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1e94
 title: "Kubernetes in action: How orchestration and containers can increase uptime and resiliency"
 url: 'https://azure.microsoft.com/en-us/blog/kubernetes-in-action-how-orchestration-and-containers-can-increase-uptime-and-resiliency/'
-category: 5a88e1abbd6dca0d5f0d1e94
+category: videos
 slug: 'kubernetes-in-action-how-orchestration-and-containers-can-increase-uptime-and-resiliency'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

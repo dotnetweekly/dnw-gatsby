@@ -2,7 +2,7 @@
 _id: 5c262a81745cd0df0f0206c6
 title: "Exploring the .NET Core Runtime (in which I set myself a challenge)"
 url: 'https://mattwarren.org/2018/12/13/Exploring-the-.NET-Core-Runtime/'
-category: 5c262a81745cd0df0f0206c6
+category: articles
 slug: 'exploring-the-net-core-runtime-in-which-i-set-myself-a-challenge'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

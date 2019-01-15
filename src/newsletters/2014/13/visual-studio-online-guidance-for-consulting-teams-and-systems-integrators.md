@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2a68
 title: "Visual Studio Online Guidance for Consulting Teams and Systems Integrators"
 url: 'http://blogs.msdn.com/b/visualstudioalm/archive/2014/03/27/visual-studio-online-guidance-for-consulting-teams-and-systems-integrators.aspx'
-category: 5a88e1aebd6dca0d5f0d2a68
+category: articles
 slug: 'visual-studio-online-guidance-for-consulting-teams-and-systems-integrators'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

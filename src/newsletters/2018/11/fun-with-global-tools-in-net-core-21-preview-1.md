@@ -2,7 +2,7 @@
 _id: 5aa5893a4dbb96009e296937
 title: "Fun with global tools in .NET Core 2.1 Preview 1"
 url: 'https://surfingthecode.com/fun-with-global-tools-in-.net-core-2.1-preview/'
-category: 5aa5893a4dbb96009e296937
+category: articles
 slug: 'fun-with-global-tools-in-net-core-21-preview-1'
 user_id: 5a8a92338b86e53b3449b1d0
 username: 'atsvetkov'

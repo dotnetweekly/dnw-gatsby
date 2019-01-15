@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2db4
 title: "Building a Simple Comet Application in the Microsoft .NET Framework"
 url: 'http://msdn.microsoft.com/en-us/magazine/jj891053.aspx'
-category: 5a88e1afbd6dca0d5f0d2db4
+category: articles
 slug: 'building-a-simple-comet-application-in-the-microsoft-net-framework'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2d72
 title: "ModernApps Live!"
 url: 'http://modernappslive.com/Events/Las-Vegas-2013/Home.aspx'
-category: 5a88e1afbd6dca0d5f0d2d72
+category: articles
 slug: 'modernapps-live'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

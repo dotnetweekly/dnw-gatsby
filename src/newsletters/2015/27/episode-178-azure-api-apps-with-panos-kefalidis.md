@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d263e
 title: "Episode 178: Azure API Apps with Panos Kefalidis"
 url: 'https://channel9.msdn.com/Shows/Cloud+Cover/Episode-178-Azure-API-Apps-with-Panos-Kefalidis'
-category: 5a88e1adbd6dca0d5f0d263e
+category: videos
 slug: 'episode-178-azure-api-apps-with-panos-kefalidis'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

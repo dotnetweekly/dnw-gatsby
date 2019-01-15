@@ -2,7 +2,7 @@
 _id: 5b169ebad15d38cf03ee6104
 title: "DDD & co., part 1: What's wrong with CRUD"
 url: 'https://www.thenativeweb.io/blog/2017-10-25-09-46-ddd-and-co-part-1-whats-wrong-with-crud/'
-category: 5b169ebad15d38cf03ee6104
+category: articles
 slug: 'ddd-and-co-part-1-whats-wrong-with-crud'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1dc8
 title: "Ref, Ref Return and Ref Local In C#"
 url: 'https://l-paathshaala.com/2017/07/17/ref-ref-return-and-ref-local-in-c/'
-category: 5a88e1abbd6dca0d5f0d1dc8
+category: articles
 slug: 'ref-ref-return-and-ref-local-in-c'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

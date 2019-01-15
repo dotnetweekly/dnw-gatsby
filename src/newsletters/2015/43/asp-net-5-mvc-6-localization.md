@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d2548
 title: "ASP.NET 5 MVC 6 LOCALIZATION"
 url: 'http://damienbod.com/2015/10/21/asp-net-5-mvc-6-localization/'
-category: 5a88e1adbd6dca0d5f0d2548
+category: articles
 slug: 'asp-net-5-mvc-6-localization'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

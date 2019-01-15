@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2bca
 title: "Download the Preview: Microsoft SQL Server 2014 Community Technology Preview 2 (CTP2)"
 url: 'http://technet.microsoft.com/en-us/evalcenter/dn205290.aspx'
-category: 5a88e1aebd6dca0d5f0d2bca
+category: libraries-tools
 slug: 'download-the-preview-microsoft-sql-server-2014-community-technology-preview-2-ctp2'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

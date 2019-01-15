@@ -2,7 +2,7 @@
 _id: 5a88e1aabd6dca0d5f0d1aa8
 title: "Making iOS 11 Even Easier with Xamarin.Forms"
 url: 'https://blog.xamarin.com/making-ios-11-even-easier-xamarin-forms/'
-category: 5a88e1aabd6dca0d5f0d1aa8
+category: libraries-tools
 slug: 'making-ios-11-even-easier-with-xamarin-forms'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

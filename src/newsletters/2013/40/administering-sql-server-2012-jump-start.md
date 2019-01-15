@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2bda
 title: "Administering SQL Server 2012 Jump Start"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/administering-sql-server-2012-jumpstart#fbid=RfHc7HWJo2b'
-category: 5a88e1aebd6dca0d5f0d2bda
+category: events-training
 slug: 'administering-sql-server-2012-jump-start'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

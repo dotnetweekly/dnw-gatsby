@@ -2,7 +2,7 @@
 _id: 5bd497481428e6000e94daba
 title: "Azure Functions Dependency Injection with Autofac"
 url: 'http://dontcodetired.com/blog/post/Azure-Functions-Dependency-Injection-with-Autofac'
-category: 5bd497481428e6000e94daba
+category: articles
 slug: 'azure-functions-dependency-injection-with-autofac'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

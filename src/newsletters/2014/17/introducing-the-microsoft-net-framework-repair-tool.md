@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2a24
 title: "Introducing the Microsoft .NET Framework Repair Tool"
 url: 'http://blogs.msdn.com/b/dotnet/archive/2014/04/28/introducing-the-microsoft-net-framework-repair-tool.aspx'
-category: 5a88e1aebd6dca0d5f0d2a24
+category: libraries-tools
 slug: 'introducing-the-microsoft-net-framework-repair-tool'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

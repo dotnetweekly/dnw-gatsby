@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d230a
 title: "Free ebook: Microsoft Azure Essentials Migrating SQL Server Databases to Azure"
 url: 'https://blogs.msdn.microsoft.com/microsoft_press/2016/05/11/free-ebook-microsoft-azure-essentials-migrating-sql-server-databases-to-azure/'
-category: 5a88e1acbd6dca0d5f0d230a
+category: books
 slug: 'free-ebook-microsoft-azure-essentials-migrating-sql-server-databases-to-azure-2'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5b58a7bd13da0b1c0ed112f0
 title: "Creating a .NET Core Global Tool In 10 Minutes"
 url: 'https://stevedesmond.ca/blog/dotnet-global-tool-in-10-minutes'
-category: 5b58a7bd13da0b1c0ed112f0
+category: videos
 slug: 'creating-a-net-core-global-tool-in-10-minutes'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

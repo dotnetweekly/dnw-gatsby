@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d297a
 title: "Twenty C# Questions Explained"
 url: 'http://www.microsoftvirtualacademy.com/training-courses/twenty-c-questions-explained'
-category: 5a88e1aebd6dca0d5f0d297a
+category: videos
 slug: 'twenty-c-questions-explained-2'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

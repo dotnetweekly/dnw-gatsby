@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d25ac
 title: "Free Training at Microsoft Virtual Academy - Introduction to ASP.NET 5"
 url: 'http://www.hanselman.com/blog/FreeTrainingAtMicrosoftVirtualAcademyIntroductionToASPNET5.aspx'
-category: 5a88e1adbd6dca0d5f0d25ac
+category: videos
 slug: 'free-training-at-microsoft-virtual-academy-introduction-to-asp-net-5'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

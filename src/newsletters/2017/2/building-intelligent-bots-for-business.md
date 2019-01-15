@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d208c
 title: "Building Intelligent Bots for Business"
 url: 'https://blogs.technet.microsoft.com/machinelearning/2016/12/13/building-intelligent-bots-for-business/'
-category: 5a88e1acbd6dca0d5f0d208c
+category: articles
 slug: 'building-intelligent-bots-for-business'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

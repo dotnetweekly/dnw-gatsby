@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d26ec
 title: "A Mobile-First Approach to Modern App Development"
 url: 'https://msdn.microsoft.com/en-us/magazine/dn948114.aspx'
-category: 5a88e1adbd6dca0d5f0d26ec
+category: articles
 slug: 'a-mobile-first-approach-to-modern-app-development'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d280a
 title: "Developing Microsoft Azure Solutions"
 url: 'http://www.microsoftvirtualacademy.com/liveevents/developing-microsoft-azure-solutions'
-category: 5a88e1adbd6dca0d5f0d280a
+category: events-training
 slug: 'developing-microsoft-azure-solutions'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

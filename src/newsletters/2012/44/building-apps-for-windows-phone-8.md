@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2e66
 title: "Building Apps for Windows Phone 8"
 url: 'http://blogs.msdn.com/b/somasegar/archive/2012/10/30/building-apps-for-windows-phone-8.aspx'
-category: 5a88e1afbd6dca0d5f0d2e66
+category: libraries-tools
 slug: 'building-apps-for-windows-phone-8'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

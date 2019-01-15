@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d255c
 title: "How to test OWIN OAuth Middleware"
 url: 'http://benfoster.io/blog/how-to-test-owin-oauth-middleware'
-category: 5a88e1adbd6dca0d5f0d255c
+category: articles
 slug: 'how-to-test-owin-oauth-middleware'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

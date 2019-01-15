@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d2694
 title: "Evolving ASP.NET Apps–Load Testing"
 url: 'http://blogs.msdn.com/b/cdndevs/archive/2015/05/26/evolving-asp-net-apps-load-testing.aspx'
-category: 5a88e1adbd6dca0d5f0d2694
+category: libraries-tools
 slug: 'evolving-asp-net-apps-load-testing'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

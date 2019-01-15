@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d27de
 title: "We're moving to GitHub!"
 url: 'http://blogs.msdn.com/b/csharpfaq/archive/2015/01/10/moving-to-github.aspx'
-category: 5a88e1adbd6dca0d5f0d27de
+category: articles
 slug: 'were-moving-to-github'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

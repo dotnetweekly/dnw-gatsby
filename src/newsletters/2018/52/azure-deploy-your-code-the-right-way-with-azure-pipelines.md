@@ -2,7 +2,7 @@
 _id: 5c262834745cd014310206c2
 title: "Azure - Deploy Your Code The Right Way with Azure Pipelines"
 url: 'https://msdn.microsoft.com/magazine/mt848636'
-category: 5c262834745cd014310206c2
+category: articles
 slug: 'azure-deploy-your-code-the-right-way-with-azure-pipelines'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

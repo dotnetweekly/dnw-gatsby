@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1c82
 title: ".NET Standard - The Version Table"
 url: 'https://www.youtube.com/watch?v=vMRSlQ5modg'
-category: 5a88e1abbd6dca0d5f0d1c82
+category: videos
 slug: 'net-standard-the-version-table'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d26b4
 title: "Asynchronous Programming in ES6 Using Generators and Promises"
 url: 'http://www.dotnetcurry.com/showarticle.aspx?ID=1131'
-category: 5a88e1adbd6dca0d5f0d26b4
+category: articles
 slug: 'asynchronous-programming-in-es6-using-generators-and-promises'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

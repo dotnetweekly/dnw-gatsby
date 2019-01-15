@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d222e
 title: "Microsoft Azure for IT Pros Content Series: Live Kick-Off"
 url: 'https://mva.microsoft.com/liveevents/microsoft-azure-for-it-pros-content-series-live-kick-off'
-category: 5a88e1acbd6dca0d5f0d222e
+category: events-training
 slug: 'microsoft-azure-for-it-pros-content-series-live-kick-off'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

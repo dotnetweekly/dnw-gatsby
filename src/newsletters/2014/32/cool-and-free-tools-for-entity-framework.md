@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2938
 title: "Cool (and Free) Tools for Entity Framework"
 url: 'http://msdn.microsoft.com/en-us/magazine/dn759438.aspx'
-category: 5a88e1aebd6dca0d5f0d2938
+category: articles
 slug: 'cool-and-free-tools-for-entity-framework'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

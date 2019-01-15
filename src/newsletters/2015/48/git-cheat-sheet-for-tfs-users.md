@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d24f8
 title: "Git Cheat Sheet for TFS Users"
 url: 'http://www.benday.com/2015/11/24/git-cheat-sheet-for-tfs-users/'
-category: 5a88e1adbd6dca0d5f0d24f8
+category: articles
 slug: 'git-cheat-sheet-for-tfs-users'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

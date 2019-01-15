@@ -2,7 +2,7 @@
 _id: 5a88e1aabd6dca0d5f0d1bce
 title: "Docker + dotnet-watch"
 url: 'http://www.natemcmaster.com/blog/2017/11/13/dotnet-watch-and-docker/'
-category: 5a88e1aabd6dca0d5f0d1bce
+category: articles
 slug: 'docker-dotnet-watch'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

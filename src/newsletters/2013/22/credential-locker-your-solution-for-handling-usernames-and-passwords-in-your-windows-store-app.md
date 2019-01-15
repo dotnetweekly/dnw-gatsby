@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2cc0
 title: "Credential Locker: Your solution for handling usernames and passwords in your Windows Store app"
 url: 'http://blogs.msdn.com/b/windowsappdev/archive/2013/05/30/credential-locker-your-solution-for-handling-usernames-and-passwords-in-your-windows-store-app.aspx'
-category: 5a88e1afbd6dca0d5f0d2cc0
+category: articles
 slug: 'credential-locker-your-solution-for-handling-usernames-and-passwords-in-your-windows-store-app'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

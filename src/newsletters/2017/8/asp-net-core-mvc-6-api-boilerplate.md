@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d200a
 title: "ASP.NET Core MVC 6 API Boilerplate"
 url: 'https://github.com/ASP-NET-MVC-Boilerplate/Templates/blob/master/MVC%206%20API.md'
-category: 5a88e1abbd6dca0d5f0d200a
+category: articles
 slug: 'asp-net-core-mvc-6-api-boilerplate'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

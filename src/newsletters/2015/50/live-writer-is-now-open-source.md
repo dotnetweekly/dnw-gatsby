@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d24d8
 title: "Live Writer is now Open Source"
 url: 'https://www.dotnetfoundation.org/blog/open-live-writer'
-category: 5a88e1adbd6dca0d5f0d24d8
+category: libraries-tools
 slug: 'live-writer-is-now-open-source'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

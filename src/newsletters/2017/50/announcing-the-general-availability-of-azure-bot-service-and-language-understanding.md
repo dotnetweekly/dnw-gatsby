@@ -2,7 +2,7 @@
 _id: 5a88e1aabd6dca0d5f0d1b54
 title: "Announcing the General Availability of Azure Bot Service and Language Understanding"
 url: 'https://azure.microsoft.com/en-us/blog/announcing-the-general-availability-of-azure-bot-service-and-language-understanding-enabling-developers-to-build-better-conversational-bots/'
-category: 5a88e1aabd6dca0d5f0d1b54
+category: libraries-tools
 slug: 'announcing-the-general-availability-of-azure-bot-service-and-language-understanding'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

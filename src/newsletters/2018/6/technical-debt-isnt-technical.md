@@ -2,7 +2,7 @@
 _id: 5a88e1aabd6dca0d5f0d1a52
 title: "Technical debt isn’t technical"
 url: 'https://einarwh.wordpress.com/2015/12/05/technical-debt-isnt-technical/'
-category: 5a88e1aabd6dca0d5f0d1a52
+category: articles
 slug: 'technical-debt-isnt-technical'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

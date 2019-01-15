@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2850
 title: "Inside Windows Platform: Microsoft OCR Libraries"
 url: 'http://channel9.msdn.com/Shows/Inside-Windows-Platform/Inside-Windows-Platform-Inside-Microsoft-OCR-Libraries'
-category: 5a88e1aebd6dca0d5f0d2850
+category: videos
 slug: 'inside-windows-platform-microsoft-ocr-libraries'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

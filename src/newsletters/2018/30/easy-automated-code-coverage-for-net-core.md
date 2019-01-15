@@ -2,7 +2,7 @@
 _id: 5b58a7a913da0bdefed112ef
 title: "Easy, Automated Code Coverage for .NET Core"
 url: 'https://dev.to/nlowe/easy-automated-code-coverage-for-net-core-1khh'
-category: 5b58a7a913da0bdefed112ef
+category: articles
 slug: 'easy-automated-code-coverage-for-net-core'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

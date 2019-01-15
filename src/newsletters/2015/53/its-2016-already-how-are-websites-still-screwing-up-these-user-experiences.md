@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d2492
 title: "It’s 2016 already, how are websites still screwing up these user experiences?!"
 url: 'http://www.troyhunt.com/2016/01/its-2016-already-how-are-websites-still.html'
-category: 5a88e1adbd6dca0d5f0d2492
+category: articles
 slug: 'its-2016-already-how-are-websites-still-screwing-up-these-user-experiences'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d2a44
 title: "Microsoft Takes Cross-Platform Development to Another Level"
 url: 'http://visualstudiomagazine.com/articles/2014/04/02/microsoft-build-show-day-1-keynote.aspx'
-category: 5a88e1aebd6dca0d5f0d2a44
+category: articles
 slug: 'microsoft-takes-cross-platform-development-to-another-level'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

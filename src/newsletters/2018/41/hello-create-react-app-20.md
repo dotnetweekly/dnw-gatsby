@@ -2,7 +2,7 @@
 _id: 5bbc14618a5a392bc2fd9804
 title: "Hello, Create React App 2.0!"
 url: 'https://www.telerik.com/blogs/hello-create-react-app-2'
-category: 5bbc14618a5a392bc2fd9804
+category: articles
 slug: 'hello-create-react-app-20'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

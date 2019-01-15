@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d20e4
 title: "Create HTTP request pipeline using ASP.NET Core custom middleware: build/run on Mac, Windows, Linux or Docker container"
 url: 'https://www.codeproject.com/Articles/1158001/Create-HTTP-request-pipeline-using-ASP-NET-Core'
-category: 5a88e1acbd6dca0d5f0d20e4
+category: articles
 slug: 'create-http-request-pipeline-using-asp-net-core-custom-middleware-buildrun-on-mac-windows-linux-or-'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

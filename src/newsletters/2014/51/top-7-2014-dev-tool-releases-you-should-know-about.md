@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d2800
 title: "Top 7 2014 Dev Tool Releases You Should Know About"
 url: 'http://visualstudiomagazine.com/articles/2014/12/01/top-7-2014-dev-tool-releases.aspx'
-category: 5a88e1adbd6dca0d5f0d2800
+category: libraries-tools
 slug: 'top-7-2014-dev-tool-releases-you-should-know-about'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

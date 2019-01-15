@@ -2,7 +2,7 @@
 _id: 5a88e1aabd6dca0d5f0d1bda
 title: "Azure DevOps Projects"
 url: 'https://blogs.msdn.microsoft.com/bharry/2017/11/15/connect-announcements/'
-category: 5a88e1aabd6dca0d5f0d1bda
+category: articles
 slug: 'azure-devops-projects'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

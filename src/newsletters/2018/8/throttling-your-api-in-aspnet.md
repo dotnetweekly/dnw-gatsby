@@ -2,7 +2,7 @@
 _id: 5a8b3ed03bdd6c002abd3c0e
 title: "Throttling your API in ASP.NET"
 url: 'https://lachlanbarclay.net/2018/02/throttling-your-api-in-asp-dot-net'
-category: 5a8b3ed03bdd6c002abd3c0e
+category: articles
 slug: 'throttling-your-api-in-aspnet'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5c098afad9a593159af70e8b
 title: "Keep AWS Lambdas Warm with .NET Core"
 url: 'https://www.dotnetcatch.com/2018/12/04/keep-aws-lambdas-warm-with-net-core/'
-category: 5c098afad9a593159af70e8b
+category: articles
 slug: 'keep-aws-lambdas-warm-with-net-core'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

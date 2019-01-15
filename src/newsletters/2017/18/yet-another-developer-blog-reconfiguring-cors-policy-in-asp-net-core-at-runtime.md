@@ -2,7 +2,7 @@
 _id: 5a88e1abbd6dca0d5f0d1ef0
 title: "Yet another developer blog: Reconfiguring CORS policy in ASP.NET Core at runtime"
 url: 'https://www.tpeczek.com/2017/04/reconfiguring-cors-policy-in-aspnet.html'
-category: 5a88e1abbd6dca0d5f0d1ef0
+category: articles
 slug: 'yet-another-developer-blog-reconfiguring-cors-policy-in-asp-net-core-at-runtime'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5b7c1850e629202ba0f3fe96
 title: "Handling a GDI Resource Leak"
 url: 'https://codingsight.com/gdi-leak-handling/'
-category: 5b7c1850e629202ba0f3fe96
+category: articles
 slug: 'handling-a-gdi-resource-leak'
 user_id: 5aaa4af315c227023e22fe4b
 username: 'Dandy123'

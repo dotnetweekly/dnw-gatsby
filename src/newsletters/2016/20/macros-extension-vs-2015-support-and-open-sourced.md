@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d234c
 title: "Macros extension: VS 2015 support and open-sourced"
 url: 'https://blogs.msdn.microsoft.com/visualstudio/2016/05/11/macros-extension-open-sourced-in-visual-studio-2015/'
-category: 5a88e1acbd6dca0d5f0d234c
+category: libraries-tools
 slug: 'macros-extension-vs-2015-support-and-open-sourced'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

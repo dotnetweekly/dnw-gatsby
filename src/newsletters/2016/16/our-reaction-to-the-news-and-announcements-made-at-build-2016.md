@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d2384
 title: "Our Reaction to the News and Announcements Made at Build 2016"
 url: 'https://channel9.msdn.com/blogs/devradio/dr1647'
-category: 5a88e1acbd6dca0d5f0d2384
+category: videos
 slug: 'our-reaction-to-the-news-and-announcements-made-at-build-2016'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

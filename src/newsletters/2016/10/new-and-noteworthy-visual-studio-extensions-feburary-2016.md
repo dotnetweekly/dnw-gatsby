@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d23f6
 title: "New and Noteworthy Visual Studio Extensions – Feburary 2016"
 url: 'https://blogs.msdn.microsoft.com/visualstudio/2016/03/02/new-noteworthy-visual-studio-extensions-feburary-2016/'
-category: 5a88e1acbd6dca0d5f0d23f6
+category: libraries-tools
 slug: 'new-and-noteworthy-visual-studio-extensions-feburary-2016'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2d80
 title: "EF6 Alpha 3 Available on NuGet"
 url: 'http://blogs.msdn.com/b/adonet/archive/2013/02/27/ef6-alpha-3-available-on-nuget.aspx'
-category: 5a88e1afbd6dca0d5f0d2d80
+category: libraries-tools
 slug: 'ef6-alpha-3-available-on-nuget'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

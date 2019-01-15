@@ -2,7 +2,7 @@
 _id: 5b80991fe7b8b916b31cb275
 title: "Windows 95 in Electron. Runs on macOS, Linux, and Windows."
 url: 'https://github.com/felixrieseberg/windows95'
-category: 5b80991fe7b8b916b31cb275
+category: libraries-tools
 slug: 'windows-95-in-electron-runs-on-macos-linux-and-windows'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

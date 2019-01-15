@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d20ea
 title: "Why is reflection slow?"
 url: 'http://mattwarren.org/2016/12/14/Why-is-Reflection-slow/'
-category: 5a88e1acbd6dca0d5f0d20ea
+category: articles
 slug: 'why-is-reflection-slow'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

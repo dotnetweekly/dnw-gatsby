@@ -2,7 +2,7 @@
 _id: 5a88e1aebd6dca0d5f0d299a
 title: "VS/TFS 2013.3 (Update 3) RC"
 url: 'http://blogs.msdn.com/b/bharry/archive/2014/07/02/vs-tfs-2013-3-update-3-rc.aspx'
-category: 5a88e1aebd6dca0d5f0d299a
+category: libraries-tools
 slug: 'vstfs-2013-3-update-3-rc'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

@@ -2,7 +2,7 @@
 _id: 5a88e1acbd6dca0d5f0d20e8
 title: "SQL SERVER – How to Automatically Generate SQL Server Documentation ?"
 url: 'http://blog.sqlauthority.com/2016/12/27/sql-server-automatically-generate-sql-server-documentation/'
-category: 5a88e1acbd6dca0d5f0d20e8
+category: libraries-tools
 slug: 'sql-server-how-to-automatically-generate-sql-server-documentation'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

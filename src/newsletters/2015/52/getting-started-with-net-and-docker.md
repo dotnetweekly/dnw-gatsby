@@ -2,7 +2,7 @@
 _id: 5a88e1adbd6dca0d5f0d24a8
 title: "Getting Started with .NET and Docker"
 url: 'https://blogs.msdn.microsoft.com/mvpawardprogram/2015/12/15/getting-started-with-net-and-docker/'
-category: 5a88e1adbd6dca0d5f0d24a8
+category: articles
 slug: 'getting-started-with-net-and-docker'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'

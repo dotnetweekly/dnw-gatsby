@@ -2,7 +2,7 @@
 _id: 5a88e1afbd6dca0d5f0d2c8c
 title: "Build 2013 and Visual Studio 2013 Preview"
 url: 'http://blogs.msdn.com/b/somasegar/archive/2013/06/26/visual-studio-2013-preview.aspx'
-category: 5a88e1afbd6dca0d5f0d2c8c
+category: libraries-tools
 slug: 'build-2013-and-visual-studio-2013-preview'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'
