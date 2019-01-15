@@ -25,6 +25,11 @@ class AddPage extends React.Component {
       success: false,
       errors: [],
     }
+    this.handleChangeInput = this.handleChangeInput.bind(this)
+    this.handleChangeSelectAll = this.handleChangeSelectAll.bind(this)
+    this.handleChangeSelect = this.handleChangeSelect.bind(this)
+    this.formSubmit = this.formSubmit.bind(this)
+    this.resetState = this.resetState.bind(this)
   }
   componentDidMount() {
     const { fData } = this.state
@@ -70,6 +75,19 @@ class AddPage extends React.Component {
     recaptchaRef.current.execute()
     return
   }
+  resetState() {
+    this.setState({
+      success: false,
+      isLoading: false,
+      fData: {
+        title: '',
+        url: '',
+        category: { name: 'Articles', slug: 'articles' },
+        content: '',
+        tags: ['.net'],
+      },
+    })
+  }
   formAction(recaptchaValue) {
     const { fData } = this.state
     const self = this
@@ -91,21 +109,13 @@ class AddPage extends React.Component {
               resolve()
               return
             }
+
             self.setState({ success: true, isLoading: false })
+            recaptchaRef.current.reset()
             setTimeout(() => {
-              self.setState({
-                success: false,
-                isLoading: false,
-                fData: {
-                  title: '',
-                  url: '',
-                  category: { name: 'Articles', slug: 'articles' },
-                  content: '',
-                  tags: ['.net'],
-                },
-              })
+              self.resetState()
               resolve()
-            }, 5000)
+            }, 2000)
           })
           .catch(() => {
             const errors = [{ field: 'title', error: 'Undefined error' }]
@@ -133,6 +143,31 @@ class AddPage extends React.Component {
     changedProperty[param] = event.target.value
     this.setState({ fData: changedProperty })
   }
+  handleChangeSelectAll(event, param) {
+    const options = event.target.options
+    const value = []
+    for (var i = 0, l = options.length; i < l; i++) {
+      if (options[i].selected) {
+        value.push(options[i].value)
+      }
+    }
+    const changedProperty = { ...this.state.fData }
+    changedProperty[param] = value
+    this.setState({ fData: changedProperty })
+  }
+  handleChangeSelect(event, param) {
+    const options = event.target.options
+    const categories = this.state.categories
+    const selectedValue = options[event.target.selectedIndex].value
+
+    for (let i = 0; i < categories.length; i++) {
+      if (categories[i].slug === selectedValue) {
+        const changedProperty = { ...this.state.fData }
+        changedProperty[param] = categories[i]
+        this.setState({ fData: changedProperty })
+      }
+    }
+  }
   render() {
     const { errors, success, isLoading, fData } = this.state
     const { categories, tags } = this.state
@@ -152,8 +187,9 @@ class AddPage extends React.Component {
                     type="text"
                     placeholder="Link Title"
                     onChange={event => {
-                      this.handleChangeInput(event, 'title').bind(this)
+                      this.handleChangeInput(event, 'title')
                     }}
+                    value={fData.title}
                   />
                 </div>
                 <p className="help is-danger">
@@ -174,8 +210,9 @@ class AddPage extends React.Component {
                     type="text"
                     placeholder="Link URL"
                     onChange={event => {
-                      this.handleChangeInput(event, 'url').bind(this)
+                      this.handleChangeInput(event, 'url')
                     }}
+                    value={fData.url}
                   />
                 </div>
                 <p className="help is-danger">
@@ -198,10 +235,14 @@ class AddPage extends React.Component {
                         'category',
                         errors
                       )}
+                      onChange={event => {
+                        this.handleChangeSelect(event, 'category')
+                      }}
+                      value={fData.category.slug}
                     >
                       {categories.map(category => {
                         return (
-                          <option value={category} key={category.slug}>
+                          <option value={category.slug} key={category.slug}>
                             {category.name}
                           </option>
                         )
@@ -231,6 +272,9 @@ class AddPage extends React.Component {
                         'tags',
                         errors
                       )}
+                      onChange={event => {
+                        this.handleChangeSelectAll(event, 'tags')
+                      }}
                     >
                       {tags.map(tag => {
                         return (
@@ -247,9 +291,7 @@ class AddPage extends React.Component {
                   </div>
                   <p className="help">
                     {fData.tags.length > 0 && <span>Selected: </span>}
-                    {fData.tags.map(tag => {
-                      return <span key={`tag-selected-${tag}`}>{tag}</span>
-                    })}
+                    {fData.tags && <span>{fData.tags.join(', ')}</span>}
                   </p>
                 </div>
                 <p className="help is-danger">
@@ -274,8 +316,9 @@ class AddPage extends React.Component {
                     rows="10"
                     placeholder="Description"
                     onChange={event => {
-                      this.handleChangeInput(event, 'content').bind(this)
+                      this.handleChangeInput(event, 'content')
                     }}
+                    value={fData.content}
                   />
                 </div>
                 <p className="help is-danger">
@@ -289,21 +332,19 @@ class AddPage extends React.Component {
             <div className="field-body">
               <div className="field">
                 <div className="control">
-                  {!success &&
-                    !isLoading && (
-                      <button
-                        className="button is-medium is-link"
-                        onClick={this.formSubmit.bind(this)}
-                      >
-                        <strong>Add</strong>
-                      </button>
-                    )}
-                  {!success &&
-                    isLoading && (
-                      <button className="button is-medium is-link" disabled>
-                        <strong>Add</strong>
-                      </button>
-                    )}
+                  {!success && !isLoading && (
+                    <button
+                      className="button is-medium is-link"
+                      onClick={this.formSubmit}
+                    >
+                      <strong>Add</strong>
+                    </button>
+                  )}
+                  {!success && isLoading && (
+                    <button className="button is-medium is-link" disabled>
+                      <strong>Add</strong>
+                    </button>
+                  )}
                   {success && (
                     <div className="control is-expanded">
                       Link submitted, once approved it will appear on the front
