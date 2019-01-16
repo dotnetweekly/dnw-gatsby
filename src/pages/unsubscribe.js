@@ -41,7 +41,7 @@ class ActivatePage extends React.Component {
     try {
       axios
         .post(`/user/unsubscribe?g-recaptcha-response=${recaptchaValue}`, {
-          key: activationCode,
+          key: activationCode[0],
         })
         .then(response => {
           if (
@@ -89,12 +89,9 @@ class ActivatePage extends React.Component {
               ))}
             </ul>
           )}
-          {!isLoading &&
-            success && (
-              <h3 className="control is-expanded">
-                Successfully unsubscribed!
-              </h3>
-            )}
+          {!isLoading && success && (
+            <h3 className="control is-expanded">Successfully unsubscribed!</h3>
+          )}
           <div className="is-clearfix width-100 dnw-captcha">
             <ReCAPTCHA
               ref={recaptchaRef}

@@ -42,7 +42,7 @@ class ActivatePage extends React.Component {
     try {
       axios
         .post(`/auth/activate?g-recaptcha-response=${recaptchaValue}`, {
-          key: activationCode,
+          key: activationCode[0],
         })
         .then(response => {
           if (
@@ -97,13 +97,12 @@ class ActivatePage extends React.Component {
               ))}
             </ul>
           )}
-          {!isLoading &&
-            success && (
-              <h3 className="control is-expanded">
-                Successfully activated! You are logged in now. We'll redirect
-                you to your profile page in 3 seconds.
-              </h3>
-            )}
+          {!isLoading && success && (
+            <h3 className="control is-expanded">
+              Successfully activated! You are logged in now. We'll redirect you
+              to your profile page in 3 seconds.
+            </h3>
+          )}
           <div className="is-clearfix width-100 dnw-captcha">
             <ReCAPTCHA
               ref={recaptchaRef}
