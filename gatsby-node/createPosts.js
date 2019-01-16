@@ -7,6 +7,7 @@ exports.createPosts = function(createPage, graphql) {
         {
           allMarkdownRemark(
             sort: { order: DESC, fields: [frontmatter___createdOn] }
+            limit: 10
           ) {
             edges {
               node {

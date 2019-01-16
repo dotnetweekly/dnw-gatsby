@@ -45,37 +45,46 @@ exports.onCreatePage = async ({ page, actions }) => {
 
   // page.matchPath is a special key that's used for matching pages
   // only on the client.
-  if (page.path === '/activate/') {
-    deletePage(page)
-    // Update the page.
-    createPage({
-      path: '/activate/*',
-      component: path.resolve(path.join(__dirname, `src/pages/activate.js`)),
-    })
-  } else if (page.path.match(/^\/forgot-password\/(.*?)$/)) {
-    deletePage(page)
-    // Update the page.
-    createPage({
-      path: '/forgot-password/*',
-      component: path.resolve(
-        path.join(__dirname, `src/pages/activate-forgot-password.js`)
-      ),
-    })
-  } else if (page.path.replace(/\./, '').match(/^\/updateEmail\/(.*?)$/)) {
-    deletePage(page)
-    // Update the page.
-    createPage({
-      path: '/updateEmail/*',
-      component: path.resolve(
-        path.join(__dirname, `src/pages/activate-update-email.js`)
-      ),
-    })
-  } else if (page.path.match(/^\/unsubscribe\/(.*?)$/)) {
-    deletePage(page)
-    // Update the page.
-    createPage({
-      path: '/unsubscribe/*',
-      component: path.resolve(path.join(__dirname, `src/pages/unsubscribe.js`)),
-    })
-  }
+  console.log(page)
+  return new Promise((resolve, reject) => {
+    if (page.path === '/activate/') {
+      deletePage(page)
+      // Update the page.
+      createPage({
+        path: '/activate/*',
+        component: path.resolve(path.join(__dirname, `src/pages/activate.js`)),
+      })
+    }
+    if (page.path === '/forgot-password/') {
+      deletePage(page)
+      // Update the page.
+      createPage({
+        path: '/forgot-password/*',
+        component: path.resolve(
+          path.join(__dirname, `src/pages/forgot-password.js`)
+        ),
+      })
+    }
+    if (page.path === '/updateEmail/') {
+      deletePage(page)
+      // Update the page.
+      createPage({
+        path: '/updateEmail/*',
+        component: path.resolve(
+          path.join(__dirname, `src/pages/updateEmail.js`)
+        ),
+      })
+    }
+    if (page.path === '/unsubscribe/') {
+      deletePage(page)
+      // Update the page.
+      createPage({
+        path: '/unsubscribe/*',
+        component: path.resolve(
+          path.join(__dirname, `src/pages/unsubscribe.js`)
+        ),
+      })
+    }
+    resolve()
+  })
 }
