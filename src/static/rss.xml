@@ -4,10 +4,11 @@
         <title>dotNET Weekly - Week undefined Year undefined</title>
         <link>https://www.dotnetweekly.com/week/undefined/year/undefined?feed=rss</link>
         <description></description>
-        <lastBuildDate>Tue, 15 Jan 2019 05:36:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Jan 2019 06:59:19 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <category>Articles</category>
+        <category>Libraries-Tools</category>
         <item>
             <title><![CDATA[Hosted Services In ASP.net Core]]></title>
             <link>https://www.dotnetweekly.com/articles/hosted-services-in-aspnet-core</link>
@@ -30,6 +31,42 @@
             <guid>https://www.dotnetweekly.com/articles/how-you-can-create-a-net-core-application-using-entity-framework-core-with-oracle</guid>
             <pubDate>Tue, 15 Jan 2019 08:18:42 GMT</pubDate>
             <content:encoded><![CDATA[While Entity Framework support is already a quite common feature of different data provider products, support for Entity Framework Core is not yet as widely available. Especially if it concerns Entity Framework Core on .NET Core. Today I will tell you about an ADO.NET provider for Oracle that provides such features.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Let's Encrypt - Looking Forward to 2019]]></title>
+            <link>https://www.dotnetweekly.com/articles/lets-encrypt-looking-forward-to-2019</link>
+            <guid>https://www.dotnetweekly.com/articles/lets-encrypt-looking-forward-to-2019</guid>
+            <pubDate>Tue, 15 Jan 2019 07:05:23 GMT</pubDate>
+            <content:encoded><![CDATA[Let’s Encrypt had a great year in 2018. We’re now serving more than 150 million websites while maintaining a stellar security and compliance track record.
+
+Most importantly though, the Web went from 67% encrypted page loads to 77% in 2018, according to statistics from Mozilla. This is an incredible rate of change!]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Running async tasks on app startup in ASP.NET Core (Part 1)]]></title>
+            <link>https://www.dotnetweekly.com/articles/running-async-tasks-on-app-startup-in-aspnet-core-part-1</link>
+            <guid>https://www.dotnetweekly.com/articles/running-async-tasks-on-app-startup-in-aspnet-core-part-1</guid>
+            <pubDate>Tue, 15 Jan 2019 06:47:50 GMT</pubDate>
+            <content:encoded><![CDATA[Sometimes you need to perform one-off initialisation logic before your app starts up properly. For example, you might want to validate your configuration is correct, populate a cache, or run database migrations. In this post, I look at the options available and show some simple methods and extension points that I think solve the problem well.
+
+I start by describing the built-in solution to running synchronous tasks with IStartupFilter. I then walk through the various options for running asynchrnous tasks. You could (but possibly shouldn't) use IStartupFilter or IApplicationLifetime events to run asynchronous tasks. You could use the IHostedService interface to run one-off tasks without blocking app startup. However the only real solution is to run the tasks manually in program.cs. In my next post I'll show a suggested proposal that makes this process a little easier.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Policy-based Authorization in ASP.NET Core – A Deep Dive]]></title>
+            <link>https://www.dotnetweekly.com/articles/policy-based-authorization-in-aspnet-core-a-deep-dive</link>
+            <guid>https://www.dotnetweekly.com/articles/policy-based-authorization-in-aspnet-core-a-deep-dive</guid>
+            <pubDate>Tue, 15 Jan 2019 06:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[Authentication and Authorization are two terms you would often come across when reading about the security of web applications. While the former is used to validate a user’s credentials, the latter is used to grant access to one or more resources of the application to a user. There are two ways in which you can implement authorization in ASP.NET Core. These include role-based authorization and policy-based authorization. Role-based authorization has been in use from the previous versions of ASP.NET. Policy-based authorization has been newly introduced in ASP.NET Core and provides a rich, expressive and reusable authorization model to secure applications developed in ASP.NET Core. This article presents a discussion on how you can work with policy-based authorization in ASP.NET Core.
+
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Background tasks in ASP.NET Core]]></title>
+            <link>https://www.dotnetweekly.com/articles/background-tasks-in-aspnet-core</link>
+            <guid>https://www.dotnetweekly.com/articles/background-tasks-in-aspnet-core</guid>
+            <pubDate>Tue, 15 Jan 2019 06:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[This post is about running background tasks in ASP.NET Core. In .NET Core 2.1, Microsoft introduced a new feature called IHostedService to allow developers to run a background service that can have a managed lifetime to its caller, be it from an ASP.NET Core or a console.
+
+]]></content:encoded>
         </item>
     </channel>
 </rss>

@@ -20,6 +20,10 @@ class Calendar extends React.Component {
   }
   getPrevNext(week, year, filterCalendar) {
     const pn = prevNext.getPrevNext(filterCalendar)
+    const currentYear = calendarHelper.getUtcNow().getFullYear()
+    const hasNext =
+      currentYear > pn.nextMonth.year ||
+      (currentYear === pn.nextMonth.year && week > pn.nextMonth.week)
     return (
       <tr>
         <td>
@@ -32,11 +36,13 @@ class Calendar extends React.Component {
         <td colSpan="6">
           {prevNext.getCurrentMonth(week, year)} {year}
         </td>
-        <td>
-          <Link to={`/week/${pn.nextMonth.week}/year/${pn.nextMonth.year}`}>
-            Next
-          </Link>
-        </td>
+        {hasNext && (
+          <td>
+            <Link to={`/week/${pn.nextMonth.week}/year/${pn.nextMonth.year}`}>
+              Next
+            </Link>
+          </td>
+        )}
       </tr>
     )
   }
@@ -59,6 +65,9 @@ class Calendar extends React.Component {
                 parseInt(calendarWeek.week) === parseInt(week)
                   ? 'is-current'
                   : ''
+              const lastDayYear = calendarWeek.days[
+                calendarWeek.days.length - 1
+              ].date.getFullYear()
               return (
                 (currentWeek >= calendarWeek.week ||
                   calendarWeek.days[0].date.getFullYear() < currentYear) && (
@@ -71,7 +80,7 @@ class Calendar extends React.Component {
                             <Link
                               to={`/week/${
                                 calendarWeek.week
-                              }/year/${weekDay.date.getFullYear()}`}
+                              }/year/${lastDayYear}`}
                             >
                               {weekDay.date ? weekDay.date.getDate() : ''}
                             </Link>
