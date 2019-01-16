@@ -141,7 +141,7 @@ class LoginPage extends React.Component {
               <div className="field">
                 <div className="control">
                   <p>
-                    <Link to="/forgot-password">Forgot Password</Link>
+                    <Link to="/forgot-password-request">Forgot Password</Link>
                   </p>
                 </div>
               </div>
@@ -153,21 +153,19 @@ class LoginPage extends React.Component {
             <div className="field-body">
               <div className="field">
                 <div className="control">
-                  {!success &&
-                    !isLoading && (
-                      <button
-                        className="button is-medium is-link"
-                        onClick={this.formSubmit.bind(this)}
-                      >
-                        <strong>Login</strong>
-                      </button>
-                    )}
-                  {!success &&
-                    isLoading && (
-                      <button className="button is-medium is-link" disabled>
-                        <strong>Login</strong>
-                      </button>
-                    )}
+                  {!success && !isLoading && (
+                    <button
+                      className="button is-medium is-link"
+                      onClick={this.formSubmit.bind(this)}
+                    >
+                      <strong>Login</strong>
+                    </button>
+                  )}
+                  {!success && isLoading && (
+                    <button className="button is-medium is-link" disabled>
+                      <strong>Login</strong>
+                    </button>
+                  )}
                   {success && (
                     <div className="control is-expanded">
                       Successfully logged in! You are now logged in.

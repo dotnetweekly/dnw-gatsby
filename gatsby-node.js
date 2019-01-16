@@ -61,7 +61,7 @@ exports.onCreatePage = async ({ page, actions }) => {
         path.join(__dirname, `src/pages/activate-forgot-password.js`)
       ),
     })
-  } else if (page.path.match(/^\/updateEmail\/(.*?)$/)) {
+  } else if (page.path.replace(/\./, '').match(/^\/updateEmail\/(.*?)$/)) {
     deletePage(page)
     // Update the page.
     createPage({
