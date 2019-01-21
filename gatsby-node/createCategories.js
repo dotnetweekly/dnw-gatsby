@@ -1,20 +1,5 @@
 const path = require('path')
-const axios = require('axios')
-
-const calendarHelp = require('../src/utils/calendar')
-const conf = require('../conf')
-
-Date.prototype.addDays = function(days) {
-  var date = new Date(this.valueOf())
-  date.setDate(date.getDate() + days)
-  return date
-}
-
-const {
-  weeksInYear,
-  getUtcNow,
-  getWeekNumber,
-} = require('../src/utils/calendar')
+const weeklyCalendarHelper = require('weekly-calendar-helper')
 
 exports.createCategories = async function(createPage, graphql) {
   return new Promise(async (resolve, reject) => {
@@ -36,12 +21,18 @@ const getNumStr = function(v) {
 }
 
 function createPages(week, year, graphql, createPage) {
-  const now = calendarHelp.getUtcNow()
-  const currentWeek = calendarHelp.getWeek(now)
+  const now = weeklyCalendarHelper.baseHelper.getUtcNow()
+  const currentWeek = weeklyCalendarHelper.weekHelper.getWeekNumber(now)
   const currentYear = now.getFullYear()
-  const dateRange = calendarHelp.getDateRangeOfWeek(week, year)
-  const dateArr = calendarHelp
-    .getDates(dateRange.from.addDays(-2), dateRange.to.addDays(-2))
+  const dateRange = weeklyCalendarHelper.weekHelper.getDateRangeOfWeek(
+    week,
+    year
+  )
+  const dateArr = weeklyCalendarHelper.baseHelper
+    .getDates(
+      weeklyCalendarHelper.baseHelper.addDays(dateRange.from, 1),
+      weeklyCalendarHelper.baseHelper.addDays(dateRange.to, 1)
+    )
     .map(fullDate => {
       return `(${fullDate.getFullYear()}-${getNumStr(
         fullDate.getMonth() + 1
@@ -109,9 +100,9 @@ async function generateCategories(createPage, graphql) {
   let currentWeek = 20
   let currentYear = 2012
 
-  const now = getUtcNow()
-  const nowWeek = getWeekNumber(now)[1]
-  const lastWeek = getWeekNumber(now)[1]
+  const now = weeklyCalendarHelper.baseHelper.getUtcNow()
+  const nowWeek = weeklyCalendarHelper.weekHelper.getWeekNumber(now)[1]
+  const lastWeek = weeklyCalendarHelper.weekHelper.getWeekNumber(now)[1]
   const lastYear = now.getFullYear()
 
   let count = 0
@@ -124,7 +115,7 @@ async function generateCategories(createPage, graphql) {
       createPages(currentWeek, currentYear, graphql, createPage)
     }
 
-    const yearWeeks = weeksInYear(currentYear)
+    const yearWeeks = weeklyCalendarHelper.weekHelper.weeksInYear(currentYear)
     currentWeek++
     if (yearWeeks < currentWeek) {
       currentWeek = 1

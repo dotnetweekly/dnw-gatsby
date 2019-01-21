@@ -1,4 +1,4 @@
-import * as calendarHelper from '../utils/calendar'
+const weeklyCalendarHelper = require('weekly-calendar-helper')
 
 function getPrevNext(filterCalendar) {
   const firstWeek = filterCalendar.weeks[0]
@@ -9,7 +9,7 @@ function getPrevNext(filterCalendar) {
   let previousWeekLastDay = new Date(firstWeekFirstDay)
   previousWeekLastDay.setHours(0, 0, 0, 0)
   const previousMonth = {
-    week: calendarHelper.getWeek(previousWeekLastDay),
+    week: weeklyCalendarHelper.weekHelper.getWeekNumber(previousWeekLastDay),
     year: previousWeekLastDay.getFullYear(),
   }
 
@@ -21,7 +21,7 @@ function getPrevNext(filterCalendar) {
   let nextWeekFirstDay = new Date(lastWeekFirstDay)
   nextWeekFirstDay.setHours(0, 0, 0, 0)
   const nextMonth = {
-    week: calendarHelper.getWeek(nextWeekFirstDay),
+    week: weeklyCalendarHelper.weekHelper.getWeekNumber(nextWeekFirstDay),
     year: nextWeekFirstDay.getFullYear(),
   }
 
@@ -32,8 +32,8 @@ function getCurrentMonth(week, year) {
   if (!week || !year) {
     return ''
   }
-  return calendarHelper.getMonthName(
-    calendarHelper.getMonthFromWeek(week, year)
+  return weeklyCalendarHelper.baseHelper.getMonthName(
+    weeklyCalendarHelper.weekHelper.getMonthFromWeek(week, year)
   )
 }
 

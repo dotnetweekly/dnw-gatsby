@@ -2,16 +2,10 @@ const fs = require('fs')
 const request = require('request')
 const path = require('path')
 const config = require('../conf')
+const weeklyCalendarHelper = require('weekly-calendar-helper')
 
 const postTmpl = fs.readFileSync(path.join(__dirname, 'post.md')).toString()
 
-const {
-  weeksInYear,
-  getUtcNow,
-  getWeekNumber,
-} = require('../src/utils/calendar')
-
-const URL_Newsletter = config.newsletterDomain
 const URL_API = config.apiDomain
 
 async function getLinks(week, year) {
@@ -60,9 +54,9 @@ async function generate() {
   let currentWeek = 20
   let currentYear = 2012
 
-  const now = getUtcNow()
-  const nowWeek = getWeekNumber(now)[1]
-  const lastWeek = getWeekNumber(now)[1]
+  const now = weeklyCalendarHelper.baseHelper.getUtcNow()
+  const nowWeek = weeklyCalendarHelper.weekHelper.getWeekNumber(now)[1]
+  const lastWeek = weeklyCalendarHelper.weekHelper.getWeekNumber(now)[1]
   const lastYear = now.getFullYear()
 
   let count = 0
@@ -95,7 +89,7 @@ async function generate() {
         await createPost(currentWeek, currentYear, links[key])
       }
     }
-    const yearWeeks = weeksInYear(currentYear)
+    const yearWeeks = weeklyCalendarHelper.weekHelper.weeksInYear(currentYear)
     currentWeek++
     if (yearWeeks < currentWeek) {
       currentWeek = 1
@@ -113,12 +107,6 @@ async function generate() {
       break
     }
   }
-  // let lastWeek = weeksInYear(firstYear);
-
-  // map into these results and create nodes
-  // res.data.data.map((newsletter, i) => {
-
-  // })
   return
 }
 

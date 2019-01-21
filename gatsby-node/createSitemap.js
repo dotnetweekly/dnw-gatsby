@@ -1,21 +1,8 @@
 const path = require('path')
 const fs = require('fs')
 const request = require('request')
-
-const calendarHelp = require('../src/utils/calendar')
+const weeklyCalendarHelper = require('weekly-calendar-helper')
 const conf = require('../conf')
-
-Date.prototype.addDays = function(days) {
-  var date = new Date(this.valueOf())
-  date.setDate(date.getDate() + days)
-  return date
-}
-
-const {
-  weeksInYear,
-  getUtcNow,
-  getWeekNumber,
-} = require('../src/utils/calendar')
 
 const getNumStr = function(v) {
   if (v < 10) {
@@ -82,9 +69,9 @@ async function generateSitemapsAll(createPage, graphql) {
   let currentWeek = 20
   let currentYear = 2012
 
-  const now = getUtcNow()
-  const nowWeek = getWeekNumber(now)[1]
-  const lastWeek = getWeekNumber(now)[1]
+  const now = weeklyCalendarHelper.baseHelper.getUtcNow()
+  const nowWeek = weeklyCalendarHelper.weekHelper.getWeekNumber(now)[1]
+  const lastWeek = weeklyCalendarHelper.weekHelper.getWeekNumber(now)[1]
   const lastYear = now.getFullYear()
 
   let count = 0
@@ -106,7 +93,7 @@ async function generateSitemapsAll(createPage, graphql) {
       await generateSitemapWeek(currentWeek, currentYear)
     }
 
-    const yearWeeks = weeksInYear(currentYear)
+    const yearWeeks = weeklyCalendarHelper.weekHelper.weeksInYear(currentYear)
     currentWeek++
     if (yearWeeks < currentWeek) {
       currentWeek = 1

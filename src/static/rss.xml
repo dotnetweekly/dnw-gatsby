@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>dotNET Weekly - Week undefined Year undefined</title>
-        <link>https://www.dotnetweekly.com/week/undefined/year/undefined?feed=rss</link>
+        <title>dotNET Weekly - Week 3 Year 2019</title>
+        <link>https://www.dotnetweekly.com/week/3/year/2019?feed=rss</link>
         <description></description>
-        <lastBuildDate>Wed, 16 Jan 2019 08:46:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Jan 2019 08:08:12 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <category>Articles</category>
         <category>Libraries-Tools</category>
+        <item>
+            <title><![CDATA[Fixing .NET middle-age crisis with Java ReferenceQueue and Cleaner]]></title>
+            <link>https://www.dotnetweekly.com/articles/fixing-net-middle-age-crisis-with-java-referencequeue-and-cleaner</link>
+            <guid>https://www.dotnetweekly.com/articles/fixing-net-middle-age-crisis-with-java-referencequeue-and-cleaner</guid>
+            <pubDate>Thu, 17 Jan 2019 16:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[This post describe how to implement Java pattern in C# and solve the "middle-crisis" symptoms of the Garbage Collector in your applications.]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hosted Services In ASP.net Core]]></title>
             <link>https://www.dotnetweekly.com/articles/hosted-services-in-aspnet-core</link>

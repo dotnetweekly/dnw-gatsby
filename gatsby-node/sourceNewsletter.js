@@ -1,19 +1,13 @@
-// const conf = require('../conf')
-// const axios = require('axios')
+const weeklyCalendarHelper = require('weekly-calendar-helper')
 const crypto = require('crypto')
-const {
-  weeksInYear,
-  getUtcNow,
-  getWeekNumber,
-} = require('../src/utils/calendar')
 
 exports.sourceNewsletter = async createNode => {
   let currentWeek = 20
   let currentYear = 2012
 
-  const now = getUtcNow()
-  const nowWeek = getWeekNumber(now)[1]
-  const lastWeek = getWeekNumber(now)[1]
+  const now = weeklyCalendarHelper.baseHelper.getUtcNow()
+  const nowWeek = weeklyCalendarHelper.weekHelper.getWeekNumber(now)[1]
+  const lastWeek = weeklyCalendarHelper.weekHelper.getWeekNumber(now)[1]
   const lastYear = now.getFullYear()
 
   let count = 0
@@ -43,7 +37,7 @@ exports.sourceNewsletter = async createNode => {
     // Create node with the gatsby createNode() API
     createNode(newsletterNode)
 
-    const yearWeeks = weeksInYear(currentYear)
+    const yearWeeks = weeklyCalendarHelper.weekHelper.weeksInYear(currentYear)
     currentWeek++
     if (yearWeeks < currentWeek) {
       currentWeek = 1
