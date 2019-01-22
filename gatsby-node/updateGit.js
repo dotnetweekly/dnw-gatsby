@@ -1,6 +1,6 @@
 const fs = require('fs')
 const path = require('path')
-const calendarHelp = require('../src/utils/calendar')
+const weeklyCalendarHelper = require('weekly-calendar-helper')
 const { generateMarkdown } = require('../scripts/generate-markdown')
 
 const { gitCommitPush } = require('git-commit-push-via-github-api')
@@ -9,8 +9,8 @@ if (!process.env.GITHUB_API_TOKEN) {
   throw new Error('GITHUB_API_TOKEN=xxx node example.js')
 }
 
-const now = calendarHelp.getUtcNow()
-const currentWeek = calendarHelp.getWeek(now)
+const now = weeklyCalendarHelper.baseHelper.getUtcNow()
+const currentWeek = weeklyCalendarHelper.weekHelper.getWeekNumber(now)
 const currentYear = now.getFullYear()
 const weekFolder = path.join(
   __dirname,
