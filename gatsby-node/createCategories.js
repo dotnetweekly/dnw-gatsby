@@ -29,16 +29,13 @@ function createPages(week, year, graphql, createPage) {
     year
   )
   const dateArr = weeklyCalendarHelper.baseHelper
-    .getDates(
-      weeklyCalendarHelper.baseHelper.addDays(dateRange.from, 1),
-      weeklyCalendarHelper.baseHelper.addDays(dateRange.to, 1)
-    )
+    .getDates(dateRange.from, dateRange.to)
     .map(fullDate => {
       return `(${fullDate.getFullYear()}-${getNumStr(
         fullDate.getMonth() + 1
       )}-${getNumStr(fullDate.getDate())})`
     })
-  console.log(week, ':', year, ':', dateArr, ':', dateRange)
+  // console.log(dateArr)
   graphql(`
   {
     allMarkdownRemark(
@@ -101,17 +98,24 @@ async function generateCategories(createPage, graphql) {
   let currentYear = 2012
 
   const now = weeklyCalendarHelper.baseHelper.getUtcNow()
-  const nowWeek = weeklyCalendarHelper.weekHelper.getWeekNumber(now)[1]
-  const lastWeek = weeklyCalendarHelper.weekHelper.getWeekNumber(now)[1]
-  const lastYear = now.getFullYear()
+  console.log(now)
+  const nowWeek = weeklyCalendarHelper.weekHelper.getWeekNumber(now)
+  const lastWeek = weeklyCalendarHelper.weekHelper.getWeekNumber(now)
+  const lastYear = now.getUTCFullYear()
 
   let count = 0
   let lastOne = false
   let breakIt = false
+  let failsafe = 0
 
   while (!breakIt) {
+    failsafe++
+    if (failsafe > 400) {
+      break
+    }
+    console.log(now.getUTCFullYear(), nowWeek, currentYear, currentWeek)
     createPages(currentWeek, currentYear, graphql, createPage)
-    if (now.getFullYear() === currentYear && nowWeek === currentWeek) {
+    if (now.getUTCFullYear() === currentYear && nowWeek === currentWeek) {
       createPages(currentWeek, currentYear, graphql, createPage)
     }
 
@@ -126,11 +130,6 @@ async function generateCategories(createPage, graphql) {
     }
     if (lastYear === currentYear && lastWeek === currentWeek) {
       lastOne = true
-    }
-
-    count++
-    if (count > 25000) {
-      break
     }
   }
   // let lastWeek = weeksInYear(firstYear);

@@ -70,8 +70,8 @@ async function generateSitemapsAll(createPage, graphql) {
   let currentYear = 2012
 
   const now = weeklyCalendarHelper.baseHelper.getUtcNow()
-  const nowWeek = weeklyCalendarHelper.weekHelper.getWeekNumber(now)[1]
-  const lastWeek = weeklyCalendarHelper.weekHelper.getWeekNumber(now)[1]
+  const nowWeek = weeklyCalendarHelper.weekHelper.getWeekNumber(now)
+  const lastWeek = weeklyCalendarHelper.weekHelper.getWeekNumber(now)
   const lastYear = now.getFullYear()
 
   let count = 0

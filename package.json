@@ -26,7 +26,7 @@
     "react-google-recaptcha": "^1.0.5",
     "react-helmet": "^5.2.0",
     "react-transition-group": "^2.5.2",
-    "weekly-calendar-helper": "0.0.2"
+    "weekly-calendar-helper": "0.0.5"
   },
   "keywords": [
     "gatsby"

@@ -25,14 +25,12 @@ class Calendar extends React.Component {
       .getFullYear()
     const hasNext =
       currentYear > pn.nextMonth.year ||
-      (currentYear === pn.nextMonth.year && week > pn.nextMonth.week[1])
+      (currentYear === pn.nextMonth.year && week > pn.nextMonth.week)
     return (
       <tr>
         <td>
           <Link
-            to={`/week/${pn.previousMonth.week[1]}/year/${
-              pn.previousMonth.year
-            }`}
+            to={`/week/${pn.previousMonth.week}/year/${pn.previousMonth.year}`}
           >
             Prev
           </Link>
@@ -42,9 +40,7 @@ class Calendar extends React.Component {
         </td>
         {hasNext && (
           <td>
-            <Link
-              to={`/week/${pn.nextMonth.week[1]}/year/${pn.nextMonth.year}`}
-            >
+            <Link to={`/week/${pn.nextMonth.week}/year/${pn.nextMonth.year}`}>
               Next
             </Link>
           </td>
@@ -60,7 +56,7 @@ class Calendar extends React.Component {
     )
     const currentWeek = newsletterCalendarHelper.weekHelper.getWeekNumber(
       newsletterCalendarHelper.baseHelper.getUtcNow()
-    )[1]
+    )
     const currentYear = newsletterCalendarHelper.baseHelper
       .getUtcNow()
       .getFullYear()
@@ -75,24 +71,24 @@ class Calendar extends React.Component {
 
             {filterCalendar.weeks.map((calendarWeek, indexWeek) => {
               const isCurrent =
-                parseInt(calendarWeek.week[1]) === parseInt(week)
+                parseInt(calendarWeek.week) === parseInt(week)
                   ? 'is-current'
                   : ''
               const lastDayYear = calendarWeek.days[
                 calendarWeek.days.length - 1
               ].date.getFullYear()
               return (
-                (currentWeek >= calendarWeek.week[1] ||
+                (currentWeek >= calendarWeek.week ||
                   calendarWeek.days[0].date.getFullYear() < currentYear) && (
                   <tr className={`${isCurrent}`} key={`week-${indexWeek}`}>
-                    <td>{calendarWeek.week[1]}</td>
+                    <td>{calendarWeek.week}</td>
                     {calendarWeek.days.map((weekDay, indexDay) => {
                       return (
                         <td key={`day-${indexDay}`}>
                           <span>
                             <Link
                               to={`/week/${
-                                calendarWeek.week[1]
+                                calendarWeek.week
                               }/year/${lastDayYear}`}
                             >
                               {weekDay.date ? weekDay.date.getDate() : ''}
