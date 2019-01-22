@@ -1,9 +1,9 @@
 ---
 _id: 5c46c793c083077d5c4c8d54
-title: "https://github.com/auchenberg/vscode-browser-preview"
-url: 'A real browser preview inside your editor that you can debug.'
+title: "VS Code Browser Preview"
+url: 'https-githubcom-auchenberg-vscode-browser-preview'
 category: libraries-tools
-slug: 'https-githubcom-auchenberg-vscode-browser-preview'
+slug: 'a-real-browser-preview-inside-your-editor-that-you-can-debug'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'
 createdOn: '2019-01-22T07:34:43.340Z'
