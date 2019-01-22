@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/articles/getting-started-with-windows-containers</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/lean-startup-on-elmah-io-continuous-deployment</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/asp-net-core-mvc-edition-is-now-core-2-0-compatible</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/calling-rest-api-service-from-sql-server-using-c-sql-clr</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/welcome-to-the-new-blog-template-for-asp-net-developers-net-web-development-and-tools-blog</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/mariuszkerlaspnetcoresubdomain-simple-usage-lib-for-subdomain-routing-in-asp-net-core-mvc</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/microsoft-linker-tool-shrinks-net-applications-infoworld</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/configuring-letsencrypt-for-asp-net-core-and-iis-rick-strahls-web-log</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/icecream-burglarwaterlogged-net-logging-library</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/dotnet-architectureeshoponcontainers-easy-to-get-started-sample-reference-microservice-and-containe</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/net-standard-demystifying-net-core-and-net-standard-2</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/version-class-in-c</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/implementing-repeat-method-for-strings-in-c</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/lean-startup-on-elmah-io-introduction</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/azure-functions-prepare-for-continuous-delivery-visual-studio-alm-rangers</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/what-problems-do-microservices-solve-daedtech</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/books/best-microsoft-net-and-related-books-list-atlas-uk</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/net-core-write-net-apps-how-and-where-you-want</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/why-net-core-is-recommended-for-new-modern-web-applications</loc> </url>
 </urlset>

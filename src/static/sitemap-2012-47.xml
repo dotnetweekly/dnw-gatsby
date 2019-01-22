@@ -1,3 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/user-experience-integration-testing-for-windows-8-apps</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/enabling-great-play-to-experiences-from-your-windows-8-apps-and-websites</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/core-technologies-for-windows-8-games</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-sqlite-in-windows-store-apps</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/building-quality-windows-8-apps-important-pre-submission-checks-for-your-windows-store-apps</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/optimizing-javascript-windows-8-application-using-the-visual-studio-performance-analysis-tool-profi</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/easy-asynchrony-with-c-no-more-callbacks</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/javascript-the-bad-parts</loc> </url>
 </urlset>

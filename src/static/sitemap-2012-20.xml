@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/articles/an-overview-of-the-web-storage-api</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/hello-world-windows-phone-application-using-phonegap-or-cordova</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/html5labs</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/free-dhtml-scripts-jquery-plugins-javascript-css-css3-html5-library</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/stored-procedure-using-c-clr-project</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/hands-on-windows-8-html5-platform</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/windows-azure-90-day-free-trial</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/asp-net-mvc4-web-api-stack-diagram</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/get-your-app-early-access-to-windows-8-store</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/books/programming-windows-6th-edition</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/designing-a-windows-8-metro-style-app-starting-from-an-existing-windows-phone-app-design-case-study</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/events-training/security-development-conference-2012</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/norwegian-developers-conference</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/from-windows-phone-7-to-windows-8-metro-one-apps-journey</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/windows-8-camp-at-hull</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/databinding-in-windows-8-javascript-metro-style-apps</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-html5-to-create-mobile-experiences</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/unleash-the-power-of-html-5-canvas-for-gaming</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/silverlight-5-1-10411-0-released-today</loc> </url>
 </urlset>

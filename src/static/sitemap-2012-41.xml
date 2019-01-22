@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/articles/transform-your-htmlcssjavascript-apps-into-windows-8-application</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/books/free-ebook-programming-windows-8-apps-with-html-css-and-javascript-second-preview-2</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/the-windows-store-app-lifecycle</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/videos/microsoft-devradio-using-blend-to-help-design-your-windows-8-apps-part-2</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/sublime-text-vi-emacs-typescript-enabled</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/f-samples-and-community-resources</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/css3-selectors-everything-you-need-to-know</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/introduction-to-javascript-animation-and-windows-8-games</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/use-the-camera-in-windows-8-html5-javascript</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/index-of-ux-guidelines-for-windows-store-apps</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/planning-and-tracking-projects</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/ow-i-price-my-windows-phone-apps</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/discovering-your-web-api</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/wowzapp-2012-the-worldwide-hackathon-for-windows</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/anders-hejlsberg-introducing-typescript</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/typescript-javascript-development-at-application-scale</loc> </url>
 </urlset>

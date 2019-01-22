@@ -1,11 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/articles/the-future-of-net-today-the-net-compiler-platform</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/mono-and-roslyn</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/videos/using-xamarin-to-take-existing-net-apps-cross-platform</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/books/programming-windows-store-apps-with-html-css-and-javascript</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/building-your-dream-devops-dashboard-with-the-new-azure-preview-portal</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/a-simple-bootstrap-pager-html-helper</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/microsoft-takes-cross-platform-development-to-another-level</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/events-training/building-apps-for-windows-phone-8-1-jump-start</loc> </url>
 </urlset>

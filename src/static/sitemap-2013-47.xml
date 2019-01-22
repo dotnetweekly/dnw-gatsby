@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/books/book-download-building-elastic-and-resilient-cloud-applications-developers-guide-to-the-enterprise-</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/events-training/mission-critical-performance-with-sql-server-2014</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/page-instrumentation-in-asp-net-4-5</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/azure-web-site-now-supports-websockets</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/how-to-use-signalr-in-ios-and-android-apps</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/an-absolute-beginners-tutorial-for-understanding-entity-frameworks-code-first-approach-in-asp-net-m</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/anatomy-of-distributed-system-a-la-lokad</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/windows-8-1-developer-training-geek-edition</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/books/free-ebook-net-technology-guide-for-business-applications</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/introduction-to-websockets-on-windows-azure-web-sites</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/visual-studio-2013-launch-announcing-visual-studio-online</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/build-office-365-cloud-business-apps-with-visual-studio-2013</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/windows-8-1-app-samples</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/windows-azure-dev-camp-online</loc> </url>
 </urlset>

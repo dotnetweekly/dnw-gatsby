@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/articles/vue-js-server-side-rendering-with-asp-net-core-2</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/progressive-web-app-using-angular-4-net-core-and-entity-framework</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/shh-secrets-are-coming-to-windows-in-docker-17-06</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/creating-a-net-renaissance-ndc-oslo-2017-channel-9</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/solid-single-responsibility-principle-with-c-l-paathshaala</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/running-a-net-core-2-app-on-raspbian-jessie-and-deploying-to-the-pi-with-cake</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/devops-on-azure-visual-studio-to-kubernetes</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/practical-samples-of-aspnet-core-projects-you-can-use</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/nuget-org-gets-a-facelift</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/ref-ref-return-and-ref-local-in-c</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/a-guide-to-caching-in-asp-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/introduction-to-msbuild-in-net-core-with-nate-mcmaster</loc> </url>
 </urlset>

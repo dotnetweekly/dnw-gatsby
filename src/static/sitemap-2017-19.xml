@@ -1,3 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/automated-cicd-for-your-xamarin-app-using-vsts-bitrise-and-hockeyapp</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/sql-is-43-years-old-heres-8-reasons-we-still-use-it-today</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/announcing-the-net-framework-4-7-general-availability</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/yet-another-developer-blog-reconfiguring-cors-policy-in-asp-net-core-at-runtime</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/jeremy-bytes-tdding-into-a-fibonacci-sequence-in-c</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/visual-studio-2017-for-the-mobile-developer</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/azure-management-libraries-for-net-generally-available-now</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/packaging-a-self-contained-net-core-app-for-windows-installer</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/thinking-functionally</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/build-a-magic-the-gathering-sms-price-checker-with-twilio-and-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/basic-repository-generator-in-c</loc> </url>
 </urlset>

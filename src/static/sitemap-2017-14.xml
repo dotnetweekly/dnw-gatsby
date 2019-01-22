@@ -1,18 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/articles/introduction-to-reactive-extensions-rx-net-xamarin-help</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/secret-productivity-tips-for-visual-studio-2017-codeproject</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/essential-net-understanding-c-foreach-internals-and-custom-iterators-with-yield</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/server-sent-events-sse-support-for-asp-net-core-dzone-web-dev</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/asp-net-core-feature-slices-for-asp-net-core-mvc-2</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/a-library-for-building-cross-platform-apps-reactxp</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/announcing-a-unified-net-reference-experience-on-docs-microsoft-com-microsoft-docs</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/net-architecture-guidance</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/videos/building-scalable-and-resilient-web-apps-with-microsoft-azure</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/videos/introduction-to-azure-service-fabric</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/wpf-custom-usercontrol-datacontext-binding-gotcha</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/announcing-the-net-framework-4-7</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/monitoring-azure-functions-with-the-portal-and-elmah-io</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/glimpse-v2-beta1-released</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/websockets-support-in-asp-net-core-microsoft-docs</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/shutting-down-codeplex</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/introduction-to-asp-net-core-1-1-microsoft-virtual-academy</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/go-mobile-tech-workshop-xamarin</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/containers-modernizing-traditional-net-apps-with-docker</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/xamarin-university-visual-studio-marketplace</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/whats-new-and-improved-in-visual-studio-2017-microsoft-virtual-academy</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/json-net-10-0-release-1-async-performance-documentation-and-more</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/why-net-core-made-c-your-next-programming-language-to-learn</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/getting-to-know-the-redux-pattern</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/how-to-receive-sms-messages-with-asp-net-mvc-framework</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/net-dynamically-generating-classes-in-runtime</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/training-and-certification-for-azure</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/an-introduction-to-azure-analysis-services</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/configure-and-deploy-azure-functions-with-kudu-elmah-io</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-resilient-entity-framework-core-sql-connections-and-transactions-retries-with-exponential-bac</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/command-line-using-dotnet-watch-test-for-continuous-testing-with-net-core-1-0-and-xunit-net</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/asp-net-core-anatomy-usemvc</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/dont-lose-your-swagger-with-dotnet-build</loc> </url>
 </urlset>

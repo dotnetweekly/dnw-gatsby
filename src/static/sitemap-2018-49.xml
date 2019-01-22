@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/videos/distributed-net-core-episode-1</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/razor-support-in-visual-studio-code-now-in-preview</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/introducing-the-azure-blockchain-development-kit</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/double-dispatch-in-c-and-ddd</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/f-spoiled-me-or-why-i-dont-enjoy-c-anymore</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/microsoft-edge-and-chromium-open-source-our-intent</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/top-5-c-news-from-microsoft-connect-2018</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/keep-aws-lambdas-warm-with-net-core</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/videos/microsoft-connect-2018</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/whats-new-in-c-80</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/announcing-wpf-winforms-and-winui-are-going-open-source</loc> </url>

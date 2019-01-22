@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/5-features-to-watch-in-visual-studio-2017</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/dotnetify</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/net-core-roadmap-2</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/c-sharp-7-0-pattern-matching</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/introduction-to-distributed-publish-subscribe-in-akka-net</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/tutorial-policy-based-authorization-in-asp-net-core</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/building-single-page-applications-on-asp-net-core-with-javascriptservices</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/manifoldjs-is-becoming-pwa-builder-web-dev-microsoft</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/books/free-ebook-data-science-with-microsoft-sql-server-2016</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/happy-15th-birthday-net</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/migrating-from-net-framework-to-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/updates-to-the-box-net-sdk-and-support-for-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/how-to-use-azure-functions-from-the-azure-portal</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/continuous-delivery-tools-extension-for-visual-studio-2017</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/full-stack-weekly</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/sql-database-query-editor-available-in-azure-portal</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/docker-new-net-core-tooling</loc> </url>
 </urlset>

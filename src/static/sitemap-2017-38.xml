@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/articles/lean-startup-on-elmah-io-minimum-viable-product</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/using-structuremap-with-asp-net-core</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/what-is-aar-application-request-routing-affinity</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/how-raygun-increased-throughput-by-2000-with-net-core-over-node-js</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/asp-net-core-getting-started-with-asp-net-core-2-0</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/books/introducing-the-little-asp-net-core-book</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/upgrading-to-asp-net-core-2-0</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/multi-tenant-asp-net-core-5-implementing-database-per-tenant-strategy</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/nopcommerce-asp-net-open-source-ecommerce-shopping-cart-solution</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/nuget-package-signing</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/lean-startup-on-elmah-io-split-testing</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/should-i-use-visual-studio-2017-or-vs-code-for-my-next-angular-application-web-ftw</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/getting-started-with-windows-containers</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/lean-startup-on-elmah-io-continuous-deployment</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/asp-net-core-mvc-edition-is-now-core-2-0-compatible</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/calling-rest-api-service-from-sql-server-using-c-sql-clr</loc> </url>
 </urlset>

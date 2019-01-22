@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/articles/why-you-should-keep-that-passion-project-even-if-it-doesnt-pay</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/akkling-the-unofficial-official-akka-net-f-api</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/an-introduction-to-azure-event-grid</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/ex-microsoft-exec-julie-larson-green-shares-her-secrets-on-building-great-teams</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/deep-dive-into-net-core-primitives-deps-json-runtimeconfig-json-and-dlls</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/how-to-add-social-media-authentication-to-aspnet-core-day-22-24-days-of-front-end-development-with-</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/breaking-down-dependency-injection-and-inversion-of-control-in-c-with-simpleinjector</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/hybridizer-high-performance-c-on-gpus-parallel-forall</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/top-10-productive-c-videos-of-2017-productive-c</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/building-asp-net-core-apps-using-cake-in-docker</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/get-started-building-microservices-with-asp-net-core-and-docker-in-visual-studio-code</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/net-event-counters-when-logging-isnt-fast-enough</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/reverse-engineering-existing-databases-in-entity-framework-core-2</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/boost-your-productivity-with-visual-studios-debuggerattributes</loc> </url>
 </urlset>

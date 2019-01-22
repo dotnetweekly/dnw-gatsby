@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/articles/debugging-net-core-on-unix-over-ssh</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/whats-so-great-about-tuples-2</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/project-json-to-msbuild-conversion-guide</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/command-line-fun-for-windows-10-users</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/integration-testing-with-entity-framework-core-and-sql-server</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/13-essential-net-interview-questions</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/libraries-tools/morelinq-extensions-to-linq-to-objects</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/an-overview-of-windows-as-a-service</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/how-to-use-react-with-visual-studio-and-asp-net-web-api</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/books/free-ebook-containerized-docker-application-lifecycle-with-microsoft-tools-and-platform</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/c-introducing-cwinrt</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/sharepoint-webhooks-is-now-generally-available-build-service-oriented-processes-in-sharepoint</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/cognitive-services-enable-natural-language-interaction-with-luis</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/visual-studio-toolbox-solid-design-patterns</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/open-sourcing-the-vs-test-platform</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/great-angular-asp-net-core-starter-templates</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/virtual-panel-whats-next-for-net</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/defensive-logging-on-asp-net-core</loc> </url>
 </urlset>

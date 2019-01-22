@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/articles/your-first-angular-2-asp-net-core-project-in-visual-studio-code-part-1-6</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/fat-controller-cqrs-diet-trade-offs</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/net-core-2-0-planned-for-spring-2017</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/downgrading-a-net-applications-from-64-bit-to-32-bit-for-the-webbrowser-control</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/6-years-of-daily-net-tips</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/coding-without-a-plan</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/my-take-on-an-azure-open-source-cross-platform-devops-toolkit-the-beginning-part-1-12</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/in-memory-caching-in-asp-net-core</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/create-http-request-pipeline-using-asp-net-core-custom-middleware-buildrun-on-mac-windows-linux-or-</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/creating-an-asp-net-core-1-1-vs2017-docker-application</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/sql-server-how-to-automatically-generate-sql-server-documentation</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/blog-series-about-asp-net-core</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/why-is-reflection-slow</loc> </url>
 </urlset>

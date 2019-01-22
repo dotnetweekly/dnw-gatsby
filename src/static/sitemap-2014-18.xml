@@ -1,12 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/new-microsoft-threat-modeling-tool-2014-now-available</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/videos/twenty-c-questions-explained</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/unity-3-5-rtw-now-with-more-peace-love-and-rock-n-roll</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/make-windows-8-games-with-construct-2</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/youve-made-a-game-now-what-marketing-and-monetization-strategies</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/asp-net-mvc-for-beginners-in-web-development</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/books/prism-5-0-for-wpf-book-download</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/next-generation-development-with-application-insights</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/libraries-tools/its-just-a-software-issue-edge-js-brings-node-and-net-together-on-three-platforms</loc> </url>
 </urlset>

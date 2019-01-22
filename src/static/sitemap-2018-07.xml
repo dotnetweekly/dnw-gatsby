@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/articles/simple-json-flat-file-data-store-with-support-for-typed-and-dynamic-data</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/developing-web-apps-with-asp-net-core-2-0-and-react-part-1</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/comparing-objects-by-value-part-1-beginning</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/list-of-the-best-free-visual-studio-extensions</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/newly-written-signalr-with-net-core-2-0-and-typescript</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/bitbucket-pipelines-and-docker-for-continuous-delivery</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/how-to-make-a-slide-puzzle-from-a-winforms-data-grid</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/refactoring-legacy-monoliths-cost-benefit-analysis-of-refactoring</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/understanding-cancellation-callbacks</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/effective-use-of-classes-in-net</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/the-reasons-behind-why-i-dont-use-automapper</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/the-why-series-why-should-your-controllers-be-thin</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/microsoft-professional-program-for-data-science-sharpen-your-data-science-skills</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/back-to-websockets-fundamentals-in-asp-net-core-lifetime-prematurely-closed-connections</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/blazor-a-technical-introduction</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/a-new-experiment-browser-based-web-apps-with-net-and-blazor-net-web-development-and-tools-blog</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/accessing-tuples-at-runtime-using-reflection</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/technical-debt-isnt-technical</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/code-daze</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/paste-json-as-code-quicktype</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/enforce-ssl-and-use-hsts-in-net-core2-0-net-core-security-part-i</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/net-application-architecture-guidance-4</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/beginning-functional-programming-in-c-function-composition</loc> </url>
 </urlset>

@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/announcing-ef-core-2-0-preview-2</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/machine-learning-for-developers</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/hashing-encryption-and-random-in-asp-net-core</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/computing-technical-debt-with-ndepend</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/exploring-cqrs-within-the-brighter-net-open-source-project</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/value-types-vs-reference-types</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/windows-template-studio-1-1-released</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/using-messagepack-with-asp-net-core-mvc-strathweb-a-free-flowing-web-tech-monologue</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/hands-on-with-visual-studio-for-mac</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/7-lesser-known-hacks-for-debugging-in-visual-studio</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/cqrs-in-azure-part-4-azure-development-community</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/testing-asp-net-core-mvc-controllers-getting-started</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/c-async-await-tutorial-understanding-visualizing-tasks</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/preparing-for-a-speaking-event-these-mvps-have-some-tips</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/rider-taking-resharper-out-of-process-matt-ellis-at-net-sw</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/save-the-date-microsoft-edge-web-summit-2017-comes-to-seattle-on-september-13th</loc> </url>
 </urlset>

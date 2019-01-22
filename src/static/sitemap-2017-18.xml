@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/articles/yet-another-developer-blog-reconfiguring-cors-policy-in-asp-net-core-at-runtime</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/jeremy-bytes-tdding-into-a-fibonacci-sequence-in-c</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/visual-studio-2017-for-the-mobile-developer</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/azure-management-libraries-for-net-generally-available-now</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/packaging-a-self-contained-net-core-app-for-windows-installer</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/videos/thinking-functionally</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/build-a-magic-the-gathering-sms-price-checker-with-twilio-and-net-core</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/basic-repository-generator-in-c</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/contributing-to-net-for-dummies</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/asp-net-core-dependency-injection-understands-unbound-generics</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/asp-net-core-12-samples</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/announcing-signalr-2-2-2-preview-1</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/books/free-ebook-on-asp-net-core-is-available-for-download-codeclimber</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/linvitweetinvi-tweetinvi-the-best-twitter-c-library-for-the-rest-and-stream-api-it-supports-net-net</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/build-2017-live-stream-the-keynotes-technical-sessions-and-more-may-10-12-2017</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/python-in-sql-server-2017-enhanced-in-database-machine-learning</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/microsoft-application-lifecycle-management</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/net-core-cross-platform-code-generation-with-roslyn-and-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/azure-functions</loc> </url>
 </urlset>

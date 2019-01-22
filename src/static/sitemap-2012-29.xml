@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/team-foundation-service</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/umbraco-4-8-0</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/the-importance-of-creative-design-for-mobile-app-user-experience</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/net-html-sanitation-for-rich-html-input</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/events-training/imagine-cup-winners</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/entity-framework-magic-unicorn-and-much-more-is-now-open-source-with-take-backs</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/events-training/be-part-of-the-worlds-largest-opportunity-for-app-developers</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/events-training/what-are-windows-8-camps</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/how-to-get-your-windows-8-app-into-the-windows-store</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/test-driving-asp-net-mvc</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/travelling-with-style-beyond3ds-c-amp-contest</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/mobile-site-development-part-2-design</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/microsoft-web-developers-group-on-elance</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/aspconf</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/web-standards-update-for-visual-studio-2010-sp1-2</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/setting-up-a-maintenance-plan-to-backup-databases</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/bring-the-windows-phone-8-home-screen-to-your-apps</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/silverlightshow-webinar-the-ten-things-silverlight-programmers-should-know-about-windows-8</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/betting-the-company-on-windows-8</loc> </url>
 </urlset>

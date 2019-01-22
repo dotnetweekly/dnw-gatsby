@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/articles/simpler-web-payments-introducing-the-payment-request-api-2</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/exercise-your-greatest-power-as-a-developer</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/essential-net-essential-msbuild-a-build-engine-overview-for-net-tooling</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-azure-app-service-authentication-with-asp-net-classic-mvc-applications</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/data-points-ef-core-1-1-a-few-of-my-favorite-things</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/getting-started-with-azure-functions-and-using-them-within-logic-apps</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/service-bus-net-standard-and-open-source</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/alt-net-talks-2016-12-akka-net-asyncawait-net-core-micro-orms-and-efcore</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/performance-comparison-of-different-data-pipelines-in-net</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/top-5-challenges-in-test-automatio</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/sending-proactive-botframework-messages</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/creating-a-websockes-middleware-for-asp-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/new-years-resolution-learn-docker</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/writing-visual-studio-2015-extensions-youll-want-these-templates</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/five-methods-to-deal-with-errors-in-asp-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/introducing-a-new-markdown-view-engine-for-asp-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/how-to-develop-an-office-app-in-real-world</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/machine-learning-algorithm-cheat-sheet-for-microsoft-azure-machine-learning-studio</loc> </url>
 </urlset>

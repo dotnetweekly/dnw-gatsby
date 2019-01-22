@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/articles/why-net-core-is-recommended-for-new-modern-web-applications</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/videos/getting-to-the-core-of-net-core</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/architecting-web-api-project-with-repository-layerdependency-injection-and-entity-framework-6</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-the-net-il-linker-2</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/data-structures-and-algorithms-in-c</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/zero-garbage-collector-for-net-core-2</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/net-standard-demystifying-net-core-and-net-standard</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/microsoftreact-native-windows-a-framework-for-building-native-uwp-and-wpf-apps-with-react</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/sayed-hashimi-on-open-source-net-core-project-templates</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/smallest-asp-net-core-app</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/getting-started-graphql-dotnet</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/migrating-from-asp-net-to-asp-net-core-2-0</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/free-time-programmer-asp-net-core-2-0-authentication-and-authorization-system-demystified</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/introducing-net-il-linker-%c2%b7-issue-915-%c2%b7-dotnetcore</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/introduction-your-ultimate-async-await-tutorial-in-c</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/pass-summit-2017-microsoft-data-platform-conference</loc> </url>
 </urlset>

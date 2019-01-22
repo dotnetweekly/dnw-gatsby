@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/articles/improved-transactions-in-entity-framework-6</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/new-filter-overrides-feature-in-asp-net-mvc-5-and-asp-net-web-api-2</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/ef-code-first-mapping-between-types-tables</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/books/exploring-cqrs-and-event-sourcing</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/breaking-news-kinect-for-windows-sdk-v1-8-now-available</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/developing-architecting-and-testing-web-applications-with-mvc-5-web-api-2-knockoutjs-ninject-and-nu</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/tfs-2013-power-tools-are-available</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/books/new-guide-dependency-injection-with-unity</loc> </url>
 </urlset>

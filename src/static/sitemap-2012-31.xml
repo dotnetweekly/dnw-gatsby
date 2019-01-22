@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/events-training/upcoming-silverlightshow-webinar-windows-8-metro-apps-and-the-outside-world-connecting-with-service</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/rich-javascript-applications-the-seven-frameworks</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/final-build-for-vs-2012-availability-and-launch-dates-ahead</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/responsive-design-using-foundation-with-asp-net-mvc</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/books/grab-over-80-free-ebooks-from-microsoft-and-learn-something-tech-y</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/books/free-download-managing-sql-servers-and-policy-based-management</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/free-offers-from-microsoft-partners</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/events-training/microsoft-devradio-developing-a-rockpaperazure-windows-8-app</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/build-apps-for-office-and-sharepoint</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/events-training/windows-8-ux-virtual-training</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/working-with-graphics-on-the-web-canvas-vs-svg</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/microsoft-devradio-how-to-convert-your-windows-phone-app-into-a-windows-8-application</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/web-config-transformation-in-net</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/microsoft-business-intelligence-in-excel-2013-sharepoint-2013-and-sql-server-2012-sp1</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/build-2012-conference-announced</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/the-new-office-developer-and-it-pro-resources</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/differences-between-asp-net-web-api-and-asp-net-mvc-routing</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/books/creating-silverlightshow-windows-phone-app-ebook</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/free-server-training-at-the-microsoft-virtual-academy-mva</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/free-asp-net-training-videos-from-aspconf-now-available-for-download-or-streaming</loc> </url>
 </urlset>

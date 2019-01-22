@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/articles/the-net-language-strategy</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/visual-studio-2017-and-visual-studio-2015-with-net-core</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/what-net-developers-ought-to-know-to-start-in-2017</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/net-core-image-processing</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/calling-windows-10-apis-from-a-desktop-application</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/git-ssh-protocol-support-for-visual-studio-2015</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/build-your-own-asp-net-cache-with-weakreferences</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/announcing-net-core-net-native-and-nuget-updates-in-vs-2017-rc</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/how-to-send-daily-sms-reminders-using-c-azure-functions-and-twilio</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/roslyn-and-net-core-c-code-generation-with-visual-studio-for-mac</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/debugging-net-core-on-unix-over-ssh</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/whats-so-great-about-tuples-2</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/project-json-to-msbuild-conversion-guide</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/command-line-fun-for-windows-10-users</loc> </url>
 </urlset>

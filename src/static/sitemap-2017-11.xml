@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/articles/net-framework-or-net-core-when-to-use-which</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/connecting-hardware-and-running-first-uwp-app-on-raspberry</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/storing-content-security-policy-reports-in-elmah-io</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/net-core-tools-1-0-are-now-available</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/sql-server-data-tools-17-0-rc-and-ssdt-in-vs2017-sql-server-data-tools-team-blog</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/160-code-samples-for-bing-maps-v8-released-on-github-maps-blog</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/whats-new-in-iis-10-microsoft-internet-information-services-10-new-features</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/events-training/global-azure-bootcamp-2017</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/videos/connected-ios-android-and-windows-apps-with-azure-xamarin</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/libraries-tools/announcing-new-asp-net-core-and-web-development-features-in-visual-studio-2017</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/net-core-comes-quietly-to-raspberry-pi</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/testing-an-asp-net-core-mvc-protobuf-api-using-httpclient-and-xunit</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/what-is-the-microsoft-aspnetcore-metapackage</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/visual-studio-2017-poster</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/installation-windows-10-iot-on-raspberry-pi-3</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/new-features-in-c-7-0</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/keynote-visual-studio-2017-launch-channel-9</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/content-security-policy-in-asp-net-mvc-elmah-io</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/optimize-your-productivity-with-net-in-visual-studio-2017</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/mastering-azure-app-service-part-4-building-azure-mobile-apps</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/building-applications-with-azure-and-azure-stack</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/video-review-getting-started-with-asp-net-core-by-ugo-lattanzi</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/visual-studio-2017-for-asp-net-core-developers</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/xamarin-university-webinar-series</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/announcing-visual-studio-2017-general-availability-and-more</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/new-release-visual-studio-2017-is-now-available-for-download</loc> </url>
 </urlset>

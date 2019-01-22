@@ -1,9 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/videos/cross-platform-mobile-apps-with-xamarin-and-azure-mobile-services</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/videos/video-available-developing-high-performance-websites-and-modern-apps-with-javascript-and-html5</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/using-visual-states-in-your-windows-phone-user-controls</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/visual-studio-online-guidance-for-consulting-teams-and-systems-integrators</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/how-to-market-yourself-as-a-software-developer</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/oop-in-javascript-what-you-need-to-know</loc> </url>
 </urlset>

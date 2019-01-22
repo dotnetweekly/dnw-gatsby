@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/articles/csharp-7-x-and-8-0-uncertainty-and-awesomeness</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/measuring-your-codes-performance-during-development-with-benchmarkdotnet-methods-with-parameters</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/generate-c-api-documentation-with-wyam</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/microsoft-is-for-open-source-developers</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/internet-of-things-use-azure-iot-suite-to-boost-iot-development</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/dont-code-tired-testing-asp-net-core-controllers-in-isolation-with-mock-objects-and-moq</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/how-to-run-c-code-without-building-the-whole-project</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/announcing-ef-core-2-0-preview-2</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/machine-learning-for-developers</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/hashing-encryption-and-random-in-asp-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/computing-technical-debt-with-ndepend</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/exploring-cqrs-within-the-brighter-net-open-source-project</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/value-types-vs-reference-types</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/windows-template-studio-1-1-released</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/using-messagepack-with-asp-net-core-mvc-strathweb-a-free-flowing-web-tech-monologue</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/hands-on-with-visual-studio-for-mac</loc> </url>
 </urlset>

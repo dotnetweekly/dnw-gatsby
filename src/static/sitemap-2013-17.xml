@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/articles/using-entity-framework-code-first-with-stored-procedures-that-have-output-parameters</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/durandal-js</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/javascript-best-practices</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/git-integration-in-visual-studio-2012-after-update-2</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/great-news-for-web-developers-webmatrix-3-is-here-2</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/essential-reactive-extensions-with-net-4-5-and-linq</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/mongodb-with-c-deep-dive</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/windows-phone-8-training-kit</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/penny-pinching-in-the-cloud-how-to-run-a-two-day-virtual-conference-for-10</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/teched-2013-north-america-content-catalog-is-now-live</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/migrating-a-windows-phone-7-app-to-a-windows-store-app-using-xaml</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/time-is-running-out-take-your-second-shot-exam-now</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/windows-8-ux-design-jump-start</loc> </url>
 </urlset>

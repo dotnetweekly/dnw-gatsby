@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/articles/load-test-your-applications-from-the-cloud</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/videos/developing-asp-net-mvc-4-web-applications-jump-start</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/windows-store-c-for-c-developers</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/special-offers-from-build-2014</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/videos/watch-build-2014-conference-sessions</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/books/free-ebook-introducing-microsoft-sql-server-2014</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/visual-studio-2013-extensions-for-the-windows-library-for-javascript</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/the-next-generation-of-net</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/build-2014-enabling-developers-to-embrace-cloud-firstmobile-first-experiences</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/azure-portal-preview-and-visual-studio-online-adding-a-user</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/videos/object-playground-the-definitive-guide-to-object-oriented-javascript</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/libraries-tools/visual-studio-2013-keyboard-shortcuts</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/libraries-tools/winjs-now-on-github</loc> </url>

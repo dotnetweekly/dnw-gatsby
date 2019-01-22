@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/events-training/teched-2013-north-america-content-catalog-is-now-live</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/migrating-a-windows-phone-7-app-to-a-windows-store-app-using-xaml</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/time-is-running-out-take-your-second-shot-exam-now</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/events-training/windows-8-ux-design-jump-start</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/jsdb-is-a-collection-of-the-best-javascript-libraries</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/use-the-new-and-shiny-responsibly</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/what-breeze-can-do-for-you</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/understanding-javascript-inheritance</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/webapi-getting-headers-querystring-and-cookie-values</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/books/e-book-gallery-for-microsoft-technologies</loc> </url>
 </urlset>

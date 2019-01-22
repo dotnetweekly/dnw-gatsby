@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/books/free-ebookguide-on-net-microservices-architecture-for-containerized-net-applications</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/videos/kubernetes-in-action-how-orchestration-and-containers-can-increase-uptime-and-resiliency</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/videos/asp-net-mvc-beginner-tutorials</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/videos/microsoft-embracing-open-source-in-windows-server-2016</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/priority-queues-with-azure-service-bus</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/which-is-better-react-native-or-xamarin-forms</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/using-net-and-docker-together</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/handling-errors-in-an-asp-net-core-web-api</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/configuration-management-in-legacy-net-applications-net-framework-4-5-1</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/this-is-what-microsoft-said-about-progressive-web-apps-at-build</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/dear-documentdb-customers-welcome-to-azure-cosmos-db</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/announcing-windows-template-studio</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/getting-started-with-aurelia-and-asp-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/how-a-blind-developer-uses-visual-studio</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/microsoft-edge-whats-new-and-whats-next-for-the-web-and-web-apps-on-windows</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/covariance-contravariance-and-invariance-in-c-codeproject</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/csrf-tokens-in-asp-net-core-dot-net-core-tutorials</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/build-a-cicd-pipeline-from-visual-studio</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/asp-net-node-js-javascript-services</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/the-biggest-announcements-from-microsofts-build-event-the-verge</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/build-2017-conference-rollup-for-net-developers-scott-hanselman</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/getting-started-with-aspnet-core-2-0-preview-1</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/all-things-mobile-at-microsoft-build-the-visual-studio-blog</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/new-innovations-at-microsoft-build-2017-helping-developers-achieve-more-blog-microsoft-azure</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/build-2017-channel-9</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/microsoft-extends-azure-managed-database-services-with-introduction-of-mysql-and-postgresql-blog-mi</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/handling-404-not-found-in-asp-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/netasp-net-team-at-devintersection-2017</loc> </url>
 </urlset>

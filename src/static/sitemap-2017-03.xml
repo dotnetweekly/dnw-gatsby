@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/articles/defensive-logging-on-asp-net-core</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/events-training/free-microsoft-azure-training-course</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/microsoft-just-bought-an-ai-startup-that-can-outperform-facebook-and-google</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/how-to-set-up-a-c-development-environment-on-linux</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/working-with-documentdb</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/a-prettier-javascript-formatter</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/create-you-first-asp-net-core-app-and-host-it-in-a-linux-docker-container-on-microsoft-azure-part-1</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/building-intelligent-bots-for-business</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/asp-net-core-part-1-debugging-asp-net-core-applications-on-visual-studio-code</loc> </url>
 </urlset>

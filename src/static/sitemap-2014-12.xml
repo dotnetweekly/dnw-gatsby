@@ -1,11 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/articles/8-year-old-kid-builds-windows-phone-app-using-app-studio</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/make-your-website-a-window-store-app-with-no-effort</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/browser-compatibility-testing-with-modern-ie-tools</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/announcing-rtm-of-asp-net-identity-2-0-0</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/speech-recognition-speech-to-text-text-to-speech-and-speech-synthesis-in-c</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/the-seven-parts-of-html-5-fundamentals</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/open-source-and-microsoft-developer-tools</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/books/2237</loc> </url>
 </urlset>

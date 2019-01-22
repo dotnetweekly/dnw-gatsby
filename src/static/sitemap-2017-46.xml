@@ -1,25 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/articles/introducing-security-alerts-on-github</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/connect-2017-announcements</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/introducing-visual-studio-live-share</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/transform-t4-templates-as-part-of-the-build-and-pass-variables-from-the-project</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/using-web-api-only-on-asp-net-core-without-mvc-specific-stuff</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/videos/devops-at-microsoft-lots-of-videos</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/keeping-the-key-values-sorted-by-using-a-sorteddictionary-with-c-net</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/docker-dotnet-watch</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/events-training/70-537-microsoft-azure-stack-certification-exam-is-coming-soon</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/mongodb-and-linq-how-to-aggregate-and-join-collections</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/reflections-on-solid-principles</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/videos/microsoft-connect-online-event</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/videos/ai-school</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/azure-devops-projects</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/sql-operations-studio</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/visual-studio-app-center-visual-studio</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/libraries-tools/microsoftyamui-reusable-component-framework-for-yammer-com</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/libraries-tools/c-scripting-in-excel</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/rigging-up-roslyn-analyzers-in-net-core</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/libraries-tools/devart-net-core-2-0-and-entity-framework-core-2-0-support</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/tricky-questions-about-c</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/deploying-a-net-core-2-app-to-a-raspberry-pi-with-cake-and-putty-saved-sessions</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-asp-net-modelstate-with-vue-js</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/track-and-remediate-potential-database-vulnerabilities-with-sql-vulnerability-assessment</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/lightweight-bundling-minifying-and-compression-for-css-and-javascript-with-asp-net-core-and-smidge</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/live-unit-testing-asp-net-monsters</loc> </url>
 </urlset>

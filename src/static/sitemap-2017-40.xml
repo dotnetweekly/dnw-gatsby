@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/videos/introduction-to-identityserver-for-asp-net-core-microsoft-virtual-academy</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/serverless-for-all-developers-bringing-azure-functions-to-linux-mac-planet-scale-nosql-real-time-an</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/azure-machine-learning-workbench</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/wisej-the-easy-button-for-enterprise-software-codeproject</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/interesting-c-7-x-features-part-02</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/microsoft-edge-for-ios-and-android-what-developers-need-to-know-microsoft-edge-dev-blogmicrosoft-ed</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/videos/free-net-training-the-videos-from-net-conf-2017-are-now-available</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/c-vs-java-the-top-5-features-java-developers-miss-in-c</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/asp-net-core-2-0-api-series</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/10-key-differences-between-c-constant-readonly-static-readonly</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/netc-realtime-resources-realtime-api-hub</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/creating-a-cicd-pipeline-on-azure-container-services-with-kubernetes-and-visual-studio-team-service</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/videos/whats-new-in-visual-studio-2017</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/microsoft-makes-it-official-becomes-sponsor-of-open-source-initiative</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/react-native-signalr-net-core-with-dotnetify-hacker-noon</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/view-components-in-asp-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/framework-level-dependency-injection-with-asp-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/asp-net-core-angular-openid-connect-using-keycloak</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/build-a-web-service-with-f-and-net-core-2-0</loc> </url>
 </urlset>

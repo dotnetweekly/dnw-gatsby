@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/updates-to-asp-net-5-yeoman-generators-for-beta-3</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/go-cross-platform-with-the-net-framework</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/the-compromise-between-development-time-and-performance-in-data-driven-asp-net-mvc</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/events-training/developer-productivity-whats-new-in-c-6</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/performance-improvement-when-debugging-net-code-with-visual-studio-2015</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/introducing-the-ui-debugging-tools-for-xaml</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/net-core-open-source-update-february-26-2015</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/understanding-net-2015</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/the-new-onedrive-api</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/azure-and-open-source-what-you-need-to-know-2</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/c-6-0-in-6-screenshots</loc> </url>
 </urlset>

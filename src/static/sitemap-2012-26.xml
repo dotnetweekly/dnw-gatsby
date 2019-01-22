@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/books/start-here-learn-the-kinect-api</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/videos/ten-user-experience-best-practices-for-windows-phone-application-development</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/my-favorite-features-improved-tooling-in-visual-studio-11-for-javascript-developers</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/my-favorite-features-creating-storyboards-with-powerpoint</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/videos/premier-episode-of-microsoft-devradio-on-msdn-building-publishing-windows-8-apps</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/books/free-ebook-programming-windows-8-apps-with-html-css-and-javascript-first-preview</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/a-clear-example-of-a-gesture-driven-windows-phone-application</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/asp-net-mvc-routing-areas</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/microsoft-and-elance-are-helping-developers-find-work-online</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/visual-studio-2012-rc-downloads</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/developing-a-windows-8-metro-app-part-1-why-would-you-want-to-develop-a-metro-application-for-windo</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/mvc-4-web-api-net-4-5</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/basic-spatial-data-with-sql-server-and-entity-framework-5-0</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/drawingboard2-a-net-gdi-drawing-component</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/my-tech-ed-us-talk-on-wpf-4-5</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/scott-hanselman-mobile-web</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/nuget-2-released</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/team-foundation-server-as-a-service</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/windows-azure-training-kit-june-2012</loc> </url>
 </urlset>

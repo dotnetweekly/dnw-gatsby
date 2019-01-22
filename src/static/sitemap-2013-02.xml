@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/articles/new-windows-azure-mobile-services-getting-started-content</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/windows-store-app-authenticate-and-authorize-users-with-server-scripts-in-windows-azure-mobile-serv</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/typescript-making-net-developers-comfortable-with-javascript</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/inside-windows-8-chris-stevens-boot-environment</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/windows-azure-hands-on-labs-online</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/books/learning-javascript-design-patterns-free-ebook</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/windows-8-metro-apps-a-lot-of-icons-are-available-out-of-the-box</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/windows-phone-8-emulator-skin-switcher</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/reactive-extensions-rx-is-now-open-source</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/security-best-practices-for-building-windows-store-apps</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/optimizing-images-for-seo</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/the-c-memory-model-in-theory-and-practice</loc> </url>
 </urlset>

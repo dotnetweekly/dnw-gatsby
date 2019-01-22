@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/articles/tiny-happy-features-2-asp-net-web-api-in-visual-studio-2012</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/available-now-blend-for-visual-studio-2012</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/oauthopenid-support-for-webforms-mvc-and-webpages</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/a-history-api-lesson</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/visual-studio-2012-and-net-4-5-now-available</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/visual-studio-2012-and-net-framework-4-5-is-released-heres-5-minute-videos-to-get-you-up-to-speed-q</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/events-training/windows-8-developer-camps-and-hackathons-coming-july-to-september</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/ef5-released</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/visual-studio-2012-released-to-web</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/app-building-events-for-windows-8-app-developers</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/books/free-ebook-introduction-to-visual-studio-technologies</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/top-10-windows-phone-dev-center-questions-answered</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/videos/net-framework-4-5-talks-from-teched-2012-and-aspconf</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/app-development-for-modern-ui-module-1-of-9</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/designing-for-modern-ui-module-1-of-11</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/webcast-meet-the-new-windows-azure-part-2-window-azure-web-sites</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/develop-an-app-in-30-days-with-phone-support-and-a-design-consultation</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/fluent-security-configuration-for-asp-net-mvc</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/where-does-asp-net-web-api-fit</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/yet-another-podcast-72-chris-bowen-on-windows-8-programming</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/windows-server-2012-is-coming</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/how-do-i</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/meet-the-windows-phone-dev-center</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/visual-studio-2012-launch</loc> </url>
 </urlset>

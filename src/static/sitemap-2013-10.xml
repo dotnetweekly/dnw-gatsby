@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/articles/hands-on-lab-online-windows-8-lab-3-searching-and-sharing-javascript</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/making-30000-a-month-on-windows-8-apps</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/a-web-developers-site-launch-checklist-including-portable-formats</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/alive-with-activity-part-1-working-with-tiles-badges-and-toasts</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/ef6-alpha-3-available-on-nuget</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/windows-store-apps-a-guide-for-wpf-and-silverlight-developers-part-1</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/yetibowl-one-yeti-three-platforms</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/creating-and-consuming-odata-services-using-visual-studio-2012-lightswitch</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/videos/building-a-windows-store-game-using-html-and-javascript-available-from-lynda-com</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/giving-temporary-access-to-your-asp-net-web-api-with-hawk</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/building-web-apps-with-asp-net-jump-start-8-hours-of-free-training-videos</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/moving-your-applications-to-windows-azure</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/migrating-asp-net-web-forms-to-the-mvc-pattern-with-the-asp-net-web-api</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/generating-entity-data-model-diagram-from-ef-code-first-dbcontext</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/nfc-tag-fun-with-windows-phone-8</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/json-debugger-visualizer-in-visual-studio-2012</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/chatting-up-your-windows-phone-8-apps</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/understanding-intellitrace-part-v-advanced-intellitrace-settings</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/ctp4-march-of-vstfs-2012-update-2-is-available</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/now-available-office-developer-tools-for-visual-studio-2012</loc> </url>
 </urlset>

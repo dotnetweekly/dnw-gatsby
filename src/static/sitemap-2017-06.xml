@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/articles/full-stack-weekly</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/sql-database-query-editor-available-in-azure-portal</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/videos/docker-new-net-core-tooling</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/set-up-ssl-on-github-pages-with-custom-domain-using-azure</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/functional-asp-net-core</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/hosting-a-bot-framework-chat-bot-on-a-docker-container-on-azure-app-service-on-linux-dimitris-ilias</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/sqldownunder-sql-server-and-business-intelligence-training-mentoring</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/net-core-2-0-changes-5-things-to-know-stackify</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/events-training/around-the-world-with-mvps-ms-cloud-summit-paris</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/net-on-linux</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/creating-solid-classes-with-autofac-benny-michielsen</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/announcing-gvfs-git-virtual-file-system</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/anti-forgery-tokens-and-asp-net-core-apis</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/il-viewer-for-vs-code-coding4fun-blog-channel-9</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/xamarin-alliance-challenge-yourself-build-a-connect-mobile-app-on-xamarin</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/the-net-language-strategy</loc> </url>
 </urlset>

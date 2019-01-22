@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/articles/writing-a-sqlite-wrapper-component-for-universal-windows-apps</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/events-training/programming-the-kinect-for-windows-v2-jump-start</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/announcing-the-release-of-asp-net-mvc-5-2-web-api-2-2-and-web-pages-3-2</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/microsoft-acquires-syntaxtree-creator-of-unityvs-plugin-for-visual-studio</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/vstfs-2013-3-update-3-rc</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/books/cloud-design-patterns-book-download</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/events-training/dotnetconf-2014-wrapup</loc> </url>
 </urlset>

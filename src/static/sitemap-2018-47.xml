@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/articles/net-internals</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/best-way-to-spin-up-a-react-plus-aspnet-core-web-api-application</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/announcing-mlnet-07-machine-learning-net</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/azure-tips-and-tricks-part-175-machine-learning-with-mlnet-and-azure-functions-part-2-of-2</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/developing-samsung-tv-apps-with-net-getting-started</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/porting-from-aspnet-to-aspnet-core-part-3-mechanics-of-porting</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/using-requestsender-in-aspnet-core</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/azure-functions-20-extensibility-triggers</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/videos/extensible-fixed-statement-in-c-73</loc> </url>

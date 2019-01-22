@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/articles/c-8-indexes-and-ranges</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/using-middleware-to-log-requests-and-responses-in-aspnet-core</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/containers-what-are-they-good-for-running-our-ci-builds</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/working-with-polly-using-the-context-to-obtain-the-retry-count-for-diagnostics</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/writing-honest-methods-in-c</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/recursion-how-to-overflow-the-stack-and-how-not-to</loc> </url>
@@ -11,4 +8,7 @@
 <url> <loc>https://www.dotnetweekly.com/articles/how-to-create-health-checks-in-aspnet-core</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/unit-test-coverage-and-continuous-testing-now-in-rider</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/composition-and-interfaces-in-oop-world</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/understanding-produces-and-consumes-attribute-in-mvc-6</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/technical-overview-of-azure-cosmos-db</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/under-the-hood-of-aspnet-core-webhooks-model-binding</loc> </url>
 </urlset>

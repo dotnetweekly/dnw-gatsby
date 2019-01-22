@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/videos/ndc-oslo-2017-videos-now-available</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/books/introducing-microsoft-power-bi-2</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/local-functions-in-csharp-7-0</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/automating-net-core-deployments-to-different-platforms-with-cake-jeremy-lindsay</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/asp-net-core-2-new-single-page-application-templates</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/net-conf-2017</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/asp-net-core-mvc-feature-folders</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/walkthrough-of-azure-cosmos-db-graph-gremlin</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/asp-net-core-demystified-routing-in-mvc-2</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/net-core-solution-management-via-the-command-line-interface-joseph-woodward-software-developer</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/top-5-resources-to-learn-net-core-web-development</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/code-review-request-a-basic-echo-server-using-asp-net-core-websockets</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/using-narrator-and-dev-mode</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/urls-are-ui</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/practical-parallelization-in-c-with-mapreduce-producerconsumer-and-actormodel</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/hosting-docker-images-on-azure-container-registry</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/building-appsgames-for-xbox-one-using-uwp-build-once-and-target-many</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/csharp-7-x-and-8-0-uncertainty-and-awesomeness</loc> </url>
 </urlset>

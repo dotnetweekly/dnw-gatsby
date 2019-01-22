@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/articles/jwt-authentication-and-authorisation-in-aspnet-core-web-api</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/generate-automatically-async-await-code-from-sync-code-with-roslyn</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/dont-let-aspnet-core-console-logging-slow-your-app-down</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/graphql-concepts-i-wish-someone-explained-to-me-a-year-ago</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/blazor-toast-notifications-using-only-c-html-and-css</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/vue-vs-react-part-0-thinning-the-herd</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/videos/running-your-first-docker-container-in-azure</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/videos/twc9-happy-new-year-trill-goes-open-source-net-updates-tech-ranked-and-more</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/quiz-how-ranges-in-c-8-work</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/using-polly-and-flurl-to-improve-your-website</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/file-upload-in-aspnet-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/why-a-func-delegate-in-c-is-not-be-translated-to-sql-commands</loc> </url>
 </urlset>

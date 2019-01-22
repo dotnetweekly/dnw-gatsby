@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/articles/universal-windows-apps-get-better-with-windows-10</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/getting-started-with-asp-net-web-api-2-using-codefirst</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/videos/net-micro-framework</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/books/creating-mobile-apps-with-xamarin-forms-preview-edition</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/introducing-windows-10-for-business</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/improving-smashing-magazines-performance-a-case-study</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/libraries-tools/a-javascript-build-system-shootout-grunt-vs-gulp-vs-npm</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/angularjs-tutorial-a-comprehensive-10000-word-guide-read-more-at-httpwww-airpair-comangularjsqz2hjz</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/5-array-methods-that-you-should-be-using-now</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/microsoft-security-bulletin-ms14-053-important</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/how-to-centralise-iis-logs</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/before-you-take-over-supporting-a-web-application</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/enable-http-compression-in-iis-express</loc> </url>
 </urlset>

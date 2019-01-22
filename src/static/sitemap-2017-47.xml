@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/articles/writing-smarter-cross-platform-net-core-apps-with-the-api-analyzer-and-windows-compatibility-pack</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/the-future-of-languages-in-visual-studio</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/ci-cd-with-net-core-2-0-vs-code-github-azure-and-docker</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/choosing-the-c-language-latest-version-minor-release-in-visual-studio-2017</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/tackling-technical-debt-using-ndepend</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/enrich-elmah-errors-using-error-filtering-hook-elmah-io</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/advanced-fluent-interfaces-linq-case-study</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/the-way-we-assert</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/net-blogs-to-follow-the-ultimate-list</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/how-to-enable-c-7-1-to-my-projects</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/grapecity-releases-november-2017-products</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/introducing-security-alerts-on-github</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/connect-2017-announcements</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/introducing-visual-studio-live-share</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/transform-t4-templates-as-part-of-the-build-and-pass-variables-from-the-project</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-web-api-only-on-asp-net-core-without-mvc-specific-stuff</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/devops-at-microsoft-lots-of-videos</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/keeping-the-key-values-sorted-by-using-a-sorteddictionary-with-c-net</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/docker-dotnet-watch</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/70-537-microsoft-azure-stack-certification-exam-is-coming-soon</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/mongodb-and-linq-how-to-aggregate-and-join-collections</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/reflections-on-solid-principles</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/microsoft-connect-online-event</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/ai-school</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/azure-devops-projects</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/sql-operations-studio</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/visual-studio-app-center-visual-studio</loc> </url>
 </urlset>

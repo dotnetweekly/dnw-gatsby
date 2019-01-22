@@ -1,77 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>dotNET Weekly - Week 3 Year 2019</title>
-        <link>https://www.dotnetweekly.com/week/3/year/2019?feed=rss</link>
+        <title>dotNET Weekly - Week undefined Year undefined</title>
+        <link>https://www.dotnetweekly.com/week/undefined/year/undefined?feed=rss</link>
         <description></description>
-        <lastBuildDate>Tue, 22 Jan 2019 04:55:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Jan 2019 07:25:29 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
+        <category>Events-training</category>
         <category>Articles</category>
-        <category>Libraries-Tools</category>
         <item>
-            <title><![CDATA[Fixing .NET middle-age crisis with Java ReferenceQueue and Cleaner]]></title>
-            <link>https://www.dotnetweekly.com/articles/fixing-net-middle-age-crisis-with-java-referencequeue-and-cleaner</link>
-            <guid>https://www.dotnetweekly.com/articles/fixing-net-middle-age-crisis-with-java-referencequeue-and-cleaner</guid>
-            <pubDate>Thu, 17 Jan 2019 16:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[This post describe how to implement Java pattern in C# and solve the "middle-crisis" symptoms of the Garbage Collector in your applications.]]></content:encoded>
+            <title><![CDATA[THAT Conference - Call for Speakers is open!]]></title>
+            <link>https://www.dotnetweekly.com/articles/that-conference-call-for-speakers-is-open</link>
+            <guid>https://www.dotnetweekly.com/articles/that-conference-call-for-speakers-is-open</guid>
+            <pubDate>Tue, 22 Jan 2019 07:23:58 GMT</pubDate>
+            <content:encoded><![CDATA[We are excited to announce that the THAT Conference 2019 Call for Speakers is now OPEN, and we want you to submit an abstract so fervently that we're putting the link to do so right here!]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Hosted Services In ASP.net Core]]></title>
-            <link>https://www.dotnetweekly.com/articles/hosted-services-in-aspnet-core</link>
-            <guid>https://www.dotnetweekly.com/articles/hosted-services-in-aspnet-core</guid>
-            <pubDate>Tue, 15 Jan 2019 09:06:41 GMT</pubDate>
-            <content:encoded><![CDATA[Hosted Services in the .NET Core world mean background tasks in everyday developer terms. If you’re living in the C# world, and even the Azure world, you actually already have a couple of options for doing background style tasks. Problems that you can solve using Hosted Services are probably similar to the problems you currently solve using Windows Services or Azure WebJobs. So first, let’s take a look at some comparisons.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Find, Fix, and Avoid Memory Leaks in C# .NET: 8 Best Practices]]></title>
-            <link>https://www.dotnetweekly.com/articles/find-fix-and-avoid-memory-leaks-in-c-net-8-best-practices</link>
-            <guid>https://www.dotnetweekly.com/articles/find-fix-and-avoid-memory-leaks-in-c-net-8-best-practices</guid>
-            <pubDate>Tue, 15 Jan 2019 08:41:55 GMT</pubDate>
-            <content:encoded><![CDATA[Anyone who worked on a big enterprise project knows memory leaks are like rats in a big hotel. You might not notice when there are few of them, but you always have to be on guard in case they overpopulate, break into the kitchen, and poop on everything.
+            <title><![CDATA[Is a SPA less secure than a server rendered web application?]]></title>
+            <link>https://www.dotnetweekly.com/articles/is-a-spa-less-secure-than-a-server-rendered-web-application</link>
+            <guid>https://www.dotnetweekly.com/articles/is-a-spa-less-secure-than-a-server-rendered-web-application</guid>
+            <pubDate>Tue, 22 Jan 2019 07:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[In this post, I try to explain some of the differences between a single page application and a server rendered application and why the application types have different threat models.
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[How You Can Create a .NET Core Application Using Entity Framework Core with Oracle]]></title>
-            <link>https://www.dotnetweekly.com/articles/how-you-can-create-a-net-core-application-using-entity-framework-core-with-oracle</link>
-            <guid>https://www.dotnetweekly.com/articles/how-you-can-create-a-net-core-application-using-entity-framework-core-with-oracle</guid>
-            <pubDate>Tue, 15 Jan 2019 08:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[While Entity Framework support is already a quite common feature of different data provider products, support for Entity Framework Core is not yet as widely available. Especially if it concerns Entity Framework Core on .NET Core. Today I will tell you about an ADO.NET provider for Oracle that provides such features.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Let's Encrypt - Looking Forward to 2019]]></title>
-            <link>https://www.dotnetweekly.com/articles/lets-encrypt-looking-forward-to-2019</link>
-            <guid>https://www.dotnetweekly.com/articles/lets-encrypt-looking-forward-to-2019</guid>
-            <pubDate>Tue, 15 Jan 2019 07:05:23 GMT</pubDate>
-            <content:encoded><![CDATA[Let’s Encrypt had a great year in 2018. We’re now serving more than 150 million websites while maintaining a stellar security and compliance track record.
-
-Most importantly though, the Web went from 67% encrypted page loads to 77% in 2018, according to statistics from Mozilla. This is an incredible rate of change!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Running async tasks on app startup in ASP.NET Core (Part 1)]]></title>
-            <link>https://www.dotnetweekly.com/articles/running-async-tasks-on-app-startup-in-aspnet-core-part-1</link>
-            <guid>https://www.dotnetweekly.com/articles/running-async-tasks-on-app-startup-in-aspnet-core-part-1</guid>
-            <pubDate>Tue, 15 Jan 2019 06:47:50 GMT</pubDate>
-            <content:encoded><![CDATA[Sometimes you need to perform one-off initialisation logic before your app starts up properly. For example, you might want to validate your configuration is correct, populate a cache, or run database migrations. In this post, I look at the options available and show some simple methods and extension points that I think solve the problem well.
-
-I start by describing the built-in solution to running synchronous tasks with IStartupFilter. I then walk through the various options for running asynchrnous tasks. You could (but possibly shouldn't) use IStartupFilter or IApplicationLifetime events to run asynchronous tasks. You could use the IHostedService interface to run one-off tasks without blocking app startup. However the only real solution is to run the tasks manually in program.cs. In my next post I'll show a suggested proposal that makes this process a little easier.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Policy-based Authorization in ASP.NET Core – A Deep Dive]]></title>
-            <link>https://www.dotnetweekly.com/articles/policy-based-authorization-in-aspnet-core-a-deep-dive</link>
-            <guid>https://www.dotnetweekly.com/articles/policy-based-authorization-in-aspnet-core-a-deep-dive</guid>
-            <pubDate>Tue, 15 Jan 2019 06:16:29 GMT</pubDate>
-            <content:encoded><![CDATA[Authentication and Authorization are two terms you would often come across when reading about the security of web applications. While the former is used to validate a user’s credentials, the latter is used to grant access to one or more resources of the application to a user. There are two ways in which you can implement authorization in ASP.NET Core. These include role-based authorization and policy-based authorization. Role-based authorization has been in use from the previous versions of ASP.NET. Policy-based authorization has been newly introduced in ASP.NET Core and provides a rich, expressive and reusable authorization model to secure applications developed in ASP.NET Core. This article presents a discussion on how you can work with policy-based authorization in ASP.NET Core.
-
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Background tasks in ASP.NET Core]]></title>
-            <link>https://www.dotnetweekly.com/articles/background-tasks-in-aspnet-core</link>
-            <guid>https://www.dotnetweekly.com/articles/background-tasks-in-aspnet-core</guid>
-            <pubDate>Tue, 15 Jan 2019 06:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[This post is about running background tasks in ASP.NET Core. In .NET Core 2.1, Microsoft introduced a new feature called IHostedService to allow developers to run a background service that can have a managed lifetime to its caller, be it from an ASP.NET Core or a console.
+            <title><![CDATA[Test the latest features with SQL Server 2017 Developer Edition]]></title>
+            <link>https://www.dotnetweekly.com/articles/test-the-latest-features-with-sql-server-2017-developer-edition</link>
+            <guid>https://www.dotnetweekly.com/articles/test-the-latest-features-with-sql-server-2017-developer-edition</guid>
+            <pubDate>Tue, 22 Jan 2019 07:21:37 GMT</pubDate>
+            <content:encoded><![CDATA[Are you curious how new capabilities in SQL Server will impact your applications? Download and test SQL Server 2017 Developer Edition, a full-featured free edition, licensed for use as a development and test database in a non-production environment. You can browse and access SQL Server code samples at GitHub, and when you’re ready, check out your options to move to production.
 
 ]]></content:encoded>
         </item>

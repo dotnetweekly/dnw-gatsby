@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/articles/what-is-the-easiest-way-to-generate-http-requests</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/moving-existing-projects-to-ef5</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/books/the-rest-api-design-handbook</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/do-you-really-know-what-a-rest-service-is</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/webmatrix-2-is-released-new-windows-azure-features</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/getting-started-authoring-html-for-windows-8-apps-using-blend-for-vs-2012</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/asp-net-frameworks-and-raw-throughput-performance</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/whats-new-for-web-development-in-visual-studio-2012</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/a-more-productive-ide-for-modern-applications</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/books/free-ebook-programming-windows-8-apps-with-html-css-and-javascript-second-preview</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/automated-build-deploy-test-using-tfs-2012</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/javascript-closures</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/ajax-uploading-files-the-html5-way</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/books/entity-framework-code-first</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/javascript-error-reporting-within-visual-studio</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/links-to-asp-net-webapi-blog-posts-and-data-access-blog-posts</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/getting-started-with-asp-net-4-5-web-forms-2</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/testing-windows-8-apps-using-visual-studio-2012-2</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/will-microsofts-developers-make-the-winrt-platform-leap</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/list-of-windows-8-shortcuts</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/visual-studio-premium-and-ultimate-2012-easily-testing-user-interfaces-with-coded-ui-tests</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/plugging-custom-oauthopenid-providers</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/visual-studio-2012-backwards-compatible-with-2010</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-json-net-for-dynamic-json-parsing</loc> </url>
 </urlset>

@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/articles/c5-asp-net-mvc-4-and-asynchronous-web-applications</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/build-your-own-html5-board-game</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/541</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/windows-azure-community-news-roundup</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/screencasting-like-a-pro-beginning-middle-and-end</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/an-introduction-to-asp-net-web-api</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/windows-8-should-i-still-develop-for-desktop</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/develop-windows-8-apps-without-windows-8-yes-you-can</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/videos/visual-studio-ultimate-2012-visualize-the-impact-of-a-change</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/microsoft-unveils-a-new-look</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/tiny-happy-features-2-asp-net-web-api-in-visual-studio-2012</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/available-now-blend-for-visual-studio-2012</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/oauthopenid-support-for-webforms-mvc-and-webpages</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/a-history-api-lesson</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/visual-studio-2012-and-net-4-5-now-available</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/visual-studio-2012-and-net-framework-4-5-is-released-heres-5-minute-videos-to-get-you-up-to-speed-q</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/windows-8-developer-camps-and-hackathons-coming-july-to-september</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/ef5-released</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/visual-studio-2012-released-to-web</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/app-building-events-for-windows-8-app-developers</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/books/free-ebook-introduction-to-visual-studio-technologies</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/top-10-windows-phone-dev-center-questions-answered</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/net-framework-4-5-talks-from-teched-2012-and-aspconf</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/app-development-for-modern-ui-module-1-of-9</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/designing-for-modern-ui-module-1-of-11</loc> </url>
 </urlset>

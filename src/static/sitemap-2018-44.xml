@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/articles/on-cross-site-scripting-and-content-security-policy</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/rust-can-be-difficult-to-learn-and-frustrating-but-its-also-the-most-exciting-thing-in-software-dev</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/free-landing-page-templates-for-startups</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/pure-css-toggle-buttons-on-off-switches</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/a-first-look-at-changes-coming-in-aspnet-core-30</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/implementing-user-management-with-aspnet-core-identity-and-custom-claims</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/are-there-actually-companies-out-there-that-write-good-code</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/github-actions-built-by-you-run-by-us</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/whats-next-for-visual-studio-for-mac</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/books/create-your-first-intelligent-bot-with-microsoft-ai</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/five-things-about-developing-on-a-mac</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/why-xaml-why-now</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/learning-javascript-objects</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/blazon-we-needed-to-talk-performance</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/cookie-security</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/azure-functions-dependency-injection-with-autofac</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/clearing-local-nuget-cache</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/top-stories-from-the-microsoft-devops-community</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/a-breakdown-of-blazor-project-types</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/our-favourite-net-azure-and-c-podcasts</loc> </url>
 </urlset>

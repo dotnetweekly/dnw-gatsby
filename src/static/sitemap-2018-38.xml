@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/articles/parallel-custom-build-tools-in-visual-studio-2017</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/have-your-pi-and-eat-it-too-net-core-21-on-raspberry-pi</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/webassembly-load-times-and-performance</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/azure-devops-continuous-build-deploy-test-with-aspnet-core-22-preview-in-one-hour</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/api-best-practices</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/distributed-net-core-an-open-microservices-course</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/complete-awesomeness-for-mobile-net-developers</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/the-lazy-functor</loc> </url>
@@ -13,4 +8,8 @@
 <url> <loc>https://www.dotnetweekly.com/articles/how-discord-handles-two-and-half-million-concurrent-voice-users-using-webrtc</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/announcing-azure-pipelines-with-unlimited-ci-cd-minutes-for-open-source</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/lets-encrypt-at-scale</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/a-breakdown-of-blazor-project-types</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/data-seeding-with-ef-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/announcing-mlnet-05</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/net-conf-2018</loc> </url>
 </urlset>

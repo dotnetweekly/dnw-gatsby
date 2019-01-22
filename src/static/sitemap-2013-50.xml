@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/entity-framework-6-0-2-tools-for-visual-studio-2012-2013</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/sexy-c</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/c-password-protected-file</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/windows-azure-new-scheduler-service-read-access-geo-redundant-storage-and-monitoring-updates</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/static-code-analysis-in-visual-studio-2013-whats-new</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/a-simple-implementation-of-microsoft-aspnet-identity</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/bootstrap-3-whats-it-all-about</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/entity-framework-6-the-ninja-edition</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/demystifying-modern-social-apis-part-1-social-sign-in</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/cross-browser-coded-ui-testing-with-visual-studio-2013</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/whats-new-in-visual-studio-2013-2</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/release-candidates-for-asp-net-mvc-5-1-web-api-2-1-and-web-page-3-1</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/the-two-ways-to-handle-orientation-in-your-windows-8-1-app</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/whats-new-in-visual-studio-2013</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/windows-azure-web-sites-deep-dive-jump-start</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/migrating-a-blog-to-windows-azure-web-sites</loc> </url>
 </urlset>

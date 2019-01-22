@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/fixing-net-middle-age-crisis-with-java-referencequeue-and-cleaner</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/hosted-services-in-aspnet-core</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/find-fix-and-avoid-memory-leaks-in-c-net-8-best-practices</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/how-you-can-create-a-net-core-application-using-entity-framework-core-with-oracle</loc> </url>
@@ -7,4 +8,7 @@
 <url> <loc>https://www.dotnetweekly.com/articles/running-async-tasks-on-app-startup-in-aspnet-core-part-1</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/policy-based-authorization-in-aspnet-core-a-deep-dive</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/background-tasks-in-aspnet-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/creating-a-top-menu-search-bar-in-blazor</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/typescript-28-conditional-types</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/twc9-unlimited-free-private-github-repos-python-in-azure-app-service-ces-highlights-and-more</loc> </url>
 </urlset>

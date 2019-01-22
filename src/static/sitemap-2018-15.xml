@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/articles/api-versioning-in-aspnet-core-20</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/explore-cosmosdb-with-net-core-and-mongodb</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/visual-studio-roadmap-for-2018</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/a-generic-logger-factory-facade-for-classic-aspnet</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/announcing-http-2-support-in-azure-app-service</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/integrating-selenium-tests-in-a-release-pipeline</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/libraries-tools/comparing-xamarin-and-nativescript</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/aspnet-core-web-api-multi-tenant-jwts</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/achieving-gdpr-compliance-in-the-cloud-with-microsoft-azure</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/updating-jquery-based-lazy-image-loading-to-intersectionobserver</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/aspnet-core-and-the-strategy-pattern</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/dont-get-jealous-get-better</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/events-training/aiming-to-fill-skill-gaps-in-ai-microsoft-makes-training-courses-available-to-the-public</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/c-7x-and-beyond-a-sneak-peek-at-the-future-of-c</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/microsoft-build-2018-developer-conference</loc> </url>
 </urlset>

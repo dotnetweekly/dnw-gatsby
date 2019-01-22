@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/articles/user-authentication-with-vuejs-aspnet-core-2-and-facebook-login</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/solid-design-principles-explained-the-single-responsibility-principle</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/supporting-micro-frontends-with-aspnet-core-mvc</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/creating-a-chat-application-using-react-and-aspnet-core</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/videos/c-create-an-ioc-container-from-scratch</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/videos/visual-studio-live-share-getting-started-overview</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/announcing-net-core-21-preview-1</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/deep-dive-into-net-core-primitives-depsjson-runtimeconfigjson-and-dlls</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/refactoring-legacy-monoliths-game-plan-and-refactoring-tips</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/use-dbcontextpooling-to-improve-the-performance-net-core-21-feature</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/migrate-existing-aspnet-core-20-application-to-aspnet-core-21</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/turning-a-aspnet-core-website-into-a-progressive-web-app-pwa</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/scalable-and-performant-aspnet-core-web-apis-filtering-and-searching</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/creating-a-chat-application-using-react-and-aspnet-core-part-4</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/identify-users-and-their-permissions-with-jwts-and-aspnet-core-webapi</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/enforce-ssl-and-use-hsts-in-net-core20-net-core-security-part-i</loc> </url>
 </urlset>

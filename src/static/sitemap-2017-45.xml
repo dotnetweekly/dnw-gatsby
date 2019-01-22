@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.dotnetweekly.com/articles/using-asp-net-modelstate-with-vue-js</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/videos/track-and-remediate-potential-database-vulnerabilities-with-sql-vulnerability-assessment</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/articles/lightweight-bundling-minifying-and-compression-for-css-and-javascript-with-asp-net-core-and-smidge</loc> </url>
-<url> <loc>https://www.dotnetweekly.com/videos/live-unit-testing-asp-net-monsters</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/books/modernize-existing-net-applications-with-azure-cloud-and-windows-containers</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/fable-javascript-you-can-be-proud-of</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/the-vs-code-roadmap-2018</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/vuejs-vs-angular-vs-reactjs-with-demos</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/modernize-existing-net-apps-with-windows-containers-and-azure</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/how-does-clr-work-in-dot-net-framework</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/shared-localization-in-asp-net-core-mvc</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/feeling-lucky-an-open-source-stress-free-approach-to-seo</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/net-core-devops-with-docker-travis-ci-and-rancher-part-2</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/benchmarkdotnet-v0-10-10</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/handling-conditional-requests-in-asp-net-core-mvc</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/understanding-ef-code-first-migrations</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/introducing-api-analyzer-2</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/the-history-of-net-richard-campbell</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/welcome-to-c-7-1-net-blog</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/data-points-ddd-friendlier-ef-core-2-0-part-2</loc> </url>
 </urlset>
