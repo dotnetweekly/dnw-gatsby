@@ -23,7 +23,7 @@ jobs:
 
       - run:
           name: Install Dependencies
-          command: npm install git-commit-push-via-github-api
+          command: rm -rf node_modules && npm install git-commit-push-via-github-api
 
       - run:
           name: Github Deploy
@@ -49,7 +49,7 @@ jobs:
 
       - run:
           name: Install Dependencies
-          command: npm install && node ./scripts/generate-markdown.js run
+          command: rm -rf node_modules && npm install && node ./scripts/generate-markdown.js run
 
       - save_cache:
           key: v1-npm-deps-{{ checksum "package-lock.json" }}
