@@ -41,6 +41,7 @@
   },
   "devDependencies": {
     "firebase-tools": "^6.3.0",
+    "git-commit-push-via-github-api": "^1.0.1",
     "ncp": "^2.0.0",
     "prettier": "^1.15.3"
   },
