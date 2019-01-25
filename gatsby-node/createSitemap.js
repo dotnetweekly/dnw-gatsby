@@ -26,6 +26,12 @@ exports.createSitemaps = async function(createPage, graphql) {
 async function generateSitemaps() {
   return new Promise((resolve, reject) => {
     request(`${conf.apiDomain}sitemap`, function(error, response, body) {
+      for (var i = 0; i <= 9; i++) {
+        body = body.replace(
+          new RegExp(`-${i}\.xml<\/loc>`, 'gi'),
+          `-0${i}.xml</loc>`
+        )
+      }
       fs.writeFileSync(path.join(__dirname, `../src/static/sitemap.xml`), body)
       resolve()
     })
@@ -111,4 +117,9 @@ async function generateSitemapsAll(createPage, graphql) {
       break
     }
   }
+}
+
+const args = process.argv
+if (args.length > 0 && args[2] == 'run') {
+  generateSitemapsAll()
 }

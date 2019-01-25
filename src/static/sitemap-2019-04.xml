@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/azure-functions-20-extensibility-extending-extensions</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/the-aspnet-core-form-tag-helpers-cheat-sheet</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/introduction-to-pytorch-on-windows</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/hosting-a-blazor-application-on-firebase</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/aws-mongodb-and-the-economic-realities-of-open-source</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/http-tooslowexceptioncom-managed-pointers-in-net</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/a-peek-at-the-ef-core-cosmos-db-provider-preview</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/an-alternative-way-to-secure-spas-with-aspnet-core-openid-connect-oauth-20-and-proxykit</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/porting-30k-lines-of-code-from-flow-to-typescript</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/a-real-browser-preview-inside-your-editor-that-you-can-debug</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/events-training/that-conference-call-for-speakers-is-open</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/is-a-spa-less-secure-than-a-server-rendered-web-application</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/test-the-latest-features-with-sql-server-2017-developer-edition</loc> </url>
