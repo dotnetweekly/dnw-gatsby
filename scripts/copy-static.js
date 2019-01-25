@@ -1,5 +1,6 @@
 const path = require('path')
 const fs = require('fs')
+const fse = require('fs-extra')
 
 fs.readdir(path.resolve(__dirname, '../src/static'), (err, files) => {
   files.forEach(file => {
@@ -12,3 +13,8 @@ fs.readdir(path.resolve(__dirname, '../src/static'), (err, files) => {
     )
   })
 })
+
+fse.copySync(
+  path.resolve(__dirname, '../src/static/feed'),
+  path.resolve(__dirname, '../public/feed')
+)
