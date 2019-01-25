@@ -9,6 +9,7 @@ fs.readdir(path.resolve(__dirname, '../src/static'), (err, files) => {
         `${path.resolve(__dirname, '../src/static')}/${file}`,
         `${path.resolve(__dirname, '../public')}/${file}`,
         err => {
+          console.log(file)
           if (err) throw err
         }
       )
