@@ -4,13 +4,15 @@ const fse = require('fs-extra')
 
 fs.readdir(path.resolve(__dirname, '../src/static'), (err, files) => {
   files.forEach(file => {
-    fs.copyFile(
-      `${path.resolve(__dirname, '../src/static')}/${file}`,
-      `${path.resolve(__dirname, '../public')}/${file}`,
-      err => {
-        if (err) throw err
-      }
-    )
+    if (file.includes('.') !== -1) {
+      fs.copyFile(
+        `${path.resolve(__dirname, '../src/static')}/${file}`,
+        `${path.resolve(__dirname, '../public')}/${file}`,
+        err => {
+          if (err) throw err
+        }
+      )
+    }
   })
 })
 
