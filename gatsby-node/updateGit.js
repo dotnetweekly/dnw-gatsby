@@ -28,6 +28,7 @@ async function generateMarkdownSync() {
 
 generateMarkdownSync().then(() => {
   let newOldPosts = fs.readdirSync(weekFolder)
+  console.log(newOldPosts)
   let newPosts = newOldPosts.filter(x => {
     return !oldPosts.includes(x)
   })
@@ -35,6 +36,8 @@ generateMarkdownSync().then(() => {
   if (newPosts.length === 0) {
     return
   }
+
+  console.log(newPosts)
 
   gitCommitPush({
     // commit to https://github.com/azu/commit-to-github-test
