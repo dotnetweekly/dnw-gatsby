@@ -23,10 +23,7 @@ if (fs.existsSync(weekFolder)) {
 }
 
 async function generateMarkdownSync() {
-  return await generateMarkdown()
-}
-
-generateMarkdownSync().then(() => {
+  await generateMarkdown()
   let newOldPosts = fs.readdirSync(weekFolder)
   console.log(newOldPosts)
   let newPosts = newOldPosts.filter(x => {
@@ -66,4 +63,6 @@ generateMarkdownSync().then(() => {
     .catch(err => {
       console.error(err)
     })
-})
+}
+
+generateMarkdownSync()
