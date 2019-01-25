@@ -16,7 +16,14 @@ fs.readdir(path.resolve(__dirname, '../src/static'), (err, files) => {
   })
 })
 
-fse.copySync(
-  path.resolve(__dirname, '../src/static/feed'),
-  path.resolve(__dirname, '../public/feed')
+if (!fs.existsSync(path.resolve(__dirname, '../public/feed'))) {
+  fs.mkdirSync(path.resolve(__dirname, '../public/feed'))
+}
+
+fs.copyFile(
+  `${path.resolve(__dirname, '../src/static/feed')}/index.html`,
+  `${path.resolve(__dirname, '../public/feed')}/index.html`,
+  err => {
+    if (err) throw err
+  }
 )
