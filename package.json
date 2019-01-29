@@ -7,19 +7,19 @@
     "axios": "^0.18.0",
     "bulma": "^0.7.2",
     "fs-extra": "^7.0.1",
-    "gatsby": "^2.0.91",
+    "gatsby": "^2.0.103",
     "gatsby-cli": "^2.4.8",
-    "gatsby-image": "^2.0.26",
-    "gatsby-plugin-google-analytics": "^2.0.9",
-    "gatsby-plugin-manifest": "^2.0.13",
-    "gatsby-plugin-offline": "^2.0.21",
+    "gatsby-image": "^2.0.29",
+    "gatsby-plugin-google-analytics": "^2.0.12",
+    "gatsby-plugin-manifest": "^2.0.14",
+    "gatsby-plugin-offline": "^2.0.22",
     "gatsby-plugin-react-helmet": "^3.0.5",
-    "gatsby-plugin-sass": "^2.0.7",
-    "gatsby-plugin-sharp": "^2.0.17",
-    "gatsby-source-filesystem": "^2.0.13",
+    "gatsby-plugin-sass": "^2.0.8",
+    "gatsby-plugin-sharp": "^2.0.18",
+    "gatsby-source-filesystem": "^2.0.18",
     "gatsby-source-rss": "^1.0.0",
-    "gatsby-transformer-remark": "^2.2.0",
-    "gatsby-transformer-sharp": "^2.1.10",
+    "gatsby-transformer-remark": "^2.2.1",
+    "gatsby-transformer-sharp": "^2.1.12",
     "node-sass": "^4.11.0",
     "npm-check-updates": "^2.15.0",
     "react": "^16.7.0",
@@ -27,7 +27,7 @@
     "react-google-recaptcha": "^1.0.5",
     "react-helmet": "^5.2.0",
     "react-transition-group": "^2.5.2",
-    "weekly-calendar-helper": "0.0.5"
+    "weekly-calendar-helper": "0.0.6"
   },
   "keywords": [
     "gatsby"
@@ -44,7 +44,7 @@
     "firebase-tools": "^6.3.0",
     "git-commit-push-via-github-api": "^1.0.1",
     "ncp": "^2.0.0",
-    "prettier": "^1.15.3"
+    "prettier": "^1.16.1"
   },
   "repository": {
     "type": "git",
