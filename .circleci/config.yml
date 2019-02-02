@@ -19,7 +19,7 @@ jobs:
 
       - run:
           name: Github Deploy
-          command: node gatsby-node/updateGit.js
+          command: node ./gatsby-node/updateGit.js
 
   build:
     docker:
