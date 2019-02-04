@@ -25,7 +25,7 @@ if (fs.existsSync(weekFolder)) {
 async function generateMarkdownSync() {
   await generateMarkdown()
   let newOldPosts = fs.readdirSync(weekFolder)
-  console.log("newOldPosts: ", newOldPosts)
+  console.log('newOldPosts: ', newOldPosts)
   let newPosts = newOldPosts.filter(x => {
     return !oldPosts.includes(x)
   })
@@ -34,20 +34,18 @@ async function generateMarkdownSync() {
     return
   }
 
-  console.log("newPosts: ",newPosts)
+  console.log('newPosts: ', newPosts)
 
   gitCommitPush({
-    // commit to https://github.com/azu/commit-to-github-test
     owner: 'dotnetweekly',
     repo: 'dnw-gatsby',
-    // commit files
     files: newPosts.map(newPost => {
       return {
         path: `src/newsletters/${currentYear}/${currentWeek}/${newPost}`,
         content: fs.readFileSync(
           path.join(
             __dirname,
-            `/../src/newsletters/${currentYear}/${currentWeek}/${newPost}`
+            `../src/newsletters/${currentYear}/${currentWeek}/${newPost}`
           ),
           'utf-8'
         ),
@@ -61,7 +59,7 @@ async function generateMarkdownSync() {
       console.log('success', res)
     })
     .catch(err => {
-      console.error(err)
+      console.error('error with commit:', err)
     })
 }
 
