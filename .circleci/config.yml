@@ -21,6 +21,10 @@ jobs:
           name: Github Deploy
           command: node ./gatsby-node/updateGit.js
 
+      - run2:
+          name: Github Deploy2
+          command: node ./gatsby-node/updateGit.js
+
   build:
     docker:
       - image: circleci/node:10.10
