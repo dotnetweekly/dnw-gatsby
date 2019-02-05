@@ -21,7 +21,7 @@ jobs:
           name: Github Deploy
           command: node ./gatsby-node/updateGit.js
 
-      - run2:
+      - run:
           name: Github Deploy2
           command: node ./gatsby-node/updateGit.js
 
