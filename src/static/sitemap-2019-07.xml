@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/events-training/microsoft-to-launch-visual-studio-2019-on-april-2</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/how-to-debug-net-core-lambda-functions-locally-with-the-serverless-framework</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/interview-of-anders-hejlsberg</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/individual-developer-settings-in-aspnet-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/10-points-to-secure-your-aspnet-core-mvc-applications</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/renovate-your-net-solution</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/visual-studio-2019-preview-2-is-now-available</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/handle-atomicpays-webhook-with-microsoft-azure-part-3-3-sending-push-notifications-with-notificatio</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-environment-variables-in-azure-devops-pipelines</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/books/blazor-revealed-building-web-applications-in-net</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/why-i-choose-xamarin-to-build-cross-platform-apps</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/develop-and-build-aspnet-core-applications-to-run-on-kubernetes-with-draft</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/reducing-initial-request-latency-by-pre-building-services-in-a-startup-task-in-aspnet-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/benchmarking-go-vs-node-vs-elixir</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/brainstorming-creating-a-small-single-self-contained-executable-out-of-a-net-core-application</loc> </url>
+</urlset>

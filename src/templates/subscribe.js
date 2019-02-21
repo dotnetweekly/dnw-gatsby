@@ -66,11 +66,11 @@ class Subscribe extends React.Component {
       <section className="subscribe">
         <div>
           <p className="title is-3">
-            Want to receive every Tuesday the best links of the .NET realm?
+            Want to receive every Tuesday the best .NET links?
           </p>
           <p className="subtitle is-5 has-text-grey-light">
-            Once subscribed you can login, submit a link, upvote and receive the
-            weekly newsletter.
+            Once subscribed you can login, submit a link and receive the weekly
+            newsletter.
           </p>
           <div className="field is-grouped">
             {!success && (
@@ -91,6 +91,7 @@ class Subscribe extends React.Component {
                 <p className="subscribe-danger help is-danger">
                   {errorHelper.getError('email', errors)}
                 </p>
+                <p>Join more than 4019 .NET professionals!</p>
               </div>
             )}
             {success && (
@@ -99,21 +100,19 @@ class Subscribe extends React.Component {
                 account.
               </div>
             )}
-            {!success &&
-              !isLoading && (
-                <button
-                  className="button is-medium is-link"
-                  onClick={this.register.bind(this)}
-                >
-                  <strong>Subscribe</strong>
-                </button>
-              )}
-            {!success &&
-              isLoading && (
-                <button className="button is-medium is-link" disabled>
-                  <strong>Subscribe</strong>
-                </button>
-              )}
+            {!success && !isLoading && (
+              <button
+                className="button is-medium is-link"
+                onClick={this.register.bind(this)}
+              >
+                <strong>Subscribe</strong>
+              </button>
+            )}
+            {!success && isLoading && (
+              <button className="button is-medium is-link" disabled>
+                <strong>Subscribe</strong>
+              </button>
+            )}
           </div>
           <div className="is-clearfix width-100 dnw-captcha">
             <ReCAPTCHA

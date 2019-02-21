@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/videos/how-to-use-indexes-in-c-productive-c</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/scaling-web-push-notifications-with-azure-functions</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/comparing-the-top-6-net-continuous-integration-build-servers</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/homebrew</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/server-side-rendering-how-to-serve-authenticated-content</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/scaling-aspnet-core-applications</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/http-3-from-root-to-tip</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/openapi-swagger-connected-service</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/how-to-add-generated-httpclient-to-aspnet-core-dependency-injection</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/do-more-with-patterns-in-c-80</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/aspnet-core-30-app-with-net-core-30-preview-2-release</loc> </url>
+</urlset>
