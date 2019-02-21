@@ -4,141 +4,34 @@
         <title>dotNET Weekly - Week undefined Year undefined</title>
         <link>https://www.dotnetweekly.com/week/undefined/year/undefined?feed=rss</link>
         <description></description>
-        <lastBuildDate>Fri, 15 Feb 2019 05:36:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Feb 2019 05:16:04 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
-        <category>Events-training</category>
         <category>Articles</category>
-        <category>Videos</category>
-        <category>Books</category>
         <item>
-            <title><![CDATA[Microsoft to launch Visual Studio 2019 on April 2]]></title>
-            <link>https://www.dotnetweekly.com/articles/microsoft-to-launch-visual-studio-2019-on-april-2</link>
-            <guid>https://www.dotnetweekly.com/articles/microsoft-to-launch-visual-studio-2019-on-april-2</guid>
-            <pubDate>Thu, 14 Feb 2019 21:29:50 GMT</pubDate>
-            <content:encoded><![CDATA[Microsoft is holding a day-long, virtual launch event for the next major version of its developer platform, Visual Studio 2019, on April 2. Microsoft plans to highlight how the 2019 release can improve developer productivity and take advantage of (what else?) AI features, according to the Visual Studio 2019 launch page.
-]]></content:encoded>
+            <title><![CDATA[ASP.NET Core Memory Cache - Is the GetOrCreate method thread-safe?]]></title>
+            <link>https://www.dotnetweekly.com/articles/aspnet-core-memory-cache-is-the-getorcreate-method-thread-safe</link>
+            <guid>https://www.dotnetweekly.com/articles/aspnet-core-memory-cache-is-the-getorcreate-method-thread-safe</guid>
+            <pubDate>Tue, 19 Feb 2019 11:58:10 GMT</pubDate>
+            <content:encoded><![CDATA[Did you know that the ASP.NET Core MemoryCache is subject to race conditions? And is it really thread-safe? This blog post researches these questions, with help from the creator of LazyCache.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[How to Debug .NET Core Lambda Functions Locally with the Serverless Framework]]></title>
-            <link>https://www.dotnetweekly.com/articles/how-to-debug-net-core-lambda-functions-locally-with-the-serverless-framework</link>
-            <guid>https://www.dotnetweekly.com/articles/how-to-debug-net-core-lambda-functions-locally-with-the-serverless-framework</guid>
-            <pubDate>Thu, 14 Feb 2019 06:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[As most developers would know, debugging is one of those tasks which can make life a whole lot easier when trying to identify that mind boggling issue occurring in code. For some time now the Serverless Framework has had the ability to locally invoke Lambda Functions written in NodeJS, Python, Java and Ruby or run them locally using the serverless-offline plugin (and a number of variants such as the one for Python). To date, this has seemed extremely difficult for .NET Core developers to do. Myself and other developers I know of who write in .NET have resorted to just logging everything to console, building and deploying to AWS to see what is going wrong.
+            <title><![CDATA[Hunting .NET memory leaks with Windbg]]></title>
+            <link>https://www.dotnetweekly.com/articles/hunting-net-memory-leaks-with-windbg</link>
+            <guid>https://www.dotnetweekly.com/articles/hunting-net-memory-leaks-with-windbg</guid>
+            <pubDate>Mon, 18 Feb 2019 22:01:12 GMT</pubDate>
+            <content:encoded><![CDATA[Recently a client called me about an issue where one of their production servers would run out of memory, every other week.
 
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Interview of Anders Hejlsberg]]></title>
-            <link>https://www.dotnetweekly.com/articles/interview-of-anders-hejlsberg</link>
-            <guid>https://www.dotnetweekly.com/articles/interview-of-anders-hejlsberg</guid>
-            <pubDate>Wed, 13 Feb 2019 15:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[Video interview of Anders Hejlsberg]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Individual developer settings in ASP.NET Core]]></title>
-            <link>https://www.dotnetweekly.com/articles/individual-developer-settings-in-aspnet-core</link>
-            <guid>https://www.dotnetweekly.com/articles/individual-developer-settings-in-aspnet-core</guid>
-            <pubDate>Wed, 13 Feb 2019 08:40:38 GMT</pubDate>
-            <content:encoded><![CDATA[This post will show you how to utilize ASP.NET Core to specify individual settings per developer in your team, using appsettings and environment variables.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[10 Points to Secure Your ASP.NET Core MVC Applications]]></title>
-            <link>https://www.dotnetweekly.com/articles/10-points-to-secure-your-aspnet-core-mvc-applications</link>
-            <guid>https://www.dotnetweekly.com/articles/10-points-to-secure-your-aspnet-core-mvc-applications</guid>
-            <pubDate>Wed, 13 Feb 2019 07:17:07 GMT</pubDate>
-            <content:encoded><![CDATA[1. Broken authentication and session management
-2. Sensitive Data Exposure & Audit trail
-3. Cross-Site Scripting (XSS) attacks
-4. Malicious File Upload
-5. Security Misconfiguration (Error Handling Must Setup Custom Error Page)
-6. Version Discloser
-7. Cross-Site Request Forgery (CSRF)
-8. XML External Entities (XXE)
-9. Insecure Deserialization
-10. SQL Injection Attack]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Renovate your .NET solution]]></title>
-            <link>https://www.dotnetweekly.com/articles/renovate-your-net-solution</link>
-            <guid>https://www.dotnetweekly.com/articles/renovate-your-net-solution</guid>
-            <pubDate>Mon, 11 Feb 2019 22:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[In the early days of dotnet core, there was an attempt of changing the C# project file format. The old “csproj” based on XML format was replaced with .xproj/project.json. However, after releasing dotnet core 1.0 the authors decided to get back to XML file. The format stayed the same but the specification went through a major change. With the new schema, a lot of improvements come into .net development and they are not restricted only to dotnet core projects.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Visual Studio 2019 Preview 2 is now available]]></title>
-            <link>https://www.dotnetweekly.com/articles/visual-studio-2019-preview-2-is-now-available</link>
-            <guid>https://www.dotnetweekly.com/articles/visual-studio-2019-preview-2-is-now-available</guid>
-            <pubDate>Mon, 11 Feb 2019 08:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[The second preview of Visual Studio 2019 is now available for download. This release contains a number of improvements and additions to the core experience and different development areas, many of which are a result of your direct feedback. As always, you can check out the release notes for more details or read on for the highlights.
+The application in question was a .NET Framework 4.5 Windows service, that runs in an Azure VM, and ever so often it would become unstable and start causing trouble.
 
-]]></content:encoded>
+I have previously helped this client set up an ELK stack, so it was quick for me to go into Kibana, look at metricbeat data, and see that their server indeed slowly was eating up memory over time. And every time the application was restarted, the memory would return to normal, and slowly creep upwards again.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Handle AtomicPay’s webhook with Microsoft Azure (Part 3/3) – sending push notifications with Notification Hub]]></title>
-            <link>https://www.dotnetweekly.com/articles/handle-atomicpays-webhook-with-microsoft-azure-part-3-3-sending-push-notifications-with-notificatio</link>
-            <guid>https://www.dotnetweekly.com/articles/handle-atomicpays-webhook-with-microsoft-azure-part-3-3-sending-push-notifications-with-notificatio</guid>
-            <pubDate>Mon, 11 Feb 2019 08:20:38 GMT</pubDate>
-            <content:encoded><![CDATA[In this third and last post of the series on handling AtomicPay's webhook, I will show you how to prepare your Azure Function to send push notifications (using Android as an exemplary receiver).
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Using Environment Variables in Azure DevOps Pipelines]]></title>
-            <link>https://www.dotnetweekly.com/articles/using-environment-variables-in-azure-devops-pipelines</link>
-            <guid>https://www.dotnetweekly.com/articles/using-environment-variables-in-azure-devops-pipelines</guid>
-            <pubDate>Mon, 11 Feb 2019 08:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[Of course the dependency might not be so explicit. You could have a test that calls into code, that calls some other code, and the other code needs an environment variable. Or, maybe you have a script or tool that needs an environment variable. The question is - how do you setup environment variables in a DevOps pipeline?
-
-The answer is easy - when a pipeline executes, Azure will place all pipeline variables into environment variables, so any tools, scripts, tasks, or processes you run as part of the build can access parameters through the environment]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Blazor Revealed: Building Web Applications in .NET]]></title>
-            <link>https://www.dotnetweekly.com/articles/blazor-revealed-building-web-applications-in-net</link>
-            <guid>https://www.dotnetweekly.com/articles/blazor-revealed-building-web-applications-in-net</guid>
-            <pubDate>Mon, 11 Feb 2019 08:18:04 GMT</pubDate>
-            <content:encoded><![CDATA[Build web applications in Microsoft .NET that run in any modern browser, helping you to transfer your .NET experience and skills to a new environment and build browser-based applications using a robust and type-safe language and runtime. Developing a web site with rich client-side behavior means most developers need to learn a transpiled language like JavaScript or TypeScript. But today you can also develop rich browser applications using the .NET runtime and C# using Blazor. With Blazor you can use all that experience you have amassed over the years, and can use thousands of already existing libraries, right in the browser.
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Why I Choose Xamarin to Build Cross-Platform Apps]]></title>
-            <link>https://www.dotnetweekly.com/articles/why-i-choose-xamarin-to-build-cross-platform-apps</link>
-            <guid>https://www.dotnetweekly.com/articles/why-i-choose-xamarin-to-build-cross-platform-apps</guid>
-            <pubDate>Mon, 11 Feb 2019 08:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[It has been a little over 7 years since I left my day job at Canon crafting wonderful printer workflow management software, to dive into the world of mobile development. At the time it was an extremely tough decision because I had been only working on desktop Windows Forms and WPF applications, and this change meant entering a whole new unknown world of platforms that I didn't know much about. This move was not only changing my main day job, but also the city that I lived in with a fresh start in Seattle. At the time I didn't know what I was in for since the change in my career and living situation was so drastic. I was so lucky to have had the option to explore cross-platform technologies which is what led me to find Xamarin. Finding this single piece of technology completely shifted and revolutionized my entire life as a developer. I thought what time is better than now to reflect back on my love for this technology that put me where I am today.
-
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Develop and build ASP.NET Core applications to run on Kubernetes with Draft]]></title>
-            <link>https://www.dotnetweekly.com/articles/develop-and-build-aspnet-core-applications-to-run-on-kubernetes-with-draft</link>
-            <guid>https://www.dotnetweekly.com/articles/develop-and-build-aspnet-core-applications-to-run-on-kubernetes-with-draft</guid>
-            <pubDate>Mon, 11 Feb 2019 08:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[You start developing an ASP.NET Core application to run it in Kubernetes and suddenly you find yourself creating a docker file, building an image, pushing the image to a registry, creating both a deployment and a service definition for Kubernetes and you wonder if there is a tool out there to help you streamline the whole process.
-
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Reducing initial request latency by pre-building services in a startup task in ASP.NET Core]]></title>
-            <link>https://www.dotnetweekly.com/articles/reducing-initial-request-latency-by-pre-building-services-in-a-startup-task-in-aspnet-core</link>
-            <guid>https://www.dotnetweekly.com/articles/reducing-initial-request-latency-by-pre-building-services-in-a-startup-task-in-aspnet-core</guid>
-            <pubDate>Mon, 11 Feb 2019 08:14:41 GMT</pubDate>
-            <content:encoded><![CDATA[This post follows on somewhat from my recent posts on running async startup tasks in ASP.NET Core. Rather than discuss a general approach to running startup tasks, this post discusses an example of a startup task that was suggested by Ruben Bartelink. It describes an interesting way to try to reduce the latencies seen by apps when they've just started, by pre-building all the singletons registered with the DI container.
-
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Benchmarking Go vs Node vs Elixir]]></title>
-            <link>https://www.dotnetweekly.com/articles/benchmarking-go-vs-node-vs-elixir</link>
-            <guid>https://www.dotnetweekly.com/articles/benchmarking-go-vs-node-vs-elixir</guid>
-            <pubDate>Mon, 11 Feb 2019 08:12:19 GMT</pubDate>
-            <content:encoded><![CDATA[In this benchmark test, we compare three web application servers—Go, Node, and Elixir (Cowboy)—by subjecting each to a synthetic workload, first with 10k, and later with 100k connections.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Brainstorming - Creating a small single self-contained executable out of a .NET Core application]]></title>
-            <link>https://www.dotnetweekly.com/articles/brainstorming-creating-a-small-single-self-contained-executable-out-of-a-net-core-application</link>
-            <guid>https://www.dotnetweekly.com/articles/brainstorming-creating-a-small-single-self-contained-executable-out-of-a-net-core-application</guid>
-            <pubDate>Mon, 11 Feb 2019 08:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[I've been using ILMerge and various hacks to merge/squish executables together for well over 12 years. The .NET community has long toyed with the idea of a single self-contained EXE that would "just work." No need to copy a folder, no need to install anything. Just a single EXE.
+            <title><![CDATA[ASP.NET Core Developer Roadmap 2019]]></title>
+            <link>https://www.dotnetweekly.com/articles/aspnet-core-developer-roadmap-2019</link>
+            <guid>https://www.dotnetweekly.com/articles/aspnet-core-developer-roadmap-2019</guid>
+            <pubDate>Mon, 18 Feb 2019 21:57:45 GMT</pubDate>
+            <content:encoded><![CDATA[Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become an ASP.NET Core developer. I made this chart as a tip for everyone who asks me, "What should I learn next as an ASP.NET Core developer?"
 
 ]]></content:encoded>
         </item>
