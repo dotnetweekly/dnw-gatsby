@@ -1,13 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>dotNET Weekly - Week undefined Year undefined</title>
-        <link>https://www.dotnetweekly.com/week/undefined/year/undefined?feed=rss</link>
+        <title>dotNET Weekly - Week 8 Year 2019</title>
+        <link>https://www.dotnetweekly.com/week/8/year/2019?feed=rss</link>
         <description></description>
-        <lastBuildDate>Thu, 21 Feb 2019 05:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Feb 2019 20:10:57 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <category>Articles</category>
+        <item>
+            <title><![CDATA[Comparing the Network Performance of AWS, Azure and GCP]]></title>
+            <link>https://www.dotnetweekly.com/articles/comparing-the-network-performance-of-aws-azure-and-gcp</link>
+            <guid>https://www.dotnetweekly.com/articles/comparing-the-network-performance-of-aws-azure-and-gcp</guid>
+            <pubDate>Thu, 21 Feb 2019 20:08:23 GMT</pubDate>
+            <content:encoded><![CDATA[Comparing the Network Performance of AWS, Azure and GCP]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[You probably don’t need a single-page application]]></title>
+            <link>https://www.dotnetweekly.com/articles/you-probably-dont-need-a-single-page-application</link>
+            <guid>https://www.dotnetweekly.com/articles/you-probably-dont-need-a-single-page-application</guid>
+            <pubDate>Thu, 21 Feb 2019 20:05:54 GMT</pubDate>
+            <content:encoded><![CDATA[The meteoric rise of front-end frameworks like React, Angular, Vue.js, Elm, etc. has made single-page applications ubiquitous on the web. For many developers, these have become part of their ‘default’ toolset. When they start a new project, they grab the tools they know already: a REST API on the backend, and a React/Angular/Vue/Elm frontend.
+
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[When to use C# LINQ with Query Syntax over Method Syntax]]></title>
+            <link>https://www.dotnetweekly.com/articles/when-to-use-c-linq-with-query-syntax-over-method-syntax</link>
+            <guid>https://www.dotnetweekly.com/articles/when-to-use-c-linq-with-query-syntax-over-method-syntax</guid>
+            <pubDate>Thu, 21 Feb 2019 20:04:51 GMT</pubDate>
+            <content:encoded><![CDATA[LINQ is awesome, right? It’s one of those things everyone loves from first sight. Like smartphones in the early days – you just know it’s right.
+
+For this post, I’ll assume you already know LINQ, use it and love it.
+
+LINQ comes in two flavors – the Query Syntax and Method Syntax (aka Fluent Syntax).]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Multithreading made easy – Parallel ForEach]]></title>
+            <link>https://www.dotnetweekly.com/articles/multithreading-made-easy-parallel-foreach</link>
+            <guid>https://www.dotnetweekly.com/articles/multithreading-made-easy-parallel-foreach</guid>
+            <pubDate>Thu, 21 Feb 2019 20:04:19 GMT</pubDate>
+            <content:encoded><![CDATA[This week, I was presented with an interesting problem. I had a WPF application which allowed users to scan documents from a commercial scanner into a list of System.Drawing.Image objects, then the images would be searched for barcodes using the great ZXing.Net library.
+
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[6 types of code you shouldn't have inside your .NET controllers]]></title>
+            <link>https://www.dotnetweekly.com/articles/6-types-of-code-you-shouldnt-have-inside-your-net-controllers</link>
+            <guid>https://www.dotnetweekly.com/articles/6-types-of-code-you-shouldnt-have-inside-your-net-controllers</guid>
+            <pubDate>Thu, 21 Feb 2019 20:04:00 GMT</pubDate>
+            <content:encoded><![CDATA[“Your .NET controllers should be thin”
+
+The ever-repeated platitude with 3 metric tons of baggage to unpack.
+
+Why should they be thin? How does that benefit you? What steps can I take to get them thin if they aren’t already? How do I keep them that way?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Push Notifications and ASP.NET Core - Part 5 (Special Cases) ]]></title>
+            <link>https://www.dotnetweekly.com/articles/push-notifications-and-aspnet-core-part-5-special-cases</link>
+            <guid>https://www.dotnetweekly.com/articles/push-notifications-and-aspnet-core-part-5-special-cases</guid>
+            <pubDate>Thu, 21 Feb 2019 11:20:01 GMT</pubDate>
+            <content:encoded><![CDATA[This post is part of Push Notifications and ASP.NET Core series. In this post we take a look at some special cases which should be handled for correct usage of push notifications.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Visualizing stack and heap with https://sharplab.io]]></title>
+            <link>https://www.dotnetweekly.com/articles/visualizing-stack-and-heap-with-https-sharplabio</link>
+            <guid>https://www.dotnetweekly.com/articles/visualizing-stack-and-heap-with-https-sharplabio</guid>
+            <pubDate>Thu, 21 Feb 2019 07:41:23 GMT</pubDate>
+            <content:encoded><![CDATA[There are many tools that will let you view IL for C# code. But sharplab.io is a website which will just do the same thing in the browser. SharpLab will let you view IL, Decompiled c# and much more.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Debugging System.OutOfMemoryException using .NET tools]]></title>
+            <link>https://www.dotnetweekly.com/articles/debugging-systemoutofmemoryexception-using-net-tools</link>
+            <guid>https://www.dotnetweekly.com/articles/debugging-systemoutofmemoryexception-using-net-tools</guid>
+            <pubDate>Wed, 20 Feb 2019 07:02:18 GMT</pubDate>
+            <content:encoded><![CDATA[The complete guide to debugging System.OutOfMemoryException. In this post, I will show you how to use Perfmon and a profiler to track down slow methods.]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[ASP.NET Core Memory Cache - Is the GetOrCreate method thread-safe?]]></title>
             <link>https://www.dotnetweekly.com/articles/aspnet-core-memory-cache-is-the-getorcreate-method-thread-safe</link>
