@@ -75,10 +75,16 @@ class App extends React.Component {
   }
 
   render() {
-    const { week, year } = this.props.pageContext
-    if (!this.props.pageContext.links.data.allMarkdownRemark) {
-      this.props.pageContext.links.data.allMarkdownRemark = { edges: [] }
+    const { week, year, links } = this.props.pageContext
+    if (!links || !links.data) {
+      links.data = {}
     }
+
+    if (!links || !links.data || !links.data.allMarkdownRemark) {
+      links.data.allMarkdownRemark = { edges: [] }
+    }
+
+    //console.log(this.props.pageContext)
     const {
       links: {
         data: {
@@ -87,6 +93,7 @@ class App extends React.Component {
       },
     } = this.props.pageContext
 
+    //console.log(edges)
     return (
       <div className="app">
         <Layout>{this.renderLinks(week, year, edges)}</Layout>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/introducing-gate-classes</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/best-practices-for-using-powershell-with-teamcity</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/master-c-8-new-features-join-the-free-webinar</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/the-productive-c-podcast-is-now-available-on-apple-podcast</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/accepting-payments-with-stripe-and-aspnet-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/best-20-net-core-libraries-every-developer-should-know</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/remaining-relevant-as-a-net-developer</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/production-ready-code-is-much-more-than-error-handling</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/the-unreasonable-effectiveness-of-sql</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/view-clipboard-ring-history-in-visual-studio-2019</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/announcing-mlnet-10-rc-machine-learning-for-net</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/best-practices-for-using-powershell-with-teamcity</loc> </url>
+</urlset>

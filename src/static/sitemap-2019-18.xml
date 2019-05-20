@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/implementing-indexers-in-c</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/announcing-the-net-framework-48</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/performance-showdown-of-producer-consumer-job-queues-implementations-in-c-net</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/the-history-of-aspnet-part-ii-covers-aspnet-mvc</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-net-and-docker-together-dockercon-2019-update</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/pattern-matching-in-c-80</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/getting-hands-on-with-visual-studio-for-mac-containers-and-serverless-code-in-the-cloud</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/webconfig-customerrors-element-with-aspnet-explained</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/lessons-learnt-migrating-a-large-solution-to-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/use-chocolatey-to-automate-application-installations-on-a-windows-development-machine</loc> </url>
+</urlset>

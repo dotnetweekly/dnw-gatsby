@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/adding-entity-framework-core-dependencies-for-net-core-30-previews</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/books/learn-azure-in-a-month-of-lunches</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/want-to-yank-configuration-values-from-your-net-core-apps-heres-how-to-store-and-access-them-in-azu</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/how-to-port-desktop-applications-to-net-core-30</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/visual-studio-2019-release-notes</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/what-is-service-fabric-mesh</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/logging-and-monitoring-cost-of-cosmosdb-queries-by-using-application-insights</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/frontend-bootcamp-days-in-the-web</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/aspnet-core-localization-one-resx-to-rule-them-all</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/i-created-the-same-app-with-vuex-and-redux-here-are-the-differences</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/typescript-and-react-bff</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/getting-started-with-azure-cosmos-db-and-net-core-part-2-string-querying-and-ranged-indexes</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/net-core-for-the-desktop</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/serilog-vs-nlog</loc> </url>
+</urlset>

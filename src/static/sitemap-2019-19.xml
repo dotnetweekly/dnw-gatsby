@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/new-features-in-visual-studio-2019</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/debugging-systemunauthorizedaccessexception-often-followed-by-access-to-the-path-is-denied</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/immutability-in-c</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-jetbrains-rider-to-develop-aspnet-core-applications-on-docker</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/making-ai-real-for-every-developer-and-every-organization</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/real-time-flight-map-w-azure-functions-cosmosdb-and-signalr</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/the-mediator-pattern-in-net-core-part-1-whats-a-mediator</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/value-types-and-reference-types-in-c</loc> </url>
+</urlset>

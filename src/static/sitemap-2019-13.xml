@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/mocking-with-nsubstitute</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/the-fastest-way-to-sexy-code-using-visual-studio</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/introducing-adonisui-a-lightweight-ui-toolkit-for-wpf-applications</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/ucalc-search-transform</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/c-async-tips-and-tricks</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/comparing-aspnet-core-ioc-container-service-lifetimes-with-autofac-ioc-container-instance-scopes</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/what-is-blazor-and-what-is-razor-components</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/five-ways-you-can-infuse-ai-into-your-applications</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/achieve-more-with-microsoft-game-stack</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/cqrs-without-multiple-data-sources</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/scaling-out-aspnet-core-signalr-using-azure-service-bus</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/visual-studio-2019-launch-event-agenda-and-speakers-now-published</loc> </url>
+</urlset>

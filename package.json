@@ -5,29 +5,29 @@
   "author": "Bill Stavroulakis <bstavroulakis@gmail.com>",
   "dependencies": {
     "axios": "^0.18.0",
-    "bulma": "^0.7.2",
+    "bulma": "^0.7.4",
     "fs-extra": "^7.0.1",
-    "gatsby": "^2.0.111",
-    "gatsby-cli": "^2.4.8",
-    "gatsby-image": "^2.0.29",
-    "gatsby-plugin-google-analytics": "^2.0.13",
-    "gatsby-plugin-manifest": "^2.0.17",
-    "gatsby-plugin-offline": "^2.0.22",
-    "gatsby-plugin-react-helmet": "^3.0.6",
-    "gatsby-plugin-sass": "^2.0.10",
-    "gatsby-plugin-sharp": "^2.0.20",
-    "gatsby-source-filesystem": "^2.0.20",
+    "gatsby": "^2.5.5",
+    "gatsby-cli": "^2.5.15",
+    "gatsby-image": "^2.0.37",
+    "gatsby-plugin-google-analytics": "^2.0.18",
+    "gatsby-plugin-manifest": "^2.0.26",
+    "gatsby-plugin-offline": "^2.0.25",
+    "gatsby-plugin-react-helmet": "^3.0.12",
+    "gatsby-plugin-sass": "^2.0.11",
+    "gatsby-plugin-sharp": "^2.0.32",
+    "gatsby-source-filesystem": "^2.0.28",
     "gatsby-source-rss": "^1.0.0",
-    "gatsby-transformer-remark": "^2.2.3",
-    "gatsby-transformer-sharp": "^2.1.13",
+    "gatsby-transformer-remark": "^2.3.8",
+    "gatsby-transformer-sharp": "^2.1.17",
     "node-sass": "^4.11.0",
     "npm-check-updates": "^2.15.0",
-    "react": "^16.7.0",
-    "react-dom": "^16.7.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
     "react-google-recaptcha": "^1.0.5",
     "react-helmet": "^5.2.0",
-    "react-transition-group": "^2.5.3",
-    "weekly-calendar-helper": "0.0.6"
+    "react-transition-group": "^2.8.0",
+    "weekly-calendar-helper": "0.0.7"
   },
   "keywords": [
     "gatsby"
@@ -41,10 +41,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "firebase-tools": "^6.3.1",
-    "git-commit-push-via-github-api": "^1.0.1",
+    "firebase-tools": "^6.10.0",
+    "git-commit-push-via-github-api": "^1.0.2",
     "ncp": "^2.0.0",
-    "prettier": "^1.16.3"
+    "prettier": "^1.16.4"
   },
   "repository": {
     "type": "git",

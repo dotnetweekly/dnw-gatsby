@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/running-webassembly-and-wasi-with-net</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/containerized-activities-in-durable-workflows-part-1</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-azure-service-bus-topics-in-aspnet-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/aspnet-core-security-part-1</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/create-progressive-web-apps-with-net-using-blazor</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/aspnet-core-30-configuration-factsheet</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/introducing-net-for-apache-spark-preview</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/python-in-visual-studio-code-april-2019-release</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/c-net-core-wrapper-for-wkhtmltopdf-library-that-uses-webkit-engine-to-convert-html-pages-to-pdf</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/rich-harris-rethinking-reactivity</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/azure-devops-hands-on-labs</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/announcing-net-core-3-preview-4</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/ai-for-good-developer-challenge</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/introduction-to-sql-server-security-part-5</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/the-new-ecmascript-module-support-in-nodejs-12</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-azure-service-bus-queues-with-aspnet-core-services</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-aws-parameter-store-for-net-core-configuration</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/whats-new-for-xamarin-developers-in-visual-studio-2019</loc> </url>
+</urlset>

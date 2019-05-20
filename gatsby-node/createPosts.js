@@ -46,6 +46,7 @@ exports.createPosts = function(createPage, graphql) {
                 : `/${blogPosts[index + 1].node.frontmatter.category}/${
                     blogPosts[index + 1].node.frontmatter.slug
                   }`
+
             createPage({
               path: `/${edge.node.frontmatter.category}/${
                 edge.node.frontmatter.slug

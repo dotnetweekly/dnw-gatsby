@@ -4,7 +4,7 @@ const weeklyCalendarHelper = require('weekly-calendar-helper')
 exports.createCategories = async function(createPage, graphql) {
   return new Promise(async (resolve, reject) => {
     try {
-      generateCategories(createPage, graphql)
+      await generateCategories(createPage, graphql)
       resolve()
     } catch (err) {
       console.log(err)
@@ -31,17 +31,17 @@ function createPages(week, year, graphql, createPage) {
   const dateArr = weeklyCalendarHelper.baseHelper
     .getDates(dateRange.from, dateRange.to)
     .map(fullDate => {
-      return `(${fullDate.getFullYear()}-${getNumStr(
+      return `${fullDate.getFullYear()}-${getNumStr(
         fullDate.getMonth() + 1
-      )}-${getNumStr(fullDate.getDate())})`
+      )}-${getNumStr(fullDate.getDate())}`
     })
-  // console.log(dateArr)
+  console.log(dateArr)
   graphql(`
   {
     allMarkdownRemark(
-      filter: { frontmatter: { createdOn: { regex: "/(?!$)${dateArr.join(
-        '|'
-      )}/" } } }
+      filter: { frontmatter: { createdOn: { gte: "${
+        dateArr[0]
+      }T00:00:00", lte: "${dateArr[dateArr.length - 1]}T23:59:59" } } }
     ) {
       edges {
         node {
@@ -64,6 +64,7 @@ function createPages(week, year, graphql, createPage) {
     }
   }
 `).then(result => {
+    console.log(result)
     const categoryPath = `/week/${week}/year/${year}`
     if (week == currentWeek && year == currentYear) {
       createPage({

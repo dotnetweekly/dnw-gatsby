@@ -1,107 +1,151 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>dotNET Weekly - Week 8 Year 2019</title>
-        <link>https://www.dotnetweekly.com/week/8/year/2019?feed=rss</link>
+        <title>dotNET Weekly - Week 20 Year 2019</title>
+        <link>https://www.dotnetweekly.com/week/20/year/2019?feed=rss</link>
         <description></description>
-        <lastBuildDate>Sun, 24 Feb 2019 20:10:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 May 2019 04:50:44 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <category>Articles</category>
+        <category>Events-training</category>
         <item>
-            <title><![CDATA[Comparing the Network Performance of AWS, Azure and GCP]]></title>
-            <link>https://www.dotnetweekly.com/articles/comparing-the-network-performance-of-aws-azure-and-gcp</link>
-            <guid>https://www.dotnetweekly.com/articles/comparing-the-network-performance-of-aws-azure-and-gcp</guid>
-            <pubDate>Thu, 21 Feb 2019 20:08:23 GMT</pubDate>
-            <content:encoded><![CDATA[Comparing the Network Performance of AWS, Azure and GCP]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[You probably don’t need a single-page application]]></title>
-            <link>https://www.dotnetweekly.com/articles/you-probably-dont-need-a-single-page-application</link>
-            <guid>https://www.dotnetweekly.com/articles/you-probably-dont-need-a-single-page-application</guid>
-            <pubDate>Thu, 21 Feb 2019 20:05:54 GMT</pubDate>
-            <content:encoded><![CDATA[The meteoric rise of front-end frameworks like React, Angular, Vue.js, Elm, etc. has made single-page applications ubiquitous on the web. For many developers, these have become part of their ‘default’ toolset. When they start a new project, they grab the tools they know already: a REST API on the backend, and a React/Angular/Vue/Elm frontend.
+            <title><![CDATA[Multi-Tenant Apps]]></title>
+            <link>https://www.dotnetweekly.com/articles/multi-tenant-apps</link>
+            <guid>https://www.dotnetweekly.com/articles/multi-tenant-apps</guid>
+            <pubDate>Thu, 16 May 2019 17:23:48 GMT</pubDate>
+            <content:encoded><![CDATA[When building a application that simply serves a bunch of users, you can make a lot of assumptions. You might assume that they can share a certain amount of data, interact in certain ways, and use certain features of the application. However, if your clients are businesses or other organizations, you’ll quickly find that those organizations want to have their own little areas in your application and only want their users to interact with each other. Further, they are going to want assurances that their sensitive data is not going to be shared. It gets even more fun if any part of the system is exposed to your client’s clients.
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[When to use C# LINQ with Query Syntax over Method Syntax]]></title>
-            <link>https://www.dotnetweekly.com/articles/when-to-use-c-linq-with-query-syntax-over-method-syntax</link>
-            <guid>https://www.dotnetweekly.com/articles/when-to-use-c-linq-with-query-syntax-over-method-syntax</guid>
-            <pubDate>Thu, 21 Feb 2019 20:04:51 GMT</pubDate>
-            <content:encoded><![CDATA[LINQ is awesome, right? It’s one of those things everyone loves from first sight. Like smartphones in the early days – you just know it’s right.
-
-For this post, I’ll assume you already know LINQ, use it and love it.
-
-LINQ comes in two flavors – the Query Syntax and Method Syntax (aka Fluent Syntax).]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Multithreading made easy – Parallel ForEach]]></title>
-            <link>https://www.dotnetweekly.com/articles/multithreading-made-easy-parallel-foreach</link>
-            <guid>https://www.dotnetweekly.com/articles/multithreading-made-easy-parallel-foreach</guid>
-            <pubDate>Thu, 21 Feb 2019 20:04:19 GMT</pubDate>
-            <content:encoded><![CDATA[This week, I was presented with an interesting problem. I had a WPF application which allowed users to scan documents from a commercial scanner into a list of System.Drawing.Image objects, then the images would be searched for barcodes using the great ZXing.Net library.
+            <title><![CDATA[How To Notify Clients of Cosmos DB Changes with Azure SignalR and Azure Functions]]></title>
+            <link>https://www.dotnetweekly.com/articles/how-to-notify-clients-of-cosmos-db-changes-with-azure-signalr-and-azure-functions</link>
+            <guid>https://www.dotnetweekly.com/articles/how-to-notify-clients-of-cosmos-db-changes-with-azure-signalr-and-azure-functions</guid>
+            <pubDate>Thu, 16 May 2019 17:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[The Cosmos DB Azure Functions trigger can be used in conjunction with the Azure SignalR Service to create real-time notifications of changes made to data in Cosmos DB, all in a serverless way.
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[6 types of code you shouldn't have inside your .NET controllers]]></title>
-            <link>https://www.dotnetweekly.com/articles/6-types-of-code-you-shouldnt-have-inside-your-net-controllers</link>
-            <guid>https://www.dotnetweekly.com/articles/6-types-of-code-you-shouldnt-have-inside-your-net-controllers</guid>
-            <pubDate>Thu, 21 Feb 2019 20:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[“Your .NET controllers should be thin”
-
-The ever-repeated platitude with 3 metric tons of baggage to unpack.
-
-Why should they be thin? How does that benefit you? What steps can I take to get them thin if they aren’t already? How do I keep them that way?]]></content:encoded>
+            <title><![CDATA[Create Interactive .NET Documentation with Try .NET]]></title>
+            <link>https://www.dotnetweekly.com/articles/create-interactive-net-documentation-with-try-net</link>
+            <guid>https://www.dotnetweekly.com/articles/create-interactive-net-documentation-with-try-net</guid>
+            <pubDate>Thu, 16 May 2019 17:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[When it comes to developers’ documentation, it is essential that we capture their interest and lead them down the path of success as soon as possible. Across multiple languages, developer ecosystems have been providing their communities with interactive documentation where users can read the docs, run code and, edit it all in one place.
+For the past two years, the language team has been evolving Try.NET to support interactive documentation both online and offline.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Push Notifications and ASP.NET Core - Part 5 (Special Cases) ]]></title>
-            <link>https://www.dotnetweekly.com/articles/push-notifications-and-aspnet-core-part-5-special-cases</link>
-            <guid>https://www.dotnetweekly.com/articles/push-notifications-and-aspnet-core-part-5-special-cases</guid>
-            <pubDate>Thu, 21 Feb 2019 11:20:01 GMT</pubDate>
-            <content:encoded><![CDATA[This post is part of Push Notifications and ASP.NET Core series. In this post we take a look at some special cases which should be handled for correct usage of push notifications.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Visualizing stack and heap with https://sharplab.io]]></title>
-            <link>https://www.dotnetweekly.com/articles/visualizing-stack-and-heap-with-https-sharplabio</link>
-            <guid>https://www.dotnetweekly.com/articles/visualizing-stack-and-heap-with-https-sharplabio</guid>
-            <pubDate>Thu, 21 Feb 2019 07:41:23 GMT</pubDate>
-            <content:encoded><![CDATA[There are many tools that will let you view IL for C# code. But sharplab.io is a website which will just do the same thing in the browser. SharpLab will let you view IL, Decompiled c# and much more.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Debugging System.OutOfMemoryException using .NET tools]]></title>
-            <link>https://www.dotnetweekly.com/articles/debugging-systemoutofmemoryexception-using-net-tools</link>
-            <guid>https://www.dotnetweekly.com/articles/debugging-systemoutofmemoryexception-using-net-tools</guid>
-            <pubDate>Wed, 20 Feb 2019 07:02:18 GMT</pubDate>
-            <content:encoded><![CDATA[The complete guide to debugging System.OutOfMemoryException. In this post, I will show you how to use Perfmon and a profiler to track down slow methods.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ASP.NET Core Memory Cache - Is the GetOrCreate method thread-safe?]]></title>
-            <link>https://www.dotnetweekly.com/articles/aspnet-core-memory-cache-is-the-getorcreate-method-thread-safe</link>
-            <guid>https://www.dotnetweekly.com/articles/aspnet-core-memory-cache-is-the-getorcreate-method-thread-safe</guid>
-            <pubDate>Tue, 19 Feb 2019 11:58:10 GMT</pubDate>
-            <content:encoded><![CDATA[Did you know that the ASP.NET Core MemoryCache is subject to race conditions? And is it really thread-safe? This blog post researches these questions, with help from the creator of LazyCache.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hunting .NET memory leaks with Windbg]]></title>
-            <link>https://www.dotnetweekly.com/articles/hunting-net-memory-leaks-with-windbg</link>
-            <guid>https://www.dotnetweekly.com/articles/hunting-net-memory-leaks-with-windbg</guid>
-            <pubDate>Mon, 18 Feb 2019 22:01:12 GMT</pubDate>
-            <content:encoded><![CDATA[Recently a client called me about an issue where one of their production servers would run out of memory, every other week.
-
-The application in question was a .NET Framework 4.5 Windows service, that runs in an Azure VM, and ever so often it would become unstable and start causing trouble.
-
-I have previously helped this client set up an ELK stack, so it was quick for me to go into Kibana, look at metricbeat data, and see that their server indeed slowly was eating up memory over time. And every time the application was restarted, the memory would return to normal, and slowly creep upwards again.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ASP.NET Core Developer Roadmap 2019]]></title>
-            <link>https://www.dotnetweekly.com/articles/aspnet-core-developer-roadmap-2019</link>
-            <guid>https://www.dotnetweekly.com/articles/aspnet-core-developer-roadmap-2019</guid>
-            <pubDate>Mon, 18 Feb 2019 21:57:45 GMT</pubDate>
-            <content:encoded><![CDATA[Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become an ASP.NET Core developer. I made this chart as a tip for everyone who asks me, "What should I learn next as an ASP.NET Core developer?"
+            <title><![CDATA[Updating Microsoft Account Logins in ASP.NET Core with OpenID Connect and Azure Active Directory]]></title>
+            <link>https://www.dotnetweekly.com/articles/updating-microsoft-account-logins-in-aspnet-core-with-openid-connect-and-azure-active-directory</link>
+            <guid>https://www.dotnetweekly.com/articles/updating-microsoft-account-logins-in-aspnet-core-with-openid-connect-and-azure-active-directory</guid>
+            <pubDate>Thu, 16 May 2019 17:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[This article shows how to implement an Azure Active Directory login for an ASP.NET Core application. The Microsoft identity platform (v2.0) is now Open ID Connect certified and the Microsoft Account logins can now be replaced with this. By using OpenID Connect instead of Microsoft Accounts, it is easy to force a login, or a consent screen as well as following a standard. A full signout can also be supported if required. The AddOpenIdConnect OIDC extension method should now be used instead of the AddMicrosoftAccount method. This replaces the existing post: Adding an external Microsoft login to IdentityServer4. It is still possible to use the https://apps.dev.microsoft.com if only Microsoft accounts are required.
 
 ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[8 golden rules of mobile design]]></title>
+            <link>https://www.dotnetweekly.com/articles/8-golden-rules-of-mobile-design</link>
+            <guid>https://www.dotnetweekly.com/articles/8-golden-rules-of-mobile-design</guid>
+            <pubDate>Thu, 16 May 2019 17:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[Learn the key mobile design principles that should guide the way you design sites in 2019.
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Introducing .NET 5]]></title>
+            <link>https://www.dotnetweekly.com/articles/introducing-net-5</link>
+            <guid>https://www.dotnetweekly.com/articles/introducing-net-5</guid>
+            <pubDate>Thu, 16 May 2019 17:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[Today, we’re announcing that the next release after .NET Core 3.0 will be .NET 5. This will be the next big release in the .NET family.
+
+There will be just one .NET going forward, and you will be able to use it to target Windows, Linux, macOS, iOS, Android, tvOS, watchOS and WebAssembly and more.
+
+We will introduce new .NET APIs, runtime capabilities and language features as part of .NET 5.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Roundup #43: .NET 5, gRPC, .NET Core 3 Perf, App Service Dashboard, Interface Default Implementation]]></title>
+            <link>https://www.dotnetweekly.com/articles/roundup-43-net-5-grpc-net-core-3-perf-app-service-dashboard-interface-default-implementation</link>
+            <guid>https://www.dotnetweekly.com/articles/roundup-43-net-5-grpc-net-core-3-perf-app-service-dashboard-interface-default-implementation</guid>
+            <pubDate>Thu, 16 May 2019 17:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[I was away while Microsoft BUILD happened last week. After catching up, here are the things that caught my eye this week in .NET.  I’d love to hear what you found most interesting this week.  Let me know in the comments or on Twitter.
+
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Announcing the Insider Dev Tour 2019!]]></title>
+            <link>https://www.dotnetweekly.com/articles/announcing-the-insider-dev-tour-2019</link>
+            <guid>https://www.dotnetweekly.com/articles/announcing-the-insider-dev-tour-2019</guid>
+            <pubDate>Thu, 16 May 2019 17:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[Agenda varies by location, but you can expect to find developer demo-focused practical sessions with topics such as:
+
+Introduction to Microsoft Graph Services
+Web Development with NodeJS and Microsoft Developer Tools
+Embedded and IoT Solutions with Microsoft Windows IoT Core
+Command Line / Terminal and Windows Subsystem for Linux
+Coding your Future with the Windows Insider Program
+Desktop Apps with the Microsoft Graph
+UWP User Interfaces with the latest APIS and OSS libraries
+Developing with the New Edge Browser
+Desktop Apps with .NET Core
+AI Platform / Machine Learning on Windows
+Progressive Web Apps with the New Edge
+NET Core 3.0
+Build apps for Microsoft Teams with Microsoft Graph and Web Technology]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Cache Implementations in C# .NET]]></title>
+            <link>https://www.dotnetweekly.com/articles/cache-implementations-in-c-net</link>
+            <guid>https://www.dotnetweekly.com/articles/cache-implementations-in-c-net</guid>
+            <pubDate>Thu, 16 May 2019 17:08:44 GMT</pubDate>
+            <content:encoded><![CDATA[One of the most commonly used patterns in software development is Caching. It’s a simple, but a very effective concept. The idea is to reuse operation results. When performing a heavy operation, we will save the result in our cache container. The next time that we need that result, we will pull it from the cache container, instead of performing the heavy operation again.
+
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The Ultimate Guide to the Best .NET Core E-commerce Open Source Platforms]]></title>
+            <link>https://www.dotnetweekly.com/articles/the-ultimate-guide-to-the-best-net-core-e-commerce-open-source-platforms</link>
+            <guid>https://www.dotnetweekly.com/articles/the-ultimate-guide-to-the-best-net-core-e-commerce-open-source-platforms</guid>
+            <pubDate>Thu, 16 May 2019 17:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[One of the most important things is Choosing an e-commerce platform when you’re going to start an online business.
+
+Not all like to install a WordPress theme & start selling. Some are quite conscious of choosing technologies because there are many factors you need to consider – high-performance, scalability, security, extensibility, pricing, programming language, etc.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Cross-Platform C# UI Technologies]]></title>
+            <link>https://www.dotnetweekly.com/articles/cross-platform-c-ui-technologies</link>
+            <guid>https://www.dotnetweekly.com/articles/cross-platform-c-ui-technologies</guid>
+            <pubDate>Thu, 16 May 2019 17:07:55 GMT</pubDate>
+            <content:encoded><![CDATA[There are several UI technologies that can be used to build Cross-Platform apps in C# or other .NET based languages such as Visual Basic (VB). This article looks at three technologies and discusses which cases these technologies could be used for. This article will give you a baseline understanding of technologies that are available for building front-end applications in C#, and will answers questions like which platforms are available? Can it run in a browser? Will it have a native look and feel? And, can it be deployed to the app stores?
+
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Top 3 Features in C# 8 that will change the way you write code]]></title>
+            <link>https://www.dotnetweekly.com/articles/top-3-features-in-c-8-that-will-change-the-way-you-write-code</link>
+            <guid>https://www.dotnetweekly.com/articles/top-3-features-in-c-8-that-will-change-the-way-you-write-code</guid>
+            <pubDate>Thu, 16 May 2019 13:32:01 GMT</pubDate>
+            <content:encoded><![CDATA[C# 8 is the upcoming latest major version of the official programming language from Microsoft. C# 8 is packed with amazing features and some of them have the potential to change the way developers will write their C# code in the future. Let me introduce my top three features!]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[log4net Tutorial - The Complete Guide for beginners and pros]]></title>
+            <link>https://www.dotnetweekly.com/articles/log4net-tutorial-the-complete-guide-for-beginners-and-pros</link>
+            <guid>https://www.dotnetweekly.com/articles/log4net-tutorial-the-complete-guide-for-beginners-and-pros</guid>
+            <pubDate>Wed, 15 May 2019 06:51:51 GMT</pubDate>
+            <content:encoded><![CDATA[In this tutorial I will tell you about logging in C#, how to create log4net configuration, explaining log levels, and examples with different appenders.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Data binding in blazor framework]]></title>
+            <link>https://www.dotnetweekly.com/articles/data-binding-in-blazor-framework</link>
+            <guid>https://www.dotnetweekly.com/articles/data-binding-in-blazor-framework</guid>
+            <pubDate>Wed, 15 May 2019 01:33:38 GMT</pubDate>
+            <content:encoded><![CDATA[Blazor has 3 different ways of binding data on the client-side.
+
+Here are the different data binding mechanisms in the client-side blazor framework.
+
+- One-way data binding
+- Two-way data binding
+- Component parameters]]></content:encoded>
         </item>
     </channel>
 </rss>

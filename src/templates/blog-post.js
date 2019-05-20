@@ -1,12 +1,13 @@
 import React from 'react'
 import Layout from '../components/layout'
 import { Link } from 'gatsby'
+import { graphql } from 'gatsby'
 
 function BlogPost(props) {
   const post = props.data.markdownRemark
   const { frontmatter } = post
   const { title } = post.frontmatter
-  const { next, prev } = props.pathContext
+  const { next, prev } = props.pageContext
 
   return (
     <Layout>

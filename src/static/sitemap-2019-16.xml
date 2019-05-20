@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/refactoring-switch-case-statement-into-strategy-design-pattern</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/reinforcement-learning-a-tic-tac-toe-example</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/introducing-razor-components-in-aspnet-core-30-daniel-roth</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/file-uploads-in-aspnet-core-integration-tests</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/blocking-ads-before-they-enter-your-house-at-the-dns-level-with-pi-hole-and-a-cheap-raspberry-pi</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/real-time-ml-based-anomaly-detection-in-azure-stream-analytics</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/serilog-vs-log4net</loc> </url>
+</urlset>
