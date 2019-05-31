@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/serverless-graphql-with-azure-functions-graphql-for-net-and-cosmos-db</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/debugging-systemaggregateexception-even-in-async-code</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/top-open-source-aspnet-core-content-management-system-cms</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/blockchain-lets-think-this-through-again</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/building-blazor-shared-pager-component</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-webassembly-with-react</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/dependabot-has-been-acquired-by-github-and-we-couldnt-be-more-excited</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/dockerizing-a-vue-app</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/moving-from-nodejs-to-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/visual-interface-for-azure-machine-learning-service</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/sql-server-2019-community-technology-preview-30-is-now-available</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/net-core-diagnostics-overview</loc> </url>
 </urlset>
