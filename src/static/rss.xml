@@ -4,10 +4,17 @@
         <title>dotNET Weekly - Week undefined Year undefined</title>
         <link>https://www.dotnetweekly.com/week/undefined/year/undefined?feed=rss</link>
         <description></description>
-        <lastBuildDate>Wed, 05 Jun 2019 07:38:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jun 2019 18:56:47 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <category>Articles</category>
+        <item>
+            <title><![CDATA[Workaround to use the designer in WPF Core App]]></title>
+            <link>https://www.dotnetweekly.com/articles/workaround-to-use-the-designer-in-wpf-core-app</link>
+            <guid>https://www.dotnetweekly.com/articles/workaround-to-use-the-designer-in-wpf-core-app</guid>
+            <pubDate>Thu, 06 Jun 2019 10:42:23 GMT</pubDate>
+            <content:encoded><![CDATA[Workaround to use the designer in WPF Core App (.netCore WPF).]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Spying on .NET Garbage Collector with .NET Core EventPipes]]></title>
             <link>https://www.dotnetweekly.com/articles/spying-on-net-garbage-collector-with-net-core-eventpipes</link>
