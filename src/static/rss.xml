@@ -4,84 +4,35 @@
         <title>dotNET Weekly - Week undefined Year undefined</title>
         <link>https://www.dotnetweekly.com/week/undefined/year/undefined?feed=rss</link>
         <description></description>
-        <lastBuildDate>Sat, 08 Jun 2019 18:56:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jun 2019 02:50:23 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <category>Articles</category>
         <item>
-            <title><![CDATA[Workaround to use the designer in WPF Core App]]></title>
-            <link>https://www.dotnetweekly.com/articles/workaround-to-use-the-designer-in-wpf-core-app</link>
-            <guid>https://www.dotnetweekly.com/articles/workaround-to-use-the-designer-in-wpf-core-app</guid>
-            <pubDate>Thu, 06 Jun 2019 10:42:23 GMT</pubDate>
-            <content:encoded><![CDATA[Workaround to use the designer in WPF Core App (.netCore WPF).]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Spying on .NET Garbage Collector with .NET Core EventPipes]]></title>
-            <link>https://www.dotnetweekly.com/articles/spying-on-net-garbage-collector-with-net-core-eventpipes</link>
-            <guid>https://www.dotnetweekly.com/articles/spying-on-net-garbage-collector-with-net-core-eventpipes</guid>
-            <pubDate>Wed, 05 Jun 2019 08:34:19 GMT</pubDate>
-            <content:encoded><![CDATA[The previous episode of the series introduced the notion of “GC log”, well known in the Java world and how to implement it in .NET thanks to ETW and TraceEvent on Windows. This solution is easy but requires to create an ETW session (and to remember to close it)… and is also not supported on Linux. However, .NET Core 2.2 introduced the EventListener class as the best way to receive CLR events both on Windows and Linux but only from inside the process itself. As of today, TraceEvent is not supporting live session with EventPipe/EventListener, only a file-based constructor is available. This is unfortunate because it means that you can’t rely on the huge work done by TraceEvent to parse the CLR events; especially those related to garbage collections. The rest of the post will explain how to decipher raw events.
+            <title><![CDATA[C# and gRPC Part One]]></title>
+            <link>https://www.dotnetweekly.com/articles/c-and-grpc-part-one</link>
+            <guid>https://www.dotnetweekly.com/articles/c-and-grpc-part-one</guid>
+            <pubDate>Mon, 10 Jun 2019 22:49:21 GMT</pubDate>
+            <content:encoded><![CDATA[gRPC is a modern open source RPC framework created by Google. It is based on Google’s modern Protocol Buffer serialization engine but is not tied to it. C# developers who have used WCF in the past, or anyone building C# backend services should take a look at this. gRPC has most of the functionality that WCF has, but you can build on .NET Core. This article will introduce gRPC, explain why WCF developers should pay attention, and talk about why it could be used for any service. According to Scott Hunter at Microsoft:
+
+If you are a remoting or WCF Server developer and want to build a new application on .NET Core, we would recommend either ASP.NET Core Web APIs or gRPC
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[An Interesting Case Of .NET Performance and Caching]]></title>
-            <link>https://www.dotnetweekly.com/articles/an-interesting-case-of-net-performance-and-caching</link>
-            <guid>https://www.dotnetweekly.com/articles/an-interesting-case-of-net-performance-and-caching</guid>
-            <pubDate>Wed, 05 Jun 2019 08:30:22 GMT</pubDate>
-            <content:encoded><![CDATA[Several months ago, Bill Boga and I, realized there was a performance enhancement we could make in our infrastructure. We were utilizing IdentityServer and took notice that many of our APIs were validating many of the same access tokens and storing the results in memory locally. Validating access tokens can be relatively expensive due to additional web requests and CPU intensive hash calculations. If we could cache the validation results, and share the validation results across our system, then we could reduce the work necessary to get a request through our APIs.
-
+            <title><![CDATA[Candidate Features For C# 9]]></title>
+            <link>https://www.dotnetweekly.com/articles/candidate-features-for-c-9</link>
+            <guid>https://www.dotnetweekly.com/articles/candidate-features-for-c-9</guid>
+            <pubDate>Mon, 10 Jun 2019 22:48:52 GMT</pubDate>
+            <content:encoded><![CDATA[The long road to C# 9 has already begun and this is the first article in the world about the C# 9 Candidate features. Once you have completed reading this article, you will hopefully be better prepared for the new C# challenges you will meet in the future.
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[How Can We Efficiently Sort Socks with C#?]]></title>
-            <link>https://www.dotnetweekly.com/articles/how-can-we-efficiently-sort-socks-with-c</link>
-            <guid>https://www.dotnetweekly.com/articles/how-can-we-efficiently-sort-socks-with-c</guid>
-            <pubDate>Wed, 05 Jun 2019 08:30:02 GMT</pubDate>
-            <content:encoded><![CDATA[I'm an adult, most of the time.  That means I have to do adult things, like getting groceries or gas or maintaining our yard.  I am also married with three kids.  And that means a LOT of laundry.
-
-Laundry by itself isn't too bad.  It gives my easily-distracted brain a simple, repetitive task that often allows me to think more clearly than is otherwise possible. But the worst part of laundry, the absolute worst, is the socks.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Decompilers for .NET and Windows (UWP) Apps]]></title>
-            <link>https://www.dotnetweekly.com/articles/decompilers-for-net-and-windows-uwp-apps</link>
-            <guid>https://www.dotnetweekly.com/articles/decompilers-for-net-and-windows-uwp-apps</guid>
-            <pubDate>Wed, 05 Jun 2019 08:29:35 GMT</pubDate>
-            <content:encoded><![CDATA[I think I’ve been living under a rock as I’ve only just come across dnSpy, a decompiler for .net!
-
-I’ve been building apps and services with .NET for a long time, so a Twitter thread talking about decompilers amused me. David Kean’s comment pretty accurately reflects my sentiment regarding Reflector.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Building a Live Reload Middleware Component for ASP.NET Core]]></title>
-            <link>https://www.dotnetweekly.com/articles/building-a-live-reload-middleware-component-for-aspnet-core</link>
-            <guid>https://www.dotnetweekly.com/articles/building-a-live-reload-middleware-component-for-aspnet-core</guid>
-            <pubDate>Wed, 05 Jun 2019 08:28:41 GMT</pubDate>
-            <content:encoded><![CDATA[In my last post I discussed how to integrate Live Reload in ASP.NET Core using a third party NodeJs application loaded from NPM called BrowserSync. While that works just fine, having to run yet another command line utility on top of dotnet watch run just to provide Live Reload functionality is a bit of a pain.
-
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Wordy-for-NET]]></title>
-            <link>https://www.dotnetweekly.com/articles/wordy-for-net</link>
-            <guid>https://www.dotnetweekly.com/articles/wordy-for-net</guid>
-            <pubDate>Wed, 05 Jun 2019 07:00:29 GMT</pubDate>
-            <content:encoded><![CDATA[Everything starts with UseWordyTo prefix. This is your entry point to all tools provided by the library.
-
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Writing billion songs with C# and Deep Learning]]></title>
-            <link>https://www.dotnetweekly.com/articles/writing-billion-songs-with-c-and-deep-learning</link>
-            <guid>https://www.dotnetweekly.com/articles/writing-billion-songs-with-c-and-deep-learning</guid>
-            <pubDate>Wed, 05 Jun 2019 07:00:02 GMT</pubDate>
-            <content:encoded><![CDATA[About 2.5 months ago OpenAI published a blog post, where they demonstrated nearly impossible: a deep learning model, that can write articles, indistinguishable from ones written by humans. The text it generated was so impressive, that I had to check the calendar to ensure its not an April Fool’s joke (mind you that was February, and Seattle was covered in snow)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Debugging System.AccessViolationException - DllImport hell]]></title>
-            <link>https://www.dotnetweekly.com/articles/debugging-systemaccessviolationexception-dllimport-hell</link>
-            <guid>https://www.dotnetweekly.com/articles/debugging-systemaccessviolationexception-dllimport-hell</guid>
-            <pubDate>Tue, 04 Jun 2019 09:46:44 GMT</pubDate>
-            <content:encoded><![CDATA[Learn how to debug System.AccessViolationException when calling C++ code from C#, with unhandled errors in IIS modules and from the WebBrowser control.]]></content:encoded>
+            <title><![CDATA[netcore-kubernetes-profiling]]></title>
+            <link>https://www.dotnetweekly.com/articles/netcore-kubernetes-profiling</link>
+            <guid>https://www.dotnetweekly.com/articles/netcore-kubernetes-profiling</guid>
+            <pubDate>Mon, 10 Jun 2019 22:48:33 GMT</pubDate>
+            <content:encoded><![CDATA[This is my personal collection of notes, scripts and techniques developed to help debug live .NET Core applications. All of these techniques were performed from a sidecar in Kubernetes. If you are interested in profiling .NET Core applications running on Linux without Kubernetes then these guides still will contain a lot of useful information.]]></content:encoded>
         </item>
     </channel>
 </rss>
