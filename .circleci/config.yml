@@ -18,6 +18,14 @@ jobs:
           command: npm install
 
       - run:
+          name: Add new Articles
+          command: node ./scripts/generate-markdown.js run
+      
+      - run:
+          name: Build project
+          command: npm run build
+
+      - run:
           name: Github Deploy
           command: node ./gatsby-node/updateGit.js
 
