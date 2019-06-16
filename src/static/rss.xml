@@ -4,10 +4,122 @@
         <title>dotNET Weekly - Week undefined Year undefined</title>
         <link>https://www.dotnetweekly.com/week/undefined/year/undefined?feed=rss</link>
         <description></description>
-        <lastBuildDate>Tue, 11 Jun 2019 02:50:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jun 2019 17:02:13 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <category>Articles</category>
+        <category>Videos</category>
+        <item>
+            <title><![CDATA[Ordered queue processing in Azure Functions with Sessions]]></title>
+            <link>https://www.dotnetweekly.com/articles/ordered-queue-processing-in-azure-functions-with-sessions</link>
+            <guid>https://www.dotnetweekly.com/articles/ordered-queue-processing-in-azure-functions-with-sessions</guid>
+            <pubDate>Thu, 13 Jun 2019 12:52:37 GMT</pubDate>
+            <content:encoded><![CDATA[Let’s chat about ordering. It’s one of my favorite topics, and something I’ve blogged about extensively before. Previously ordered processing in Azure Functions was only possible with event streams like Azure Event Hubs, but today I want to show how you can preserve order for Service Bus queues and topics as well.
+
+On the surface it seems pretty straight-forward: I want to be able to process messages from a queue in the exact order that I received them. For a simple service running on a machine, it’s pretty easy to achieve. However, how do I preserve the ordering of queue messages when I want to process at scale? With something like Azure Functions I may be processing messages across dozens of active instances, how can I preserve ordering?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Validation in ASP .NET Core]]></title>
+            <link>https://www.dotnetweekly.com/articles/validation-in-asp-net-core</link>
+            <guid>https://www.dotnetweekly.com/articles/validation-in-asp-net-core</guid>
+            <pubDate>Thu, 13 Jun 2019 12:51:51 GMT</pubDate>
+            <content:encoded><![CDATA[This is the twenty-second of a series of posts on ASP .NET Core in 2019. In this series, we’ll cover 26 topics over a span of 26 weeks from January through June 2019, titled A-Z of ASP .NET Core!
+
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Beyond Basics - ASP.Net Core Adding Caching]]></title>
+            <link>https://www.dotnetweekly.com/articles/beyond-basics-aspnet-core-adding-caching</link>
+            <guid>https://www.dotnetweekly.com/articles/beyond-basics-aspnet-core-adding-caching</guid>
+            <pubDate>Thu, 13 Jun 2019 12:51:28 GMT</pubDate>
+            <content:encoded><![CDATA[When I was early in my career I would read a blog or watch a video about a relatively basic concept and then the author would suggest an advanced idea and "leave it to the reader" to investigate and implement.
+
+I was watching another great beginner video from Scott Allen "ASP.NET Core Fundamentals" (highly recommend) the other day and something similar came up again.
+
+During the section "Building the User Interface" Scott goes on to create a View Component which can be added into individual pages or onto the layout page so that all pages get the display. The View Component gets the count of restaurants from the data store and displays it in the UI. During the development of this Scott says "If you're in a performance sensitive scenario you might want to cache this value" and this got me thinking.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Building Websites using Gatsby with Jason Lengstorf]]></title>
+            <link>https://www.dotnetweekly.com/articles/building-websites-using-gatsby-with-jason-lengstorf</link>
+            <guid>https://www.dotnetweekly.com/articles/building-websites-using-gatsby-with-jason-lengstorf</guid>
+            <pubDate>Thu, 13 Jun 2019 12:49:41 GMT</pubDate>
+            <content:encoded><![CDATA[Why should you build your website with Gatsby? Carl and Richard chat with Jason Lengstorf about the Javascript library built on top of ReactJS to automate the generation of static web pages from a variety of data sources with a focus on blogs and CMS sites. The conversation dives into this idea of higher layer abstractions making building multi-format web pages easier and highly performant by generating to static content. This lets you push your content closer to the customer on a CDN - the web development world continues to evolve!]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[How We Reduced Our React App’s Load Time by 60%]]></title>
+            <link>https://www.dotnetweekly.com/articles/how-we-reduced-our-react-apps-load-time-by-60</link>
+            <guid>https://www.dotnetweekly.com/articles/how-we-reduced-our-react-apps-load-time-by-60</guid>
+            <pubDate>Thu, 13 Jun 2019 12:48:46 GMT</pubDate>
+            <content:encoded><![CDATA[Using React by itself will not result in a highly performant application. If you’re not careful, the application can pick up bloat easily. It’s good practice to conduct audits periodically.
+
+Chrome DevTools offers powerful performance measurement for JavaScript applications. Learn how to read and understand performance profiles.
+
+Code splitting is easy to setup with Webpack 4 and you should definitely use it to optimize your application.
+Identify where long lists of content are rendered and optimize them with react-window.
+
+Understand how React works internally. This will help you identify wasted renders and fix them. Use the “Highlight Updates” option in React DevTools to help you with this step.
+
+There are several other methods to improve performance in React applications — prefetching, service workers, bundle analysis, etc. to reduce bundle sizes.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Microservices and more in .NET Core 3.0]]></title>
+            <link>https://www.dotnetweekly.com/articles/microservices-and-more-in-net-core-30</link>
+            <guid>https://www.dotnetweekly.com/articles/microservices-and-more-in-net-core-30</guid>
+            <pubDate>Thu, 13 Jun 2019 12:44:34 GMT</pubDate>
+            <content:encoded><![CDATA[Enabling developers to build resilient microservices is an important goal for .NET Core 3.0
+
+In this episode, Shayne Boyer is joined by Glenn Condron and Ryan Nowak from the ASP.NET team who discuss some of the exciting work that's happening in the microservice space for .NET Core 3.0.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Announcing .NET Core 3.0 Preview 6]]></title>
+            <link>https://www.dotnetweekly.com/articles/announcing-net-core-30-preview-6</link>
+            <guid>https://www.dotnetweekly.com/articles/announcing-net-core-30-preview-6</guid>
+            <pubDate>Thu, 13 Jun 2019 12:41:30 GMT</pubDate>
+            <content:encoded><![CDATA[Today, we are announcing .NET Core 3.0 Preview 6. It includes updates for compiling assemblies for improved startup, optimizing applications for size with linker and EventPipe improvements. We’ve also released new Docker images for Alpine on ARM64.
+
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Developing a Dockerized Asp.Net Core Application Using Visual Studio Code]]></title>
+            <link>https://www.dotnetweekly.com/articles/developing-a-dockerized-aspnet-core-application-using-visual-studio-code</link>
+            <guid>https://www.dotnetweekly.com/articles/developing-a-dockerized-aspnet-core-application-using-visual-studio-code</guid>
+            <pubDate>Thu, 13 Jun 2019 12:41:04 GMT</pubDate>
+            <content:encoded><![CDATA[I recently embarked on a mission with my colleague Kendall Roden to uncover the feature parity between Visual Studio 2017/2019 and Visual Studio Code when it comes to developing a dockerized Asp.Net Core application. We started by identifying the artifacts that get scaffolded by Visual Studio 2017/2019 which would need to be manually generated with Visual Studio Code. Here is the list that we came up with:
+
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Let's develop Blazor apps on Linux]]></title>
+            <link>https://www.dotnetweekly.com/articles/lets-develop-blazor-apps-on-linux</link>
+            <guid>https://www.dotnetweekly.com/articles/lets-develop-blazor-apps-on-linux</guid>
+            <pubDate>Thu, 13 Jun 2019 12:40:39 GMT</pubDate>
+            <content:encoded><![CDATA[Blazor is one of fantastic technologies I think.
+
+It will be shipped a part of .NET Core 3.0.
+
+ 
+
+It can build client side web apps using C#, however it run on web standard like HTML, CSS, JavaScript, WebAssembly and more. I remembered Silverlight that has similar development experience, I liked it, but Blazor is different that is using 100% open web standard technologies.
+
+ 
+
+There are two different models:
+
+Server-side Blazor
+This runs on server-side through SignalR.
+Client-side Blazor
+This runs on browser using WebAssembly.
+However, you can create apps on same programming model.
+
+Of course, it is .NET Core, so you can create Blazor apps on Linux too.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Collection of Best Dotnet Core Books to Enhance Your Skills]]></title>
+            <link>https://www.dotnetweekly.com/articles/collection-of-best-dotnet-core-books-to-enhance-your-skills</link>
+            <guid>https://www.dotnetweekly.com/articles/collection-of-best-dotnet-core-books-to-enhance-your-skills</guid>
+            <pubDate>Tue, 11 Jun 2019 22:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[In this article, I’m not convincing developers that they should always use a Book & stop learning from tutorials, as Tutorials provide a complete solution of a programming problem whereas books can only give you basic concept & you have to implement your required solution.]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[C# and gRPC Part One]]></title>
             <link>https://www.dotnetweekly.com/articles/c-and-grpc-part-one</link>
