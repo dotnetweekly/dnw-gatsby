@@ -4,147 +4,162 @@
         <title>dotNET Weekly - Week undefined Year undefined</title>
         <link>https://www.dotnetweekly.com/week/undefined/year/undefined?feed=rss</link>
         <description></description>
-        <lastBuildDate>Sat, 15 Jun 2019 17:02:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jun 2019 03:26:35 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <category>Articles</category>
         <category>Videos</category>
+        <category>Libraries-Tools</category>
         <item>
-            <title><![CDATA[Ordered queue processing in Azure Functions with Sessions]]></title>
-            <link>https://www.dotnetweekly.com/articles/ordered-queue-processing-in-azure-functions-with-sessions</link>
-            <guid>https://www.dotnetweekly.com/articles/ordered-queue-processing-in-azure-functions-with-sessions</guid>
-            <pubDate>Thu, 13 Jun 2019 12:52:37 GMT</pubDate>
-            <content:encoded><![CDATA[Let’s chat about ordering. It’s one of my favorite topics, and something I’ve blogged about extensively before. Previously ordered processing in Azure Functions was only possible with event streams like Azure Event Hubs, but today I want to show how you can preserve order for Service Bus queues and topics as well.
+            <title><![CDATA[Multiple Ways to Register Your Dependencies with ASP.NET Core 3]]></title>
+            <link>https://www.dotnetweekly.com/articles/multiple-ways-to-register-your-dependencies-with-aspnet-core-3</link>
+            <guid>https://www.dotnetweekly.com/articles/multiple-ways-to-register-your-dependencies-with-aspnet-core-3</guid>
+            <pubDate>Thu, 20 Jun 2019 04:21:12 GMT</pubDate>
+            <content:encoded><![CDATA[With the new previews of dotnetcore there are new project templates but also a more generic hosting system, instead of having a Web specific host builder or Worker/services host builder there is a new "generic" host which they are all based on. These are all brought together under IHost.
 
-On the surface it seems pretty straight-forward: I want to be able to process messages from a queue in the exact order that I received them. For a simple service running on a machine, it’s pretty easy to achieve. However, how do I preserve the ordering of queue messages when I want to process at scale? With something like Azure Functions I may be processing messages across dozens of active instances, how can I preserve ordering?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Validation in ASP .NET Core]]></title>
-            <link>https://www.dotnetweekly.com/articles/validation-in-asp-net-core</link>
-            <guid>https://www.dotnetweekly.com/articles/validation-in-asp-net-core</guid>
-            <pubDate>Thu, 13 Jun 2019 12:51:51 GMT</pubDate>
-            <content:encoded><![CDATA[This is the twenty-second of a series of posts on ASP .NET Core in 2019. In this series, we’ll cover 26 topics over a span of 26 weeks from January through June 2019, titled A-Z of ASP .NET Core!
+With this and other patterns/practices there are now multiple ways of registering your services. Let's take a look.
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Beyond Basics - ASP.Net Core Adding Caching]]></title>
-            <link>https://www.dotnetweekly.com/articles/beyond-basics-aspnet-core-adding-caching</link>
-            <guid>https://www.dotnetweekly.com/articles/beyond-basics-aspnet-core-adding-caching</guid>
-            <pubDate>Thu, 13 Jun 2019 12:51:28 GMT</pubDate>
-            <content:encoded><![CDATA[When I was early in my career I would read a blog or watch a video about a relatively basic concept and then the author would suggest an advanced idea and "leave it to the reader" to investigate and implement.
+            <title><![CDATA[Communicating between Python and .NET Core with Boost Interprocess]]></title>
+            <link>https://www.dotnetweekly.com/articles/communicating-between-python-and-net-core-with-boost-interprocess</link>
+            <guid>https://www.dotnetweekly.com/articles/communicating-between-python-and-net-core-with-boost-interprocess</guid>
+            <pubDate>Thu, 20 Jun 2019 04:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[With the new previews of dotnetcore there are new project templates but also a more generic hosting system, instead of having a Web specific host builder or Worker/services host builder there is a new "generic" host which they are all based on. These are all brought together under IHost.
 
-I was watching another great beginner video from Scott Allen "ASP.NET Core Fundamentals" (highly recommend) the other day and something similar came up again.
-
-During the section "Building the User Interface" Scott goes on to create a View Component which can be added into individual pages or onto the layout page so that all pages get the display. The View Component gets the count of restaurants from the data store and displays it in the UI. During the development of this Scott says "If you're in a performance sensitive scenario you might want to cache this value" and this got me thinking.]]></content:encoded>
+With this and other patterns/practices there are now multiple ways of registering your services. Let's take a look.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Building Websites using Gatsby with Jason Lengstorf]]></title>
-            <link>https://www.dotnetweekly.com/articles/building-websites-using-gatsby-with-jason-lengstorf</link>
-            <guid>https://www.dotnetweekly.com/articles/building-websites-using-gatsby-with-jason-lengstorf</guid>
-            <pubDate>Thu, 13 Jun 2019 12:49:41 GMT</pubDate>
-            <content:encoded><![CDATA[Why should you build your website with Gatsby? Carl and Richard chat with Jason Lengstorf about the Javascript library built on top of ReactJS to automate the generation of static web pages from a variety of data sources with a focus on blogs and CMS sites. The conversation dives into this idea of higher layer abstractions making building multi-format web pages easier and highly performant by generating to static content. This lets you push your content closer to the customer on a CDN - the web development world continues to evolve!]]></content:encoded>
+            <title><![CDATA[Porting desktop apps to .NET Core]]></title>
+            <link>https://www.dotnetweekly.com/articles/porting-desktop-apps-to-net-core</link>
+            <guid>https://www.dotnetweekly.com/articles/porting-desktop-apps-to-net-core</guid>
+            <pubDate>Thu, 20 Jun 2019 04:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[Since I’ve been working with the community on porting desktop applications from .NET Framework to .NET Core, I’ve noticed that there are two camps of folks: some want a very simple and short list of instructions to get their apps ported to .NET Core while others prefer a more principled approach with more background information. Instead of writing up a “Swiss Army knife”-document, we are going to publish two blog posts, one for each camp:
+
+This post is the simple case. It’s focused on simple instructions and smaller applications and is the easiest way to move your app to .NET Core.
+We will publish another post for more complicated cases. This post will focus more on non-trivial applications, such WPF application with dependencies on WCF and third-party UI packages.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[How We Reduced Our React App’s Load Time by 60%]]></title>
-            <link>https://www.dotnetweekly.com/articles/how-we-reduced-our-react-apps-load-time-by-60</link>
-            <guid>https://www.dotnetweekly.com/articles/how-we-reduced-our-react-apps-load-time-by-60</guid>
-            <pubDate>Thu, 13 Jun 2019 12:48:46 GMT</pubDate>
-            <content:encoded><![CDATA[Using React by itself will not result in a highly performant application. If you’re not careful, the application can pick up bloat easily. It’s good practice to conduct audits periodically.
-
-Chrome DevTools offers powerful performance measurement for JavaScript applications. Learn how to read and understand performance profiles.
-
-Code splitting is easy to setup with Webpack 4 and you should definitely use it to optimize your application.
-Identify where long lists of content are rendered and optimize them with react-window.
-
-Understand how React works internally. This will help you identify wasted renders and fix them. Use the “Highlight Updates” option in React DevTools to help you with this step.
-
-There are several other methods to improve performance in React applications — prefetching, service workers, bundle analysis, etc. to reduce bundle sizes.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Microservices and more in .NET Core 3.0]]></title>
-            <link>https://www.dotnetweekly.com/articles/microservices-and-more-in-net-core-30</link>
-            <guid>https://www.dotnetweekly.com/articles/microservices-and-more-in-net-core-30</guid>
-            <pubDate>Thu, 13 Jun 2019 12:44:34 GMT</pubDate>
-            <content:encoded><![CDATA[Enabling developers to build resilient microservices is an important goal for .NET Core 3.0
-
-In this episode, Shayne Boyer is joined by Glenn Condron and Ryan Nowak from the ASP.NET team who discuss some of the exciting work that's happening in the microservice space for .NET Core 3.0.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Announcing .NET Core 3.0 Preview 6]]></title>
-            <link>https://www.dotnetweekly.com/articles/announcing-net-core-30-preview-6</link>
-            <guid>https://www.dotnetweekly.com/articles/announcing-net-core-30-preview-6</guid>
-            <pubDate>Thu, 13 Jun 2019 12:41:30 GMT</pubDate>
-            <content:encoded><![CDATA[Today, we are announcing .NET Core 3.0 Preview 6. It includes updates for compiling assemblies for improved startup, optimizing applications for size with linker and EventPipe improvements. We’ve also released new Docker images for Alpine on ARM64.
+            <title><![CDATA[Announcing the preview of Microsoft Azure Bastion]]></title>
+            <link>https://www.dotnetweekly.com/articles/announcing-the-preview-of-microsoft-azure-bastion</link>
+            <guid>https://www.dotnetweekly.com/articles/announcing-the-preview-of-microsoft-azure-bastion</guid>
+            <pubDate>Thu, 20 Jun 2019 04:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[For many customers around the world, securely connecting from the outside to workloads and virtual machines on private networks can be challenging. Exposing virtual machines to the public Internet to enable connectivity through Remote Desktop Protocol (RDP) and Secure Shell (SSH), increases the perimeter, rendering your critical networks and attached virtual machines more open and harder to manage.
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Developing a Dockerized Asp.Net Core Application Using Visual Studio Code]]></title>
-            <link>https://www.dotnetweekly.com/articles/developing-a-dockerized-aspnet-core-application-using-visual-studio-code</link>
-            <guid>https://www.dotnetweekly.com/articles/developing-a-dockerized-aspnet-core-application-using-visual-studio-code</guid>
-            <pubDate>Thu, 13 Jun 2019 12:41:04 GMT</pubDate>
-            <content:encoded><![CDATA[I recently embarked on a mission with my colleague Kendall Roden to uncover the feature parity between Visual Studio 2017/2019 and Visual Studio Code when it comes to developing a dockerized Asp.Net Core application. We started by identifying the artifacts that get scaffolded by Visual Studio 2017/2019 which would need to be manually generated with Visual Studio Code. Here is the list that we came up with:
+            <title><![CDATA[The Evolving Infrastructure of .NET Core]]></title>
+            <link>https://www.dotnetweekly.com/articles/the-evolving-infrastructure-of-net-core</link>
+            <guid>https://www.dotnetweekly.com/articles/the-evolving-infrastructure-of-net-core</guid>
+            <pubDate>Thu, 20 Jun 2019 04:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[With .NET Core 3.0 Preview 6 out the door, we thought it would be useful to take a brief look at the history of our infrastructure systems and the significant improvements that have been made in the last year or so.
+
+This post will be interesting if you are interested in build infrastructure or want a behind-the-scenes look at how we build a product as big as .NET Core. It doesn’t describe new features or sample code that you should use in your next application. Please tell us if you like these types of posts. We have a few more like this planned, but would appreciate knowing if you find this type of information helpful.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Generate Resx Translations from Google Sheets]]></title>
+            <link>https://www.dotnetweekly.com/articles/generate-resx-translations-from-google-sheets</link>
+            <guid>https://www.dotnetweekly.com/articles/generate-resx-translations-from-google-sheets</guid>
+            <pubDate>Thu, 20 Jun 2019 04:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[In my career, I have tried multiple translation tools for handling localization. This usually ends up in a spreadsheet sent back and forth that gets imported/exported with the actual translation tool. I have also tried giving my translators and customers direct access to the translation tool but that never really worked as they tend to blindly translate everything they see and usually miss out on the fact that some strings contain important placeholders that executable code expects. Anyway, at the end of the sending a spreadsheet back and forth seems to always work.
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[How to integrate Vue.js and ASP.NET Core using SPA Extension]]></title>
+            <link>https://www.dotnetweekly.com/articles/how-to-integrate-vuejs-and-aspnet-core-using-spa-extension</link>
+            <guid>https://www.dotnetweekly.com/articles/how-to-integrate-vuejs-and-aspnet-core-using-spa-extension</guid>
+            <pubDate>Thu, 20 Jun 2019 04:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[Single Page Application(SPA) is really important technology for web apps developers.
+
+In ASP.NET Core, there is SPA integration feature.
+
+You can see it on create a new project wizard of ASP.NET Core Web application.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Promisifying Legacy Web APIs Just for Fun]]></title>
+            <link>https://www.dotnetweekly.com/articles/promisifying-legacy-web-apis-just-for-fun</link>
+            <guid>https://www.dotnetweekly.com/articles/promisifying-legacy-web-apis-just-for-fun</guid>
+            <pubDate>Thu, 20 Jun 2019 04:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[We'll go through the basics of Promises and callbacks, and demonstrate the simplicity of promisifying the old XMLHttpRequest API.
+
+It is no longer news that new JavaScript development patterns since the evolution of ES6 have influenced how we approach certain things in the JavaScript ecosystem. For instance, the standard callback function syntax which has been a standard for years. However, a new alternative, Promises, is now a more preferred pattern of development.
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Let's develop Blazor apps on Linux]]></title>
-            <link>https://www.dotnetweekly.com/articles/lets-develop-blazor-apps-on-linux</link>
-            <guid>https://www.dotnetweekly.com/articles/lets-develop-blazor-apps-on-linux</guid>
-            <pubDate>Thu, 13 Jun 2019 12:40:39 GMT</pubDate>
-            <content:encoded><![CDATA[Blazor is one of fantastic technologies I think.
+            <title><![CDATA[Cryptography in .NET]]></title>
+            <link>https://www.dotnetweekly.com/articles/cryptography-in-net</link>
+            <guid>https://www.dotnetweekly.com/articles/cryptography-in-net</guid>
+            <pubDate>Thu, 20 Jun 2019 04:17:45 GMT</pubDate>
+            <content:encoded><![CDATA[Cryptography is a very important thing for information security. Information security is composed of 4 parts:
 
-It will be shipped a part of .NET Core 3.0.
-
- 
-
-It can build client side web apps using C#, however it run on web standard like HTML, CSS, JavaScript, WebAssembly and more. I remembered Silverlight that has similar development experience, I liked it, but Blazor is different that is using 100% open web standard technologies.
-
- 
-
-There are two different models:
-
-Server-side Blazor
-This runs on server-side through SignalR.
-Client-side Blazor
-This runs on browser using WebAssembly.
-However, you can create apps on same programming model.
-
-Of course, it is .NET Core, so you can create Blazor apps on Linux too.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Collection of Best Dotnet Core Books to Enhance Your Skills]]></title>
-            <link>https://www.dotnetweekly.com/articles/collection-of-best-dotnet-core-books-to-enhance-your-skills</link>
-            <guid>https://www.dotnetweekly.com/articles/collection-of-best-dotnet-core-books-to-enhance-your-skills</guid>
-            <pubDate>Tue, 11 Jun 2019 22:22:47 GMT</pubDate>
-            <content:encoded><![CDATA[In this article, I’m not convincing developers that they should always use a Book & stop learning from tutorials, as Tutorials provide a complete solution of a programming problem whereas books can only give you basic concept & you have to implement your required solution.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[C# and gRPC Part One]]></title>
-            <link>https://www.dotnetweekly.com/articles/c-and-grpc-part-one</link>
-            <guid>https://www.dotnetweekly.com/articles/c-and-grpc-part-one</guid>
-            <pubDate>Mon, 10 Jun 2019 22:49:21 GMT</pubDate>
-            <content:encoded><![CDATA[gRPC is a modern open source RPC framework created by Google. It is based on Google’s modern Protocol Buffer serialization engine but is not tied to it. C# developers who have used WCF in the past, or anyone building C# backend services should take a look at this. gRPC has most of the functionality that WCF has, but you can build on .NET Core. This article will introduce gRPC, explain why WCF developers should pay attention, and talk about why it could be used for any service. According to Scott Hunter at Microsoft:
-
-If you are a remoting or WCF Server developer and want to build a new application on .NET Core, we would recommend either ASP.NET Core Web APIs or gRPC
+Integrity: ensure a document is not altered
+Confidentiality: ensure only authorized people can read a document
+Authentication: ensure the document was written by an identified person
+Non-Repudiation: prove who/where a document came from as well as the authenticity of that message, so the sender cannot deny they have sent it
+Let's see what .NET provides for each part!
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Candidate Features For C# 9]]></title>
-            <link>https://www.dotnetweekly.com/articles/candidate-features-for-c-9</link>
-            <guid>https://www.dotnetweekly.com/articles/candidate-features-for-c-9</guid>
-            <pubDate>Mon, 10 Jun 2019 22:48:52 GMT</pubDate>
-            <content:encoded><![CDATA[The long road to C# 9 has already begun and this is the first article in the world about the C# 9 Candidate features. Once you have completed reading this article, you will hopefully be better prepared for the new C# challenges you will meet in the future.
+            <title><![CDATA[The Future of C#]]></title>
+            <link>https://www.dotnetweekly.com/articles/the-future-of-c</link>
+            <guid>https://www.dotnetweekly.com/articles/the-future-of-c</guid>
+            <pubDate>Thu, 20 Jun 2019 04:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[C# has come a long way during its two decades of existence and is one of the world’s most popular programming languages. We continue to evolve it eagerly, with the aid of a vibrant open source community.
+ ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[.NET: Tools for working with multi-threading and asynchrony – Part 1]]></title>
+            <link>https://www.dotnetweekly.com/articles/net-tools-for-working-with-multi-threading-and-asynchrony-part-1</link>
+            <guid>https://www.dotnetweekly.com/articles/net-tools-for-working-with-multi-threading-and-asynchrony-part-1</guid>
+            <pubDate>Thu, 20 Jun 2019 04:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[The need to do things in an asynchronous way – that is, dividing big tasks between multiple working units – was present long before the appearance of computers. However, when they did appear, this need became even more obvious. It is now 2019, and I’m writing this article on a laptop powered by an 8-core Intel Core CPU which, in addition to this, is simultaneously working on hundreds of processes, with the number of threads being even larger. Next to me, there lies a slightly outdated smartphone which I bought a couple of years ago – and it also houses an 8-core processor. Specialized web resources contain a wide variety of articles praising this year’s flagship smartphones equipped with 16-core CPUs. For less then $20 per hour, MS Azure can give you access to a 128-core virtual machine with 2 TB RAM. But, unfortunately, you cannot get the most out of this power unless you know how to control interaction between threads.
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[netcore-kubernetes-profiling]]></title>
-            <link>https://www.dotnetweekly.com/articles/netcore-kubernetes-profiling</link>
-            <guid>https://www.dotnetweekly.com/articles/netcore-kubernetes-profiling</guid>
-            <pubDate>Mon, 10 Jun 2019 22:48:33 GMT</pubDate>
-            <content:encoded><![CDATA[This is my personal collection of notes, scripts and techniques developed to help debug live .NET Core applications. All of these techniques were performed from a sidecar in Kubernetes. If you are interested in profiling .NET Core applications running on Linux without Kubernetes then these guides still will contain a lot of useful information.]]></content:encoded>
+            <title><![CDATA[Building Cross-Platform Desktop Apps using Blazor and Electron.NET]]></title>
+            <link>https://www.dotnetweekly.com/articles/building-cross-platform-desktop-apps-using-blazor-and-electronnet</link>
+            <guid>https://www.dotnetweekly.com/articles/building-cross-platform-desktop-apps-using-blazor-and-electronnet</guid>
+            <pubDate>Thu, 20 Jun 2019 04:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[As a Web developer, I was looking for leveraging my skills (C#, Razor, .NET) to
+write fast and cross-platform desktop apps.
+
+You can be ambitious for speed if you discover Electronjs technology that outperforms desktop technologies on Windows such as WPF and WinForms. You notice that performance if you use Visual Studio Code the most popular code editor in the world.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Visual Studio Productivity Tips]]></title>
+            <link>https://www.dotnetweekly.com/articles/visual-studio-productivity-tips</link>
+            <guid>https://www.dotnetweekly.com/articles/visual-studio-productivity-tips</guid>
+            <pubDate>Thu, 20 Jun 2019 04:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[In this episode, Robert is joined by Kendra Havens. Every version of Visual Studio introduces new productivity features. If you want to see some of the ones introduced in Visual Studio 2019, check out Kendra's video here. But what about the ones that have been in Visual Studio for a while that you may have missed? To see some of those, watch this video. Kendra shows:
+
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[https://desktop.github.com/]]></title>
+            <link>https://www.dotnetweekly.com/articles/https-desktopgithubcom</link>
+            <guid>https://www.dotnetweekly.com/articles/https-desktopgithubcom</guid>
+            <pubDate>Thu, 20 Jun 2019 04:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[Extend your GitHub workflow beyond your browser with GitHub Desktop, completely redesigned with Electron. Get a unified cross-platform experience that’s completely open source and ready to customize.
+
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Delegates And Events In C#]]></title>
+            <link>https://www.dotnetweekly.com/articles/delegates-and-events-in-c</link>
+            <guid>https://www.dotnetweekly.com/articles/delegates-and-events-in-c</guid>
+            <pubDate>Wed, 19 Jun 2019 19:07:02 GMT</pubDate>
+            <content:encoded><![CDATA[In C#, delegates form the basic building blocks for events. This post explains the implementation detail of Delegates and Events in C# .NET.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Creating Dynamic User-defined Dashboards Using Asp.Net Core]]></title>
+            <link>https://www.dotnetweekly.com/articles/creating-dynamic-user-defined-dashboards-using-aspnet-core</link>
+            <guid>https://www.dotnetweekly.com/articles/creating-dynamic-user-defined-dashboards-using-aspnet-core</guid>
+            <pubDate>Mon, 17 Jun 2019 20:03:12 GMT</pubDate>
+            <content:encoded><![CDATA[Step by Step Tutorial of Dynamically Created User-Defined Dashboards using Asp.Net Core.]]></content:encoded>
         </item>
     </channel>
 </rss>

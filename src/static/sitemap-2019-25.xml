@@ -1,3 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/multiple-ways-to-register-your-dependencies-with-aspnet-core-3</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/communicating-between-python-and-net-core-with-boost-interprocess</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/porting-desktop-apps-to-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/announcing-the-preview-of-microsoft-azure-bastion</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/the-evolving-infrastructure-of-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/generate-resx-translations-from-google-sheets</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/how-to-integrate-vuejs-and-aspnet-core-using-spa-extension</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/promisifying-legacy-web-apis-just-for-fun</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/cryptography-in-net</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/the-future-of-c</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/net-tools-for-working-with-multi-threading-and-asynchrony-part-1</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/building-cross-platform-desktop-apps-using-blazor-and-electronnet</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/visual-studio-productivity-tips</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/https-desktopgithubcom</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/delegates-and-events-in-c</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/creating-dynamic-user-defined-dashboards-using-aspnet-core</loc> </url>
 </urlset>
