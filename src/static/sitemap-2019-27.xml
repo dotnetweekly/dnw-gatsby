@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/testing-production-api-endpoints-with-xunit</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/getting-started-with-grpc-in-uwp-and-aspnet-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/webconfig-transformation-tester</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/configuring-a-server-side-blazor-app-with-azure-app-configuration</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/books/free-ebook-on-aspnet-core-22-is-available-for-download</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/https-wwwtoptalcom-asp-dot-net-interview-questions</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/forwarded-headers-middleware-updates-in-net-core-30-preview-6</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/create-interactive-documentation-with-the-new-try-net-template</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-high-performance-techniques-to-base64-encode-a-guid</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/pwa-starter-a-free-online-tool-to-generate-the-files-you-need-to-update-to-a-progressive-web-applic</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/you-can-now-download-the-new-open-source-windows-terminal</loc> </url>
+</urlset>

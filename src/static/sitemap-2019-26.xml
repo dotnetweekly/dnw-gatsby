@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/videos/azure-tips-and-tricks-for-visual-studio-2019</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/azure-tips-and-tricks</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/just-the-task-library-that-just-works</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/publishing-a-single-exe-file-in-net-core-30</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/wpf-auto-complete-suggestion-text-box-control</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/webconfig-transformations-the-definitive-syntax-guide</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/how-to-refactor-business-logic-into-services</loc> </url>
+</urlset>
