@@ -15,7 +15,7 @@ jobs:
 
       - run:
           name: Install Dependencies
-          command: npm install
+          command: npm install && npm install gatsby-cli
 
       - run:
           name: Add new Articles
@@ -53,7 +53,7 @@ jobs:
 
       - run:
           name: Install Dependencies
-          command: npm install && node ./scripts/generate-markdown.js run
+          command: npm install && npm install gatsby-cli && node ./scripts/generate-markdown.js run
 
       - save_cache:
           key: v1-npm-deps-{{ checksum "package-lock.json" }}
