@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "author": "Bill Stavroulakis <bstavroulakis@gmail.com>",
   "dependencies": {
+    "@octokit/rest": "^16.16.0",
     "axios": "^0.19.0",
     "bulma": "^0.7.4",
     "fs-extra": "^7.0.1",
@@ -22,7 +23,6 @@
     "gatsby-transformer-sharp": "^2.1.17",
     "node-sass": "^4.11.0",
     "npm-check-updates": "^3.1.9",
-    "@octokit/rest": "^16.16.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-google-recaptcha": "^1.0.5",
