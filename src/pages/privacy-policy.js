@@ -17,6 +17,8 @@ const PrivacyPolicy = () => (
       Username, Password have been retrieved through affirmative consent. You
       can view the personal data you submitted at your profile page. You can
       also request for us to delete your personal data any time by emailing us.
+      You can email me at bstavroulakis@gmail.com directly to delete all of your
+      personal information.
       <h2>Web browser local storage</h2>
       Our Site may use "local storage" to enhance the User experience. User's
       web browser places local storage on their hard drive sometimes to track
