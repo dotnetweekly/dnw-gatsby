@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/net-core-counters-internals-how-to-integrate-counters-in-your-monitoring-pipeline</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/net-framework-to-net-core-to-docker</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/how-to-get-https-working-on-your-local-development-environment-in-5-minutes</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/why-was-net-called-net</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/twc9-net-core-30-preview-7-visual-studio-2019-updates-typescript-36-beta-and-more</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/bidirectional-messages-streaming-with-net-core-30-using-grpc</loc> </url>
+</urlset>
