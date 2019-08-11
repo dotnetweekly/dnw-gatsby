@@ -1,7 +1,7 @@
 ---
 _id: 5d4f79919af861001ebfd896
-title: "https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Debugging-Tips-and-Tricks-Part-1"
-url: 'Debugging Tips and Tricks Part 1'
+title: "Debugging Tips and Tricks Part 1"
+url: 'https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Debugging-Tips-and-Tricks-Part-1'
 category: articles
 slug: 'https-channel9msdncom-shows-visual-studio-toolbox-debugging-tips-and-tricks-part-1'
 user_id: 5a83ce59d6eb0005c4ecda2c
