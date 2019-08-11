@@ -1,20 +1,20 @@
 @import '_variables';
-@import '~bulma/sass/utilities/_all';
-@import '~bulma/sass/base/_all';
-@import '~bulma/sass/layout/_all';
-@import '~bulma/sass/grid/_all';
-@import '~bulma/sass/elements/button';
-@import '~bulma/sass/elements/container';
-@import '~bulma/sass/elements/content';
-@import '~bulma/sass/elements/form';
-@import '~bulma/sass/elements/icon';
-@import '~bulma/sass/elements/table';
-@import '~bulma/sass/elements/tag';
-@import '~bulma/sass/elements/title';
-@import '~bulma/sass/components/navbar';
-@import '~bulma/sass/components/tabs';
-@import '~bulma/sass/components/card';
-@import '~bulma/sass/components/message';
+@import '~bulma/sass/utilities/_all.sass';
+@import '~bulma/sass/base/_all.sass';
+@import '~bulma/sass/layout/_all.sass';
+@import '~bulma/sass/grid/_all.sass';
+@import '~bulma/sass/elements/button.sass';
+@import '~bulma/sass/elements/container.sass';
+@import '~bulma/sass/elements/content.sass';
+@import '~bulma/sass/elements/icon.sass';
+@import '~bulma/sass/elements/table.sass';
+@import '~bulma/sass/elements/tag.sass';
+@import '~bulma/sass/elements/title.sass';
+@import '~bulma/sass/components/navbar.sass';
+@import '~bulma/sass/components/tabs.sass';
+@import '~bulma/sass/components/card.sass';
+@import '~bulma/sass/components/message.sass';
+@import "~bulma/sass/form/_all.sass";
 
 html,
 body {

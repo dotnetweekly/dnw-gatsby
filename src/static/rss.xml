@@ -1,80 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>dotNET Weekly - Week undefined Year undefined</title>
-        <link>https://www.dotnetweekly.com/week/undefined/year/undefined?feed=rss</link>
+        <title>dotNET Weekly - Week 32 Year 2019</title>
+        <link>https://www.dotnetweekly.com/week/32/year/2019?feed=rss</link>
         <description></description>
-        <lastBuildDate>Sat, 03 Aug 2019 04:47:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Aug 2019 03:14:14 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <category>Articles</category>
-        <category>Videos</category>
         <item>
-            <title><![CDATA[Effective mocking]]></title>
-            <link>https://www.dotnetweekly.com/articles/effective-mocking</link>
-            <guid>https://www.dotnetweekly.com/articles/effective-mocking</guid>
-            <pubDate>Tue, 30 Jul 2019 21:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[How to avoid common mocking issues and save a lot of typing with the help of Roslyn.]]></content:encoded>
+            <title><![CDATA[Online tools for .NET web developers]]></title>
+            <link>https://www.dotnetweekly.com/articles/online-tools-for-net-web-developers</link>
+            <guid>https://www.dotnetweekly.com/articles/online-tools-for-net-web-developers</guid>
+            <pubDate>Tue, 06 Aug 2019 08:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[This post is an overview of .NET tools I&#x27;ve built and a bit of history behind each tool. Learn more about the Web.config validator and XDT transform tester.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[.NET Core Counters internals: how to integrate counters in your monitoring pipeline]]></title>
-            <link>https://www.dotnetweekly.com/articles/net-core-counters-internals-how-to-integrate-counters-in-your-monitoring-pipeline</link>
-            <guid>https://www.dotnetweekly.com/articles/net-core-counters-internals-how-to-integrate-counters-in-your-monitoring-pipeline</guid>
-            <pubDate>Tue, 30 Jul 2019 04:41:06 GMT</pubDate>
-            <content:encoded><![CDATA[This post of the series digs into the implementation details of the new .NET Core counters.
-Part 1: Replace .NET performance counters by CLR event tracing.
-Part 2: Grab ETW Session, Providers and Events.
-Part 3: CLR Threading events with TraceEvent.
-Part 4: Spying on .NET Garbage Collector with TraceEvent.
-Part 5: Building your own Java GC logs in .NET
-Part6: Spying on .NET Core Garbage Collector with .NET Core EventPipes]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[.NET Framework to .NET Core to Docker]]></title>
-            <link>https://www.dotnetweekly.com/articles/net-framework-to-net-core-to-docker</link>
-            <guid>https://www.dotnetweekly.com/articles/net-framework-to-net-core-to-docker</guid>
-            <pubDate>Tue, 30 Jul 2019 04:40:26 GMT</pubDate>
-            <content:encoded><![CDATA[This is a "lessons learned" from taking an existing .NET Framework-based REST-ful service and getting it to run under .NET Core in a Docker container.
-
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[How to get HTTPS working on your local development environment in 5 minutes]]></title>
-            <link>https://www.dotnetweekly.com/articles/how-to-get-https-working-on-your-local-development-environment-in-5-minutes</link>
-            <guid>https://www.dotnetweekly.com/articles/how-to-get-https-working-on-your-local-development-environment-in-5-minutes</guid>
-            <pubDate>Tue, 30 Jul 2019 04:39:34 GMT</pubDate>
-            <content:encoded><![CDATA[Almost any website you visit today is protected by HTTPS. If yours isn’t yet, it should be. Securing your server with HTTPS also means that you can’t send requests to this server from one that isn’t protected by HTTPS. This poses a problem for developers who use a local development environment because all of them run on http://localhost out-of-the-box.
-
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Why was .NET called .NET?]]></title>
-            <link>https://www.dotnetweekly.com/articles/why-was-net-called-net</link>
-            <guid>https://www.dotnetweekly.com/articles/why-was-net-called-net</guid>
-            <pubDate>Tue, 30 Jul 2019 04:37:28 GMT</pubDate>
-            <content:encoded><![CDATA[Microsoft was desperate for relevance in late 1999 at the height of the dot com mania. There were about a dozen technical committees that were supposed to be figuring out the future (the company leaked that Bill was personally chairing the user experience committee) which would be laid out at a press event with the grandiose name of Forum 2000. The committees were pretty much a bust in terms of delivering anything but the company still felt it had to demonstrate it had a future, so there was some furious sausage-making. 
-
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[TWC9: .NET Core 3.0 Preview 7, Visual Studio 2019 Updates, TypeScript 3.6 Beta and more]]></title>
-            <link>https://www.dotnetweekly.com/articles/twc9-net-core-30-preview-7-visual-studio-2019-updates-typescript-36-beta-and-more</link>
-            <guid>https://www.dotnetweekly.com/articles/twc9-net-core-30-preview-7-visual-studio-2019-updates-typescript-36-beta-and-more</guid>
-            <pubDate>Tue, 30 Jul 2019 04:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[This Week on Channel 9, Christina is refreshed from Microsoft's internal hackathon and ready to dive into the latest developer news]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Bidirectional Messages Streaming with .NET Core 3.0 Using gRPC]]></title>
-            <link>https://www.dotnetweekly.com/articles/bidirectional-messages-streaming-with-net-core-30-using-grpc</link>
-            <guid>https://www.dotnetweekly.com/articles/bidirectional-messages-streaming-with-net-core-30-using-grpc</guid>
-            <pubDate>Tue, 30 Jul 2019 04:35:30 GMT</pubDate>
-            <content:encoded><![CDATA[One of the most important new features of .NET Core 3.0 (available now in pre-release and supposed to be released later this year) is its support for gRPC messaging. Wikipedia describes gRPC as follows:
-
-gRPC (gRPC Remote Procedure Calls) is an open source remote procedure call (RPC) system initially developed at Google. It uses HTTP/2 for transport, Protocol Buffers as the interface description language, and provides features such as authentication, bidirectional streaming and flow control, blocking or nonblocking bindings, and cancellation and timeouts. It generates cross-platform client and server bindings for many languages. Most common usage scenarios include connecting services in microservices style architecture and connect mobile devices, browser clients to backend services.
-
-The "killer feature" of gRPC is said to be a support of simultaneous full duplex streaming. HTTP/2 protocol is used for that matter as a transport protocol. Protocol Buffers is used for effective serialization.
-
-As it was said above, .NET Core 3.0 Framework supports gRPC based communication. Visual Studio 2019 offers a boilerplate code for gRPC service. However, this code provides only one-way communication with no message streaming. The project acts as departure point to the current work. In my code, I tried to pick up common code for server and client and combine it to convenient infrastructure that supports bidirectional message streaming with .NET Core 3.0 using gRPC.]]></content:encoded>
+            <title><![CDATA[Memory Leak C#]]></title>
+            <link>https://www.dotnetweekly.com/articles/memory-leak-c</link>
+            <guid>https://www.dotnetweekly.com/articles/memory-leak-c</guid>
+            <pubDate>Mon, 05 Aug 2019 17:35:27 GMT</pubDate>
+            <content:encoded><![CDATA[Many of us were taught that .NET manages memory automatically. There is no need to explicitly free memory. It just kind of goes away with the garbage collector. Though, It doesn’t mean we can’t have memory leaks. In this tutorial we will learn what is a memory leak in C# and how to measure .NET application performance with a variety of tools to diagnose memory issues.]]></content:encoded>
         </item>
     </channel>
 </rss>
