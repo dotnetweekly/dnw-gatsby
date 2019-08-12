@@ -1,165 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>dotNET Weekly - Week 32 Year 2019</title>
-        <link>https://www.dotnetweekly.com/week/32/year/2019?feed=rss</link>
+        <title>dotNET Weekly - Week undefined Year undefined</title>
+        <link>https://www.dotnetweekly.com/week/undefined/year/undefined?feed=rss</link>
         <description></description>
-        <lastBuildDate>Sun, 11 Aug 2019 04:37:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Aug 2019 03:10:37 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <category>Articles</category>
-        <category>Videos</category>
-        <category>Libraries-Tools</category>
         <item>
-            <title><![CDATA[Online tools for .NET web developers]]></title>
-            <link>https://www.dotnetweekly.com/articles/online-tools-for-net-web-developers</link>
-            <guid>https://www.dotnetweekly.com/articles/online-tools-for-net-web-developers</guid>
-            <pubDate>Tue, 06 Aug 2019 08:12:56 GMT</pubDate>
-            <content:encoded><![CDATA[This post is an overview of .NET tools I&#x27;ve built and a bit of history behind each tool. Learn more about the Web.config validator and XDT transform tester.]]></content:encoded>
+            <title><![CDATA[Debug & Catch Exceptions in Visual Studio: The Complete Guide]]></title>
+            <link>https://www.dotnetweekly.com/articles/debug-and-catch-exceptions-in-visual-studio-the-complete-guide</link>
+            <guid>https://www.dotnetweekly.com/articles/debug-and-catch-exceptions-in-visual-studio-the-complete-guide</guid>
+            <pubDate>Mon, 12 Aug 2019 16:45:54 GMT</pubDate>
+            <content:encoded><![CDATA[One of the most important concepts in modern programming is Exceptions. They were introduced in the 60’s with LISP and eventually made their way to practically all modern programming languages.
+
+The simple concept is this: When some kind of error occurs during runtime, the execution will terminate and an Exception will be thrown. This will cause the stack to unwind until an appropriate Exception Handler is found. It’s a brilliant concept really. ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[SPA SEO: A Single-Page App Guide to Google’s 1st Page]]></title>
-            <link>https://www.dotnetweekly.com/articles/spa-seo-a-single-page-app-guide-to-googles-1st-page</link>
-            <guid>https://www.dotnetweekly.com/articles/spa-seo-a-single-page-app-guide-to-googles-1st-page</guid>
-            <pubDate>Tue, 06 Aug 2019 02:27:27 GMT</pubDate>
-            <content:encoded><![CDATA[Single-page application (SPA) SEO is hard—not impossible. Read this resource-packed guide to optimize your React, Vue or Angular app for Google.
-
-]]></content:encoded>
+            <title><![CDATA[Vue.js 3: Future-Oriented Programming]]></title>
+            <link>https://www.dotnetweekly.com/articles/vuejs-3-future-oriented-programming</link>
+            <guid>https://www.dotnetweekly.com/articles/vuejs-3-future-oriented-programming</guid>
+            <pubDate>Mon, 12 Aug 2019 16:44:44 GMT</pubDate>
+            <content:encoded><![CDATA[If you are interested in Vue.js, you probably know about the 3rd version of this framework, which will be released shortly (if you are reading this article from the future, I hope it’s still relevant 😉). The new version is under active development for now, but all possible features can be found in separate RFC (request for comments) repository: https://github.com/vuejs/rfcs. One of them, function-api, can dramatically change the style of developing Vue apps.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Dapper In .NET Core – Part 1 – The What/Why/Who]]></title>
-            <link>https://www.dotnetweekly.com/articles/dapper-in-net-core-part-1-the-what-why-who</link>
-            <guid>https://www.dotnetweekly.com/articles/dapper-in-net-core-part-1-the-what-why-who</guid>
-            <pubDate>Tue, 06 Aug 2019 02:26:09 GMT</pubDate>
-            <content:encoded><![CDATA[For some time now I’ve been a huge fan of using Dapper in both personal and commercial projects. With more and more projects lending themselves to Microservices architecture, or at the very least a large application being made up of many smaller components, Dapper just makes sense.
+            <title><![CDATA[SOLID Design: The Single Responsibility Principle (SRP)]]></title>
+            <link>https://www.dotnetweekly.com/articles/solid-design-the-single-responsibility-principle-srp</link>
+            <guid>https://www.dotnetweekly.com/articles/solid-design-the-single-responsibility-principle-srp</guid>
+            <pubDate>Mon, 12 Aug 2019 16:43:54 GMT</pubDate>
+            <content:encoded><![CDATA[SRP is a principle that cannot be easily inferred from its definition. Moreover the SRP lets a lot of room for own opinions and interpretations. So what is SRP about? SRP is about logic partitioning into code: which logic should be declared in which class. Something to keep in mind is that SRP is the only SOLID principle not related to the usage of abstraction and polymorphism.
 
-But I’m getting a little tired of telling the same story of what Dapper is and what it’s capable of doing, so here’s my attempt at a “crash course” in Dapper with .NET Core.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Think Twice Before Returning null]]></title>
-            <link>https://www.dotnetweekly.com/articles/think-twice-before-returning-null</link>
-            <guid>https://www.dotnetweekly.com/articles/think-twice-before-returning-null</guid>
-            <pubDate>Tue, 06 Aug 2019 02:21:33 GMT</pubDate>
-            <content:encoded><![CDATA[Let’s say you are working in the kitchen and preparing a five-course meal. A five-course meal is a considerable amount of work, but fortunately, you have an assistant who can help you with the mise en place. You’ve asked your assistant to cube some Russet potatoes, julienne some baby carrots, and dice some red onions. After 15 minutes of working, you check on your assistant’s progress and ...
-
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Try out Nullable Reference Types]]></title>
-            <link>https://www.dotnetweekly.com/articles/try-out-nullable-reference-types</link>
-            <guid>https://www.dotnetweekly.com/articles/try-out-nullable-reference-types</guid>
-            <pubDate>Tue, 06 Aug 2019 02:21:09 GMT</pubDate>
-            <content:encoded><![CDATA[With the release of .NET Core 3.0 Preview 7, C# 8.0 is considered "feature complete". That means that the biggest feature of them all, Nullable Reference Types, is also locked down behavior-wise for the .NET Core release. It will continue to improve after C# 8.0, but it is now considered stable with the rest of C# 8.0.
-
-At this time, our aim is to collect as much feedback about the process of adopting nullability as possible, catch any issues, and collect feedback on further improvements to the feature that we can do after .NET Core 3.0. This is one of the largest features ever built for C#, and although we’ve done our best to get things right, we need your help!
-
-It is at this junction that we especially call upon .NET library authors to try out the feature and begin annotating your libraries. We’d love to hear your feedback and help resolve any issues you come across.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Heap Sort - The Sorting Algorithm Family Reunion]]></title>
-            <link>https://www.dotnetweekly.com/articles/heap-sort-the-sorting-algorithm-family-reunion</link>
-            <guid>https://www.dotnetweekly.com/articles/heap-sort-the-sorting-algorithm-family-reunion</guid>
-            <pubDate>Tue, 06 Aug 2019 02:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[Heap Sort, the second daughter of the family, has a busy life.  As the owner of a local, well-liked restaurant, Heap Sort's Heaping Helpings, she is constantly running around trying to make her restaurant better.  As the mom of four kids, she (and husband Cocktail Shaker Sort) are constantly trying to stay one step ahead of their childrens' antics, not always with success.
-
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Approval Tests]]></title>
-            <link>https://www.dotnetweekly.com/articles/approval-tests</link>
-            <guid>https://www.dotnetweekly.com/articles/approval-tests</guid>
-            <pubDate>Tue, 06 Aug 2019 02:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[Approval Tests or Snapshot Tests are in my opinion a vital part of the testing ecosystem that can service a number of uses cases. In this post I’ll introduce the concepts and discuss some of the scenarios we may want to employ them to best effect.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Calling all .NET desktop and mobile developers!]]></title>
-            <link>https://www.dotnetweekly.com/articles/calling-all-net-desktop-and-mobile-developers</link>
-            <guid>https://www.dotnetweekly.com/articles/calling-all-net-desktop-and-mobile-developers</guid>
-            <pubDate>Tue, 06 Aug 2019 02:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[We would love to hear about your experience with building client applications in .NET. Your feedback will greatly help us to improve the .NET tooling and ensure our roadmap focuses on your needs. Participate in shaping the future of the .NET client development by taking this short survey (5 minutes to complete).
-
-We are also searching for developers to discuss new concepts and prototypes, so tell us in the survey if you would like .NET engineering team to reach out to you about upcoming opportunities in .NET UI development.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Update on .NET Standard adoption]]></title>
-            <link>https://www.dotnetweekly.com/articles/update-on-net-standard-adoption</link>
-            <guid>https://www.dotnetweekly.com/articles/update-on-net-standard-adoption</guid>
-            <pubDate>Tue, 06 Aug 2019 02:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[It’s about two years ago that I announced .NET Standard 2.0. Since then we’ve been working hard to increase the set of .NET Standard-based libraries for .NET. This includes many of the BCL components, such as the Windows Compatibility Pack, but also other popular libraries, such as the JSON.NET, the Azure SDK, or the AWS SDK. In this blog post, I’ll share some thoughts and numbers about the .NET ecosystem and .NET Standard.
-
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Self-contained executable with .NET Core 3.0 on Windows, Linux and Raspberry]]></title>
-            <link>https://www.dotnetweekly.com/articles/self-contained-executable-with-net-core-30-on-windows-linux-and-raspberry</link>
-            <guid>https://www.dotnetweekly.com/articles/self-contained-executable-with-net-core-30-on-windows-linux-and-raspberry</guid>
-            <pubDate>Tue, 06 Aug 2019 02:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[.NET Core 3.0 comes with support for self-contained executables. It means we can publish applications as a single executable for specified platform. Also trimming – removing of unused code from assemblies – is supported. This blog post demonstrates how to build self-contained executable using .NET Core 3.0.
-
-
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[A Glimpse Into the Future of Xamarin]]></title>
-            <link>https://www.dotnetweekly.com/articles/a-glimpse-into-the-future-of-xamarin</link>
-            <guid>https://www.dotnetweekly.com/articles/a-glimpse-into-the-future-of-xamarin</guid>
-            <pubDate>Tue, 06 Aug 2019 02:13:02 GMT</pubDate>
-            <content:encoded><![CDATA[Join James Montemagno, Maddy Leger, and David Ortinau as they show you a glimpse into the future of building beautiful mobile apps with world class tools with Xamarin.
-
-This session was recorded live at the Xamarin Developer Summit: July 11th-12th 2019 in Houston, TX.  The Xamarin Developer Summit is a premiere community-run, cross-platform, mobile developer conference, to learn more head to https://xamarindevelopersummit.com/]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Debugging Tips and Tricks Part 1]]></title>
-            <link>https://www.dotnetweekly.com/articles/https-channel9msdncom-shows-visual-studio-toolbox-debugging-tips-and-tricks-part-1</link>
-            <guid>https://www.dotnetweekly.com/articles/https-channel9msdncom-shows-visual-studio-toolbox-debugging-tips-and-tricks-part-1</guid>
-            <pubDate>Tue, 06 Aug 2019 02:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[In this episode (part 1 of 2), Robert is joined by Leslie Richardson, who shows several ways you can get the most out of Visual Studio's debugging tools. She shows a number of features, most of which have been in the product all along. Whether you are a new or experienced developer, you will see some things you can use to help solve issues in your code. 
-
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Effective mocking]]></title>
-            <link>https://www.dotnetweekly.com/articles/https-cezarypiatekgithubio-post-effective-mocking</link>
-            <guid>https://www.dotnetweekly.com/articles/https-cezarypiatekgithubio-post-effective-mocking</guid>
-            <pubDate>Tue, 06 Aug 2019 02:10:50 GMT</pubDate>
-            <content:encoded><![CDATA[Recently, I’ve been asked if Roslyn can be used for helping with writing code that involves preparing mocks with NSubstitute. Of course, my answer was "Yes" but instead of rushing into creating a new project that would implement this functionality, I performed a small research. I checked nuget.org and Visual Studio extensions marketplace, and I discovered that there was a bunch of existing analyzers and extensions that facilitated working with mocks and not only for NSubstitute but for other mocking frameworks, just like Moq or Fake It Easy, too. In this blog post, I will show you how these tools are helping to avoid common problems with mocking and boost your productivity by saving you a lot of typing. Presented examples will be mostly based on the Moq library because it’s my favoring mocking package.
-
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Advanced Test-Driven Development In C#]]></title>
-            <link>https://www.dotnetweekly.com/articles/advanced-test-driven-development-in-c</link>
-            <guid>https://www.dotnetweekly.com/articles/advanced-test-driven-development-in-c</guid>
-            <pubDate>Tue, 06 Aug 2019 02:08:41 GMT</pubDate>
-            <content:encoded><![CDATA[This article discusses advanced Test-Driven Development (TDD) in C# through a simple example. Whether you are a new or experienced developer, this article will show you every step of TDD through a very simple example.
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[HttpRepl: A command-line tool for interacting with RESTful HTTP services]]></title>
-            <link>https://www.dotnetweekly.com/articles/httprepl-a-command-line-tool-for-interacting-with-restful-http-services</link>
-            <guid>https://www.dotnetweekly.com/articles/httprepl-a-command-line-tool-for-interacting-with-restful-http-services</guid>
-            <pubDate>Tue, 06 Aug 2019 02:08:20 GMT</pubDate>
-            <content:encoded><![CDATA[The ASP.NET team has built a command-line tool called HttpRepl. It lets you browse and invoke HTTP services in a similar way to working with files and folders. You give it a starting point (a base URL) and then you can execute commands like “dir” and “cd” to navigate your way around the API:
-
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Using a Code-Behind Approach to Blazor Components]]></title>
-            <link>https://www.dotnetweekly.com/articles/using-a-code-behind-approach-to-blazor-components</link>
-            <guid>https://www.dotnetweekly.com/articles/using-a-code-behind-approach-to-blazor-components</guid>
-            <pubDate>Tue, 06 Aug 2019 02:06:00 GMT</pubDate>
-            <content:encoded><![CDATA[In this article we'll look into when it's helpful to use a code-behind in your Blazor development, how we benefit and what to expect when re-factoring existing components.
-
-When working with Blazor the default component architecture is to have all of the markup and logic mixed within a single file (.razor). When components are simple this approach works well, however as the complexity becomes greater managing the entirety of a component as a whole becomes difficult. Using a "code-behind" approach allows for markup and logic to be separated into their own files. In this article we'll look into when it's helpful to use a code-behind, how we benefit and what to expect when re-factoring existing components.
-
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Memory Leak C#]]></title>
-            <link>https://www.dotnetweekly.com/articles/memory-leak-c</link>
-            <guid>https://www.dotnetweekly.com/articles/memory-leak-c</guid>
-            <pubDate>Mon, 05 Aug 2019 17:35:27 GMT</pubDate>
-            <content:encoded><![CDATA[Many of us were taught that .NET manages memory automatically. There is no need to explicitly free memory. It just kind of goes away with the garbage collector. Though, It doesn’t mean we can’t have memory leaks. In this tutorial we will learn what is a memory leak in C# and how to measure .NET application performance with a variety of tools to diagnose memory issues.]]></content:encoded>
+The goal of this post is to propose objective and concrete guidelines to increase your classes compliance with SRP, and in-fine, increase the maintainability of your code.]]></content:encoded>
         </item>
     </channel>
 </rss>
