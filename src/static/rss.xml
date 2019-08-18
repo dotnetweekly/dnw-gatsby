@@ -4,105 +4,78 @@
         <title>dotNET Weekly - Week undefined Year undefined</title>
         <link>https://www.dotnetweekly.com/week/undefined/year/undefined?feed=rss</link>
         <description></description>
-        <lastBuildDate>Sat, 17 Aug 2019 18:29:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Aug 2019 23:32:51 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
-        <category>Events-training</category>
         <category>Articles</category>
         <item>
-            <title><![CDATA[Microsoft Professional Program is retiring. Introducing Microsoft Learn.]]></title>
-            <link>https://www.dotnetweekly.com/articles/microsoft-professional-program-is-retiring-introducing-microsoft-learn</link>
-            <guid>https://www.dotnetweekly.com/articles/microsoft-professional-program-is-retiring-introducing-microsoft-learn</guid>
-            <pubDate>Thu, 15 Aug 2019 21:23:56 GMT</pubDate>
-            <content:encoded><![CDATA[Three years ago, we launched the Microsoft Professional Program (MPP) with one mission: to help you build the technical skills you need to succeed in emerging jobs.
+            <title><![CDATA[JavaScript & Node.js testing best practices]]></title>
+            <link>https://www.dotnetweekly.com/articles/javascript-and-nodejs-testing-best-practices</link>
+            <guid>https://www.dotnetweekly.com/articles/javascript-and-nodejs-testing-best-practices</guid>
+            <pubDate>Mon, 19 Aug 2019 23:30:46 GMT</pubDate>
+            <content:encoded><![CDATA[Table of contents
+Section 0: The Golden Rule
+Single advice that inspires all the others (1 special bullet)
 
-Since that time, the importance of technical skills and industry-recognized certifications has grown.
+Section 1: The Test Anatomy
+The foundation - structuring clean tests (12 bullets)
 
-Research tells us that:
+Section 2: Backend
+Writing backend and Microservices tests efficiently (8 bullets)
 
-Certified new hires reach full productivity sooner and find more opportunities for advancement.
-Certified employees earn 15 percent more than those without certification.
-Employees with certifications are nearly 20 percent more productive.
-That’s why we’ve decided to evolve our approach into a program where you can work toward a technical certification. How?
+Section 3: Frontend, UI, E2E
+Writing tests for web UI including component and E2E tests (11 bullets)
 
-To help you succeed, we have created Microsoft Learn—a free, interactive way of learning that helps you prepare for certifications. It combines short step-by-step tutorials, interactive browser-based coding/scripting environments, and task-based achievements.
+Section 4: Measuring Tests Effectiveness
+Watching the watchman - measuring test quality (4 bullets)
 
-As we retire MPP, Microsoft Learn becomes your destination for building the skills you need to be successful.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Web Accessibility vs. Usability]]></title>
-            <link>https://www.dotnetweekly.com/articles/web-accessibility-vs-usability</link>
-            <guid>https://www.dotnetweekly.com/articles/web-accessibility-vs-usability</guid>
-            <pubDate>Thu, 15 Aug 2019 03:02:46 GMT</pubDate>
-            <content:encoded><![CDATA[Web accessibility and usability are closely related, but the two terms are quite different. Although they’re commonly used interchangeably, it’s important to understand the differences between the two terms. In order to do so, we must establish the link between web accessibility and usability while outlining what makes each term unique. Let’s start off with looking at web accessibility and what it means.
+Section 5: Continous Integration
+Guidelines for CI in the JS world (9 bullets)
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ML.NET 1.3.1]]></title>
-            <link>https://www.dotnetweekly.com/articles/mlnet-131</link>
-            <guid>https://www.dotnetweekly.com/articles/mlnet-131</guid>
-            <pubDate>Thu, 15 Aug 2019 03:00:53 GMT</pubDate>
-            <content:encoded><![CDATA[Deep Neural Networks Training (PREVIEW) (#4057)
-Introduces in-preview 0.15.1 Microsoft.ML.DNN package that enables full DNN model retraining and transfer learning in .NET using C# bindings for tensorflow provided by Tensorflow .NET. The goal of this package is to allow high level DNN training and scoring tasks such as image classification, text classification, object detection, etc using simple yet powerful APIs that are framework agnostic but currently they only uses Tensorflow as the backend. The below APIs are in early preview and we hope to get customer feedback that we can incorporate in the next iteration.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Build a ML.NET Machine Learning Model in F#]]></title>
-            <link>https://www.dotnetweekly.com/articles/build-a-mlnet-machine-learning-model-in-f</link>
-            <guid>https://www.dotnetweekly.com/articles/build-a-mlnet-machine-learning-model-in-f</guid>
-            <pubDate>Thu, 15 Aug 2019 02:55:25 GMT</pubDate>
-            <content:encoded><![CDATA[Using F# to build a machine learning model with ML.NET.
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Tips for Preparing for Microsoft Certification Exams]]></title>
-            <link>https://www.dotnetweekly.com/articles/tips-for-preparing-for-microsoft-certification-exams</link>
-            <guid>https://www.dotnetweekly.com/articles/tips-for-preparing-for-microsoft-certification-exams</guid>
-            <pubDate>Thu, 15 Aug 2019 02:53:21 GMT</pubDate>
-            <content:encoded><![CDATA[To pass a certification exam and earn a Microsoft certification requires being prepared and knowing the content being tested. This can come from experience using the technologies, however, this doesn’t get you 100% of the way to passing through experience alone. Often you don’t use all the technologies and do all the tasks covered on the exam through your daily job duties. As a result, you will need to study.
+            <title><![CDATA[Getting Started with gRPC Client Factory]]></title>
+            <link>https://www.dotnetweekly.com/articles/getting-started-with-grpc-client-factory</link>
+            <guid>https://www.dotnetweekly.com/articles/getting-started-with-grpc-client-factory</guid>
+            <pubDate>Mon, 19 Aug 2019 23:29:44 GMT</pubDate>
+            <content:encoded><![CDATA[Regular visitors of my blog will know that I’ve written a lot of posts about the HttpClientFactory feature, available in the Microsoft.Extensions.Http package which simplifies the consumption and proper lifetime usage of HttpClient instances.
 
-The keys to preparing for Microsoft certification exams are finding all the right study tools and materials necessary for your learning style. It also helps to go through a practice test of some kind to help prepare and really drill in the memorization of the technical knowledge required.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Announcing the preview of GitHub Actions for Azure]]></title>
-            <link>https://www.dotnetweekly.com/articles/announcing-the-preview-of-github-actions-for-azure</link>
-            <guid>https://www.dotnetweekly.com/articles/announcing-the-preview-of-github-actions-for-azure</guid>
-            <pubDate>Thu, 15 Aug 2019 02:51:33 GMT</pubDate>
-            <content:encoded><![CDATA[On Thursday, August 8, 2019, GitHub announced the preview of GitHub Actions with support for Continuous Integration and Continuous Delivery (CI/CD). Actions makes it possible to create simple, yet powerful pipelines and automate software compilation and delivery. Today, we are announcing the preview of GitHub Actions for Azure.
+Recently, I’ve begun digging into gRPC and I’m pleased to see a similar pattern is available for gRPC-based communication.
 
-With these new Actions, developers can quickly build, test, and deploy code from GitHub repositories to the cloud with Azure.]]></content:encoded>
+In this post, I want to show a quick example of how to get started with the gRPC Client Factory. I’m going to focus on adding this to an ASP.NET Core 3.0 web project, which will act as a client of an external gRPC service. This post assumes a little knowledge about gRPC. You can read my earlier blog post (slightly outdated now) which covers some extra ground.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Announcing .NET Core 3.0 Preview 8]]></title>
-            <link>https://www.dotnetweekly.com/articles/announcing-net-core-30-preview-8</link>
-            <guid>https://www.dotnetweekly.com/articles/announcing-net-core-30-preview-8</guid>
-            <pubDate>Thu, 15 Aug 2019 02:47:57 GMT</pubDate>
-            <content:encoded><![CDATA[Today, we are announcing .NET Core 3.0 Preview 8. Just like with Preview 7, we’ve focused on polishing .NET Core 3.0 for a final release and are not adding new features. If these final previews seem anti-climatic, that’s by design.]]></content:encoded>
+            <title><![CDATA[DevOps for .Net Core/.Net Standard: Common CI Issues Solving]]></title>
+            <link>https://www.dotnetweekly.com/articles/devops-for-net-core-net-standard-common-ci-issues-solving</link>
+            <guid>https://www.dotnetweekly.com/articles/devops-for-net-core-net-standard-common-ci-issues-solving</guid>
+            <pubDate>Mon, 19 Aug 2019 23:29:07 GMT</pubDate>
+            <content:encoded><![CDATA[Recently got chances to work on Azure DevOps for Desktop (UWP/WPF/Desktop Bridge/MSIX) , and often need to CI/CD .Net Core and .Net Standard. Most of them are related to SDK setup, NuGet version update, TargetPlatform settings, or Code Sign Certificate trust. This article is to give quick references on how to solve common CI issues for this scenario.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Debug & Catch Exceptions in Visual Studio: The Complete Guide]]></title>
-            <link>https://www.dotnetweekly.com/articles/debug-and-catch-exceptions-in-visual-studio-the-complete-guide</link>
-            <guid>https://www.dotnetweekly.com/articles/debug-and-catch-exceptions-in-visual-studio-the-complete-guide</guid>
-            <pubDate>Mon, 12 Aug 2019 16:45:54 GMT</pubDate>
-            <content:encoded><![CDATA[One of the most important concepts in modern programming is Exceptions. They were introduced in the 60’s with LISP and eventually made their way to practically all modern programming languages.
+            <title><![CDATA[A plugin system with .NET Core]]></title>
+            <link>https://www.dotnetweekly.com/articles/a-plugin-system-with-net-core</link>
+            <guid>https://www.dotnetweekly.com/articles/a-plugin-system-with-net-core</guid>
+            <pubDate>Mon, 19 Aug 2019 23:26:54 GMT</pubDate>
+            <content:encoded><![CDATA[In this post, I show how you could implement a plugin system that can unload the plugins dynamically. I also provide some background information behind the techniques and classes involved. Unlike the AppDomain, the AssemblyLoadContext lets you unload the plugin types and the owned assemblies - sounds promising, right?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Fantastic Front-End Performance Tricks & Why We Do Them]]></title>
+            <link>https://www.dotnetweekly.com/articles/fantastic-front-end-performance-tricks-and-why-we-do-them</link>
+            <guid>https://www.dotnetweekly.com/articles/fantastic-front-end-performance-tricks-and-why-we-do-them</guid>
+            <pubDate>Mon, 19 Aug 2019 23:26:08 GMT</pubDate>
+            <content:encoded><![CDATA[In Part 1, we explored why front-end performance is an essential ingredient for any website serious about achieving its goals. We then learned about the common metrics which are used to measure major performance as well as some for the best tools to collect this data for you.
 
-The simple concept is this: When some kind of error occurs during runtime, the execution will terminate and an Exception will be thrown. This will cause the stack to unwind until an appropriate Exception Handler is found. It’s a brilliant concept really. ]]></content:encoded>
+Now that we know how to measure and understand a website’s current performance, in Part 2, we’re going to talk about some of the recommended front-end performance optimization techniques you can use to improve it. All of these can be built into your web development workflow starting today.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Vue.js 3: Future-Oriented Programming]]></title>
-            <link>https://www.dotnetweekly.com/articles/vuejs-3-future-oriented-programming</link>
-            <guid>https://www.dotnetweekly.com/articles/vuejs-3-future-oriented-programming</guid>
-            <pubDate>Mon, 12 Aug 2019 16:44:44 GMT</pubDate>
-            <content:encoded><![CDATA[If you are interested in Vue.js, you probably know about the 3rd version of this framework, which will be released shortly (if you are reading this article from the future, I hope it’s still relevant 😉). The new version is under active development for now, but all possible features can be found in separate RFC (request for comments) repository: https://github.com/vuejs/rfcs. One of them, function-api, can dramatically change the style of developing Vue apps.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SOLID Design: The Single Responsibility Principle (SRP)]]></title>
-            <link>https://www.dotnetweekly.com/articles/solid-design-the-single-responsibility-principle-srp</link>
-            <guid>https://www.dotnetweekly.com/articles/solid-design-the-single-responsibility-principle-srp</guid>
-            <pubDate>Mon, 12 Aug 2019 16:43:54 GMT</pubDate>
-            <content:encoded><![CDATA[SRP is a principle that cannot be easily inferred from its definition. Moreover the SRP lets a lot of room for own opinions and interpretations. So what is SRP about? SRP is about logic partitioning into code: which logic should be declared in which class. Something to keep in mind is that SRP is the only SOLID principle not related to the usage of abstraction and polymorphism.
+            <title><![CDATA[Logging in C# .NET Modern-day Practices: The Complete Guide]]></title>
+            <link>https://www.dotnetweekly.com/articles/logging-in-c-net-modern-day-practices-the-complete-guide</link>
+            <guid>https://www.dotnetweekly.com/articles/logging-in-c-net-modern-day-practices-the-complete-guide</guid>
+            <pubDate>Mon, 19 Aug 2019 23:23:52 GMT</pubDate>
+            <content:encoded><![CDATA[Logging is a big part of software development for many years now. One can argue that a logging mechanism is a must-have part of any application or library. I would agree with that statement.
 
-The goal of this post is to propose objective and concrete guidelines to increase your classes compliance with SRP, and in-fine, increase the maintainability of your code.]]></content:encoded>
+Logging has a crucial part to play in a scenario where you can’t use interactive debugging (that is, attaching a debugger like Visual Studio). It allows us to investigate errors after the problem already happened. In some cases, like Production Debugging, logs might be the only information you have.]]></content:encoded>
         </item>
     </channel>
 </rss>
