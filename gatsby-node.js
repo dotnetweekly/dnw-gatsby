@@ -46,44 +46,44 @@ exports.onCreatePage = async ({ page, actions }) => {
   // page.matchPath is a special key that's used for matching pages
   // only on the client.
   return new Promise((resolve, reject) => {
-    if (page.path === '/activate/') {
-      deletePage(page)
+    if (page.path.match(/^\/activate/)) {
+      page.matchPath = "/activate/*"
       // Update the page.
       createPage({
         path: '/activate/*',
         component: path.resolve(path.join(__dirname, `src/pages/activate.js`)),
       })
-    }
-    if (page.path === '/forgot-password/') {
-      deletePage(page)
-      // Update the page.
-      createPage({
-        path: '/forgot-password/*',
-        component: path.resolve(
-          path.join(__dirname, `src/pages/forgot-password.js`)
-        ),
-      })
-    }
-    if (page.path === '/updateEmail/') {
-      deletePage(page)
-      // Update the page.
-      createPage({
-        path: '/updateEmail/*',
-        component: path.resolve(
-          path.join(__dirname, `src/pages/updateEmail.js`)
-        ),
-      })
-    }
-    if (page.path === '/unsubscribe/') {
-      deletePage(page)
-      // Update the page.
-      createPage({
-        path: '/unsubscribe/*',
-        component: path.resolve(
-          path.join(__dirname, `src/pages/unsubscribe.js`)
-        ),
-      })
-    }
+    } else
+      if (page.path.match(/^\/forgot\-password/)) {
+        page.matchPath = "/forgot-password/*"
+        // Update the page.
+        createPage({
+          path: '/forgot-password/*',
+          component: path.resolve(
+            path.join(__dirname, `src/pages/forgot-password.js`)
+          ),
+        })
+      } else
+        if (page.path.match(/^\/updateEmail/)) {
+          page.matchPath = "/updateEmail/*"
+          // Update the page.
+          createPage({
+            path: '/updateEmail/*',
+            component: path.resolve(
+              path.join(__dirname, `src/pages/updateEmail.js`)
+            ),
+          })
+        } else
+          if (page.path.match(/^\/unsubscribe/)) {
+            page.matchPath = "/unsubscribe/*"
+            // Update the page.
+            createPage({
+              path: '/unsubscribe/*',
+              component: path.resolve(
+                path.join(__dirname, `src/pages/unsubscribe.js`)
+              ),
+            })
+          }
     resolve()
   })
 }

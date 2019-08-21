@@ -6,4 +6,5 @@
 <url> <loc>https://www.dotnetweekly.com/articles/a-plugin-system-with-net-core</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/fantastic-front-end-performance-tricks-and-why-we-do-them</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/logging-in-c-net-modern-day-practices-the-complete-guide</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/avoid-multithreading-traps-with-roslyn-lock-object-selection</loc> </url>
 </urlset>
