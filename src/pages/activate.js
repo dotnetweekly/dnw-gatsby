@@ -45,6 +45,9 @@ class ActivatePage extends React.Component {
           key: activationCode[0],
         })
         .then(response => {
+          if (response.data.data.error) {
+            response.data = { "data": { "errors": [{ "error": response.data.data.error }] } }
+          }
           if (
             response.data.data.errors &&
             response.data.data.errors.length > 0
@@ -66,7 +69,7 @@ class ActivatePage extends React.Component {
               isLoading: false,
             })
             navigate('/profile')
-          }, 5000)
+          }, 115000)
         })
         .catch(() => {
           const errors = [{ field: 'title', error: 'Undefined error' }]
@@ -92,8 +95,8 @@ class ActivatePage extends React.Component {
           {isLoading && <h1>Activating...</h1>}
           {errors.length > 0 && (
             <ul>
-              {errors.map(error => (
-                <li>{error.error}</li>
+              {errors.map((error, i) => (
+                <li key={i}>{error.error}</li>
               ))}
             </ul>
           )}
