@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/jazsharp</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/one-simple-action-you-can-take-to-prevent-999-percent-of-attacks-on-your-accounts</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/understanding-azure-durable-functions-part-7-the-function-chaining-pattern</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/how-to-automate-rest-api-end-to-end-tests-in-a-ci-environment-with-postman-and-newman</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/announcing-the-preview-of-github-actions-for-azure</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/azure-tips-and-tricks</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/introducing-microsoft-edge-beta-be-one-of-the-first-to-try-it-now</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/6-steps-to-consume-aspnet-core-web-api-in-xamarin-applications</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/trying-to-run-rsocket-server-with-rsocketnet-and-aspnet-core-primitives-for-non-http-servers</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/javascript-and-nodejs-testing-best-practices</loc> </url>
