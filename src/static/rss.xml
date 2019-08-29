@@ -4,12 +4,19 @@
         <title>dotNET Weekly - Week undefined Year undefined</title>
         <link>https://www.dotnetweekly.com/week/undefined/year/undefined?feed=rss</link>
         <description></description>
-        <lastBuildDate>Thu, 29 Aug 2019 04:00:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Aug 2019 04:28:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
-        <category>Events-training</category>
         <category>Articles</category>
+        <category>Events-training</category>
         <category>Libraries-Tools</category>
+        <item>
+            <title><![CDATA[Dependency Injection in Vue.js Applications]]></title>
+            <link>https://www.dotnetweekly.com/articles/dependency-injection-in-vuejs-applications</link>
+            <guid>https://www.dotnetweekly.com/articles/dependency-injection-in-vuejs-applications</guid>
+            <pubDate>Thu, 29 Aug 2019 04:05:49 GMT</pubDate>
+            <content:encoded><![CDATA[I often wonder how to best decouple certain parts of an application. At first this seems pretty straightforward in the context of Vue.js applications. You have components and components pass down properties and emit events, that’s it. Right? Yeah, kinda. But also kinda not. Soon there will be the need to access global state or retrieve data from an external resource via an API. If we don’t be careful how we tackle these challenges, there will be the time when we realize that our components, which we planned to be nicely decoupled, use many external dependencies and are really anything but decoupled.]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[.NET Conf 2019 Teaser]]></title>
             <link>https://www.dotnetweekly.com/articles/net-conf-2019-teaser</link>
