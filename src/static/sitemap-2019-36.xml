@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/events-training/join-us-for-net-conf-2019-sept-23-25</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/modular-monolith-with-ddd</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/react-hooks-mini-crash-course</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/rest-and-graphql-are-not-your-only-choices-when-building-an-http-api</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/dynamic-controller-routing-in-aspnet-core-30</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/exploring-the-new-project-file-programcs-and-the-generic-host</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/website-performance-how-ive-improved-the-performance-of-this-website</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/more-license-discovery-with-dotnet-delice</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/creating-aspnet-apps-with-react</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/csharp-macros-let-the-roslyn-type-for-you</loc> </url>
+</urlset>
