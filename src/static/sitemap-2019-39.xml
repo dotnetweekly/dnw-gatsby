@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/videos/xamarin-with-james-montemagno</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/async-and-c-8-with-filip-ekberg</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/a-step-by-step-guide-to-migrating-a-project-from-aspnet-mvc-to-aspnet-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/optimizing-reflection-in-c-via-dynamic-code-generation</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/free-blazor-training-course</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/python-for-beginners</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/announcing-free-c-net-and-aspnet-for-beginners-video-courses-and-tutorials</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/thinking-in-react-hooks</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/http-3-the-past-the-present-and-the-future</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/net-core-heart-grpc</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/announcing-net-core-30</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/exploring-net-core-30-whats-new</loc> </url>
+</urlset>
