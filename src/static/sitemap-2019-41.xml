@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/the-future-of-client-side-blazor-pwas-desktop-mobile-native-and-even-flutter</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/building-microservices-on-net-core-part-7-transactional-outbox-with-rabbitmq</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/net-50-the-future-of-net</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/hashicorp-vault-and-tls-certificate-authentication-for-net-applications</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/net-core-support-and-more-in-visual-studio-2019-version-163</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/net-conf-2019</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/c-101</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/avoid-100vh-on-mobile-web</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/the-evolution-of-web-content-management</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/how-to-design-a-better-progressive-web-app</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/windows-and-office-deployment-intro</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/all-your-creds-are-belong-to-us</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/windows-virtual-desktop-on-azure-released</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/alternative-approach-to-httpclient-in-azure-functions-20-revisited-move-to-dependency-injection</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/oauth-authentication-with-facebook-and-aspnet-core-30</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/non-nullable-references-with-c-8-and-net-core-30</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/windows-template-studio-for-uwp</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/article-series-net-core-3</loc> </url>
+</urlset>

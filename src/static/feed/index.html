@@ -1,152 +1,164 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>dotNET Weekly - Week 39 Year 2019</title>
-        <link>https://www.dotnetweekly.com/week/39/year/2019?feed=rss</link>
+        <title>dotNET Weekly - Week undefined Year undefined</title>
+        <link>https://www.dotnetweekly.com/week/undefined/year/undefined?feed=rss</link>
         <description></description>
-        <lastBuildDate>Mon, 30 Sep 2019 04:46:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Oct 2019 01:50:53 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
-        <category>Videos</category>
         <category>Articles</category>
         <category>Events-training</category>
+        <category>Videos</category>
         <item>
-            <title><![CDATA[Xamarin with James Montemagno]]></title>
-            <link>https://www.dotnetweekly.com/articles/xamarin-with-james-montemagno</link>
-            <guid>https://www.dotnetweekly.com/articles/xamarin-with-james-montemagno</guid>
-            <pubDate>Thu, 26 Sep 2019 21:41:50 GMT</pubDate>
-            <content:encoded><![CDATA[Episode Summary
+            <title><![CDATA[The Future of Client-Side Blazor: PWAs, Desktop/Mobile, Native (and even Flutter?)]]></title>
+            <link>https://www.dotnetweekly.com/articles/the-future-of-client-side-blazor-pwas-desktop-mobile-native-and-even-flutter</link>
+            <guid>https://www.dotnetweekly.com/articles/the-future-of-client-side-blazor-pwas-desktop-mobile-native-and-even-flutter</guid>
+            <pubDate>Thu, 10 Oct 2019 17:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[The development of client-side Blazor leveraging WebAssembly -- appropriately called Blazor WebAssembly -- has suffered a few hiccups, but Microsoft has big plans for the red-hot technology that enables C# Web development.
 
-In this episode of Adventures in .NET, James Montemagno, a PM in the developer division at Microsoft working with Xamarin shares with the panel all of the exciting things happening in the Xamarin world. Charles Max Wood invites listeners to check out James’s appearances on a different DevChatTV podcast, The iPhreaks Show. Charles expresses his excitement to see Xamarin from a .NET perspective.
-
-James starts the discussion by sharing how he got into Xamarin and .NET. He explains what he loves about .NET. James worked for Xamarin during the transition into Microsoft, he shares what it was like and how the unification of the two made their products even better. The panel discusses the changes in Microsoft’s practices over the past ten years, becoming more opensource friendly and less focused on selling products.
-
-What is Xamarin, is the next thing the panel answers. James explains that Xamarin helps developers build native apps in C#. He goes on to explain how the versions of Xamarin change based on the platform, Android, iOS and tooling inside visual studio.
-
-The topic turns to how Xamarin runs. James explains that there is a common theme in Xamarin, flexibility. Choosing how Xamarin is run is up to the developer, who can use AOT (ahead of time) or JIT (just in time). Charles explains what AOT and JIT mean and how they affect application size and performance. James explains how Xamarin runs differently for Android and iOS.
-
-James introduces a brand new mode called Startup Tracing and explains how it can reduce the start-up time for your Xamarin apps by up to 60% by using a small trace of AOT. He shares the future goals for this mode and explains that it is free and can be used today.
-
-The next concern the panel has is about sharing code between different platforms and how this works with Xamarin. James explains that this problem is solved with Xamarin forms, Xamarin forms has everything a mobile app developer could want. In Xamarin forms developers can create pages to share cross-platform or simply build their whole app for all platforms. James even explains how a developer can make platform-specific adjustments to the code.
-
-James defines customer-driven development and explains how this allows them to create the best product for developers. The flexibility and capabilities in UI’s and controls allows developers to choose what their app looks like. Caleb asks about the built template components that allows the developer to architect the navigation in their applications. James explains one of the tools, Shell and how it helps you set up your navigation how you want it while handling all the messiness with minimal code.
-
-Charles asks James about library integration into Xamarin. James starts by sharing what comes in the box with Xamarin, 100% API coverage for both Android and iOS. How this works is, a team looks at the needs of developers and makes a list of the necessary, popular and desired libraries and creates API bindings for them. Libraries that don’t make that list can have a binding generated with Xamarins binding generator, which will include the necessary features needed to use the library.
-
-The panel changes the topic to the new Xamarin features that James is most excited for. James mentions a one-stop library called Xamarin essentials that will hold all the things a developer might need. He also includes Xaml hot reload for Xamarin forms, this feature will create a better level of productivity as it reloads around typos and mistakes allowing developers to stay in their workflow. The panel discusses the other benefits of a feature like this. Caleb Wells warns how addictive a good hot reload can be.
-
-The episode ends with James giving advice and resources for getting into Xamarin. Charles praises the Microsoft documentation. Caleb gives an endorsement for Microsoft Learn. Charles invites listeners to suggest topics and guests at devchat.tv.]]></content:encoded>
+As detailed in a .NET Conf presentation this week, those plans include more native-focused projects, including Progressive Web Apps (PWAs), hybrid apps and desktop apps via Electron. The company is also investigating Blazor Native -- and there's even an individual experiment demo that uses Blazor to create Flutter apps. These are all possible because the default renderer in Blazor -- for Web -- can be replaced with other renderers.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Async and C# 8 with Filip Ekberg]]></title>
-            <link>https://www.dotnetweekly.com/articles/async-and-c-8-with-filip-ekberg</link>
-            <guid>https://www.dotnetweekly.com/articles/async-and-c-8-with-filip-ekberg</guid>
-            <pubDate>Thu, 26 Sep 2019 21:40:01 GMT</pubDate>
-            <content:encoded><![CDATA[In this week’s episode of Adventures in .NET the panel interviews Filip Ekberg, Microsoft MVP, about using async, await, and the new features in C# 8. They begin by discussing the evolution of running tasks and multithreading in async. Filip describes the evolution beginning with background workers, through task parallel libraries finally to async and await. The panel considers how managing tasks has been made almost too easy.
-
-Filip explains that there has been a drive to make everything asynchronous but explains that this approach doesn’t always make sense. The panel asks Filip when a developer should use async and await. If an application has a UI, Filip encourages the use of async and await and he outlines the benefits. He also explains that if someone wants to be a full-stack developer they need to understand async and await on both the serverside and clientside.
-
-The panel wonders what the most common async and await mistakes are in .NET. Filip shares a couple of the most common mistakes he sees. The first is deadlocking an application because of the inappropriate methods such as .result and .wait on tasks. The second is marking methods as async without running the await keyword. He explains what these mistakes do to your application and gives advice on avoiding these mistakes.
-
-The panel expresses past frustrations in making all methods especially tops methods when in ASP.NET. Filip gives the panel advice on making it asynchronous top to bottom and ways to handle those aggravating top methods. He also explains how to use the await keyword and state machines effectively.
-
-Debugging in async is the next topic the panel considers. Filip explains why debugging is so tricky in asynchronous applications. He gives a few tips, his biggest piece of advice is to update Visual Studio and you should get more help in debugging than from older versions.
-
-The panel moves on to discuss C# 8. Filip explains that C# is his language, he loves it! He shares three new changes to the language features in C# 8. They made changes to how tuples work, pattern matching and null reference types.
-
-Tuples are the first change the panel considers. Filip explains what tuples are and what they do. Tuples allow you to represent a type without actually using that type. The panel considers how tuples have changed in C# 8, they are still position based but are more flexible in calling them.
-
-Next, the panel discusses null reference types. The control null reference types allow over nulls is considered. Filip shares some recommendations for using null reference types. The panel considers what might happen if someone were to use null reference types in an existing application. The wonder if it would have any benefit or if it would break the whole application.
-
-The final feature they discuss is pattern matching. Filip explains the benefit of using the new pattern matching with the new tuples feature in C# 8. The new pattern matching can be used to find tupple patterns, position patterns, and property patterns.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[A Step-by-Step Guide to Migrating a Project from ASP.NET MVC to ASP.NET Core]]></title>
-            <link>https://www.dotnetweekly.com/articles/a-step-by-step-guide-to-migrating-a-project-from-aspnet-mvc-to-aspnet-core</link>
-            <guid>https://www.dotnetweekly.com/articles/a-step-by-step-guide-to-migrating-a-project-from-aspnet-mvc-to-aspnet-core</guid>
-            <pubDate>Thu, 26 Sep 2019 04:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[Here is a practical guide on migrating a project from ASP.NET MVC framework to ASP.NET Core. Step-by-step instruction written by the team of nopCommerce open-source project can be easily applied to any ASP.NET MVC project.
-It also describes why you might need to upgrade, and why projects that do not yet keep up with pace should consider it.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Optimizing reflection in C# via dynamic code generation]]></title>
-            <link>https://www.dotnetweekly.com/articles/optimizing-reflection-in-c-via-dynamic-code-generation</link>
-            <guid>https://www.dotnetweekly.com/articles/optimizing-reflection-in-c-via-dynamic-code-generation</guid>
-            <pubDate>Thu, 26 Sep 2019 04:17:52 GMT</pubDate>
-            <content:encoded><![CDATA[I have recently been spending a lot of time working on ComputeSharp, a .NET Standard 2.1 library written in C# 8.0 that lets you run code in parallel on the GPU through DX12 and dynamically generated HLSL compute shaders. That is a somewhat unintuitive description for a library that does something conceptually simple: it runs code in parallel in a manner similar to Parallel.
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Free Blazor Training Course]]></title>
-            <link>https://www.dotnetweekly.com/articles/free-blazor-training-course</link>
-            <guid>https://www.dotnetweekly.com/articles/free-blazor-training-course</guid>
-            <pubDate>Thu, 26 Sep 2019 04:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[Welcome to this short introduction to Blazor! This new Microsoft framework uses a unique approach to leverage your existing C# and .NET skills to create single-page applications running in web browsers. The technology that makes this possible is called WebAssembly, an open standard supported directly by current browsers on desktop and mobile platforms. You write C# and Razor code instead of JavaScript, and the compiled app runs natively on the client.
+            <title><![CDATA[Building Microservices On .NET Core – Part 7 Transactional Outbox with RabbitMQ]]></title>
+            <link>https://www.dotnetweekly.com/articles/building-microservices-on-net-core-part-7-transactional-outbox-with-rabbitmq</link>
+            <guid>https://www.dotnetweekly.com/articles/building-microservices-on-net-core-part-7-transactional-outbox-with-rabbitmq</guid>
+            <pubDate>Thu, 10 Oct 2019 17:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[This is the seventh article in our series about building microservices on .NET Core. In the first article we introduced the series and prepared the plan: business case and solution architecture. In the second article we described how you can structure internal architecture of one microservice using CQRS pattern and MediatR library. In the third article we described the importance of service discovery in microservice based architecture and presented practical implementation with Eureka. In the fourth part we presented how you can build API Gateways for your microservices with Ocelot. Fifth part was dedicated to implementation of data access with Marten library. In the last article we showed you how you can combine SignalR and RabbitMQ to build real time server-client communication. Source code for complete solution can be found on our GitHub.
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Python for Beginners]]></title>
-            <link>https://www.dotnetweekly.com/articles/python-for-beginners</link>
-            <guid>https://www.dotnetweekly.com/articles/python-for-beginners</guid>
-            <pubDate>Thu, 26 Sep 2019 04:05:28 GMT</pubDate>
-            <content:encoded><![CDATA[Probably the largest hurdle when learning any new programming language is simply knowing where to get started. This is why we, Chris and Susan, decided to create this series about Python for Beginners!
+            <title><![CDATA[.Net 5.0 : The future of .Net]]></title>
+            <link>https://www.dotnetweekly.com/articles/net-50-the-future-of-net</link>
+            <guid>https://www.dotnetweekly.com/articles/net-50-the-future-of-net</guid>
+            <pubDate>Thu, 10 Oct 2019 17:06:22 GMT</pubDate>
+            <content:encoded><![CDATA[In my previous post I added links to get the archived presentations and sessions for .Net Conf 2019 which you can find here.
 
-Even though we won't cover everything there is to know about Python in the course, we want to make sure we give you the foundation on programming in Python, starting from common everyday code and scenarios. At the end of the course, you'll be able to go and learn on your own, for example with docs, tutorials, or books.]]></content:encoded>
+In this quick post we will see what is long term .Net release schedule and what is the near future of .Net.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Announcing free C#, .NET, and ASP.NET for beginners video courses and tutorials]]></title>
-            <link>https://www.dotnetweekly.com/articles/announcing-free-c-net-and-aspnet-for-beginners-video-courses-and-tutorials</link>
-            <guid>https://www.dotnetweekly.com/articles/announcing-free-c-net-and-aspnet-for-beginners-video-courses-and-tutorials</guid>
-            <pubDate>Thu, 26 Sep 2019 04:03:56 GMT</pubDate>
-            <content:encoded><![CDATA[If you've been thinking about learning C#, now is the time to jump in! I've been working on this project for months and I'm happy to announce http://dot.net/videos 
+            <title><![CDATA[HashiCorp Vault and TLS Certificate Authentication for .NET Applications]]></title>
+            <link>https://www.dotnetweekly.com/articles/hashicorp-vault-and-tls-certificate-authentication-for-net-applications</link>
+            <guid>https://www.dotnetweekly.com/articles/hashicorp-vault-and-tls-certificate-authentication-for-net-applications</guid>
+            <pubDate>Thu, 10 Oct 2019 17:05:36 GMT</pubDate>
+            <content:encoded><![CDATA[HashiCorp Vault is a tool for secrets management, encryption as a service, and privileged access management. It is quite popular nowadays, especially if you own your own infrastructure, private cloud or just cannot store your secrets using Key Vault services provided by Azure/AWS/GCP.
 
-There are nearly a hundred short videos (with more to come!) that will teach you topics like C# 101, .NET, making desktop apps, making ASP.NET web apps, learning containers and Dockers, or even starting with Machine Learning. There's a ton of great, slow-paced beginner videos. Most are less than 10 minutes long and all are organized into Playlists on YouTube!
-
-If you are getting started, I'd recommend starting with these three series in this order - C#, .NET, then ASP.NET. After that, pick the topics that make you the happiest.]]></content:encoded>
+I assume that you already have one up and running instance of HashiCorp Vault, otherwise you may install one using official Installing Vault guide.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Thinking in React Hooks]]></title>
-            <link>https://www.dotnetweekly.com/articles/thinking-in-react-hooks</link>
-            <guid>https://www.dotnetweekly.com/articles/thinking-in-react-hooks</guid>
-            <pubDate>Thu, 26 Sep 2019 04:02:50 GMT</pubDate>
-            <content:encoded><![CDATA[React introduced hooks one year ago, and they've been a game-changer for a lot of developers. There are tons of how-to introduction resources out there, but I want to talk about the fundamental mindset change when switching from React class components to function components + hooks.
+            <title><![CDATA[.NET Core Support and More in Visual Studio 2019 version 16.3 ]]></title>
+            <link>https://www.dotnetweekly.com/articles/net-core-support-and-more-in-visual-studio-2019-version-163</link>
+            <guid>https://www.dotnetweekly.com/articles/net-core-support-and-more-in-visual-studio-2019-version-163</guid>
+            <pubDate>Thu, 10 Oct 2019 17:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[As we continue to deliver on our mission of any developer, any app, any platform, it’s always an exciting time on the Visual Studio team when we get to launch major features.  Today we’ve released Visual Studio 2019 version 16.3 which contains support for the release of .NET Core 3.0, significant C++ improvements, and great updates for Python developers as well as TypeScript 3.6 support. You can download version 16.3 on visualstudio.com or update from the Visual Studio installer.
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[HTTP/3: the past, the present, and the future]]></title>
-            <link>https://www.dotnetweekly.com/articles/http-3-the-past-the-present-and-the-future</link>
-            <guid>https://www.dotnetweekly.com/articles/http-3-the-past-the-present-and-the-future</guid>
-            <pubDate>Thu, 26 Sep 2019 04:02:32 GMT</pubDate>
-            <content:encoded><![CDATA[QUIC and HTTP/3 are very exciting standards, promising to address many of the shortcomings of previous standards and ushering in a new era of performance on the web. So how do we go from exciting standards documents to working implementation?
-
-]]></content:encoded>
+            <title><![CDATA[.NET Conf 2019]]></title>
+            <link>https://www.dotnetweekly.com/articles/net-conf-2019</link>
+            <guid>https://www.dotnetweekly.com/articles/net-conf-2019</guid>
+            <pubDate>Thu, 10 Oct 2019 17:03:42 GMT</pubDate>
+            <content:encoded><![CDATA[.NET Conf is a FREE, 3 day virtual developer event co-organized by the .NET community and Microsoft. This year .NET Core 3.0 will launch at .NET Conf 2019! Come celebrate and learn about the new release. You won't want to miss this one.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[.NET Core [heart] gRPC]]></title>
-            <link>https://www.dotnetweekly.com/articles/net-core-heart-grpc</link>
-            <guid>https://www.dotnetweekly.com/articles/net-core-heart-grpc</guid>
-            <pubDate>Thu, 26 Sep 2019 04:02:13 GMT</pubDate>
-            <content:encoded><![CDATA[grpc-dotnet packages have just been released to NuGet.org and are already available for use in your projects. These packages also require the latest .NET Core 3.0 shared framework. You can download the .NET Core 3.0 SDK for your dev machine and build servers from the .NET Core 3.0 download page to acquire the shared framework.
-
-]]></content:encoded>
+            <title><![CDATA[C# 101]]></title>
+            <link>https://www.dotnetweekly.com/articles/c-101</link>
+            <guid>https://www.dotnetweekly.com/articles/c-101</guid>
+            <pubDate>Thu, 10 Oct 2019 17:03:24 GMT</pubDate>
+            <content:encoded><![CDATA[In this first video of a full Intro to C# video series, Scott Hanselman and Kendra Havens review the basics of C# from building a simple Hello World application to knowing about Object Oriented Programming with Microsoft experts!]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Announcing .NET Core 3.0]]></title>
-            <link>https://www.dotnetweekly.com/articles/announcing-net-core-30</link>
-            <guid>https://www.dotnetweekly.com/articles/announcing-net-core-30</guid>
-            <pubDate>Thu, 26 Sep 2019 04:01:19 GMT</pubDate>
-            <content:encoded><![CDATA[We’re excited to announce the release of .NET Core 3.0. It includes many improvements, including adding Windows Forms and WPF, adding new JSON APIs, support for ARM64 and improving performance across the board. C# 8 is also part of this release, which includes nullable, async streams, and more patterns. F# 4.7 is included, and focused on relaxing syntax and targeting .NET Standard 2.0. You can start updating existing projects to target .NET Core 3.0 today. The release is compatible with previous versions, making updating easy.
+            <title><![CDATA[Avoid 100vh On Mobile Web]]></title>
+            <link>https://www.dotnetweekly.com/articles/avoid-100vh-on-mobile-web</link>
+            <guid>https://www.dotnetweekly.com/articles/avoid-100vh-on-mobile-web</guid>
+            <pubDate>Thu, 10 Oct 2019 17:02:59 GMT</pubDate>
+            <content:encoded><![CDATA[Viewport units in CSS sound great. If you want to style an element to take up the full screen height, you can just set height: 100vh and voila - you have a perfect fullscreen element, which resizes as the viewport changes! Sadly, this is not the case. 100vh is broken in a subtle but fundamental way on mobile browsers that makes it nearly useless. It’s best to avoid 100vh and instead rely on javascript to set heights for a full viewport experience.
 
-]]></content:encoded>
+The core issue is that mobile browsers (I’m looking at you, Chrome and Safari) have a “helpful” feature where the address bar is sometimes visible and sometimes hidden, changing the visible size of the viewport. Rather than adjusting the height of 100vh to be the visible portion of the screen as the viewport height changes, these browsers instead have 100vh set to the height of the browser with address the address bar hidden. The result is that the bottom portion of the screen will be cut off when the address bar is visible, thus defeating the purpose of 100vh to begin with.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Exploring .NET Core 3.0. What's New?]]></title>
-            <link>https://www.dotnetweekly.com/articles/exploring-net-core-30-whats-new</link>
-            <guid>https://www.dotnetweekly.com/articles/exploring-net-core-30-whats-new</guid>
-            <pubDate>Tue, 24 Sep 2019 11:07:45 GMT</pubDate>
-            <content:encoded><![CDATA[To celebrate 🎉 of .NET Core 3, here's an overview with everything you need to know about the latest release of the well-known Microsoft development platform!]]></content:encoded>
+            <title><![CDATA[The Evolution of Web Content Management]]></title>
+            <link>https://www.dotnetweekly.com/articles/the-evolution-of-web-content-management</link>
+            <guid>https://www.dotnetweekly.com/articles/the-evolution-of-web-content-management</guid>
+            <pubDate>Thu, 10 Oct 2019 17:02:09 GMT</pubDate>
+            <content:encoded><![CDATA[If we built this city on rock an’ roll (and my sources on this are as incontrovertible as Starship and Mannequin 2: On The Move), then we built this web on content. HTML was one of the foundational technologies behind the web from day one and it is essentially a means of formatting documents to be served on the internet. Documents, of course, are of no more value than the content they contain.
+
+Today, we like to talk a lot about building web applications, but content is still the foundation to the majority of the web. Managing that content in the early days was simple, but, since then, the tools we use to create and manage content across the web have evolved to a degree that they have almost come full circle. In this post, I want to look at the evolution of web content management from the early days of the web to the headless, cloud-based CMS systems of today.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[How to Design a Better Progressive Web App]]></title>
+            <link>https://www.dotnetweekly.com/articles/how-to-design-a-better-progressive-web-app</link>
+            <guid>https://www.dotnetweekly.com/articles/how-to-design-a-better-progressive-web-app</guid>
+            <pubDate>Thu, 10 Oct 2019 16:56:18 GMT</pubDate>
+            <content:encoded><![CDATA[Sometimes it’s hard to tell when the newest web design trend will be worth adopting or when it’s just a passing fad we shouldn’t invest too much time or energy in. Progressive web apps (PWAs), for instance, had that problem in the beginning, which is why most content written about them focused on explaining what they were.
+
+Today, though, we don’t need to be educated on what a PWA is or why it’s a more valuable mobile asset than a mobile responsive website.
+
+PWAs are inherently fast and secure. Plus, they’re a great option for anyone who wants to leverage the good stuff from native mobile apps (like offline caching and telephony integrations) while improving upon their weaknesses (like battery and storage consumption and sharing capabilities).]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Windows and Office deployment intro]]></title>
+            <link>https://www.dotnetweekly.com/articles/windows-and-office-deployment-intro</link>
+            <guid>https://www.dotnetweekly.com/articles/windows-and-office-deployment-intro</guid>
+            <pubDate>Thu, 10 Oct 2019 16:54:51 GMT</pubDate>
+            <content:encoded><![CDATA[Join Microsoft CVP Brad Anderson to discover the benefits of Windows 10 and Office 365, major changes and considerations versus previous deployments and best practices to ensure a smooth transition to Windows 10 and Office 365 ProPlus. In this introduction we’ll outline what has changed and go on a tour of the Desktop Deployment Wheel. This will guide you through the recommended steps for your shift to Windows 10 and Office 365 ProPlus, detailing how to leverage your existing tools and processes while adopting modern management technology and approaches along the way.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[All your creds are belong to us!]]></title>
+            <link>https://www.dotnetweekly.com/articles/all-your-creds-are-belong-to-us</link>
+            <guid>https://www.dotnetweekly.com/articles/all-your-creds-are-belong-to-us</guid>
+            <pubDate>Thu, 10 Oct 2019 16:54:26 GMT</pubDate>
+            <content:encoded><![CDATA[In my last blog I explained how your pa$$word doesn’t matter - but multi-factor authentication (MFA) does! Several folks commented that “MFA isn’t a panacea.” That’s true in targeted attacks when attackers are willing to invest enough to break MFA, and there’s no easier way.
+
+Let’s not get crazy - Multi-factor Authentication (MFA) is the least you can do if you are at all serious about protecting your accounts. Use of anything beyond the password significantly increases the costs for attackers, which is why the rate of compromise of accounts using any type of MFA is less than 0.1% of the general population.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Windows Virtual Desktop on Azure | Released]]></title>
+            <link>https://www.dotnetweekly.com/articles/windows-virtual-desktop-on-azure-released</link>
+            <guid>https://www.dotnetweekly.com/articles/windows-virtual-desktop-on-azure-released</guid>
+            <pubDate>Thu, 10 Oct 2019 16:53:40 GMT</pubDate>
+            <content:encoded><![CDATA[Windows Virtual Desktop is now released and ready for production! On today's show, Scott Manchester demonstrates WVD at general availability and what's coming. We'll show what the WVD team is doing to revolutionize app delivery with App Attach. This is a new way to deliver apps to WVD virtual machines without installing or streaming app binaries into VMs, but instead attaching to MSIX-based app packages stored in file shares - so they 'feel' installed to Windows and appear and work as if installed to WVD users. We also show AV redirect in Microsoft Teams, to optimize video and audio delivery between clients, by eliminating 'hops' normally needed to encode and decode AV streams between clients and VMs. Finally, using Azure NetApp Files, we'll show you an easy way to lift-and-shift file share volumes directly into Azure, so they retain file and folder permissions, paths, and classic manageability.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Alternative approach to HttpClient in Azure Functions 2.0 revisited - move to dependency injection]]></title>
+            <link>https://www.dotnetweekly.com/articles/alternative-approach-to-httpclient-in-azure-functions-20-revisited-move-to-dependency-injection</link>
+            <guid>https://www.dotnetweekly.com/articles/alternative-approach-to-httpclient-in-azure-functions-20-revisited-move-to-dependency-injection</guid>
+            <pubDate>Wed, 09 Oct 2019 12:52:07 GMT</pubDate>
+            <content:encoded><![CDATA[This post is a follow-up to my previous one regarding usage of HttpClientFactory in Azure Functions. The approach I've taken previously is no loner the best one and I wanted to revisit it.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[OAuth authentication with Facebook and ASP.NET Core 3.0]]></title>
+            <link>https://www.dotnetweekly.com/articles/oauth-authentication-with-facebook-and-aspnet-core-30</link>
+            <guid>https://www.dotnetweekly.com/articles/oauth-authentication-with-facebook-and-aspnet-core-30</guid>
+            <pubDate>Wed, 09 Oct 2019 07:22:38 GMT</pubDate>
+            <content:encoded><![CDATA[The aim of this post is to teach you how to implement Identity Authentication &amp; Authorization with OAuth, Facebook and ASP.NET Core 3.0.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Non-nullable references with C# 8 and .NET Core 3.0]]></title>
+            <link>https://www.dotnetweekly.com/articles/non-nullable-references-with-c-8-and-net-core-30</link>
+            <guid>https://www.dotnetweekly.com/articles/non-nullable-references-with-c-8-and-net-core-30</guid>
+            <pubDate>Mon, 07 Oct 2019 15:41:37 GMT</pubDate>
+            <content:encoded><![CDATA[Two weeks ago .NET Core 3.0 was officially published. Together with the new framework version, Visual Studio 2019 got support for a long-awaited C# 8.0. The complete list of the new language features is available [here](https://docs.microsoft.com/en-US/dotnet/csharp/whats-new/csharp-8) on the MSDN, but the one that deserves special attention is [Nullable reference types](https://docs.microsoft.com/en-US/dotnet/csharp/whats-new/csharp-8#nullable-reference-types). This is a very important change in the language semantic because from now we will be able to eliminate certain class of errors related to reference `nullability` on the compilation stage. In this blog post, I will show you how to use this new language feature and how to achieve similar benefits if you still cannot use .NET Core 3.0 in your projects.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Windows Template Studio for UWP]]></title>
+            <link>https://www.dotnetweekly.com/articles/windows-template-studio-for-uwp</link>
+            <guid>https://www.dotnetweekly.com/articles/windows-template-studio-for-uwp</guid>
+            <pubDate>Mon, 07 Oct 2019 08:37:00 GMT</pubDate>
+            <content:encoded><![CDATA[Here I am talking about UWP Development. This one is a quick guide to getting statred with Windows Template Studio aka WTS]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Article Series - .NET Core 3]]></title>
+            <link>https://www.dotnetweekly.com/articles/article-series-net-core-3</link>
+            <guid>https://www.dotnetweekly.com/articles/article-series-net-core-3</guid>
+            <pubDate>Mon, 07 Oct 2019 06:34:06 GMT</pubDate>
+            <content:encoded><![CDATA[With the release of .NET Core 3.0, Microsoft has the next major version of the general purpose, modular, cross-platform and open source platform that was initially released in 2016. 
+
+.NET Core was initially created to allow for the next generation of ASP.NET solutions but now drives and is the basis for many other scenarios including IoT, cloud and next generation mobile solutions. Version 3 adds a number of oft-requested features such as support for WinForms, WPF and Entity Framework 6.
+
+In this series we will explore some more of the benefits of .NET Core and how it can benefit not only traditional .NET developers but all technologists that need to bring robust, performant and economical solutions to market.]]></content:encoded>
         </item>
     </channel>
 </rss>
