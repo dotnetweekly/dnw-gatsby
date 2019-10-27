@@ -1,75 +1,129 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>dotNET Weekly - Week 43 Year 2019</title>
-        <link>https://www.dotnetweekly.com/week/43/year/2019?feed=rss</link>
+        <title>dotNET Weekly - Week undefined Year undefined</title>
+        <link>https://www.dotnetweekly.com/week/undefined/year/undefined?feed=rss</link>
         <description></description>
-        <lastBuildDate>Sun, 27 Oct 2019 04:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Oct 2019 20:42:12 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <category>Articles</category>
         <category>Videos</category>
         <category>Libraries-Tools</category>
+        <category>Events-training</category>
         <item>
-            <title><![CDATA[The Battle of C# to JSON Serializers in .NET Core 3]]></title>
-            <link>https://www.dotnetweekly.com/articles/the-battle-of-c-to-json-serializers-in-net-core-3</link>
-            <guid>https://www.dotnetweekly.com/articles/the-battle-of-c-to-json-serializers-in-net-core-3</guid>
-            <pubDate>Wed, 23 Oct 2019 17:53:43 GMT</pubDate>
-            <content:encoded><![CDATA[.NET Core 3 was recently released and brought with it a bunch of innovations. Besides C# 8 and support for WinForms & WPF, the new release added a brand new JSON (de)serializer. This new serializer goes by the name System.Text.Json and as the name suggests, all its classes are in that namespace.
+            <title><![CDATA[JSON Serialization in .NET Core 3: Tiny Difference, Big Consequences]]></title>
+            <link>https://www.dotnetweekly.com/articles/json-serialization-in-net-core-3-tiny-difference-big-consequences</link>
+            <guid>https://www.dotnetweekly.com/articles/json-serialization-in-net-core-3-tiny-difference-big-consequences</guid>
+            <pubDate>Mon, 28 Oct 2019 20:38:49 GMT</pubDate>
+            <content:encoded><![CDATA[Recently, I migrated a web API from .NET Core 2.2 to version 3.0 (following the documentation by Microsoft). After that, the API worked fine without changes to the (WPF) client or the controller code on the server – except for one function that looked a bit like this (simplified naming, obviously).
 
-This is a big deal. JSON serialization is a big factor in web applications. Most of today’s REST API relies on it. When your javascript client sends a JSON request in a POST body, the server uses JSON deserialization to convert it to a C# object. And when the server returns an object in its response, it serializes that object into JSON for your JavaScript client to understand. These are major operations that happen on every request with objects. Their performance can significantly impact application performance as you’re about to see.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[What is Docker, Why use it? | Docker and .NET Core 101 [1 of 3]]]></title>
-            <link>https://www.dotnetweekly.com/articles/what-is-docker-why-use-it-docker-and-net-core-101-1-of-3</link>
-            <guid>https://www.dotnetweekly.com/articles/what-is-docker-why-use-it-docker-and-net-core-101-1-of-3</guid>
-            <pubDate>Wed, 23 Oct 2019 17:53:14 GMT</pubDate>
-            <content:encoded><![CDATA[Why use containers? Docker is a way to package and distribute your applications with all its dependencies. It works on my machine, your machine, and their machine. ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[.NEXT]]></title>
-            <link>https://www.dotnetweekly.com/articles/next</link>
-            <guid>https://www.dotnetweekly.com/articles/next</guid>
-            <pubDate>Wed, 23 Oct 2019 17:52:19 GMT</pubDate>
-            <content:encoded><![CDATA[.NEXT (dotNext) is the family of powerful libraries aimed to improve development productivity and extend .NET API with unique features that potentially will be implemented in the next versions of C# compiler or .NET Runtime.
+The Thing class has an Items property of type List<Item>, the Item class has a SubItems property of type List<SubItem>.
+What I didn’t expect was that after the migration, all SubItems lists were empty, while the Items lists contained, well, items.
+But it worked before! I didn’t change anything!
 
-This chapter gives a quick overview of these libraries. Read articles for a closer look at all available features.
-
-Prerequisites:
-
-Runtime: any .NET implementation compatible with .NET Standard 2.0
-OS: Linux, Windows, macOS
-Architecture: any if supported by underlying .NET Runtime]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Building and testing an ASP.Net Core 3.0 application using GitHub Actions]]></title>
-            <link>https://www.dotnetweekly.com/articles/building-and-testing-an-aspnet-core-30-application-using-github-actions</link>
-            <guid>https://www.dotnetweekly.com/articles/building-and-testing-an-aspnet-core-30-application-using-github-actions</guid>
-            <pubDate>Wed, 23 Oct 2019 17:51:29 GMT</pubDate>
-            <content:encoded><![CDATA[GitHub has finally learned from GitLab and added GitHub Actions to their repertoire. It’s in beta now, but this means that we can use only GitHub for everything from code hosting, project management, CI and finally CD. All in one place. An alluring thought, but how mature is it?
+In fact, I didn’t touch my code, but something else changed: ASP.NET Core no longer uses Json.NET by NewtonSoft. Instead, JSON serialization is done by classes in the new System.Text.Json namespace.
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ASP.NET Zero is an Effective Solution for Creating Web and Mobile Apps]]></title>
-            <link>https://www.dotnetweekly.com/articles/aspnet-zero-is-an-effective-solution-for-creating-web-and-mobile-apps</link>
-            <guid>https://www.dotnetweekly.com/articles/aspnet-zero-is-an-effective-solution-for-creating-web-and-mobile-apps</guid>
-            <pubDate>Wed, 23 Oct 2019 11:08:03 GMT</pubDate>
-            <content:encoded><![CDATA[ASP.NET Zero is a ready-made solution that comes with all out-of-the-box functionality for most standard web-solutions. In fact, this is a good start for the project where the main functionality is ready and you do not need to spend time developing basic functionality and you can immediately proceed to developing business logic and unique solutions.]]></content:encoded>
+            <title><![CDATA[Fall .NET Core Survey]]></title>
+            <link>https://www.dotnetweekly.com/articles/fall-net-core-survey</link>
+            <guid>https://www.dotnetweekly.com/articles/fall-net-core-survey</guid>
+            <pubDate>Mon, 28 Oct 2019 20:37:15 GMT</pubDate>
+            <content:encoded><![CDATA[It’s been a busy time for .NET Core – we just shipped 3.0, and are currently working on a few updates for v3.1 (due in November.) As we turn our attention to .NET Core 5.0, we want to take a step back and see what you are doing with .NET Core and how we can make it even better.
+
+We have put together a quick survey that will help us understand our customer base a bit better, how you are using .NET core, and what we can do to improve it. So please head over to Survey Monkey and help shape the future of .NET Core.
+
+Surveys help give us a breadth view of .NET Core users, but we also want to understand in more depth what challenges you face in your projects, so if you are willing to participate in more detailed feedback, please provide your contact details in the survey.
+
+Thank you for your contribution.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[C# exception handling best practices]]></title>
-            <link>https://www.dotnetweekly.com/articles/c-exception-handling-best-practices</link>
-            <guid>https://www.dotnetweekly.com/articles/c-exception-handling-best-practices</guid>
-            <pubDate>Tue, 22 Oct 2019 06:00:03 GMT</pubDate>
-            <content:encoded><![CDATA[Five best practices that will make you an absolute pro when working with exceptions. Make sure not to make these common mistakes when writing C#.]]></content:encoded>
+            <title><![CDATA[Blazor and Customizing the OData entity model]]></title>
+            <link>https://www.dotnetweekly.com/articles/blazor-and-customizing-the-odata-entity-model</link>
+            <guid>https://www.dotnetweekly.com/articles/blazor-and-customizing-the-odata-entity-model</guid>
+            <pubDate>Mon, 28 Oct 2019 20:35:38 GMT</pubDate>
+            <content:encoded><![CDATA[In a follow up to our previous episode on Supercharging your Web APIs with OData and ASP.NET Core, Hassan is back with Jeremy to talk about how we can customize the OData entity model so that we can use OData with any data source. Along the way, there might be a little Blazor goodness too!
+]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Iterator Pattern C#]]></title>
-            <link>https://www.dotnetweekly.com/articles/iterator-pattern-c</link>
-            <guid>https://www.dotnetweekly.com/articles/iterator-pattern-c</guid>
-            <pubDate>Mon, 21 Oct 2019 15:01:17 GMT</pubDate>
-            <content:encoded><![CDATA[From the early days of C# 1.0 and 2.0, C# supported the iterators. This article aims at explaining the Iterator pattern using C# language and having an advance implementation of the Iterator pattern in C#.]]></content:encoded>
+            <title><![CDATA[Announcing Distributed Application Runtime (Dapr), an open source project to make it easier for every developer to build microservice applications]]></title>
+            <link>https://www.dotnetweekly.com/articles/announcing-distributed-application-runtime-dapr-an-open-source-project-to-make-it-easier-for-every-</link>
+            <guid>https://www.dotnetweekly.com/articles/announcing-distributed-application-runtime-dapr-an-open-source-project-to-make-it-easier-for-every-</guid>
+            <pubDate>Mon, 28 Oct 2019 20:34:14 GMT</pubDate>
+            <content:encoded><![CDATA[It is remarkable to see the transformation over the last few years as more and more developers build scalable, cloud native applications, taking advantage of managed services to deploy and run them. With this transformation, microservice architectures have become the standard for building cloud native applications, and it is predicted that by 2022, 90% of new apps will feature microservice architectures. A microservice architecture offers compelling benefits, including scalability, loose service coupling and independent deployments. However, this approach can come at a high cost of understanding and skilling on distributed systems.
+
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Create PWA from Blazor App]]></title>
+            <link>https://www.dotnetweekly.com/articles/create-pwa-from-blazor-app</link>
+            <guid>https://www.dotnetweekly.com/articles/create-pwa-from-blazor-app</guid>
+            <pubDate>Mon, 28 Oct 2019 20:33:41 GMT</pubDate>
+            <content:encoded><![CDATA[This tutorial will demonstrate a simple way to create a Progressive Web App (PWA) from your Blazor WebAssembly app. A PWA is an installable web app that works offline and is treated as a first-class citizen on desktop and mobile.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[.NET Vector Performance]]></title>
+            <link>https://www.dotnetweekly.com/articles/net-vector-performance</link>
+            <guid>https://www.dotnetweekly.com/articles/net-vector-performance</guid>
+            <pubDate>Mon, 28 Oct 2019 20:32:08 GMT</pubDate>
+            <content:encoded><![CDATA[TLDR; I wanted to know what the fastest vector types were on .NET. Turns out, performance varies wildly across platforms. System.Numerics.Vector4 and friends give good performance overall, especially for .NET Core apps, while homemade vector types do not get auto-vectorized. Avoid Vector<T> like the plague. Oh, and iPhone 11s are stupid fast.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Research based on the .NET Runtime]]></title>
+            <link>https://www.dotnetweekly.com/articles/research-based-on-the-net-runtime</link>
+            <guid>https://www.dotnetweekly.com/articles/research-based-on-the-net-runtime</guid>
+            <pubDate>Mon, 28 Oct 2019 20:31:24 GMT</pubDate>
+            <content:encoded><![CDATA[Over the last few years, I’ve come across more and more research papers based, in some way, on the ‘Common Language Runtime’ (CLR).
+
+So armed with Google Scholar and ably assisted by Semantic Scholar, I put together the list below.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Debug JavaScript in Microsoft Edge from Visual Studio]]></title>
+            <link>https://www.dotnetweekly.com/articles/debug-javascript-in-microsoft-edge-from-visual-studio</link>
+            <guid>https://www.dotnetweekly.com/articles/debug-javascript-in-microsoft-edge-from-visual-studio</guid>
+            <pubDate>Mon, 28 Oct 2019 20:29:02 GMT</pubDate>
+            <content:encoded><![CDATA[As you may know, the next version of Microsoft Edge will adopt the Chromium open source project to create better web compatibility and less fragmentation of different underlying web platforms. If you haven’t already, you can try out preview builds of Microsoft Edge from https://www.microsoftedgeinsider.com which is now available on Windows 10, 8.1, 8, 7, and macOS!]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft Wins DoD JEDI Contract worth $10 Billion]]></title>
+            <link>https://www.dotnetweekly.com/articles/microsoft-wins-dod-jedi-contract-worth-10-billion</link>
+            <guid>https://www.dotnetweekly.com/articles/microsoft-wins-dod-jedi-contract-worth-10-billion</guid>
+            <pubDate>Mon, 28 Oct 2019 20:27:51 GMT</pubDate>
+            <content:encoded><![CDATA[In the battle over cloud providers, the bid for the United States Department of Defense (DoD) Joint Enterprise Defense Infrastructure (JEDI) contract is a big deal. The DoD released on October 25, 2019 that they are awarding the JEDI contract worth up-to $10 Billion ($10,000,000,000) over the next 10 years to Microsoft. They have ultimately chosen Microsoft, and Microsoft Azure, as the cloud of choice to standardize on a single cloud vendor to build out their enterprise cloud.
+
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Why Progressive Web Apps Are The Future of Mobile Web]]></title>
+            <link>https://www.dotnetweekly.com/articles/why-progressive-web-apps-are-the-future-of-mobile-web</link>
+            <guid>https://www.dotnetweekly.com/articles/why-progressive-web-apps-are-the-future-of-mobile-web</guid>
+            <pubDate>Mon, 28 Oct 2019 20:26:42 GMT</pubDate>
+            <content:encoded><![CDATA[Introduction
+Why Progressive Web Apps Are Websites That Took All the Right Vitamins﻿
+﻿Progressive Web Apps VS Native Apps VS Mobile Websites
+The Key Components of PWAs
+Progressive Web Apps In Real Life
+Progressive Web Apps Resources]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Announcing the general availability of Desktop Analytics]]></title>
+            <link>https://www.dotnetweekly.com/articles/announcing-the-general-availability-of-desktop-analytics</link>
+            <guid>https://www.dotnetweekly.com/articles/announcing-the-general-availability-of-desktop-analytics</guid>
+            <pubDate>Mon, 28 Oct 2019 20:19:12 GMT</pubDate>
+            <content:encoded><![CDATA[Today, we’re thrilled to announce the general availability of Desktop Analytics—the cloud-connected service that integrates with System Center Configuration Manager to help IT professionals take a data-driven approach to their management of Windows endpoints. Since announcing public preview in July, thousands of organizations have already benefited from the intelligence and insights generated by millions of enrolled endpoints. We’ve been hard at work delivering new features and improvements that address your feedback on the service.
+
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft Ignite November 4–8, 2019]]></title>
+            <link>https://www.dotnetweekly.com/articles/microsoft-ignite-november-48-2019</link>
+            <guid>https://www.dotnetweekly.com/articles/microsoft-ignite-november-48-2019</guid>
+            <pubDate>Mon, 28 Oct 2019 20:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[Passes to Microsoft Ignite are sold out, but you can still participate. Join us online to livestream keynotes, watch selected sessions on-demand, and more.
+
+]]></content:encoded>
         </item>
     </channel>
 </rss>
