@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/differences-between-net-framework-net-core-and-net-standard</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/the-history-of-the-gc-configs</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/blazor-component-lifecycle-diagram</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/implementing-net-core-health-checks</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/re-imagining-developer-productivity-with-ai-assisted-tools</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/announcing-visual-studio-online-public-preview</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/anti-forgery-token-and-anti-forgery-cookie-related-issues</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/build-a-net-app-quickly-with-docker</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/consolegui-is-a-simple-layout-driven-net-framework-for-creating-console-based-gui-applications</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/join-the-visual-studio-for-mac-aspnet-core-challenge</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/azure-machine-learningml-for-all-skill-levels</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/how-to-add-a-second-line-of-business-to-a-20-year-old-application</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/common-exceptions-and-fixes-in-entity-framework-and-sql-server</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/managing-output-in-the-net-sdk-projects</loc> </url>
+</urlset>
