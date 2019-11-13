@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/how-to-work-with-c-vectors-and-matrices-for-machine-learning</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/programming-languages-python-overtakes-java-on-github-as-google-dart-use-soars</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/building-grpc-service-on-aspnet-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/announcing-net-jupyter-notebooks</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/top-vs-code-extensions-you-dont-know</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/what-is-blazor-a-tutorial-on-building-web-apps-with-authentication</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/debugging-systemnullreferenceexception-object-reference-not-set-to-an-instance-of-an-object</loc> </url>
+</urlset>

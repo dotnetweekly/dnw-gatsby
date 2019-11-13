@@ -4,134 +4,71 @@
         <title>dotNET Weekly - Week undefined Year undefined</title>
         <link>https://www.dotnetweekly.com/week/undefined/year/undefined?feed=rss</link>
         <description></description>
-        <lastBuildDate>Wed, 06 Nov 2019 17:57:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Nov 2019 04:32:35 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <category>Articles</category>
-        <category>Libraries-Tools</category>
+        <category>Videos</category>
         <item>
-            <title><![CDATA[Differences Between .NET Framework, .NET Core, and .NET Standard]]></title>
-            <link>https://www.dotnetweekly.com/articles/differences-between-net-framework-net-core-and-net-standard</link>
-            <guid>https://www.dotnetweekly.com/articles/differences-between-net-framework-net-core-and-net-standard</guid>
-            <pubDate>Wed, 06 Nov 2019 17:51:15 GMT</pubDate>
-            <content:encoded><![CDATA[Since the birth of various .NET implementations and .NET Standard, there has been a lot of confusion regarding these topics in the development community. We will try to eliminate that confusion by explaining these topics in a simple and understandable way.
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[The history of the GC configs]]></title>
-            <link>https://www.dotnetweekly.com/articles/the-history-of-the-gc-configs</link>
-            <guid>https://www.dotnetweekly.com/articles/the-history-of-the-gc-configs</guid>
-            <pubDate>Wed, 06 Nov 2019 17:49:35 GMT</pubDate>
-            <content:encoded><![CDATA[Recently, Nick from Stack Overflow tweeted about his experience of using the .NET Core GC configs – he seemed quite happy with them (minus the fact they are not documented well which is something I’m talking to our doc folks about). I thought it’d be fun to tell you about the history of the GC configs ‘cause it’s almost the weekend and I want to contribute to your fun weekend reading.
+            <title><![CDATA[How to Work with C# Vectors and Matrices for Machine Learning]]></title>
+            <link>https://www.dotnetweekly.com/articles/how-to-work-with-c-vectors-and-matrices-for-machine-learning</link>
+            <guid>https://www.dotnetweekly.com/articles/how-to-work-with-c-vectors-and-matrices-for-machine-learning</guid>
+            <pubDate>Wed, 13 Nov 2019 04:30:56 GMT</pubDate>
+            <content:encoded><![CDATA[A working knowledge of machine learning (ML) is becoming an increasingly important part of many C# developers' skill sets. And virtually every significant ML technique uses vectors and matrices. In this article I get you up to speed with the fundamental knowledge you need to create and modify ML code written using the C# language.
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Blazor Component Lifecycle Diagram]]></title>
-            <link>https://www.dotnetweekly.com/articles/blazor-component-lifecycle-diagram</link>
-            <guid>https://www.dotnetweekly.com/articles/blazor-component-lifecycle-diagram</guid>
-            <pubDate>Wed, 06 Nov 2019 17:48:56 GMT</pubDate>
-            <content:encoded><![CDATA[Get familiar with basic Blazor (Razor) Component Lifestyle Methods:
-
-SetParametersAsync
-OnInitialized, OnInitializedAsync
-OnParametersSet, OnParametersSetAsync
-event handlers, event callbacks
-BuildRenderTree
-OnAfterPreRender, OnAfterPreRenderAsync
-IDisposable.Dispose]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Implementing .NET Core Health Checks]]></title>
-            <link>https://www.dotnetweekly.com/articles/implementing-net-core-health-checks</link>
-            <guid>https://www.dotnetweekly.com/articles/implementing-net-core-health-checks</guid>
-            <pubDate>Wed, 06 Nov 2019 17:47:12 GMT</pubDate>
-            <content:encoded><![CDATA[Generally, when we are using any uptime monitoring systems or load balancers, these systems will keep monitoring the health of the application and based on its health condition it will decide to send the request to serve it. For this earlier, we use to create a special endpoint where it will return any error message or code to indicate the health of the API/service.
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Re-imagining developer productivity with AI-assisted tools]]></title>
-            <link>https://www.dotnetweekly.com/articles/re-imagining-developer-productivity-with-ai-assisted-tools</link>
-            <guid>https://www.dotnetweekly.com/articles/re-imagining-developer-productivity-with-ai-assisted-tools</guid>
-            <pubDate>Wed, 06 Nov 2019 17:44:48 GMT</pubDate>
-            <content:encoded><![CDATA[Harnessing the wisdom of the community, Visual Studio IntelliCode is revolutionizing developer productivity. We started with AI-assisted IntelliSense and are now expanding the application of artificial intelligence to significantly accelerate learning, radically improve development agility, and increase code quality by means of two exciting new capabilities: whole line completion and refactoring.
+            <title><![CDATA[Programming languages: Python overtakes Java on GitHub as Google Dart use soars]]></title>
+            <link>https://www.dotnetweekly.com/articles/programming-languages-python-overtakes-java-on-github-as-google-dart-use-soars</link>
+            <guid>https://www.dotnetweekly.com/articles/programming-languages-python-overtakes-java-on-github-as-google-dart-use-soars</guid>
+            <pubDate>Wed, 13 Nov 2019 04:28:29 GMT</pubDate>
+            <content:encoded><![CDATA[Python now outranks Java based on the number of repository contributors, and by that metric Python is now second only to JavaScript, which has been in top spot since 2014, according to GitHub's 'State of the Octoverse' report for 2019.   
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Announcing Visual Studio Online Public Preview]]></title>
-            <link>https://www.dotnetweekly.com/articles/announcing-visual-studio-online-public-preview</link>
-            <guid>https://www.dotnetweekly.com/articles/announcing-visual-studio-online-public-preview</guid>
-            <pubDate>Wed, 06 Nov 2019 17:44:04 GMT</pubDate>
-            <content:encoded><![CDATA[Available beginning at Microsoft’s Ignite conference as a public preview, Visual Studio Online provides managed, on-demand development environments that can be used for long-term projects, to quickly prototype a new feature, or for short-term tasks like reviewing pull requests. You can work with environments from anywhere using either Visual Studio Code, Visual Studio IDE (in private preview), or the included browser-based editor. ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Anti-forgery token and anti-forgery cookie related issues]]></title>
-            <link>https://www.dotnetweekly.com/articles/anti-forgery-token-and-anti-forgery-cookie-related-issues</link>
-            <guid>https://www.dotnetweekly.com/articles/anti-forgery-token-and-anti-forgery-cookie-related-issues</guid>
-            <pubDate>Wed, 06 Nov 2019 17:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[Anti-forgery token is used to prevent CSRF (Cross-Site Request Forgery) attacks. Here is how it works in high-level:
+            <title><![CDATA[Building gRPC service on ASP.NET Core]]></title>
+            <link>https://www.dotnetweekly.com/articles/building-grpc-service-on-aspnet-core</link>
+            <guid>https://www.dotnetweekly.com/articles/building-grpc-service-on-aspnet-core</guid>
+            <pubDate>Wed, 13 Nov 2019 04:27:37 GMT</pubDate>
+            <content:encoded><![CDATA[ASP.NET Core supports gRPC protocol that is about to replace legacy SOAP services with more performant and powerful protocol that is easier to use and support. This blog post shows how to build gRPC service and client on Visual Studio and ASP.NET Core.
 
-IIS server associates this token with the current user’s identity before sending it to the client
-In the next client request, the server expects to see this token
-If the token is missing or it is different, then the server rejects the request (Reference)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Build a .NET App Quickly with Docker]]></title>
-            <link>https://www.dotnetweekly.com/articles/build-a-net-app-quickly-with-docker</link>
-            <guid>https://www.dotnetweekly.com/articles/build-a-net-app-quickly-with-docker</guid>
-            <pubDate>Wed, 06 Nov 2019 17:41:30 GMT</pubDate>
-            <content:encoded><![CDATA[In this post, you’ll build a .Net Framework application with Visual Studio on Windows 10. You’ll then containerize your application so it can be reliably deployed and run on any instance of Docker for Windows.
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ConsoleGUI is a simple layout-driven .NET framework for creating console-based GUI applications.]]></title>
-            <link>https://www.dotnetweekly.com/articles/consolegui-is-a-simple-layout-driven-net-framework-for-creating-console-based-gui-applications</link>
-            <guid>https://www.dotnetweekly.com/articles/consolegui-is-a-simple-layout-driven-net-framework-for-creating-console-based-gui-applications</guid>
-            <pubDate>Wed, 06 Nov 2019 17:40:57 GMT</pubDate>
-            <content:encoded><![CDATA[This framework is platform agnostic and dependency-free. The library targets .NET standard 2.0 and should run fine on both Windows and Linux machines.
+            <title><![CDATA[Announcing .NET Jupyter Notebooks]]></title>
+            <link>https://www.dotnetweekly.com/articles/announcing-net-jupyter-notebooks</link>
+            <guid>https://www.dotnetweekly.com/articles/announcing-net-jupyter-notebooks</guid>
+            <pubDate>Wed, 13 Nov 2019 04:27:16 GMT</pubDate>
+            <content:encoded><![CDATA[Jupyter Notebooks has been the significant player in the interactive development space for many years, and Notebooks have played a vital role in the continued popularity of languages like Python, R, Julia, and Scala. Interactive experiences like this give users with a lightweight tool (I like to say "interactive paper") for learning, iterative development, and data science and data manipulation.
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Join the Visual Studio for Mac ASP.NET Core Challenge]]></title>
-            <link>https://www.dotnetweekly.com/articles/join-the-visual-studio-for-mac-aspnet-core-challenge</link>
-            <guid>https://www.dotnetweekly.com/articles/join-the-visual-studio-for-mac-aspnet-core-challenge</guid>
-            <pubDate>Wed, 06 Nov 2019 17:39:38 GMT</pubDate>
-            <content:encoded><![CDATA[In September, we shared Visual Studio 2019 for Mac v8.3 with you – this was our biggest release yet for .NET developers working on a Mac. Today, we’d like to invite you to take part in a new community challenge in which you can interact directly with our team to improve Visual Studio for Mac, explore some great looking ASP.NET Core samples, and earn prizes!
+            <title><![CDATA[Top VS Code Extensions You Don't Know]]></title>
+            <link>https://www.dotnetweekly.com/articles/top-vs-code-extensions-you-dont-know</link>
+            <guid>https://www.dotnetweekly.com/articles/top-vs-code-extensions-you-dont-know</guid>
+            <pubDate>Wed, 13 Nov 2019 04:24:01 GMT</pubDate>
+            <content:encoded><![CDATA[Top VS Code Extensions You Don't Know
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[What is Blazor? A Tutorial on Building Web Apps with Authentication]]></title>
+            <link>https://www.dotnetweekly.com/articles/what-is-blazor-a-tutorial-on-building-web-apps-with-authentication</link>
+            <guid>https://www.dotnetweekly.com/articles/what-is-blazor-a-tutorial-on-building-web-apps-with-authentication</guid>
+            <pubDate>Wed, 13 Nov 2019 04:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[TL;DR: This tutorial introduces the Blazor framework by guiding you in building a simple Web application with C#. It will also show you how to integrate your Blazor application with Auth0 in order to secure it. Following the steps described in this tutorial, you will end up building two versions of a simple Web application. You can find the full code in this GitHub repository.
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Azure Machine Learning—ML for all skill levels]]></title>
-            <link>https://www.dotnetweekly.com/articles/azure-machine-learningml-for-all-skill-levels</link>
-            <guid>https://www.dotnetweekly.com/articles/azure-machine-learningml-for-all-skill-levels</guid>
-            <pubDate>Wed, 06 Nov 2019 17:39:13 GMT</pubDate>
-            <content:encoded><![CDATA[Enterprises today are adopting artificial intelligence (AI) at a rapid pace to stay ahead of their competition, deliver innovation, improve customer experiences, and grow revenue. AI and machine learning applications are ushering in a new era of transformation across industries from skill sets to scale, efficiency, operations, and governance.
-
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[How to add a second line of business to a 20-year-old application]]></title>
-            <link>https://www.dotnetweekly.com/articles/how-to-add-a-second-line-of-business-to-a-20-year-old-application</link>
-            <guid>https://www.dotnetweekly.com/articles/how-to-add-a-second-line-of-business-to-a-20-year-old-application</guid>
-            <pubDate>Wed, 06 Nov 2019 15:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[In part 2 of this series, the author discusses the code-level refactoring strategies used to add a second line of business to a 20-year-old application.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Common exceptions and fixes in Entity Framework and SQL Server]]></title>
-            <link>https://www.dotnetweekly.com/articles/common-exceptions-and-fixes-in-entity-framework-and-sql-server</link>
-            <guid>https://www.dotnetweekly.com/articles/common-exceptions-and-fixes-in-entity-framework-and-sql-server</guid>
-            <pubDate>Tue, 05 Nov 2019 07:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[When starting to work with Entity Framework and SQL Server, you often run into the same errors. Sometimes these errors are caused by missing permissions for the database connection, and sometimes it's caused the way that the database is accessed. In this article, we will go through some of the most common errors and some of the possible ways these errors could be fixed.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Managing output in the .NET SDK projects]]></title>
-            <link>https://www.dotnetweekly.com/articles/managing-output-in-the-net-sdk-projects</link>
-            <guid>https://www.dotnetweekly.com/articles/managing-output-in-the-net-sdk-projects</guid>
-            <pubDate>Mon, 04 Nov 2019 17:30:27 GMT</pubDate>
-            <content:encoded><![CDATA[Documentation for new csproj format, as well as for Nuget related properties, is scattered across different MSDN documents, so I decided to create this blog post as a reference to what I’ve recently learned and discovered about the project’s options that affect the content of the output directory.]]></content:encoded>
+            <title><![CDATA[Debugging System.NullReferenceException - Object reference not set to an instance of an object]]></title>
+            <link>https://www.dotnetweekly.com/articles/debugging-systemnullreferenceexception-object-reference-not-set-to-an-instance-of-an-object</link>
+            <guid>https://www.dotnetweekly.com/articles/debugging-systemnullreferenceexception-object-reference-not-set-to-an-instance-of-an-object</guid>
+            <pubDate>Tue, 12 Nov 2019 11:09:18 GMT</pubDate>
+            <content:encoded><![CDATA[Get help debugging System.NullReferenceException. The post will teach common solutions for both identifying and fixing causes of a NullReferenceException.]]></content:encoded>
         </item>
     </channel>
 </rss>
