@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/dapper-vs-ef-core-query-performance-benchmarking</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/custom-machine-learning-with-mlnet</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/build-a-simple-microservice-with-c-azure-functions</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/high-performance-logging-in-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/instantiating-an-object-without-using-its-constructor-in-c</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/dominic-baier-securing-web-applications-and-apis-with-aspnet-core-3</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/async-demystified-karel-zikmund</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/aspnet-core-web-api-versioning</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/c-code-quality-part-1</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/mediator-pattern-c</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/grpc-vs-http-apis</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/grpc-performance-benchmark-in-aspnet-core-3</loc> </url>
+</urlset>

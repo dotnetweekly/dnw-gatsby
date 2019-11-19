@@ -4,71 +4,114 @@
         <title>dotNET Weekly - Week undefined Year undefined</title>
         <link>https://www.dotnetweekly.com/week/undefined/year/undefined?feed=rss</link>
         <description></description>
-        <lastBuildDate>Wed, 13 Nov 2019 04:32:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Nov 2019 17:50:16 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <category>Articles</category>
         <category>Videos</category>
         <item>
-            <title><![CDATA[How to Work with C# Vectors and Matrices for Machine Learning]]></title>
-            <link>https://www.dotnetweekly.com/articles/how-to-work-with-c-vectors-and-matrices-for-machine-learning</link>
-            <guid>https://www.dotnetweekly.com/articles/how-to-work-with-c-vectors-and-matrices-for-machine-learning</guid>
-            <pubDate>Wed, 13 Nov 2019 04:30:56 GMT</pubDate>
-            <content:encoded><![CDATA[A working knowledge of machine learning (ML) is becoming an increasingly important part of many C# developers' skill sets. And virtually every significant ML technique uses vectors and matrices. In this article I get you up to speed with the fundamental knowledge you need to create and modify ML code written using the C# language.
+            <title><![CDATA[Dapper vs EF Core Query Performance Benchmarking]]></title>
+            <link>https://www.dotnetweekly.com/articles/dapper-vs-ef-core-query-performance-benchmarking</link>
+            <guid>https://www.dotnetweekly.com/articles/dapper-vs-ef-core-query-performance-benchmarking</guid>
+            <pubDate>Tue, 19 Nov 2019 17:45:43 GMT</pubDate>
+            <content:encoded><![CDATA[In that post, I determined that Dapper performed markedly better for queries against a SQL Server database than Entity Framework did, and even outperformed ADO.NET in certain cases.
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Programming languages: Python overtakes Java on GitHub as Google Dart use soars]]></title>
-            <link>https://www.dotnetweekly.com/articles/programming-languages-python-overtakes-java-on-github-as-google-dart-use-soars</link>
-            <guid>https://www.dotnetweekly.com/articles/programming-languages-python-overtakes-java-on-github-as-google-dart-use-soars</guid>
-            <pubDate>Wed, 13 Nov 2019 04:28:29 GMT</pubDate>
-            <content:encoded><![CDATA[Python now outranks Java based on the number of repository contributors, and by that metric Python is now second only to JavaScript, which has been in top spot since 2014, according to GitHub's 'State of the Octoverse' report for 2019.   
+            <title><![CDATA[Custom Machine Learning with ML.NET]]></title>
+            <link>https://www.dotnetweekly.com/articles/custom-machine-learning-with-mlnet</link>
+            <guid>https://www.dotnetweekly.com/articles/custom-machine-learning-with-mlnet</guid>
+            <pubDate>Tue, 19 Nov 2019 17:44:57 GMT</pubDate>
+            <content:encoded><![CDATA[In this post, we look broadly at the capabilities of ML.NET, Microsoft's open source machine learning framework, compared to Azure Cognitives Services.
+
+ML.NET is Microsoft’s recently released open-source, cross-platform, code-first framework for Machine Learning. Although new to us, the framework has its roots in Microsoft Research, and has been used by many internal teams over the last decade, including those working on products you have almost certainly heard of — Microsoft Windows, Office and Bing, to name a few.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Build a Simple Microservice with C# Azure Functions]]></title>
+            <link>https://www.dotnetweekly.com/articles/build-a-simple-microservice-with-c-azure-functions</link>
+            <guid>https://www.dotnetweekly.com/articles/build-a-simple-microservice-with-c-azure-functions</guid>
+            <pubDate>Tue, 19 Nov 2019 17:44:25 GMT</pubDate>
+            <content:encoded><![CDATA[I’ve always liked microservices because they embrace small, well-encapsulated building blocks. They mitigate deployment hell by treating each component of a software system as its own product, with versions, testing, and releases.
+
+A microservice is “micro” because of the narrow scope of its functionality, not necessarily because the length of its code is very short. A microservice’s functionality, so long as it’s kept to the limited scope, can go as deep as required by the business. By limiting scope, we isolate different bits of logic in our software by vertical niche; our client application can still get to all the functionality it needs, through several small APIs, each of which scales independently. Much better than a single, monolithic API!]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[High-Performance Logging in .NET Core]]></title>
+            <link>https://www.dotnetweekly.com/articles/high-performance-logging-in-net-core</link>
+            <guid>https://www.dotnetweekly.com/articles/high-performance-logging-in-net-core</guid>
+            <pubDate>Tue, 19 Nov 2019 17:44:05 GMT</pubDate>
+            <content:encoded><![CDATA[In this post I will explore and highlight an approach to logging which you can apply in high-performance, high load applications to reduce the overhead of logging.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Instantiating an object without using its constructor in C#]]></title>
+            <link>https://www.dotnetweekly.com/articles/instantiating-an-object-without-using-its-constructor-in-c</link>
+            <guid>https://www.dotnetweekly.com/articles/instantiating-an-object-without-using-its-constructor-in-c</guid>
+            <pubDate>Tue, 19 Nov 2019 17:43:35 GMT</pubDate>
+            <content:encoded><![CDATA[In this blog post we will look at how you could create an instance of an object in C# without calling its constructor – which sounds a bit crazy, but is actually something that has been supported by both CLR and Core CLR for a long time now.
+
+More after the jump.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Dominic Baier - Securing Web Applications and APIs with ASP.NET Core 3]]></title>
+            <link>https://www.dotnetweekly.com/articles/dominic-baier-securing-web-applications-and-apis-with-aspnet-core-3</link>
+            <guid>https://www.dotnetweekly.com/articles/dominic-baier-securing-web-applications-and-apis-with-aspnet-core-3</guid>
+            <pubDate>Tue, 19 Nov 2019 17:42:20 GMT</pubDate>
+            <content:encoded><![CDATA[ASP.NET Core 3 is Microsoft’s server-side application framework designed for implementing modern architectures with modern security requirements.
+
+In this talk we will have a look at the various security services that come with ASP.NET Core and how they fit into the bigger picture of the security architecture. We will have a look at features like hosting, data protection, authentication & authorization, ASP.NET Identity and the new IdentityServer integration for standard-based access control for APIs.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Async demystified - Karel Zikmund]]></title>
+            <link>https://www.dotnetweekly.com/articles/async-demystified-karel-zikmund</link>
+            <guid>https://www.dotnetweekly.com/articles/async-demystified-karel-zikmund</guid>
+            <pubDate>Tue, 19 Nov 2019 17:37:26 GMT</pubDate>
+            <content:encoded><![CDATA[Do you struggle to understand async/await in C#? How it works and why?
+I did. So I asked the best - the author of async, Stephen Toub. This talk is summary of the most interesting insights from him that helped me and my colleagues on CoreFX team to finally truly understand the magic behind async/await.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ASP.NET Core Web API Versioning]]></title>
+            <link>https://www.dotnetweekly.com/articles/aspnet-core-web-api-versioning</link>
+            <guid>https://www.dotnetweekly.com/articles/aspnet-core-web-api-versioning</guid>
+            <pubDate>Tue, 19 Nov 2019 17:36:01 GMT</pubDate>
+            <content:encoded><![CDATA[An iteration and evolutionary changes of an ASP.NET Core Web API is handled by Versioning. Versioning of an API gives confidence to the clients which consumes API for a long time. Any changes or development of an API will be accessible using the new version and it won't cause issues to the clients consuming the old version of API.
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[C# Code Quality – Part 1]]></title>
+            <link>https://www.dotnetweekly.com/articles/c-code-quality-part-1</link>
+            <guid>https://www.dotnetweekly.com/articles/c-code-quality-part-1</guid>
+            <pubDate>Tue, 19 Nov 2019 17:35:11 GMT</pubDate>
+            <content:encoded><![CDATA[Improving a codebase can be a difficult task. The larger the codebase, the more difficult it becomes to find and fix poor code manually. When confronted with a new codebase, metrics are needed to determine what needs to be improved. This article discusses some tools to get the metrics, and the series discusses how to use the information to make targeted refactors. 
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Building gRPC service on ASP.NET Core]]></title>
-            <link>https://www.dotnetweekly.com/articles/building-grpc-service-on-aspnet-core</link>
-            <guid>https://www.dotnetweekly.com/articles/building-grpc-service-on-aspnet-core</guid>
-            <pubDate>Wed, 13 Nov 2019 04:27:37 GMT</pubDate>
-            <content:encoded><![CDATA[ASP.NET Core supports gRPC protocol that is about to replace legacy SOAP services with more performant and powerful protocol that is easier to use and support. This blog post shows how to build gRPC service and client on Visual Studio and ASP.NET Core.
+            <title><![CDATA[Mediator Pattern C#]]></title>
+            <link>https://www.dotnetweekly.com/articles/mediator-pattern-c</link>
+            <guid>https://www.dotnetweekly.com/articles/mediator-pattern-c</guid>
+            <pubDate>Tue, 19 Nov 2019 17:34:53 GMT</pubDate>
+            <content:encoded><![CDATA[The Mediator pattern in C# enables objects to communicate, without knowing each other’s identities. It also encapsulates a protocol that objects can follow.
 
+You can think of a Mediator object as a kind of a coordinator; that handles traffic between appropriate parties based on its own logic.
 
-]]></content:encoded>
+Mediator promotes loose coupling by keeping objects from referring to each other explicitly, and it lets you vary their interaction independently.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Announcing .NET Jupyter Notebooks]]></title>
-            <link>https://www.dotnetweekly.com/articles/announcing-net-jupyter-notebooks</link>
-            <guid>https://www.dotnetweekly.com/articles/announcing-net-jupyter-notebooks</guid>
-            <pubDate>Wed, 13 Nov 2019 04:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[Jupyter Notebooks has been the significant player in the interactive development space for many years, and Notebooks have played a vital role in the continued popularity of languages like Python, R, Julia, and Scala. Interactive experiences like this give users with a lightweight tool (I like to say "interactive paper") for learning, iterative development, and data science and data manipulation.
-
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Top VS Code Extensions You Don't Know]]></title>
-            <link>https://www.dotnetweekly.com/articles/top-vs-code-extensions-you-dont-know</link>
-            <guid>https://www.dotnetweekly.com/articles/top-vs-code-extensions-you-dont-know</guid>
-            <pubDate>Wed, 13 Nov 2019 04:24:01 GMT</pubDate>
-            <content:encoded><![CDATA[Top VS Code Extensions You Don't Know
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[What is Blazor? A Tutorial on Building Web Apps with Authentication]]></title>
-            <link>https://www.dotnetweekly.com/articles/what-is-blazor-a-tutorial-on-building-web-apps-with-authentication</link>
-            <guid>https://www.dotnetweekly.com/articles/what-is-blazor-a-tutorial-on-building-web-apps-with-authentication</guid>
-            <pubDate>Wed, 13 Nov 2019 04:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[TL;DR: This tutorial introduces the Blazor framework by guiding you in building a simple Web application with C#. It will also show you how to integrate your Blazor application with Auth0 in order to secure it. Following the steps described in this tutorial, you will end up building two versions of a simple Web application. You can find the full code in this GitHub repository.
+            <title><![CDATA[gRPC vs HTTP APIs]]></title>
+            <link>https://www.dotnetweekly.com/articles/grpc-vs-http-apis</link>
+            <guid>https://www.dotnetweekly.com/articles/grpc-vs-http-apis</guid>
+            <pubDate>Tue, 19 Nov 2019 07:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[ASP.NET Core now enables developers to build gRPC services. gRPC is an opinionated contract-first remote procedure call framework, with a focus on performance and developer productivity. gRPC integrates with ASP.NET Core 3.0, so you can use your existing ASP.NET Core logging, configuration, authentication patterns to build new gRPC services.
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Debugging System.NullReferenceException - Object reference not set to an instance of an object]]></title>
-            <link>https://www.dotnetweekly.com/articles/debugging-systemnullreferenceexception-object-reference-not-set-to-an-instance-of-an-object</link>
-            <guid>https://www.dotnetweekly.com/articles/debugging-systemnullreferenceexception-object-reference-not-set-to-an-instance-of-an-object</guid>
-            <pubDate>Tue, 12 Nov 2019 11:09:18 GMT</pubDate>
-            <content:encoded><![CDATA[Get help debugging System.NullReferenceException. The post will teach common solutions for both identifying and fixing causes of a NullReferenceException.]]></content:encoded>
+            <title><![CDATA[gRPC performance benchmark in ASP.NET Core 3]]></title>
+            <link>https://www.dotnetweekly.com/articles/grpc-performance-benchmark-in-aspnet-core-3</link>
+            <guid>https://www.dotnetweekly.com/articles/grpc-performance-benchmark-in-aspnet-core-3</guid>
+            <pubDate>Mon, 18 Nov 2019 09:14:31 GMT</pubDate>
+            <content:encoded><![CDATA[Evaluation of gRPC & JSON performance in ASP.NET Core 3. Offical gRPC libraries, protobuf-net.Grpc, Newtonsoft.Json and System.Text.Json are compared]]></content:encoded>
         </item>
     </channel>
 </rss>
