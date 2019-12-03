@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/api-testing-doesnt-have-to-be-tedious</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/how-i-built-a-simple-compiler-markdown-to-html</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/why-is-reflection-slow</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/building-a-real-time-net-graphql-client-api</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/https-blogmaddevsio-guaranteed-delivery-with-grpc-streams-dc847ead7e6e</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/deep-learning-vs-machine-learning</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/new-xaml-features-in-visual-studio</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/build-your-own-react</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/fluentdispatch</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/15-tips-and-tricks-to-increase-your-productivity-in-visual-studio-2019</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/javascript-visualized-event-loop</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/building-modern-cloud-applications-using-pulumi-and-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-async-disposable-and-async-enumerable-in-frameworks-older-than-net-core-30</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/how-to-simulate-automapper-that-works-during-the-build-time</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/run-aspnet-core-3-on-kubernetes-with-helm</loc> </url>
+</urlset>
