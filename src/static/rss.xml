@@ -4,168 +4,104 @@
         <title>dotNET Weekly - Week undefined Year undefined</title>
         <link>https://www.dotnetweekly.com/week/undefined/year/undefined?feed=rss</link>
         <description></description>
-        <lastBuildDate>Tue, 03 Dec 2019 03:28:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Dec 2019 04:46:13 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
-        <category>Libraries-Tools</category>
         <category>Articles</category>
-        <category>Videos</category>
+        <category>Libraries-Tools</category>
         <item>
-            <title><![CDATA[API testing doesn't have to be tedious]]></title>
-            <link>https://www.dotnetweekly.com/articles/api-testing-doesnt-have-to-be-tedious</link>
-            <guid>https://www.dotnetweekly.com/articles/api-testing-doesnt-have-to-be-tedious</guid>
-            <pubDate>Tue, 03 Dec 2019 03:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[Powerful declarative end-to-end testing for APIs that works for you! No coding required. Simple to run on any continuous integration tool.
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[How I built a simple compiler — Markdown to HTML]]></title>
-            <link>https://www.dotnetweekly.com/articles/how-i-built-a-simple-compiler-markdown-to-html</link>
-            <guid>https://www.dotnetweekly.com/articles/how-i-built-a-simple-compiler-markdown-to-html</guid>
-            <pubDate>Tue, 03 Dec 2019 03:05:14 GMT</pubDate>
-            <content:encoded><![CDATA[A colleague of mine, who happens to be my ̶b̶o̶s̶s̶ ̶ leader wrote a really cool compiler. It’s not a cool CRUD app or complicated animation.
-IT’S A COMPILER. Used in the production environment. And it’s not backed up by a community or a big company.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Why is reflection slow?]]></title>
-            <link>https://www.dotnetweekly.com/articles/why-is-reflection-slow</link>
-            <guid>https://www.dotnetweekly.com/articles/why-is-reflection-slow</guid>
-            <pubDate>Tue, 03 Dec 2019 03:04:27 GMT</pubDate>
-            <content:encoded><![CDATA[It’s common knowledge that reflection in .NET is slow, but why is that the case? This post aims to figure that out by looking at what reflection does under-the-hood.
-
-CLR Type System Design Goals
-But first it’s worth pointing out that part of the reason reflection isn’t fast is that it was never designed to have high-performance as one of its goals, from Type System Overview - ‘Design Goals and Non-goals’:]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Building a real-time .NET GraphQL Client API]]></title>
-            <link>https://www.dotnetweekly.com/articles/building-a-real-time-net-graphql-client-api</link>
-            <guid>https://www.dotnetweekly.com/articles/building-a-real-time-net-graphql-client-api</guid>
-            <pubDate>Tue, 03 Dec 2019 03:03:46 GMT</pubDate>
-            <content:encoded><![CDATA[We are busy, busy, busy working on version 11 of Hot Chocolate and Strawberry Shake.
-
-In this post I want to explore the client side of GraphQL on .NET more with a special emphasis on subscriptions.
-
-Since, with the new version of Strawberry Shake our initial blog has become kind of invalid I also will walk you trough the basics again before heading into subscriptions and what lies beyond.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[https://blog.maddevs.io/guaranteed-delivery-with-grpc-streams-dc847ead7e6e]]></title>
-            <link>https://www.dotnetweekly.com/articles/https-blogmaddevsio-guaranteed-delivery-with-grpc-streams-dc847ead7e6e</link>
-            <guid>https://www.dotnetweekly.com/articles/https-blogmaddevsio-guaranteed-delivery-with-grpc-streams-dc847ead7e6e</guid>
-            <pubDate>Tue, 03 Dec 2019 03:03:26 GMT</pubDate>
-            <content:encoded><![CDATA[Let’s take a look at the minimum requirements for web developers in the 2000s. In the good old days, you could build more or less working website with a backend programming language (e.g PHP, Python, Ruby), some Javascript + jQuery and the ability to create an HTML layout from PSD. That’s all. The code was deployed mainly by FTP. CI/CD, Pipelines, DevOps, SRE and other mainstream concepts were not in the list of minimum requirements for web developers.
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Deep Learning vs. Machine Learning]]></title>
-            <link>https://www.dotnetweekly.com/articles/deep-learning-vs-machine-learning</link>
-            <guid>https://www.dotnetweekly.com/articles/deep-learning-vs-machine-learning</guid>
-            <pubDate>Tue, 03 Dec 2019 03:01:43 GMT</pubDate>
-            <content:encoded><![CDATA[This episode helps you compare deep learning vs. machine learning. You'll learn how the two concepts compare and how they fit into the broader category of artificial intelligence. During this demo we will also describe how deep learning can be applied to real-world scenarios such as fraud detection, voice and facial recognition, sentiment analytics, and time series forecasting. 
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[New XAML Features in Visual Studio]]></title>
-            <link>https://www.dotnetweekly.com/articles/new-xaml-features-in-visual-studio</link>
-            <guid>https://www.dotnetweekly.com/articles/new-xaml-features-in-visual-studio</guid>
-            <pubDate>Tue, 03 Dec 2019 03:01:23 GMT</pubDate>
-            <content:encoded><![CDATA[In this episode, Robert is joined by Dmitry Lyalin, who demonstrates a number of both new and upcoming features for WPF and UWP desktop developers in Visual Studio 2019. He shows:
-
-WPF Designer supporting.NET Core 3 [05:00]
-IntelliCode for XAML [06:00]
-Popout XAML into separate window [07:00]
-Document Outline [09:05]
-Easier merging of Resource Dictionaries [10:15]
-Runtime Tools in-app toolbar [12:45]
-Live Visual Tree [15:00]
-Hot Reload [15:45]
-Live Property Explorer [17:05]
-Show Just My XAML [18:50]
-More on Hot Reload [21:15]
-Control selection mode in UI Debugging Tools [25:35]
-Region support in IntelliSense [28:00]
-Code snippet support in IntelliSense [29:45]
-XAML Binding Errors window (available if you install XAML Binding Debug Output extension) [32:00]
-Suggested Actions (preview of upcoming feature) [35:00]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Build your own React]]></title>
-            <link>https://www.dotnetweekly.com/articles/build-your-own-react</link>
-            <guid>https://www.dotnetweekly.com/articles/build-your-own-react</guid>
-            <pubDate>Tue, 03 Dec 2019 03:00:30 GMT</pubDate>
-            <content:encoded><![CDATA[We are going to rewrite React from scratch. Step by step. Following the architecture from the real React code but without all the optimizations and non-essential features.
-
-If you’ve read any of my previous “build your own React” posts, the difference is that this post is based on React 16.8, so we can now use hooks and drop all the code related to classes.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[FluentDispatch]]></title>
-            <link>https://www.dotnetweekly.com/articles/fluentdispatch</link>
-            <guid>https://www.dotnetweekly.com/articles/fluentdispatch</guid>
-            <pubDate>Tue, 03 Dec 2019 02:58:59 GMT</pubDate>
-            <content:encoded><![CDATA[FluentDispatch is a .NET Standard 2.1 framework which makes easy to scaffold distributed systems and dispatch incoming load into units of work in a deterministic way. This framework is useful whenever you want to process a heavy workload coming from a specific source of data (i.e message broker, web endpoint, ...) in a non-blocking way (fire-and-forget pattern) but still being able to benefit from resiliency features (circuit beaking, back pressure, ...). The framework can be used to dispatch load into units of work locally (using .NET Threadpool) or remotely (using Remote Procedure Calls).
+            <title><![CDATA[Making a Better Custom Select Element]]></title>
+            <link>https://www.dotnetweekly.com/articles/making-a-better-custom-select-element</link>
+            <guid>https://www.dotnetweekly.com/articles/making-a-better-custom-select-element</guid>
+            <pubDate>Mon, 09 Dec 2019 04:31:01 GMT</pubDate>
+            <content:encoded><![CDATA[In my work as an accessibility consultant, there are some frequent problems I find on people’s websites. One that’s come up a lot recently is that people are making custom select inputs for their forms. I can tell that people are trying to make them accessible, because they’ve added ARIA attributes or visually-hidden instructions for screen reader users. Sometimes they use a plugin which claims to be accessible. And this is great, I love that folks want to do the right thing! But so far I’ve never come across a custom select input which actually meets all of the WCAG AA criteria.
 
 ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[15 Tips and Tricks to Increase Your Productivity in Visual Studio 2019]]></title>
-            <link>https://www.dotnetweekly.com/articles/15-tips-and-tricks-to-increase-your-productivity-in-visual-studio-2019</link>
-            <guid>https://www.dotnetweekly.com/articles/15-tips-and-tricks-to-increase-your-productivity-in-visual-studio-2019</guid>
-            <pubDate>Tue, 03 Dec 2019 02:58:34 GMT</pubDate>
-            <content:encoded><![CDATA[Visual Studio 2019 is packed with new features for smartly handling code for different projects. This blog compiles tips and tricks that will make you more productive when using Visual Studio 2019. They are:
-
-Code Cleanup
-Improve performance
-Search in Watch window
-Track active file inside Solution Explorer
-Cycle Clipboard Ring
-Remove and sort namespaces
-Track miscellaneous files
-Run to Cursor
-Reusable code in Toolbox
-Show the Output window automatically
-Run web application in multiple browsers
-Quick launch
-Use keyboard shortcuts
-Vertical selection
-Collapse all]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[JavaScript Visualized: Event Loop]]></title>
-            <link>https://www.dotnetweekly.com/articles/javascript-visualized-event-loop</link>
-            <guid>https://www.dotnetweekly.com/articles/javascript-visualized-event-loop</guid>
-            <pubDate>Tue, 03 Dec 2019 02:57:44 GMT</pubDate>
-            <content:encoded><![CDATA[Oh boi the event loop. It’s one of those things that every JavaScript developer has to deal with in one way or another, but it can be a bit confusing to understand at first. I’m a visual learner so I thought I’d try to help you by explaining it in a visual way through low-res gifs because it's 2019 and gifs are somehow still pixelated and blurry.
-
-But first, what is the event loop and why should you care?
-
-JavaScript is single-threaded: only one task can run at a time. Usually, that’s no big deal, but now imagine you’re running a task which takes 30 seconds.. Ya.. During that task we’re waiting for 30 seconds before anything else can happen (JavaScript runs on the browser’s main thread by default, so the entire UI is stuck) It’s 2019, no one wants a slow, unresponsive website]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Building Modern Cloud Applications using Pulumi and .NET Core]]></title>
-            <link>https://www.dotnetweekly.com/articles/building-modern-cloud-applications-using-pulumi-and-net-core</link>
-            <guid>https://www.dotnetweekly.com/articles/building-modern-cloud-applications-using-pulumi-and-net-core</guid>
-            <pubDate>Tue, 03 Dec 2019 02:56:51 GMT</pubDate>
-            <content:encoded><![CDATA[We are excited to announce .NET Core support for Pulumi! This announcement means you can declare cloud infrastructure — including all of Azure, such as Kubernetes, Functions, AppService, Virtual Machines, CosmosDB, and more — using your favorite .NET language, including C#, VB.NET, and F#. This brings the entire cloud to your fingertips without ever having to leave your code editor, while using production-ready “infrastructure as code” techniques.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Using async disposable and async enumerable in frameworks older than .NET Core 3.0]]></title>
-            <link>https://www.dotnetweekly.com/articles/using-async-disposable-and-async-enumerable-in-frameworks-older-than-net-core-30</link>
-            <guid>https://www.dotnetweekly.com/articles/using-async-disposable-and-async-enumerable-in-frameworks-older-than-net-core-30</guid>
-            <pubDate>Tue, 03 Dec 2019 02:56:32 GMT</pubDate>
-            <content:encoded><![CDATA[One of the awesome features introduced in .NET Core 3.0 and C# 8.0 are async streams. The feature consists of two parts – async disposable, for async clean up, as well as async enumerable, for async iteration.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[How to simulate AutoMapper that works during the build time]]></title>
             <link>https://www.dotnetweekly.com/articles/how-to-simulate-automapper-that-works-during-the-build-time</link>
             <guid>https://www.dotnetweekly.com/articles/how-to-simulate-automapper-that-works-during-the-build-time</guid>
-            <pubDate>Mon, 02 Dec 2019 18:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[In this blog post, I’m going to describe how to create a tool for generating code during the build process and how I used it to create auto-synchronizing mapping classes.]]></content:encoded>
+            <pubDate>Mon, 09 Dec 2019 04:29:26 GMT</pubDate>
+            <content:encoded><![CDATA[Almost two years ago I created the very first version of MappingGenerator. Since then, I’ve put a lot of work in this project, adding new functions and improving the mapping generation algorithm with 14 releases (43 issues/feature requests closed) in the meantime. With over 5.5k downloads from the marketplace and 380 stars on Github, it looks like there is quite a market demand for this kind of tool (even though my coffee button statistics indicate something different). In the meantime, I got a couple of feature requests to implement some kind of mechanism that allows tracking changes of mapped classes and synchronize the mapping code in response to these changes. I was resisting for some time because it seemed to be a quite complicated problem but after a while, I decided to give it a try and make something that will somehow satisfy all those requirements. In this blog post I’m going to describe how to create a tool for generating code during the build process and how I used it to create auto-synchronizing mapping classes.
+
+]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Run ASP.NET Core 3 on Kubernetes with Helm.]]></title>
-            <link>https://www.dotnetweekly.com/articles/run-aspnet-core-3-on-kubernetes-with-helm</link>
-            <guid>https://www.dotnetweekly.com/articles/run-aspnet-core-3-on-kubernetes-with-helm</guid>
-            <pubDate>Mon, 02 Dec 2019 14:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[A step-by-step guide into how to create, build and host ASP.NET Core 3 web API on Kubernetes with a little help from Helm 3.]]></content:encoded>
+            <title><![CDATA[Announcing Entity Framework Core 3.1 and Entity Framework 6.4]]></title>
+            <link>https://www.dotnetweekly.com/articles/announcing-entity-framework-core-31-and-entity-framework-64</link>
+            <guid>https://www.dotnetweekly.com/articles/announcing-entity-framework-core-31-and-entity-framework-64</guid>
+            <pubDate>Mon, 09 Dec 2019 04:26:33 GMT</pubDate>
+            <content:encoded><![CDATA[EF Core 3.1 is distributed exclusively as a set of NuGet packages. For example, to add the SQL Server provider to your project, you can use the following command using the dotnet tool:
+
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer --version 3.1.0
+When upgrading applications that target older versions of ASP.NET Core to 3.1, you may also have to add the EF Core packages as an explicit dependency.
+
+Starting in 3.0 and continuing for 3.1, the dotnet ef command-line tool is no longer included in the .NET Core SDK. Before you can execute EF Core migration or scaffolding commands, you’ll have to install this package as either a global or local tool. To install the final version of our 3.1.0 tool as a global tool, use the following command:
+
+dotnet tool install --global dotnet-ef --version 3.1.0
+It’s possible to use this new version of dotnet ef with projects that use older versions of the EF Core runtime. However, older versions of the tool will not work with EF Core 3.1.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ASP.NET Core updates in .NET Core 3.1]]></title>
+            <link>https://www.dotnetweekly.com/articles/aspnet-core-updates-in-net-core-31</link>
+            <guid>https://www.dotnetweekly.com/articles/aspnet-core-updates-in-net-core-31</guid>
+            <pubDate>Mon, 09 Dec 2019 04:25:53 GMT</pubDate>
+            <content:encoded><![CDATA[Here’s what’s new in this release for ASP.NET Core:
+
+Partial class support for Razor components
+Pass parameters to top-level components
+New component tag helper
+Prevent default actions for events in Blazor apps
+Stop event propagation in Blazor apps
+Detailed errors during Blazor app development
+Support for shared queues in HttpSysServer
+Breaking changes for SameSite cookies]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Using WebAssembly from .NET with Wasmtime]]></title>
+            <link>https://www.dotnetweekly.com/articles/using-webassembly-from-net-with-wasmtime</link>
+            <guid>https://www.dotnetweekly.com/articles/using-webassembly-from-net-with-wasmtime</guid>
+            <pubDate>Mon, 09 Dec 2019 04:22:28 GMT</pubDate>
+            <content:encoded><![CDATA[Wasmtime, the WebAssembly runtime from the Bytecode Alliance, recently added an early preview of an API for .NET Core, Microsoft’s free, open-source, and cross-platform application runtime. This API enables developers to programmatically load and execute WebAssembly code directly from their .NET programs.
+
+.NET Core is already a cross-platform runtime, so why should .NET developers pay any attention to WebAssembly?
+
+There are several reasons to be excited about WebAssembly if you’re a .NET developer, such as sharing the same executable code across platforms, being able to securely isolate untrusted code, and having a seamless interop experience with the upcoming WebAssembly interface types proposal.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[.NET Core 2.2 will reach End of Life on December 23, 2019]]></title>
+            <link>https://www.dotnetweekly.com/articles/net-core-22-will-reach-end-of-life-on-december-23-2019</link>
+            <guid>https://www.dotnetweekly.com/articles/net-core-22-will-reach-end-of-life-on-december-23-2019</guid>
+            <pubDate>Mon, 09 Dec 2019 04:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[.NET Core 2.2 was released on December 4, 2018. As a non-LTS (“Current”) release, it is supported for three months after the next release. .NET Core 3.0 was released on September 23, 2019. As a result, .NET Core 2.2 is supported until December 23, 2019.
+
+After that time, .NET Core patch updates will no longer include updated packages of container images for .NET Core 2.2. You should plan your upgrade from .NET Core 2.2 now.
+
+.NET Core 3.1 released December 3, 2019 as a Long-term support release. As a result, .NET Core 3.0, released September 23, 2019 is supported until March 23, 2020.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[BookFx provides an extremely effective method for creating Excel workbooks of any complexity.]]></title>
+            <link>https://www.dotnetweekly.com/articles/bookfx-provides-an-extremely-effective-method-for-creating-excel-workbooks-of-any-complexity</link>
+            <guid>https://www.dotnetweekly.com/articles/bookfx-provides-an-extremely-effective-method-for-creating-excel-workbooks-of-any-complexity</guid>
+            <pubDate>Mon, 09 Dec 2019 04:21:17 GMT</pubDate>
+            <content:encoded><![CDATA[Composing Excel spreadsheets based on a tree of nested components like the HTML DOM.
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Hacking C#: Programming for the Truly Lazy]]></title>
+            <link>https://www.dotnetweekly.com/articles/hacking-c-programming-for-the-truly-lazy</link>
+            <guid>https://www.dotnetweekly.com/articles/hacking-c-programming-for-the-truly-lazy</guid>
+            <pubDate>Mon, 09 Dec 2019 04:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[Welcome to my very first blog entry. Do please wipe your feet on the way in and try not to leave any mess. Beers are in the fridge, help yourselves!
+
+This blog was posted as part of the Third Annual C# Advent. Make sure to check out everyone else's work when you're done here
+
+This is the first in a series of articles I'm planning to write on some of the techniques I've used over the years to accomplish a whole load more in C# with as little effort as I can get away with. I'm very much of the opinion that life is too short to spend writing the same old boilerplate code, and that every problem only ever needs to be solved once. Hopefully, this article series will open your eyes a little to what can be done with a bit of imagination.
+
+A common enough scenario you might encounter is that - given an array - you need to adjust one of its records. If you're following best practice, then you'll be referencing arrays between functions in their most abstract form - the IEnumerable<T> - and if not, why not?
+
+If you've got an array of items referenced as such, then it's trivial to update a specific item, you'd just do it like this:]]></content:encoded>
         </item>
     </channel>
 </rss>
