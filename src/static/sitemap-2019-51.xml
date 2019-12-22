@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/15-reasons-why-you-should-learn-c-in-2020</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/implementing-github-actions-for-an-azure-static-website</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/up-next-net-5</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/front-end-developer-handbook-2019</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/introducing-sanddance-data-visualization-in-azure-data-studio</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/best-practices-async-await-the-xamarin-show</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/whats-new-in-xaml-developer-tools-in-visual-studio-2019-for-wpf-and-uwp</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/democratize-ai-with-azure-machine-learning-designer</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/create-serverless-applications-7-hr-30-min</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/pinnable-properties-debug-and-display-managed-objects-your-way</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/the-ultimate-guide-to-secure-cookies-with-webconfig-in-net</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/demystifying-the-new-net-core-3-worker-service</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/getting-started-with-python-in-visual-studio-code</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/run-c-natively-in-the-browser-through-the-web-assembly-via-mono-wasm</loc> </url>
+</urlset>

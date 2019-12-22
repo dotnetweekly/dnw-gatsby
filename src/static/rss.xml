@@ -1,107 +1,137 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>dotNET Weekly - Week undefined Year undefined</title>
-        <link>https://www.dotnetweekly.com/week/undefined/year/undefined?feed=rss</link>
+        <title>dotNET Weekly - Week 51 Year 2019</title>
+        <link>https://www.dotnetweekly.com/week/51/year/2019?feed=rss</link>
         <description></description>
-        <lastBuildDate>Mon, 09 Dec 2019 04:46:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Dec 2019 19:07:22 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <category>Articles</category>
-        <category>Libraries-Tools</category>
+        <category>Videos</category>
         <item>
-            <title><![CDATA[Making a Better Custom Select Element]]></title>
-            <link>https://www.dotnetweekly.com/articles/making-a-better-custom-select-element</link>
-            <guid>https://www.dotnetweekly.com/articles/making-a-better-custom-select-element</guid>
-            <pubDate>Mon, 09 Dec 2019 04:31:01 GMT</pubDate>
-            <content:encoded><![CDATA[In my work as an accessibility consultant, there are some frequent problems I find on people’s websites. One that’s come up a lot recently is that people are making custom select inputs for their forms. I can tell that people are trying to make them accessible, because they’ve added ARIA attributes or visually-hidden instructions for screen reader users. Sometimes they use a plugin which claims to be accessible. And this is great, I love that folks want to do the right thing! But so far I’ve never come across a custom select input which actually meets all of the WCAG AA criteria.
+            <title><![CDATA[15 reasons why you should learn C# in 2020]]></title>
+            <link>https://www.dotnetweekly.com/articles/15-reasons-why-you-should-learn-c-in-2020</link>
+            <guid>https://www.dotnetweekly.com/articles/15-reasons-why-you-should-learn-c-in-2020</guid>
+            <pubDate>Thu, 19 Dec 2019 13:46:50 GMT</pubDate>
+            <content:encoded><![CDATA[Understand d the role of C# in the software development industry and why it is such a loved and productive language. C# is a well-designed language in high demand in top software companies around the world. Deciding to invest in mastering C# can be one of the best career decision you can make in 2020.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Implementing GitHub Actions for an Azure Static Website]]></title>
+            <link>https://www.dotnetweekly.com/articles/implementing-github-actions-for-an-azure-static-website</link>
+            <guid>https://www.dotnetweekly.com/articles/implementing-github-actions-for-an-azure-static-website</guid>
+            <pubDate>Thu, 19 Dec 2019 08:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[While I was doing the work to host my Blazor search app within my website I realised I'd need to update the deployment pipeline I use for my blog. The process being used was very similar to the one used for the DDD Sydney website, but tweaked for use with Hugo. As it was setup a while ago I used the UI designer in Azure Pipelines, not the YAML approach so this seemed like the perfect opportunity for an overhaul.
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[How to simulate AutoMapper that works during the build time]]></title>
-            <link>https://www.dotnetweekly.com/articles/how-to-simulate-automapper-that-works-during-the-build-time</link>
-            <guid>https://www.dotnetweekly.com/articles/how-to-simulate-automapper-that-works-during-the-build-time</guid>
-            <pubDate>Mon, 09 Dec 2019 04:29:26 GMT</pubDate>
-            <content:encoded><![CDATA[Almost two years ago I created the very first version of MappingGenerator. Since then, I’ve put a lot of work in this project, adding new functions and improving the mapping generation algorithm with 14 releases (43 issues/feature requests closed) in the meantime. With over 5.5k downloads from the marketplace and 380 stars on Github, it looks like there is quite a market demand for this kind of tool (even though my coffee button statistics indicate something different). In the meantime, I got a couple of feature requests to implement some kind of mechanism that allows tracking changes of mapped classes and synchronize the mapping code in response to these changes. I was resisting for some time because it seemed to be a quite complicated problem but after a while, I decided to give it a try and make something that will somehow satisfy all those requirements. In this blog post I’m going to describe how to create a tool for generating code during the build process and how I used it to create auto-synchronizing mapping classes.
+            <title><![CDATA[Up Next: .NET 5]]></title>
+            <link>https://www.dotnetweekly.com/articles/up-next-net-5</link>
+            <guid>https://www.dotnetweekly.com/articles/up-next-net-5</guid>
+            <pubDate>Thu, 19 Dec 2019 08:10:30 GMT</pubDate>
+            <content:encoded><![CDATA[Now that Microsoft has shipped .NET Core 3.1, the next stop on the .NET Core roadmap is just plain old .NET 5 with no "Core" and no "Framework" -- it's all just .NET from here on.
+
+Due in November 2020, .NET 5 will mark the company's transformation from the aging, proprietary, Windows-only .NET Framework to a modern, open-source, cross-platform .NET.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Front-end Developer Handbook 2019]]></title>
+            <link>https://www.dotnetweekly.com/articles/front-end-developer-handbook-2019</link>
+            <guid>https://www.dotnetweekly.com/articles/front-end-developer-handbook-2019</guid>
+            <pubDate>Thu, 19 Dec 2019 08:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[This is a guide that everyone can use to learn about the practice of front-end development. It broadly outlines and discusses the practice of front-end engineering: how to learn it and what tools are used when practicing it in 2019.
+
+It is specifically written with the intention of being a professional resource for potential and currently practicing front-end developers to equip themselves with learning materials and development tools. Secondarily, it can be used by managers, CTOs, instructors, and head hunters to gain insights into the practice of front-end development.
+
+The content of the handbook favors web technologies (HTML, CSS, DOM, and JavaScript) and those solutions that are directly built on top of these open technologies. The materials referenced and discussed in the book are either best in class or the current offering to a problem.
+
+The book should not be considered a comprehensive outline of all resources available to a front-end developer. The value of the book is tied up in a terse, focused, and timely curation of just enough categorical information so as not to overwhelm anyone on any one particular subject matter.
+
+The intention is to release an update to the content yearly. This is currently the fourth year an edition has been released.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Introducing SandDance: Data Visualization in Azure Data Studio]]></title>
+            <link>https://www.dotnetweekly.com/articles/introducing-sanddance-data-visualization-in-azure-data-studio</link>
+            <guid>https://www.dotnetweekly.com/articles/introducing-sanddance-data-visualization-in-azure-data-studio</guid>
+            <pubDate>Thu, 19 Dec 2019 08:08:33 GMT</pubDate>
+            <content:encoded><![CDATA[SandDance provides data visualization in the context of the data you are operating in and gives you interactive data exploration where you can quickly find pattern, trends and anomalies from the data. It's rich interactive 3D viewer gives the effects of different attributes on the data and its ease of use provides data engineers with a powerful in place tool to visualize their data. ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Best Practices - Async / Await | The Xamarin Show]]></title>
+            <link>https://www.dotnetweekly.com/articles/best-practices-async-await-the-xamarin-show</link>
+            <guid>https://www.dotnetweekly.com/articles/best-practices-async-await-the-xamarin-show</guid>
+            <pubDate>Thu, 19 Dec 2019 08:04:39 GMT</pubDate>
+            <content:encoded><![CDATA[This week, James is joined by friend of the show Dean Faizel, Microsoft Mobile Customer Advisory Team Engineer, who talks us through the best practices of using async and await in mobile development.
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Announcing Entity Framework Core 3.1 and Entity Framework 6.4]]></title>
-            <link>https://www.dotnetweekly.com/articles/announcing-entity-framework-core-31-and-entity-framework-64</link>
-            <guid>https://www.dotnetweekly.com/articles/announcing-entity-framework-core-31-and-entity-framework-64</guid>
-            <pubDate>Mon, 09 Dec 2019 04:26:33 GMT</pubDate>
-            <content:encoded><![CDATA[EF Core 3.1 is distributed exclusively as a set of NuGet packages. For example, to add the SQL Server provider to your project, you can use the following command using the dotnet tool:
+            <title><![CDATA[What’s new in XAML developer tools in Visual Studio 2019 for WPF & UWP]]></title>
+            <link>https://www.dotnetweekly.com/articles/whats-new-in-xaml-developer-tools-in-visual-studio-2019-for-wpf-and-uwp</link>
+            <guid>https://www.dotnetweekly.com/articles/whats-new-in-xaml-developer-tools-in-visual-studio-2019-for-wpf-and-uwp</guid>
+            <pubDate>Thu, 19 Dec 2019 08:00:32 GMT</pubDate>
+            <content:encoded><![CDATA[Since the launch of Visual Studio 2019 we’ve released many new features for XAML developers working on WPF or UWP desktop applications. With this week’s release of Visual Studio 2019 version 16.4 and 16.5 Preview 1 we’d like to use this opportunity to do a recap of what’s new throughout the year. If you missed our previous releases or simply have not had a chance to catch-up, this blog post will be the one place where you can see every major improvement we’ve made throughout 2019.
 
-dotnet add package Microsoft.EntityFrameworkCore.SqlServer --version 3.1.0
-When upgrading applications that target older versions of ASP.NET Core to 3.1, you may also have to add the EF Core packages as an explicit dependency.
-
-Starting in 3.0 and continuing for 3.1, the dotnet ef command-line tool is no longer included in the .NET Core SDK. Before you can execute EF Core migration or scaffolding commands, you’ll have to install this package as either a global or local tool. To install the final version of our 3.1.0 tool as a global tool, use the following command:
-
-dotnet tool install --global dotnet-ef --version 3.1.0
-It’s possible to use this new version of dotnet ef with projects that use older versions of the EF Core runtime. However, older versions of the tool will not work with EF Core 3.1.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ASP.NET Core updates in .NET Core 3.1]]></title>
-            <link>https://www.dotnetweekly.com/articles/aspnet-core-updates-in-net-core-31</link>
-            <guid>https://www.dotnetweekly.com/articles/aspnet-core-updates-in-net-core-31</guid>
-            <pubDate>Mon, 09 Dec 2019 04:25:53 GMT</pubDate>
-            <content:encoded><![CDATA[Here’s what’s new in this release for ASP.NET Core:
-
-Partial class support for Razor components
-Pass parameters to top-level components
-New component tag helper
-Prevent default actions for events in Blazor apps
-Stop event propagation in Blazor apps
-Detailed errors during Blazor app development
-Support for shared queues in HttpSysServer
-Breaking changes for SameSite cookies]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Using WebAssembly from .NET with Wasmtime]]></title>
-            <link>https://www.dotnetweekly.com/articles/using-webassembly-from-net-with-wasmtime</link>
-            <guid>https://www.dotnetweekly.com/articles/using-webassembly-from-net-with-wasmtime</guid>
-            <pubDate>Mon, 09 Dec 2019 04:22:28 GMT</pubDate>
-            <content:encoded><![CDATA[Wasmtime, the WebAssembly runtime from the Bytecode Alliance, recently added an early preview of an API for .NET Core, Microsoft’s free, open-source, and cross-platform application runtime. This API enables developers to programmatically load and execute WebAssembly code directly from their .NET programs.
-
-.NET Core is already a cross-platform runtime, so why should .NET developers pay any attention to WebAssembly?
-
-There are several reasons to be excited about WebAssembly if you’re a .NET developer, such as sharing the same executable code across platforms, being able to securely isolate untrusted code, and having a seamless interop experience with the upcoming WebAssembly interface types proposal.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[.NET Core 2.2 will reach End of Life on December 23, 2019]]></title>
-            <link>https://www.dotnetweekly.com/articles/net-core-22-will-reach-end-of-life-on-december-23-2019</link>
-            <guid>https://www.dotnetweekly.com/articles/net-core-22-will-reach-end-of-life-on-december-23-2019</guid>
-            <pubDate>Mon, 09 Dec 2019 04:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[.NET Core 2.2 was released on December 4, 2018. As a non-LTS (“Current”) release, it is supported for three months after the next release. .NET Core 3.0 was released on September 23, 2019. As a result, .NET Core 2.2 is supported until December 23, 2019.
-
-After that time, .NET Core patch updates will no longer include updated packages of container images for .NET Core 2.2. You should plan your upgrade from .NET Core 2.2 now.
-
-.NET Core 3.1 released December 3, 2019 as a Long-term support release. As a result, .NET Core 3.0, released September 23, 2019 is supported until March 23, 2020.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BookFx provides an extremely effective method for creating Excel workbooks of any complexity.]]></title>
-            <link>https://www.dotnetweekly.com/articles/bookfx-provides-an-extremely-effective-method-for-creating-excel-workbooks-of-any-complexity</link>
-            <guid>https://www.dotnetweekly.com/articles/bookfx-provides-an-extremely-effective-method-for-creating-excel-workbooks-of-any-complexity</guid>
-            <pubDate>Mon, 09 Dec 2019 04:21:17 GMT</pubDate>
-            <content:encoded><![CDATA[Composing Excel spreadsheets based on a tree of nested components like the HTML DOM.
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Hacking C#: Programming for the Truly Lazy]]></title>
-            <link>https://www.dotnetweekly.com/articles/hacking-c-programming-for-the-truly-lazy</link>
-            <guid>https://www.dotnetweekly.com/articles/hacking-c-programming-for-the-truly-lazy</guid>
-            <pubDate>Mon, 09 Dec 2019 04:20:50 GMT</pubDate>
-            <content:encoded><![CDATA[Welcome to my very first blog entry. Do please wipe your feet on the way in and try not to leave any mess. Beers are in the fridge, help yourselves!
+            <title><![CDATA[Democratize AI with Azure Machine Learning designer]]></title>
+            <link>https://www.dotnetweekly.com/articles/democratize-ai-with-azure-machine-learning-designer</link>
+            <guid>https://www.dotnetweekly.com/articles/democratize-ai-with-azure-machine-learning-designer</guid>
+            <pubDate>Thu, 19 Dec 2019 08:00:03 GMT</pubDate>
+            <content:encoded><![CDATA[Azure Machine Learning has a large library of algorithms from the classification, recommender systems, clustering, anomaly detection, regression and text analytics families. Each is designed to address a different type of machine learning problem. In this demo, you will learn how to use Azure Machine Learning designer in a few simple steps and create an end-to-end machine learning pipeline for your data science scenario.
 
-This blog was posted as part of the Third Annual C# Advent. Make sure to check out everyone else's work when you're done here
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Create serverless applications (7 hr 30 min)]]></title>
+            <link>https://www.dotnetweekly.com/articles/create-serverless-applications-7-hr-30-min</link>
+            <guid>https://www.dotnetweekly.com/articles/create-serverless-applications-7-hr-30-min</guid>
+            <pubDate>Thu, 19 Dec 2019 07:59:10 GMT</pubDate>
+            <content:encoded><![CDATA[Azure Functions enable the creation of event-driven, compute-on-demand systems that can be triggered by various external events. Learn how to leverage functions to execute server-side logic and build serverless architectures.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Pinnable Properties: Debug & Display Managed Objects YOUR Way]]></title>
+            <link>https://www.dotnetweekly.com/articles/pinnable-properties-debug-and-display-managed-objects-your-way</link>
+            <guid>https://www.dotnetweekly.com/articles/pinnable-properties-debug-and-display-managed-objects-your-way</guid>
+            <pubDate>Thu, 19 Dec 2019 07:57:44 GMT</pubDate>
+            <content:encoded><![CDATA[A few months ago, I wrote a blog post about the DebuggerDisplay attribute. This is a managed attribute that lets you customize how you view objects in debugging windows by “favoriting” specific properties. Since that post, we’ve streamlined DebuggerDisplay’s behavior with Pinnable Properties, a new managed feature available for Visual Studio 16.4!
 
-This is the first in a series of articles I'm planning to write on some of the techniques I've used over the years to accomplish a whole load more in C# with as little effort as I can get away with. I'm very much of the opinion that life is too short to spend writing the same old boilerplate code, and that every problem only ever needs to be solved once. Hopefully, this article series will open your eyes a little to what can be done with a bit of imagination.
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The ultimate guide to secure cookies with web.config in .NET]]></title>
+            <link>https://www.dotnetweekly.com/articles/the-ultimate-guide-to-secure-cookies-with-webconfig-in-net</link>
+            <guid>https://www.dotnetweekly.com/articles/the-ultimate-guide-to-secure-cookies-with-webconfig-in-net</guid>
+            <pubDate>Thu, 19 Dec 2019 07:09:03 GMT</pubDate>
+            <content:encoded><![CDATA[How to secure your cookies in ASP.NET and MVC, using Secure and HttpOnly attributes. Also, learn about Cross-site tracing and Cross-site request forgery.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Demystifying the new .NET Core 3 Worker Service]]></title>
+            <link>https://www.dotnetweekly.com/articles/demystifying-the-new-net-core-3-worker-service</link>
+            <guid>https://www.dotnetweekly.com/articles/demystifying-the-new-net-core-3-worker-service</guid>
+            <pubDate>Sun, 15 Dec 2019 18:38:56 GMT</pubDate>
+            <content:encoded><![CDATA[Premier Developer Consultant Randy Patterson discusses the benefits of using the new Worker Service project template introduced in .NET Core 3.
 
-A common enough scenario you might encounter is that - given an array - you need to adjust one of its records. If you're following best practice, then you'll be referencing arrays between functions in their most abstract form - the IEnumerable<T> - and if not, why not?
+.NET Core 3 introduced a new project template called Worker Service. This template is designed to give you a starting point for cross-platform services. As an alternate use case, it sets up a very nice environment for general console applications that is perfect for containers and microservices.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Getting Started with Python in Visual Studio Code]]></title>
+            <link>https://www.dotnetweekly.com/articles/getting-started-with-python-in-visual-studio-code</link>
+            <guid>https://www.dotnetweekly.com/articles/getting-started-with-python-in-visual-studio-code</guid>
+            <pubDate>Sun, 15 Dec 2019 18:33:36 GMT</pubDate>
+            <content:encoded><![CDATA[In this episode, Robert is joined by Tyreke White, who shows us how to get started with Python development using Visual Studio Code. He covers what you need to install and how to configure your environment, as well as sharing tips on how to debug your Python code.  
 
-If you've got an array of items referenced as such, then it's trivial to update a specific item, you'd just do it like this:]]></content:encoded>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Run C# natively in the browser through the web assembly via mono-wasm]]></title>
+            <link>https://www.dotnetweekly.com/articles/run-c-natively-in-the-browser-through-the-web-assembly-via-mono-wasm</link>
+            <guid>https://www.dotnetweekly.com/articles/run-c-natively-in-the-browser-through-the-web-assembly-via-mono-wasm</guid>
+            <pubDate>Sun, 15 Dec 2019 14:47:54 GMT</pubDate>
+            <content:encoded><![CDATA[We all heard about WASM, capabilities, and possibilities. Other languages and runtimes such as Rust have their official way to run their code in the browser and for .NET, the only official way is to use Blazor which is a front-end framework.
+
+Blazor is good, but it’s a complete package for developing the whole frontend application. What if I like to use .NET libraries inside my old JS application that is already in production?]]></content:encoded>
         </item>
     </channel>
 </rss>
