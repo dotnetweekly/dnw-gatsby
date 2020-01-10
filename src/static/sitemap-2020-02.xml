@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/unit-testing-the-business-layer-in-aspnet-core-with-moq-and-xunit</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/mediatr-80-released</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/dotnetos-conference-2019</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/tracing-net-core-applications</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/memory-leak-c</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/command-line-interfacecli-application-with-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/front-end-performance-checklist-2020-pdf-apple-pages-ms-word</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/nearly-everything-you-need-to-know-about-computer-vision-in-one-repo</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/building-microservices-with-grpc-and-net</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/javascript-understanding-generators</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/data-shaping-in-aspnet-core-web-api</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/net-core-net-5-the-exodus-of-net-framework</loc> </url>
+</urlset>
