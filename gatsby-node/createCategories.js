@@ -1,7 +1,7 @@
 const path = require('path')
 const weeklyCalendarHelper = require('weekly-calendar-helper')
 
-exports.createCategories = async function(createPage, graphql) {
+exports.createCategories = async function (createPage, graphql) {
   return new Promise(async (resolve, reject) => {
     try {
       await generateCategories(createPage, graphql)
@@ -13,7 +13,7 @@ exports.createCategories = async function(createPage, graphql) {
   })
 }
 
-const getNumStr = function(v) {
+const getNumStr = function (v) {
   if (v < 10) {
     return `0${v}`
   }
@@ -35,13 +35,13 @@ function createPages(week, year, graphql, createPage) {
         fullDate.getMonth() + 1
       )}-${getNumStr(fullDate.getDate())}`
     })
-  console.log(dateArr)
+  //console.log(dateArr)
   graphql(`
   {
     allMarkdownRemark(
       filter: { frontmatter: { createdOn: { gte: "${
-        dateArr[0]
-      }T00:00:00", lte: "${dateArr[dateArr.length - 1]}T23:59:59" } } }
+    dateArr[0]
+    }T00:00:00", lte: "${dateArr[dateArr.length - 1]}T23:59:59" } } }
     ) {
       edges {
         node {
@@ -64,11 +64,23 @@ function createPages(week, year, graphql, createPage) {
     }
   }
 `).then(result => {
-    console.log(result)
-    const categoryPath = `/week/${week}/year/${year}`
-    if (week == currentWeek && year == currentYear) {
+      //console.log(result)
+      const categoryPath = `/week/${week}/year/${year}`
+      if (week == currentWeek && year == currentYear) {
+        createPage({
+          path: '/',
+          component: path.resolve(
+            path.join(__dirname, `../src/templates/category.js`)
+          ),
+          context: {
+            week: week,
+            year: year,
+            links: result,
+          },
+        })
+      }
       createPage({
-        path: '/',
+        path: categoryPath,
         component: path.resolve(
           path.join(__dirname, `../src/templates/category.js`)
         ),
@@ -78,20 +90,8 @@ function createPages(week, year, graphql, createPage) {
           links: result,
         },
       })
-    }
-    createPage({
-      path: categoryPath,
-      component: path.resolve(
-        path.join(__dirname, `../src/templates/category.js`)
-      ),
-      context: {
-        week: week,
-        year: year,
-        links: result,
-      },
+      return
     })
-    return
-  })
 }
 
 async function generateCategories(createPage, graphql) {
@@ -111,7 +111,7 @@ async function generateCategories(createPage, graphql) {
 
   while (!breakIt) {
     failsafe++
-    if (failsafe > 400) {
+    if (failsafe > 1000) {
       break
     }
     console.log(now.getUTCFullYear(), nowWeek, currentYear, currentWeek)
