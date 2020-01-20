@@ -4,10 +4,71 @@
         <title>dotNET Weekly - Week undefined Year undefined</title>
         <link>https://www.dotnetweekly.com/week/undefined/year/undefined?feed=rss</link>
         <description></description>
-        <lastBuildDate>Mon, 20 Jan 2020 16:29:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jan 2020 16:55:39 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
+        <category>Articles</category>
         <category>Events-training</category>
+        <item>
+            <title><![CDATA[The Reunification of .NET 5]]></title>
+            <link>https://www.dotnetweekly.com/articles/the-reunification-of-net-5</link>
+            <guid>https://www.dotnetweekly.com/articles/the-reunification-of-net-5</guid>
+            <pubDate>Mon, 20 Jan 2020 16:51:40 GMT</pubDate>
+            <content:encoded><![CDATA[We’re less than a year away from the final step in .NET’s cross-platform transformation
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Create fake user for ASP.NET Core integration tests]]></title>
+            <link>https://www.dotnetweekly.com/articles/create-fake-user-for-aspnet-core-integration-tests</link>
+            <guid>https://www.dotnetweekly.com/articles/create-fake-user-for-aspnet-core-integration-tests</guid>
+            <pubDate>Mon, 20 Jan 2020 16:50:44 GMT</pubDate>
+            <content:encoded><![CDATA[After getting done with fake users for ASP.NET Core controller unit tests I wanted to make fake users available also in integration tests. It took some inventing and hacking but I made it work. This blog post shows you how to create fake users for ASP.NET Core integration tests and write effective extension methods to keep integration tests shorter.
+
+
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Authentication & Authorization in ASP .NET Core 3.1]]></title>
+            <link>https://www.dotnetweekly.com/articles/authentication-and-authorization-in-asp-net-core-31</link>
+            <guid>https://www.dotnetweekly.com/articles/authentication-and-authorization-in-asp-net-core-31</guid>
+            <pubDate>Mon, 20 Jan 2020 16:48:54 GMT</pubDate>
+            <content:encoded><![CDATA[This is the first of a new series of posts on ASP .NET Core 3.1 for 2020. In this series, we’ll cover 26 topics over a span of 26 weeks from January through June 2020, titled ASP .NET Core A-Z! To differentiate from the 2019 series, the 2020 series will mostly focus on a growing single codebase (NetLearner!) instead of new unrelated code snippets week.
+
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Build an Authenticated GraphQL App with Angular, ASP.NET Core and IdentityServer - Part 2]]></title>
+            <link>https://www.dotnetweekly.com/articles/build-an-authenticated-graphql-app-with-angular-aspnet-core-and-identityserver-part-2</link>
+            <guid>https://www.dotnetweekly.com/articles/build-an-authenticated-graphql-app-with-angular-aspnet-core-and-identityserver-part-2</guid>
+            <pubDate>Mon, 20 Jan 2020 16:46:41 GMT</pubDate>
+            <content:encoded><![CDATA[Welcome to part two in this series, in which we're building a real-world GraphQL-driven application using Angular, ASP.NET Core, and IdentityServer. In the last post, we kicked things off on the backend by making an IdentityServer powered ASP.NET Core application that will provide our Angular SPA with some basic but essential capabilities to create and authenticate our application's users.
+
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[GameDev News - January 17, 2020]]></title>
+            <link>https://www.dotnetweekly.com/articles/gamedev-news-january-17-2020</link>
+            <guid>https://www.dotnetweekly.com/articles/gamedev-news-january-17-2020</guid>
+            <pubDate>Mon, 20 Jan 2020 16:44:51 GMT</pubDate>
+            <content:encoded><![CDATA[- UnityUnity 2019.2.18
+- Unity 2019.3.0f5
+- Unity 2020.1.0a19
+- Discover Pixel Streaming: real-time distributed content for any device
+- Godot
+- D3D12 Translation Layer and D3D11On12 are now open source
+- Announcing Windows 10 Insider Preview Build 19546
+- Designing Main Menu Screens for Visually Impaired Gamers
+- What is the best game engine for your game?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[New year, new browser – The new Microsoft Edge is out of preview and now available for download]]></title>
+            <link>https://www.dotnetweekly.com/articles/new-year-new-browser-the-new-microsoft-edge-is-out-of-preview-and-now-available-for-download</link>
+            <guid>https://www.dotnetweekly.com/articles/new-year-new-browser-the-new-microsoft-edge-is-out-of-preview-and-now-available-for-download</guid>
+            <pubDate>Mon, 20 Jan 2020 16:40:23 GMT</pubDate>
+            <content:encoded><![CDATA[A little over a year ago, we announced our intention to rebuild Microsoft Edge on the Chromium open source project with the goals of delivering better compatibility for everyone, less fragmentation for web developers, and a partnership with the Chromium community to improve the Chromium engine itself. At Ignite, we unveiled our new vision for the web and search, our colorful new icon, and how Microsoft Edge + Bing are the browser and search engine for business — and we are thrilled by the growing excitement we’ve heard from all of you who’ve tried it out and sent feedback!
+
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[620 Free Online Programming & Computer Science Courses You Can Choose from to Kick Off 2020]]></title>
             <link>https://www.dotnetweekly.com/articles/620-free-online-programming-and-computer-science-courses-you-can-choose-from-to-kick-off-2020</link>

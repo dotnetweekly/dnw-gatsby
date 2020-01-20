@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/the-reunification-of-net-5</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/create-fake-user-for-aspnet-core-integration-tests</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/authentication-and-authorization-in-asp-net-core-31</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/build-an-authenticated-graphql-app-with-angular-aspnet-core-and-identityserver-part-2</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/gamedev-news-january-17-2020</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/new-year-new-browser-the-new-microsoft-edge-is-out-of-preview-and-now-available-for-download</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/events-training/620-free-online-programming-and-computer-science-courses-you-can-choose-from-to-kick-off-2020</loc> </url>
 </urlset>
