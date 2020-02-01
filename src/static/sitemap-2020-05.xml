@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/a-javascript-interview-question-asked-at-google</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/introduction-to-akkastreams</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/online-meetup-introduction-to-tensorflow-and-watson-machine-learning</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/c-coding-standards</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-linq-to-build-a-world-travel-itinerary</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/5-react-projects-you-need-in-your-portfolio</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/how-blazor-is-going-to-change-web-development</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/blazor-makes-its-way-into-cross-platform-mobile-app-development</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/grpc-aspnetcore-validator-request-message-validator-middleware-for-grpcaspnetcore</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/building-a-typed-httpclient-with-refit-in-aspnet-core-3</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/remove-unwanted-instances-from-servicecollection-in-aspnet-core-31</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/comprehensive-overview-of-the-perfect-aspnet-developer-hiring-process</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/publish-a-self-contained-net-core-31-app-on-azure-devops</loc> </url>
+</urlset>

@@ -4,81 +4,175 @@
         <title>dotNET Weekly - Week undefined Year undefined</title>
         <link>https://www.dotnetweekly.com/week/undefined/year/undefined?feed=rss</link>
         <description></description>
-        <lastBuildDate>Mon, 20 Jan 2020 16:55:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Feb 2020 22:05:14 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <category>Articles</category>
         <category>Events-training</category>
+        <category>Libraries-Tools</category>
         <item>
-            <title><![CDATA[The Reunification of .NET 5]]></title>
-            <link>https://www.dotnetweekly.com/articles/the-reunification-of-net-5</link>
-            <guid>https://www.dotnetweekly.com/articles/the-reunification-of-net-5</guid>
-            <pubDate>Mon, 20 Jan 2020 16:51:40 GMT</pubDate>
-            <content:encoded><![CDATA[We’re less than a year away from the final step in .NET’s cross-platform transformation
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Create fake user for ASP.NET Core integration tests]]></title>
-            <link>https://www.dotnetweekly.com/articles/create-fake-user-for-aspnet-core-integration-tests</link>
-            <guid>https://www.dotnetweekly.com/articles/create-fake-user-for-aspnet-core-integration-tests</guid>
-            <pubDate>Mon, 20 Jan 2020 16:50:44 GMT</pubDate>
-            <content:encoded><![CDATA[After getting done with fake users for ASP.NET Core controller unit tests I wanted to make fake users available also in integration tests. It took some inventing and hacking but I made it work. This blog post shows you how to create fake users for ASP.NET Core integration tests and write effective extension methods to keep integration tests shorter.
-
+            <title><![CDATA[A JavaScript interview question asked at Google]]></title>
+            <link>https://www.dotnetweekly.com/articles/a-javascript-interview-question-asked-at-google</link>
+            <guid>https://www.dotnetweekly.com/articles/a-javascript-interview-question-asked-at-google</guid>
+            <pubDate>Fri, 31 Jan 2020 22:03:14 GMT</pubDate>
+            <content:encoded><![CDATA[Hello and welcome back to Code Review, a series of coding interview challenges and career related content released weekly exclusively on Dev.to. I’m Elisabeth and I’ve been a software engineer for about 4+ years now. I’m passionate about sharing my knowledge, and best tips and tricks when it comes to acing that interview and or just leveling up your coding skills. If you want more content and challenges like these, subscribe to the Coderbyte newsletter here. That’s it for stand up - let’s get to challenge solving!
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Authentication & Authorization in ASP .NET Core 3.1]]></title>
-            <link>https://www.dotnetweekly.com/articles/authentication-and-authorization-in-asp-net-core-31</link>
-            <guid>https://www.dotnetweekly.com/articles/authentication-and-authorization-in-asp-net-core-31</guid>
-            <pubDate>Mon, 20 Jan 2020 16:48:54 GMT</pubDate>
-            <content:encoded><![CDATA[This is the first of a new series of posts on ASP .NET Core 3.1 for 2020. In this series, we’ll cover 26 topics over a span of 26 weeks from January through June 2020, titled ASP .NET Core A-Z! To differentiate from the 2019 series, the 2020 series will mostly focus on a growing single codebase (NetLearner!) instead of new unrelated code snippets week.
+            <title><![CDATA[Introduction to Akka.Streams]]></title>
+            <link>https://www.dotnetweekly.com/articles/introduction-to-akkastreams</link>
+            <guid>https://www.dotnetweekly.com/articles/introduction-to-akkastreams</guid>
+            <pubDate>Fri, 31 Jan 2020 22:01:50 GMT</pubDate>
+            <content:encoded><![CDATA[Building High-Level Streaming Worklows in Akka.NET
+The goal of this blog post is to give you a glimpse of the idea and basics behind Akka.Streams. What they are and why you may find them useful addition in your day to day job.
+
+In short: Akka.Streams is a library build on top of Akka.NET, which allows you to consume and process potentially infinite streams of data in type-safe and resource-safe way.
+
+To make it easier to visualize, let’s take an example: we have a queue (i.e. RabbitMQ), that sends us a documents, which we have to parse, turn into structured data and save in the database.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Online Meetup: Introduction to TensorFlow and Watson Machine Learning]]></title>
+            <link>https://www.dotnetweekly.com/articles/online-meetup-introduction-to-tensorflow-and-watson-machine-learning</link>
+            <guid>https://www.dotnetweekly.com/articles/online-meetup-introduction-to-tensorflow-and-watson-machine-learning</guid>
+            <pubDate>Fri, 31 Jan 2020 05:33:07 GMT</pubDate>
+            <content:encoded><![CDATA[Learn about TensorFlow.js and how to build effective machine learning models. We will also cover how to import these models into IBM Watson Machine Learning.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[C# Coding Standards]]></title>
+            <link>https://www.dotnetweekly.com/articles/c-coding-standards</link>
+            <guid>https://www.dotnetweekly.com/articles/c-coding-standards</guid>
+            <pubDate>Fri, 31 Jan 2020 05:29:54 GMT</pubDate>
+            <content:encoded><![CDATA[Let’s face it, most coding standards are arbitrary. The key to a successful project, however, is not which standards you follow, but that you are consistent.
+
+Here is a partial list of the C# coding standards my team uses and advocates. Most of these are industry-wide conventions and thus using them will ensure that your code is easily readable by people who are not you.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Using LINQ to Build A World Travel Itinerary]]></title>
+            <link>https://www.dotnetweekly.com/articles/using-linq-to-build-a-world-travel-itinerary</link>
+            <guid>https://www.dotnetweekly.com/articles/using-linq-to-build-a-world-travel-itinerary</guid>
+            <pubDate>Fri, 31 Jan 2020 03:59:44 GMT</pubDate>
+            <content:encoded><![CDATA[I enjoy traveling, having new experiences, and making new friends. With so many locations to get to, it is challenging to keep all of them straight. In this post, I’ll show you how to use Language Integrated Query, or LINQ, to take a list of world locations and link them together into travel legs. This technique is powerful and is useful for other scenarios.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[5 React Projects You Need In Your Portfolio]]></title>
+            <link>https://www.dotnetweekly.com/articles/5-react-projects-you-need-in-your-portfolio</link>
+            <guid>https://www.dotnetweekly.com/articles/5-react-projects-you-need-in-your-portfolio</guid>
+            <pubDate>Fri, 31 Jan 2020 03:59:03 GMT</pubDate>
+            <content:encoded><![CDATA[You’ve put in the work and now you have a solid understanding of the React library.
+
+On top of that, you have a good grasp of JavaScript and are putting it’s most helpful features to use within your React code.
+
+You’ve made a great deal of progress… but now what do you do?
+
+How do you bridge the gap between knowing the fundamentals of React and becoming a professional developer?
+
+Many developers run into this problem when they reach this intermediate stage of learning React or any other JavaScript library. They know most of the library itself as well as the JavaScript to use it effectively, but they don’t know the next step to take.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[How Blazor Is Going to Change Web Development]]></title>
+            <link>https://www.dotnetweekly.com/articles/how-blazor-is-going-to-change-web-development</link>
+            <guid>https://www.dotnetweekly.com/articles/how-blazor-is-going-to-change-web-development</guid>
+            <pubDate>Fri, 31 Jan 2020 03:57:41 GMT</pubDate>
+            <content:encoded><![CDATA[A couple of weeks ago I wrote an article about building and deploying a Blazor app without touching a Windows machine and realized maybe I should take a step back and explain what Blazor is and why anyone would use it. It's still fairly new to most in the front end development world, but it's awesome and you should check it out.
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Blazor Makes Its Way Into Cross-Platform Mobile App Development]]></title>
+            <link>https://www.dotnetweekly.com/articles/blazor-makes-its-way-into-cross-platform-mobile-app-development</link>
+            <guid>https://www.dotnetweekly.com/articles/blazor-makes-its-way-into-cross-platform-mobile-app-development</guid>
+            <pubDate>Fri, 31 Jan 2020 03:56:29 GMT</pubDate>
+            <content:encoded><![CDATA[Officially announced at the "Focus on Blazor" .NET Conf, Blazor's Mobile Bindings are a new experimental project aimed to enable cross-platform mobile app development using Microsoft Blazor and .NET for iOS and Android. Similarly to React Native, Mobile Blazor Binding use native UI controls, thus enabling a native look and feel.
+
+In a nutshell, Mobile Blazor Bindings extend the Blazor programming model for mobile development. As Microsoft .NET engineer Eilon Lipton wrote, this will be of specific interest to XAML and Xamarin developers who have been using XAML, Razor templates, and Xamarin to build mobile hybrid apps or to those using Blazor to create Web apps.
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Build an Authenticated GraphQL App with Angular, ASP.NET Core and IdentityServer - Part 2]]></title>
-            <link>https://www.dotnetweekly.com/articles/build-an-authenticated-graphql-app-with-angular-aspnet-core-and-identityserver-part-2</link>
-            <guid>https://www.dotnetweekly.com/articles/build-an-authenticated-graphql-app-with-angular-aspnet-core-and-identityserver-part-2</guid>
-            <pubDate>Mon, 20 Jan 2020 16:46:41 GMT</pubDate>
-            <content:encoded><![CDATA[Welcome to part two in this series, in which we're building a real-world GraphQL-driven application using Angular, ASP.NET Core, and IdentityServer. In the last post, we kicked things off on the backend by making an IdentityServer powered ASP.NET Core application that will provide our Angular SPA with some basic but essential capabilities to create and authenticate our application's users.
-
-]]></content:encoded>
+            <title><![CDATA[grpc-aspnetcore-validator: Request message validator middleware for Grpc.AspNetCore]]></title>
+            <link>https://www.dotnetweekly.com/articles/grpc-aspnetcore-validator-request-message-validator-middleware-for-grpcaspnetcore</link>
+            <guid>https://www.dotnetweekly.com/articles/grpc-aspnetcore-validator-request-message-validator-middleware-for-grpcaspnetcore</guid>
+            <pubDate>Fri, 31 Jan 2020 02:37:16 GMT</pubDate>
+            <content:encoded><![CDATA[Server Side validation & Client Side detailed errors fetching in RpcException]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[GameDev News - January 17, 2020]]></title>
-            <link>https://www.dotnetweekly.com/articles/gamedev-news-january-17-2020</link>
-            <guid>https://www.dotnetweekly.com/articles/gamedev-news-january-17-2020</guid>
-            <pubDate>Mon, 20 Jan 2020 16:44:51 GMT</pubDate>
-            <content:encoded><![CDATA[- UnityUnity 2019.2.18
-- Unity 2019.3.0f5
-- Unity 2020.1.0a19
-- Discover Pixel Streaming: real-time distributed content for any device
-- Godot
-- D3D12 Translation Layer and D3D11On12 are now open source
-- Announcing Windows 10 Insider Preview Build 19546
-- Designing Main Menu Screens for Visually Impaired Gamers
-- What is the best game engine for your game?]]></content:encoded>
+            <title><![CDATA[Building a typed Httpclient with Refit in ASP.NET Core 3]]></title>
+            <link>https://www.dotnetweekly.com/articles/building-a-typed-httpclient-with-refit-in-aspnet-core-3</link>
+            <guid>https://www.dotnetweekly.com/articles/building-a-typed-httpclient-with-refit-in-aspnet-core-3</guid>
+            <pubDate>Fri, 31 Jan 2020 02:34:53 GMT</pubDate>
+            <content:encoded><![CDATA[What is Refit?
+Refit is an automatic type-safe REST library for .NET Core, Xamarin and .NET. Refit turns your REST API into a live interface.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[New year, new browser – The new Microsoft Edge is out of preview and now available for download]]></title>
-            <link>https://www.dotnetweekly.com/articles/new-year-new-browser-the-new-microsoft-edge-is-out-of-preview-and-now-available-for-download</link>
-            <guid>https://www.dotnetweekly.com/articles/new-year-new-browser-the-new-microsoft-edge-is-out-of-preview-and-now-available-for-download</guid>
-            <pubDate>Mon, 20 Jan 2020 16:40:23 GMT</pubDate>
-            <content:encoded><![CDATA[A little over a year ago, we announced our intention to rebuild Microsoft Edge on the Chromium open source project with the goals of delivering better compatibility for everyone, less fragmentation for web developers, and a partnership with the Chromium community to improve the Chromium engine itself. At Ignite, we unveiled our new vision for the web and search, our colorful new icon, and how Microsoft Edge + Bing are the browser and search engine for business — and we are thrilled by the growing excitement we’ve heard from all of you who’ve tried it out and sent feedback!
-
-]]></content:encoded>
+            <title><![CDATA[Remove unwanted instances from ServiceCollection in ASP.NET Core 3.1]]></title>
+            <link>https://www.dotnetweekly.com/articles/remove-unwanted-instances-from-servicecollection-in-aspnet-core-31</link>
+            <guid>https://www.dotnetweekly.com/articles/remove-unwanted-instances-from-servicecollection-in-aspnet-core-31</guid>
+            <pubDate>Fri, 31 Jan 2020 02:27:34 GMT</pubDate>
+            <content:encoded><![CDATA[At first glance this article sounds strange or has no sense. Well, this is wrong because it’s based on an unfortunate experience of recent times. I recently had the following experience: I was developing my Web API without too much pain until the moment when I discovered an unexpected behavior, I realized that one of my services did not have the desired behavior , and I discovered that its interface was registered with another instance than the one I coded for my Web API. This could have happened because I reused a legacy layer and I used an extension method which allows to automatically register instances by scanning the assemblies of my application. I am writing this article in order to show you how I managed to solve my problem other than simply renaming my interface, by simply deleting the registration of my service in the dependency injection container. This article will go a little further, I will show you how to unregister any type of service.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[620 Free Online Programming & Computer Science Courses You Can Choose from to Kick Off 2020]]></title>
-            <link>https://www.dotnetweekly.com/articles/620-free-online-programming-and-computer-science-courses-you-can-choose-from-to-kick-off-2020</link>
-            <guid>https://www.dotnetweekly.com/articles/620-free-online-programming-and-computer-science-courses-you-can-choose-from-to-kick-off-2020</guid>
-            <pubDate>Mon, 20 Jan 2020 16:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[Eight years ago, universities like MIT and Stanford first opened up free online courses to the public. Today, close to 1000 schools around the world have created thousands of free online courses, popularly known as Massive Open Online Courses or MOOCs.
+            <title><![CDATA[Comprehensive Overview of the Perfect ASP.NET Developer Hiring Process]]></title>
+            <link>https://www.dotnetweekly.com/articles/comprehensive-overview-of-the-perfect-aspnet-developer-hiring-process</link>
+            <guid>https://www.dotnetweekly.com/articles/comprehensive-overview-of-the-perfect-aspnet-developer-hiring-process</guid>
+            <pubDate>Wed, 29 Jan 2020 07:19:02 GMT</pubDate>
+            <content:encoded><![CDATA[While facilitating digital migration for your business, you can’t solely rely on your current software systems and desktop applications. For unrestricted business empowerment, you must invest in robust websites, web applications, and web services as well as mobile apps that are available beyond the location and time constraints and are more secure and better-performing.
 
-I’ve compiled this list of 620+ such free online courses that you can start this month. For this, I leveraged Class Central’s database of over 15,000 online courses. I’ve also included each course’s average rating.
+And, we are switching to an age of advanced technologies like Internet of Things and Machine Learning- to make processes highly competent and competitive. In order to keep pace with the changing times, you need to invest in the powerful web and mobile development frameworks like ASP.NET, and for that, you need to select the right kind of .NET development company carefully. 
 
-]]></content:encoded>
+To help you with the selection, let’s divide the process into four important stages and understand it easily:
+Stage 1: What Type of ASP.NET Developers You Should Hire
+
+This stage solves crucial queries- like whether you should hire an in-house development team or outsource the project to an expert provider of .NET development services.
+
+The answer is simple. If your business belongs to a non-IT domain, your need for .NET developers would be restricted only for any specific project. You might be having an in-house IT team offering support and maintenance. However, hiring specialized .NET developers would add dramatically to your monthly IT budget.
+
+For example, you would be saved from the complex process to hire .NET developer. The hiring process becomes even more burdensome if you fail to hire the right kind of people in the first attempt. Moreover, you won’t need to invest in special software packages and infrastructure to support the in-house team. Last but not least, your custom software development partner company will take care of scaling the development team’s size according to your needs. These companies maintain a pool of experienced developers who can be hired to work on an ongoing project at any point in time.
+Stage 2: What Type of Product You Need to Develop?
+
+The next stage in the process of hiring a .NET development company is to decide what type of ASP.NET project you need to develop. According to W3Techs, nearly 11% of the active websites, some of which include Microsoft.com and MSN.com, use ASP.NET as their server-side programming language. 
+
+Based on your exact requirements, make a better selection of .NET development services experts to develop the expected ASP.NET project for your business. Knowing your own requirements would also help you convey them better to the development team so that the right product is developed within the set deadlines and budgets.
+Stage 3: Understanding the Benefits of ASP.NET
+
+An important part of the selection process, which is often ignored by most of the business owners, is to become familiar with the benefits that ASP.NET offers.
+
+Listed are some of its core benefits:
+
+    Requires Less Coding: What makes ASP.NET a favorite among developers is that it reduces the amount of coding dramatically, even for large applications. It also means that you may get your product delivered fast if you hire a smart and experienced team.
+    Language Independence: ASP.NET framework allows developers to choose any language that they find suitable for your application. This is because technology is not language-dependent, which means that the developers can use multiple languages like C#, Jscript, and more for better products.
+    Improved Speed: Websites, apps, and services built-in ASP.NET perform faster as it supports server-side execution and a number of features like caching, etc.
+    Great Tool Support: ASP.NET development is supported by amazing tools that enrich the websites and applications with unbeatable performance. Early binding, JIT compilation, automatic deployment, drag-drop server controls, and many other similar features help .NET development companies to develop robust products.
+    Better Security: Through built-in Windows authentication and features like crash-shielding, ASP.NET is one of the most recommended platforms for developing secure applications.
+
+Some of the common issues, like error recovery and memory leaks, are easily handled by these apps.
+Stage 4: Comparing Different Developers and Choosing the Best
+
+Once you have made through the previous stages, the final stage of selection begins as you start looking for the experts. Now, there are many ways in which you can find a .NET development company:
+
+    Through Recommendations: Business owners often rate and review various companies offering .NET development services, and you can refer to them to shortlist the names.
+    Third Party Review Platforms and Search Engines: Of course, you can conduct a search using Google and other popular search engines and shortlist some of the developers from the search results. There are verified review platforms like Clutch that help business owners to make the right move.
+
+From the shortlisted names, you can make the final choice by evaluating them on some important criterions like:
+
+    Reputation: Spend time to research about a .NET development company and evaluate its credentials.
+    Experience: Find out for how many years the company has been operating and its experience in the custom software development field.
+    Proficiency: An important parameter is how proficient the company is in the .NET framework development. For this, its development team should be up-to-date in not only in application development but specifically in offering .NET development services.
+    Portfolio: The portfolio of the company would help you have a great idea about what type of businesses they have worked for and type of .NET applications they have previously developed.
+    Customization: Does the team offer customized or tailor-made products to its clients? As every business has its own requirements, you may also be looking for a team that adapts to your specific needs while developing the application.
+    Privacy Policies: As you are planning to discuss the needs of your business, you may have to provide critical details about your company to the .NET development company. It is, therefore, important that you have a look at the company’s NDA (non-disclosure agreement) in order to secure intellectual property protection.
+    Support: Apart from offering round-the-clock availability and strong communication modes, the company you choose must be willing to provide you with long-term support. You must select a team that offers transparency and involves you in the right manner by providing progress updates.
+
+According to Datanyze, ASP.NET-based applications currently hold an impressive market share of 26%. With the right selection of a .NET development company, you can be another beneficiary of the technology.
+Connect the Dots of Your Business with Our ASP.Net Expertise
+
+Most organizations today rely on the technical expertise of their vendors to bring a strategic difference to the business. Being an innovation-driven company, Radixweb creates value by digging to the core of complex business needs and mitigating communication-related challenges with the help of technology. Let’s connect!]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Publish a self-contained .NET Core 3.1 app on Azure DevOps]]></title>
+            <link>https://www.dotnetweekly.com/articles/publish-a-self-contained-net-core-31-app-on-azure-devops</link>
+            <guid>https://www.dotnetweekly.com/articles/publish-a-self-contained-net-core-31-app-on-azure-devops</guid>
+            <pubDate>Tue, 28 Jan 2020 06:49:15 GMT</pubDate>
+            <content:encoded><![CDATA[Tutorial to build and publish a console application including the .NET Core framework from Azure DevOps Pipelines.]]></content:encoded>
         </item>
     </channel>
 </rss>
