@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/jupyter-notebooks-in-visual-studio-code</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-docker-for-local-sql-server-development</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/ef-core-relationships-in-asp-net-core-31</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/10-visual-studio-tips-and-tricks-you-probably-dont-know</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/getting-started-with-visual-studio-online-cloud-ide</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/winappdriver-and-desktop-ui-test-automation</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/aspnet-core-in-azure-app-services-docker-images-part-1</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/a-new-experiment-call-net-grpc-services-from-the-browser-with-grpc-web</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/150-getting-started-with-net-core-on-linux</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/from-create-react-app-to-pwa</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/choosing-a-modern-reactjs-net-core-stack</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/getting-started-with-git-and-azure-devops-the-ultimate-guide</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/top-10-net-core-libraries-every-web-developer-should-know</loc> </url>
+</urlset>
