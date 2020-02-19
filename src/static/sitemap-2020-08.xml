@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/dapr-debugging-net-core-with-visual-studio-code</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/should-i-use-a-microservices-architecture</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/hundreds-of-practical-aspnet-core-samples-to-learn-the-fundamentals</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/c-to-c-communication-rest-grpc-and-everything-in-between</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/graphql-for-beginners</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/clean-up-your-net-with-the-dispose-pattern</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/how-to-build-forms-with-react-the-easy-way</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/decompilation-of-c-code-made-easy-with-visual-studio</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/announcing-net-interactive-try-net-includes-net-notebooks-and-more</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/email-confirmation-with-aspnet-core-identity</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/elastic-jobs-in-azure-sql-database-what-and-why</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/promoting-f-in-a-c-team</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/aspnet-core-middleware-with-roslyn-analyzers-part-1</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/nullable-reference-types-in-c-8-use-them-now</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/books/full-stack-aspnet-core</loc> </url>
+</urlset>
