@@ -4,149 +4,120 @@
         <title>dotNET Weekly - Week undefined Year undefined</title>
         <link>https://www.dotnetweekly.com/week/undefined/year/undefined?feed=rss</link>
         <description></description>
-        <lastBuildDate>Wed, 19 Feb 2020 16:50:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Feb 2020 04:36:13 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <category>Articles</category>
-        <category>Books</category>
+        <category>Videos</category>
+        <category>Libraries-Tools</category>
         <item>
-            <title><![CDATA[Dapr: Debugging .NET Core with Visual Studio Code]]></title>
-            <link>https://www.dotnetweekly.com/articles/dapr-debugging-net-core-with-visual-studio-code</link>
-            <guid>https://www.dotnetweekly.com/articles/dapr-debugging-net-core-with-visual-studio-code</guid>
-            <pubDate>Wed, 19 Feb 2020 16:41:11 GMT</pubDate>
-            <content:encoded><![CDATA[So you are new to Dapr and you are trying to understand how it works with you .NET Core application. You already tried launching your app with the Dapr CLI and then you find yourself wondering on how to debug the mix with Visual Studio Code.
+            <title><![CDATA[Reinforcement Learning with Unity ML Agents]]></title>
+            <link>https://www.dotnetweekly.com/articles/reinforcement-learning-with-unity-ml-agents</link>
+            <guid>https://www.dotnetweekly.com/articles/reinforcement-learning-with-unity-ml-agents</guid>
+            <pubDate>Fri, 28 Feb 2020 04:34:40 GMT</pubDate>
+            <content:encoded><![CDATA[A couple of years ago Unity started working on a framework, that would enable training machine learning algorithms in virtual environments: ML-Agents Toolkit. It is used by a number of companies across the world, including famous DeepMind, to aid research in computer vision and robotics in such tasks as autonomous driving.
 
-Well, follow this simple steps and you’ll be ready:]]></content:encoded>
+In this post we present an example bot built with C# and TensorFlow framework, that learns to play a game in a simple Unity-based virtual environment using one of the state of the art reinforcement learning algorithms: soft actor-critic.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Should I Use A Microservices Architecture?]]></title>
-            <link>https://www.dotnetweekly.com/articles/should-i-use-a-microservices-architecture</link>
-            <guid>https://www.dotnetweekly.com/articles/should-i-use-a-microservices-architecture</guid>
-            <pubDate>Wed, 19 Feb 2020 16:39:05 GMT</pubDate>
-            <content:encoded><![CDATA[Are you considering adopting a microservices architecture? Won’t it fix all your problems? Join me for a look into the realities of microservices!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hundreds of practical ASP.NET Core samples to learn the fundamentals]]></title>
-            <link>https://www.dotnetweekly.com/articles/hundreds-of-practical-aspnet-core-samples-to-learn-the-fundamentals</link>
-            <guid>https://www.dotnetweekly.com/articles/hundreds-of-practical-aspnet-core-samples-to-learn-the-fundamentals</guid>
-            <pubDate>Wed, 19 Feb 2020 16:35:58 GMT</pubDate>
-            <content:encoded><![CDATA[There's a growing world of .NET 101 samples out there. From our own http://dot.net/videos starter videos on YouTube (over 100 and adding more all the time!) to the whole .NET learning center where you can learn and practice C# online in your browser with no install!
-
-There's also a new "Take your first steps with C#" 4 hour online Learning Path that you can also take entirely online!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[C# to C# Communication: REST, gRPC and everything in between]]></title>
-            <link>https://www.dotnetweekly.com/articles/c-to-c-communication-rest-grpc-and-everything-in-between</link>
-            <guid>https://www.dotnetweekly.com/articles/c-to-c-communication-rest-grpc-and-everything-in-between</guid>
-            <pubDate>Wed, 19 Feb 2020 16:34:07 GMT</pubDate>
-            <content:encoded><![CDATA[There are many ways to communicate between a C# client and a C# server. Some are robust, others not so much. Some are very fast, others aren’t. It’s important to know the different options so you can decide what’s best for you. This article will go through the most popular technologies today and why they got to be so widely used. We’ll talk about REST, gRPC, and everything in between.
+            <title><![CDATA[VS Code Integration with GitHub and Azure]]></title>
+            <link>https://www.dotnetweekly.com/articles/vs-code-integration-with-github-and-azure</link>
+            <guid>https://www.dotnetweekly.com/articles/vs-code-integration-with-github-and-azure</guid>
+            <pubDate>Fri, 28 Feb 2020 04:33:57 GMT</pubDate>
+            <content:encoded><![CDATA[In this episode, Robert is joined by Aaron Powell, who demonstrates Visual Studio Code and its integrations with GitHub and Azure. Aaron shows that VS Code provides a complete developer experience that enables you to spend more time and effort on coding and less time switching between tools. Visual Studio developers are used to this. Now, Visual Studio Code developers have this experience as well. 
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[GraphQL for beginners]]></title>
-            <link>https://www.dotnetweekly.com/articles/graphql-for-beginners</link>
-            <guid>https://www.dotnetweekly.com/articles/graphql-for-beginners</guid>
-            <pubDate>Wed, 19 Feb 2020 16:32:33 GMT</pubDate>
-            <content:encoded><![CDATA[Whoo, already five years have passed since Facebook publicly released GraphQL in 2015. It's not anymore just a new shiny thing - GraphQL ecosystem greatly matured and you should take it into consideration when choosing between different API design approaches.]]></content:encoded>
+            <title><![CDATA[Visual Studio Online]]></title>
+            <link>https://www.dotnetweekly.com/articles/visual-studio-online</link>
+            <guid>https://www.dotnetweekly.com/articles/visual-studio-online</guid>
+            <pubDate>Fri, 28 Feb 2020 04:26:22 GMT</pubDate>
+            <content:encoded><![CDATA[In this episode, Robert is joined by Burke Holland, who introduces us to Visual Studio Online, which provides a cloud-based development environment you can access from anywhere. Burke shows how easy it is to spin up a new environment, point it at a repo and start coding. 
+
+]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Clean up your .NET with the Dispose Pattern]]></title>
-            <link>https://www.dotnetweekly.com/articles/clean-up-your-net-with-the-dispose-pattern</link>
-            <guid>https://www.dotnetweekly.com/articles/clean-up-your-net-with-the-dispose-pattern</guid>
-            <pubDate>Wed, 19 Feb 2020 16:29:56 GMT</pubDate>
-            <content:encoded><![CDATA[In the managed-code world of .NET, we can be sometimes spoiled by the seamless intervention of Garbage Collection which quite happily waits until our objects are no longer referenced and then scoops them up and destroys them. That ‘Person’ object you’re no longer referencing? Gone. That ‘Tesla’ object you lovingly inherited from ‘Car’ and then added loads of ‘door’ properties to? Obliterated. See ya.
+            <title><![CDATA[Web Workers, comlink, TypeScript and React]]></title>
+            <link>https://www.dotnetweekly.com/articles/web-workers-comlink-typescript-and-react</link>
+            <guid>https://www.dotnetweekly.com/articles/web-workers-comlink-typescript-and-react</guid>
+            <pubDate>Fri, 28 Feb 2020 04:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[JavaScript is famously single threaded. However, if you're developing for the web, you may well know that this is not quite accurate. There are Web Workers:
 
-What about when our old-buddy-old-pal the collector can’t pick up our trash? What do we do when we are using a resource which is unmanaged and therefore cannot be picked up for us?
+A worker is an object created using a constructor (e.g. Worker()) that runs a named JavaScript file — this file contains the code that will run in the worker thread; workers run in another global context that is different from the current window.
 
-In these scary, less comfortable unmanaged situations, it’s time for us to roll up our sleeves and muck in with the dispose pattern.]]></content:encoded>
+Given that there is a way to use other threads for background processing, why doesn't this happen all the time? Well there's a number of reasons; not the least of which is the ceremony involved in interacting with Web Workers. Consider the following example that illustrates moving a calculation into a worker:]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[How to Build Forms with React the Easy Way]]></title>
-            <link>https://www.dotnetweekly.com/articles/how-to-build-forms-with-react-the-easy-way</link>
-            <guid>https://www.dotnetweekly.com/articles/how-to-build-forms-with-react-the-easy-way</guid>
-            <pubDate>Wed, 19 Feb 2020 16:28:29 GMT</pubDate>
-            <content:encoded><![CDATA[Earlier this week we discussed how to build fully-featured React forms with KendoReact, which is another great React forms tutorial. In this article, we’ll take a step back and discuss the challenges inherent to building forms with just React, such as state management and validation, and then how to solve them with the KendoReact Form component.
+            <title><![CDATA[CQRS + Event Sourcing – Step by Step]]></title>
+            <link>https://www.dotnetweekly.com/articles/cqrs-event-sourcing-step-by-step</link>
+            <guid>https://www.dotnetweekly.com/articles/cqrs-event-sourcing-step-by-step</guid>
+            <pubDate>Fri, 28 Feb 2020 04:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[A common issue I see is understanding the flow of commands, events and queries within a typical CQRS ES based system. The following post is designed to clear up what happens at each step. Hopefully this will help you to reason about your code and what each part does.
 
-Forms are hard, regardless of the framework or libraries you use to create them. But with React forms are especially tricky, as the official React form documentation is brief and doesn’t discuss topics that real-world forms always need, such as form validation.
-
-In this article, you’ll learn how to build React forms the easy way using the newly released KendoReact Form component. You’ll learn how to simplify your form’s state management, how to integrate with custom components like date pickers and drop-down lists, and how to implement robust form validation.
-
-Let’s get started.]]></content:encoded>
+]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Decompilation of C# code made easy with Visual Studio]]></title>
-            <link>https://www.dotnetweekly.com/articles/decompilation-of-c-code-made-easy-with-visual-studio</link>
-            <guid>https://www.dotnetweekly.com/articles/decompilation-of-c-code-made-easy-with-visual-studio</guid>
-            <pubDate>Wed, 19 Feb 2020 16:27:35 GMT</pubDate>
-            <content:encoded><![CDATA[Have you ever found yourself debugging a .NET project or memory dump only to be confronted with a No Symbols Loaded page? Or maybe experienced an exception occurring in a 3rd party .NET assembly but had no source code to figure out why? You can now use Visual Studio to decompile managed code even if you don’t have the symbols, allowing you to look at code, inspect variables and set breakpoints.
+            <title><![CDATA[Null API Responses and HTTP 204 Results in ASP.NET Core]]></title>
+            <link>https://www.dotnetweekly.com/articles/null-api-responses-and-http-204-results-in-aspnet-core</link>
+            <guid>https://www.dotnetweekly.com/articles/null-api-responses-and-http-204-results-in-aspnet-core</guid>
+            <pubDate>Fri, 28 Feb 2020 03:26:28 GMT</pubDate>
+            <content:encoded><![CDATA[ASP.NET Core 3.x has a behavior that results in API results that return null from the controller action returning a HTTP 204 - No Content response rather than a null JSON result. Presumably the idea is that if you return null from an API, your intention is to return 'no content' and that sort of make sense in some cases. Except... when you're building an API null may actually have a meaning on the client or the client at minimum may be expecting a proper JSON response.
 
-We have recently released a new decompilation and symbol creation experience in the latest preview of Visual Studio 2019 version 16.5 that will aid debugging in situations where you might be missing symbol files or source code. As we launch this feature, we want to ensure that we are creating the most intuitive workflows so please provide feedback.]]></content:encoded>
+]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Announcing .NET Interactive - Try .NET includes .NET Notebooks and more]]></title>
-            <link>https://www.dotnetweekly.com/articles/announcing-net-interactive-try-net-includes-net-notebooks-and-more</link>
-            <guid>https://www.dotnetweekly.com/articles/announcing-net-interactive-try-net-includes-net-notebooks-and-more</guid>
-            <pubDate>Wed, 19 Feb 2020 16:27:03 GMT</pubDate>
-            <content:encoded><![CDATA[At Microsoft Ignite 2019, we were happy to announce that the "Try .NET global tool" added support for C# and F# Jupyter notebooks. Last week, the same team that brought you .NET Notebooks announced Preview 2 of the .NET Notebook.
+            <title><![CDATA[Deploying Machine Learning Models – pt. 3: gRPC and TensorFlow Serving]]></title>
+            <link>https://www.dotnetweekly.com/articles/deploying-machine-learning-models-pt-3-grpc-and-tensorflow-serving</link>
+            <guid>https://www.dotnetweekly.com/articles/deploying-machine-learning-models-pt-3-grpc-and-tensorflow-serving</guid>
+            <pubDate>Fri, 28 Feb 2020 03:20:51 GMT</pubDate>
+            <content:encoded><![CDATA[In the previous articles, we explored how we can serve TensorFlow Models with Flask and how we can accomplish the same thing with Docker in combination with TensorFlow Serving. Both of these approaches utilized REST API. We were able to explore some good things regarding this approach. However, we also detected some shortcomings. The major ones are scalability and speed. In this article, we address both of those problems. Also, sometimes it feels unnatural to serve deep learning models with REST API because these are usually embedded within some kind of microservice. That is where gRPC comes into the picture. First, let’s get familiar with this technology and then we explore how we can use it in combination with TensorFlow Serving.
 
-NAME CHANGE - .NET INTERACTIVE
-As the scenarios for what was "Try .NET" continued to grow, the team wanted to a name that encompassed all the experiences they have as well as all the experiences they will have in the future. What was the Try .NET family of projects is now .NET interactive.]]></content:encoded>
+]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Email Confirmation with ASP.NET Core Identity]]></title>
-            <link>https://www.dotnetweekly.com/articles/email-confirmation-with-aspnet-core-identity</link>
-            <guid>https://www.dotnetweekly.com/articles/email-confirmation-with-aspnet-core-identity</guid>
-            <pubDate>Wed, 19 Feb 2020 16:26:11 GMT</pubDate>
-            <content:encoded><![CDATA[Email Confirmation is quite an important part of the user registration process. It allows us to verify the registered user is indeed an owner of the provided email. But why is this important?
+            <title><![CDATA[Getting Started with CORS in ASP.NET Core]]></title>
+            <link>https://www.dotnetweekly.com/articles/getting-started-with-cors-in-aspnet-core</link>
+            <guid>https://www.dotnetweekly.com/articles/getting-started-with-cors-in-aspnet-core</guid>
+            <pubDate>Fri, 28 Feb 2020 03:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[If you are using an API in your application, you probably have come across CORS at some point. And no, we are not talking about the successful Irish band that had many top hits in the 90s. That’s a different spelling anyways. We are talking about Cross-Origin Resource Sharing (CORS).
 
-Well, let’s imagine a scenario where two users with similar email addresses want to register in our application. Michael registers first with michel@mail.com instead of michael@mail.com which is his real address. Without an email confirmation, this registration will execute successfully. Now, Michel comes to the registration page and tries to register with his email michel@mail.com. Our application will return an error that the user with that email is already registered. So, thinking that he already has an account, he just resets the password and successfully logs in to the application.]]></content:encoded>
+]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Elastic Jobs in Azure SQL Database – What and Why]]></title>
-            <link>https://www.dotnetweekly.com/articles/elastic-jobs-in-azure-sql-database-what-and-why</link>
-            <guid>https://www.dotnetweekly.com/articles/elastic-jobs-in-azure-sql-database-what-and-why</guid>
-            <pubDate>Wed, 19 Feb 2020 16:20:02 GMT</pubDate>
-            <content:encoded><![CDATA[Elastic Jobs is a feature of Azure SQL Database that lets you run a set of T-SQL scripts against a collection of servers or databases, as a one-time job, in an ad-hoc manner, or according to a pre-defined schedule.  This feature allows regular maintenance and any action that must be repeated – either across a set of databases or over time, much simpler. Set it up one time, and it will continue to run on any cadence you decide, across any scope you decide, for as long as you wish.
-
-I am releasing a series of posts that will demonstrate and explain the basics of setting up Elastic Jobs to work with a set of databases, including both a General Purpose database and a Hyperscale database. You will understand the fundamental concepts needed to properly create Elastic Jobs, how to create, run, and schedule them using PowerShell or T-SQL, as well as some troubleshooting basics. ]]></content:encoded>
+            <title><![CDATA[Saving basic data in Blazor]]></title>
+            <link>https://www.dotnetweekly.com/articles/saving-basic-data-in-blazor</link>
+            <guid>https://www.dotnetweekly.com/articles/saving-basic-data-in-blazor</guid>
+            <pubDate>Wed, 26 Feb 2020 10:47:17 GMT</pubDate>
+            <content:encoded><![CDATA[In this tutorial, you will learn how to use Blazor to render a form, and save the data from it in a database, using Entity Framework.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Promoting F# in a C# team]]></title>
-            <link>https://www.dotnetweekly.com/articles/promoting-f-in-a-c-team</link>
-            <guid>https://www.dotnetweekly.com/articles/promoting-f-in-a-c-team</guid>
-            <pubDate>Wed, 19 Feb 2020 14:34:56 GMT</pubDate>
-            <content:encoded><![CDATA[Functional programming is the new hotness right now, but regardless of the hype, most modern programming languages are introducing FP-friendly features that make a big difference to software quality:
-
-    Delegates
-    LINQ
-    Read-only properties
-    Pattern matching
-    Readonly value types
-    Tuples
-
-As we’re adding features and applying good software engineering practices, we’re actively working to make sure that the code we’re trying to implement is correct. An OO first language like C# provides support for this thanks through features such as static typing, scoping and access modifiers. If you make a mistake, the compiler will warn you. Although those features are great, there’s more that can help the developers to reason with their code and make sure that the code that was either added or maintained will behave as expected and have little to no ripple effects in the system(s).]]></content:encoded>
+            <title><![CDATA[GrandNode - e-commerce platform based on .NET Core and MongoDB]]></title>
+            <link>https://www.dotnetweekly.com/articles/grandnode-e-commerce-platform-based-on-net-core-and-mongodb</link>
+            <guid>https://www.dotnetweekly.com/articles/grandnode-e-commerce-platform-based-on-net-core-and-mongodb</guid>
+            <pubDate>Wed, 26 Feb 2020 08:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[GrandNode seems to be one of the most advanced e-commerce platforms based on .NET Core and MongoDB. Without external plugins you can create marketplace with commissions for vendors, knowledge base, auction portal, portal with online courses. ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ASP.NET Core middleware with Roslyn Analyzers - Part 1]]></title>
-            <link>https://www.dotnetweekly.com/articles/aspnet-core-middleware-with-roslyn-analyzers-part-1</link>
-            <guid>https://www.dotnetweekly.com/articles/aspnet-core-middleware-with-roslyn-analyzers-part-1</guid>
-            <pubDate>Tue, 18 Feb 2020 06:33:06 GMT</pubDate>
-            <content:encoded><![CDATA[Learn how to create Roslyn Analyzers to help add ASP.NET Core middleware and in the right order.]]></content:encoded>
+            <title><![CDATA[Dependency Injection in Azure Functions with C#]]></title>
+            <link>https://www.dotnetweekly.com/articles/dependency-injection-in-azure-functions-with-c</link>
+            <guid>https://www.dotnetweekly.com/articles/dependency-injection-in-azure-functions-with-c</guid>
+            <pubDate>Tue, 25 Feb 2020 21:24:35 GMT</pubDate>
+            <content:encoded><![CDATA[How to add Dependency Injection to Azure Functions]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Nullable Reference Types in C# 8 - Use them now!]]></title>
-            <link>https://www.dotnetweekly.com/articles/nullable-reference-types-in-c-8-use-them-now</link>
-            <guid>https://www.dotnetweekly.com/articles/nullable-reference-types-in-c-8-use-them-now</guid>
-            <pubDate>Mon, 17 Feb 2020 10:36:48 GMT</pubDate>
-            <content:encoded><![CDATA[The new set of warnings the compiler can generate when you enable the Nullable Reference Types feature can be a massive help for the developers and will help to spot bugs and write code of better quality. This feature is definitely a game-changer for C# developers and I invite you to use it especially on new projects.]]></content:encoded>
+            <title><![CDATA[Generate a PDF from ASP.NET Core for free]]></title>
+            <link>https://www.dotnetweekly.com/articles/generate-a-pdf-from-aspnet-core-for-free</link>
+            <guid>https://www.dotnetweekly.com/articles/generate-a-pdf-from-aspnet-core-for-free</guid>
+            <pubDate>Tue, 25 Feb 2020 06:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[Show you how to generate a PDF file from ASP.NET for free. There are a lot of paid components out there, but it doesn't have to cost you anything.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ Full-stack ASP.NET Core]]></title>
-            <link>https://www.dotnetweekly.com/articles/full-stack-aspnet-core</link>
-            <guid>https://www.dotnetweekly.com/articles/full-stack-aspnet-core</guid>
-            <pubDate>Mon, 17 Feb 2020 09:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[Learn how to build full-stack web applications using the latest ASP.NET Core technologies. The book follows the development of a real-life small project, so you are sure to have a fully functional project by the end.]]></content:encoded>
+            <title><![CDATA[Software architecture is like dominoes]]></title>
+            <link>https://www.dotnetweekly.com/articles/software-architecture-is-like-dominoes</link>
+            <guid>https://www.dotnetweekly.com/articles/software-architecture-is-like-dominoes</guid>
+            <pubDate>Mon, 24 Feb 2020 17:09:54 GMT</pubDate>
+            <content:encoded><![CDATA[The author shares an analogy between dominoes and the popular line-of-business app architectures circulating in the .NET world.]]></content:encoded>
         </item>
     </channel>
 </rss>
