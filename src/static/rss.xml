@@ -4,120 +4,175 @@
         <title>dotNET Weekly - Week undefined Year undefined</title>
         <link>https://www.dotnetweekly.com/week/undefined/year/undefined?feed=rss</link>
         <description></description>
-        <lastBuildDate>Fri, 28 Feb 2020 04:36:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Mar 2020 09:50:55 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <category>Articles</category>
         <category>Videos</category>
-        <category>Libraries-Tools</category>
         <item>
-            <title><![CDATA[Reinforcement Learning with Unity ML Agents]]></title>
-            <link>https://www.dotnetweekly.com/articles/reinforcement-learning-with-unity-ml-agents</link>
-            <guid>https://www.dotnetweekly.com/articles/reinforcement-learning-with-unity-ml-agents</guid>
-            <pubDate>Fri, 28 Feb 2020 04:34:40 GMT</pubDate>
-            <content:encoded><![CDATA[A couple of years ago Unity started working on a framework, that would enable training machine learning algorithms in virtual environments: ML-Agents Toolkit. It is used by a number of companies across the world, including famous DeepMind, to aid research in computer vision and robotics in such tasks as autonomous driving.
-
-In this post we present an example bot built with C# and TensorFlow framework, that learns to play a game in a simple Unity-based virtual environment using one of the state of the art reinforcement learning algorithms: soft actor-critic.]]></content:encoded>
+            <title><![CDATA[The ASP.NET Core security headers guide]]></title>
+            <link>https://www.dotnetweekly.com/articles/the-aspnet-core-security-headers-guide</link>
+            <guid>https://www.dotnetweekly.com/articles/the-aspnet-core-security-headers-guide</guid>
+            <pubDate>Tue, 10 Mar 2020 09:00:42 GMT</pubDate>
+            <content:encoded><![CDATA[The ultimate guide to adding security headers in ASP.NET Core. Some features are built-in to core using middleware while others require manual work.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[VS Code Integration with GitHub and Azure]]></title>
-            <link>https://www.dotnetweekly.com/articles/vs-code-integration-with-github-and-azure</link>
-            <guid>https://www.dotnetweekly.com/articles/vs-code-integration-with-github-and-azure</guid>
-            <pubDate>Fri, 28 Feb 2020 04:33:57 GMT</pubDate>
-            <content:encoded><![CDATA[In this episode, Robert is joined by Aaron Powell, who demonstrates Visual Studio Code and its integrations with GitHub and Azure. Aaron shows that VS Code provides a complete developer experience that enables you to spend more time and effort on coding and less time switching between tools. Visual Studio developers are used to this. Now, Visual Studio Code developers have this experience as well. 
+            <title><![CDATA[Asp Core Automating Cache with Aspect Programming (Autofac + Dynamic Proxy)]]></title>
+            <link>https://www.dotnetweekly.com/articles/asp-core-automating-cache-with-aspect-programming-autofac-dynamic-proxy</link>
+            <guid>https://www.dotnetweekly.com/articles/asp-core-automating-cache-with-aspect-programming-autofac-dynamic-proxy</guid>
+            <pubDate>Tue, 10 Mar 2020 08:39:06 GMT</pubDate>
+            <content:encoded><![CDATA[Asp Core Automating Cache with Aspect Programming (Autofac + Dynamic Proxy)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Class definitions in TypeScript]]></title>
+            <link>https://www.dotnetweekly.com/articles/class-definitions-in-typescript</link>
+            <guid>https://www.dotnetweekly.com/articles/class-definitions-in-typescript</guid>
+            <pubDate>Mon, 09 Mar 2020 06:29:02 GMT</pubDate>
+            <content:encoded><![CDATA[Cheat sheet: classes in plain JavaScript  
+Basic members of classes  
+Modifier: static  
+Modifier: # (private)  
+Modifiers for accessors: get (getter) and set (setter)  
+Modifier for methods: * (generator)  
+Modifier for methods: async  
+Computed class member names  
+Combinations of modifiers  
+Under the hood  
+More information  
+Non-public data slots in TypeScript  
+Private properties  
+Private fields  
+Private properties vs. private fields  
+Protected properties  
+Private constructors  
+Initializing instance properties  
+Strict property initialization  
+Making constructor parameters public, private, or protected  
+Abstract classes  ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Creating storage accounts and blob containers using Azure fluent API-s]]></title>
+            <link>https://www.dotnetweekly.com/articles/creating-storage-accounts-and-blob-containers-using-azure-fluent-api-s</link>
+            <guid>https://www.dotnetweekly.com/articles/creating-storage-accounts-and-blob-containers-using-azure-fluent-api-s</guid>
+            <pubDate>Mon, 09 Mar 2020 06:28:08 GMT</pubDate>
+            <content:encoded><![CDATA[Using Azure fluent API-s it is easy to create storage accounts and blob containers. After experimenting with fluent API of Azure storage I found it to be good match for multitenant web applications where tenant files are held on Azure blob storage. I was surprised how clean and short code I got using fluent API. Here’s my overview of fluent API for Azure storage with some code samples I wrote.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ASP.NET Core in Azure App Services' Docker Images - Part 3]]></title>
+            <link>https://www.dotnetweekly.com/articles/aspnet-core-in-azure-app-services-docker-images-part-3</link>
+            <guid>https://www.dotnetweekly.com/articles/aspnet-core-in-azure-app-services-docker-images-part-3</guid>
+            <pubDate>Mon, 09 Mar 2020 06:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[In this last post in the series, i'll show you how to use GitHub Actions to automate when you want to push a new version of your container to your Azure App Service.
+
+While you could do the same automation in a lot of other tools, the important idea here is that you want to automate it all.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Scoping in JavaScript: The Basics]]></title>
+            <link>https://www.dotnetweekly.com/articles/scoping-in-javascript-the-basics</link>
+            <guid>https://www.dotnetweekly.com/articles/scoping-in-javascript-the-basics</guid>
+            <pubDate>Mon, 09 Mar 2020 06:26:12 GMT</pubDate>
+            <content:encoded><![CDATA[The Goal: Understanding the difference between lexical and block scoping
+Motivation: These are subtle differences that newer devs (like myself) may not know or be aware of since we've never really used the var keyword
+Let's start with an example using the below code sample.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[CRUD using Blazor and Entity Framework Core]]></title>
+            <link>https://www.dotnetweekly.com/articles/crud-using-blazor-and-entity-framework-core</link>
+            <guid>https://www.dotnetweekly.com/articles/crud-using-blazor-and-entity-framework-core</guid>
+            <pubDate>Mon, 09 Mar 2020 06:24:40 GMT</pubDate>
+            <content:encoded><![CDATA[In my last post (Get Started with Blazor), we discussed the Blazor Framework, Hosting models and how to set up authentication and authorization in a Blazor server-side application with an example.  In this post, I am going to explain CRUD using Blazor and Entity Framework Core.  I will use the sample application we have created in the previous post and extend it with the new functionalities we are going to talk about in this post.  You will be familiar with the following topics after you read this post.
+
+Entity Framework Core – Setup in Blazor application
+Using Bootstrap Modals
+Child Components
+Validation
+JavaScript Interop
+Communication Between Components
+Templated Components using Render Fragments (Dynamic Content)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[C# 8 asynchronous streams]]></title>
+            <link>https://www.dotnetweekly.com/articles/c-8-asynchronous-streams</link>
+            <guid>https://www.dotnetweekly.com/articles/c-8-asynchronous-streams</guid>
+            <pubDate>Mon, 09 Mar 2020 06:23:57 GMT</pubDate>
+            <content:encoded><![CDATA[.NET Core 3.1 (December 2019) includes support for C# 8, a new major
+version of the C# programming language. In this series of articles, we’ll look at the new features in .NET’s main programming language. This first article, in particular, looks at asynchronous streams. This feature makes it easy to create and consume asynchronous enumerables, so before getting into the new feature, you first need to understand the IEnumerable interface.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[What’s New in Visual Studio Online]]></title>
+            <link>https://www.dotnetweekly.com/articles/whats-new-in-visual-studio-online</link>
+            <guid>https://www.dotnetweekly.com/articles/whats-new-in-visual-studio-online</guid>
+            <pubDate>Mon, 09 Mar 2020 06:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[Last November, we unveiled the public preview of Visual Studio Online, which provides managed, on-demand development environments that can be accessed from anywhere using either Visual Studio Code, Visual Studio IDE (in private preview), or the included browser-based editor. Since then, the Visual Studio Online team hasn’t slowed down and we’re excited to bring you several new features ranging from enhanced environment configuration with custom Dockerfile support to enabling setting changes to environments. Your feedback in surveys, phone calls, and on our GitHub have been invaluable to us in defining and prioritizing these updates.
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Visual Studio Online]]></title>
-            <link>https://www.dotnetweekly.com/articles/visual-studio-online</link>
-            <guid>https://www.dotnetweekly.com/articles/visual-studio-online</guid>
-            <pubDate>Fri, 28 Feb 2020 04:26:22 GMT</pubDate>
-            <content:encoded><![CDATA[In this episode, Robert is joined by Burke Holland, who introduces us to Visual Studio Online, which provides a cloud-based development environment you can access from anywhere. Burke shows how easy it is to spin up a new environment, point it at a repo and start coding. 
+            <title><![CDATA[GitHub Actions]]></title>
+            <link>https://www.dotnetweekly.com/articles/github-actions</link>
+            <guid>https://www.dotnetweekly.com/articles/github-actions</guid>
+            <pubDate>Mon, 09 Mar 2020 06:20:53 GMT</pubDate>
+            <content:encoded><![CDATA[In this episode, Robert is joined by Aaron Powell, who introduces us to GitHub Actions, which give you the ability to automate your software workflows, including CI/CD, all within your GitHub repository. 
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Web Workers, comlink, TypeScript and React]]></title>
-            <link>https://www.dotnetweekly.com/articles/web-workers-comlink-typescript-and-react</link>
-            <guid>https://www.dotnetweekly.com/articles/web-workers-comlink-typescript-and-react</guid>
-            <pubDate>Fri, 28 Feb 2020 04:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[JavaScript is famously single threaded. However, if you're developing for the web, you may well know that this is not quite accurate. There are Web Workers:
+            <title><![CDATA[Windows Terminal: the secret to command line happiness!]]></title>
+            <link>https://www.dotnetweekly.com/articles/windows-terminal-the-secret-to-command-line-happiness</link>
+            <guid>https://www.dotnetweekly.com/articles/windows-terminal-the-secret-to-command-line-happiness</guid>
+            <pubDate>Mon, 09 Mar 2020 06:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[Learn all about Windows Terminal and how it can improve your development workflow.
 
-A worker is an object created using a constructor (e.g. Worker()) that runs a named JavaScript file — this file contains the code that will run in the worker thread; workers run in another global context that is different from the current window.
+If you're a developer (or IT professional) who likes to use the command line and appreciates an organized, customized, fast workflow... this episode is for you! 
 
-Given that there is a way to use other threads for background processing, why doesn't this happen all the time? Well there's a number of reasons; not the least of which is the ceremony involved in interacting with Web Workers. Consider the following example that illustrates moving a calculation into a worker:]]></content:encoded>
+Run PowerShell, Ubuntu (Linux), Azure CLI, Oh-my-Zsh, and Posh-Git command lines all in one terminal via multiple tabs.
+Open each command line in separate split panes, all in the same terminal window using shortcut keys to jump between them.
+Customize your font, background colors or images, shortcut keys, and default profiles.
+Checkout some demos and see what's good. ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[CQRS + Event Sourcing – Step by Step]]></title>
-            <link>https://www.dotnetweekly.com/articles/cqrs-event-sourcing-step-by-step</link>
-            <guid>https://www.dotnetweekly.com/articles/cqrs-event-sourcing-step-by-step</guid>
-            <pubDate>Fri, 28 Feb 2020 04:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[A common issue I see is understanding the flow of commands, events and queries within a typical CQRS ES based system. The following post is designed to clear up what happens at each step. Hopefully this will help you to reason about your code and what each part does.
+            <title><![CDATA[A successful Git branching model]]></title>
+            <link>https://www.dotnetweekly.com/articles/a-successful-git-branching-model</link>
+            <guid>https://www.dotnetweekly.com/articles/a-successful-git-branching-model</guid>
+            <pubDate>Mon, 09 Mar 2020 06:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[This model was conceived in 2010, now more than 10 years ago, and not very long after Git itself came into being. In those 10 years, git-flow (the branching model laid out in this article) has become hugely popular in many a software team to the point where people have started treating it like a standard of sorts — but unfortunately also as a dogma or panacea.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Why SvelteJS may be the best framework for new web devs]]></title>
+            <link>https://www.dotnetweekly.com/articles/why-sveltejs-may-be-the-best-framework-for-new-web-devs</link>
+            <guid>https://www.dotnetweekly.com/articles/why-sveltejs-may-be-the-best-framework-for-new-web-devs</guid>
+            <pubDate>Mon, 09 Mar 2020 06:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[Any web dev who's been at it for a few years has likely heard this question every other day.
 
+I'm really interested in learning about web development, but I don't know how to start. Any suggestions?
+
+A decade ago, this would have been an easy answer. Just make an index.html, throw some tags in there, make that header turn red with CSS, and reach for JQuery (or plane ole JavaScript, depending on who you ask) to handle those mouse clicks!]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Overview of Decentralized Identity Standards]]></title>
+            <link>https://www.dotnetweekly.com/articles/overview-of-decentralized-identity-standards</link>
+            <guid>https://www.dotnetweekly.com/articles/overview-of-decentralized-identity-standards</guid>
+            <pubDate>Mon, 09 Mar 2020 06:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[Building blocks for Self-Sovereign Identity
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Null API Responses and HTTP 204 Results in ASP.NET Core]]></title>
-            <link>https://www.dotnetweekly.com/articles/null-api-responses-and-http-204-results-in-aspnet-core</link>
-            <guid>https://www.dotnetweekly.com/articles/null-api-responses-and-http-204-results-in-aspnet-core</guid>
-            <pubDate>Fri, 28 Feb 2020 03:26:28 GMT</pubDate>
-            <content:encoded><![CDATA[ASP.NET Core 3.x has a behavior that results in API results that return null from the controller action returning a HTTP 204 - No Content response rather than a null JSON result. Presumably the idea is that if you return null from an API, your intention is to return 'no content' and that sort of make sense in some cases. Except... when you're building an API null may actually have a meaning on the client or the client at minimum may be expecting a proper JSON response.
+            <title><![CDATA[Build apps for free with Azure Cosmos DB Free Tier]]></title>
+            <link>https://www.dotnetweekly.com/articles/build-apps-for-free-with-azure-cosmos-db-free-tier</link>
+            <guid>https://www.dotnetweekly.com/articles/build-apps-for-free-with-azure-cosmos-db-free-tier</guid>
+            <pubDate>Mon, 09 Mar 2020 06:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[Looking to build a new app, develop and test, or run small production workloads with Azure Cosmos DB? Our new Free Tier makes it easy to get started with no cost and save money as you build and grow new apps.
+
+With Azure Cosmos DB Free Tier enabled, you’ll get the first 400 RU/s throughput and 5 GB storage in your account for free each month, for the lifetime of the account. That means that you can start small and grow with confidence, knowing your app will be running on a high-performance database service. You’ll only pay if your account exceeds 400 RU/s and 5 GB. Additionally, if your app has a lot of containers you can create up to 25 containers in a shared throughput database and have them all share the free 400 RU/s. You can have up to one free tier account per Azure subscription.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Graph Query Language Comparison Series - Gremlin vs Cypher vs nGQL]]></title>
+            <link>https://www.dotnetweekly.com/articles/graph-query-language-comparison-series-gremlin-vs-cypher-vs-ngql</link>
+            <guid>https://www.dotnetweekly.com/articles/graph-query-language-comparison-series-gremlin-vs-cypher-vs-ngql</guid>
+            <pubDate>Mon, 09 Mar 2020 06:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[In September 2019, Graph Query Language is accepted as a new database query language in a vote by the International SQL Standards Committee, the unification of GQL takes time. 
 
 ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Deploying Machine Learning Models – pt. 3: gRPC and TensorFlow Serving]]></title>
-            <link>https://www.dotnetweekly.com/articles/deploying-machine-learning-models-pt-3-grpc-and-tensorflow-serving</link>
-            <guid>https://www.dotnetweekly.com/articles/deploying-machine-learning-models-pt-3-grpc-and-tensorflow-serving</guid>
-            <pubDate>Fri, 28 Feb 2020 03:20:51 GMT</pubDate>
-            <content:encoded><![CDATA[In the previous articles, we explored how we can serve TensorFlow Models with Flask and how we can accomplish the same thing with Docker in combination with TensorFlow Serving. Both of these approaches utilized REST API. We were able to explore some good things regarding this approach. However, we also detected some shortcomings. The major ones are scalability and speed. In this article, we address both of those problems. Also, sometimes it feels unnatural to serve deep learning models with REST API because these are usually embedded within some kind of microservice. That is where gRPC comes into the picture. First, let’s get familiar with this technology and then we explore how we can use it in combination with TensorFlow Serving.
-
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Getting Started with CORS in ASP.NET Core]]></title>
-            <link>https://www.dotnetweekly.com/articles/getting-started-with-cors-in-aspnet-core</link>
-            <guid>https://www.dotnetweekly.com/articles/getting-started-with-cors-in-aspnet-core</guid>
-            <pubDate>Fri, 28 Feb 2020 03:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[If you are using an API in your application, you probably have come across CORS at some point. And no, we are not talking about the successful Irish band that had many top hits in the 90s. That’s a different spelling anyways. We are talking about Cross-Origin Resource Sharing (CORS).
-
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Saving basic data in Blazor]]></title>
-            <link>https://www.dotnetweekly.com/articles/saving-basic-data-in-blazor</link>
-            <guid>https://www.dotnetweekly.com/articles/saving-basic-data-in-blazor</guid>
-            <pubDate>Wed, 26 Feb 2020 10:47:17 GMT</pubDate>
-            <content:encoded><![CDATA[In this tutorial, you will learn how to use Blazor to render a form, and save the data from it in a database, using Entity Framework.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[GrandNode - e-commerce platform based on .NET Core and MongoDB]]></title>
-            <link>https://www.dotnetweekly.com/articles/grandnode-e-commerce-platform-based-on-net-core-and-mongodb</link>
-            <guid>https://www.dotnetweekly.com/articles/grandnode-e-commerce-platform-based-on-net-core-and-mongodb</guid>
-            <pubDate>Wed, 26 Feb 2020 08:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[GrandNode seems to be one of the most advanced e-commerce platforms based on .NET Core and MongoDB. Without external plugins you can create marketplace with commissions for vendors, knowledge base, auction portal, portal with online courses. ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Dependency Injection in Azure Functions with C#]]></title>
-            <link>https://www.dotnetweekly.com/articles/dependency-injection-in-azure-functions-with-c</link>
-            <guid>https://www.dotnetweekly.com/articles/dependency-injection-in-azure-functions-with-c</guid>
-            <pubDate>Tue, 25 Feb 2020 21:24:35 GMT</pubDate>
-            <content:encoded><![CDATA[How to add Dependency Injection to Azure Functions]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Generate a PDF from ASP.NET Core for free]]></title>
-            <link>https://www.dotnetweekly.com/articles/generate-a-pdf-from-aspnet-core-for-free</link>
-            <guid>https://www.dotnetweekly.com/articles/generate-a-pdf-from-aspnet-core-for-free</guid>
-            <pubDate>Tue, 25 Feb 2020 06:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[Show you how to generate a PDF file from ASP.NET for free. There are a lot of paid components out there, but it doesn't have to cost you anything.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Software architecture is like dominoes]]></title>
-            <link>https://www.dotnetweekly.com/articles/software-architecture-is-like-dominoes</link>
-            <guid>https://www.dotnetweekly.com/articles/software-architecture-is-like-dominoes</guid>
-            <pubDate>Mon, 24 Feb 2020 17:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[The author shares an analogy between dominoes and the popular line-of-business app architectures circulating in the .NET world.]]></content:encoded>
         </item>
     </channel>
 </rss>

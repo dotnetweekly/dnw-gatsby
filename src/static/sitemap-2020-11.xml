@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/the-aspnet-core-security-headers-guide</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/asp-core-automating-cache-with-aspect-programming-autofac-dynamic-proxy</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/class-definitions-in-typescript</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/creating-storage-accounts-and-blob-containers-using-azure-fluent-api-s</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/aspnet-core-in-azure-app-services-docker-images-part-3</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/scoping-in-javascript-the-basics</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/crud-using-blazor-and-entity-framework-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/c-8-asynchronous-streams</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/whats-new-in-visual-studio-online</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/github-actions</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/windows-terminal-the-secret-to-command-line-happiness</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/a-successful-git-branching-model</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/why-sveltejs-may-be-the-best-framework-for-new-web-devs</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/overview-of-decentralized-identity-standards</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/build-apps-for-free-with-azure-cosmos-db-free-tier</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/graph-query-language-comparison-series-gremlin-vs-cypher-vs-ngql</loc> </url>
+</urlset>
