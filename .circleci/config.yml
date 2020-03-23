@@ -6,7 +6,7 @@ version: 2
 jobs:
   github-commit:
     docker:
-      - image: circleci/node:10.10
+      - image: circleci/node:10.13
 
     working_directory: ~/repo
 
@@ -78,3 +78,13 @@ workflows:
   commit:
     jobs:
       - build
+  # nightly:
+  #   triggers:
+  #     - schedule:
+  #         cron: '0 * * * *'
+  #         filters:
+  #           branches:
+  #             only:
+  #               - master
+  #   jobs:
+  #     - github-commit
