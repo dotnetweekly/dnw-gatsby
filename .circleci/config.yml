@@ -20,7 +20,7 @@ jobs:
       - run:
           name: Add new Articles
           command: node ./scripts/generate-markdown.js run
-      
+
       - run:
           name: Build project
           command: npm run build
@@ -78,13 +78,5 @@ workflows:
   commit:
     jobs:
       - build
-  nightly:
-    triggers:
-      - schedule:
-          cron: '0 * * * *'
-          filters:
-            branches:
-              only:
-                - master
     jobs:
       - github-commit
