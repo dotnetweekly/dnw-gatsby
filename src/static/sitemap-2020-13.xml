@@ -10,4 +10,7 @@
 <url> <loc>https://www.dotnetweekly.com/articles/intro-to-quantum-computing-with-q-part-1-the-background-and-the-qubit</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/learning-and-documenting-net-with-dotnet-try</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/using-github-actions-to-deploy-a-net-web-app</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/deploying-net-applications-to-aws-lambda</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/cross-site-request-forgery-csrf-with-aspnet-core-and-ajax</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/grpc-and-aspnet-core-31-whats-grpc-introduction</loc> </url>
 </urlset>
