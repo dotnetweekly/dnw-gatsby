@@ -4,145 +4,117 @@
         <title>dotNET Weekly - Week undefined Year undefined</title>
         <link>https://www.dotnetweekly.com/week/undefined/year/undefined?feed=rss</link>
         <description></description>
-        <lastBuildDate>Tue, 24 Mar 2020 18:19:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2020 19:04:58 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <category>Articles</category>
         <item>
-            <title><![CDATA[Continuous integration and deployment for desktop apps with GitHub Actions]]></title>
-            <link>https://www.dotnetweekly.com/articles/continuous-integration-and-deployment-for-desktop-apps-with-github-actions</link>
-            <guid>https://www.dotnetweekly.com/articles/continuous-integration-and-deployment-for-desktop-apps-with-github-actions</guid>
-            <pubDate>Tue, 24 Mar 2020 17:17:49 GMT</pubDate>
-            <content:encoded><![CDATA[From speaking to desktop developers, we’ve heard that you want to learn how to quickly set up continuous integration and continuous deployment (CI/CD) workflows for your WPF and Windows Forms applications in order to take advantage of the many benefits CI/CD pipelines have to offer, such as:
-
-Catch bugs early in the development cycle
-Improve software quality and reliability
-Ensure consistent quality of builds
-Deploy new features quickly and safely, improving release cadence
-Fix issues quickly in production by rolling forward new deployments]]></content:encoded>
+            <title><![CDATA[gRPC & ASP.NET Core 3.1: How to create a gRPC service ?]]></title>
+            <link>https://www.dotnetweekly.com/articles/grpc-and-aspnet-core-31-how-to-create-a-grpc-service</link>
+            <guid>https://www.dotnetweekly.com/articles/grpc-and-aspnet-core-31-how-to-create-a-grpc-service</guid>
+            <pubDate>Mon, 30 Mar 2020 19:02:47 GMT</pubDate>
+            <content:encoded><![CDATA[RPC & ASP.NET Core 3.1: What’s gRPC ? (introduction)
+gRPC & ASP.NET Core 3.1: How to create a gRPC service ?
+gRPC & ASP.NET Core 3.1: How to create a gRPC client ?
+gRPC & ASP.NET Core 3.1: What’s gRPC-web & how to create a gRPC-web service ?
+gRPC & ASP.NET Core 3.1: How to create a gRPC-web client ? Examples with Angular 8 and HttpClient
+gRPC & ASP.NET Core 3.1: Global error Handling in gRPC & gRPC status codes
+gRPC & ASP.NET Core 3.1: Resiliency with Polly
+gRPC & ASP.NET Core 3.1: Audit, logging, tracing & metrics
+gRPC & ASP.NET Core 3.1: Application Insights
+gRPC & ASP.NET Core 3.1: Manage Authentication and Authorization
+gRPC & ASP.NET Core 3.1: Inputs validation
+gRPC & ASP.NET Core 3.1: CRUD operations with Entity framework
+gRPC & ASP.NET Core 3.1: Healthchecks
+gRPC & ASP.NET Core 3.1: Versionning
+gRPC & ASP.NET Core 3.1: Unit testing
+gRPC & ASP.NET Core 3.1: Integration testing
+gRPC & ASP.NET Core 3.1: Upload / download files
+gRPC & ASP.NET Core 3.1: Caching
+gRPC & ASP.NET Core 3.1: Building streaming services with gRPC & Worker Services]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Visual Studio Code Docker extension 1.0 – Better than Ever!]]></title>
-            <link>https://www.dotnetweekly.com/articles/visual-studio-code-docker-extension-10-better-than-ever</link>
-            <guid>https://www.dotnetweekly.com/articles/visual-studio-code-docker-extension-10-better-than-ever</guid>
-            <pubDate>Tue, 24 Mar 2020 17:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[We recently released the 1.0 version of our Visual Studio Code Docker extension, which is the first general availability (GA) release. The Docker extension makes it easier to build apps that leverage Docker containers. The extension helps scaffold needed files, build Docker images, debug your app inside a container, and an explorer that makes it easy to take actions on containers and images such as start, stop, inspect, remove, and more.
+            <title><![CDATA[Optimize database traffic with future results in NHibernate]]></title>
+            <link>https://www.dotnetweekly.com/articles/optimize-database-traffic-with-future-results-in-nhibernate</link>
+            <guid>https://www.dotnetweekly.com/articles/optimize-database-traffic-with-future-results-in-nhibernate</guid>
+            <pubDate>Mon, 30 Mar 2020 18:59:47 GMT</pubDate>
+            <content:encoded><![CDATA[One nice feature that NHibernate has is future results. It is technically a capability to put queries on hold until data is actually asked. When data is asked from one delayed query then all queries are sent to database server as one batch and results are read also as one batch of multiple result sets. This blog post explains how to use future results with NHibernate.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Getting Started With .NET Localization]]></title>
+            <link>https://www.dotnetweekly.com/articles/getting-started-with-net-localization</link>
+            <guid>https://www.dotnetweekly.com/articles/getting-started-with-net-localization</guid>
+            <pubDate>Mon, 30 Mar 2020 18:56:59 GMT</pubDate>
+            <content:encoded><![CDATA[I have a dirty little secret to admit, and I hope you don’t think less of me for saying so. I have never localized any application that I’ve ever built. Phew, I feel better getting that off my chest. I like to think it’s something we’ve all done.
+
+We start our projects with the best intentions of helping as many users as possible, only to hardcode our labels, messages, and documentation. It begins innocently enough, “I’ll just hardcode it for now and come back to it later.” We never come back to “it”. Now we’ve limited the number of potential users we can help because we only target our native tongue.
+
+In this post, we’ll see how straightforward it is to add localization to any .NET application. Our code will be more readable, appeal to a broader userbase, and we’ll be better developers for taking the extra step of localization.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Displaying enum as select list in ASP.NET Core]]></title>
+            <link>https://www.dotnetweekly.com/articles/displaying-enum-as-select-list-in-aspnet-core</link>
+            <guid>https://www.dotnetweekly.com/articles/displaying-enum-as-select-list-in-aspnet-core</guid>
+            <pubDate>Mon, 30 Mar 2020 18:56:15 GMT</pubDate>
+            <content:encoded><![CDATA[Some properties of model classes come as enums and we want to show enum values in select list when edit form is opened. Sometimes we want enum element names but sometimes we want to use custom names or even translations. his blog post demonstrates how to get enum element names to select list on ASP.NET Core.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Publish Nuget packages in Azure DevOps Pipelines]]></title>
+            <link>https://www.dotnetweekly.com/articles/publish-nuget-packages-in-azure-devops-pipelines</link>
+            <guid>https://www.dotnetweekly.com/articles/publish-nuget-packages-in-azure-devops-pipelines</guid>
+            <pubDate>Mon, 30 Mar 2020 18:55:26 GMT</pubDate>
+            <content:encoded><![CDATA[In Azure DevOps, Pipelines can be used to build your solution, create a Nuget package and publish the Nuget package to the Nuget feed for further usage. This post shows how you can implement this and use the new Nuget package in Visual Studio.
+
+Setup Azure DevOps project and git Repo
+
+Open the required Azure DevOps project, or create a new Azure DevOps project. Add a Pipeline build. This demo will create a Nuget package from a .NET Standard library using .NET Core. The yml file is created and added to the git source code.
+
+The dotnet core pipeline is used.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Using the OAuth 2.0 device flow to authenticate users in desktop apps]]></title>
+            <link>https://www.dotnetweekly.com/articles/using-the-oauth-20-device-flow-to-authenticate-users-in-desktop-apps</link>
+            <guid>https://www.dotnetweekly.com/articles/using-the-oauth-20-device-flow-to-authenticate-users-in-desktop-apps</guid>
+            <pubDate>Mon, 30 Mar 2020 18:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[OpenID Connect is an authentication layer built on top of OAuth 2.0, which means that you have to use one of the OAuth 2.0 authorization flows. A few years ago, there were basically two possible flows that you could use in a desktop client application to authenticate a user:
+
+Resource Owner Password Credentials
+Authorization Code
+The password flow is pretty easy to use (basically, just exchange the user’s login and password for a token), but it requires that the client app is highly trusted, since it gets to manipulate the user’s credentials directly. This flow is now disallowed by OAuth 2.0 Security Best Current Practice.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Hosting and ASP.NET Core API in a Container Part 1 of 2 – Building the Container]]></title>
+            <link>https://www.dotnetweekly.com/articles/hosting-and-aspnet-core-api-in-a-container-part-1-of-2-building-the-container</link>
+            <guid>https://www.dotnetweekly.com/articles/hosting-and-aspnet-core-api-in-a-container-part-1-of-2-building-the-container</guid>
+            <pubDate>Mon, 30 Mar 2020 18:53:31 GMT</pubDate>
+            <content:encoded><![CDATA[ASP.NET Core is a cross-platform, open-source framework for building modern , cloud-based, connected applications. With ASP.NET core you can build web apps, API APS, Microservices, mobile backends, and IoT apps. You can use your development tools of choice on Windows MacOS, and Linux. You can deploy in any cloud or on premises. You can run in native cloud services such as Azure Web Apps, Linux, or, Containers. Today we will build and demonstrate hosting an ASP.NET core api app “Blue Yonder Hotel Service” in a Docker Containers. The api will expose api service endpoint to call hotel services.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Autoencoders for Content-based Image Retrieval with Keras and TensorFlow]]></title>
+            <link>https://www.dotnetweekly.com/articles/autoencoders-for-content-based-image-retrieval-with-keras-and-tensorflow</link>
+            <guid>https://www.dotnetweekly.com/articles/autoencoders-for-content-based-image-retrieval-with-keras-and-tensorflow</guid>
+            <pubDate>Mon, 30 Mar 2020 18:52:51 GMT</pubDate>
+            <content:encoded><![CDATA[In this tutorial, you will learn how to use convolutional autoencoders to create a Content-based Image Retrieval system (i.e., image search engine) using Keras and TensorFlow.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Offline storage in a PWA]]></title>
+            <link>https://www.dotnetweekly.com/articles/offline-storage-in-a-pwa</link>
+            <guid>https://www.dotnetweekly.com/articles/offline-storage-in-a-pwa</guid>
+            <pubDate>Mon, 30 Mar 2020 18:09:16 GMT</pubDate>
+            <content:encoded><![CDATA[When you are building any kind of application it's typical to want to store information which persists beyond a single user session. Sometimes that will be information that you'll want to live in some kind of centralised database, but not always.
+
+Also, you may want that data to still be available if your user is offline. Even if they can't connect to the network, the user may still be able to use the app to do meaningful tasks; but the app will likely require a certain amount of data to drive that.
+
+How can we achieve this in the context of a PWA?
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Every Web Performance Test Tool]]></title>
-            <link>https://www.dotnetweekly.com/articles/every-web-performance-test-tool</link>
-            <guid>https://www.dotnetweekly.com/articles/every-web-performance-test-tool</guid>
-            <pubDate>Tue, 24 Mar 2020 17:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[Here is every Web Performance Test Tool I know of to help identify issues in your site/get you some key speed metrics. The idea is you think of a feature you want, e.g. "TTFB" or "locations" or "waterfall" and just Cmd + F on this page to find a tool that helps you with that thing.
-
-Please let me know if you have other tools that belong here]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[CQRS]]></title>
-            <link>https://www.dotnetweekly.com/articles/cqrs</link>
-            <guid>https://www.dotnetweekly.com/articles/cqrs</guid>
-            <pubDate>Tue, 24 Mar 2020 17:11:57 GMT</pubDate>
-            <content:encoded><![CDATA[CQRS is a simple pattern that strictly segregates the responsibility of handling command input into an autonomous system from the responsibility of handling side-effect-free query/read access on the same system.
-
-If you are familiar with Domain-Driven Design, you’ve most likely heard about, Command-Query Responsibility Segregation (CQRS). Though the CQRS pattern is well-known, there are still a lot of misconceptions around this pattern, especially when it comes to applying it in real-world software projects.
-
-In this article, you will learn exactly what CQRS is, the principles behind it, and the benefits it can provide for your project.
-
-We will see a detailed, step-by-step process of implementing this pattern in practice using a sample project we’ll be working on. This project will be close to what you can see in the real world, and I will explain each step on the way to implement CQRS in great detail.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[How to create better code using Domain-Driven Design]]></title>
-            <link>https://www.dotnetweekly.com/articles/how-to-create-better-code-using-domain-driven-design</link>
-            <guid>https://www.dotnetweekly.com/articles/how-to-create-better-code-using-domain-driven-design</guid>
-            <pubDate>Tue, 24 Mar 2020 17:06:54 GMT</pubDate>
-            <content:encoded><![CDATA[In this post, I am going to present how you can use domain-driven design tactical patterns like value object, entity, repository, domain event, factory, and domain service, to write better code. By better code I mean code that is more readable, easier to reason about and maintain. We will start with business requirements, then we will have a look at implementation that does not use domain driven design and has an anemic model, then we will analyze problems related to such approach and compare it with code build with help of domain-driven design tactical patterns.
-The source code for this post is located here at Altkom Software & Consulting Github.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[npm is joining GitHub]]></title>
-            <link>https://www.dotnetweekly.com/articles/npm-is-joining-github</link>
-            <guid>https://www.dotnetweekly.com/articles/npm-is-joining-github</guid>
-            <pubDate>Tue, 24 Mar 2020 16:52:47 GMT</pubDate>
-            <content:encoded><![CDATA[I’m excited to announce that GitHub has signed an agreement to acquire npm.
-
-npm is a critical part of the JavaScript world. The work of the npm team over the last 10 years, and the contributions of hundreds of thousands of open source developers and maintainers, have made npm home to over 1.3 million packages with 75 billion downloads a month. Together, they’ve helped JavaScript become the largest developer ecosystem in the world. We at GitHub are honored to be part of the next chapter of npm’s story and to help npm continue to scale to meet the needs of the fast-growing JavaScript community. ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Flexible CI/CD with Kubernetes, Helm, Traefik and Jenkins]]></title>
-            <link>https://www.dotnetweekly.com/articles/flexible-ci-cd-with-kubernetes-helm-traefik-and-jenkins</link>
-            <guid>https://www.dotnetweekly.com/articles/flexible-ci-cd-with-kubernetes-helm-traefik-and-jenkins</guid>
-            <pubDate>Tue, 24 Mar 2020 16:50:45 GMT</pubDate>
-            <content:encoded><![CDATA[The main goal is to present a flexible CI/CD solution on top of Kubernetes, with automatic application deployment, host definition and routing per environment. To make this process easy to understand, the following steps are presented and described in detail:
-
-Setup Kubernetes and understand its basic concepts;
-Install Traefik, Dashboard and Jenkins using Helm;
-Create Kotlin application to show how CI/CD can be used;
-Implement Jenkins pipeline to build and deploy application automatically.
-To fulfill the mentioned steps and validate the presented CI/CD solution, the architecture with the following components is proposed:
-
-Kubernetes: for containers management and orchestration;
-Traefik: as proxy and load balancer to access services;
-Kubernetes Dashboard: to manage Kubernetes through a web-based interface;
-Jenkins: as automation server to automatically build and deploy application;
-GitHub: to manage source code using Git;
-DockerHub: as registry to manage the Docker image with the example application;
-Application stating: example application deployment for development and testing purposes;
-Application production: example application deployment to be used in production.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Intro to quantum computing with Q# – Part 1, The background and the qubit]]></title>
-            <link>https://www.dotnetweekly.com/articles/intro-to-quantum-computing-with-q-part-1-the-background-and-the-qubit</link>
-            <guid>https://www.dotnetweekly.com/articles/intro-to-quantum-computing-with-q-part-1-the-background-and-the-qubit</guid>
-            <pubDate>Tue, 24 Mar 2020 16:45:10 GMT</pubDate>
-            <content:encoded><![CDATA[Quantum mechanics is one of the fundamental theories of physics, and has been tremendously successful at describing the behavior of subatomic particles. However, its counter-intuitive probabilistic nature, bizarre rules and confusing epistemology have troubled some of the greatest physicists of the 20th century, even prompting Albert Einstein to remark “Old Man (often translated as 'God') doesn't play dice”.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Learning and documenting .NET with dotnet try]]></title>
-            <link>https://www.dotnetweekly.com/articles/learning-and-documenting-net-with-dotnet-try</link>
-            <guid>https://www.dotnetweekly.com/articles/learning-and-documenting-net-with-dotnet-try</guid>
-            <pubDate>Tue, 24 Mar 2020 16:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[Learning a new programming language is always hard. You have to read the documentation, stop, go to the IDE of your choice, start a new project, compile and run the program and see the results. Stop. Restart. After some time, you have no more patience for the process and start to skip some steps (maybe I don’t need to run this sample here…) until the point that you try to find an easier way, but most of the time there is no easier way.
-
-Well, now there is an easier way. The dotnet team has created a new tool, called dotnet try that allows you to have documentation mixed with a code sample window, where you can try the code while reading the documentation. Cool, no?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Using GitHub Actions to deploy a .Net Web App]]></title>
-            <link>https://www.dotnetweekly.com/articles/using-github-actions-to-deploy-a-net-web-app</link>
-            <guid>https://www.dotnetweekly.com/articles/using-github-actions-to-deploy-a-net-web-app</guid>
-            <pubDate>Tue, 24 Mar 2020 16:13:26 GMT</pubDate>
-            <content:encoded><![CDATA[So I wanted to take a look into GitHub Action’s and deploy a .Net Web App, this is my first real look into them and will be blogging about them a lot more in the future, below are the steps I took to do this.
-
-Create a basic .Net MVC Web App using .Net Core 3.1
-Run the app and make sure all is working as expected.
-Deploy this to Azure web app to Azure and check it runs ok.
-I then go into my Resource Group, locate the app service and from the click on ‘Get publish profile‘ – download the file and keep handy.
-Then I added the code to GitHub in a new repo which you can find here: – https://github.com/gsuttie/GHActionsWebApp1
-Next, I need to create a secret from within GitHub, so once you have your code in a new repository within Github go click on Settings and then Security and click Add a new secret, call it azureWebAppPublishProfile if you want to use the YAML below.
-Then I click on Actions and create my first workflow, I chose, Setup a workflow yourself.
-And then from here – https://github.com/actions/setup-dotnet I used the YAML and pasted in so that my main.yaml file looks like this]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Deploying .NET applications to AWS Lambda]]></title>
-            <link>https://www.dotnetweekly.com/articles/deploying-net-applications-to-aws-lambda</link>
-            <guid>https://www.dotnetweekly.com/articles/deploying-net-applications-to-aws-lambda</guid>
-            <pubDate>Tue, 24 Mar 2020 08:42:53 GMT</pubDate>
-            <content:encoded><![CDATA[Learn how to deploy .NET Core code to AWS Lambda and integrate with an API Gateway.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Cross-site request forgery (CSRF) with ASP.NET Core and AJAX]]></title>
-            <link>https://www.dotnetweekly.com/articles/cross-site-request-forgery-csrf-with-aspnet-core-and-ajax</link>
-            <guid>https://www.dotnetweekly.com/articles/cross-site-request-forgery-csrf-with-aspnet-core-and-ajax</guid>
-            <pubDate>Tue, 24 Mar 2020 06:42:27 GMT</pubDate>
-            <content:encoded><![CDATA[Learn how to configure Cross-site request forgery (CSRF) checks when using AJAX with jQuery or similar in an ASP.NET Core web application.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[gRPC & ASP.NET Core 3.1: What’s gRPC ? (introduction)]]></title>
-            <link>https://www.dotnetweekly.com/articles/grpc-and-aspnet-core-31-whats-grpc-introduction</link>
-            <guid>https://www.dotnetweekly.com/articles/grpc-and-aspnet-core-31-whats-grpc-introduction</guid>
-            <pubDate>Mon, 23 Mar 2020 03:02:26 GMT</pubDate>
-            <content:encoded><![CDATA[gRPC is an RPC (Remote procedure call) framework and not a Microsoft framework. It runs on HTTP/2 and it uses Protocol Buffers serialization format. gRPC provides bi-directional data transport and allows flow control (cancellation and waiting times). gRPC has been created by Google around 2003/2004 and they open sourced it in 2015. Many languages had implemented it except .NET, Finally Microsoft released a .NET version with ASP.NET Core 3.0 in September 2019.]]></content:encoded>
+            <title><![CDATA[gRPC & ASP.NET Core 3.1: What’s gRPC-web & how to create a gRPC-web service ?]]></title>
+            <link>https://www.dotnetweekly.com/articles/grpc-and-aspnet-core-31-whats-grpc-web-and-how-to-create-a-grpc-web-service</link>
+            <guid>https://www.dotnetweekly.com/articles/grpc-and-aspnet-core-31-whats-grpc-web-and-how-to-create-a-grpc-web-service</guid>
+            <pubDate>Mon, 30 Mar 2020 05:31:58 GMT</pubDate>
+            <content:encoded><![CDATA[In the summer of 2016, both a team at Google and  Improbable independently started working on implementing something that could be called “gRPC for the browser”. This article discussed on how to create a gRPC-web service in ASP.NET Core 3.1]]></content:encoded>
         </item>
     </channel>
 </rss>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/grpc-and-aspnet-core-31-how-to-create-a-grpc-service</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/optimize-database-traffic-with-future-results-in-nhibernate</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/getting-started-with-net-localization</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/displaying-enum-as-select-list-in-aspnet-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/publish-nuget-packages-in-azure-devops-pipelines</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-the-oauth-20-device-flow-to-authenticate-users-in-desktop-apps</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/hosting-and-aspnet-core-api-in-a-container-part-1-of-2-building-the-container</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/autoencoders-for-content-based-image-retrieval-with-keras-and-tensorflow</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/offline-storage-in-a-pwa</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/grpc-and-aspnet-core-31-whats-grpc-web-and-how-to-create-a-grpc-web-service</loc> </url>
+</urlset>
