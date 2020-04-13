@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/building-end-to-end-diagnostics-and-tracing-trace-context</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/identityserver4-ui-and-web-api-basic-security</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/system-design-interview-questions-concepts-you-should-know</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/queuing-background-jobs-with-coravel</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/create-build-deploy-and-configure-an-azure-function-with-azure-devops-and-azure-cli</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/announcing-net-50-preview-2</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-xunit-to-test-your-c-code</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/export-data-to-excel-with-aspnet-core</loc> </url>
+</urlset>
