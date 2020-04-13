@@ -6,7 +6,7 @@ category: articles
 slug: 'system-design-interview-questions-concepts-you-should-know'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'
-createdOn: '2020-04-10T04:25:01.911Z'
+createdOn: '2020-04-09T04:25:01.911Z'
 tags: [interview]
 ---
 

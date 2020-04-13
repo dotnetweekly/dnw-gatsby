@@ -6,7 +6,7 @@ category: articles
 slug: 'create-build-deploy-and-configure-an-azure-function-with-azure-devops-and-azure-cli'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'
-createdOn: '2020-04-10T04:11:29.964Z'
+createdOn: '2020-04-09T04:11:29.964Z'
 tags: [azure]
 ---
 

@@ -6,7 +6,7 @@ category: libraries-tools
 slug: 'queuing-background-jobs-with-coravel'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'
-createdOn: '2020-04-10T04:18:11.504Z'
+createdOn: '2020-04-09T04:18:11.504Z'
 tags: [.net]
 ---
 

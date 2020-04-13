@@ -6,7 +6,7 @@ category: articles
 slug: 'identityserver4-ui-and-web-api-basic-security'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'
-createdOn: '2020-04-10T04:26:54.363Z'
+createdOn: '2020-04-09T04:26:54.363Z'
 tags: [asp.net-core]
 ---
 

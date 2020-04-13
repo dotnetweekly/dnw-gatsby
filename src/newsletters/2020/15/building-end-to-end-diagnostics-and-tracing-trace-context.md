@@ -6,7 +6,7 @@ category: articles
 slug: 'building-end-to-end-diagnostics-and-tracing-trace-context'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'
-createdOn: '2020-04-10T04:28:04.308Z'
+createdOn: '2020-04-09T04:28:04.308Z'
 tags: [.net]
 ---
 
