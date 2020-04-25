@@ -1,119 +1,124 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>dotNET Weekly - Week 16 Year 2020</title>
-        <link>https://www.dotnetweekly.com/week/16/year/2020?feed=rss</link>
+        <title>dotNET Weekly - Week undefined Year undefined</title>
+        <link>https://www.dotnetweekly.com/week/undefined/year/undefined?feed=rss</link>
         <description></description>
-        <lastBuildDate>Mon, 20 Apr 2020 03:13:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2020 22:19:03 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
+        <category>Libraries-Tools</category>
         <category>Articles</category>
         <category>Videos</category>
         <item>
-            <title><![CDATA[Using Azure Monitor source map support to debug JavaScript errors]]></title>
-            <link>https://www.dotnetweekly.com/articles/using-azure-monitor-source-map-support-to-debug-javascript-errors</link>
-            <guid>https://www.dotnetweekly.com/articles/using-azure-monitor-source-map-support-to-debug-javascript-errors</guid>
-            <pubDate>Fri, 17 Apr 2020 02:50:22 GMT</pubDate>
-            <content:encoded><![CDATA[Azure Monitor’s new source map support expands a growing list of tools that empower developers to observe, diagnose, and debug their JavaScript applications.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Updates to Azure Maps Web SDK includes powerful new features]]></title>
-            <link>https://www.dotnetweekly.com/articles/updates-to-azure-maps-web-sdk-includes-powerful-new-features</link>
-            <guid>https://www.dotnetweekly.com/articles/updates-to-azure-maps-web-sdk-includes-powerful-new-features</guid>
-            <pubDate>Fri, 17 Apr 2020 02:49:29 GMT</pubDate>
-            <content:encoded><![CDATA[Today, we are announcing updates to the Azure Maps Web SDK, which adds support for common spatial file formats, introduces a new data driven template framework for popups, includes several OGC services, and much more.
+            <title><![CDATA[web-worker]]></title>
+            <link>https://www.dotnetweekly.com/articles/web-worker</link>
+            <guid>https://www.dotnetweekly.com/articles/web-worker</guid>
+            <pubDate>Wed, 22 Apr 2020 22:15:30 GMT</pubDate>
+            <content:encoded><![CDATA[Native cross-platform Web Workers. Works in published npm modules.
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Global Exception Handling in ASP.NET Core Web API]]></title>
-            <link>https://www.dotnetweekly.com/articles/global-exception-handling-in-aspnet-core-web-api</link>
-            <guid>https://www.dotnetweekly.com/articles/global-exception-handling-in-aspnet-core-web-api</guid>
-            <pubDate>Fri, 17 Apr 2020 01:54:30 GMT</pubDate>
-            <content:encoded><![CDATA[A good web API is consistent and follows established patterns for communicating error states to the client, leveraging the appropriate HTTP status codes. To that end, a global exception handler can be very helpful in consolidating a service’s error handling logic in one place and translating errors into the appropriate responses to send back to the client. In this post I’ll show you how you can plug custom exception-handling logic into the ASP.NET Core request pipeline to handle any exceptions that are thrown in your API.
+            <title><![CDATA[Creating web apps via TypeScript and webpack]]></title>
+            <link>https://www.dotnetweekly.com/articles/creating-web-apps-via-typescript-and-webpack</link>
+            <guid>https://www.dotnetweekly.com/articles/creating-web-apps-via-typescript-and-webpack</guid>
+            <pubDate>Wed, 22 Apr 2020 22:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[This blog post describes how to create web apps via TypeScript and webpack. We will only be using the DOM API, not a particular frontend framework. The repository ts-demo-webpack with the files can be downloaded from GitHub.
+
+Required knowledge: It helps if you have a rough understanding of how TypeScript, webpack, and npm work.
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Publish VSCode extension using GitHub Actions]]></title>
-            <link>https://www.dotnetweekly.com/articles/publish-vscode-extension-using-github-actions</link>
-            <guid>https://www.dotnetweekly.com/articles/publish-vscode-extension-using-github-actions</guid>
-            <pubDate>Fri, 17 Apr 2020 01:53:27 GMT</pubDate>
-            <content:encoded><![CDATA[GitHub Actions allow you to build complex workflows to automate your build and deployment processes. Built on top of Azure Pipelines, Actions allow you to maintain your workflows along with your code. In this post, we will see how we can implement CICD flow for a sample Visual Studio Code extension to deploy it to Visual Studio Marketplace.
+            <title><![CDATA[Things I Wished More Developers Knew About Databases]]></title>
+            <link>https://www.dotnetweekly.com/articles/things-i-wished-more-developers-knew-about-databases</link>
+            <guid>https://www.dotnetweekly.com/articles/things-i-wished-more-developers-knew-about-databases</guid>
+            <pubDate>Wed, 22 Apr 2020 22:14:17 GMT</pubDate>
+            <content:encoded><![CDATA[A large majority of computer systems have some state and are likely to depend on a storage system. My knowledge on databases accumulated over time, but along the way our design mistakes caused data loss and outages. In data-heavy systems, databases are at the core of system design goals and tradeoffs. Even though it is impossible to ignore how databases work, the problems that application developers foresee and experience will often be just the tip of the iceberg. In this series, I’m sharing a few insights I specifically found useful for developers who are not specialized in this domain.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[CSS is hard, Blazor and Tailwind CSS makes it easier]]></title>
+            <link>https://www.dotnetweekly.com/articles/css-is-hard-blazor-and-tailwind-css-makes-it-easier</link>
+            <guid>https://www.dotnetweekly.com/articles/css-is-hard-blazor-and-tailwind-css-makes-it-easier</guid>
+            <pubDate>Wed, 22 Apr 2020 20:22:42 GMT</pubDate>
+            <content:encoded><![CDATA[I really enjoy full stack web development.
+
+Nothing quite beats that feeling of taking a feature all the way from concept to working software, from airy fairy idea to something you can actually interact with in the browser.
+
+But, for all the good days when I enjoy building software, there are the bad days…
+
+You know these days.
+
+These are the days when you seriously question your life choices, when it feels like you spent the entire day pushing pixels around only to fail, spectacularly, to get anything that vaguely resembles the design brief up and running on the screen.
+
+For me, these are my CSS days.
+
+I hate working with CSS.
+
+OK, maybe “hate” is putting it a bit strong, but it’s crazy frustrating when I know I can build entire features, make them perform miracles technically, and work exactly as they’re supposed to, but the end result looks like something my five year old put together.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Simple Retry Policy with Polly]]></title>
+            <link>https://www.dotnetweekly.com/articles/simple-retry-policy-with-polly</link>
+            <guid>https://www.dotnetweekly.com/articles/simple-retry-policy-with-polly</guid>
+            <pubDate>Wed, 22 Apr 2020 20:21:14 GMT</pubDate>
+            <content:encoded><![CDATA[Exceptions in production are a matter of course for any distributed application like a web app. Instead of just crashing the application when an error occurs we can sometimes be a little smarter. In this episode we take a look a the Polly library for handling transient faults.
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Consuming GraphQL in C#]]></title>
-            <link>https://www.dotnetweekly.com/articles/consuming-graphql-in-c</link>
-            <guid>https://www.dotnetweekly.com/articles/consuming-graphql-in-c</guid>
-            <pubDate>Fri, 17 Apr 2020 01:52:09 GMT</pubDate>
-            <content:encoded><![CDATA[In this episode, Brandon show us how to consume a GraphQL endpoint from a C# client, specifically an iOS + Android written in C# using Xamarin.]]></content:encoded>
+            <title><![CDATA[Creating and Packaging a .NET Standard library]]></title>
+            <link>https://www.dotnetweekly.com/articles/creating-and-packaging-a-net-standard-library</link>
+            <guid>https://www.dotnetweekly.com/articles/creating-and-packaging-a-net-standard-library</guid>
+            <pubDate>Wed, 22 Apr 2020 20:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[In this post we will cover how you can create a .NET Standard library and then share that with other developers via NuGet. We will be demonstrating this with Visual Studio for Mac, but you can also follow along with Visual Studio, or Visual Studio Code when using the dotnet CLI. If you are on macOS, and haven’t already download Visual Studio for Mac you can download it here. We will create a new .NET Standard library from scratch, configure it for NuGet and then publish to nuget.org. The sample library will be a logging package.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[GitHub is now free for teams]]></title>
-            <link>https://www.dotnetweekly.com/articles/github-is-now-free-for-teams</link>
-            <guid>https://www.dotnetweekly.com/articles/github-is-now-free-for-teams</guid>
-            <pubDate>Fri, 17 Apr 2020 01:51:26 GMT</pubDate>
-            <content:encoded><![CDATA[We’re happy to announce we’re making private repositories with unlimited collaborators available to all GitHub accounts. All of the core GitHub features are now free for everyone. 
+            <title><![CDATA[How to Build a Simple Pokémon Web App with React Hooks and the Context API]]></title>
+            <link>https://www.dotnetweekly.com/articles/how-to-build-a-simple-pokemon-web-app-with-react-hooks-and-the-context-api</link>
+            <guid>https://www.dotnetweekly.com/articles/how-to-build-a-simple-pokemon-web-app-with-react-hooks-and-the-context-api</guid>
+            <pubDate>Wed, 22 Apr 2020 20:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[After seven years of full stack development using Ruby, Python, and vanilla JavaScript, these days I mostly work with JavaScript, Typescript, React, and Redux.
 
-Until now, if your organization wanted to use GitHub for private development, you had to subscribe to one of our paid plans. But every developer on earth should have access to GitHub. Price shouldn’t be a barrier.]]></content:encoded>
+The JavaScript community is great and moves really fast. Tons of things are created "overnight", usually figuratively, but sometimes literally. All this makes it is really difficult to keep up to date.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[When to Mock]]></title>
-            <link>https://www.dotnetweekly.com/articles/when-to-mock</link>
-            <guid>https://www.dotnetweekly.com/articles/when-to-mock</guid>
-            <pubDate>Fri, 17 Apr 2020 01:50:37 GMT</pubDate>
-            <content:encoded><![CDATA[The use of mocks in unit testing is a controversial topic (maybe less so now than several years ago). I remember how, throughout my programming career, I went from mocking almost every dependency, to the "no-mocks" policy, and then to "only mock external dependencies".
-
-None of this practices are good enough. In this article, I’ll show you which dependencies to mock, and which to use as is in your tests.]]></content:encoded>
+            <title><![CDATA[Time Series Forecasting in ML.NET and Notebooks in Azure ML Studio]]></title>
+            <link>https://www.dotnetweekly.com/articles/time-series-forecasting-in-mlnet-and-notebooks-in-azure-ml-studio</link>
+            <guid>https://www.dotnetweekly.com/articles/time-series-forecasting-in-mlnet-and-notebooks-in-azure-ml-studio</guid>
+            <pubDate>Wed, 22 Apr 2020 20:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[In this sample, learn how to run time series forecasting in a Jupyter notebook. We will read in data from a csv file, do some exploratory plots, fit a regression model, and fit a more sophisticated Singular Spectrum Analysis (SSA) forecaster.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Creating a CRUD API with Node, Express, and gRPC]]></title>
-            <link>https://www.dotnetweekly.com/articles/creating-a-crud-api-with-node-express-and-grpc</link>
-            <guid>https://www.dotnetweekly.com/articles/creating-a-crud-api-with-node-express-and-grpc</guid>
-            <pubDate>Fri, 17 Apr 2020 01:43:32 GMT</pubDate>
-            <content:encoded><![CDATA[Speed is becoming increasingly valuable in the web world.
-
-Developers launching new releases of software, frameworks, and libraries have certainly invested a lot of time in decreasing numbers regarding loading time, request processing, and resource consumption.
-
-HTTP/2, for example, was born through a myriad of optimizations that led the web to a more robust, faster, and lighter zone than we’ve ever been before.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Reporting API in ASP.NET Core - Network Error Logging]]></title>
-            <link>https://www.dotnetweekly.com/articles/reporting-api-in-aspnet-core-network-error-logging</link>
-            <guid>https://www.dotnetweekly.com/articles/reporting-api-in-aspnet-core-network-error-logging</guid>
-            <pubDate>Wed, 15 Apr 2020 09:07:25 GMT</pubDate>
-            <content:encoded><![CDATA[Reporting API aims at providing a framework for browsers to deliver reports about various issues to the servers. This post explores how Network Error Logging can be used with ASP.NET Core.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Building GraphQL APIs with ASP.NET Core]]></title>
-            <link>https://www.dotnetweekly.com/articles/building-graphql-apis-with-aspnet-core</link>
-            <guid>https://www.dotnetweekly.com/articles/building-graphql-apis-with-aspnet-core</guid>
-            <pubDate>Tue, 14 Apr 2020 09:49:29 GMT</pubDate>
-            <content:encoded><![CDATA[In this article, we will see what’s GraphQL, what it solves, how to build a simple GraphQL back-end for our ASP.NET Core project and also how to consume this GraphQL. Before starting, notice that you can find the demonstrated project on Github. ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[File transfer app with Blazor]]></title>
-            <link>https://www.dotnetweekly.com/articles/file-transfer-app-with-blazor</link>
-            <guid>https://www.dotnetweekly.com/articles/file-transfer-app-with-blazor</guid>
-            <pubDate>Mon, 13 Apr 2020 20:31:12 GMT</pubDate>
-            <content:encoded><![CDATA[Learn how to build a file transfer web application with Blazor and AWS!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[GitHub Protips: Tips, tricks, hacks, and secrets from Lee Reilly]]></title>
-            <link>https://www.dotnetweekly.com/articles/github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly</link>
-            <guid>https://www.dotnetweekly.com/articles/github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly</guid>
-            <pubDate>Mon, 13 Apr 2020 05:24:27 GMT</pubDate>
-            <content:encoded><![CDATA[I’ve been using GitHub as an engineering, business development, and marketing manager for over 10 years now—quite the career trajectory! Along the way, I’ve picked up a few tricks to manage my notifications, quickly locate content and create pull requests, push markdown to its limits, and personalize my experience with some third party extensions. I’m sharing a few of my favorites, and hopefully there’s something new and helpful for you.
+            <title><![CDATA[How to run locally build docker images with Kubernetes]]></title>
+            <link>https://www.dotnetweekly.com/articles/how-to-run-locally-build-docker-images-with-kubernetes</link>
+            <guid>https://www.dotnetweekly.com/articles/how-to-run-locally-build-docker-images-with-kubernetes</guid>
+            <pubDate>Wed, 22 Apr 2020 20:16:28 GMT</pubDate>
+            <content:encoded><![CDATA[To run Kubernetes in your local environment, Minikube is your choice. Minikube is a lightweight Kubernetes implementation that creates a Virtual Machine on your local machine and deploys a simple cluster containing only one node. By default, Minikube will always pull the docker images from the docker repository. To test locally build docker images with Minikube, you got to tell Minikube to refer them from your local system, instead of fetching from the docker registry. There are various ways to tell Minikube to look for local docker images. In this post, we’ll see how to run locally build docker images with Kubernetes.
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Mobius – .NET runtime running on .NET Core]]></title>
-            <link>https://www.dotnetweekly.com/articles/mobius-net-runtime-running-on-net-core</link>
-            <guid>https://www.dotnetweekly.com/articles/mobius-net-runtime-running-on-net-core</guid>
-            <pubDate>Mon, 13 Apr 2020 05:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[.NET application is “just” a piece of CIL bytecode to be executed by the .NET runtime. And .NET runtime is “just” a program that is able to perform this task. It happens that currently .NET Framework/.NET Core runtimes are written in C++. I am also fully aware of CoreRT that was .NET runtime with many parts rewritten to C# (like type system) but still, crucial parts (including JIT compiler and the GC) were left written in C++.]]></content:encoded>
+            <title><![CDATA[Intro to Azure CLI for Azure SQL]]></title>
+            <link>https://www.dotnetweekly.com/articles/intro-to-azure-cli-for-azure-sql</link>
+            <guid>https://www.dotnetweekly.com/articles/intro-to-azure-cli-for-azure-sql</guid>
+            <pubDate>Wed, 22 Apr 2020 20:14:17 GMT</pubDate>
+            <content:encoded><![CDATA[In this video, Anna Hoffman and Jeroen ter Heerdt discuss and show how you can get started with Azure CLI and the Azure Cloud Shell with respect to Azure SQL. For more info, see https://docs.microsoft.com/en-us/cli/azure/sql/db?view=azure-cli-latest&WT.mc_id=dataexposed-c9-niner.
+
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Cloud Concepts - Principles of cloud computing]]></title>
+            <link>https://www.dotnetweekly.com/articles/cloud-concepts-principles-of-cloud-computing</link>
+            <guid>https://www.dotnetweekly.com/articles/cloud-concepts-principles-of-cloud-computing</guid>
+            <pubDate>Wed, 22 Apr 2020 19:08:19 GMT</pubDate>
+            <content:encoded><![CDATA[Explore the core concepts of cloud computing and how it can help your business.
+
+In this module, you will:
+
+Explore common cloud computing services
+Explore the benefits of cloud computing
+Decide which cloud deployment model is best for you]]></content:encoded>
         </item>
     </channel>
 </rss>
