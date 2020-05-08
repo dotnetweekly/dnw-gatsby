@@ -1,3 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/configuring-azure-services-and-emulators-using-visual-studio</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/breaking-the-relational-model</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/net-portability-analyzer</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-mlnet-for-deep-learning-on-images-in-azure</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/configure-a-domain-for-an-azure-app-service-using-cloudflare</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/azure-charts-visualize-your-cloud-learning-journey</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/messaging-with-azure-service-bus-part-7-topics-and-subscriptions</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/dynamic-routing-in-aspnet-core-3</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/c-source-generators-less-boilerplate-code-more-productivity</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/strategy-pattern-implementation-with-typescript-and-angular</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/cqrs</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/top-10-books-every-net-c-developer-should-read</loc> </url>
 </urlset>
