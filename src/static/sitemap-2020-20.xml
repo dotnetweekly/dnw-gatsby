@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/ever-wonder-how-much-time-it-takes-to-learn-blazor-only-368-minutes</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/pacco-sample-microservices-solution-in-net-core-31-based-on-the-cloud-agnostic-approach</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/microsoft-ignite-september-2020</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/docfx-is-an-open-source-static-site-generator</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/referencing-an-analyzer-from-a-project</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/getting-started-with-visual-studio-codespaces-cloud-ide</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/why-use-dtos-data-transfer-objects</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/ef-core-and-cosmos-db-with-blazor-webassembly</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-dapper-in-aspnet-core-applications</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/consuming-message-queues-using-net-core-background-workers-part-1-message-queues</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/handling-integration-tests-in-a-ci-pipeline-part-1</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/how-to-implement-producer-consumer-with-systemthreadingchannels</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/https-lobsters-s-orn1gj-web-desktop-report-designers-for</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/integration-testing-complete-overview</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/powershell-7-video-series</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/save-money-on-azure-with-cost-analysis-and-free-tools</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/web-api-testing</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/deploying-a-static-site-to-azure-using-the-az-cli</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/building-end-to-end-diagnostics-opentelemetry-integration</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/decompilation-support-in-omnisharp-and-c-extension-for-vs-code</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/nopcommerce-running-in-azure-paas</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/aspnet-core-apps-observability</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/why-model-binding-to-jobject-from-a-request-doesnt-work-anymore-in-aspnet-core-31-and-whats-the-alt</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/integrate-ndepend-2020-into-your-net-core-projects</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/why-you-should-prefer-singleton-pattern-over-a-static-class</loc> </url>
+</urlset>
