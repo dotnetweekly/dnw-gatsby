@@ -1,212 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>dotNET Weekly - Week 20 Year 2020</title>
-        <link>https://www.dotnetweekly.com/week/20/year/2020?feed=rss</link>
+        <title>dotNET Weekly - Week undefined Year undefined</title>
+        <link>https://www.dotnetweekly.com/week/undefined/year/undefined?feed=rss</link>
         <description></description>
-        <lastBuildDate>Mon, 18 May 2020 03:54:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 May 2020 04:27:26 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <category>Articles</category>
-        <category>Events-training</category>
-        <category>Videos</category>
-        <category>Libraries-Tools</category>
         <item>
-            <title><![CDATA[Ever wonder how much time it takes to learn Blazor? Only 368 minutes!]]></title>
-            <link>https://www.dotnetweekly.com/articles/ever-wonder-how-much-time-it-takes-to-learn-blazor-only-368-minutes</link>
-            <guid>https://www.dotnetweekly.com/articles/ever-wonder-how-much-time-it-takes-to-learn-blazor-only-368-minutes</guid>
-            <pubDate>Fri, 15 May 2020 10:50:27 GMT</pubDate>
-            <content:encoded><![CDATA[This application is a very simple ASP.NET Core application, which crawls and outputs a generated Razor Page, which shows how much time is needed to read through the full ASP.NET Core Docs. I was interested primarily how much time it would take to learn Blazor A-Z, so I decided to calculate it programatically. It was just one more step to calculate it for the entire documentation site. As it turns out, if you concentrate on reading through the docs, <b>you can learn Blazor in about 368 minutes</b>, so less than a full workday! The entire documentation page takes 5691 minutes, which means you can be adept in all thing ASP.NET Core in 3 days, 22 hours and 51 minutes!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Pacco - sample microservices solution in .NET Core 3.1 based on the cloud-agnostic approach.]]></title>
-            <link>https://www.dotnetweekly.com/articles/pacco-sample-microservices-solution-in-net-core-31-based-on-the-cloud-agnostic-approach</link>
-            <guid>https://www.dotnetweekly.com/articles/pacco-sample-microservices-solution-in-net-core-31-based-on-the-cloud-agnostic-approach</guid>
-            <pubDate>Fri, 15 May 2020 05:46:10 GMT</pubDate>
-            <content:encoded><![CDATA[Link to the repository can be found in the first sentence of a blog post:
+            <title><![CDATA[Introducing App Service Static Web Apps]]></title>
+            <link>https://www.dotnetweekly.com/articles/introducing-app-service-static-web-apps</link>
+            <guid>https://www.dotnetweekly.com/articles/introducing-app-service-static-web-apps</guid>
+            <pubDate>Wed, 20 May 2020 04:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[Modern web apps are increasingly adopting static front-end design patterns with client-side processing powered by JavaScript. This paradigm requires us to think differently about how we deploy and host web apps that don’t rely on web servers and consequently require a new structure of supporting cloud resources. This week at Build, our annual celebration of all things developer, we are happy to announce that Azure App Service has been expanded with a new hosting offer tailored specifically for static web apps, empowering developers to focus on the business logic that differentiates their apps rather than the infrastructure that hosts them.
 
-https://github.com/devmentors/Pacco]]></content:encoded>
+App Service Static Web Apps is now available in preview for developers building modern, full-stack JavaScript web apps with static front-ends and optional dynamic back-ends powered by serverless APIs.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Microsoft Ignite - September 2020]]></title>
-            <link>https://www.dotnetweekly.com/articles/microsoft-ignite-september-2020</link>
-            <guid>https://www.dotnetweekly.com/articles/microsoft-ignite-september-2020</guid>
-            <pubDate>Fri, 15 May 2020 03:50:50 GMT</pubDate>
-            <content:encoded><![CDATA[Microsoft Ignite will be launched as a complimentary digital event experience this September. Join us to learn innovative ways to build solutions, migrate and manage your infrastructure, and connect with Microsoft experts and other technology professionals from around the globe.
-
-]]></content:encoded>
+            <title><![CDATA[Implementing always signed in with ASP.NET Core and Azure]]></title>
+            <link>https://www.dotnetweekly.com/articles/implementing-always-signed-in-with-aspnet-core-and-azure</link>
+            <guid>https://www.dotnetweekly.com/articles/implementing-always-signed-in-with-aspnet-core-and-azure</guid>
+            <pubDate>Tue, 19 May 2020 05:54:56 GMT</pubDate>
+            <content:encoded><![CDATA[Learn about how to implement an always signed in/never sign out feature with ASP.NET Core. Also covers enabling data protection when hosting on Azure.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[DocFX is an open source, static site generator]]></title>
-            <link>https://www.dotnetweekly.com/articles/docfx-is-an-open-source-static-site-generator</link>
-            <guid>https://www.dotnetweekly.com/articles/docfx-is-an-open-source-static-site-generator</guid>
-            <pubDate>Fri, 15 May 2020 03:50:01 GMT</pubDate>
-            <content:encoded><![CDATA[DocFX is an open source, static site generator that can produce documentation from source code as well as Markdown files.
-
-In this episode, Den Delimarsky comes on to show us how to get started with using DocFx to create our down documentation.
-
-[00:49] - What does the Microsoft Docs team work on?
-[01:44] - What does DocFX do?
-[03:11] - Where to get started?
-[04:08] - Creating a new DocFx project with the CLI
-[12:42] - What are some other uses for DocFx?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Referencing an analyzer from a project]]></title>
-            <link>https://www.dotnetweekly.com/articles/referencing-an-analyzer-from-a-project</link>
-            <guid>https://www.dotnetweekly.com/articles/referencing-an-analyzer-from-a-project</guid>
-            <pubDate>Fri, 15 May 2020 03:48:08 GMT</pubDate>
-            <content:encoded><![CDATA[This post is part of the series 'Roslyn Analyzers'. Be sure to check out the rest of the blog posts of the series!
-
-Writing a Roslyn analyzer
-Writing a language-agnostic Roslyn Analyzer using IOperation
-Working with types in a Roslyn analyzer
-Referencing an analyzer from a project (this post)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Getting Started with Visual Studio Codespaces – Cloud IDE]]></title>
-            <link>https://www.dotnetweekly.com/articles/getting-started-with-visual-studio-codespaces-cloud-ide</link>
-            <guid>https://www.dotnetweekly.com/articles/getting-started-with-visual-studio-codespaces-cloud-ide</guid>
-            <pubDate>Fri, 15 May 2020 03:47:44 GMT</pubDate>
-            <content:encoded><![CDATA[The Visual Studio Codespaces (formerly Visual Studio Online / VSO) web-based IDE is now available to be used. Based on the popular Visual Studio Code editor, it offers a familiar feel and workspace for writing and working with source code.. This also offers the extensibility of supporting Visual Studio Code extensions, although at this time we don’t know how many or which VS Code extensions will be supported.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Why use DTOs (Data Transfer Objects)?]]></title>
-            <link>https://www.dotnetweekly.com/articles/why-use-dtos-data-transfer-objects</link>
-            <guid>https://www.dotnetweekly.com/articles/why-use-dtos-data-transfer-objects</guid>
-            <pubDate>Fri, 15 May 2020 03:29:04 GMT</pubDate>
-            <content:encoded><![CDATA[Should you really use DTOs (Data Transfer Objects)? Seem like a lot of work mapping your database entities to another object? Why Bother? The simple answer is coupling.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[EF Core and Cosmos DB with Blazor WebAssembly]]></title>
-            <link>https://www.dotnetweekly.com/articles/ef-core-and-cosmos-db-with-blazor-webassembly</link>
-            <guid>https://www.dotnetweekly.com/articles/ef-core-and-cosmos-db-with-blazor-webassembly</guid>
-            <pubDate>Fri, 15 May 2020 03:27:12 GMT</pubDate>
-            <content:encoded><![CDATA[It all began as a simple idea. I’ve been speaking with customers about Entity Framework Core (EF Core) and was intrigued by the popularity of using EF Core to access Cosmos DB. I’m a huge fan of Cosmos DB and have worked with it since it evolved from Azure DocumentDB. It wasn’t clear to me why anyone would want to use EF Core when Cosmos DB has its own SDK.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Using Dapper in ASP.NET Core applications]]></title>
-            <link>https://www.dotnetweekly.com/articles/using-dapper-in-aspnet-core-applications</link>
-            <guid>https://www.dotnetweekly.com/articles/using-dapper-in-aspnet-core-applications</guid>
-            <pubDate>Fri, 15 May 2020 03:21:42 GMT</pubDate>
-            <content:encoded><![CDATA[Times ago I blogged about micro ORM-s. I have been busy through all Covid-19 times learning technical side of DDD and during that I met again my old friend Dapper. There are applications where Dapper is used to query read-only data without overhead coming with ORM-s. Also there are simple applications where for one or another reason developers decided to keep as close to raw SQL as possible. This blog post is brief introduction to Dapper anbd how to use it in ASP.NET Core applications.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Consuming message queues using .net core background workers - part 1: message queues]]></title>
-            <link>https://www.dotnetweekly.com/articles/consuming-message-queues-using-net-core-background-workers-part-1-message-queues</link>
-            <guid>https://www.dotnetweekly.com/articles/consuming-message-queues-using-net-core-background-workers-part-1-message-queues</guid>
-            <pubDate>Fri, 15 May 2020 02:07:10 GMT</pubDate>
-            <content:encoded><![CDATA[In this series we'll talk a bit about message queues with RabbitMQ and how to integrate it in a C# WebAPI application using Background Workers.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Handling Integration Tests in a CI pipeline - part 1]]></title>
-            <link>https://www.dotnetweekly.com/articles/handling-integration-tests-in-a-ci-pipeline-part-1</link>
-            <guid>https://www.dotnetweekly.com/articles/handling-integration-tests-in-a-ci-pipeline-part-1</guid>
-            <pubDate>Fri, 15 May 2020 02:06:11 GMT</pubDate>
-            <content:encoded><![CDATA[Integration Tests are a fundamental block of every project. And as such, they deserve a special treatment in the CI pipeline.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[How to implement Producer/Consumer with System.Threading.Channels]]></title>
-            <link>https://www.dotnetweekly.com/articles/how-to-implement-producer-consumer-with-systemthreadingchannels</link>
-            <guid>https://www.dotnetweekly.com/articles/how-to-implement-producer-consumer-with-systemthreadingchannels</guid>
-            <pubDate>Fri, 15 May 2020 02:03:40 GMT</pubDate>
-            <content:encoded><![CDATA[In this article we'll discover what Producer/Consumer means and how we can leverage the .NET Core library System.Threading.Channels to implement it.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[https://lobste.rs/s/orn1gj/web_desktop_report_designers_for]]></title>
-            <link>https://www.dotnetweekly.com/articles/https-lobsters-s-orn1gj-web-desktop-report-designers-for</link>
-            <guid>https://www.dotnetweekly.com/articles/https-lobsters-s-orn1gj-web-desktop-report-designers-for</guid>
-            <pubDate>Thu, 14 May 2020 19:37:37 GMT</pubDate>
-            <content:encoded><![CDATA[Learn more about the Telerik Reporting .NET Report Designers for web and desktop - designer capabilities, specific features, where to get the most up-to-date information, and what report designers and developers can achieve with these. ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Integration Testing Complete Overview]]></title>
-            <link>https://www.dotnetweekly.com/articles/integration-testing-complete-overview</link>
-            <guid>https://www.dotnetweekly.com/articles/integration-testing-complete-overview</guid>
-            <pubDate>Thu, 14 May 2020 12:46:48 GMT</pubDate>
-            <content:encoded><![CDATA[Integration testing primarily focuses on verifying data communication among different modules of the software project. Integration tests determine the effectiveness and performance of different software modules when they are connected to each other.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[PowerShell 7 Video Series]]></title>
-            <link>https://www.dotnetweekly.com/articles/powershell-7-video-series</link>
-            <guid>https://www.dotnetweekly.com/articles/powershell-7-video-series</guid>
-            <pubDate>Tue, 12 May 2020 18:26:20 GMT</pubDate>
-            <content:encoded><![CDATA[As a part of our PowerShell 7 release, the PowerShell Team put together a series of videos explaining and demoing aspects of the release. The intent of these videos was for User Groups to host events celebrating and discussing PowerShell 7, however, in light of the current guidance against group gatherings, we have decided to make these videos available publicly on the PowerShell Team YouTube channel.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Save money on Azure with cost analysis and free tools]]></title>
-            <link>https://www.dotnetweekly.com/articles/save-money-on-azure-with-cost-analysis-and-free-tools</link>
-            <guid>https://www.dotnetweekly.com/articles/save-money-on-azure-with-cost-analysis-and-free-tools</guid>
-            <pubDate>Tue, 12 May 2020 18:20:54 GMT</pubDate>
-            <content:encoded><![CDATA[Microsoft Azure is an awesome cloud platform. We have been hosting elmah.io on Azure since day one. To say that Azure is expensive is probably not fair. But the easy point-and-click interface and the advanced scaling options can quickly cause your bill to grow out of control. In this post, I'll go through some of the things we have done and still do to keep our Azure bill as low as possible.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Web Api Testing]]></title>
-            <link>https://www.dotnetweekly.com/articles/web-api-testing</link>
-            <guid>https://www.dotnetweekly.com/articles/web-api-testing</guid>
-            <pubDate>Tue, 12 May 2020 18:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[This project is a demonstration on how to do Web Api testing using Test Server. Instead of doing traditional unit tests where you write tests for each layer of your application. You can use Test Server and achieve a high level of code coverage but at the same time writing less code with lower maintenance.
-
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Deploying a Static Site to Azure Using the az CLI]]></title>
-            <link>https://www.dotnetweekly.com/articles/deploying-a-static-site-to-azure-using-the-az-cli</link>
-            <guid>https://www.dotnetweekly.com/articles/deploying-a-static-site-to-azure-using-the-az-cli</guid>
-            <pubDate>Tue, 12 May 2020 18:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[I was recently working on a project where the frontend was built in React. The project was hosted on Azure and we wanted to use Azure CDN to host the React app. I have been looking at the az cli recently and decided to use it on this project to script the setup of resources and deployments to Azure.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Building End-to-End Diagnostics: OpenTelemetry Integration]]></title>
-            <link>https://www.dotnetweekly.com/articles/building-end-to-end-diagnostics-opentelemetry-integration</link>
-            <guid>https://www.dotnetweekly.com/articles/building-end-to-end-diagnostics-opentelemetry-integration</guid>
-            <pubDate>Tue, 12 May 2020 18:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[In the last post, we looked at providing diagnostic event hooks into our code at specific points so that "something" could listen in. For our purposes, we want to listen in to surface telemetry data, but the uses are far wider for diagnostic events, such as logging, testing, and metrics. We want to focus on telemetry through the OpenTelemetry project.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Decompilation support in OmniSharp and C# Extension for VS Code]]></title>
-            <link>https://www.dotnetweekly.com/articles/decompilation-support-in-omnisharp-and-c-extension-for-vs-code</link>
-            <guid>https://www.dotnetweekly.com/articles/decompilation-support-in-omnisharp-and-c-extension-for-vs-code</guid>
-            <pubDate>Tue, 12 May 2020 18:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[One of the nice new features that we shipped in OmniSharp recently, and that has already made its way into the C# Extension for VS Code is support for decompilation. It was released in April as part of 1.35.0 release of OmniSharp. Let's have a quick look at how you can get it up and running.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[nopCommerce running in Azure (PaaS)]]></title>
-            <link>https://www.dotnetweekly.com/articles/nopcommerce-running-in-azure-paas</link>
-            <guid>https://www.dotnetweekly.com/articles/nopcommerce-running-in-azure-paas</guid>
-            <pubDate>Tue, 12 May 2020 18:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[nopCommerce is a leading ASP.NET online shop e-commerce solution. nopCommerce can be installed and set-up by anyone with the most basic web site building and computer skills. nopCommerce is a secure, scalable and extendable e-commerce platform. It has user friendly administration tools to manage your storefront, customers, wish lists, discounts, and coupons. It also has multi-store and multi-vendor support, flexible tax support, multi-lingual support, and hundreds of other features. Support for the most popular gateways: Authorize.net, PayPal, and more.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ASP.NET Core Apps Observability]]></title>
-            <link>https://www.dotnetweekly.com/articles/aspnet-core-apps-observability</link>
-            <guid>https://www.dotnetweekly.com/articles/aspnet-core-apps-observability</guid>
-            <pubDate>Tue, 12 May 2020 18:14:13 GMT</pubDate>
-            <content:encoded><![CDATA[Modern software development practices value quick and continuous updates, following processes that minimize the impact of software failures. As important as identifying bugs early, finding out if changes are improving business value are equally important. These practices can only work when a monitoring solution is in place. This article explores options for adding observability to .NET Core apps. They have been collected based on interactions with customers using .NET Core in different environments. We will be looking into OpenTelemetry and Application Insights SDKs to add observability to a sample distributed application.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Why model binding to JObject from a request doesn’t work anymore in ASP.NET Core 3.1 and what’s the alternative ?]]></title>
-            <link>https://www.dotnetweekly.com/articles/why-model-binding-to-jobject-from-a-request-doesnt-work-anymore-in-aspnet-core-31-and-whats-the-alt</link>
-            <guid>https://www.dotnetweekly.com/articles/why-model-binding-to-jobject-from-a-request-doesnt-work-anymore-in-aspnet-core-31-and-whats-the-alt</guid>
-            <pubDate>Mon, 11 May 2020 22:25:49 GMT</pubDate>
-            <content:encoded><![CDATA[Json.Net (NewtonSoft) has been for a long time the most used JSON serializer in .NET world. Since .NET Core 3 and ASP.NET Core 3 Microsoft introduced a new one named System.Text.Json. JObject is a class that belongs to Json.Net (NewtonSoft) and if this latest is replaced by System.Text.Json, in this case you should expect that using JObject will no longer work. Unfortunately I have had to deal with JObject in request payloads and in this article I will show you how to live without JObject and how replace it without breaking your application.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Integrate NDepend 2020 into your .NET Core projects]]></title>
-            <link>https://www.dotnetweekly.com/articles/integrate-ndepend-2020-into-your-net-core-projects</link>
-            <guid>https://www.dotnetweekly.com/articles/integrate-ndepend-2020-into-your-net-core-projects</guid>
-            <pubDate>Mon, 11 May 2020 21:35:40 GMT</pubDate>
-            <content:encoded><![CDATA[In computer science and software engineering in particular, software quality is an overall assessment of software, based on numerous indicators.
-Comprehensiveness of functionality, correctness and accuracy of results, reliability, fault tolerance, ease and flexibility of use, simplicity, extensibility, compatibility and portability, ease of correction and transformation, performance, consistency and integrity of the information it contains are all quality factors.
-In software engineering, factoring data and code is the universal way to get quality.
-We will talk in this article about NDepend, a tool to help software developers achieve a high level of quality in their programs.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Why You Should Prefer Singleton Pattern over a Static Class]]></title>
-            <link>https://www.dotnetweekly.com/articles/why-you-should-prefer-singleton-pattern-over-a-static-class</link>
-            <guid>https://www.dotnetweekly.com/articles/why-you-should-prefer-singleton-pattern-over-a-static-class</guid>
-            <pubDate>Mon, 11 May 2020 13:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[Creating a singleton class or static class doesn't matter, it is not a good practice. However, in practice, it can be unavoidable at some points. So, which one we should prefer? While the article title already answers this question, I will explain the details of this decision in this article.]]></content:encoded>
+            <title><![CDATA[Conway's Game of Life with Blazor]]></title>
+            <link>https://www.dotnetweekly.com/articles/conways-game-of-life-with-blazor</link>
+            <guid>https://www.dotnetweekly.com/articles/conways-game-of-life-with-blazor</guid>
+            <pubDate>Mon, 18 May 2020 05:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[Do you know what a cellular automaton is? Then let's find it out and how we can quickly implement Conway's Game of Life using Blazor and .NET Core!]]></content:encoded>
         </item>
     </channel>
 </rss>
