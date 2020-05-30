@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/fluent-validation-in-aspnet-core-3-powerful-validations</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/how-microsoft-is-making-edge-the-best-browser-for-pwas</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/how-does-aspnet-core-processes-a-request</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/libraries-tools/from-microsoft-teams-to-fluid-frameworkheres-whats-new-and-coming-soon-to-microsoft-365</loc> </url>
@@ -11,6 +12,9 @@
 <url> <loc>https://www.dotnetweekly.com/articles/welcome-to-c-90</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/introducing-net-multi-platform-app-ui</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/videos/build-native-apps-for-any-device-with-net</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/carostris-a-blazor-webassembly-spotify-client</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/blakeonlan-a-100-line-wake-on-lan-app-using-blazor-server-to-wake-your-devices-remotely-on-your-hom</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-azure-key-vault-with-aspnet-core</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/serilog-in-aspnet-core-31-structured-logging-made-easy</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/refresh-tokens-in-aspnet-core-apis-jwt-authentication</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/blazor-how-tos-create-a-chat-application-part-1-introduction</loc> </url>
