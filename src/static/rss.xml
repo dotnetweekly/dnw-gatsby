@@ -4,188 +4,137 @@
         <title>dotNET Weekly - Week undefined Year undefined</title>
         <link>https://www.dotnetweekly.com/week/undefined/year/undefined?feed=rss</link>
         <description></description>
-        <lastBuildDate>Sat, 30 May 2020 02:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jun 2020 14:30:17 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <category>Articles</category>
-        <category>Libraries-Tools</category>
-        <category>Videos</category>
         <item>
-            <title><![CDATA[Fluent Validation in ASP.NET Core 3 – Powerful Validations]]></title>
-            <link>https://www.dotnetweekly.com/articles/fluent-validation-in-aspnet-core-3-powerful-validations</link>
-            <guid>https://www.dotnetweekly.com/articles/fluent-validation-in-aspnet-core-3-powerful-validations</guid>
-            <pubDate>Fri, 29 May 2020 18:05:52 GMT</pubDate>
-            <content:encoded><![CDATA[When it comes to Validating Models, aren’t we all leaning towards Data Annotations? There are quite a lot of serious issues with this approach for a scalable system. There is a library, Fluent Validations that can turn up the validation game to a whole new level, giving you total control.
-
-In this article, we will talk about Fluent Validation and it’s implementation in ASP.NET Core Applications. We will discuss the preferred alternative to Data Annotations and implement it in an ASP.Net core API. ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[How Microsoft is making Edge the best browser for PWAs]]></title>
-            <link>https://www.dotnetweekly.com/articles/how-microsoft-is-making-edge-the-best-browser-for-pwas</link>
-            <guid>https://www.dotnetweekly.com/articles/how-microsoft-is-making-edge-the-best-browser-for-pwas</guid>
-            <pubDate>Fri, 29 May 2020 02:05:46 GMT</pubDate>
-            <content:encoded><![CDATA[In recent years Progressive Web Apps have become a growing trend, pushed by web giants and mobile developers alike, as they allow to bring native-like experiences to any platform.
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[How does ASP.NET Core processes a request?]]></title>
-            <link>https://www.dotnetweekly.com/articles/how-does-aspnet-core-processes-a-request</link>
-            <guid>https://www.dotnetweekly.com/articles/how-does-aspnet-core-processes-a-request</guid>
-            <pubDate>Fri, 29 May 2020 02:03:57 GMT</pubDate>
-            <content:encoded><![CDATA[In this post, I’ll explain how a request comes into the ASP.NET Core web server and how it returns a response to the browser.
+            <title><![CDATA[Dynamically Build LINQ Expressions]]></title>
+            <link>https://www.dotnetweekly.com/articles/dynamically-build-linq-expressions</link>
+            <guid>https://www.dotnetweekly.com/articles/dynamically-build-linq-expressions</guid>
+            <pubDate>Fri, 05 Jun 2020 14:23:11 GMT</pubDate>
+            <content:encoded><![CDATA[LINQ stands for Language Integrated Query and is one of my favorite .NET and C# technologies. Using LINQ, developers can write queries directly in strongly typed code. LINQ provides a standard language and syntax that is consistent across data sources.
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[From Microsoft Teams to Fluid Framework—here’s what’s new and coming soon to Microsoft 365]]></title>
-            <link>https://www.dotnetweekly.com/articles/from-microsoft-teams-to-fluid-frameworkheres-whats-new-and-coming-soon-to-microsoft-365</link>
-            <guid>https://www.dotnetweekly.com/articles/from-microsoft-teams-to-fluid-frameworkheres-whats-new-and-coming-soon-to-microsoft-365</guid>
-            <pubDate>Fri, 29 May 2020 02:01:49 GMT</pubDate>
-            <content:encoded><![CDATA[It’s opening day for Build, and the first time we’re holding our annual developer conference entirely online. In this era of remote everything, technology is enabling us to keep providing experiences like Build even though we can’t meet in person. As CEO Satya Nadella put it recently, “We’ve seen two years’ of digital transformation in two months.” And as a company, we are so excited to translate what we’ve learned into new features and enhancements that help our customers stay productive and connected. At a moment when we’re all adapting to an evolving reality, these experiences are designed to enable you to keep work moving, no matter what.
+            <title><![CDATA[Building an Azure Static Web App With GraphQL]]></title>
+            <link>https://www.dotnetweekly.com/articles/building-an-azure-static-web-app-with-graphql</link>
+            <guid>https://www.dotnetweekly.com/articles/building-an-azure-static-web-app-with-graphql</guid>
+            <pubDate>Fri, 05 Jun 2020 00:04:12 GMT</pubDate>
+            <content:encoded><![CDATA[At Microsoft Build we launched the preview of a new product, Azure Static Web Apps. This is a product I've been wanting for years on Azure as I've done a lot of static websites on Azure (see Cutting Azure Costs for DDD Sydney) but they were always been a bit clunky, especially when it comes to integration with a backend. I have it working for some apps, but there's a lot of infrastructure overhead.
+
+But now, with Static Web Apps, it's a whole lot easier as it's designed for this by using a combination of static hosting and Azure Functions. We've got some fantastic docs (I wrote the Hugo, Gatsby and VuePress docs 😉) that will get you up and running on all things Static Web Apps.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Streamlining your image building process with Azure Image Builder]]></title>
+            <link>https://www.dotnetweekly.com/articles/streamlining-your-image-building-process-with-azure-image-builder</link>
+            <guid>https://www.dotnetweekly.com/articles/streamlining-your-image-building-process-with-azure-image-builder</guid>
+            <pubDate>Fri, 05 Jun 2020 00:01:48 GMT</pubDate>
+            <content:encoded><![CDATA[Customizing virtual machine (VM) images to meet security and compliance requirements and achieve faster deployment is a strong need for many enterprises, but most don't enjoy the process and energy needed for determining the right tooling, building the right pipeline, and maintaining it continuously.
+
+We built Azure Image Builder service to make building customized images easy in Azure.
+
+Azure Image Builder service offers unification and simplification for your image building process across Azure and Azure Stack with an automated image building pipeline. Whether you want to build Windows or Linux virtual machine images, you can use existing image security configurations to build compliant images for your organization and patch existing custom images using Linux commands or Windows Update. Azure Image Builder supports images from multiple Linux distributions, Azure Marketplace, and Windows Virtual Desktop environments and you can build images for specialized VM sizes, including creating images for GPU VMs.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[.NET async/await in a single picture]]></title>
+            <link>https://www.dotnetweekly.com/articles/net-async-await-in-a-single-picture</link>
+            <guid>https://www.dotnetweekly.com/articles/net-async-await-in-a-single-picture</guid>
+            <pubDate>Thu, 04 Jun 2020 23:59:43 GMT</pubDate>
+            <content:encoded><![CDATA[The main power behind async/await is that while we “await” on an ongoing I/O operation, the calling thread may be released for doing other work. And this provides a great thread re-usability. Thus, better scalability – much smaller number of threads is able to handle the same amount of operations comparing to asynchronous/waiting approach.
+
+The main role here plays so-called overlapped I/O (in case of Windows) which allows to asynchronously delegate the I/O operation to the operating system, and only after completion the provided callback will notify us about the result. The main workforce here is so-called I/O completion port (IOCP).]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft Build 2020 – Highlights for .NET Developers]]></title>
+            <link>https://www.dotnetweekly.com/articles/microsoft-build-2020-highlights-for-net-developers</link>
+            <guid>https://www.dotnetweekly.com/articles/microsoft-build-2020-highlights-for-net-developers</guid>
+            <pubDate>Thu, 04 Jun 2020 23:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[Over the course of the last three days, Microsoft Build 2020 released a flood of news and announcements. For those of us who follow the .NET ecosystem, it can be difficult to wade through them all!
+
+I’ve collected a list of announcements that I think are interesting as a .NET developer, and added short summaries. The announcements are grouped into four categories: ASP.NET, .NET, Visual Studio and Windows.
+
+In addition, each category is split into "released" (you can use it now!) or "preview / announced" (you can test it out now, or soon).
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[The Windows Subsystem for Linux BUILD 2020 Summary]]></title>
-            <link>https://www.dotnetweekly.com/articles/the-windows-subsystem-for-linux-build-2020-summary</link>
-            <guid>https://www.dotnetweekly.com/articles/the-windows-subsystem-for-linux-build-2020-summary</guid>
-            <pubDate>Fri, 29 May 2020 02:00:10 GMT</pubDate>
-            <content:encoded><![CDATA[This year at an all virtual BUILD conference we had many exciting announcements for the Windows Subsystem for Linux (WSL)! This blog post gives you a summary of all the WSL news, including what’s available now and what you can expect in the future.
+            <title><![CDATA[Continuous integration workflow template for .NET Core desktop apps with GitHub Actions]]></title>
+            <link>https://www.dotnetweekly.com/articles/continuous-integration-workflow-template-for-net-core-desktop-apps-with-github-actions</link>
+            <guid>https://www.dotnetweekly.com/articles/continuous-integration-workflow-template-for-net-core-desktop-apps-with-github-actions</guid>
+            <pubDate>Thu, 04 Jun 2020 23:57:35 GMT</pubDate>
+            <content:encoded><![CDATA[We know how time consuming it can be to quickly set up continuous integration and continuous deployment workflows (CI/CD) for your WPF and Windows Forms desktop applications.
 
-]]></content:encoded>
+That’s why, in cooperation with the GitHub Actions team, we have released a starter workflow in GitHub to help you quickly set up and showcase DevOps for your applications using the recently released GitHub Actions.
+
+With GitHub Actions, you can quickly and easily automate your software workflows with CI/CD.
+
+Integrate code changes directly into GitHub to speed up development cycles
+Trigger builds to quickly identify build breaks and create testable debug builds
+Continuously run tests to identify and eliminate bugs
+Automatically sign, package and deploy branches that pass tests]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Manage your cloud and hybrid environments like a pro with event-based automation]]></title>
-            <link>https://www.dotnetweekly.com/articles/manage-your-cloud-and-hybrid-environments-like-a-pro-with-event-based-automation</link>
-            <guid>https://www.dotnetweekly.com/articles/manage-your-cloud-and-hybrid-environments-like-a-pro-with-event-based-automation</guid>
-            <pubDate>Fri, 29 May 2020 01:59:54 GMT</pubDate>
-            <content:encoded><![CDATA[Azure Functions support for PowerShell brings a common event-driven platform that developers & IT pros can use to orchestrate automation tasks through an end-to-end development experience within Visual Studio Code and integration with other Azure services - such as Logic Apps, Event Grid, or Azure Monitor. Join us to learn some canonical scenarios of event-based automation that will help you and your teams automate tasks, control costs, or processing alerts in real-time without polling for them.
+            <title><![CDATA[Conditional HTML Rendering with Microsoft Feature Flags (Microsoft.FeatureManagement)]]></title>
+            <link>https://www.dotnetweekly.com/articles/conditional-html-rendering-with-microsoft-feature-flags-microsoftfeaturemanagement</link>
+            <guid>https://www.dotnetweekly.com/articles/conditional-html-rendering-with-microsoft-feature-flags-microsoftfeaturemanagement</guid>
+            <pubDate>Thu, 04 Jun 2020 23:56:42 GMT</pubDate>
+            <content:encoded><![CDATA[This is part seven in a series of articles.
 
-]]></content:encoded>
+You can render HTML in your views based on whether or not a feature flag is enable or disabled. To do this you can make use of the FeatureTagHelper.
+
+For example suppose the following Printing feature is configured to be off in the appsettings.json:]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Introducing App Service Static Web Apps]]></title>
-            <link>https://www.dotnetweekly.com/articles/introducing-app-service-static-web-apps</link>
-            <guid>https://www.dotnetweekly.com/articles/introducing-app-service-static-web-apps</guid>
-            <pubDate>Fri, 29 May 2020 01:58:49 GMT</pubDate>
-            <content:encoded><![CDATA[Modern web apps are increasingly adopting static front-end design patterns with client-side processing powered by JavaScript. This paradigm requires us to think differently about how we deploy and host web apps that don’t rely on web servers and consequently require a new structure of supporting cloud resources. This week at Build, our annual celebration of all things developer, we are happy to announce that Azure App Service has been expanded with a new hosting offer tailored specifically for static web apps, empowering developers to focus on the business logic that differentiates their apps rather than the infrastructure that hosts them.
-
-]]></content:encoded>
+            <title><![CDATA[ASP.NET Core 3.1 Webhook Implementation Using Pub/Sub Pattern]]></title>
+            <link>https://www.dotnetweekly.com/articles/aspnet-core-31-webhook-implementation-using-pub-sub-pattern</link>
+            <guid>https://www.dotnetweekly.com/articles/aspnet-core-31-webhook-implementation-using-pub-sub-pattern</guid>
+            <pubDate>Tue, 02 Jun 2020 10:37:42 GMT</pubDate>
+            <content:encoded><![CDATA[In this article, I will show you the basics of the Webhook mechanism that uses a publish-subscribe pattern in the ASP.NET CORE 3.1 project.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Tackle Big-O Notation in .NET Core]]></title>
-            <link>https://www.dotnetweekly.com/articles/tackle-big-o-notation-in-net-core</link>
-            <guid>https://www.dotnetweekly.com/articles/tackle-big-o-notation-in-net-core</guid>
-            <pubDate>Fri, 29 May 2020 01:57:15 GMT</pubDate>
-            <content:encoded><![CDATA[Performance sensitive code is often overlooked in business apps. This is because high-performance code might not affect outcomes. Concerns with execution times are ignorable if the code finishes in a reasonable time. Apps either meet expectations or not, and performance issues can go undetected. Devs, for the most part, care about business outcomes and performance is the outlier. When response times cross an arbitrary line, everything flips to less than desirable or unacceptable.
-
-]]></content:encoded>
+            <title><![CDATA[Exploring Blazor Project Structure – Blazor For Beginners]]></title>
+            <link>https://www.dotnetweekly.com/articles/exploring-blazor-project-structure-blazor-for-beginners</link>
+            <guid>https://www.dotnetweekly.com/articles/exploring-blazor-project-structure-blazor-for-beginners</guid>
+            <pubDate>Mon, 01 Jun 2020 18:24:43 GMT</pubDate>
+            <content:encoded><![CDATA[In our previous article, Getting Started with Blazor, we discussed the core concepts of the application, different types and comparisons, and much more. In this second part, let’s go in more depth with the Blazor project structure and try to understand the fundamentals of this awesome Application.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[C# Tutorial - Make a flappy bird game in windows form]]></title>
-            <link>https://www.dotnetweekly.com/articles/c-tutorial-make-a-flappy-bird-game-in-windows-form</link>
-            <guid>https://www.dotnetweekly.com/articles/c-tutorial-make-a-flappy-bird-game-in-windows-form</guid>
-            <pubDate>Fri, 29 May 2020 01:27:54 GMT</pubDate>
-            <content:encoded><![CDATA[This is one of the first tutorials I've written for MOOICT, now its on the fully explained tutorials. This video will take you through how to make the flappy bird game in visual studio with Windows form and C# programming. All of the components, images, data types, events and functions are written and explained in the video. Hope you like the video and see you on the next one. ]]></content:encoded>
+            <title><![CDATA[Blazor For Beginners – Getting Started with Blazor]]></title>
+            <link>https://www.dotnetweekly.com/articles/blazor-for-beginners-getting-started-with-blazor</link>
+            <guid>https://www.dotnetweekly.com/articles/blazor-for-beginners-getting-started-with-blazor</guid>
+            <pubDate>Mon, 01 Jun 2020 18:24:14 GMT</pubDate>
+            <content:encoded><![CDATA[In this article, we will discuss the basics of Blazor and the tools required for Blazor Application Development. We will go in-depth with the concept of Blazor, the problem it solves, how to set up the development environment, talk about Server and WebAssembly, fire up your first Blazor Application, and a small comparison of various types of Blazor Projects.
+
+There is quite a hype about Blazor and how awesome it is. It’s truly a game-changer by Microsoft. In this blog series, we will go step-by-step in mastering and getting very familiar with this new Stack. 😀]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Welcome to C# 9.0]]></title>
-            <link>https://www.dotnetweekly.com/articles/welcome-to-c-90</link>
-            <guid>https://www.dotnetweekly.com/articles/welcome-to-c-90</guid>
-            <pubDate>Fri, 29 May 2020 01:27:03 GMT</pubDate>
-            <content:encoded><![CDATA[C# 9.0 is taking shape, and I’d like to share our thinking on some of the major features we’re adding to this next version of the language.
+            <title><![CDATA[Basics of Working with JSON in SQL Server]]></title>
+            <link>https://www.dotnetweekly.com/articles/basics-of-working-with-json-in-sql-server</link>
+            <guid>https://www.dotnetweekly.com/articles/basics-of-working-with-json-in-sql-server</guid>
+            <pubDate>Mon, 01 Jun 2020 06:41:55 GMT</pubDate>
+            <content:encoded><![CDATA[JSON — A Brief Background
 
-]]></content:encoded>
+JSON is an acronym for JavaScript Object Notation, that became popular a little over seventeen years ago. JSON is essentially a data format, it was popularized by Douglas Crockford, a well-known programmer with an interesting history who was also involved in the development of JavaScript. JSON has nearly replaced XML as a cross-platform data exchange format. It is reported to be lightweight and easier to manipulate compared to XML. In AWS CloudFormation, templates, which are actually JSON (or YAML) formatted documents, are used to describe AWS resources when automating deployments.
+
+JSON is also used extensively in NoSQL databases such as the increasingly popular MongoDB. Virtually all the Social Media giants expose APIs that are based on JSON. I am sure you begin to get the idea of how widespread its applications have become. JSON was standardized in 2013 and the latest version of the standard (ECMA-404: The JSON Data Interchange Syntax) was released in 2017. SQL Server introduced support for JSON in SQL Server 2016.
+
+Read more at: https://codingsight.com/basics-of-working-with-json-in-sql-server/]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Introducing .NET Multi-platform App UI]]></title>
-            <link>https://www.dotnetweekly.com/articles/introducing-net-multi-platform-app-ui</link>
-            <guid>https://www.dotnetweekly.com/articles/introducing-net-multi-platform-app-ui</guid>
-            <pubDate>Fri, 29 May 2020 01:26:45 GMT</pubDate>
-            <content:encoded><![CDATA[You can build anything with .NET. It’s one of the main reasons millions of developers choose .NET as the platform for their careers, and companies invest for their businesses. With .NET 5 we begin our journey of unifying the .NET platform, bringing .NET Core and Mono/Xamarin together in one base class library (BCL) and toolchain (SDK).
-
-]]></content:encoded>
+            <title><![CDATA[CQRS - reserving a resource [Microservices .NET]]]></title>
+            <link>https://www.dotnetweekly.com/articles/cqrs-reserving-a-resource-microservices-net</link>
+            <guid>https://www.dotnetweekly.com/articles/cqrs-reserving-a-resource-microservices-net</guid>
+            <pubDate>Mon, 01 Jun 2020 05:48:14 GMT</pubDate>
+            <content:encoded><![CDATA[First demo lesson of our new video course! In this episode we implement new business requirement (reserving the resource) fitting in CQRS & Clean Architecture!]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Build native apps for any device with .NET]]></title>
-            <link>https://www.dotnetweekly.com/articles/build-native-apps-for-any-device-with-net</link>
-            <guid>https://www.dotnetweekly.com/articles/build-native-apps-for-any-device-with-net</guid>
-            <pubDate>Fri, 29 May 2020 01:25:59 GMT</pubDate>
-            <content:encoded><![CDATA[Learn about recent Xamarin features and Visual Studio productivity gains you can take advantage of today, as well as peek into the future of building native, cross-platform apps with .NET.
-
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Cærostris, a Blazor WebAssembly Spotify client]]></title>
-            <link>https://www.dotnetweekly.com/articles/carostris-a-blazor-webassembly-spotify-client</link>
-            <guid>https://www.dotnetweekly.com/articles/carostris-a-blazor-webassembly-spotify-client</guid>
-            <pubDate>Thu, 28 May 2020 16:07:16 GMT</pubDate>
-            <content:encoded><![CDATA[Cærostris is an open-source PWA (Progressive Web App) created with Blazor, running on WebAssembly. Build your own Spotify client in C# by using Cærostris' Razor Class Library, SpotifyService.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BlakeOnLan - A 100-line Wake-on-LAN app using Blazor Server to wake your devices remotely on your home network.]]></title>
-            <link>https://www.dotnetweekly.com/articles/blakeonlan-a-100-line-wake-on-lan-app-using-blazor-server-to-wake-your-devices-remotely-on-your-hom</link>
-            <guid>https://www.dotnetweekly.com/articles/blakeonlan-a-100-line-wake-on-lan-app-using-blazor-server-to-wake-your-devices-remotely-on-your-hom</guid>
-            <pubDate>Thu, 28 May 2020 14:30:52 GMT</pubDate>
-            <content:encoded><![CDATA[I use Remote Desktop in the house to RDP onto our HTPC in the living room, but sometimes the TV is already in use. If the device is not awake, I have to go over and power it on. Lazyness prevails, as from now I don't have to go over, just push the Wake button on this app :)
-
-I wanted to make the source as small as possible, and managed to only need two files in total (plus the .csproj file): the Pages\_Host.cshtml (22 lines) for hosting the Blazor Server app, and an App.razor file (78 lines), which contains the only component of the app, for a grand total of exactly 100 lines of source code! This was just a fun experiment to see how much boilerplate could be omitted. No wwwroot, Program.cs (the App.razor contains the Main method) or Startup.cs (the services and pipeline are configured inline in the Main method)!
-
-For the full source, visit my repo at: https://github.com/yugabe/BlakeOnLan]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Using Azure Key Vault with ASP.NET Core]]></title>
-            <link>https://www.dotnetweekly.com/articles/using-azure-key-vault-with-aspnet-core</link>
-            <guid>https://www.dotnetweekly.com/articles/using-azure-key-vault-with-aspnet-core</guid>
-            <pubDate>Thu, 28 May 2020 07:13:35 GMT</pubDate>
-            <content:encoded><![CDATA[In this post, I will explain how to access Azure Key Vault from an ASP.NET Core application which runs on the local development environment.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Serilog in ASP.NET Core 3.1 – Structured Logging Made Easy]]></title>
-            <link>https://www.dotnetweekly.com/articles/serilog-in-aspnet-core-31-structured-logging-made-easy</link>
-            <guid>https://www.dotnetweekly.com/articles/serilog-in-aspnet-core-31-structured-logging-made-easy</guid>
-            <pubDate>Wed, 27 May 2020 16:50:20 GMT</pubDate>
-            <content:encoded><![CDATA[In this article, let’s go through Serilog in ASP.NET Core 3.1 and it’s implementations. Now by default, ASP.NET Core comes with some basic logging features built-in. You must have seen the ILogger interface throughout your ASP.NET Core Application. But what if we want more control over how and where to log the details? That is where Logging Frameworks / Libraries come into play. Out of all of them, Serilog is one of the most popular Libraries for ASP.NET Core Applications.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ Refresh Tokens in ASP.NET Core APIs – JWT Authentication]]></title>
-            <link>https://www.dotnetweekly.com/articles/refresh-tokens-in-aspnet-core-apis-jwt-authentication</link>
-            <guid>https://www.dotnetweekly.com/articles/refresh-tokens-in-aspnet-core-apis-jwt-authentication</guid>
-            <pubDate>Wed, 27 May 2020 16:49:41 GMT</pubDate>
-            <content:encoded><![CDATA[To enhance the security of APIs that already use JWT Tokens, even more, we use something called Refresh Tokens.
-
-What are they?
-
-Refresh Tokens are random numbers/strings/combinations that are sent as a response along with the JSON Web Token back to the client, with which a user can request for valid JWT.
-
-Issues it solves.
-
-What if an attacker gets hold of your JWT Token? With this token, he could potentially access a secured API mimicking your usage, and compromise the entire service if he wants to. This is bad.
-
-With JWT Token, it is advised that they must expire is less than a day (due to the above security concern). Usually, the standard is a few hours tops. So what happens when the token expires? The user get's logged out of the system and is prompted to log in again with his/her credentials. Now that is bad user experience in today's world.
-
-I have written a detailed Article/ Guide on Refresh Tokens in ASP.NET Core APIs. Give it a look.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Blazor how-to’s: create a chat application – part 1: introduction]]></title>
-            <link>https://www.dotnetweekly.com/articles/blazor-how-tos-create-a-chat-application-part-1-introduction</link>
-            <guid>https://www.dotnetweekly.com/articles/blazor-how-tos-create-a-chat-application-part-1-introduction</guid>
-            <pubDate>Tue, 26 May 2020 20:01:10 GMT</pubDate>
-            <content:encoded><![CDATA[Here we are for another episode of Blazor how-to's! This time we'll see how we can easily create a chat application with Blazor and .NET Core.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Event Sourcing in .NET Core - part 4: query models]]></title>
-            <link>https://www.dotnetweekly.com/articles/event-sourcing-in-net-core-part-4-query-models</link>
-            <guid>https://www.dotnetweekly.com/articles/event-sourcing-in-net-core-part-4-query-models</guid>
-            <pubDate>Mon, 25 May 2020 22:04:28 GMT</pubDate>
-            <content:encoded><![CDATA[Hi All! Welcome to the fourth part of the series about Event Sourcing. This time we'll see how we can leverage the events to refresh our Query Models.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Visual Studio 2019: New Windows Terminal has arrived, how to enhance it with posh-git for GIT usage?]]></title>
-            <link>https://www.dotnetweekly.com/articles/visual-studio-2019-new-windows-terminal-has-arrived-how-to-enhance-it-with-posh-git-for-git-usage</link>
-            <guid>https://www.dotnetweekly.com/articles/visual-studio-2019-new-windows-terminal-has-arrived-how-to-enhance-it-with-posh-git-for-git-usage</guid>
-            <pubDate>Mon, 25 May 2020 02:24:17 GMT</pubDate>
-            <content:encoded><![CDATA[The new Windows Terminal has arrived on Visual Studio 2019 16.6 for Windows and Visual Studio 8.6 for Mac. In this article I will show how to enhance it with posh-git for a better experience with GIT commands.]]></content:encoded>
+            <title><![CDATA[Blazor how-to's: create a chat application - part 2: authentication]]></title>
+            <link>https://www.dotnetweekly.com/articles/blazor-how-tos-create-a-chat-application-part-2-authentication</link>
+            <guid>https://www.dotnetweekly.com/articles/blazor-how-tos-create-a-chat-application-part-2-authentication</guid>
+            <pubDate>Mon, 01 Jun 2020 02:10:55 GMT</pubDate>
+            <content:encoded><![CDATA[Hi All! Welcome to the new episode of the Blazor Chat series. This time we'll see how we can easily implement simple authentication and how we can see who is online.]]></content:encoded>
         </item>
     </channel>
 </rss>
