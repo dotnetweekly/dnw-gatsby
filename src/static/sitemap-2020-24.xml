@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/implementing-role-based-and-claims-based-authorization-in-aspnet-core-using-policies</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/how-to-use-attribute-directives-to-avoid-repetition-in-angular-templates</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/use-github-actions-to-publish-nuget-packages</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/pack-your-net-program-to-a-single-exe-file-with-postsharp-community</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/net-c-newsletters-to-subscribe-to-keep-up-with-the-news</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/file-upload-in-aspnet-core-mvc-file-system-and-database</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/clone-dashboard-in-azure-portal</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/introducing-yarp-preview-1</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/fluent-validation-in-aspnet-core-3-powerful-validations</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/aspnet-core-31-webhook-implementation-using-pub-sub</loc> </url>
+</urlset>

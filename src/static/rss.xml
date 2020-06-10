@@ -4,137 +4,95 @@
         <title>dotNET Weekly - Week undefined Year undefined</title>
         <link>https://www.dotnetweekly.com/week/undefined/year/undefined?feed=rss</link>
         <description></description>
-        <lastBuildDate>Fri, 05 Jun 2020 14:30:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jun 2020 16:16:54 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <category>Articles</category>
         <item>
-            <title><![CDATA[Dynamically Build LINQ Expressions]]></title>
-            <link>https://www.dotnetweekly.com/articles/dynamically-build-linq-expressions</link>
-            <guid>https://www.dotnetweekly.com/articles/dynamically-build-linq-expressions</guid>
-            <pubDate>Fri, 05 Jun 2020 14:23:11 GMT</pubDate>
-            <content:encoded><![CDATA[LINQ stands for Language Integrated Query and is one of my favorite .NET and C# technologies. Using LINQ, developers can write queries directly in strongly typed code. LINQ provides a standard language and syntax that is consistent across data sources.
+            <title><![CDATA[Implementing Role-based and Claims-based Authorization in ASP.NET Core using Policies]]></title>
+            <link>https://www.dotnetweekly.com/articles/implementing-role-based-and-claims-based-authorization-in-aspnet-core-using-policies</link>
+            <guid>https://www.dotnetweekly.com/articles/implementing-role-based-and-claims-based-authorization-in-aspnet-core-using-policies</guid>
+            <pubDate>Wed, 10 Jun 2020 15:30:53 GMT</pubDate>
+            <content:encoded><![CDATA[In article, let's understand in-detail about what are role-based and claim-based authorization mechanisms and how we can implement them in asp.net core 3.1 using the Authorization middleware, with a working example.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[How to Use Attribute Directives to Avoid Repetition in Angular Templates]]></title>
+            <link>https://www.dotnetweekly.com/articles/how-to-use-attribute-directives-to-avoid-repetition-in-angular-templates</link>
+            <guid>https://www.dotnetweekly.com/articles/how-to-use-attribute-directives-to-avoid-repetition-in-angular-templates</guid>
+            <pubDate>Wed, 10 Jun 2020 09:23:24 GMT</pubDate>
+            <content:encoded><![CDATA[In this post, I will show you how attribute directives in Angular provide a way to adapt UI elements to your components and services and setting default values to them.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Use GitHub actions to publish NuGet packages]]></title>
+            <link>https://www.dotnetweekly.com/articles/use-github-actions-to-publish-nuget-packages</link>
+            <guid>https://www.dotnetweekly.com/articles/use-github-actions-to-publish-nuget-packages</guid>
+            <pubDate>Tue, 09 Jun 2020 21:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[Here is how I automated pushing packages to nuget.org for FluentEmail.
+
+- Create a Github Action that runs on push to the master branch
+- Use Publish Nuget action to package and publish nuget packages
+- Create a Nuget.org API key and set it as a GitHub secret
+- Nuget packages are published on push to master!]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Pack your .NET program to a single .exe file with PostSharp Community]]></title>
+            <link>https://www.dotnetweekly.com/articles/pack-your-net-program-to-a-single-exe-file-with-postsharp-community</link>
+            <guid>https://www.dotnetweekly.com/articles/pack-your-net-program-to-a-single-exe-file-with-postsharp-community</guid>
+            <pubDate>Tue, 09 Jun 2020 14:43:51 GMT</pubDate>
+            <content:encoded><![CDATA[Last month, PostSharp released PostSharp.Community.Packer, a free and open-source tool that you can use to pack your .NET Framework application into a single .exe file for distribution. You can now easily merge all your .dlls into your main .exe file on .NET Framework for free.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[.NET/C# newsletters to subscribe to - Keep up with the news]]></title>
+            <link>https://www.dotnetweekly.com/articles/net-c-newsletters-to-subscribe-to-keep-up-with-the-news</link>
+            <guid>https://www.dotnetweekly.com/articles/net-c-newsletters-to-subscribe-to-keep-up-with-the-news</guid>
+            <pubDate>Tue, 09 Jun 2020 06:25:36 GMT</pubDate>
+            <content:encoded><![CDATA[Get news about .NET, C#, ASP.NET Core, and much more directly in your inbox. With this list of the ultimate newsletters, you will never miss important news.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[File Upload in ASP.NET Core MVC – File System & Database]]></title>
+            <link>https://www.dotnetweekly.com/articles/file-upload-in-aspnet-core-mvc-file-system-and-database</link>
+            <guid>https://www.dotnetweekly.com/articles/file-upload-in-aspnet-core-mvc-file-system-and-database</guid>
+            <pubDate>Mon, 08 Jun 2020 18:31:53 GMT</pubDate>
+            <content:encoded><![CDATA[In this article, let’s go through one of the most searched queries on Google, “File Upload in ASP.NET Core MVC”. Uploading Images or other documents is a very basic and common requirement when it comes to building anything from a simple application to an enterprise-level solution. Let’s build a small application with which you could upload files of any type to a file system location or to a centralized database table.
+
+File Upload is quite important for any kind of application, right from saving a User’s Profile Picture to storing some important documents. Files can be uploaded to either the Server’s Storage or to a Centralized Database. ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Clone Dashboard in Azure Portal]]></title>
+            <link>https://www.dotnetweekly.com/articles/clone-dashboard-in-azure-portal</link>
+            <guid>https://www.dotnetweekly.com/articles/clone-dashboard-in-azure-portal</guid>
+            <pubDate>Mon, 08 Jun 2020 05:47:08 GMT</pubDate>
+            <content:encoded><![CDATA[You can clone the dashboard in Azure Portal. The cloning dashboard helps quickly extend any existing dashboard, that either you can share and use for your monitoring purpose. You can create your dashboards such as Azure service health dashboard or any other Azure services monitoring or data flow dashboard, and it could be useful sharing the dashboard with others in case they need the same. Some cases may require additional charges, or you may want to take out some of the details.
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Building an Azure Static Web App With GraphQL]]></title>
-            <link>https://www.dotnetweekly.com/articles/building-an-azure-static-web-app-with-graphql</link>
-            <guid>https://www.dotnetweekly.com/articles/building-an-azure-static-web-app-with-graphql</guid>
-            <pubDate>Fri, 05 Jun 2020 00:04:12 GMT</pubDate>
-            <content:encoded><![CDATA[At Microsoft Build we launched the preview of a new product, Azure Static Web Apps. This is a product I've been wanting for years on Azure as I've done a lot of static websites on Azure (see Cutting Azure Costs for DDD Sydney) but they were always been a bit clunky, especially when it comes to integration with a backend. I have it working for some apps, but there's a lot of infrastructure overhead.
-
-But now, with Static Web Apps, it's a whole lot easier as it's designed for this by using a combination of static hosting and Azure Functions. We've got some fantastic docs (I wrote the Hugo, Gatsby and VuePress docs 😉) that will get you up and running on all things Static Web Apps.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Streamlining your image building process with Azure Image Builder]]></title>
-            <link>https://www.dotnetweekly.com/articles/streamlining-your-image-building-process-with-azure-image-builder</link>
-            <guid>https://www.dotnetweekly.com/articles/streamlining-your-image-building-process-with-azure-image-builder</guid>
-            <pubDate>Fri, 05 Jun 2020 00:01:48 GMT</pubDate>
-            <content:encoded><![CDATA[Customizing virtual machine (VM) images to meet security and compliance requirements and achieve faster deployment is a strong need for many enterprises, but most don't enjoy the process and energy needed for determining the right tooling, building the right pipeline, and maintaining it continuously.
-
-We built Azure Image Builder service to make building customized images easy in Azure.
-
-Azure Image Builder service offers unification and simplification for your image building process across Azure and Azure Stack with an automated image building pipeline. Whether you want to build Windows or Linux virtual machine images, you can use existing image security configurations to build compliant images for your organization and patch existing custom images using Linux commands or Windows Update. Azure Image Builder supports images from multiple Linux distributions, Azure Marketplace, and Windows Virtual Desktop environments and you can build images for specialized VM sizes, including creating images for GPU VMs.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[.NET async/await in a single picture]]></title>
-            <link>https://www.dotnetweekly.com/articles/net-async-await-in-a-single-picture</link>
-            <guid>https://www.dotnetweekly.com/articles/net-async-await-in-a-single-picture</guid>
-            <pubDate>Thu, 04 Jun 2020 23:59:43 GMT</pubDate>
-            <content:encoded><![CDATA[The main power behind async/await is that while we “await” on an ongoing I/O operation, the calling thread may be released for doing other work. And this provides a great thread re-usability. Thus, better scalability – much smaller number of threads is able to handle the same amount of operations comparing to asynchronous/waiting approach.
-
-The main role here plays so-called overlapped I/O (in case of Windows) which allows to asynchronously delegate the I/O operation to the operating system, and only after completion the provided callback will notify us about the result. The main workforce here is so-called I/O completion port (IOCP).]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Microsoft Build 2020 – Highlights for .NET Developers]]></title>
-            <link>https://www.dotnetweekly.com/articles/microsoft-build-2020-highlights-for-net-developers</link>
-            <guid>https://www.dotnetweekly.com/articles/microsoft-build-2020-highlights-for-net-developers</guid>
-            <pubDate>Thu, 04 Jun 2020 23:58:58 GMT</pubDate>
-            <content:encoded><![CDATA[Over the course of the last three days, Microsoft Build 2020 released a flood of news and announcements. For those of us who follow the .NET ecosystem, it can be difficult to wade through them all!
-
-I’ve collected a list of announcements that I think are interesting as a .NET developer, and added short summaries. The announcements are grouped into four categories: ASP.NET, .NET, Visual Studio and Windows.
-
-In addition, each category is split into "released" (you can use it now!) or "preview / announced" (you can test it out now, or soon).
+            <title><![CDATA[Introducing YARP Preview 1]]></title>
+            <link>https://www.dotnetweekly.com/articles/introducing-yarp-preview-1</link>
+            <guid>https://www.dotnetweekly.com/articles/introducing-yarp-preview-1</guid>
+            <pubDate>Mon, 08 Jun 2020 05:44:36 GMT</pubDate>
+            <content:encoded><![CDATA[YARP is a project to create a reverse proxy server. It started when we noticed a pattern of questions from internal teams at Microsoft who were either building a reverse proxy for their service or had been asking about APIs and technology for building one, so we decided to get them all together to work on a common solution, which has become YARP.
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Continuous integration workflow template for .NET Core desktop apps with GitHub Actions]]></title>
-            <link>https://www.dotnetweekly.com/articles/continuous-integration-workflow-template-for-net-core-desktop-apps-with-github-actions</link>
-            <guid>https://www.dotnetweekly.com/articles/continuous-integration-workflow-template-for-net-core-desktop-apps-with-github-actions</guid>
-            <pubDate>Thu, 04 Jun 2020 23:57:35 GMT</pubDate>
-            <content:encoded><![CDATA[We know how time consuming it can be to quickly set up continuous integration and continuous deployment workflows (CI/CD) for your WPF and Windows Forms desktop applications.
+            <title><![CDATA[Fluent Validation in ASP.NET Core 3 – Powerful Validations]]></title>
+            <link>https://www.dotnetweekly.com/articles/fluent-validation-in-aspnet-core-3-powerful-validations</link>
+            <guid>https://www.dotnetweekly.com/articles/fluent-validation-in-aspnet-core-3-powerful-validations</guid>
+            <pubDate>Mon, 08 Jun 2020 05:44:07 GMT</pubDate>
+            <content:encoded><![CDATA[When it comes to Validating Models, aren’t we all leaning towards Data Annotations? There are quite a lot of serious issues with this approach for a scalable system. There is a library, Fluent Validations that can turn up the validation game to a whole new level, giving you total control.
 
-That’s why, in cooperation with the GitHub Actions team, we have released a starter workflow in GitHub to help you quickly set up and showcase DevOps for your applications using the recently released GitHub Actions.
-
-With GitHub Actions, you can quickly and easily automate your software workflows with CI/CD.
-
-Integrate code changes directly into GitHub to speed up development cycles
-Trigger builds to quickly identify build breaks and create testable debug builds
-Continuously run tests to identify and eliminate bugs
-Automatically sign, package and deploy branches that pass tests]]></content:encoded>
+In this article, we will talk about Fluent Validation and it’s implementation in ASP.NET Core Applications. We will discuss the preferred alternative to Data Annotations and implement it in an ASP.Net core API. Source code will be provided at the end of the article.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Conditional HTML Rendering with Microsoft Feature Flags (Microsoft.FeatureManagement)]]></title>
-            <link>https://www.dotnetweekly.com/articles/conditional-html-rendering-with-microsoft-feature-flags-microsoftfeaturemanagement</link>
-            <guid>https://www.dotnetweekly.com/articles/conditional-html-rendering-with-microsoft-feature-flags-microsoftfeaturemanagement</guid>
-            <pubDate>Thu, 04 Jun 2020 23:56:42 GMT</pubDate>
-            <content:encoded><![CDATA[This is part seven in a series of articles.
+            <title><![CDATA[ASP.NET Core 3.1 Webhook Implementation Using Pub/Sub]]></title>
+            <link>https://www.dotnetweekly.com/articles/aspnet-core-31-webhook-implementation-using-pub-sub</link>
+            <guid>https://www.dotnetweekly.com/articles/aspnet-core-31-webhook-implementation-using-pub-sub</guid>
+            <pubDate>Mon, 08 Jun 2020 05:43:05 GMT</pubDate>
+            <content:encoded><![CDATA[In this article, I will show you the basics of the Webhook mechanism that uses a publish-subscribe pattern in the ASP.NET CORE 3.1 project.
 
-You can render HTML in your views based on whether or not a feature flag is enable or disabled. To do this you can make use of the FeatureTagHelper.
-
-For example suppose the following Printing feature is configured to be off in the appsettings.json:]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ASP.NET Core 3.1 Webhook Implementation Using Pub/Sub Pattern]]></title>
-            <link>https://www.dotnetweekly.com/articles/aspnet-core-31-webhook-implementation-using-pub-sub-pattern</link>
-            <guid>https://www.dotnetweekly.com/articles/aspnet-core-31-webhook-implementation-using-pub-sub-pattern</guid>
-            <pubDate>Tue, 02 Jun 2020 10:37:42 GMT</pubDate>
-            <content:encoded><![CDATA[In this article, I will show you the basics of the Webhook mechanism that uses a publish-subscribe pattern in the ASP.NET CORE 3.1 project.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Exploring Blazor Project Structure – Blazor For Beginners]]></title>
-            <link>https://www.dotnetweekly.com/articles/exploring-blazor-project-structure-blazor-for-beginners</link>
-            <guid>https://www.dotnetweekly.com/articles/exploring-blazor-project-structure-blazor-for-beginners</guid>
-            <pubDate>Mon, 01 Jun 2020 18:24:43 GMT</pubDate>
-            <content:encoded><![CDATA[In our previous article, Getting Started with Blazor, we discussed the core concepts of the application, different types and comparisons, and much more. In this second part, let’s go in more depth with the Blazor project structure and try to understand the fundamentals of this awesome Application.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Blazor For Beginners – Getting Started with Blazor]]></title>
-            <link>https://www.dotnetweekly.com/articles/blazor-for-beginners-getting-started-with-blazor</link>
-            <guid>https://www.dotnetweekly.com/articles/blazor-for-beginners-getting-started-with-blazor</guid>
-            <pubDate>Mon, 01 Jun 2020 18:24:14 GMT</pubDate>
-            <content:encoded><![CDATA[In this article, we will discuss the basics of Blazor and the tools required for Blazor Application Development. We will go in-depth with the concept of Blazor, the problem it solves, how to set up the development environment, talk about Server and WebAssembly, fire up your first Blazor Application, and a small comparison of various types of Blazor Projects.
-
-There is quite a hype about Blazor and how awesome it is. It’s truly a game-changer by Microsoft. In this blog series, we will go step-by-step in mastering and getting very familiar with this new Stack. 😀]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Basics of Working with JSON in SQL Server]]></title>
-            <link>https://www.dotnetweekly.com/articles/basics-of-working-with-json-in-sql-server</link>
-            <guid>https://www.dotnetweekly.com/articles/basics-of-working-with-json-in-sql-server</guid>
-            <pubDate>Mon, 01 Jun 2020 06:41:55 GMT</pubDate>
-            <content:encoded><![CDATA[JSON — A Brief Background
-
-JSON is an acronym for JavaScript Object Notation, that became popular a little over seventeen years ago. JSON is essentially a data format, it was popularized by Douglas Crockford, a well-known programmer with an interesting history who was also involved in the development of JavaScript. JSON has nearly replaced XML as a cross-platform data exchange format. It is reported to be lightweight and easier to manipulate compared to XML. In AWS CloudFormation, templates, which are actually JSON (or YAML) formatted documents, are used to describe AWS resources when automating deployments.
-
-JSON is also used extensively in NoSQL databases such as the increasingly popular MongoDB. Virtually all the Social Media giants expose APIs that are based on JSON. I am sure you begin to get the idea of how widespread its applications have become. JSON was standardized in 2013 and the latest version of the standard (ECMA-404: The JSON Data Interchange Syntax) was released in 2017. SQL Server introduced support for JSON in SQL Server 2016.
-
-Read more at: https://codingsight.com/basics-of-working-with-json-in-sql-server/]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[CQRS - reserving a resource [Microservices .NET]]]></title>
-            <link>https://www.dotnetweekly.com/articles/cqrs-reserving-a-resource-microservices-net</link>
-            <guid>https://www.dotnetweekly.com/articles/cqrs-reserving-a-resource-microservices-net</guid>
-            <pubDate>Mon, 01 Jun 2020 05:48:14 GMT</pubDate>
-            <content:encoded><![CDATA[First demo lesson of our new video course! In this episode we implement new business requirement (reserving the resource) fitting in CQRS & Clean Architecture!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Blazor how-to's: create a chat application - part 2: authentication]]></title>
-            <link>https://www.dotnetweekly.com/articles/blazor-how-tos-create-a-chat-application-part-2-authentication</link>
-            <guid>https://www.dotnetweekly.com/articles/blazor-how-tos-create-a-chat-application-part-2-authentication</guid>
-            <pubDate>Mon, 01 Jun 2020 02:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[Hi All! Welcome to the new episode of the Blazor Chat series. This time we'll see how we can easily implement simple authentication and how we can see who is online.]]></content:encoded>
+What is Webhook
+Webhooks are user-defined HTTP callbacks. They are usually triggered by some events, such as pushing code to a repository or a comment being posted to a blog. When that event occurs, the source site makes an HTTP request to the URL configured for the Webhook. Users can configure them to cause events on one site to invoke behavior on another.]]></content:encoded>
         </item>
     </channel>
 </rss>
