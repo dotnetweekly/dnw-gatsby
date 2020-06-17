@@ -1,5 +1,4 @@
 import React from 'react'
-import ReCAPTCHA from 'react-google-recaptcha'
 import Conf from '../../conf'
 import axios from '../services/dnw-axios'
 /* Copy for forms */
@@ -7,7 +6,6 @@ import axios from '../services/dnw-axios'
 import Layout from '../components/layout'
 import * as auth from '../services/auth'
 
-const recaptchaRef = React.createRef()
 class ActivatePage extends React.Component {
   constructor(props) {
     super(props)
@@ -22,17 +20,10 @@ class ActivatePage extends React.Component {
     return new Promise(resolve => setTimeout(resolve, ms))
   }
   async componentDidMount() {
-    const self = this
-    recaptchaRef.current.reset()
     this.setState({ isLoading: true })
-    while (!recaptchaRef || !recaptchaRef.current) {
-      await self.sleep(1000)
-    }
-    setTimeout(() => {
-      recaptchaRef.current.execute()
-    }, 1000)
+    this.formAction()
   }
-  formAction(recaptchaValue) {
+  formAction() {
     const self = this
     self.setState({ isLoading: true })
     const activationCode = self.props.location.pathname
@@ -40,7 +31,7 @@ class ActivatePage extends React.Component {
       .slice(2, 3)
     try {
       axios
-        .post(`/user/unsubscribe?g-recaptcha-response=${recaptchaValue}`, {
+        .post(`/user/unsubscribe`, {
           key: activationCode[0],
         })
         .then(response => {
@@ -92,14 +83,6 @@ class ActivatePage extends React.Component {
           {!isLoading && success && (
             <h3 className="control is-expanded">Successfully unsubscribed!</h3>
           )}
-          <div className="is-clearfix width-100 dnw-captcha">
-            <ReCAPTCHA
-              ref={recaptchaRef}
-              size="invisible"
-              sitekey={Conf.recaptchaKey}
-              onChange={this.formAction.bind(this)}
-            />
-          </div>
         </div>
       </Layout>
     )
