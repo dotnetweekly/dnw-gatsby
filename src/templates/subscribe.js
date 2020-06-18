@@ -91,7 +91,7 @@ class Subscribe extends React.Component {
                 <p className="subscribe-danger help is-danger">
                   {errorHelper.getError('email', errors)}
                 </p>
-                <p>Join more than 4455 .NET professionals!</p>
+                <p>Join more than 4847 .NET professionals!</p>
               </div>
             )}
             {success && (
