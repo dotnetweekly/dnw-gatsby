@@ -4,77 +4,161 @@
         <title>dotNET Weekly - Week undefined Year undefined</title>
         <link>https://www.dotnetweekly.com/week/undefined/year/undefined?feed=rss</link>
         <description></description>
-        <lastBuildDate>Thu, 18 Jun 2020 17:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jun 2020 17:09:54 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <category>Articles</category>
+        <category>Events-training</category>
+        <item>
+            <title><![CDATA[9 Key Machine Learning Algorithms Explained in Plain English]]></title>
+            <link>https://www.dotnetweekly.com/articles/9-key-machine-learning-algorithms-explained-in-plain-english</link>
+            <guid>https://www.dotnetweekly.com/articles/9-key-machine-learning-algorithms-explained-in-plain-english</guid>
+            <pubDate>Mon, 22 Jun 2020 22:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[Machine learning is changing the world. Google uses machine learning to suggest search results to users. Netflix uses it to recommend movies for you to watch. Facebook uses machine learning to suggest people you may know.
+
+Machine learning has never been more important. At the same time, understanding machine learning is hard. The field is full of jargon. And the number of different ML algorithms grows each year.
+
+This article will introduce you to the fundamental concepts within the field of machine learning. More specifically, we will discuss the basic concepts behind the 9 most important machine learning algorithms today.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Azure Fundamentals Certification (AZ-900) – Pass the Exam With This Free 3-Hour Course]]></title>
+            <link>https://www.dotnetweekly.com/articles/azure-fundamentals-certification-az-900-pass-the-exam-with-this-free-3-hour-course</link>
+            <guid>https://www.dotnetweekly.com/articles/azure-fundamentals-certification-az-900-pass-the-exam-with-this-free-3-hour-course</guid>
+            <pubDate>Mon, 22 Jun 2020 22:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[What is Microsoft Azure?
+Microsoft Azure is a cloud service provider. A cloud service provider (CSPs) is a technology company that offers multiple cloud services. Azure has listed over 600 cloud service offerings, from computing to storage to databases to machine learning.
+
+Azure is the second most popular cloud platform behind Amazon Web Services (AWS). Still, many long-lived or large tech companies are embracing both cloud platforms. This may be because Azure is able to compete on cost, niche cloud-offerings, easy integration, and developers' familiarity with Microsoft software.
+
+Azure has three competitive advantages when compared with other cloud platforms like AWS and Google Cloud.
+
+Advantage #1: Azure and Microsoft have invested heavily in Developer Tools
+Microsoft developed the most popular code editor to date, Visual Studio Code.
+
+They also acquired GitHub and ported its functionality directly into Azure.
+
+Microsoft also owns Minecraft, and has used it as a tool to onboard young developers to programming and cloud computing.
+
+Advantage #2: Microsoft Active Directory
+Many companies have invested in Active Directory to control access to software and workstations. Now, they can easily extend that to the Azure cloud and not have to learn a new tool for managing access.
+
+When you want to sell software to large companies, a general requirement for purchase is to perform Single-Sign-On with Microsoft Active Directory, and Azure has the hometown advantage here.
+
+Advantage #3: Machine Learning and Artificial Intelligence
+I think AWS has a better offering for ML and AI, but Azure has done a better job making its offerings more palatable to tech companies.
+
+Azure divides their AI services into many small isolated services, and they have certifications for data-based roles at the Associate tier. This makes these roles feel more obtainable to aspiring developers.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[A deep dive into React Context API]]></title>
+            <link>https://www.dotnetweekly.com/articles/a-deep-dive-into-react-context-api</link>
+            <guid>https://www.dotnetweekly.com/articles/a-deep-dive-into-react-context-api</guid>
+            <pubDate>Mon, 22 Jun 2020 22:13:55 GMT</pubDate>
+            <content:encoded><![CDATA[It always begins with a single component. You could maybe define a class or functional component, but ultimately you must always be ready to render. You can have data in the form of local state(s), or functionality in form of, say, event handlers.
+
+Your component will grow in responsibility and complexity. No component is a singleton, you learned, so you break your component down.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[CAP: Event Bus & Outbox Pattern]]></title>
+            <link>https://www.dotnetweekly.com/articles/cap-event-bus-and-outbox-pattern</link>
+            <guid>https://www.dotnetweekly.com/articles/cap-event-bus-and-outbox-pattern</guid>
+            <pubDate>Mon, 22 Jun 2020 22:13:21 GMT</pubDate>
+            <content:encoded><![CDATA[If you’re thinking of building or already are implementing a system using async messaging (SOA or Microservices) then you need to start thinking about what type of messaging library you want to use in front of a message broker. CAP is an Event Bus that implements the Outbox Pattern to deal with distributed transactions.
+
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Onion Architecture In ASP.NET Core With CQRS – Detailed]]></title>
             <link>https://www.dotnetweekly.com/articles/onion-architecture-in-aspnet-core-with-cqrs-detailed</link>
             <guid>https://www.dotnetweekly.com/articles/onion-architecture-in-aspnet-core-with-cqrs-detailed</guid>
-            <pubDate>Thu, 18 Jun 2020 15:42:18 GMT</pubDate>
-            <content:encoded><![CDATA[In this article, We will talk about Onion Architecture In ASP.NET Core and it’s advantages. We will also together build a WebApi that follows a variant of Onion Architecture so that we get to see why it is important to implement such an architecture in your upcoming projects.
+            <pubDate>Mon, 22 Jun 2020 22:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[In this article, We will talk about Onion Architecture In ASP.NET Core and it’s advantages. We will also together build a WebApi that follows a variant of Onion Architecture so that we get to see why it is important to implement such an architecture in your upcoming projects. You can find the source code of this implementation on my GitHub.
 
-Here is a list of features and tech we will be using for this setup.
-
-Onion Architecture
-
-Entity Framework Core - Code First
-
-.NET Core 3.1 Library / .NET Standard 2.1 Library / ASP.NET Core 3.1 WebApi
-
-Swagger
-
-CQRS / Mediator Pattern using MediatR Library
-
-Wrapper Class for Responses
-
-CRUD Operations
-
-Inverted Dependencies
-
-API Versioning
-
-Entire Source code available at the end of the blog post!]]></content:encoded>
+]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Introducing C# 9: Records]]></title>
-            <link>https://www.dotnetweekly.com/articles/introducing-c-9-records</link>
-            <guid>https://www.dotnetweekly.com/articles/introducing-c-9-records</guid>
-            <pubDate>Wed, 17 Jun 2020 04:29:52 GMT</pubDate>
-            <content:encoded><![CDATA[C# 9 introduces Init-only properties that allow to make individual properties immutable. C# 9 introduces another great feature that enable a whole object to be immutable and make it acting like a value: Records. Let’s see in this article how Records work.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Integrating Angular with AspNetCore API via Docker Compose]]></title>
-            <link>https://www.dotnetweekly.com/articles/integrating-angular-with-aspnetcore-api-via-docker-compose</link>
-            <guid>https://www.dotnetweekly.com/articles/integrating-angular-with-aspnetcore-api-via-docker-compose</guid>
-            <pubDate>Tue, 16 Jun 2020 17:42:24 GMT</pubDate>
-            <content:encoded><![CDATA[In this article, lets discuss about how we can deploy an angular application with AspNetCore API end-to-end in a containerized setup using Docker Compose. We shall also look at the challenges in routing the requests to angular and dotnetcore API containers and how we can solve it using nginx reverse proxy.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Introducing C# 9: Init only properties]]></title>
-            <link>https://www.dotnetweekly.com/articles/introducing-c-9-init-only-properties</link>
-            <guid>https://www.dotnetweekly.com/articles/introducing-c-9-init-only-properties</guid>
-            <pubDate>Tue, 16 Jun 2020 01:35:53 GMT</pubDate>
-            <content:encoded><![CDATA[.NET 5 brings a new version of the C# language: C# 9.
+            <title><![CDATA[Generating C# .NET Classes at Runtime]]></title>
+            <link>https://www.dotnetweekly.com/articles/generating-c-net-classes-at-runtime</link>
+            <guid>https://www.dotnetweekly.com/articles/generating-c-net-classes-at-runtime</guid>
+            <pubDate>Mon, 22 Jun 2020 22:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[There have been several times in my C# career where I’ve had to generate new class types at runtime. Hopefully writing about it will help others in the same situation. It also means I won’t have to look up the same StackOverflow articles again in the future! Whilst I originally did this in .NET 4.6.2, I’ve provided samples for the newer .NET Core 3.0. All code is available on my public GitHub
 
-In this article we will discuss on a new feature: Init only properties]]></content:encoded>
+]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[20 Tips To Write Clean C# Code]]></title>
-            <link>https://www.dotnetweekly.com/articles/20-tips-to-write-clean-c-code</link>
-            <guid>https://www.dotnetweekly.com/articles/20-tips-to-write-clean-c-code</guid>
-            <pubDate>Mon, 15 Jun 2020 15:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[Writing code is not difficult. Writing Clean and Scalable Code is not easy as well. In this article, we will talk about 20 Tips to write Clean C# Code for your projects. Each class should tell a story. This helps quite a lot when working in bigger teams. It helps you understand the code better.
+            <title><![CDATA[Zero Trust—Part 1: Networking]]></title>
+            <link>https://www.dotnetweekly.com/articles/zero-trustpart-1-networking</link>
+            <guid>https://www.dotnetweekly.com/articles/zero-trustpart-1-networking</guid>
+            <pubDate>Mon, 22 Jun 2020 22:10:30 GMT</pubDate>
+            <content:encoded><![CDATA[Enterprises used to be able to secure their corporate perimeters with traditional network controls and feel confident that they were keeping hackers out. However, in a mobile- and cloud-first world, in which the rate and the sophistication level of security attacks are increasing, they can no longer rely on this approach. Taking a Zero Trust approach can help to ensure optimal security without compromising end user application experiences.
 
-Trust me, there were times when I looked at my own code and couldn’t figure the heads and tails of it. I bet that this is something you would have faced as well. Writing Clean C# Code is a practice that you would never leave once you get started.]]></content:encoded>
+Microsoft has a long history of working with customers on how to protect against a broad range of security attacks and we are one of the largest producers of threat intelligence built on the variety of data that flows through our network.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Real-Time Messaging In A Distributed Architecture Using ABP, SingalR & RabbitMQ]]></title>
-            <link>https://www.dotnetweekly.com/articles/real-time-messaging-in-a-distributed-architecture-using-abp-singalr-and-rabbitmq</link>
-            <guid>https://www.dotnetweekly.com/articles/real-time-messaging-in-a-distributed-architecture-using-abp-singalr-and-rabbitmq</guid>
-            <pubDate>Mon, 15 Jun 2020 08:32:03 GMT</pubDate>
-            <content:encoded><![CDATA[In this article, we will build a basic real-time messaging application in a distributed architecture. We will use Abp Framework for infrastructure and tiered startup template, SignalR for real-time server-client communication and RabbitMQ as the distributed event bus.]]></content:encoded>
+            <title><![CDATA[Advanced Pagination in ASP.NET Core WebApi – Ultimate Guide]]></title>
+            <link>https://www.dotnetweekly.com/articles/advanced-pagination-in-aspnet-core-webapi-ultimate-guide</link>
+            <guid>https://www.dotnetweekly.com/articles/advanced-pagination-in-aspnet-core-webapi-ultimate-guide</guid>
+            <pubDate>Mon, 22 Jun 2020 21:57:58 GMT</pubDate>
+            <content:encoded><![CDATA[In this guide, we will learn how to implement Advanced Pagination in ASP.NET Core WebApi with ease. Pagination is one of the most important concepts while building RESTful APIs. You would have seen several public APIs implementing this feature for better user experience and security. We will go in detail and try to build an ASP.NET Core 3.1 WebApi that implements advanced pagination.
+
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Validation in ASP .NET Core 3.1]]></title>
+            <link>https://www.dotnetweekly.com/articles/validation-in-asp-net-core-31</link>
+            <guid>https://www.dotnetweekly.com/articles/validation-in-asp-net-core-31</guid>
+            <pubDate>Mon, 22 Jun 2020 21:55:06 GMT</pubDate>
+            <content:encoded><![CDATA[This is the twenty-second of a new series of posts on ASP .NET Core 3.1 for 2020. In this series, we’ll cover 26 topics over a span of 26 weeks from January through June 2020, titled ASP .NET Core A-Z! To differentiate from the 2019 series, the 2020 series will mostly focus on a growing single codebase (NetLearner!) instead of new unrelated code snippets week.
+
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[gRPC-Web for .NET now available]]></title>
+            <link>https://www.dotnetweekly.com/articles/grpc-web-for-net-now-available</link>
+            <guid>https://www.dotnetweekly.com/articles/grpc-web-for-net-now-available</guid>
+            <pubDate>Mon, 22 Jun 2020 21:54:17 GMT</pubDate>
+            <content:encoded><![CDATA[gRPC-Web for .NET is now officially released. We announced experimental support in January and since then we’ve been making improvements based on feedback from early adopters.
+
+With this release gRPC-Web graduates to a fully supported component of the grpc-dotnet project and is ready for production. Use gRPC in the browser with gRPC-Web and .NET today.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Integrating AdminLTE with ASP.NET Core 3.1 – Detailed]]></title>
+            <link>https://www.dotnetweekly.com/articles/integrating-adminlte-with-aspnet-core-31-detailed</link>
+            <guid>https://www.dotnetweekly.com/articles/integrating-adminlte-with-aspnet-core-31-detailed</guid>
+            <pubDate>Mon, 22 Jun 2020 17:22:06 GMT</pubDate>
+            <content:encoded><![CDATA[We will learn about Integrating AdminLTE with ASP.NET Core 3.1 MVC or really any other Bootstrap based UI Frameworks completely from scratch. We will also go through about integrating Identity Authentication to our MVC Applicaiton. Also, you will gain quite a lot of practical knowledge on Views, Layouts, Partial Views, Conditional Rendering, Navigation Indicatior and much more.
+
+Here are the Features included.
+
+Integration with a Third Party Bootrstrap Template.
+
+Clean usage and seperation of Layouts, Views and Partial Views.
+
+Integration of Identity Authentication
+
+Scaffolded Identity
+
+Conditional Rendering
+
+Login / Register / Logout and more]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Introducing GitHub Super Linter: one linter to rule them all]]></title>
+            <link>https://www.dotnetweekly.com/articles/introducing-github-super-linter-one-linter-to-rule-them-all</link>
+            <guid>https://www.dotnetweekly.com/articles/introducing-github-super-linter-one-linter-to-rule-them-all</guid>
+            <pubDate>Mon, 22 Jun 2020 17:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[Setting up a new repository with all the right linters for the different types of code can be time consuming and tedious. So many tools and configurations to choose from and often more than one linter is needed to cover all the languages used.
+
+The GitHub Super Linter was built out of necessity by the GitHub Services DevOps Engineering team to maintain consistency in our documentation and code while making communication and collaboration across the company a more productive experience. Now we are open sourcing that so everyone can use and improve it!
+
+The Super Linter solves many of these requirements through automation. Some included features:
+
+Prevent broken code from being uploaded to master branches
+Help establish coding best practices across multiple languages
+Build guidelines for code layout and format
+Automate the process to help streamline code reviews
+With these basic criteria, we should be shipping better, cleaner, and more stable code internally and to our customers and partners
+]]></content:encoded>
         </item>
     </channel>
 </rss>
