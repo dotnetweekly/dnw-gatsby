@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/introducing-c-9-top-level-programs</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/introducing-c-9-improved-target-typing</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/9-key-machine-learning-algorithms-explained-in-plain-english</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/events-training/azure-fundamentals-certification-az-900-pass-the-exam-with-this-free-3-hour-course</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/a-deep-dive-into-react-context-api</loc> </url>
@@ -12,4 +14,6 @@
 <url> <loc>https://www.dotnetweekly.com/articles/grpc-web-for-net-now-available</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/integrating-adminlte-with-aspnet-core-31-detailed</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/introducing-github-super-linter-one-linter-to-rule-them-all</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/api-gateway-with-ocelot-and-rabbitmq</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/inbox-and-outbox-pattern-transactional-message-processing</loc> </url>
 </urlset>
