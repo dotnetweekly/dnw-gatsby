@@ -4,190 +4,123 @@
         <title>dotNET Weekly - Week undefined Year undefined</title>
         <link>https://www.dotnetweekly.com/week/undefined/year/undefined?feed=rss</link>
         <description></description>
-        <lastBuildDate>Mon, 22 Jun 2020 22:15:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jul 2020 16:28:36 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <category>Articles</category>
-        <category>Events-training</category>
         <category>Videos</category>
         <item>
-            <title><![CDATA[Introducing C# 9: Top-level programs]]></title>
-            <link>https://www.dotnetweekly.com/articles/introducing-c-9-top-level-programs</link>
-            <guid>https://www.dotnetweekly.com/articles/introducing-c-9-top-level-programs</guid>
-            <pubDate>Mon, 22 Jun 2020 22:58:54 GMT</pubDate>
-            <content:encoded><![CDATA[C# 9 introduces a super fun feature: Top-level programs. What’s a Top-level program ? This is a simpler way to write your program on its top level: a simpler Program.cs file]]></content:encoded>
+            <title><![CDATA[New FREE Ebook: A Quick Guide to Expert .NET Reporting Tools]]></title>
+            <link>https://www.dotnetweekly.com/articles/new-free-ebook-a-quick-guide-to-expert-net-reporting-tools</link>
+            <guid>https://www.dotnetweekly.com/articles/new-free-ebook-a-quick-guide-to-expert-net-reporting-tools</guid>
+            <pubDate>Thu, 02 Jul 2020 09:37:12 GMT</pubDate>
+            <content:encoded><![CDATA[Clear and accurate reporting tools play a pivotal role in any business decision today and help companies digitize and streamline their reporting process. Take advantage of expert advice on successful integration between Reporting tools and web (Blazor, ASP.NET Core, ASP.NET MVC, ASP.NET WebForms, Angular, React and more) or desktop applications (WPF, WinForms, UWP) and many practical examples and use cases.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ Introducing C# 9: Improved target typing]]></title>
-            <link>https://www.dotnetweekly.com/articles/introducing-c-9-improved-target-typing</link>
-            <guid>https://www.dotnetweekly.com/articles/introducing-c-9-improved-target-typing</guid>
-            <pubDate>Mon, 22 Jun 2020 22:58:22 GMT</pubDate>
-            <content:encoded><![CDATA[C# 9 brings a better target typing: “In C# 9.0 some expressions that weren’t previously target typed become able to be guided by their context.” – Microsoft – https://devblogs.microsoft.com/dotnet/welcome-to-c-9-0/#improved-target-typing]]></content:encoded>
+            <title><![CDATA[The Magical Methods in C#]]></title>
+            <link>https://www.dotnetweekly.com/articles/the-magical-methods-in-c</link>
+            <guid>https://www.dotnetweekly.com/articles/the-magical-methods-in-c</guid>
+            <pubDate>Tue, 30 Jun 2020 20:19:11 GMT</pubDate>
+            <content:encoded><![CDATA[There’s a certain set of special method signatures in C# which have particular support on the language level. Methods with those signatures allow for using a special syntax which has several benefits. For example, we can use them to simplify our code or create DSL to express a solution to our domain-specific problem in a much cleaner way. I came across those methods in different places, so I decided to create a blog post to summarize all my discoveries on this subject. ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[9 Key Machine Learning Algorithms Explained in Plain English]]></title>
-            <link>https://www.dotnetweekly.com/articles/9-key-machine-learning-algorithms-explained-in-plain-english</link>
-            <guid>https://www.dotnetweekly.com/articles/9-key-machine-learning-algorithms-explained-in-plain-english</guid>
-            <pubDate>Mon, 22 Jun 2020 22:17:27 GMT</pubDate>
-            <content:encoded><![CDATA[Machine learning is changing the world. Google uses machine learning to suggest search results to users. Netflix uses it to recommend movies for you to watch. Facebook uses machine learning to suggest people you may know.
-
-Machine learning has never been more important. At the same time, understanding machine learning is hard. The field is full of jargon. And the number of different ML algorithms grows each year.
-
-This article will introduce you to the fundamental concepts within the field of machine learning. More specifically, we will discuss the basic concepts behind the 9 most important machine learning algorithms today.]]></content:encoded>
+            <title><![CDATA[Configuring and Using Memcached in ASP.NET Core]]></title>
+            <link>https://www.dotnetweekly.com/articles/configuring-and-using-memcached-in-aspnet-core</link>
+            <guid>https://www.dotnetweekly.com/articles/configuring-and-using-memcached-in-aspnet-core</guid>
+            <pubDate>Tue, 30 Jun 2020 18:45:39 GMT</pubDate>
+            <content:encoded><![CDATA[In this article, we shall look in detail about what is Memcached and how we can configure ASP.NET Core application to use a Memcached instance for caching.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Azure Fundamentals Certification (AZ-900) – Pass the Exam With This Free 3-Hour Course]]></title>
-            <link>https://www.dotnetweekly.com/articles/azure-fundamentals-certification-az-900-pass-the-exam-with-this-free-3-hour-course</link>
-            <guid>https://www.dotnetweekly.com/articles/azure-fundamentals-certification-az-900-pass-the-exam-with-this-free-3-hour-course</guid>
-            <pubDate>Mon, 22 Jun 2020 22:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[What is Microsoft Azure?
-Microsoft Azure is a cloud service provider. A cloud service provider (CSPs) is a technology company that offers multiple cloud services. Azure has listed over 600 cloud service offerings, from computing to storage to databases to machine learning.
-
-Azure is the second most popular cloud platform behind Amazon Web Services (AWS). Still, many long-lived or large tech companies are embracing both cloud platforms. This may be because Azure is able to compete on cost, niche cloud-offerings, easy integration, and developers' familiarity with Microsoft software.
-
-Azure has three competitive advantages when compared with other cloud platforms like AWS and Google Cloud.
-
-Advantage #1: Azure and Microsoft have invested heavily in Developer Tools
-Microsoft developed the most popular code editor to date, Visual Studio Code.
-
-They also acquired GitHub and ported its functionality directly into Azure.
-
-Microsoft also owns Minecraft, and has used it as a tool to onboard young developers to programming and cloud computing.
-
-Advantage #2: Microsoft Active Directory
-Many companies have invested in Active Directory to control access to software and workstations. Now, they can easily extend that to the Azure cloud and not have to learn a new tool for managing access.
-
-When you want to sell software to large companies, a general requirement for purchase is to perform Single-Sign-On with Microsoft Active Directory, and Azure has the hometown advantage here.
-
-Advantage #3: Machine Learning and Artificial Intelligence
-I think AWS has a better offering for ML and AI, but Azure has done a better job making its offerings more palatable to tech companies.
-
-Azure divides their AI services into many small isolated services, and they have certifications for data-based roles at the Associate tier. This makes these roles feel more obtainable to aspiring developers.]]></content:encoded>
+            <title><![CDATA[Integrating ASP.NET Core API Logs to Azure Application Insights via ILogger]]></title>
+            <link>https://www.dotnetweekly.com/articles/integrating-aspnet-core-api-logs-to-azure-application-insights-via-ilogger</link>
+            <guid>https://www.dotnetweekly.com/articles/integrating-aspnet-core-api-logs-to-azure-application-insights-via-ilogger</guid>
+            <pubDate>Tue, 30 Jun 2020 18:43:57 GMT</pubDate>
+            <content:encoded><![CDATA[Let's talk about what is azure application insights and how we can integrate our ASP.NET Core API deployed in an Azure App Service instance can be connected to an Application Insights and analyze Logs generated from the API in the Insights.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[A deep dive into React Context API]]></title>
-            <link>https://www.dotnetweekly.com/articles/a-deep-dive-into-react-context-api</link>
-            <guid>https://www.dotnetweekly.com/articles/a-deep-dive-into-react-context-api</guid>
-            <pubDate>Mon, 22 Jun 2020 22:13:55 GMT</pubDate>
-            <content:encoded><![CDATA[It always begins with a single component. You could maybe define a class or functional component, but ultimately you must always be ready to render. You can have data in the form of local state(s), or functionality in form of, say, event handlers.
-
-Your component will grow in responsibility and complexity. No component is a singleton, you learned, so you break your component down.]]></content:encoded>
+            <title><![CDATA[How to deploy Blazor webassembly on GitHub Pages using GitHub Actions]]></title>
+            <link>https://www.dotnetweekly.com/articles/how-to-deploy-blazor-webassembly-on-github-pages-using-github-actions</link>
+            <guid>https://www.dotnetweekly.com/articles/how-to-deploy-blazor-webassembly-on-github-pages-using-github-actions</guid>
+            <pubDate>Tue, 30 Jun 2020 17:27:24 GMT</pubDate>
+            <content:encoded><![CDATA[With Blazor webassembly you can generate a static website and host it on GitHub Pages through GitHub Actions. Find out how!]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[CAP: Event Bus & Outbox Pattern]]></title>
-            <link>https://www.dotnetweekly.com/articles/cap-event-bus-and-outbox-pattern</link>
-            <guid>https://www.dotnetweekly.com/articles/cap-event-bus-and-outbox-pattern</guid>
-            <pubDate>Mon, 22 Jun 2020 22:13:21 GMT</pubDate>
-            <content:encoded><![CDATA[If you’re thinking of building or already are implementing a system using async messaging (SOA or Microservices) then you need to start thinking about what type of messaging library you want to use in front of a message broker. CAP is an Event Bus that implements the Outbox Pattern to deal with distributed transactions.
+            <title><![CDATA[Introducing Secret Store]]></title>
+            <link>https://www.dotnetweekly.com/articles/introducing-secret-store</link>
+            <guid>https://www.dotnetweekly.com/articles/introducing-secret-store</guid>
+            <pubDate>Tue, 30 Jun 2020 17:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[.NET Core provides a convenient way to read configuration from a variety of providers, without the application having to worry where they come from!
+
+It has a rich ecosystem of configuration providers that you can use, either provided by Microsoft or as part of the (open-source) community. One of my favorite ones is Andrew Lock's YAML configuration provider which I use extensively for Promitor.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[How Do I Think About Async Code?!]]></title>
+            <link>https://www.dotnetweekly.com/articles/how-do-i-think-about-async-code</link>
+            <guid>https://www.dotnetweekly.com/articles/how-do-i-think-about-async-code</guid>
+            <pubDate>Tue, 30 Jun 2020 17:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[Increasingly essential to writing responsive applications, asynchronous code is becoming more and more popular. Unfortunately, asynchronous programming adds an additional level of complexity to your code.  As a result, understanding how this code even works can be tough no matter your experience level.  Whether you’re new to it or you just want a refresher, here is an intro to the world of asynchronous code!
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Onion Architecture In ASP.NET Core With CQRS – Detailed]]></title>
-            <link>https://www.dotnetweekly.com/articles/onion-architecture-in-aspnet-core-with-cqrs-detailed</link>
-            <guid>https://www.dotnetweekly.com/articles/onion-architecture-in-aspnet-core-with-cqrs-detailed</guid>
-            <pubDate>Mon, 22 Jun 2020 22:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[In this article, We will talk about Onion Architecture In ASP.NET Core and it’s advantages. We will also together build a WebApi that follows a variant of Onion Architecture so that we get to see why it is important to implement such an architecture in your upcoming projects. You can find the source code of this implementation on my GitHub.
+            <title><![CDATA[.NET with Scott Hunter Part 1]]></title>
+            <link>https://www.dotnetweekly.com/articles/net-with-scott-hunter-part-1</link>
+            <guid>https://www.dotnetweekly.com/articles/net-with-scott-hunter-part-1</guid>
+            <pubDate>Tue, 30 Jun 2020 17:12:35 GMT</pubDate>
+            <content:encoded><![CDATA[In this episode, Robert is joined by Scott Hunter, who updates us on .NET 5, the next version and future of .NET. Scott recaps the announcements made recently at Build around the journey of unifying the .NET platform, with a single framework that extends from cloud to desktop to mobile and beyond. 
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Generating C# .NET Classes at Runtime]]></title>
-            <link>https://www.dotnetweekly.com/articles/generating-c-net-classes-at-runtime</link>
-            <guid>https://www.dotnetweekly.com/articles/generating-c-net-classes-at-runtime</guid>
-            <pubDate>Mon, 22 Jun 2020 22:11:28 GMT</pubDate>
-            <content:encoded><![CDATA[There have been several times in my C# career where I’ve had to generate new class types at runtime. Hopefully writing about it will help others in the same situation. It also means I won’t have to look up the same StackOverflow articles again in the future! Whilst I originally did this in .NET 4.6.2, I’ve provided samples for the newer .NET Core 3.0. All code is available on my public GitHub
+            <title><![CDATA[Introducing dotnet-monitor, an experimental tool]]></title>
+            <link>https://www.dotnetweekly.com/articles/introducing-dotnet-monitor-an-experimental-tool</link>
+            <guid>https://www.dotnetweekly.com/articles/introducing-dotnet-monitor-an-experimental-tool</guid>
+            <pubDate>Tue, 30 Jun 2020 16:53:59 GMT</pubDate>
+            <content:encoded><![CDATA[dotnet-monitor is an experimental tool that makes it easier to get access to diagnostics information in a dotnet process.
 
-]]></content:encoded>
+When running a dotnet application differences in diverse local and production environments can make collecting diagnostics artifacts (e.g., logs, traces, process dumps) challenging. dotnet-monitor aims to simplify the process by exposing a consistent REST API regardless of where your application is run.
+
+This blog post details how to get started with dotnet-monitor and covers the following:
+
+How to setup dotnet-monitor
+What diagnostics artifacts can be collected; and
+How to collect each of the artifacts]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Zero Trust—Part 1: Networking]]></title>
-            <link>https://www.dotnetweekly.com/articles/zero-trustpart-1-networking</link>
-            <guid>https://www.dotnetweekly.com/articles/zero-trustpart-1-networking</guid>
-            <pubDate>Mon, 22 Jun 2020 22:10:30 GMT</pubDate>
-            <content:encoded><![CDATA[Enterprises used to be able to secure their corporate perimeters with traditional network controls and feel confident that they were keeping hackers out. However, in a mobile- and cloud-first world, in which the rate and the sophistication level of security attacks are increasing, they can no longer rely on this approach. Taking a Zero Trust approach can help to ensure optimal security without compromising end user application experiences.
-
-Microsoft has a long history of working with customers on how to protect against a broad range of security attacks and we are one of the largest producers of threat intelligence built on the variety of data that flows through our network.]]></content:encoded>
+            <title><![CDATA[How to secure ASP.NET Core with OAuth and JSON Web Tokens]]></title>
+            <link>https://www.dotnetweekly.com/articles/how-to-secure-aspnet-core-with-oauth-and-json-web-tokens</link>
+            <guid>https://www.dotnetweekly.com/articles/how-to-secure-aspnet-core-with-oauth-and-json-web-tokens</guid>
+            <pubDate>Tue, 30 Jun 2020 06:28:28 GMT</pubDate>
+            <content:encoded><![CDATA[Learn about how to secure your ASP.NET Core APIs with OAuth 2.0 and JSON Web Tokens without using third-party services like IdentityServer, Okta, and Auth0.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Advanced Pagination in ASP.NET Core WebApi – Ultimate Guide]]></title>
-            <link>https://www.dotnetweekly.com/articles/advanced-pagination-in-aspnet-core-webapi-ultimate-guide</link>
-            <guid>https://www.dotnetweekly.com/articles/advanced-pagination-in-aspnet-core-webapi-ultimate-guide</guid>
-            <pubDate>Mon, 22 Jun 2020 21:57:58 GMT</pubDate>
-            <content:encoded><![CDATA[In this guide, we will learn how to implement Advanced Pagination in ASP.NET Core WebApi with ease. Pagination is one of the most important concepts while building RESTful APIs. You would have seen several public APIs implementing this feature for better user experience and security. We will go in detail and try to build an ASP.NET Core 3.1 WebApi that implements advanced pagination.
-
-]]></content:encoded>
+            <title><![CDATA[Nano services with ASP.NET Core or how to build a light API]]></title>
+            <link>https://www.dotnetweekly.com/articles/nano-services-with-aspnet-core-or-how-to-build-a-light-api</link>
+            <guid>https://www.dotnetweekly.com/articles/nano-services-with-aspnet-core-or-how-to-build-a-light-api</guid>
+            <pubDate>Mon, 29 Jun 2020 23:51:56 GMT</pubDate>
+            <content:encoded><![CDATA[This post might seem bizzare at first. In fact the idea of writing this article did not come to me on my own. The original idea came from a James Newton King tweet, this last is offering a way to write an API in the simplest possible way, efficient and without any particular framework. I found it cool and that’s why I’m making it a post today. Here is his original tweet: https://twitter.com/JamesNK/status/1276450146365001728]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Validation in ASP .NET Core 3.1]]></title>
-            <link>https://www.dotnetweekly.com/articles/validation-in-asp-net-core-31</link>
-            <guid>https://www.dotnetweekly.com/articles/validation-in-asp-net-core-31</guid>
-            <pubDate>Mon, 22 Jun 2020 21:55:06 GMT</pubDate>
-            <content:encoded><![CDATA[This is the twenty-second of a new series of posts on ASP .NET Core 3.1 for 2020. In this series, we’ll cover 26 topics over a span of 26 weeks from January through June 2020, titled ASP .NET Core A-Z! To differentiate from the 2019 series, the 2020 series will mostly focus on a growing single codebase (NetLearner!) instead of new unrelated code snippets week.
+            <title><![CDATA[Repository Pattern in ASP.NET Core – Ultimate Guide]]></title>
+            <link>https://www.dotnetweekly.com/articles/repository-pattern-in-aspnet-core-ultimate-guide</link>
+            <guid>https://www.dotnetweekly.com/articles/repository-pattern-in-aspnet-core-ultimate-guide</guid>
+            <pubDate>Mon, 29 Jun 2020 12:24:17 GMT</pubDate>
+            <content:encoded><![CDATA[In this extensive guide, we will go through everything you will need to know about Repository Pattern in ASP.NET Core, Generic Repository Patterns, Unit of Work and related topics. We will build a project right from scratch where we implement a clean architecture to access data.
 
-]]></content:encoded>
+We will cover the following topics.
+1. Repository Pattern?
+2. Benefits
+3. Generic Repository Pattern
+4. Implementation in ASP.NET Core WebAPI along-with EFCore
+5.Unit Of Work for Commiting Changes to the DB
+and more..]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[gRPC-Web for .NET now available]]></title>
-            <link>https://www.dotnetweekly.com/articles/grpc-web-for-net-now-available</link>
-            <guid>https://www.dotnetweekly.com/articles/grpc-web-for-net-now-available</guid>
-            <pubDate>Mon, 22 Jun 2020 21:54:17 GMT</pubDate>
-            <content:encoded><![CDATA[gRPC-Web for .NET is now officially released. We announced experimental support in January and since then we’ve been making improvements based on feedback from early adopters.
-
-With this release gRPC-Web graduates to a fully supported component of the grpc-dotnet project and is ready for production. Use gRPC in the browser with gRPC-Web and .NET today.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Integrating AdminLTE with ASP.NET Core 3.1 – Detailed]]></title>
-            <link>https://www.dotnetweekly.com/articles/integrating-adminlte-with-aspnet-core-31-detailed</link>
-            <guid>https://www.dotnetweekly.com/articles/integrating-adminlte-with-aspnet-core-31-detailed</guid>
-            <pubDate>Mon, 22 Jun 2020 17:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[We will learn about Integrating AdminLTE with ASP.NET Core 3.1 MVC or really any other Bootstrap based UI Frameworks completely from scratch. We will also go through about integrating Identity Authentication to our MVC Applicaiton. Also, you will gain quite a lot of practical knowledge on Views, Layouts, Partial Views, Conditional Rendering, Navigation Indicatior and much more.
-
-Here are the Features included.
-
-Integration with a Third Party Bootrstrap Template.
-
-Clean usage and seperation of Layouts, Views and Partial Views.
-
-Integration of Identity Authentication
-
-Scaffolded Identity
-
-Conditional Rendering
-
-Login / Register / Logout and more]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Introducing GitHub Super Linter: one linter to rule them all]]></title>
-            <link>https://www.dotnetweekly.com/articles/introducing-github-super-linter-one-linter-to-rule-them-all</link>
-            <guid>https://www.dotnetweekly.com/articles/introducing-github-super-linter-one-linter-to-rule-them-all</guid>
-            <pubDate>Mon, 22 Jun 2020 17:08:22 GMT</pubDate>
-            <content:encoded><![CDATA[Setting up a new repository with all the right linters for the different types of code can be time consuming and tedious. So many tools and configurations to choose from and often more than one linter is needed to cover all the languages used.
-
-The GitHub Super Linter was built out of necessity by the GitHub Services DevOps Engineering team to maintain consistency in our documentation and code while making communication and collaboration across the company a more productive experience. Now we are open sourcing that so everyone can use and improve it!
-
-The Super Linter solves many of these requirements through automation. Some included features:
-
-Prevent broken code from being uploaded to master branches
-Help establish coding best practices across multiple languages
-Build guidelines for code layout and format
-Automate the process to help streamline code reviews
-With these basic criteria, we should be shipping better, cleaner, and more stable code internally and to our customers and partners
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[API Gateway with Ocelot and RabbitMQ]]></title>
-            <link>https://www.dotnetweekly.com/articles/api-gateway-with-ocelot-and-rabbitmq</link>
-            <guid>https://www.dotnetweekly.com/articles/api-gateway-with-ocelot-and-rabbitmq</guid>
-            <pubDate>Mon, 22 Jun 2020 12:12:48 GMT</pubDate>
-            <content:encoded><![CDATA[In this episode, we talk about API Gateway. What is its responsibility? What's the difference between synchronous and asynchronous gateway? What tools are available in .NET world? All the above will be discussed during this episode!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Inbox & Outbox pattern - transactional message processing]]></title>
-            <link>https://www.dotnetweekly.com/articles/inbox-and-outbox-pattern-transactional-message-processing</link>
-            <guid>https://www.dotnetweekly.com/articles/inbox-and-outbox-pattern-transactional-message-processing</guid>
-            <pubDate>Mon, 22 Jun 2020 12:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[In this episode, we talk about exactly once processing and guaranteed message delivery with the usage of inbox & outbox pattern.]]></content:encoded>
+            <title><![CDATA[JSON-RPC in ASP.NET Core With StreamJsonRpc]]></title>
+            <link>https://www.dotnetweekly.com/articles/json-rpc-in-aspnet-core-with-streamjsonrpc</link>
+            <guid>https://www.dotnetweekly.com/articles/json-rpc-in-aspnet-core-with-streamjsonrpc</guid>
+            <pubDate>Mon, 29 Jun 2020 09:11:40 GMT</pubDate>
+            <content:encoded><![CDATA[ASP.NET Core already has nice RPC options like SignalR and gRPC. JSON-RPC is an interesting, lightweight and flexible option, which is complementary to the existing ones.]]></content:encoded>
         </item>
     </channel>
 </rss>

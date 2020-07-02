@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/new-free-ebook-a-quick-guide-to-expert-net-reporting-tools</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/the-magical-methods-in-c</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/configuring-and-using-memcached-in-aspnet-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/integrating-aspnet-core-api-logs-to-azure-application-insights-via-ilogger</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/how-to-deploy-blazor-webassembly-on-github-pages-using-github-actions</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/introducing-secret-store</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/how-do-i-think-about-async-code</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/net-with-scott-hunter-part-1</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/introducing-dotnet-monitor-an-experimental-tool</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/how-to-secure-aspnet-core-with-oauth-and-json-web-tokens</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/nano-services-with-aspnet-core-or-how-to-build-a-light-api</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/repository-pattern-in-aspnet-core-ultimate-guide</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/json-rpc-in-aspnet-core-with-streamjsonrpc</loc> </url>
+</urlset>
