@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/introduction-to-network-communication-between-docker-containers</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/blazor-gamedev-part-3-sprite-rendering</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/extracting-and-hashing-lazy-loaded-css-in-angular</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/add-razor-runtime-compilation-when-developing-asp-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/the-easiest-way-to-version-nuget-packages</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/building-and-consuming-graphql-api-in-aspnet-core-31</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/getting-started-with-gitflow</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/a-distributed-tracing-adventure-in-apache-beam</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/12-visual-studio-debugging-productivity-tips</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/micro-services-communication-rabbitmq-and-aspnet-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/aspnet-core-social-authentication-without-identity</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/announcing-pylance-fast-feature-rich-language-support-for-python-in-visual-studio-code</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/launching-docsgithubcom</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/blazor-gamedev-part-2-canvas-initialization</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/exposing-proto-files-in-a-grpc-service-over-a-frameworkless-and-lightweight-api</loc> </url>
 </urlset>
