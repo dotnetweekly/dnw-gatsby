@@ -1,4 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/thread-safety-and-scoped-lifetime-in-dependency-injection-containers</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/asynchronous-messaging-with-azure-service-bus</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/register-now-azure-sql-bootcamp</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/microservices-with-aspnet-core-31</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/get-started-with-terraform-on-azure</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/blazor-vs-traditional-web-apps</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/zero-to-hero-with-app-service-part-4-migrate-applications-to-azure-app-service</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-key-vault-and-managed-identities-with-azure-functions</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/net-on-aws-introducing-docker-ecs-integration</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/getting-started-with-microsoft-graph-api</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/graphql-on-azure-part-2-dotnet-and-app-service</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/look-behind-the-iqueryable-curtain</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/the-code-smell-every-project-suffers-from</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/not-always-ide-tip-and-modern-functions-work-very-well-await-using-entityframework-story</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/adminlte-starter-kit-for-aspnet-core-open-source</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/improving-http-resilience-in-blazor-webassembly</loc> </url>
 </urlset>
