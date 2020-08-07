@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/azure-static-web-apps-are-awesome</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/opentelemetry-net-beta-released</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/in-memory-caching-in-aspnet-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-net-core-tools-to-create-reusable-and-shareable-tools-and-apps</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/learn-about-the-latest-net-productivity-features</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/build-high-performance-microservices-with-grpc-and-net</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/monitoring-net-core-applications-on-kubernetes</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/i-love-azure-static-web-apps</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/learning-how-to-transition-your-sql-server-skills-to-azure-sql</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/getting-started-apache-kafka-with-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/blazor-gamedev-part-7-animations</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/azure-fundamentals-almost-all-you-need-to-know</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/shifting-from-expressjs-to-azure-functions</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/videos/performance-with-profiling-part-3-profiling-and-production</loc> </url>
 </urlset>
