@@ -4,11 +4,28 @@
         <title>dotNET Weekly - Week 34 Year 2020</title>
         <link>https://www.dotnetweekly.com/week/34/year/2020?feed=rss</link>
         <description></description>
-        <lastBuildDate>Sun, 23 Aug 2020 02:36:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2020 03:16:42 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
-        <category>Videos</category>
         <category>Articles</category>
+        <category>Videos</category>
+        <item>
+            <title><![CDATA[Microservice Communication with RabbitMQ & MassTransit in ASP. NET Core]]></title>
+            <link>https://www.dotnetweekly.com/articles/microservice-communication-with-rabbitmq-and-masstransit-in-asp-net-core</link>
+            <guid>https://www.dotnetweekly.com/articles/microservice-communication-with-rabbitmq-and-masstransit-in-asp-net-core</guid>
+            <pubDate>Fri, 21 Aug 2020 17:49:08 GMT</pubDate>
+            <content:encoded><![CDATA[Here is a detailed article on how to send / receive data between various Microservices. We will be using RabbitMQ and Masstransit (a dotNet Abstraction for Messge-Brokers like RabbitMQ). This is a very beginner friendly article.
+
+Here are the topics covered -
+
+1. What is RabbitMQ? Advantages?
+2. Setting up the Environment - Installing RabbitMQ Server and Enabling the Dashboard
+3. Setting up the the Publisher Microservice
+4. Setting up the the Consumer Microservice
+5. Testing the Microservice
+5.1 Scenario #1 – When the Consumer is Online
+5.2 Scenario #2 – Consumer is Offline. Back Online after N Minutes]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Azure SQL Capacity Planning: Overview | Data Exposed]]></title>
             <link>https://www.dotnetweekly.com/articles/azure-sql-capacity-planning-overview-data-exposed</link>
