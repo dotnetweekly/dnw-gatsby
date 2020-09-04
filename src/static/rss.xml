@@ -4,10 +4,110 @@
         <title>dotNET Weekly - Week undefined Year undefined</title>
         <link>https://www.dotnetweekly.com/week/undefined/year/undefined?feed=rss</link>
         <description></description>
-        <lastBuildDate>Sun, 30 Aug 2020 07:48:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Sep 2020 07:06:14 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <category>Articles</category>
+        <item>
+            <title><![CDATA[Securing Azure Functions using certificate authentication]]></title>
+            <link>https://www.dotnetweekly.com/articles/securing-azure-functions-using-certificate-authentication</link>
+            <guid>https://www.dotnetweekly.com/articles/securing-azure-functions-using-certificate-authentication</guid>
+            <pubDate>Fri, 04 Sep 2020 07:04:05 GMT</pubDate>
+            <content:encoded><![CDATA[This article shows how to secure Azure Functions using X509 certificates. The client is required to send a specific certificate to access the Azure Function.
+
+Code: https://github.com/damienbod/AzureFunctionsSecurity
+
+Blogs in the series
+
+Securing Azure Functions using API Keys
+Securing Azure Functions using Certificate authentication]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[np - A better npm publish]]></title>
+            <link>https://www.dotnetweekly.com/articles/np-a-better-npm-publish</link>
+            <guid>https://www.dotnetweekly.com/articles/np-a-better-npm-publish</guid>
+            <pubDate>Thu, 03 Sep 2020 17:31:34 GMT</pubDate>
+            <content:encoded><![CDATA[Interactive UI
+Ensures you are publishing from your release branch (main and master by default)
+Ensures the working directory is clean and that there are no unpulled changes
+Reinstalls dependencies to ensure your project works with the latest dependency tree
+Ensures your Node.js and npm versions are supported by the project and its dependencies
+Runs the tests
+Bumps the version in package.json and npm-shrinkwrap.json (if present) and creates a git tag
+Prevents accidental publishing of pre-release versions under the latest dist-tag
+Publishes the new version to npm, optionally under a dist-tag
+Rolls back the project to its previous state in case publishing fails
+Pushes commits and tags (newly & previously created) to GitHub/GitLab
+Supports two-factor authentication
+Enables two-factor authentication on new repositories
+(does not apply to external registries)
+Opens a prefilled GitHub Releases draft after publish
+Warns about the possibility of extraneous files being published
+See exactly what will be executed with preview mode, without pushing or publishing anything remotely
+Supports GitHub Packages]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Awesome Microservices .NET Core Resources]]></title>
+            <link>https://www.dotnetweekly.com/articles/awesome-microservices-net-core-resources</link>
+            <guid>https://www.dotnetweekly.com/articles/awesome-microservices-net-core-resources</guid>
+            <pubDate>Thu, 03 Sep 2020 17:09:21 GMT</pubDate>
+            <content:encoded><![CDATA[The Best Resources for Microservices in .NET Core - Tutorials, Source Code Samples, ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Build a REST API in .NET Core]]></title>
+            <link>https://www.dotnetweekly.com/articles/build-a-rest-api-in-net-core</link>
+            <guid>https://www.dotnetweekly.com/articles/build-a-rest-api-in-net-core</guid>
+            <pubDate>Thu, 03 Sep 2020 04:38:19 GMT</pubDate>
+            <content:encoded><![CDATA[One way to scale large complex solutions is to break them out into REST microservices. Microservices unlock testability and reusability of business logic that sits behind an API boundary. This allows organizations to share software modules because REST APIs can be reused by multiple clients. Clients can then call as many APIs from mobile, web, or even static assets via a single-page app.
+
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Symmetric and Asymmetric Encryption in .NET Core]]></title>
+            <link>https://www.dotnetweekly.com/articles/symmetric-and-asymmetric-encryption-in-net-core</link>
+            <guid>https://www.dotnetweekly.com/articles/symmetric-and-asymmetric-encryption-in-net-core</guid>
+            <pubDate>Thu, 03 Sep 2020 04:36:48 GMT</pubDate>
+            <content:encoded><![CDATA[This post looks at symmetric and asymmetric encryption and how this could be implemented in .NET Core. Symmetric encryption is fast and can encrypt or decrypt large amounts of text, streams or files but requires a shared key. Asymmetric encryption can be used without shared a key, but can only encrypt or decrypt small texts depending of the key size.
+
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Deploying .NET Core to Heroku]]></title>
+            <link>https://www.dotnetweekly.com/articles/deploying-net-core-to-heroku</link>
+            <guid>https://www.dotnetweekly.com/articles/deploying-net-core-to-heroku</guid>
+            <pubDate>Thu, 03 Sep 2020 04:35:53 GMT</pubDate>
+            <content:encoded><![CDATA[I've always loved coding in C#. Equally, I love using Heroku to host personal projects - they have a nice UI, and a free tier!
+
+However, there are a few limitations. Notably, .NET Core is not supported out of the box 😢. We can fix that!]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[A Deep Dive into How .NET Builds and Ships]]></title>
+            <link>https://www.dotnetweekly.com/articles/a-deep-dive-into-how-net-builds-and-ships</link>
+            <guid>https://www.dotnetweekly.com/articles/a-deep-dive-into-how-net-builds-and-ships</guid>
+            <pubDate>Thu, 03 Sep 2020 04:35:33 GMT</pubDate>
+            <content:encoded><![CDATA[This is a deep technical dive into the machinery and processes used by the .NET Team to build and ship .NET. It will be of interest to those who wish to know about such topics as:
+
+How .NET builds a product developed across many repos.
+Safely handles security patches.
+Preps and validates a product for release.
+This post begins by laying out the multi-repository world that makes up the .NET product, its inherent challenges, and how we deal with them. This is a review of some of the information presented in The Evolving Infrastructure of .NET Core. Then it takes a close look at how we build, prep, and ship the product, especially around releases that include security fixes.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Implementing Authorization Code grant using Identityserver4 with PKCE]]></title>
+            <link>https://www.dotnetweekly.com/articles/implementing-authorization-code-grant-using-identityserver4-with-pkce</link>
+            <guid>https://www.dotnetweekly.com/articles/implementing-authorization-code-grant-using-identityserver4-with-pkce</guid>
+            <pubDate>Tue, 01 Sep 2020 12:56:52 GMT</pubDate>
+            <content:encoded><![CDATA[In this article, let's look at one of the most commonly used OAuth flow which involves a user interaction with the Authorization Server for accessing a resource. This is called as the Authorization Code flow, provided by the Authorization Code grant type. This flow is further strengthened by PKCE aka Proof Key for Code Exchange, which adds another layer of security by means of code_challenge and code_verifier concept.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Building Flappy Bird with Blazor (Part One)]]></title>
+            <link>https://www.dotnetweekly.com/articles/building-flappy-bird-with-blazor-part-one</link>
+            <guid>https://www.dotnetweekly.com/articles/building-flappy-bird-with-blazor-part-one</guid>
+            <pubDate>Tue, 01 Sep 2020 01:37:22 GMT</pubDate>
+            <content:encoded><![CDATA[In this tutorial series, we will be recreating the infamous Flappy Bird game using Blazor WebAssembly. This project was inspired by the vanilla JavaScript project created by Ania Kubow. In contrast to Ania’s project, however, our Blazor application will be written in C#, without any JavaScript.
+
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Docker compose an ASP NET Core application with SQL Server]]></title>
             <link>https://www.dotnetweekly.com/articles/docker-compose-an-asp-net-core-application-with-sql-server</link>
@@ -36,6 +136,15 @@ Here is the Dockerfile I generated using Docker extension VS Code.]]></content:e
             <content:encoded><![CDATA[Earlier this year, a friend who is a dev advocate for .NET on AWS reached out to me to see if I had any awareness at all about the support Amazon Web Services has for .NET developers and .NET applications. My answer was a definite no. I’m an Azure fan girl and had never even thought about .NET on AWS. When he started rattling off some of what’s available, APIs, tooling and a dedicated team, I was surprised.
 
 ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Blazor GameDev – part 9: Finite State Machine]]></title>
+            <link>https://www.dotnetweekly.com/articles/blazor-gamedev-part-9-finite-state-machine</link>
+            <guid>https://www.dotnetweekly.com/articles/blazor-gamedev-part-9-finite-state-machine</guid>
+            <pubDate>Mon, 31 Aug 2020 01:45:50 GMT</pubDate>
+            <content:encoded><![CDATA[Hi everyone! Welcome back to part 8 of our Blazor 2d Gamedev series. Today we’ll keep refactoring our last example, cleaning up the code using a Finite State Machine.
+
+As usual, you can check out the results in your browser before moving on. Use left/right arrows to move the player and the space bar to attack.]]></content:encoded>
         </item>
     </channel>
 </rss>
