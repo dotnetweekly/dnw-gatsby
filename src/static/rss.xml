@@ -4,70 +4,156 @@
         <title>dotNET Weekly - Week undefined Year undefined</title>
         <link>https://www.dotnetweekly.com/week/undefined/year/undefined?feed=rss</link>
         <description></description>
-        <lastBuildDate>Fri, 04 Sep 2020 07:06:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Sep 2020 19:28:59 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <category>Articles</category>
+        <category>Videos</category>
+        <category>Libraries-Tools</category>
         <item>
-            <title><![CDATA[Securing Azure Functions using certificate authentication]]></title>
-            <link>https://www.dotnetweekly.com/articles/securing-azure-functions-using-certificate-authentication</link>
-            <guid>https://www.dotnetweekly.com/articles/securing-azure-functions-using-certificate-authentication</guid>
-            <pubDate>Fri, 04 Sep 2020 07:04:05 GMT</pubDate>
-            <content:encoded><![CDATA[This article shows how to secure Azure Functions using X509 certificates. The client is required to send a specific certificate to access the Azure Function.
-
-Code: https://github.com/damienbod/AzureFunctionsSecurity
-
-Blogs in the series
-
-Securing Azure Functions using API Keys
-Securing Azure Functions using Certificate authentication]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[np - A better npm publish]]></title>
-            <link>https://www.dotnetweekly.com/articles/np-a-better-npm-publish</link>
-            <guid>https://www.dotnetweekly.com/articles/np-a-better-npm-publish</guid>
-            <pubDate>Thu, 03 Sep 2020 17:31:34 GMT</pubDate>
-            <content:encoded><![CDATA[Interactive UI
-Ensures you are publishing from your release branch (main and master by default)
-Ensures the working directory is clean and that there are no unpulled changes
-Reinstalls dependencies to ensure your project works with the latest dependency tree
-Ensures your Node.js and npm versions are supported by the project and its dependencies
-Runs the tests
-Bumps the version in package.json and npm-shrinkwrap.json (if present) and creates a git tag
-Prevents accidental publishing of pre-release versions under the latest dist-tag
-Publishes the new version to npm, optionally under a dist-tag
-Rolls back the project to its previous state in case publishing fails
-Pushes commits and tags (newly & previously created) to GitHub/GitLab
-Supports two-factor authentication
-Enables two-factor authentication on new repositories
-(does not apply to external registries)
-Opens a prefilled GitHub Releases draft after publish
-Warns about the possibility of extraneous files being published
-See exactly what will be executed with preview mode, without pushing or publishing anything remotely
-Supports GitHub Packages]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Awesome Microservices .NET Core Resources]]></title>
-            <link>https://www.dotnetweekly.com/articles/awesome-microservices-net-core-resources</link>
-            <guid>https://www.dotnetweekly.com/articles/awesome-microservices-net-core-resources</guid>
-            <pubDate>Thu, 03 Sep 2020 17:09:21 GMT</pubDate>
-            <content:encoded><![CDATA[The Best Resources for Microservices in .NET Core - Tutorials, Source Code Samples, ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Build a REST API in .NET Core]]></title>
-            <link>https://www.dotnetweekly.com/articles/build-a-rest-api-in-net-core</link>
-            <guid>https://www.dotnetweekly.com/articles/build-a-rest-api-in-net-core</guid>
-            <pubDate>Thu, 03 Sep 2020 04:38:19 GMT</pubDate>
-            <content:encoded><![CDATA[One way to scale large complex solutions is to break them out into REST microservices. Microservices unlock testability and reusability of business logic that sits behind an API boundary. This allows organizations to share software modules because REST APIs can be reused by multiple clients. Clients can then call as many APIs from mobile, web, or even static assets via a single-page app.
+            <title><![CDATA[Free e-book: Blazor for ASP.NET Web Forms Developers]]></title>
+            <link>https://www.dotnetweekly.com/articles/free-e-book-blazor-for-aspnet-web-forms-developers</link>
+            <guid>https://www.dotnetweekly.com/articles/free-e-book-blazor-for-aspnet-web-forms-developers</guid>
+            <pubDate>Fri, 11 Sep 2020 19:25:39 GMT</pubDate>
+            <content:encoded><![CDATA[We are thrilled to announce the release of our new e-book: Blazor for ASP.NET Web Forms developers. This book caters specifically to ASP.NET Web Forms developers looking for guidelines. As well as strategies for migrating their existing apps to a modern, open-source, and cross-platform web framework.
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Symmetric and Asymmetric Encryption in .NET Core]]></title>
-            <link>https://www.dotnetweekly.com/articles/symmetric-and-asymmetric-encryption-in-net-core</link>
-            <guid>https://www.dotnetweekly.com/articles/symmetric-and-asymmetric-encryption-in-net-core</guid>
-            <pubDate>Thu, 03 Sep 2020 04:36:48 GMT</pubDate>
-            <content:encoded><![CDATA[This post looks at symmetric and asymmetric encryption and how this could be implemented in .NET Core. Symmetric encryption is fast and can encrypt or decrypt large amounts of text, streams or files but requires a shared key. Asymmetric encryption can be used without shared a key, but can only encrypt or decrypt small texts depending of the key size.
+            <title><![CDATA[Settings Sync for Visual Studio Code]]></title>
+            <link>https://www.dotnetweekly.com/articles/settings-sync-for-visual-studio-code</link>
+            <guid>https://www.dotnetweekly.com/articles/settings-sync-for-visual-studio-code</guid>
+            <pubDate>Fri, 11 Sep 2020 19:25:18 GMT</pubDate>
+            <content:encoded><![CDATA[For the longest time, if you wanted to sync settings across Visual Studio Code instances, you’d need to use Shan Khan’s extension Settings Sync. That was essentially your only option. In fact, that extension has had nearly 2 million installs to date! There’s still a great benefit to using the extension. For one, you could backup the settings to GitHub and compare versions of the settings. However, if you’re looking for a native implementation, the Visual Studio Code team now has one.
+
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Unit Testing in TypeScript Code]]></title>
+            <link>https://www.dotnetweekly.com/articles/unit-testing-in-typescript-code</link>
+            <guid>https://www.dotnetweekly.com/articles/unit-testing-in-typescript-code</guid>
+            <pubDate>Fri, 11 Sep 2020 19:24:36 GMT</pubDate>
+            <content:encoded><![CDATA[We all need to unit test our code to verify that it works the way it’s supposed to. Fortunately, Rider has the tools to enable you to test code more efficiently and quickly. In this post, we’ll look at using Mocha and Chai to write unit tests in TypeScript.
+
+
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Securing Azure Functions using an Azure Virtual Network]]></title>
+            <link>https://www.dotnetweekly.com/articles/securing-azure-functions-using-an-azure-virtual-network</link>
+            <guid>https://www.dotnetweekly.com/articles/securing-azure-functions-using-an-azure-virtual-network</guid>
+            <pubDate>Fri, 11 Sep 2020 19:23:32 GMT</pubDate>
+            <content:encoded><![CDATA[In this post, an Azure Function is deployed in an Azure Virtual Network and the access to the Azure Function is restricted so that it cannot be reached from the Internet. Only Applications deployed in the same VNET can access the Azure Functions.
+
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[YAG - Yet Another Gateway with YARP]]></title>
+            <link>https://www.dotnetweekly.com/articles/yag-yet-another-gateway-with-yarp</link>
+            <guid>https://www.dotnetweekly.com/articles/yag-yet-another-gateway-with-yarp</guid>
+            <pubDate>Fri, 11 Sep 2020 05:20:05 GMT</pubDate>
+            <content:encoded><![CDATA[Have you ever heard of YARP project? Did you ever use an API Gateway in your solution? Regardless of the answers being true or false - let us introduce YAG - Yet Another Gateway. This is the very first post from the series focused on building your own API Gateway.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The Power of Extension Methods]]></title>
+            <link>https://www.dotnetweekly.com/articles/the-power-of-extension-methods</link>
+            <guid>https://www.dotnetweekly.com/articles/the-power-of-extension-methods</guid>
+            <pubDate>Thu, 10 Sep 2020 12:51:20 GMT</pubDate>
+            <content:encoded><![CDATA[The Power of Extension Methods]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[String and string in C#. What's the difference?]]></title>
+            <link>https://www.dotnetweekly.com/articles/string-and-string-in-c-whats-the-difference</link>
+            <guid>https://www.dotnetweekly.com/articles/string-and-string-in-c-whats-the-difference</guid>
+            <pubDate>Thu, 10 Sep 2020 12:50:46 GMT</pubDate>
+            <content:encoded><![CDATA[String and string in C#. What's the difference?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Little Known ASP.NET Core Features - HTTP Trailers]]></title>
+            <link>https://www.dotnetweekly.com/articles/little-known-aspnet-core-features-http-trailers</link>
+            <guid>https://www.dotnetweekly.com/articles/little-known-aspnet-core-features-http-trailers</guid>
+            <pubDate>Thu, 10 Sep 2020 07:33:46 GMT</pubDate>
+            <content:encoded><![CDATA[In every ASP.NET Core release, there are small features that nobody talks about. This post talks about one of such features - HTTP Trailers.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Learn how to deploy .NET Core apps to Azure with GitHub Actions]]></title>
+            <link>https://www.dotnetweekly.com/articles/learn-how-to-deploy-net-core-apps-to-azure-with-github-actions</link>
+            <guid>https://www.dotnetweekly.com/articles/learn-how-to-deploy-net-core-apps-to-azure-with-github-actions</guid>
+            <pubDate>Thu, 10 Sep 2020 01:06:55 GMT</pubDate>
+            <content:encoded><![CDATA[GitHub Actions makes it easy to automate all your software workflows. Tim Heuer joins Scott Hanselman to saunter through the process of deploying .NET Core apps to Azure using GitHub Actions.
+
+[0:00:00]- Overview
+[0:00:19]- Project setup
+[0:04:02]- Configuring the workflow
+[0:07:29]- Build job - setting up the environment
+[0:13:18]- Build job - configuring the build
+[0:16:07]- Getting the publish profile from Azure
+[0:17:45]- Build job - handling secrets
+[0:20:37]- Build job - deploying to Azure
+[0:22:34]- Actions tab in GitHub and workflow log review
+[0:24:59]- Adding artifacts to the job 
+[0:27:59]- Wrap-up]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[App Trimming in .NET 5]]></title>
+            <link>https://www.dotnetweekly.com/articles/app-trimming-in-net-5</link>
+            <guid>https://www.dotnetweekly.com/articles/app-trimming-in-net-5</guid>
+            <pubDate>Thu, 10 Sep 2020 01:05:13 GMT</pubDate>
+            <content:encoded><![CDATA[One of the big differences between .NET Core and .NET Framework is that .NET Core supports self-contained deployment – everything needed to run the application is bundled together. It doesn’t depend on having the framework separately installed. From an application developer perspective, this means that you know exactly which version of the runtime is being used, and the installation/setup is easier. The downside is the size – it pulls along a complete copy of the runtime & framework.
+
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Learn Docker in a Month of Lunches: Day 1]]></title>
+            <link>https://www.dotnetweekly.com/articles/learn-docker-in-a-month-of-lunches-day-1</link>
+            <guid>https://www.dotnetweekly.com/articles/learn-docker-in-a-month-of-lunches-day-1</guid>
+            <pubDate>Thu, 10 Sep 2020 01:04:42 GMT</pubDate>
+            <content:encoded><![CDATA[Go from zero to production readiness with Docker in 20 days! I'm streaming my new book Learn Docker in a Month of Lunches, covering a chapter every weekday. And I have copies to give away every week! Find out more at https://diamol.net
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Testing Azure Functions on Azure DevOps – part 1: setup]]></title>
+            <link>https://www.dotnetweekly.com/articles/testing-azure-functions-on-azure-devops-part-1-setup</link>
+            <guid>https://www.dotnetweekly.com/articles/testing-azure-functions-on-azure-devops-part-1-setup</guid>
+            <pubDate>Thu, 10 Sep 2020 01:02:01 GMT</pubDate>
+            <content:encoded><![CDATA[Hi All! Today we’re going to talk a bit about testing strategies for Azure Functions. We’ll see how setup our test framework and in another article, we’ll see how to create a build pipeline on Azure DevOps.
+
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[RESTful API versioning with ASP.NET Core]]></title>
+            <link>https://www.dotnetweekly.com/articles/restful-api-versioning-with-aspnet-core</link>
+            <guid>https://www.dotnetweekly.com/articles/restful-api-versioning-with-aspnet-core</guid>
+            <pubDate>Thu, 10 Sep 2020 01:00:20 GMT</pubDate>
+            <content:encoded><![CDATA[This blog post will discuss about the commonly used API Versioning strategies and how to implement them in ASP.NET Core Web API.
+
+For the demo purposes I am creating an ASP.NET Core WEB API project using dotnet new webapi command. To implement versioning we need to add reference of the Microsoft.AspNetCore.Mvc.Versioning nuget package, which we can do by running ` dotnet add package Microsoft.AspNetCore.Mvc.Versioning` command.
+
+Once the package reference is added, in the ConfigureServices method, Versioning support can be added using AddApiVersioning(); method, like this.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[View your Azure Cache for Redis data in new Visual Studio Code extension]]></title>
+            <link>https://www.dotnetweekly.com/articles/view-your-azure-cache-for-redis-data-in-new-visual-studio-code-extension</link>
+            <guid>https://www.dotnetweekly.com/articles/view-your-azure-cache-for-redis-data-in-new-visual-studio-code-extension</guid>
+            <pubDate>Wed, 09 Sep 2020 21:08:53 GMT</pubDate>
+            <content:encoded><![CDATA[Azure Cache for Redis is an in-memory data store that is used to power fast, scalable applications. Now in preview, you can access all the caches under your Azure subscriptions and view their data with the new Azure Cache for Redis Visual Studio Code extension.
+
+With this new integration, you’ll be able to use Visual Studio Code to view, test, and debug your caches—in one streamlined experience. This extension enhances ease of development by eliminating the need to manually track connection and access keys to connect to your caches. Simply authenticate with your Azure account, and you’ll instantly be able to access your Azure Cache for Redis instances.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[C# 9.0: Improved pattern matching]]></title>
+            <link>https://www.dotnetweekly.com/articles/c-90-improved-pattern-matching</link>
+            <guid>https://www.dotnetweekly.com/articles/c-90-improved-pattern-matching</guid>
+            <pubDate>Wed, 09 Sep 2020 18:41:44 GMT</pubDate>
+            <content:encoded><![CDATA[If you liked the expressiveness of VB and always wish you could do something like this in C#, you are in luck.
+Discover all about the new logical expressions in C# 9.0 and how they improve pattern matching.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Fluid]]></title>
+            <link>https://www.dotnetweekly.com/articles/fluid</link>
+            <guid>https://www.dotnetweekly.com/articles/fluid</guid>
+            <pubDate>Wed, 09 Sep 2020 16:48:36 GMT</pubDate>
+            <content:encoded><![CDATA[The Fluid Framework is a TypeScript library for building distributed, real-time collaborative web applications.
 
 ]]></content:encoded>
         </item>
@@ -75,76 +161,65 @@ Supports GitHub Packages]]></content:encoded>
             <title><![CDATA[Deploying .NET Core to Heroku]]></title>
             <link>https://www.dotnetweekly.com/articles/deploying-net-core-to-heroku</link>
             <guid>https://www.dotnetweekly.com/articles/deploying-net-core-to-heroku</guid>
-            <pubDate>Thu, 03 Sep 2020 04:35:53 GMT</pubDate>
-            <content:encoded><![CDATA[I've always loved coding in C#. Equally, I love using Heroku to host personal projects - they have a nice UI, and a free tier!
+            <pubDate>Wed, 09 Sep 2020 15:54:18 GMT</pubDate>
+            <content:encoded><![CDATA[I've always loved coding in C#. Equally, I love using Heroku to host personal projects - they have a nice UI, and a free tier.
 
-However, there are a few limitations. Notably, .NET Core is not supported out of the box 😢. We can fix that!]]></content:encoded>
+However, there are a few limitations. Notably, .NET Core is not supported out of the box. We can fix that.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[A Deep Dive into How .NET Builds and Ships]]></title>
-            <link>https://www.dotnetweekly.com/articles/a-deep-dive-into-how-net-builds-and-ships</link>
-            <guid>https://www.dotnetweekly.com/articles/a-deep-dive-into-how-net-builds-and-ships</guid>
-            <pubDate>Thu, 03 Sep 2020 04:35:33 GMT</pubDate>
-            <content:encoded><![CDATA[This is a deep technical dive into the machinery and processes used by the .NET Team to build and ship .NET. It will be of interest to those who wish to know about such topics as:
-
-How .NET builds a product developed across many repos.
-Safely handles security patches.
-Preps and validates a product for release.
-This post begins by laying out the multi-repository world that makes up the .NET product, its inherent challenges, and how we deal with them. This is a review of some of the information presented in The Evolving Infrastructure of .NET Core. Then it takes a close look at how we build, prep, and ship the product, especially around releases that include security fixes.]]></content:encoded>
+            <title><![CDATA[Deploying ASP.NET Core applications to Kubernetes - Part 1]]></title>
+            <link>https://www.dotnetweekly.com/articles/deploying-aspnet-core-applications-to-kubernetes-part-1</link>
+            <guid>https://www.dotnetweekly.com/articles/deploying-aspnet-core-applications-to-kubernetes-part-1</guid>
+            <pubDate>Wed, 09 Sep 2020 15:53:39 GMT</pubDate>
+            <content:encoded><![CDATA[This post is the first in a series on deploying ASP.NET Core applications to Kubernetes. In this series I'll cover a variety of topics and things I've learned in deploying applications to Kubernetes. I'm not an expert on Kubernetes by any means, so I'm not going to go deep into a lot of the technical aspects, or describe setting up a Kubernetes cluster. Instead I'm going to focus on the app-developer's side, taking an application and deploying it to an existing cluster.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Implementing Authorization Code grant using Identityserver4 with PKCE]]></title>
-            <link>https://www.dotnetweekly.com/articles/implementing-authorization-code-grant-using-identityserver4-with-pkce</link>
-            <guid>https://www.dotnetweekly.com/articles/implementing-authorization-code-grant-using-identityserver4-with-pkce</guid>
-            <pubDate>Tue, 01 Sep 2020 12:56:52 GMT</pubDate>
-            <content:encoded><![CDATA[In this article, let's look at one of the most commonly used OAuth flow which involves a user interaction with the Authorization Server for accessing a resource. This is called as the Authorization Code flow, provided by the Authorization Code grant type. This flow is further strengthened by PKCE aka Proof Key for Code Exchange, which adds another layer of security by means of code_challenge and code_verifier concept.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Building Flappy Bird with Blazor (Part One)]]></title>
-            <link>https://www.dotnetweekly.com/articles/building-flappy-bird-with-blazor-part-one</link>
-            <guid>https://www.dotnetweekly.com/articles/building-flappy-bird-with-blazor-part-one</guid>
-            <pubDate>Tue, 01 Sep 2020 01:37:22 GMT</pubDate>
-            <content:encoded><![CDATA[In this tutorial series, we will be recreating the infamous Flappy Bird game using Blazor WebAssembly. This project was inspired by the vanilla JavaScript project created by Ania Kubow. In contrast to Ania’s project, however, our Blazor application will be written in C#, without any JavaScript.
+            <title><![CDATA[Introducing the Half type]]></title>
+            <link>https://www.dotnetweekly.com/articles/introducing-the-half-type</link>
+            <guid>https://www.dotnetweekly.com/articles/introducing-the-half-type</guid>
+            <pubDate>Wed, 09 Sep 2020 15:52:54 GMT</pubDate>
+            <content:encoded><![CDATA[The IEEE 754 specification defines many floating point types, including: binary16, binary32, binary64 and binary128. Most developers are familiar with binary32 (equivalent to float in C#) and binary64 (equivalent to double in C#). They provide a standard format to represent a wide range of values with a precision acceptable for many applications. .NET has always had float and double and with .NET 5 Preview 7, we’ve added a new Half type (equivalent to binary16)!
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Docker compose an ASP NET Core application with SQL Server]]></title>
-            <link>https://www.dotnetweekly.com/articles/docker-compose-an-asp-net-core-application-with-sql-server</link>
-            <guid>https://www.dotnetweekly.com/articles/docker-compose-an-asp-net-core-application-with-sql-server</guid>
-            <pubDate>Mon, 31 Aug 2020 07:42:53 GMT</pubDate>
-            <content:encoded><![CDATA[This blog post is about containerizing an ASP.NET Core Application with SQL Server. In this blog post I will explain how to run the migrations as part of the deployment process.
-
-In this post I am building an ASP.NET Core Web API application and I have enabled Swagger for testing purposes. I have added a Dockerfile and docker-compose.yaml file using Visual Studio code.
-
-Here is the Dockerfile I generated using Docker extension VS Code.]]></content:encoded>
+            <title><![CDATA[Handling long-running operations with #Azure Durable Entities]]></title>
+            <link>https://www.dotnetweekly.com/articles/handling-long-running-operations-with-azure-durable-entities</link>
+            <guid>https://www.dotnetweekly.com/articles/handling-long-running-operations-with-azure-durable-entities</guid>
+            <pubDate>Wed, 09 Sep 2020 02:46:55 GMT</pubDate>
+            <content:encoded><![CDATA[Long-running operations. Everyone, at some point in their career, has to face a time-consuming task. And on many occasions, you also need to know what's the status and what's going on right now. Did it fail? Did it complete successfully? ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Exploring the .NET Core library Coravel for Task Scheduling, Caching, Mailing and more]]></title>
-            <link>https://www.dotnetweekly.com/articles/exploring-the-net-core-library-coravel-for-task-scheduling-caching-mailing-and-more</link>
-            <guid>https://www.dotnetweekly.com/articles/exploring-the-net-core-library-coravel-for-task-scheduling-caching-mailing-and-more</guid>
-            <pubDate>Mon, 31 Aug 2020 07:42:28 GMT</pubDate>
-            <content:encoded><![CDATA[Coravel claims it is a "Near-zero config .NET Core library that makes Task Scheduling, Caching, Queuing, Mailing, Event Broadcasting (and more) a breeze!" A lovely claim, that is, in fact, true! It's open source and on Github at https://github.com/jamesmh/coravel so give Coravel a star!
+            <title><![CDATA[Facebook and LinkedIn groups for .NET developers]]></title>
+            <link>https://www.dotnetweekly.com/articles/facebook-and-linkedin-groups-for-net-developers</link>
+            <guid>https://www.dotnetweekly.com/articles/facebook-and-linkedin-groups-for-net-developers</guid>
+            <pubDate>Tue, 08 Sep 2020 06:39:53 GMT</pubDate>
+            <content:encoded><![CDATA[Get an overview of the best Facebook and LinkedIn groups to be a part of. Stay updated on new blog posts and ask questions or help other .NET developers.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Working with MongoDB in ASP.NET Core – Ultimate Guide]]></title>
+            <link>https://www.dotnetweekly.com/articles/working-with-mongodb-in-aspnet-core-ultimate-guide</link>
+            <guid>https://www.dotnetweekly.com/articles/working-with-mongodb-in-aspnet-core-ultimate-guide</guid>
+            <pubDate>Mon, 07 Sep 2020 15:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[In this article, we will learn about working with MongoDB in ASP.NET Core. We will be building a WebAPI Project that can manage customer data. Along the way we will cover various concepts including Introduction to NoSQL Database, What is MongoDB, Installing MongoDB Locally and on the Cloud, Integrating with ASP.NET Core and much more. In general, you will be getting a complete working knowledge with MongoDB and probably set enough to start implementing MongoDB in your next ASP.NET Core Project. 
 
+Here are the topics covered.
+1. What are NOSQL Databases?
+2. How NOSQL differs from SQL Databases?
+3. When to use NOSQL Databases?
+4. What is MongoDB?
+4.1 Installing MongoDB Server Locally
+4.2 Setting up MongoDB Cloud Atlas
+5. Setting up the ASP.NET Core 3.1 WebAPI Project - Customer CRUD
+6. Testing with POSTMAN
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Follow My Explorations into AWS for .NET Developers]]></title>
-            <link>https://www.dotnetweekly.com/articles/follow-my-explorations-into-aws-for-net-developers</link>
-            <guid>https://www.dotnetweekly.com/articles/follow-my-explorations-into-aws-for-net-developers</guid>
-            <pubDate>Mon, 31 Aug 2020 07:42:07 GMT</pubDate>
-            <content:encoded><![CDATA[Earlier this year, a friend who is a dev advocate for .NET on AWS reached out to me to see if I had any awareness at all about the support Amazon Web Services has for .NET developers and .NET applications. My answer was a definite no. I’m an Azure fan girl and had never even thought about .NET on AWS. When he started rattling off some of what’s available, APIs, tooling and a dedicated team, I was surprised.
-
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Blazor GameDev – part 9: Finite State Machine]]></title>
-            <link>https://www.dotnetweekly.com/articles/blazor-gamedev-part-9-finite-state-machine</link>
-            <guid>https://www.dotnetweekly.com/articles/blazor-gamedev-part-9-finite-state-machine</guid>
-            <pubDate>Mon, 31 Aug 2020 01:45:50 GMT</pubDate>
-            <content:encoded><![CDATA[Hi everyone! Welcome back to part 8 of our Blazor 2d Gamedev series. Today we’ll keep refactoring our last example, cleaning up the code using a Finite State Machine.
-
-As usual, you can check out the results in your browser before moving on. Use left/right arrows to move the player and the space bar to attack.]]></content:encoded>
+            <title><![CDATA[Testing Azure Functions on Azure DevOps – part 1: setup]]></title>
+            <link>https://www.dotnetweekly.com/articles/testing-azure-functions-on-azure-devops-part-1-setup</link>
+            <guid>https://www.dotnetweekly.com/articles/testing-azure-functions-on-azure-devops-part-1-setup</guid>
+            <pubDate>Mon, 07 Sep 2020 01:23:03 GMT</pubDate>
+            <content:encoded><![CDATA[Hi All! Today we’re going to talk a bit about testing strategies for Azure Functions. We’ll see how setup our test framework and in another article, we’ll see how to create a build pipeline on Azure DevOps.]]></content:encoded>
         </item>
     </channel>
 </rss>

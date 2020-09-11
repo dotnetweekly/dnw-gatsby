@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/free-e-book-blazor-for-aspnet-web-forms-developers</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/settings-sync-for-visual-studio-code</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/unit-testing-in-typescript-code</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/securing-azure-functions-using-an-azure-virtual-network</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/yag-yet-another-gateway-with-yarp</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/the-power-of-extension-methods</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/string-and-string-in-c-whats-the-difference</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/little-known-aspnet-core-features-http-trailers</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/learn-how-to-deploy-net-core-apps-to-azure-with-github-actions</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/app-trimming-in-net-5</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/learn-docker-in-a-month-of-lunches-day-1</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/testing-azure-functions-on-azure-devops-part-1-setup</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/restful-api-versioning-with-aspnet-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/view-your-azure-cache-for-redis-data-in-new-visual-studio-code-extension</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/c-90-improved-pattern-matching</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/fluid</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/deploying-net-core-to-heroku</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/deploying-aspnet-core-applications-to-kubernetes-part-1</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/introducing-the-half-type</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/handling-long-running-operations-with-azure-durable-entities</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/facebook-and-linkedin-groups-for-net-developers</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/working-with-mongodb-in-aspnet-core-ultimate-guide</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/testing-azure-functions-on-azure-devops-part-1-setup</loc> </url>
+</urlset>
