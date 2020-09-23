@@ -4,99 +4,69 @@
         <title>dotNET Weekly - Week undefined Year undefined</title>
         <link>https://www.dotnetweekly.com/week/undefined/year/undefined?feed=rss</link>
         <description></description>
-        <lastBuildDate>Sat, 19 Sep 2020 18:46:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Sep 2020 00:15:32 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <category>Articles</category>
         <item>
-            <title><![CDATA[The future of .NET Standard]]></title>
-            <link>https://www.dotnetweekly.com/articles/the-future-of-net-standard</link>
-            <guid>https://www.dotnetweekly.com/articles/the-future-of-net-standard</guid>
-            <pubDate>Fri, 18 Sep 2020 20:51:21 GMT</pubDate>
-            <content:encoded><![CDATA[Since .NET 5 was announced, many of you have asked what this means for .NET Standard and whether it will still be relevant. In this post, I’m going to explain how .NET 5 improves code sharing and replaces .NET Standard. I’ll also cover the cases where you still need .NET Standard.
+            <title><![CDATA[A developer's guide to Ignite 2020]]></title>
+            <link>https://www.dotnetweekly.com/articles/a-developers-guide-to-ignite-2020</link>
+            <guid>https://www.dotnetweekly.com/articles/a-developers-guide-to-ignite-2020</guid>
+            <pubDate>Wed, 23 Sep 2020 00:13:38 GMT</pubDate>
+            <content:encoded><![CDATA[Microsoft Ignite will take place online, kicking off on the morning of September 22nd, at 8:00 AM in the Pacific Time Zone. The event programming will include live segments, digital breakout sessions, and Q&A, available across multiple time zones. Be sure to visit the Ignite home page to view the event agenda and additional details.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[GitHub CLI 1.0 is now available]]></title>
+            <link>https://www.dotnetweekly.com/articles/github-cli-10-is-now-available</link>
+            <guid>https://www.dotnetweekly.com/articles/github-cli-10-is-now-available</guid>
+            <pubDate>Wed, 23 Sep 2020 00:13:03 GMT</pubDate>
+            <content:encoded><![CDATA[GitHub CLI brings GitHub to your terminal. It reduces context switching, helps you focus, and enables you to more easily script and create your own workflows. Earlier this year, we announced the beta of GitHub CLI. Since we released the beta, users have created over 250,000 pull requests, performed over 350,000 merges, and created over 20,000 issues with GitHub CLI. We’ve received so much thoughtful feedback, and today GitHub CLI is out of beta and available to download on Windows, macOS, and Linux.
 
+With GitHub CLI 1.0, you can:
+
+Run your entire GitHub workflow from the terminal, from issues through releases
+Call the GitHub API to script nearly any action, and set a custom alias for any command
+Connect to GitHub Enterprise Server in addition to GitHub.com
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Introducing Cosmos DB Studio]]></title>
-            <link>https://www.dotnetweekly.com/articles/introducing-cosmos-db-studio</link>
-            <guid>https://www.dotnetweekly.com/articles/introducing-cosmos-db-studio</guid>
-            <pubDate>Fri, 18 Sep 2020 18:44:17 GMT</pubDate>
-            <content:encoded><![CDATA[I’ve been using Azure Cosmos DB on a fairly regular basis for the last 2 years or so. It’s a pretty good database, but one thing has always bothered me: the lack of a proper tool to query and modify data in the database. Basically, here are the current options:
+            <title><![CDATA[Approval Tests: Write Tests More Quickly]]></title>
+            <link>https://www.dotnetweekly.com/articles/approval-tests-write-tests-more-quickly</link>
+            <guid>https://www.dotnetweekly.com/articles/approval-tests-write-tests-more-quickly</guid>
+            <pubDate>Wed, 23 Sep 2020 00:11:35 GMT</pubDate>
+            <content:encoded><![CDATA[Sometimes assert code in tests gets big and messy and complicated when the output we’re testing is complex.
 
-The standalone Cosmos DB Explorer website
-The Data Explorer in the Azure Portal
-Cosmos DB support in Azure Storage Explorer]]></content:encoded>
+Approval Tests is a library that can help simplify assert code. The library has other benefits/use cases which I’ll cover in future posts such as using human intelligence to judge if the output is correct; providing a safety net when refactoring legacy code that has no tests; and even testing view rendering.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Using OpenAPI with .NET Core]]></title>
-            <link>https://www.dotnetweekly.com/articles/using-openapi-with-net-core</link>
-            <guid>https://www.dotnetweekly.com/articles/using-openapi-with-net-core</guid>
-            <pubDate>Thu, 17 Sep 2020 19:28:37 GMT</pubDate>
-            <content:encoded><![CDATA[In this article, we’ll look at using OpenAPI with .NET Core. OpenAPI is a specification for describing RESTful APIs. First, I’ll show you how to use OpenAPI to describe the APIs provided by an ASP.NET Core service. Then, we’ll use the API description to generate a strongly-typed client to use the web service with C#.
+            <title><![CDATA[Entity Framework Core with PostgreSQL – base configuration]]></title>
+            <link>https://www.dotnetweekly.com/articles/entity-framework-core-with-postgresql-base-configuration</link>
+            <guid>https://www.dotnetweekly.com/articles/entity-framework-core-with-postgresql-base-configuration</guid>
+            <pubDate>Tue, 22 Sep 2020 16:25:52 GMT</pubDate>
+            <content:encoded><![CDATA[A different way of implementing the persistence layer in .Net Core & Entity Framework Core combination – Npgsql PostgreSQL. ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Creating ASP.NET Core Microservices in AWS using SAM and CloudFormation]]></title>
+            <link>https://www.dotnetweekly.com/articles/creating-aspnet-core-microservices-in-aws-using-sam-and-cloudformation</link>
+            <guid>https://www.dotnetweekly.com/articles/creating-aspnet-core-microservices-in-aws-using-sam-and-cloudformation</guid>
+            <pubDate>Tue, 22 Sep 2020 14:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[In this article, let's talk in-detail about building Microservices in ASP.NET Core with more focus on deploying these services as individual silos interfaced by an API gateway in AWS cloud, as a single stack using Serverless Application Model aka SAM.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Wrapping JavaScript libraries in Blazor WebAssembly/WASM]]></title>
+            <link>https://www.dotnetweekly.com/articles/wrapping-javascript-libraries-in-blazor-webassembly-wasm</link>
+            <guid>https://www.dotnetweekly.com/articles/wrapping-javascript-libraries-in-blazor-webassembly-wasm</guid>
+            <pubDate>Tue, 22 Sep 2020 06:05:32 GMT</pubDate>
+            <content:encoded><![CDATA[In this article, we will show how you can wrap a JavaScript library in Blazor and thereby getting that one feature into Blazor WebAssembly.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Cross-platform diagnostic tools for .NET Core]]></title>
+            <link>https://www.dotnetweekly.com/articles/cross-platform-diagnostic-tools-for-net-core</link>
+            <guid>https://www.dotnetweekly.com/articles/cross-platform-diagnostic-tools-for-net-core</guid>
+            <pubDate>Mon, 21 Sep 2020 08:11:36 GMT</pubDate>
+            <content:encoded><![CDATA[A good reminder. It's been this way for a half decade but I'm still bumping into folks who have never heard this. Moving forward, .NET 5 will be a unification of the .NET Framework you may have heard for years, and the new .NET Core I like talking about, PLUS great goodness, tools and libraries from Mono and Xamarin. It's one cross-platform .NET with a number greater than 4. Because 5 > 4, natch.
 
 ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Better Tagging of EF Core Queries]]></title>
-            <link>https://www.dotnetweekly.com/articles/better-tagging-of-ef-core-queries</link>
-            <guid>https://www.dotnetweekly.com/articles/better-tagging-of-ef-core-queries</guid>
-            <pubDate>Thu, 17 Sep 2020 19:26:37 GMT</pubDate>
-            <content:encoded><![CDATA[One of the quickest ways to earn the ire of a DBA is to shrug your shoulders, and tell them you don't know what code created the query that is slowing down their server. Sure, with a little hunting and knowledge of the code base you can generally spot the offending query, but wouldn't it be nice if the query the DBA is looking at had more information to track it down?
-
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Visual Studio Codespaces is consolidating into GitHub Codespaces]]></title>
-            <link>https://www.dotnetweekly.com/articles/visual-studio-codespaces-is-consolidating-into-github-codespaces</link>
-            <guid>https://www.dotnetweekly.com/articles/visual-studio-codespaces-is-consolidating-into-github-codespaces</guid>
-            <pubDate>Thu, 17 Sep 2020 19:25:38 GMT</pubDate>
-            <content:encoded><![CDATA[At the last Ignite, we announced the public preview of Visual Studio Codespaces and shared our vision for cloud-powered development environments that would enable developers to work from anywhere and on any platform. Since then, we’ve seen incredible validation and excitement about codespaces and the scenarios they enable. We’ve also shipped dozens of enhancements, adjusted to better align with your expectations, and amassed feedback to help inform our roadmap. A key piece of this roadmap was partnering with our friends at GitHub to provide a native experience using the same service that powers Visual Studio Codespaces. Today, we’d like to share some news regarding this partnership: Visual Studio Codespaces will be consolidating into GitHub Codespaces.
-
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Announcing .NET 5.0 RC 1]]></title>
-            <link>https://www.dotnetweekly.com/articles/announcing-net-50-rc-1</link>
-            <guid>https://www.dotnetweekly.com/articles/announcing-net-50-rc-1</guid>
-            <pubDate>Thu, 17 Sep 2020 19:25:16 GMT</pubDate>
-            <content:encoded><![CDATA[Today, we are shipping .NET 5.0 Release Candidate 1 (RC1). It is a near-final release of .NET 5.0, and the first of two RCs before the official release in November. RC1 is a “go live” release; you are supported using it in production. At this point, we’re looking for reports of any remaining critical bugs that should be fixed before the final release. We need your feedback to get .NET 5.0 across the finish line.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Microsoft announces new Project OneFuzz framework, an open source developer tool to find and fix bugs at scale]]></title>
-            <link>https://www.dotnetweekly.com/articles/microsoft-announces-new-project-onefuzz-framework-an-open-source-developer-tool-to-find-and-fix-bug</link>
-            <guid>https://www.dotnetweekly.com/articles/microsoft-announces-new-project-onefuzz-framework-an-open-source-developer-tool-to-find-and-fix-bug</guid>
-            <pubDate>Thu, 17 Sep 2020 19:24:59 GMT</pubDate>
-            <content:encoded><![CDATA[Microsoft is dedicated to working with the community and our customers to continuously improve and tune our platform and products to help defend against the dynamic and sophisticated threat landscape. Earlier this year, we announced that we would replace the existing software testing experience known as Microsoft Security and Risk Detection with an automated, open-source tool as the industry moved toward this model. Today, we’re excited to release this new tool called Project OneFuzz, an extensible fuzz testing framework for Azure. Available through GitHub as an open-source tool, the testing framework used by Microsoft Edge, Windows, and teams across Microsoft is now available to developers around the world.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hashing and Salting Passwords in C#]]></title>
-            <link>https://www.dotnetweekly.com/articles/hashing-and-salting-passwords-in-c</link>
-            <guid>https://www.dotnetweekly.com/articles/hashing-and-salting-passwords-in-c</guid>
-            <pubDate>Thu, 17 Sep 2020 10:27:46 GMT</pubDate>
-            <content:encoded><![CDATA[Are we at the point now where the golden rule of ‘not storing passwords in plain-text’ should be a given? I would hope so, but that doesn’t change the fact that there are many ways to disguise sensitive data being saved to databases, so I thought I’d give a basic example of how it can be done in C#.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Testing Azure Functions on Azure DevOps - part 2: the pipeline]]></title>
-            <link>https://www.dotnetweekly.com/articles/testing-azure-functions-on-azure-devops-part-2-the-pipeline</link>
-            <guid>https://www.dotnetweekly.com/articles/testing-azure-functions-on-azure-devops-part-2-the-pipeline</guid>
-            <pubDate>Thu, 17 Sep 2020 02:24:17 GMT</pubDate>
-            <content:encoded><![CDATA[In this last article of the Series, we’re going to see how we can setup the testing pipeline for our Azure Functions on Azure DevOps.
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[C# 9.0: Target-typed expression]]></title>
-            <link>https://www.dotnetweekly.com/articles/c-90-target-typed-expression</link>
-            <guid>https://www.dotnetweekly.com/articles/c-90-target-typed-expression</guid>
-            <pubDate>Wed, 16 Sep 2020 18:33:33 GMT</pubDate>
-            <content:encoded><![CDATA[In this article, we'll take a look at the new Target-typed capabilities in C# 9.0. Target-typed means that the compiler will now infer the type from the context; thus, you won't have to specify it explicitly. It helps simplify your code and make it more readable.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hot Reload in Server-Side Blazor]]></title>
-            <link>https://www.dotnetweekly.com/articles/hot-reload-in-server-side-blazor</link>
-            <guid>https://www.dotnetweekly.com/articles/hot-reload-in-server-side-blazor</guid>
-            <pubDate>Mon, 14 Sep 2020 13:47:59 GMT</pubDate>
-            <content:encoded><![CDATA[At the time of writing this post, without third-party plug-ins, server-side Blazor doesn't have native support for hot-reload. I was kind of spoiled with this luxury when working with Angular, so I decided to find out if there was a workaround. Guess what...There is!]]></content:encoded>
         </item>
     </channel>
 </rss>
