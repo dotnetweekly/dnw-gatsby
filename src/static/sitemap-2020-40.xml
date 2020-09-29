@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/videos/azure-container-instances-aci-under-the-hood</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/todomvc-full-stack-with-azure-static-webapps-node-and-azure-sql-beginners-node-sql-serverless</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/optimizing-your-website-with-fiddler-and-lighthouse</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/retrieve-my-asp-net-core-webapi-demo-app-fully-migrated-to-asp-net-core-5</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/aspnet-core-5-route-to-code-taking-advantage-of-microsoftaspnetcorehttp-json-extensions</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/razor-page-crud-in-aspnet-core-with-jquery-ajax-ultimate-guide</loc> </url>
+</urlset>

@@ -4,99 +4,74 @@
         <title>dotNET Weekly - Week undefined Year undefined</title>
         <link>https://www.dotnetweekly.com/week/undefined/year/undefined?feed=rss</link>
         <description></description>
-        <lastBuildDate>Thu, 24 Sep 2020 19:22:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Sep 2020 05:44:38 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
+        <category>Videos</category>
         <category>Articles</category>
-        <category>Books</category>
+        <category>Libraries-Tools</category>
         <item>
-            <title><![CDATA[The Fullstack React Framework]]></title>
-            <link>https://www.dotnetweekly.com/articles/the-fullstack-react-framework</link>
-            <guid>https://www.dotnetweekly.com/articles/the-fullstack-react-framework</guid>
-            <pubDate>Thu, 24 Sep 2020 19:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[“Zero-API” data layer lets you import server code directly into your React components instead of having to manually add API endpoints and do client-side fetching and caching.
-
-Includes everything you need for production apps. Everything end-to-end from the database to the frontend.
-
-Blitz brings back the simplicity and conventions of server-rendered frameworks like Ruby on Rails while preserving everything we love about React and client-side rendering!
+            <title><![CDATA[Azure Container Instances (ACI) under the hood]]></title>
+            <link>https://www.dotnetweekly.com/articles/azure-container-instances-aci-under-the-hood</link>
+            <guid>https://www.dotnetweekly.com/articles/azure-container-instances-aci-under-the-hood</guid>
+            <pubDate>Tue, 29 Sep 2020 05:42:39 GMT</pubDate>
+            <content:encoded><![CDATA[Have you ever wondered what's going on under the hood for serverless offerings like Azure Container Instances? MacKenzie Olson shows Scott Hanselman the latest innovations in the infrastructure that powers ACI and a peek at the product roadmap, including a demo of the managed identity experience coming soon.
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Azure Static Web Apps with .NET and Blazor]]></title>
-            <link>https://www.dotnetweekly.com/articles/azure-static-web-apps-with-net-and-blazor</link>
-            <guid>https://www.dotnetweekly.com/articles/azure-static-web-apps-with-net-and-blazor</guid>
-            <pubDate>Thu, 24 Sep 2020 19:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[Azure Static Web Apps is a service that automatically builds and deploys full stack web apps from a GitHub repository. Azure Static Web Apps consist of a static web frontend, and an Azure Functions based backend. When you create a Static Web Apps resource, Azure sets up a GitHub Actions workflow in the app’s source code repository that monitors a branch of your choice. Every time you push commits to the watched branch, the GitHub Action automatically builds and deploys your app and its API.
+            <title><![CDATA[TodoMVC Full Stack with Azure Static WebApps, Node and Azure SQL #beginners #node #sql #serverless]]></title>
+            <link>https://www.dotnetweekly.com/articles/todomvc-full-stack-with-azure-static-webapps-node-and-azure-sql-beginners-node-sql-serverless</link>
+            <guid>https://www.dotnetweekly.com/articles/todomvc-full-stack-with-azure-static-webapps-node-and-azure-sql-beginners-node-sql-serverless</guid>
+            <pubDate>Tue, 29 Sep 2020 05:40:23 GMT</pubDate>
+            <content:encoded><![CDATA[TodoMVC is a very well known (like ~27K GitHub stars known) application among developers as it is a really great way to start to learn a new Model-View-Something framework. It has plenty of samples done with different frameworks, all implementing exactly the same solution. This way is very easy to compare them against each other and see what is the one you prefer. Creating a To-Do App is easy enough, but not too easy, to be the perfect playground to learn a new technology.
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Introducing DotNet.SystemCollections.Analyzers]]></title>
-            <link>https://www.dotnetweekly.com/articles/introducing-dotnetsystemcollectionsanalyzers</link>
-            <guid>https://www.dotnetweekly.com/articles/introducing-dotnetsystemcollectionsanalyzers</guid>
-            <pubDate>Wed, 23 Sep 2020 11:34:21 GMT</pubDate>
-            <content:encoded><![CDATA[It’s a Roslyn analyzers library meant for checking our usage of both data collections coming from System.Collections and LINQ APIs. This tool is here to help developers make more informed performance decisions through a set of micro-optimizations. This project started as an internal hackathon project and we're now releasing it to the public.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[A developer's guide to Ignite 2020]]></title>
-            <link>https://www.dotnetweekly.com/articles/a-developers-guide-to-ignite-2020</link>
-            <guid>https://www.dotnetweekly.com/articles/a-developers-guide-to-ignite-2020</guid>
-            <pubDate>Wed, 23 Sep 2020 00:13:38 GMT</pubDate>
-            <content:encoded><![CDATA[Microsoft Ignite will take place online, kicking off on the morning of September 22nd, at 8:00 AM in the Pacific Time Zone. The event programming will include live segments, digital breakout sessions, and Q&A, available across multiple time zones. Be sure to visit the Ignite home page to view the event agenda and additional details.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[GitHub CLI 1.0 is now available]]></title>
-            <link>https://www.dotnetweekly.com/articles/github-cli-10-is-now-available</link>
-            <guid>https://www.dotnetweekly.com/articles/github-cli-10-is-now-available</guid>
-            <pubDate>Wed, 23 Sep 2020 00:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[GitHub CLI brings GitHub to your terminal. It reduces context switching, helps you focus, and enables you to more easily script and create your own workflows. Earlier this year, we announced the beta of GitHub CLI. Since we released the beta, users have created over 250,000 pull requests, performed over 350,000 merges, and created over 20,000 issues with GitHub CLI. We’ve received so much thoughtful feedback, and today GitHub CLI is out of beta and available to download on Windows, macOS, and Linux.
-
-With GitHub CLI 1.0, you can:
-
-Run your entire GitHub workflow from the terminal, from issues through releases
-Call the GitHub API to script nearly any action, and set a custom alias for any command
-Connect to GitHub Enterprise Server in addition to GitHub.com
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Approval Tests: Write Tests More Quickly]]></title>
-            <link>https://www.dotnetweekly.com/articles/approval-tests-write-tests-more-quickly</link>
-            <guid>https://www.dotnetweekly.com/articles/approval-tests-write-tests-more-quickly</guid>
-            <pubDate>Wed, 23 Sep 2020 00:11:35 GMT</pubDate>
-            <content:encoded><![CDATA[Sometimes assert code in tests gets big and messy and complicated when the output we’re testing is complex.
-
-Approval Tests is a library that can help simplify assert code. The library has other benefits/use cases which I’ll cover in future posts such as using human intelligence to judge if the output is correct; providing a safety net when refactoring legacy code that has no tests; and even testing view rendering.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Entity Framework Core with PostgreSQL – base configuration]]></title>
-            <link>https://www.dotnetweekly.com/articles/entity-framework-core-with-postgresql-base-configuration</link>
-            <guid>https://www.dotnetweekly.com/articles/entity-framework-core-with-postgresql-base-configuration</guid>
-            <pubDate>Tue, 22 Sep 2020 16:25:52 GMT</pubDate>
-            <content:encoded><![CDATA[A different way of implementing the persistence layer in .Net Core & Entity Framework Core combination – Npgsql PostgreSQL. ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Creating ASP.NET Core Microservices in AWS using SAM and CloudFormation]]></title>
-            <link>https://www.dotnetweekly.com/articles/creating-aspnet-core-microservices-in-aws-using-sam-and-cloudformation</link>
-            <guid>https://www.dotnetweekly.com/articles/creating-aspnet-core-microservices-in-aws-using-sam-and-cloudformation</guid>
-            <pubDate>Tue, 22 Sep 2020 14:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[In this article, let's talk in-detail about building Microservices in ASP.NET Core with more focus on deploying these services as individual silos interfaced by an API gateway in AWS cloud, as a single stack using Serverless Application Model aka SAM.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Wrapping JavaScript libraries in Blazor WebAssembly/WASM]]></title>
-            <link>https://www.dotnetweekly.com/articles/wrapping-javascript-libraries-in-blazor-webassembly-wasm</link>
-            <guid>https://www.dotnetweekly.com/articles/wrapping-javascript-libraries-in-blazor-webassembly-wasm</guid>
-            <pubDate>Tue, 22 Sep 2020 06:05:32 GMT</pubDate>
-            <content:encoded><![CDATA[In this article, we will show how you can wrap a JavaScript library in Blazor and thereby getting that one feature into Blazor WebAssembly.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Cross-platform diagnostic tools for .NET Core]]></title>
-            <link>https://www.dotnetweekly.com/articles/cross-platform-diagnostic-tools-for-net-core</link>
-            <guid>https://www.dotnetweekly.com/articles/cross-platform-diagnostic-tools-for-net-core</guid>
-            <pubDate>Mon, 21 Sep 2020 08:11:36 GMT</pubDate>
-            <content:encoded><![CDATA[A good reminder. It's been this way for a half decade but I'm still bumping into folks who have never heard this. Moving forward, .NET 5 will be a unification of the .NET Framework you may have heard for years, and the new .NET Core I like talking about, PLUS great goodness, tools and libraries from Mono and Xamarin. It's one cross-platform .NET with a number greater than 4. Because 5 > 4, natch.
+            <title><![CDATA[Optimizing Your Website with Fiddler and Lighthouse]]></title>
+            <link>https://www.dotnetweekly.com/articles/optimizing-your-website-with-fiddler-and-lighthouse</link>
+            <guid>https://www.dotnetweekly.com/articles/optimizing-your-website-with-fiddler-and-lighthouse</guid>
+            <pubDate>Tue, 29 Sep 2020 05:39:46 GMT</pubDate>
+            <content:encoded><![CDATA[Fiddler Everywhere can be used to inspect and debug web traffic, but also to help you optimize your website performance on conjunction with the Chrome DevTools and Lighthouse.
 
 ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Retrieve my ASP .NET Core WebAPI demo app fully migrated to ASP .NET Core 5 !]]></title>
+            <link>https://www.dotnetweekly.com/articles/retrieve-my-asp-net-core-webapi-demo-app-fully-migrated-to-asp-net-core-5</link>
+            <guid>https://www.dotnetweekly.com/articles/retrieve-my-asp-net-core-webapi-demo-app-fully-migrated-to-asp-net-core-5</guid>
+            <pubDate>Tue, 29 Sep 2020 01:24:36 GMT</pubDate>
+            <content:encoded><![CDATA[Retrieve my ASP .NET Core WebAPI demo app fully migrated to ASP .NET Core 5 !
+Retrieve the following must have features:
+Authentication, validation, caching, error handling, logging, documentation with Swagger, and many more !]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ASP.NET Core 5 Route to Code: Taking advantage of Microsoft.AspNetCore.Http json extensions]]></title>
+            <link>https://www.dotnetweekly.com/articles/aspnet-core-5-route-to-code-taking-advantage-of-microsoftaspnetcorehttp-json-extensions</link>
+            <guid>https://www.dotnetweekly.com/articles/aspnet-core-5-route-to-code-taking-advantage-of-microsoftaspnetcorehttp-json-extensions</guid>
+            <pubDate>Tue, 29 Sep 2020 01:23:21 GMT</pubDate>
+            <content:encoded><![CDATA[A while ago, I have introduced a cool feature of ASP.NET Core: how to build a lightweight API without using a framework. I named it like this: Nano service with ASP.NET Core: which you can find here: https://anthonygiretti.com/2020/06/29/nano-services-with-asp-net-core-or-how -to-build-a-light-api, I still like this feature and Microsoft called it: Route to Code, how could I not have thought about it before?
+In this article I will tell you about an improvement made by ASP.NET Core 5: a simpler writing of Route to Code services thanks to JSON extensions for HttpRequest and HttpResponse based on System.Text.Json brought by ASP. NET Core 3 in 2019.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Razor Page CRUD in ASP.NET Core with jQuery AJAX – Ultimate Guide]]></title>
+            <link>https://www.dotnetweekly.com/articles/razor-page-crud-in-aspnet-core-with-jquery-ajax-ultimate-guide</link>
+            <guid>https://www.dotnetweekly.com/articles/razor-page-crud-in-aspnet-core-with-jquery-ajax-ultimate-guide</guid>
+            <pubDate>Mon, 28 Sep 2020 18:54:53 GMT</pubDate>
+            <content:encoded><![CDATA[Let's Build an ASP. NET Core Razor Page Web Application with CRUD Operations. This is not any simple CRUD Tutorial but coupled with quite a lot of other features too. Here is what you will be learning.
+
+Setting up a Solution following Clean / Onion Architecture
+Entity Framework Core
+Repository Pattern with Unit Of Work
+Razor Pages
+Bootstrap Modal
+JQuery AJAX Calls to render the Razor Partial Views with no Page Reloads whatsoever.
+jQuery Datatables
+Client Side Validation with jQuery Unobstructive Library
+and so much more.
+
+Basically what we will build is a CRUD Application with Rich User Experience and Blazing Fast Operations. Thanks to jQuery!]]></content:encoded>
         </item>
     </channel>
 </rss>
