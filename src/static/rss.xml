@@ -4,10 +4,35 @@
         <title>dotNET Weekly - Week undefined Year undefined</title>
         <link>https://www.dotnetweekly.com/week/undefined/year/undefined?feed=rss</link>
         <description></description>
-        <lastBuildDate>Tue, 06 Oct 2020 06:42:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Oct 2020 06:47:29 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <category>Articles</category>
+        <item>
+            <title><![CDATA[UI/UX for Devs: An Illustrated Mental Model for Empathy]]></title>
+            <link>https://www.dotnetweekly.com/articles/ui-ux-for-devs-an-illustrated-mental-model-for-empathy</link>
+            <guid>https://www.dotnetweekly.com/articles/ui-ux-for-devs-an-illustrated-mental-model-for-empathy</guid>
+            <pubDate>Tue, 06 Oct 2020 06:46:29 GMT</pubDate>
+            <content:encoded><![CDATA[In a previous blog post, I wrote about how mental models help you understand how something works. These models in your mind explain what did happen in the past and provide a reasonable (but not always reliable) prediction for will happen in the future. Interestingly, mental models can do that even though they are simplified, incomplete, and often enough simply wrong.
+
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Use Attributes & Middleware in ASP.NET Core for Logging, Telemetry, and Anything Else]]></title>
+            <link>https://www.dotnetweekly.com/articles/use-attributes-and-middleware-in-aspnet-core-for-logging-telemetry-and-anything-else</link>
+            <guid>https://www.dotnetweekly.com/articles/use-attributes-and-middleware-in-aspnet-core-for-logging-telemetry-and-anything-else</guid>
+            <pubDate>Tue, 06 Oct 2020 06:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[Every once in a while you need to add meta functionality without actually changing the business logic code. This might be reporting telemetry, logging, or adding metrics. While necessary, writing this code along with the business logic feels kind of wrong. There's no separation of concerns, it makes the business logic harder to read, and it's prone to bugs.
+
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Deploy your .NET Blazor app in minutes with Azure Static Web Apps]]></title>
+            <link>https://www.dotnetweekly.com/articles/deploy-your-net-blazor-app-in-minutes-with-azure-static-web-apps</link>
+            <guid>https://www.dotnetweekly.com/articles/deploy-your-net-blazor-app-in-minutes-with-azure-static-web-apps</guid>
+            <pubDate>Tue, 06 Oct 2020 06:44:17 GMT</pubDate>
+            <content:encoded><![CDATA[Azure Static Web Apps is a service that allows you to deploy both JavaScript apps but now also Blazor apps. The service is simple to use as it only requires an Azure subscription and a GitHub repo. That's all the set up you need.]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Moq vs NSubstitute vs FakeItEasy - Which one to choose?]]></title>
             <link>https://www.dotnetweekly.com/articles/moq-vs-nsubstitute-vs-fakeiteasy-which-one-to-choose</link>
