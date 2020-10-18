@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/net-tip-feature-toggling-inside-di-containers</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-key-vault-certificates-with-microsoftidentityweb-and-aspnet-core-applications</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/introducing-c-9-covariant-returns</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/free-c-9-video-course</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/game-development-with-net</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/update-azure-cli-from-the-command-line</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/books/new-free-ebook-unit-testing-in-netthe-complete-guide</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/code-presents-use-the-mvvm-design-pattern-in-mvc-core-part-1</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/build-an-authenticated-jamstack-app-with-nextjs-airtable-tailwind-css-and-auth0</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/state-of-net-net-5-preview</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/net-conf-2020-november-10-12</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/audit-net-net-core-apps-with-auditnet-and-aws-qldb</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/async-code-smells-and-how-to-track-them-down-with-analyzers-part-i</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/c-9-partial-methods-get-more-flexibility</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/repository-pattern-with-caching-and-hangfire-in-aspnet-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/storing-the-aspnet-core-data-protection-key-ring-in-azure-key-vault</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/covariant-returns-in-c-9</loc> </url>
+</urlset>
