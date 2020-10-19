@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/rest-vs-grpc-performance-benchmark-in-net-core-31</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/4-ways-to-handle-test-data-for-your-end-to-end-tests</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/dynamically-invoking-a-generic-method-with-reflection-in-net-c</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-azure-identity-with-azure-sql-graph-and-entity-framework</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/blazor-gamedev-part-11-improved-assets-loading</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/introducing-c-9-attributes-on-local-functions</loc> </url>
 </urlset>

@@ -1,165 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>dotNET Weekly - Week 42 Year 2020</title>
-        <link>https://www.dotnetweekly.com/week/42/year/2020?feed=rss</link>
+        <title>dotNET Weekly - Week undefined Year undefined</title>
+        <link>https://www.dotnetweekly.com/week/undefined/year/undefined?feed=rss</link>
         <description></description>
-        <lastBuildDate>Sun, 18 Oct 2020 19:38:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2020 15:47:49 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <category>Articles</category>
-        <category>Books</category>
-        <category>Events-training</category>
         <item>
-            <title><![CDATA[.NET Tip: Feature toggling inside DI-containers]]></title>
-            <link>https://www.dotnetweekly.com/articles/net-tip-feature-toggling-inside-di-containers</link>
-            <guid>https://www.dotnetweekly.com/articles/net-tip-feature-toggling-inside-di-containers</guid>
-            <pubDate>Fri, 16 Oct 2020 09:50:31 GMT</pubDate>
-            <content:encoded><![CDATA[Wrote a small piece about feature toggling inside a scoped service resolver. ]]></content:encoded>
+            <title><![CDATA[Rest vs gRPC – performance benchmark in .Net Core 3.1]]></title>
+            <link>https://www.dotnetweekly.com/articles/rest-vs-grpc-performance-benchmark-in-net-core-31</link>
+            <guid>https://www.dotnetweekly.com/articles/rest-vs-grpc-performance-benchmark-in-net-core-31</guid>
+            <pubDate>Mon, 19 Oct 2020 20:23:41 GMT</pubDate>
+            <content:encoded><![CDATA[- gRPC CodeFirst approach,
+- The performance benchmark for gRPC vs REST communication in .Net core 3.1,
+- How many does cost to open gRPC channel & why is worth to scope it like HttpClient. ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Using Key Vault certificates with Microsoft.Identity.Web and ASP.NET Core applications]]></title>
-            <link>https://www.dotnetweekly.com/articles/using-key-vault-certificates-with-microsoftidentityweb-and-aspnet-core-applications</link>
-            <guid>https://www.dotnetweekly.com/articles/using-key-vault-certificates-with-microsoftidentityweb-and-aspnet-core-applications</guid>
-            <pubDate>Fri, 16 Oct 2020 01:35:01 GMT</pubDate>
-            <content:encoded><![CDATA[This post shows how Azure Key Vault certificates can be used with Microsoft.Identity.Web in an ASP.NET Core application which requires a downstream “access_as_user” API. The Azure AD App Registrations requires a certificate instead of a client secret.]]></content:encoded>
+            <title><![CDATA[4 Ways to Handle Test Data for Your End-to-End Tests]]></title>
+            <link>https://www.dotnetweekly.com/articles/4-ways-to-handle-test-data-for-your-end-to-end-tests</link>
+            <guid>https://www.dotnetweekly.com/articles/4-ways-to-handle-test-data-for-your-end-to-end-tests</guid>
+            <pubDate>Mon, 19 Oct 2020 15:46:20 GMT</pubDate>
+            <content:encoded><![CDATA[One of the most common problems when running automated end-to-end tests for a web application is how to handle test data. End-to-end tests often create, update, and delete all kinds of information as it goes through your test cases in the application. Inevitably, you'll run into problems because previous test runs leave behind a trail of stale data that may interfere with your current test execution.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Introducing C# 9: Covariant returns]]></title>
-            <link>https://www.dotnetweekly.com/articles/introducing-c-9-covariant-returns</link>
-            <guid>https://www.dotnetweekly.com/articles/introducing-c-9-covariant-returns</guid>
-            <pubDate>Fri, 16 Oct 2020 01:34:15 GMT</pubDate>
-            <content:encoded><![CDATA[In May 20th 2020, Microsoft introduced C# 9, among the features announced, there is one that has not yet been talked about much: covariant returns. Usually in C# when we inherit from a class, it is possible to override a method if it is declared abstract or virtual but it is not possible to change the return type of this method. C# 9 allows this, In addition to overriding a virtual or abstract method, in C# 9 you can now return a covariant type of the initial type declared in the parent class. For example, you can now return a type that is inherited from the parent class. In this article I will show you how it works with a very simple example and compare with earlier versions of C# 9. This post was produced with input from Dave Brock. Dave recently posted some really interesting C # 9 articles which you can find here: https://daveabrock.com/2020/06/29/c-sharp-9-deep-dive-inits
+            <title><![CDATA[Dynamically invoking a generic method with Reflection in .NET C#]]></title>
+            <link>https://www.dotnetweekly.com/articles/dynamically-invoking-a-generic-method-with-reflection-in-net-c</link>
+            <guid>https://www.dotnetweekly.com/articles/dynamically-invoking-a-generic-method-with-reflection-in-net-c</guid>
+            <pubDate>Mon, 19 Oct 2020 15:45:27 GMT</pubDate>
+            <content:encoded><![CDATA[In this video, we learn how about dynamically invoking a generic method with reflection in .NET C#.
+
+When using a generic method, the generic argument (often referred to as `T`) must be provided as a known type at compile time. However, sometimes you may have a scenario where you must call a generic method using a type that it not known until run time. This can be problematic and usually results in using a large number of if/else statements.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Using Azure Identity with Azure SQL, Graph, and Entity Framework]]></title>
+            <link>https://www.dotnetweekly.com/articles/using-azure-identity-with-azure-sql-graph-and-entity-framework</link>
+            <guid>https://www.dotnetweekly.com/articles/using-azure-identity-with-azure-sql-graph-and-entity-framework</guid>
+            <pubDate>Mon, 19 Oct 2020 15:45:02 GMT</pubDate>
+            <content:encoded><![CDATA[My name is Mickaël Derriey and I work at Telstra Purple, the largest IT consultancy in Australia. I’m part of an internal team where my main focus is to support .NET applications we developed in-house, most of which are hosted in Azure and integrate with a variety of workloads like Azure SQL, Blob Storage, or the Microsoft Graph API.
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Free C# 9 Video Course]]></title>
-            <link>https://www.dotnetweekly.com/articles/free-c-9-video-course</link>
-            <guid>https://www.dotnetweekly.com/articles/free-c-9-video-course</guid>
-            <pubDate>Fri, 16 Oct 2020 01:33:28 GMT</pubDate>
-            <content:encoded><![CDATA[Since the early days of C# 9, I’ve been doing writeups on all of the new features including init-only properties, record types, top level programs and more. And ever since those writeups, I’ve had people say “Yeah, I get I can read that, but can you just give me the gist of how to use the feature?”. I thought that a single page writeup would be short enough but I do get that it’s sometimes easier to explain in a 1 minute video. And so that’s what I’ve done!
-
+            <title><![CDATA[Blazor Gamedev – part 11: improved assets loading]]></title>
+            <link>https://www.dotnetweekly.com/articles/blazor-gamedev-part-11-improved-assets-loading</link>
+            <guid>https://www.dotnetweekly.com/articles/blazor-gamedev-part-11-improved-assets-loading</guid>
+            <pubDate>Mon, 19 Oct 2020 02:01:00 GMT</pubDate>
+            <content:encoded><![CDATA[Hi All! Welcome back to part 11 of our Blazor 2d Gamedev series. Today we’re going to refactor and improve the code responsible of loading assets. Our goal is to have a centralized asset loading mechanism and avoid the hassle of having to reference all our assets in a Blazor page or component.
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Game Development with .NET]]></title>
-            <link>https://www.dotnetweekly.com/articles/game-development-with-net</link>
-            <guid>https://www.dotnetweekly.com/articles/game-development-with-net</guid>
-            <pubDate>Fri, 16 Oct 2020 01:33:04 GMT</pubDate>
-            <content:encoded><![CDATA[We’ve launched a new Game Development with .NET section on our site. It’s designed for current .NET developers to explore all the choices available to them when developing games. It’s also designed for new developers trying to learn how to use .NET by making games. We’ve also launched a new game development Learn portal for .NET filled with tutorials, videos, and documentation provided by Microsoft and others in the .NET game development community. Finally, we launched a step-by-step Unity get-started tutorial that will get you started with Unity and writing C# scripts for it in no time. We are excited to show you what .NET has to offer to you when making games. .NET is also part of Microsoft Game Stack, a comprehensive suite of tools and services just for game development.
-
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Update Azure CLI From The Command-line]]></title>
-            <link>https://www.dotnetweekly.com/articles/update-azure-cli-from-the-command-line</link>
-            <guid>https://www.dotnetweekly.com/articles/update-azure-cli-from-the-command-line</guid>
-            <pubDate>Fri, 16 Oct 2020 01:32:45 GMT</pubDate>
-            <content:encoded><![CDATA[The Azure CLI can be updated from the command-line in Windows. The command az upgrade is used for this, and it has a few options which are useful. Like all Azure CLI (az) commands, there is help that can be revealed when running the command with the -h
-
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[New Free eBook: Unit Testing in .NET—The Complete Guide]]></title>
-            <link>https://www.dotnetweekly.com/articles/new-free-ebook-unit-testing-in-netthe-complete-guide</link>
-            <guid>https://www.dotnetweekly.com/articles/new-free-ebook-unit-testing-in-netthe-complete-guide</guid>
-            <pubDate>Fri, 16 Oct 2020 01:29:36 GMT</pubDate>
-            <content:encoded><![CDATA[Unit testing is the number one technique available to the software developer to ensure that a section of an application, known as a unit, meets its design and behaves as intended.
-
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[CODE Presents: Use the MVVM Design Pattern in MVC Core: Part 1]]></title>
-            <link>https://www.dotnetweekly.com/articles/code-presents-use-the-mvvm-design-pattern-in-mvc-core-part-1</link>
-            <guid>https://www.dotnetweekly.com/articles/code-presents-use-the-mvvm-design-pattern-in-mvc-core-part-1</guid>
-            <pubDate>Fri, 16 Oct 2020 01:23:17 GMT</pubDate>
-            <content:encoded><![CDATA[This 3-part article series presents how to use the Model-View-View-Model (MVVM) design pattern in MVC Core applications. The MVVM approach has long been used in WPF applications but hasn't been as prevalent in MVC or MVC Core applications. This article illustrates how using MVVM in MVC makes your applications even more reusable, testable, and maintainable. You're going to be guided step-by-step building an MVC Core application using the Entity Framework (EF) and a view model class to display and search for product data.
-
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Build an Authenticated JAMstack App with Next.js, Airtable, Tailwind CSS, and Auth0]]></title>
-            <link>https://www.dotnetweekly.com/articles/build-an-authenticated-jamstack-app-with-nextjs-airtable-tailwind-css-and-auth0</link>
-            <guid>https://www.dotnetweekly.com/articles/build-an-authenticated-jamstack-app-with-nextjs-airtable-tailwind-css-and-auth0</guid>
-            <pubDate>Fri, 16 Oct 2020 01:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[Next.js makes building Full-stack applications in the JAMstack much easier, but there's still a few pieces to figure out. Where are you going to store data? How are you handling authentication? Well, here's how we are going to put it all together.
-
-Next.js for front-end and API routes w/ Serverless Functions
-Airtable for storing data
-Auth0 for Authentication
-Tailwind CSS for styling]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[State of .NET - .NET 5 Preview]]></title>
-            <link>https://www.dotnetweekly.com/articles/state-of-net-net-5-preview</link>
-            <guid>https://www.dotnetweekly.com/articles/state-of-net-net-5-preview</guid>
-            <pubDate>Fri, 16 Oct 2020 00:34:14 GMT</pubDate>
-            <content:encoded><![CDATA[We've created a series of State of .NET online events each focusing on a specific .NET topic. This installment covers everything we already know about the upcoming .NET 5 release.
-
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[.NET Conf 2020 - November 10-12]]></title>
-            <link>https://www.dotnetweekly.com/articles/net-conf-2020-november-10-12</link>
-            <guid>https://www.dotnetweekly.com/articles/net-conf-2020-november-10-12</guid>
-            <pubDate>Thu, 15 Oct 2020 15:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[.NET Conf is a free, three-day, virtual developer event co-organized by the .NET community and Microsoft. This year .NET 5.0 will launch at .NET Conf 2020! Come celebrate and learn about the new release. We're also celebrating our 10th anniversary and we're working on a few more surprises. You won't want to miss this one.
-
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Audit .NET/.NET Core Apps with Audit.NET and AWS QLDB]]></title>
-            <link>https://www.dotnetweekly.com/articles/audit-net-net-core-apps-with-auditnet-and-aws-qldb</link>
-            <guid>https://www.dotnetweekly.com/articles/audit-net-net-core-apps-with-auditnet-and-aws-qldb</guid>
-            <pubDate>Wed, 14 Oct 2020 05:49:25 GMT</pubDate>
-            <content:encoded><![CDATA[Get an introduction to monitoring .NET and .NET Core applications with the auditing framework Audit.NET and AWS Quantum Ledger Database (QLDB).]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Async code smells and how to track them down with analyzers - Part I]]></title>
-            <link>https://www.dotnetweekly.com/articles/async-code-smells-and-how-to-track-them-down-with-analyzers-part-i</link>
-            <guid>https://www.dotnetweekly.com/articles/async-code-smells-and-how-to-track-them-down-with-analyzers-part-i</guid>
-            <pubDate>Tue, 13 Oct 2020 18:47:26 GMT</pubDate>
-            <content:encoded><![CDATA[Which analyzer packages should I use and which rules should be reported as errors? To help answer this question, I decided to start a blog post series that describes different code smells together with analyzers that can detect them. This episode is about analyzers related to asynchronous programming.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[C# 9: Partial Methods get more flexibility]]></title>
-            <link>https://www.dotnetweekly.com/articles/c-9-partial-methods-get-more-flexibility</link>
-            <guid>https://www.dotnetweekly.com/articles/c-9-partial-methods-get-more-flexibility</guid>
-            <pubDate>Mon, 12 Oct 2020 23:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[C# 9 brings a lot of new flexibility around partial methods, making them a useful tool to extend third-party generated code and unlock new extensibility scenarios. Discover all the new capabilities and how to use them.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Repository Pattern with Caching and Hangfire in ASP.NET Core]]></title>
-            <link>https://www.dotnetweekly.com/articles/repository-pattern-with-caching-and-hangfire-in-aspnet-core</link>
-            <guid>https://www.dotnetweekly.com/articles/repository-pattern-with-caching-and-hangfire-in-aspnet-core</guid>
-            <pubDate>Mon, 12 Oct 2020 18:00:27 GMT</pubDate>
-            <content:encoded><![CDATA[Here is an approach to speed-up your API Responses using the 3 Most Powerful Concepts in Programming, Repository Pattern + Caching + Hangfire Job Processing. 
-Let's build a simple ASP. NET Core CRUD API that efficiently makes use of the above-mentioned techs keeping intact the data involved as well as minimizing the response times.
-Here are the topics covered.
-1. Understanding the Requirement
-2. Adding Entity Framework Core and Context
-3. Add Caching Service
-4. Single Interface with Multiple Implementations
-5. Setting up Hangfire
-6. Adding Repository Interfaces and Implementations
-7. Wiring up with the API Controller
-8. Testing with Postman
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Storing the ASP.NET Core Data Protection Key Ring in Azure Key Vault]]></title>
-            <link>https://www.dotnetweekly.com/articles/storing-the-aspnet-core-data-protection-key-ring-in-azure-key-vault</link>
-            <guid>https://www.dotnetweekly.com/articles/storing-the-aspnet-core-data-protection-key-ring-in-azure-key-vault</guid>
-            <pubDate>Mon, 12 Oct 2020 16:23:57 GMT</pubDate>
-            <content:encoded><![CDATA[In this blogpost you will learn how you can store the ASP.NET Data Protection key ring in Azure Key Vault. ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Covariant returns in C# 9]]></title>
-            <link>https://www.dotnetweekly.com/articles/covariant-returns-in-c-9</link>
-            <guid>https://www.dotnetweekly.com/articles/covariant-returns-in-c-9</guid>
-            <pubDate>Mon, 12 Oct 2020 02:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[In May 20th 2020, Microsoft introduced C# 9, among the features announced, there is one that has not yet been talked about much: covariant returns. Usually in C# when we inherit from a class, it is possible to override a method if it is declared abstract or virtual but it is not possible to change the return type of this method. C# 9 allows this, In addition to overriding a virtual or abstract method, in C# 9 you can now return a covariant type of the initial type declared in the parent class. For example, you can now return a type that is inherited from the parent class. In this article I will show you how it works with a very simple example and compare with earlier versions of C# 9.]]></content:encoded>
+            <title><![CDATA[Introducing C# 9: Attributes on local functions]]></title>
+            <link>https://www.dotnetweekly.com/articles/introducing-c-9-attributes-on-local-functions</link>
+            <guid>https://www.dotnetweekly.com/articles/introducing-c-9-attributes-on-local-functions</guid>
+            <pubDate>Mon, 19 Oct 2020 01:01:24 GMT</pubDate>
+            <content:encoded><![CDATA[Well. It has been a while since I wanted to write this post but I couldn’t find any relevant code example to illustrate it. As you might have guessed C# 9 now allows attributes on local functions (as well as parameter attributes of local functions). To illustrate this I will show you how to use the Conditional attribute to perform conditional local function executions, for example, depending on the environment in which we are running our program. Applying it to local functions can be interesting in this case, however I admit that for the moment it is the only relevant example but it does not matter it is not necessarily the functionality of C# 9 either. more popular now. Finally we will compare with the C# 9 forward to finish our example.]]></content:encoded>
         </item>
     </channel>
 </rss>
