@@ -4,10 +4,46 @@
         <title>dotNET Weekly - Week undefined Year undefined</title>
         <link>https://www.dotnetweekly.com/week/undefined/year/undefined?feed=rss</link>
         <description></description>
-        <lastBuildDate>Thu, 22 Oct 2020 05:21:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Oct 2020 00:35:49 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <category>Articles</category>
+        <item>
+            <title><![CDATA[Master C# 9 Webinar]]></title>
+            <link>https://www.dotnetweekly.com/articles/master-c-9-webinar</link>
+            <guid>https://www.dotnetweekly.com/articles/master-c-9-webinar</guid>
+            <pubDate>Fri, 23 Oct 2020 20:29:17 GMT</pubDate>
+            <content:encoded><![CDATA[Deep dive into all the latest features introduced in C# 9 and .NET 5.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Using encrypted access tokens in Azure with Microsoft.Identity.Web and Azure App registrations]]></title>
+            <link>https://www.dotnetweekly.com/articles/using-encrypted-access-tokens-in-azure-with-microsoftidentityweb-and-azure-app-registrations</link>
+            <guid>https://www.dotnetweekly.com/articles/using-encrypted-access-tokens-in-azure-with-microsoftidentityweb-and-azure-app-registrations</guid>
+            <pubDate>Fri, 23 Oct 2020 01:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[This post shows how to use encrypted access tokens with Azure AD App registrations using Microsoft.Identity.Web. By using encrypted access tokens, only applications with access to the private key can decrypt the tokens. When using encrypted tokens, you can prevent access tokens data being used or read by such tools as https://jwt.ms or https://jwt.io and prevent the payload claims being read.
+
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Load Balancing on Azure - An Overview]]></title>
+            <link>https://www.dotnetweekly.com/articles/load-balancing-on-azure-an-overview</link>
+            <guid>https://www.dotnetweekly.com/articles/load-balancing-on-azure-an-overview</guid>
+            <pubDate>Fri, 23 Oct 2020 00:33:48 GMT</pubDate>
+            <content:encoded><![CDATA[‘Load Balancing’ is here the distribution (e.g. web requests) based on defined criteria (e.g. user location, resource utilization or round robin) to achieve a goal, e.g. avoid overloading or in case of a disaster to increase availability by automatically failing over to a redundant component.
+
+Please also look at the decision tree for when to use what.
+
+We will start with the regional services followed by the global services.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Best practices for defending Azure Virtual Machines]]></title>
+            <link>https://www.dotnetweekly.com/articles/best-practices-for-defending-azure-virtual-machines</link>
+            <guid>https://www.dotnetweekly.com/articles/best-practices-for-defending-azure-virtual-machines</guid>
+            <pubDate>Fri, 23 Oct 2020 00:33:21 GMT</pubDate>
+            <content:encoded><![CDATA[One of the things that our Detection and Response Team (DART) and Customer Service and Support (CSS) security teams see frequently during an investigation of customer incidents are attacks on virtual machines from the internet.
+
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Choose a .NET Game Engine]]></title>
             <link>https://www.dotnetweekly.com/articles/choose-a-net-game-engine</link>
