@@ -4,136 +4,47 @@
         <title>dotNET Weekly - Week undefined Year undefined</title>
         <link>https://www.dotnetweekly.com/week/undefined/year/undefined?feed=rss</link>
         <description></description>
-        <lastBuildDate>Sat, 24 Oct 2020 00:35:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2020 05:34:28 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <category>Articles</category>
         <item>
-            <title><![CDATA[Master C# 9 Webinar]]></title>
-            <link>https://www.dotnetweekly.com/articles/master-c-9-webinar</link>
-            <guid>https://www.dotnetweekly.com/articles/master-c-9-webinar</guid>
-            <pubDate>Fri, 23 Oct 2020 20:29:17 GMT</pubDate>
-            <content:encoded><![CDATA[Deep dive into all the latest features introduced in C# 9 and .NET 5.]]></content:encoded>
+            <title><![CDATA[Microsoft® and the .NET Foundation announce the release of version 1.0 of .NET for Apache® Spark™]]></title>
+            <link>https://www.dotnetweekly.com/articles/microsoft-and-the-net-foundation-announce-the-release-of-version-10-of-net-for-apache-spark</link>
+            <guid>https://www.dotnetweekly.com/articles/microsoft-and-the-net-foundation-announce-the-release-of-version-10-of-net-for-apache-spark</guid>
+            <pubDate>Fri, 30 Oct 2020 05:27:50 GMT</pubDate>
+            <content:encoded><![CDATA[It is our pleasure to announce the release of version 1.0 of .NET for Apache® Spark™, an open source package that brings .NET development to the Apache® Spark™ platform.
+
+The new 1.0 release of .NET for Apache® Spark™ includes the following:
+
+Support for .NET applications targeting .NET Standard 2.0 (.NET Core 3.1 or later recommended).
+Support for Apache® Spark™ 2.4/3.0 DataFrame APIs including the ability to write Spark SQL. For example:
+]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Using encrypted access tokens in Azure with Microsoft.Identity.Web and Azure App registrations]]></title>
-            <link>https://www.dotnetweekly.com/articles/using-encrypted-access-tokens-in-azure-with-microsoftidentityweb-and-azure-app-registrations</link>
-            <guid>https://www.dotnetweekly.com/articles/using-encrypted-access-tokens-in-azure-with-microsoftidentityweb-and-azure-app-registrations</guid>
-            <pubDate>Fri, 23 Oct 2020 01:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[This post shows how to use encrypted access tokens with Azure AD App registrations using Microsoft.Identity.Web. By using encrypted access tokens, only applications with access to the private key can decrypt the tokens. When using encrypted tokens, you can prevent access tokens data being used or read by such tools as https://jwt.ms or https://jwt.io and prevent the payload claims being read.
+            <title><![CDATA[Microsoft.Identity.Web is now generally available!]]></title>
+            <link>https://www.dotnetweekly.com/articles/microsoftidentityweb-is-now-generally-available</link>
+            <guid>https://www.dotnetweekly.com/articles/microsoftidentityweb-is-now-generally-available</guid>
+            <pubDate>Thu, 29 Oct 2020 23:07:27 GMT</pubDate>
+            <content:encoded><![CDATA[We’re excited to announce that Microsoft.Identity.Web is now generally available. Microsoft.Identity.Web brings a renewed, simplified, end-to-end experience for developers to build secured-by-default web apps or web APIs, possibly calling Microsoft Graph or other web APIs.
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Load Balancing on Azure - An Overview]]></title>
-            <link>https://www.dotnetweekly.com/articles/load-balancing-on-azure-an-overview</link>
-            <guid>https://www.dotnetweekly.com/articles/load-balancing-on-azure-an-overview</guid>
-            <pubDate>Fri, 23 Oct 2020 00:33:48 GMT</pubDate>
-            <content:encoded><![CDATA[‘Load Balancing’ is here the distribution (e.g. web requests) based on defined criteria (e.g. user location, resource utilization or round robin) to achieve a goal, e.g. avoid overloading or in case of a disaster to increase availability by automatically failing over to a redundant component.
-
-Please also look at the decision tree for when to use what.
-
-We will start with the regional services followed by the global services.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Best practices for defending Azure Virtual Machines]]></title>
-            <link>https://www.dotnetweekly.com/articles/best-practices-for-defending-azure-virtual-machines</link>
-            <guid>https://www.dotnetweekly.com/articles/best-practices-for-defending-azure-virtual-machines</guid>
-            <pubDate>Fri, 23 Oct 2020 00:33:21 GMT</pubDate>
-            <content:encoded><![CDATA[One of the things that our Detection and Response Team (DART) and Customer Service and Support (CSS) security teams see frequently during an investigation of customer incidents are attacks on virtual machines from the internet.
+            <title><![CDATA[C# 9 The unknown goodies]]></title>
+            <link>https://www.dotnetweekly.com/articles/c-9-the-unknown-goodies</link>
+            <guid>https://www.dotnetweekly.com/articles/c-9-the-unknown-goodies</guid>
+            <pubDate>Wed, 28 Oct 2020 18:10:57 GMT</pubDate>
+            <content:encoded><![CDATA[C# 9 brings many new big features and a few little goodies that are super useful and not enough known. They may not deserve a blog post of their own, but shouldn't be forgotten either. So here they are! Discover all the hidden gems in C# 9 that nobody talks about. Module initializers simplified null check, covariant returns, and native sized integers.
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Choose a .NET Game Engine]]></title>
-            <link>https://www.dotnetweekly.com/articles/choose-a-net-game-engine</link>
-            <guid>https://www.dotnetweekly.com/articles/choose-a-net-game-engine</guid>
-            <pubDate>Thu, 22 Oct 2020 05:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[Developing games is multi-disciplined compared to developing business apps and services. Games need design skills spanning UI, audio, gameplay, and art direction. It also requires engineering skills for graphics, gameplay, audio, cloud services, and develops. Sometimes you need to get low level and play around with hardware registries in assembly to optimize performance for a specific device. Do you need to build all those layers yourself when making a game, or is there a better way? Of course, there is a better way. The .NET ecosystem offers many choices for folks like you who want to make games, but do not want to build everything from scratch. In my previous post, I showcased the diverse .NET game development landscape. In this post I will showcase some of the .NET game engines out there, and will help you choose which game engine is right for you.
-
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Async code smells and how to track them down with analyzers - Part II]]></title>
-            <link>https://www.dotnetweekly.com/articles/async-code-smells-and-how-to-track-them-down-with-analyzers-part-ii</link>
-            <guid>https://www.dotnetweekly.com/articles/async-code-smells-and-how-to-track-them-down-with-analyzers-part-ii</guid>
-            <pubDate>Thu, 22 Oct 2020 05:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[This blog post continues the series which is a guide through the code analyzers available on the market and their possibilities. I’m trying to help you answer the question: “Which analyzer package should I use and how to configure it to avoid problems related to async/await?". In the previous episode, I presented the first seven most common code smells related to asynchronous programming. Today, I present the next seven traps from this area. Lucky you, they can be easily avoided with an appropriate analyzer - for every issue, I provide entries for .editorconfig that configure analyzers that can detect it. Links to NuGet packages, as well as a complete list of analyzers’ rules, can be found in the previous article.
-
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[https://codemag.com/Article/2009071/Prototyping-with-Microsoft-Maquette-A-New-Virtual-Reality-Tool]]></title>
-            <link>https://www.dotnetweekly.com/articles/https-codemagcom-article-2009071-prototyping-with-microsoft-maquette-a-new-virtual-reality-tool</link>
-            <guid>https://www.dotnetweekly.com/articles/https-codemagcom-article-2009071-prototyping-with-microsoft-maquette-a-new-virtual-reality-tool</guid>
-            <pubDate>Thu, 22 Oct 2020 05:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[In this article, we're going to talk about Microsoft Maquette (see https://www.maquette.ms). It's a spatial prototyping tool aimed to help users to mock-up virtual reality (VR) and augmented reality (AR) experiences very fast. This tool is still evolving and is currently in beta.
-
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[How to render a dynamic Component with Blazor]]></title>
-            <link>https://www.dotnetweekly.com/articles/how-to-render-a-dynamic-component-with-blazor</link>
-            <guid>https://www.dotnetweekly.com/articles/how-to-render-a-dynamic-component-with-blazor</guid>
-            <pubDate>Wed, 21 Oct 2020 14:59:29 GMT</pubDate>
-            <content:encoded><![CDATA[Hi All! Today we’re going to see a simple technique to render a dynamic Component with Blazor.
-Suppose you want to create a generic Component to handle lists. ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Introducing C# 9: Static anonymous functions]]></title>
-            <link>https://www.dotnetweekly.com/articles/introducing-c-9-static-anonymous-functions</link>
-            <guid>https://www.dotnetweekly.com/articles/introducing-c-9-static-anonymous-functions</guid>
-            <pubDate>Wed, 21 Oct 2020 01:54:22 GMT</pubDate>
-            <content:encoded><![CDATA[C# 9 brings an important improvement to anonymous functions by allowing the modifier static on them and we now have static anonymous functions ! Why Microsoft brought this feature ? Because allocation matters ! Microsoft explains here that lambda are not cost less (https://devblogs.microsoft.com/premier-developer/dissecting-the-local-functions-in-c-7/) :]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Rest vs gRPC – performance benchmark in .Net Core 3.1]]></title>
-            <link>https://www.dotnetweekly.com/articles/rest-vs-grpc-performance-benchmark-in-net-core-31</link>
-            <guid>https://www.dotnetweekly.com/articles/rest-vs-grpc-performance-benchmark-in-net-core-31</guid>
-            <pubDate>Mon, 19 Oct 2020 20:23:41 GMT</pubDate>
-            <content:encoded><![CDATA[- gRPC CodeFirst approach,
-- The performance benchmark for gRPC vs REST communication in .Net core 3.1,
-- How many does cost to open gRPC channel & why is worth to scope it like HttpClient. ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[4 Ways to Handle Test Data for Your End-to-End Tests]]></title>
-            <link>https://www.dotnetweekly.com/articles/4-ways-to-handle-test-data-for-your-end-to-end-tests</link>
-            <guid>https://www.dotnetweekly.com/articles/4-ways-to-handle-test-data-for-your-end-to-end-tests</guid>
-            <pubDate>Mon, 19 Oct 2020 15:46:20 GMT</pubDate>
-            <content:encoded><![CDATA[One of the most common problems when running automated end-to-end tests for a web application is how to handle test data. End-to-end tests often create, update, and delete all kinds of information as it goes through your test cases in the application. Inevitably, you'll run into problems because previous test runs leave behind a trail of stale data that may interfere with your current test execution.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Dynamically invoking a generic method with Reflection in .NET C#]]></title>
-            <link>https://www.dotnetweekly.com/articles/dynamically-invoking-a-generic-method-with-reflection-in-net-c</link>
-            <guid>https://www.dotnetweekly.com/articles/dynamically-invoking-a-generic-method-with-reflection-in-net-c</guid>
-            <pubDate>Mon, 19 Oct 2020 15:45:27 GMT</pubDate>
-            <content:encoded><![CDATA[In this video, we learn how about dynamically invoking a generic method with reflection in .NET C#.
-
-When using a generic method, the generic argument (often referred to as `T`) must be provided as a known type at compile time. However, sometimes you may have a scenario where you must call a generic method using a type that it not known until run time. This can be problematic and usually results in using a large number of if/else statements.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Using Azure Identity with Azure SQL, Graph, and Entity Framework]]></title>
-            <link>https://www.dotnetweekly.com/articles/using-azure-identity-with-azure-sql-graph-and-entity-framework</link>
-            <guid>https://www.dotnetweekly.com/articles/using-azure-identity-with-azure-sql-graph-and-entity-framework</guid>
-            <pubDate>Mon, 19 Oct 2020 15:45:02 GMT</pubDate>
-            <content:encoded><![CDATA[My name is Mickaël Derriey and I work at Telstra Purple, the largest IT consultancy in Australia. I’m part of an internal team where my main focus is to support .NET applications we developed in-house, most of which are hosted in Azure and integrate with a variety of workloads like Azure SQL, Blob Storage, or the Microsoft Graph API.
-
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Blazor Gamedev – part 11: improved assets loading]]></title>
-            <link>https://www.dotnetweekly.com/articles/blazor-gamedev-part-11-improved-assets-loading</link>
-            <guid>https://www.dotnetweekly.com/articles/blazor-gamedev-part-11-improved-assets-loading</guid>
-            <pubDate>Mon, 19 Oct 2020 02:01:00 GMT</pubDate>
-            <content:encoded><![CDATA[Hi All! Welcome back to part 11 of our Blazor 2d Gamedev series. Today we’re going to refactor and improve the code responsible of loading assets. Our goal is to have a centralized asset loading mechanism and avoid the hassle of having to reference all our assets in a Blazor page or component.
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Introducing C# 9: Attributes on local functions]]></title>
-            <link>https://www.dotnetweekly.com/articles/introducing-c-9-attributes-on-local-functions</link>
-            <guid>https://www.dotnetweekly.com/articles/introducing-c-9-attributes-on-local-functions</guid>
-            <pubDate>Mon, 19 Oct 2020 01:01:24 GMT</pubDate>
-            <content:encoded><![CDATA[Well. It has been a while since I wanted to write this post but I couldn’t find any relevant code example to illustrate it. As you might have guessed C# 9 now allows attributes on local functions (as well as parameter attributes of local functions). To illustrate this I will show you how to use the Conditional attribute to perform conditional local function executions, for example, depending on the environment in which we are running our program. Applying it to local functions can be interesting in this case, however I admit that for the moment it is the only relevant example but it does not matter it is not necessarily the functionality of C# 9 either. more popular now. Finally we will compare with the C# 9 forward to finish our example.]]></content:encoded>
+            <title><![CDATA[How we do bundling and minification in ASP.NET Core]]></title>
+            <link>https://www.dotnetweekly.com/articles/how-we-do-bundling-and-minification-in-aspnet-core</link>
+            <guid>https://www.dotnetweekly.com/articles/how-we-do-bundling-and-minification-in-aspnet-core</guid>
+            <pubDate>Tue, 27 Oct 2020 07:55:50 GMT</pubDate>
+            <content:encoded><![CDATA[Learn about how we have implemented bundling and minification in ASP.NET Core with the help of bundleconfig.json, the BundlerMinifier package, and gulp.]]></content:encoded>
         </item>
     </channel>
 </rss>
