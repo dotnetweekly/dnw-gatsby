@@ -4,10 +4,129 @@
         <title>dotNET Weekly - Week undefined Year undefined</title>
         <link>https://www.dotnetweekly.com/week/undefined/year/undefined?feed=rss</link>
         <description></description>
-        <lastBuildDate>Sun, 01 Nov 2020 06:26:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2020 05:27:33 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <category>Articles</category>
+        <category>Videos</category>
+        <category>Books</category>
+        <item>
+            <title><![CDATA[.NET Core with NGINX on Linux]]></title>
+            <link>https://www.dotnetweekly.com/articles/net-core-with-nginx-on-linux</link>
+            <guid>https://www.dotnetweekly.com/articles/net-core-with-nginx-on-linux</guid>
+            <pubDate>Thu, 05 Nov 2020 05:26:12 GMT</pubDate>
+            <content:encoded><![CDATA[Having .NET Core with NGINX on Linux is easier that you might imagine. In this article I will talk about my experience related to NGINX and what it takes to configure it for the first time. If you come from an IIS/Windows world like me, where you know everything by heart, the declarative approach in NGINX might be a bit odd.
+
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[How Endpoint Routing works in ASP.NET Core 3.x]]></title>
+            <link>https://www.dotnetweekly.com/articles/how-endpoint-routing-works-in-aspnet-core-3x</link>
+            <guid>https://www.dotnetweekly.com/articles/how-endpoint-routing-works-in-aspnet-core-3x</guid>
+            <pubDate>Tue, 03 Nov 2020 05:26:18 GMT</pubDate>
+            <content:encoded><![CDATA[Endpoint routing is a new middleware introduced starting from ASP.NET Core 3.x, which is said to replace the traditional MVC routing which has been the default routing mechanism from the good old times till the recent ASP.NET Core 2.2.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[GitHub Codespaces]]></title>
+            <link>https://www.dotnetweekly.com/articles/github-codespaces</link>
+            <guid>https://www.dotnetweekly.com/articles/github-codespaces</guid>
+            <pubDate>Mon, 02 Nov 2020 23:24:29 GMT</pubDate>
+            <content:encoded><![CDATA[Want to see Microsoft's vision for cloud-powered development environments that enable developers to get up and running quickly and work from anywhere on any platform? Visual Studio PM Vix Ryan shows the ease of power of GitHub Codespaces. 
+
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Identity Server 4 with .NET Core App]]></title>
+            <link>https://www.dotnetweekly.com/articles/identity-server-4-with-net-core-app</link>
+            <guid>https://www.dotnetweekly.com/articles/identity-server-4-with-net-core-app</guid>
+            <pubDate>Mon, 02 Nov 2020 23:24:14 GMT</pubDate>
+            <content:encoded><![CDATA[Identity Server 4 (IdS4) is an OpenID Connect and OAuth 2.0 framework for .NET core application. It’s an authentication service that provides you centralized authentication logic for different types of applications (Web, Mobile, or Services).
+
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Additional HTTP, Sockets, DNS and TLS Telemetry in .NET 5]]></title>
+            <link>https://www.dotnetweekly.com/articles/additional-http-sockets-dns-and-tls-telemetry-in-net-5</link>
+            <guid>https://www.dotnetweekly.com/articles/additional-http-sockets-dns-and-tls-telemetry-in-net-5</guid>
+            <pubDate>Mon, 02 Nov 2020 23:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[.NET has been steadily adding support for improved cross-platform diagnostics tracing for applications. In .NET Core 3.0, we saw the introduction of EventCounters, used for observing metric measurements over time. These counters can be consumed out-of-process as well as in-process and are cross-platform in their design.
+
+I’ve used counters from ASP.NET Core in a few applications, to track the number of HTTP requests handled by a service over time.
+
+As .NET 5 has been progressing, I’ve been watching some of the work in the runtime repository which adds new telemetry counters and events to some of the core components involved in making external HTTP requests. This includes, HttpClient, Sockets, DNS and Security.  ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Unified Blazor UI in the Mobile Blazor Bindings Preview 5]]></title>
+            <link>https://www.dotnetweekly.com/articles/unified-blazor-ui-in-the-mobile-blazor-bindings-preview-5</link>
+            <guid>https://www.dotnetweekly.com/articles/unified-blazor-ui-in-the-mobile-blazor-bindings-preview-5</guid>
+            <pubDate>Mon, 02 Nov 2020 23:23:30 GMT</pubDate>
+            <content:encoded><![CDATA[I’m excited to announce that today we are releasing the Mobile Blazor Bindings Preview 5 update that adds support for sharing UI between web apps and mobile/desktop apps. You can now use a Razor Class Library (RCL) to build your UI and app logic once and use it in a Blazor Web app and in a Mobile Blazor Bindings app. This release also includes many other improvements, such as support for Shell with Blazor @page routing, SkiaSharp for rich graphics, gesture recognizers, and a whole lot more!
+
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Welcome to the History of .NET!]]></title>
+            <link>https://www.dotnetweekly.com/articles/welcome-to-the-history-of-net</link>
+            <guid>https://www.dotnetweekly.com/articles/welcome-to-the-history-of-net</guid>
+            <pubDate>Mon, 02 Nov 2020 17:42:58 GMT</pubDate>
+            <content:encoded><![CDATA[Back in 2017, there was a party celebrating the 15th anniversary of .NET shipping. I had the opportunity to do some short interviews with folks at the party that were part of .NET way back at the beginning. You can see some of those interviews on Channel 9 at Happy Birthday .NET! After the evening was over, it occured to me that we needed to write these stories down before they get lost. That was the beginning of what has evolved into a multi-year effort to collect the tales that led to the creation and evolution of .NET. The book has been coming for awhile now, sign up here to be kept up-to-date on its development and the many stories behind creating it!
+
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[.NET Libraries and the Art of Backward Compatibility – Part 1]]></title>
+            <link>https://www.dotnetweekly.com/articles/net-libraries-and-the-art-of-backward-compatibility-part-1</link>
+            <guid>https://www.dotnetweekly.com/articles/net-libraries-and-the-art-of-backward-compatibility-part-1</guid>
+            <pubDate>Mon, 02 Nov 2020 16:18:41 GMT</pubDate>
+            <content:encoded><![CDATA[This blog post will focus on behavioral incompatibilities in .NET libraries.
+So, you wrote a .NET library, you released it to the public and now you are about to make version 2.0 or 1.1 or even just 1.0.0.0b.
+
+Any change that you are going to make has the risk of introducing one or more of these types of backward incompatibilities:
+
+Behavioral (your library’s behavior is changing)
+Source (your users’ code may fail compiling)
+Binary (your users’ application may break at runtime)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Using C# 9 records as strongly-typed ids]]></title>
+            <link>https://www.dotnetweekly.com/articles/using-c-9-records-as-strongly-typed-ids</link>
+            <guid>https://www.dotnetweekly.com/articles/using-c-9-records-as-strongly-typed-ids</guid>
+            <pubDate>Mon, 02 Nov 2020 16:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[Entities typically have integer, GUID or string ids, because those types are supported directly by databases. However, if all your entities have ids of the same type, it becomes pretty easy to mix them up, and use the id of a Product where the id of an Order was expected. This is actually a pretty common source of bugs.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[LINQ gems: Indexed Select]]></title>
+            <link>https://www.dotnetweekly.com/articles/linq-gems-indexed-select</link>
+            <guid>https://www.dotnetweekly.com/articles/linq-gems-indexed-select</guid>
+            <pubDate>Mon, 02 Nov 2020 16:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[Here's another LINQ gem, which is very useful if you plan to base your projection or filtering logic on the element's index in a sequence.
+
+From the MSDN page for Enumerable.Select():
+
+Projects each element of a sequence into a new form by incorporating the element's index.
+
+What the "incorporating the element's index" part means is that you get an extra parameter inside of the Select method's selector, which gets incremented with each processed element. As is common in C#, the index is zero-based.
+
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Deleting a large number of records from a database without locking it (for ages) #SQL]]></title>
+            <link>https://www.dotnetweekly.com/articles/deleting-a-large-number-of-records-from-a-database-without-locking-it-for-ages-sql</link>
+            <guid>https://www.dotnetweekly.com/articles/deleting-a-large-number-of-records-from-a-database-without-locking-it-for-ages-sql</guid>
+            <pubDate>Mon, 02 Nov 2020 16:17:10 GMT</pubDate>
+            <content:encoded><![CDATA[If you have a large database, with millions of rows, and you need to run an batch operation on it, like deleting lots of old records, then you’ll quickly find that the operation often will lock the table, and prevent users get at their data – as well as bloating the transaction log table.
+
+So, the trick is to break it down into manageable chunks. Let’s say the operation I want to run is this;
+
+delete from log where success=0]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[How to handle gRPC server errors in .Net core]]></title>
+            <link>https://www.dotnetweekly.com/articles/how-to-handle-grpc-server-errors-in-net-core</link>
+            <guid>https://www.dotnetweekly.com/articles/how-to-handle-grpc-server-errors-in-net-core</guid>
+            <pubDate>Mon, 02 Nov 2020 10:11:16 GMT</pubDate>
+            <content:encoded><![CDATA[From this article, You will learn about interceptors & how to use it for handling errors, a correct way of transfer exceptions between client & server, how You can change the status code of gRPC request for better application monitoring.]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Introducing C# 9: Extension GetEnumerator support for foreach loops]]></title>
             <link>https://www.dotnetweekly.com/articles/introducing-c-9-extension-getenumerator-support-for-foreach-loops</link>

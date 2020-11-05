@@ -1,4 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/net-core-with-nginx-on-linux</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/how-endpoint-routing-works-in-aspnet-core-3x</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/github-codespaces</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/identity-server-4-with-net-core-app</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/additional-http-sockets-dns-and-tls-telemetry-in-net-5</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/unified-blazor-ui-in-the-mobile-blazor-bindings-preview-5</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/books/welcome-to-the-history-of-net</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/net-libraries-and-the-art-of-backward-compatibility-part-1</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-c-9-records-as-strongly-typed-ids</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/linq-gems-indexed-select</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/deleting-a-large-number-of-records-from-a-database-without-locking-it-for-ages-sql</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/how-to-handle-grpc-server-errors-in-net-core</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/introducing-c-9-extension-getenumerator-support-for-foreach-loops</loc> </url>
 </urlset>
