@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/diving-into-nuget-history-for-fun-and-community-insights</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-net-core-tools-to-create-reusable-and-shareable-tools-and-apps</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/multithreading-handbook-for-simulation-developers</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/a-first-introduction-to-building-3d-applications-with-javascript-or-typescript-using-babylonjs</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/real-time-web-applications-with-signalr-in-aspnet-core-31</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/introducing-qna-maker-managed-now-in-public-preview</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-azure-webjobs-in-net-applications</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/announcing-the-release-of-the-git-experience-in-visual-studio</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/astonishing-performance-of-net-5</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/c-90-on-the-record</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/announcing-net-50</loc> </url>
+</urlset>
