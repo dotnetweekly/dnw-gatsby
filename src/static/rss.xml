@@ -4,107 +4,87 @@
         <title>dotNET Weekly - Week undefined Year undefined</title>
         <link>https://www.dotnetweekly.com/week/undefined/year/undefined?feed=rss</link>
         <description></description>
-        <lastBuildDate>Sun, 15 Nov 2020 18:50:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2020 08:26:52 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <category>Articles</category>
+        <category>Libraries-Tools</category>
         <item>
-            <title><![CDATA[Diving Into NuGet History For Fun and Community Insights]]></title>
-            <link>https://www.dotnetweekly.com/articles/diving-into-nuget-history-for-fun-and-community-insights</link>
-            <guid>https://www.dotnetweekly.com/articles/diving-into-nuget-history-for-fun-and-community-insights</guid>
-            <pubDate>Mon, 16 Nov 2020 18:48:08 GMT</pubDate>
-            <content:encoded><![CDATA[In the dark ages of .NET, developers had to crawl the internet for dependencies, run installers, create bloated lib folders, and possibly introduce assemblies into the Global Assembly Cache. Gross! Those who remember will agree it was terrible, but it’s better now!
+            <title><![CDATA[Improving your ASP.NET Core site's e-mailing capabilities]]></title>
+            <link>https://www.dotnetweekly.com/articles/improving-your-aspnet-core-sites-e-mailing-capabilities</link>
+            <guid>https://www.dotnetweekly.com/articles/improving-your-aspnet-core-sites-e-mailing-capabilities</guid>
+            <pubDate>Wed, 25 Nov 2020 07:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[Many websites depend heavily on e-mail: they send account confirmation e-mails, password reset e-mails, order confirmations, back-in-stock notifications and much more. Despite its importance, I often see that sending e-mail is an overlooked area when writing well maintainable and stable code. It's also often overlooked when monitoring sites and lots of code I have seen just assumes the mail server is up and running. But problems will occur; mail servers will go down, passwords do expire or get changed without updating the web site and more.
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Using .NET Core Tools to Create Reusable and Shareable Tools and Apps]]></title>
-            <link>https://www.dotnetweekly.com/articles/using-net-core-tools-to-create-reusable-and-shareable-tools-and-apps</link>
-            <guid>https://www.dotnetweekly.com/articles/using-net-core-tools-to-create-reusable-and-shareable-tools-and-apps</guid>
-            <pubDate>Mon, 16 Nov 2020 18:47:26 GMT</pubDate>
-            <content:encoded><![CDATA[Starting with .NET Core 2.1, Microsoft introduced the .NET Core Tools platform as part of the .NET Core SDK and since then, these tools have become a vital, although underutilized part of the .NET ecosystem. .NET Core Tools are a simple way to create, publish, and consume what are essentially .NET Core applications that can be published and shared using the existing NuGet infrastructure for packaging and distribution. This means it's quick and easy to build tools that you can share either publicly with the world or privately with yourself or your onsite team.
+            <title><![CDATA[What’s new in .NET Productivity]]></title>
+            <link>https://www.dotnetweekly.com/articles/whats-new-in-net-productivity</link>
+            <guid>https://www.dotnetweekly.com/articles/whats-new-in-net-productivity</guid>
+            <pubDate>Wed, 25 Nov 2020 07:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[The .NET Productivity team (a.k.a. Roslyn) wants to help you be more productive! We’ve seen a lot of excitement in the past few months over our latest features which automate and reduce editing tasks to a single click and help save you time. In this post, I’ll cover some of the latest .NET productivity features available in Visual Studio 2019.
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Multithreading Handbook For Simulation Developers]]></title>
-            <link>https://www.dotnetweekly.com/articles/multithreading-handbook-for-simulation-developers</link>
-            <guid>https://www.dotnetweekly.com/articles/multithreading-handbook-for-simulation-developers</guid>
-            <pubDate>Mon, 16 Nov 2020 18:47:07 GMT</pubDate>
-            <content:encoded><![CDATA[Multithreading can be hard to get right. But it’s also vitally important to getting simulations running smoothly on resource constrained mobile devices. In my career at Microsoft I’ve had the opportunity to spend more than 4 years helping partners write high performance apps for HoloLens. I also spent another 4 years helping partners write high performance apps for phones and tablets.
+            <title><![CDATA[Generate Client for ASP.NET Core Web API using OpenAPI]]></title>
+            <link>https://www.dotnetweekly.com/articles/generate-client-for-aspnet-core-web-api-using-openapi</link>
+            <guid>https://www.dotnetweekly.com/articles/generate-client-for-aspnet-core-web-api-using-openapi</guid>
+            <pubDate>Wed, 25 Nov 2020 07:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[Recently I talked about some of the new features in .NET 5.0 and preview versions of Visual Studio 16.8 and 16.9 with respect to ASP.NET Core Web API Projects. The first announcement I mentioned was the built-in support for OpenAPI and Swagger UI via Swashbuckle in the new ASP.NET Core 5 Web API Project Template, and the other announcement was a new feature introduced in Visual Studio 2019 that allows you to publish the web API to Azure API Management Services as part of the flow of publishing the ASP.NET Core Web API. Both of these tutorials mention Swashbuckle to generate the OpenAPI Specification Document. If you're generating an OpenAPI Specification Document for your ASP.NET Core Web API, you can use this same document to generate a client to consume your web API, which is what I will demonstrate in this ASP.NET Core Web API tutorial.
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[A first introduction to building 3D applications with JavaScript or TypeScript using Babylon.js]]></title>
-            <link>https://www.dotnetweekly.com/articles/a-first-introduction-to-building-3d-applications-with-javascript-or-typescript-using-babylonjs</link>
-            <guid>https://www.dotnetweekly.com/articles/a-first-introduction-to-building-3d-applications-with-javascript-or-typescript-using-babylonjs</guid>
-            <pubDate>Mon, 16 Nov 2020 18:45:41 GMT</pubDate>
-            <content:encoded><![CDATA[TLDR; JavaScript is an exceedingly popular language and, in many places, not just the browser. It's also used to develop backend services, work with IoT and much more. This article shows how you can use it in yet another interesting area namely to develop 3d applications using JavaScript or TypeScript.
-
+            <title><![CDATA[Astonishing Performance of .NET 5: More Data]]></title>
+            <link>https://www.dotnetweekly.com/articles/astonishing-performance-of-net-5-more-data</link>
+            <guid>https://www.dotnetweekly.com/articles/astonishing-performance-of-net-5-more-data</guid>
+            <pubDate>Wed, 25 Nov 2020 07:13:29 GMT</pubDate>
+            <content:encoded><![CDATA[The same day .NET 5 was released I shared a single screenshot showing how much faster .NET 5 is relatively to .NET Core 3.1. I promised to share more data later — and here it is.
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Real-time Web Applications with SignalR in ASP.NET Core 3.1]]></title>
-            <link>https://www.dotnetweekly.com/articles/real-time-web-applications-with-signalr-in-aspnet-core-31</link>
-            <guid>https://www.dotnetweekly.com/articles/real-time-web-applications-with-signalr-in-aspnet-core-31</guid>
-            <pubDate>Mon, 16 Nov 2020 18:43:05 GMT</pubDate>
-            <content:encoded><![CDATA[In this article, we will learn about real-time web & how to build real-time web applications using SignalR in ASP.NET Core. As part of this article, we will work on an application that can send real-time messages/alerts to all connected users or private messages to some specific user(s).
-
-]]></content:encoded>
+            <title><![CDATA[Monitoring .NET scheduled tasks - Tools and alternatives]]></title>
+            <link>https://www.dotnetweekly.com/articles/monitoring-net-scheduled-tasks-tools-and-alternatives</link>
+            <guid>https://www.dotnetweekly.com/articles/monitoring-net-scheduled-tasks-tools-and-alternatives</guid>
+            <pubDate>Tue, 24 Nov 2020 06:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[There's a lot of possibilities when it comes to developing scheduled tasks with .NET. This post is an overall guide to monitoring scheduled tasks.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Introducing QnA Maker managed: now in public preview]]></title>
-            <link>https://www.dotnetweekly.com/articles/introducing-qna-maker-managed-now-in-public-preview</link>
-            <guid>https://www.dotnetweekly.com/articles/introducing-qna-maker-managed-now-in-public-preview</guid>
-            <pubDate>Mon, 16 Nov 2020 18:42:26 GMT</pubDate>
-            <content:encoded><![CDATA[QnA Maker is an Azure Cognitive Service that allows you to create a conversational layer over your data- in minutes. Today, we are announcing a new version of QnA Maker which advances several core capabilities like better relevance and precise answering, by introducing state-of-art deep learning technologies.
-
-]]></content:encoded>
+            <title><![CDATA[Efficiently manage your YAML pipelines in Azure DevOps with reusable templates]]></title>
+            <link>https://www.dotnetweekly.com/articles/efficiently-manage-your-yaml-pipelines-in-azure-devops-with-reusable-templates</link>
+            <guid>https://www.dotnetweekly.com/articles/efficiently-manage-your-yaml-pipelines-in-azure-devops-with-reusable-templates</guid>
+            <pubDate>Tue, 24 Nov 2020 02:05:21 GMT</pubDate>
+            <content:encoded><![CDATA[Azure DevOps offers a powerful way to reuse parts of your build pipelines with YAML templates. Discover the recipe that I use in all my projects.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Using Azure WebJobs in .NET Applications]]></title>
-            <link>https://www.dotnetweekly.com/articles/using-azure-webjobs-in-net-applications</link>
-            <guid>https://www.dotnetweekly.com/articles/using-azure-webjobs-in-net-applications</guid>
-            <pubDate>Mon, 16 Nov 2020 18:41:28 GMT</pubDate>
-            <content:encoded><![CDATA[It is a very common requirement for web applications to be able to run background tasks. Scheduling tasks to run at specific times or intervals, triggering jobs to run based on certain events, etc are common scenarios that we encounter while developing applications. In this article, we are going to learn about Azure WebJobs which provides an excellent way of accomplishing this in a cloud environment.
+            <title><![CDATA[Event Sourcing on Azure – part 4: Integration events]]></title>
+            <link>https://www.dotnetweekly.com/articles/event-sourcing-on-azure-part-4-integration-events</link>
+            <guid>https://www.dotnetweekly.com/articles/event-sourcing-on-azure-part-4-integration-events</guid>
+            <pubDate>Mon, 23 Nov 2020 18:06:52 GMT</pubDate>
+            <content:encoded><![CDATA[Hi All! Welcome back for the fourth part of the Event Sourcing on Azure series. Today we’ll see how we can send Integration events every time something changes.
 
-We’ll start by learning what an Azure WebJob is. Then we’ll look at different types of WebJobs. After that, we’ll learn how to use the Azure WebJobs SDK to create a triggered background job that runs when a new message arrives in the Azure Storage Queue. We’ll test it locally by creating a queue and adding a message. Finally, we’ll deploy it to Azure and test it.]]></content:encoded>
+Read the full article here: https://www.davideguida.com/event-sourcing-on-azure-part-4-integration-events/]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Announcing the Release of the Git Experience in Visual Studio]]></title>
-            <link>https://www.dotnetweekly.com/articles/announcing-the-release-of-the-git-experience-in-visual-studio</link>
-            <guid>https://www.dotnetweekly.com/articles/announcing-the-release-of-the-git-experience-in-visual-studio</guid>
-            <pubDate>Mon, 16 Nov 2020 18:40:56 GMT</pubDate>
-            <content:encoded><![CDATA[We’re excited to announce that our new Git tooling is now the default source control experience in Visual Studio 2019, beginning with version 16.8. We’ve been working on this experience over the last year, iterating based on your feedback to build out key features, enhance performance, and fine tune quality. Above all, we’ve focused on improving discoverability for your common workflows and simplifying navigation to reduce context-switching. Regardless of whether you are part of a large team or working on a personal project, whether you are an experienced developer or just starting out, we strongly believe the new Git experience in Visual Studio 2019 will have something for you.
+            <title><![CDATA[ToastNotify - Elegant and Minimal Notifications Toast for your ASP.NET Core ]]></title>
+            <link>https://www.dotnetweekly.com/articles/toastnotify-elegant-and-minimal-notifications-toast-for-your-aspnet-core</link>
+            <guid>https://www.dotnetweekly.com/articles/toastnotify-elegant-and-minimal-notifications-toast-for-your-aspnet-core</guid>
+            <pubDate>Mon, 23 Nov 2020 15:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[ToastNotify - Here is an Elegant and Minimal Notification Toast for your ASP.NET Core Web Applications. Compatible with ASP.NET Core 3.1 and .NET 5 Web Applications.
+Features
+- Can be Invoked via C#
+- Global Settings (Toast Positions and Durations) can be set while registering the service.
+- Dismission Duration can be set for each toast if needed.
+- Easy to Plugin with any Existing Application.
+- Customizable. Clean. Elegant
+- Supports 5 Different Modes: Success, Error, Warning, Information, Custom
+- Custom mode allows you to change the look and feel of the toast including icon and background color.
+- More Features coming soon.
 
-
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Astonishing Performance of .NET 5]]></title>
-            <link>https://www.dotnetweekly.com/articles/astonishing-performance-of-net-5</link>
-            <guid>https://www.dotnetweekly.com/articles/astonishing-performance-of-net-5</guid>
-            <pubDate>Mon, 16 Nov 2020 18:39:21 GMT</pubDate>
-            <content:encoded><![CDATA[I migrated Fusion to .NET 5 today — and honestly, I was absolutely astonished by the performance boost it brings.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[C# 9.0 on the record]]></title>
-            <link>https://www.dotnetweekly.com/articles/c-90-on-the-record</link>
-            <guid>https://www.dotnetweekly.com/articles/c-90-on-the-record</guid>
-            <pubDate>Mon, 16 Nov 2020 18:37:56 GMT</pubDate>
-            <content:encoded><![CDATA[It’s official: C# 9.0 is out! Back in May I blogged about the C# 9.0 plans, and the following is an updated version of that post to match what we actually ended up shipping.
-
-With every new version of C# we strive for greater clarity and simplicity in common coding scenarios, and C# 9.0 is no exception. One particular focus this time is supporting terse and immutable representation of data shapes.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Announcing .NET 5.0]]></title>
-            <link>https://www.dotnetweekly.com/articles/announcing-net-50</link>
-            <guid>https://www.dotnetweekly.com/articles/announcing-net-50</guid>
-            <pubDate>Mon, 16 Nov 2020 18:37:33 GMT</pubDate>
-            <content:encoded><![CDATA[We’re excited to release .NET 5.0 today and for you to start using it. It’s a major release — including C# 9 and F# 5 — with a broad set of new features and compelling improvements. It’s already in active use by teams at Microsoft and other companies, in production and for performance testing. Those teams are showing us great results that demonstrate performance gains and/or opportunities to reduce hosting costs for their web applications. We’ve been running our own website on 5.0 since Preview 1. From what we’ve seen and heard so far, .NET 5.0 delivers significant value without much effort to upgrade. It’s a great choice for your next app, and a straightforward upgrade from earlier .NET Core versions. We hope you enjoy using it, on your desktop, laptop, and cloud instances.
-
-]]></content:encoded>
+For Usage and Implementation Documentation - refer tohttps://github.com/iammukeshm/CoreEssentials/tree/master/CoreEssentials.ToastNotify
+Do not forget to leave a star.]]></content:encoded>
         </item>
     </channel>
 </rss>

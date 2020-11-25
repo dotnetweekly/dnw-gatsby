@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/improving-your-aspnet-core-sites-e-mailing-capabilities</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/whats-new-in-net-productivity</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/generate-client-for-aspnet-core-web-api-using-openapi</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/astonishing-performance-of-net-5-more-data</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/monitoring-net-scheduled-tasks-tools-and-alternatives</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/efficiently-manage-your-yaml-pipelines-in-azure-devops-with-reusable-templates</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/event-sourcing-on-azure-part-4-integration-events</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/toastnotify-elegant-and-minimal-notifications-toast-for-your-aspnet-core</loc> </url>
+</urlset>
