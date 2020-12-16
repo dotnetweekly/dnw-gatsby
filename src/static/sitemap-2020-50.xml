@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/run-ef-core-migrations-in-azure-devops</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/c-9-records-as-strongly-typed-ids-part-3-json-serialization</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/inside-the-quantum-katas-part-1</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/xamarin-community-standup-net-maui-update</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/learning-with-vs-code-on-chromebooks</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/beginners-series-to-blockchain</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/blockchain-a-practical-application</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/how-to-scale-your-services-with-docker-during-development</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/predicting-die-hard-fans-with-mlnet-and-c</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/linux-net-5-vs-code-xaml-preview-hot-reload-running-on-embedded-linux-a-sneak-peek</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/code-smell-primitive-obsession-and-refactoring-recipes</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/securing-an-aspnet-core-api-which-uses-multiple-access-tokens</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/toast-notifications-in-aspnet-core-simple-and-elegant</loc> </url>
+</urlset>
