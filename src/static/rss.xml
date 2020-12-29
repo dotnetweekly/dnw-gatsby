@@ -4,18 +4,96 @@
         <title>dotNET Weekly - Week undefined Year undefined</title>
         <link>https://www.dotnetweekly.com/week/undefined/year/undefined?feed=rss</link>
         <description></description>
-        <lastBuildDate>Sun, 20 Dec 2020 06:21:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Dec 2020 09:08:48 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <category>Articles</category>
         <item>
-            <title><![CDATA[Performance Improvements in .NET 5]]></title>
-            <link>https://www.dotnetweekly.com/articles/performance-improvements-in-net-5</link>
-            <guid>https://www.dotnetweekly.com/articles/performance-improvements-in-net-5</guid>
-            <pubDate>Mon, 21 Dec 2020 06:02:35 GMT</pubDate>
-            <content:encoded><![CDATA[In previous releases of .NET Core, I’ve blogged about the significant performance improvements that found their way into the release. For each post, from .NET Core 2.0 to .NET Core 2.1 to .NET Core 3.0, I found myself having more and more to talk about. Yet interestingly, after each I also found myself wondering whether there’d be enough meaningful improvements next time to warrant another post. Now that .NET 5 is shipping preview releases, I can definitively say the answer is, again, “yes”. .NET 5 has already seen a wealth of performance improvements, and even though it’s not scheduled for final release until later this year and there’s very likely to be a lot more improvements that find their way in by then, I wanted to highlight a bunch of the improvements that are already available now. In this post, I’ll highlight ~250 pull requests that have contributed to myriad of performance improvements across .NET 5.
+            <title><![CDATA[What is JWT and why should you use JWT in WebAPI]]></title>
+            <link>https://www.dotnetweekly.com/articles/what-is-jwt-and-why-should-you-use-jwt-in-webapi</link>
+            <guid>https://www.dotnetweekly.com/articles/what-is-jwt-and-why-should-you-use-jwt-in-webapi</guid>
+            <pubDate>Tue, 29 Dec 2020 09:05:04 GMT</pubDate>
+            <content:encoded><![CDATA[I am sure you must have heard about JWT a lot, but did you try to understand the structure of JWT and know how it works in authentication. In this video I will explain what is JWT and why should you use it in your web application.
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[How to configure Postman API tests in Azure DevOps]]></title>
+            <link>https://www.dotnetweekly.com/articles/how-to-configure-postman-api-tests-in-azure-devops</link>
+            <guid>https://www.dotnetweekly.com/articles/how-to-configure-postman-api-tests-in-azure-devops</guid>
+            <pubDate>Tue, 29 Dec 2020 09:04:25 GMT</pubDate>
+            <content:encoded><![CDATA[This post is configuring Postman API tests in Azure DevOps. Postman makes API development easy. Postman platform offers the tools to simplify each step of the API building process and streamlines collaboration so you can create better APIs faster. In this post I am discussing about configuring Postman API testing in Azure DevOps and GitHub actions.
 
 ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Redis Cluster - Benefits of Sharding and How It Works]]></title>
+            <link>https://www.dotnetweekly.com/articles/redis-cluster-benefits-of-sharding-and-how-it-works</link>
+            <guid>https://www.dotnetweekly.com/articles/redis-cluster-benefits-of-sharding-and-how-it-works</guid>
+            <pubDate>Tue, 29 Dec 2020 09:02:26 GMT</pubDate>
+            <content:encoded><![CDATA[Redis is one of the good friends of a backend engineer, and its versatility and ease of use make it convenient to get started. That said, when it comes to scaling it horizontally for writes, it gets a bit more tricky with different level of trade-offs you need to make. In this post, I want to touch on the basics of Redis Cluster, out of the box solution of Redis to the gnarly write scaling problem.
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[C# In Simple Terms - Iterators]]></title>
+            <link>https://www.dotnetweekly.com/articles/c-in-simple-terms-iterators</link>
+            <guid>https://www.dotnetweekly.com/articles/c-in-simple-terms-iterators</guid>
+            <pubDate>Tue, 29 Dec 2020 09:01:49 GMT</pubDate>
+            <content:encoded><![CDATA[In this post, we'll talk about a feature of C# that allows us developers to iterate over many different kinds of collections and return elements from them one-by-one. Let's learn about iterators!
+
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Simplifying auth with static web apps and react]]></title>
+            <link>https://www.dotnetweekly.com/articles/simplifying-auth-with-static-web-apps-and-react</link>
+            <guid>https://www.dotnetweekly.com/articles/simplifying-auth-with-static-web-apps-and-react</guid>
+            <pubDate>Tue, 29 Dec 2020 08:59:59 GMT</pubDate>
+            <content:encoded><![CDATA[It’s no secret that I’m a fan of Azure Static Web Apps and I’m constantly looking for ways to make it easier for people to get working with it.
+
+Something I hadn’t done much with until recently was work with the Authentication and Authorization aspect of it; I knew it was there, but I wasn’t building anything that required it.
+
+While building a video chat app on Twitch I found myself jumping back and forth to the documentation to make sure that I was creating the login URLs correctly, loading the profiles, etc. and so it’s time to do something about it.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[8 Awesome React Hooks]]></title>
+            <link>https://www.dotnetweekly.com/articles/8-awesome-react-hooks</link>
+            <guid>https://www.dotnetweekly.com/articles/8-awesome-react-hooks</guid>
+            <pubDate>Tue, 29 Dec 2020 08:56:50 GMT</pubDate>
+            <content:encoded><![CDATA[React.js is currently the most popular JavaScript library for front end developers. Invented by Facebook, but available as an open-source project, it’s used by developers and corporations all over the world.
+
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Unit tests in Entity Framework Core 5]]></title>
+            <link>https://www.dotnetweekly.com/articles/unit-tests-in-entity-framework-core-5</link>
+            <guid>https://www.dotnetweekly.com/articles/unit-tests-in-entity-framework-core-5</guid>
+            <pubDate>Tue, 29 Dec 2020 08:55:28 GMT</pubDate>
+            <content:encoded><![CDATA[Tests are an integral part of software development. These are separate programs that allow you to check if a piece of the program written by us does exactly what it should. Unit tests are small pieces of code that test individual program elements and in Entity Framework Core 5 it’s surprisingly easy to write them.
+
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Guidelines to improve your software design skills with .NET (Part I)]]></title>
+            <link>https://www.dotnetweekly.com/articles/guidelines-to-improve-your-software-design-skills-with-net-part-i</link>
+            <guid>https://www.dotnetweekly.com/articles/guidelines-to-improve-your-software-design-skills-with-net-part-i</guid>
+            <pubDate>Tue, 29 Dec 2020 08:55:08 GMT</pubDate>
+            <content:encoded><![CDATA[This year, I decided to participate in the C# advent calendar. You can find other posts for the C# advent calendar here.
+
+I had the chance to partake before in the F# advent calendar and was not aware that there was one for C# users. I feel this blog entry can target multiple languages and paradigms. But today, you will see my code samples only targeting C#. With that in mind, let us dive into the heart of the topic: software design and data structures. ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Configure Free Wildcard SSL Certificate on AWS Application Load Balancer (ALB) Through Terraform]]></title>
+            <link>https://www.dotnetweekly.com/articles/configure-free-wildcard-ssl-certificate-on-aws-application-load-balancer-alb-through-terraform</link>
+            <guid>https://www.dotnetweekly.com/articles/configure-free-wildcard-ssl-certificate-on-aws-application-load-balancer-alb-through-terraform</guid>
+            <pubDate>Tue, 29 Dec 2020 08:54:00 GMT</pubDate>
+            <content:encoded><![CDATA[Last week, I have moved all my personal compute and storage from Azure to AWS, and started managing it through terraform. While doing so, I discovered that you can actually have SSL for your web application without any additional charges when using AWS Application Load Balancer. Setting it up required a few pieces to stich together, and I wanted to share how I configured it through Terraform.
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[How to do Document-level locking on MongoDB and .NET Core - part 1]]></title>
+            <link>https://www.dotnetweekly.com/articles/how-to-do-document-level-locking-on-mongodb-and-net-core-part-1</link>
+            <guid>https://www.dotnetweekly.com/articles/how-to-do-document-level-locking-on-mongodb-and-net-core-part-1</guid>
+            <pubDate>Tue, 29 Dec 2020 01:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[Hi All! Today we’re going to see how MongoDB handles locks and how we can achieve Document-level locking.]]></content:encoded>
         </item>
     </channel>
 </rss>
