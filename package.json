@@ -5,7 +5,7 @@
   "author": "Bill Stavroulakis <bstavroulakis@gmail.com>",
   "dependencies": {
     "@octokit/rest": "^16.35.0",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bulma": "^0.7.5",
     "fs-extra": "^7.0.1",
     "gatsby": "^2.20.25",
