@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/paging-and-sorting-using-asp-net-core-razor-page-web-api-and-entity-framework</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/creating-a-recommendation-engine-using-mlnet-model-builder</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/net-5-networking-improvements</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-azure-key-vault-to-manage-your-secrets</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/implement-azure-database-for-postgresql-hyperscale-and-azure-kubernetes-service</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/https-codemagcom-signup-4da66ecb-88b9-45e9-ae53-329657d71384</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/introduction-to-test-driven-development-tdd-and-aaa-testing-using-xunit</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/start-with-a-monolith-not-microservices</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/understanding-microsofts-docker-images-for-net-apps</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/c-bellmanford-algorithm</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/net-5-networking-improvements</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/an-introduction-to-the-data-protection-system-in-aspnet-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/my-preferred-net-console-stack</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/a-practical-intro-to-covariance-and-contravariance-in-c</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/xamarinforms-infinite-scroll-listview-lazy-loading</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/venflow</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/grpc-and-aspnet-core-5-test-grpc-endpoints-with-grpcurl</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/building-and-testing-on-multiple-net-versions-with-github-actions</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/just-released-ngraphql-a-new-framework-for-building-graphql-apis-on-net</loc> </url>
+</urlset>

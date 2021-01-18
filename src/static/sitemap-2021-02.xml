@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/building-a-chatbot-to-order-a-pizza</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/300-react-interview-questions</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/fixing-memory-leaks-in-web-applications</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/doctest-my-favorite-lightweight-zero-friction-unit-test-framework</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/aspnet-core-opentelemetry-logging</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/faster-sql-bulk-inserts-with-c</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/why-net-standard-is-still-relevant</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/opensleigh-a-saga-management-library-for-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/using-microsoft-365-defender-to-protect-against-solorigate</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/top-microservices-interview-questions-and-answers</loc> </url>
+</urlset>
