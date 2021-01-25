@@ -10,15 +10,14 @@ const URL_API = config.apiDomain
 
 async function getLinks(week, year) {
   return await new Promise((resolve, reject) => {
-    request(`${URL_API}links?category=&week=${week}&year=${year}`, function(
-      error,
-      response,
-      body
-    ) {
-      const linkJson = JSON.parse(body)
-      linkJson.data.links
-      resolve(linkJson.data.links)
-    })
+    request(
+      `${URL_API}links?category=&week=${week}&year=${year}`,
+      function (error, response, body) {
+        const linkJson = JSON.parse(body)
+        linkJson.data.links
+        resolve(linkJson.data.links)
+      }
+    )
   })
 }
 
@@ -30,27 +29,36 @@ async function createPost(week, year, link) {
   }
 
   return new Promise((resolve, reject) => {
-    request(`${URL_API}links/${link['slug']}`, function(error, response, body) {
-      try{
-        const linkJson = JSON.parse(body)
-        const postData = postTmpl
-          .replace('_id: %s', `_id: ${link['_id']}`)
-          .replace('title: "%s"', `title: "${link['title'].replace(/"/g, '')}"`)
-          .replace("url: '%s'", `url: '${link['url']}'`)
-          .replace('category: %s', `category: ${link['category']}`)
-          .replace("slug: '%s'", `slug: '${link['slug']}'`)
-          .replace('user_id: %s', `user_id: ${link['user']['_id']}`)
-          .replace("username: '%s'", `username: '${link['user']['username']}'`)
-          .replace("createdOn: '%s'", `createdOn: '${link['createdOn']}'`)
-          .replace('tags: [%s]', `tags: [${link['tags'].join(',')}]`)
-          .replace('**CONTENT**', `${linkJson.data['content']}`)
-  
-        fs.writeFileSync(postPath, postData)
-        resolve()
-      }catch(ex){
-        reject()
+    request(
+      `${URL_API}links/${link['slug']}`,
+      function (error, response, body) {
+        try {
+          const linkJson = JSON.parse(body)
+          const postData = postTmpl
+            .replace('_id: %s', `_id: "${link['_id']}"`)
+            .replace(
+              'title: "%s"',
+              `title: "${link['title'].replace(/"/g, '')}"`
+            )
+            .replace("url: '%s'", `url: '${link['url']}'`)
+            .replace('category: %s', `category: ${link['category']}`)
+            .replace("slug: '%s'", `slug: '${link['slug']}'`)
+            .replace('user_id: %s', `user_id: ${link['user']['_id']}`)
+            .replace(
+              "username: '%s'",
+              `username: '${link['user']['username']}'`
+            )
+            .replace("createdOn: '%s'", `createdOn: '${link['createdOn']}'`)
+            .replace('tags: [%s]', `tags: [${link['tags'].join(',')}]`)
+            .replace('**CONTENT**', `${linkJson.data['content']}`)
+
+          fs.writeFileSync(postPath, postData)
+          resolve()
+        } catch (ex) {
+          reject()
+        }
       }
-    })
+    )
   })
 }
 
@@ -114,7 +122,7 @@ async function generate() {
   return
 }
 
-exports.generateMarkdown = async function() {
+exports.generateMarkdown = async function () {
   await generate()
 }
 
