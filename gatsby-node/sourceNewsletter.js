@@ -1,7 +1,7 @@
 const weeklyCalendarHelper = require('weekly-calendar-helper')
 const crypto = require('crypto')
 
-exports.sourceNewsletter = async createNode => {
+exports.sourceNewsletter = async (createNode) => {
   let currentWeek = 20
   let currentYear = 2012
 
@@ -48,7 +48,7 @@ exports.sourceNewsletter = async createNode => {
     }
 
     count++
-    if (count > 2500) {
+    if (count > 5500) {
       break
     }
   }

@@ -1,7 +1,7 @@
+import { Link } from '@reach/router'
 import React from 'react'
 import newsletterCalendarHelper from 'weekly-calendar-helper'
 import * as prevNext from '../utils/prev-next'
-import { Link } from '@reach/router'
 
 class Calendar extends React.Component {
   getCalendarHeader() {
@@ -87,9 +87,7 @@ class Calendar extends React.Component {
                         <td key={`day-${indexDay}`}>
                           <span>
                             <Link
-                              to={`/week/${
-                                calendarWeek.week
-                              }/year/${lastDayYear}`}
+                              to={`/week/${calendarWeek.week}/year/${lastDayYear}`}
                             >
                               {weekDay.date ? weekDay.date.getDate() : ''}
                             </Link>

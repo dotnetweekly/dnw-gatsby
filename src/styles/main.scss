@@ -14,7 +14,7 @@
 @import '~bulma/sass/components/tabs.sass';
 @import '~bulma/sass/components/card.sass';
 @import '~bulma/sass/components/message.sass';
-@import "~bulma/sass/form/_all.sass";
+@import '~bulma/sass/form/_all.sass';
 
 html,
 body {
@@ -87,6 +87,10 @@ footer {
 
 .dnw-captcha > div > div {
   float: left;
+}
+
+.is-clearfix {
+  clear: both;
 }
 
 @media (max-width: $desktop) {

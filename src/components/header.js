@@ -1,5 +1,5 @@
-import React from 'react'
 import { Link, navigate } from 'gatsby'
+import React from 'react'
 import * as auth from '../services/auth'
 
 class Header extends React.Component {
@@ -19,7 +19,7 @@ class Header extends React.Component {
               {siteTitle}
             </Link>
             <div className="column tight" />
-            <div>
+            <div style={{ width: '240px' }}>
               <div className="is-pulled-left">
                 {auth.isLoggedIn() && (
                   <Link to="/add" style={menuLink}>
@@ -39,7 +39,7 @@ class Header extends React.Component {
                   </Link>
                   <button
                     className="link-button"
-                    onClick={event => {
+                    onClick={(event) => {
                       event.preventDefault()
                       auth.logout(() => navigate(`/`))
                     }}
