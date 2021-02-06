@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/dynamic-method-invocation-with-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/machine-learning-with-mlnet</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/microsoft-ignite</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/what-is-tailwind-css</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/the-docker-handbook-2021-edition</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/building-real-applications-with-orleans</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/the-principle-of-least-privilege-polp</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/tracing-and-profiling-a-net-core-application-on-azure-kubernetes-service-with-a-sidecar-container</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/net-navigating-the-maze</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/creating-an-api-gateway-cognito-authorizer-with-the-net-cdk</loc> </url>
 <url> <loc>https://www.dotnetweekly.com/articles/business-activity-monitoring-in-serverless360-with-real-time-scenarios</loc> </url>
