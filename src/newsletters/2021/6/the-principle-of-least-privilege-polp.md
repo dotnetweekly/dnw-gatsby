@@ -6,7 +6,7 @@ category: articles
 slug: 'the-principle-of-least-privilege-polp'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'
-createdOn: '2021-02-05T11:56:19.007Z'
+createdOn: '2021-02-04T11:56:19.007Z'
 tags: [sql-server]
 ---
 

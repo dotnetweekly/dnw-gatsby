@@ -6,7 +6,7 @@ category: articles
 slug: 'the-docker-handbook-2021-edition'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'
-createdOn: '2021-02-05T12:02:23.382Z'
+createdOn: '2021-02-04T12:02:23.382Z'
 tags: [docker]
 ---
 

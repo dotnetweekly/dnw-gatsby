@@ -6,7 +6,7 @@ category: articles
 slug: 'dynamic-method-invocation-with-net-core'
 user_id: 5ec1ddf1f2bd8f00367818fd
 username: 'mizrael'
-createdOn: '2021-02-05T20:18:26.484Z'
+createdOn: '2021-02-04T20:18:26.484Z'
 tags: [.net,.net-core,.net-standard,c#]
 ---
 

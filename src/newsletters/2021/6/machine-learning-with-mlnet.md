@@ -6,7 +6,7 @@ category: articles
 slug: 'machine-learning-with-mlnet'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'
-createdOn: '2021-02-05T12:16:49.229Z'
+createdOn: '2021-02-04T12:16:49.229Z'
 tags: [machine-learning]
 ---
 

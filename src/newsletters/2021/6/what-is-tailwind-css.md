@@ -6,7 +6,7 @@ category: videos
 slug: 'what-is-tailwind-css'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'
-createdOn: '2021-02-05T12:04:58.172Z'
+createdOn: '2021-02-04T12:04:58.172Z'
 tags: [tools]
 ---
 

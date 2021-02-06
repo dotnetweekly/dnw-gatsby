@@ -6,7 +6,7 @@ category: articles
 slug: 'tracing-and-profiling-a-net-core-application-on-azure-kubernetes-service-with-a-sidecar-container'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'
-createdOn: '2021-02-05T11:55:12.632Z'
+createdOn: '2021-02-04T11:55:12.632Z'
 tags: [azure]
 ---
 

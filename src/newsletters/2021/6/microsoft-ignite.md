@@ -6,7 +6,7 @@ category: events-training
 slug: 'microsoft-ignite'
 user_id: 5a83ce59d6eb0005c4ecda2c
 username: 'bill-s'
-createdOn: '2021-02-05T12:05:53.063Z'
+createdOn: '2021-02-04T12:05:53.063Z'
 tags: [events]
 ---
 
