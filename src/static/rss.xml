@@ -4,79 +4,56 @@
         <title>dotNET Weekly - Week undefined Year undefined</title>
         <link>https://www.dotnetweekly.com/week/undefined/year/undefined?feed=rss</link>
         <description></description>
-        <lastBuildDate>Thu, 11 Feb 2021 06:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Feb 2021 04:02:33 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
-        <category>Videos</category>
         <category>Articles</category>
         <item>
-            <title><![CDATA[What is Tailwind CSS]]></title>
-            <link>https://www.dotnetweekly.com/articles/what-is-tailwind-css</link>
-            <guid>https://www.dotnetweekly.com/articles/what-is-tailwind-css</guid>
-            <pubDate>Thu, 11 Feb 2021 06:17:40 GMT</pubDate>
-            <content:encoded><![CDATA[Tailwind CSS is self-described as a utility first CSS framework. Rather than focusing on the functionality of the item being styled, Tailwind is centered around how it should be displayed. This makes it easier for the developer to test out new styles and change the layout. We ask Jen Looper about Tailwind, and how this approach can help us out!
+            <title><![CDATA[Open-source HTTP API packages and tools]]></title>
+            <link>https://www.dotnetweekly.com/articles/open-source-http-api-packages-and-tools</link>
+            <guid>https://www.dotnetweekly.com/articles/open-source-http-api-packages-and-tools</guid>
+            <pubDate>Tue, 16 Feb 2021 03:59:09 GMT</pubDate>
+            <content:encoded><![CDATA[We’re continuing our series on building HTTP APIs with .NET 5. In the previous post, we covered Creating Discoverable HTTP APIs with ASP.NET Core 5 Web API. In this post, we’ll go further with a look at using open-source HTTP API packages and tools. Let’s dig in!
+
+Creating Discoverable HTTP APIs with ASP.NET Core 5 Web API
+Open-source HTTP API packages and tools
+Visual Studio Connected Services
+App Building with Azure API Management, Power Apps, and Logic Apps
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Staying safe with .NET containers]]></title>
+            <link>https://www.dotnetweekly.com/articles/staying-safe-with-net-containers</link>
+            <guid>https://www.dotnetweekly.com/articles/staying-safe-with-net-containers</guid>
+            <pubDate>Tue, 16 Feb 2021 03:54:32 GMT</pubDate>
+            <content:encoded><![CDATA[Container-based application deployment and execution has become very common. Nearly all cloud and server app developers we talk to use containers in some way. We mostly hear about public cloud use, but also IoT and have even heard of .NET containers pulled and used over satellite links on cruise ships. In the early days, we would share compelling reasons why people should consider containers. We no longer do that because containers are so widely used now. We are focused on making .NET a great container platform, and adapting as the container ecosystem evolves.
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Kubernetes for ASP.NET Core Developers – Introduction, Architecture, Hands-On]]></title>
-            <link>https://www.dotnetweekly.com/articles/kubernetes-for-aspnet-core-developers-introduction-architecture-hands-on</link>
-            <guid>https://www.dotnetweekly.com/articles/kubernetes-for-aspnet-core-developers-introduction-architecture-hands-on</guid>
-            <pubDate>Thu, 11 Feb 2021 06:17:12 GMT</pubDate>
-            <content:encoded><![CDATA[In a world where most developers and organizations have come to accept the constant churn of new tools, architectures and paradigms, containerized applications are slowly becoming a lingua franca for developing, deploying and operating applications. In no small part, this is thanks to the popularity and adoption of tools like Docker and Kubernetes.
+            <title><![CDATA[Azure App Service, Health checks and zero downtime deployments]]></title>
+            <link>https://www.dotnetweekly.com/articles/azure-app-service-health-checks-and-zero-downtime-deployments</link>
+            <guid>https://www.dotnetweekly.com/articles/azure-app-service-health-checks-and-zero-downtime-deployments</guid>
+            <pubDate>Tue, 16 Feb 2021 03:54:20 GMT</pubDate>
+            <content:encoded><![CDATA[I've been working recently on zero downtime deployments using Azure App Service. They're facilitated by a combination of Health checks and deployment slots. This post will talk about why this is important and how it works.
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Styles of Writing ASP.NET Core Middleware]]></title>
-            <link>https://www.dotnetweekly.com/articles/styles-of-writing-aspnet-core-middleware</link>
-            <guid>https://www.dotnetweekly.com/articles/styles-of-writing-aspnet-core-middleware</guid>
-            <pubDate>Thu, 11 Feb 2021 06:16:44 GMT</pubDate>
-            <content:encoded><![CDATA[In this post, I discuss the differences between convention and factory styles of writing middleware in ASP.NET Core along with the differences in how the instances are created and interact with dependency injection.
+            <title><![CDATA[SQL Formatter]]></title>
+            <link>https://www.dotnetweekly.com/articles/sql-formatter</link>
+            <guid>https://www.dotnetweekly.com/articles/sql-formatter</guid>
+            <pubDate>Tue, 16 Feb 2021 03:52:26 GMT</pubDate>
+            <content:encoded><![CDATA[SQL Formatter is a JavaScript library for pretty-printing SQL queries. It started as a port of a PHP Library, but has since considerably diverged.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[10 Best Machine Learning Laptops]]></title>
+            <link>https://www.dotnetweekly.com/articles/10-best-machine-learning-laptops</link>
+            <guid>https://www.dotnetweekly.com/articles/10-best-machine-learning-laptops</guid>
+            <pubDate>Tue, 16 Feb 2021 03:49:25 GMT</pubDate>
+            <content:encoded><![CDATA[Machine learning is a wide branch of Artificial Intelligence. It gives machines the power to learn and grow all by themselves based on the provided big data. The machine learning frameworks and IDE needs a powerful device to work as many memory-intensive tasks are to be executed on these devices.
 
 ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Microservices Communication using RabbitMQ in Asp.Net Core]]></title>
-            <link>https://www.dotnetweekly.com/articles/microservices-communication-using-rabbitmq-in-aspnet-core</link>
-            <guid>https://www.dotnetweekly.com/articles/microservices-communication-using-rabbitmq-in-aspnet-core</guid>
-            <pubDate>Thu, 11 Feb 2021 06:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[In this tutorial, we are going to cover the communication between microservices using RabbitMQ and MassTransit with Asp.Net Core 5. In the previous tutorial, we have discussed Microservices Architecture with Ocelot API gateway in Asp.Net Core 5. ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[An Introduction to Channels in C#]]></title>
-            <link>https://www.dotnetweekly.com/articles/an-introduction-to-channels-in-c</link>
-            <guid>https://www.dotnetweekly.com/articles/an-introduction-to-channels-in-c</guid>
-            <pubDate>Thu, 11 Feb 2021 06:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[Channels give us a way to communicate between concurrent (async) operations in .NET. Channel<T> was included in .NET Core 3.0 (so it's been available for a bit over a year now). I first encountered channels in Go (golang) several years ago, so I was really interested when I found out that they are available to use in C#.
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Building a URL shortener with Azure Serverless Functions and Tables Storage]]></title>
-            <link>https://www.dotnetweekly.com/articles/building-a-url-shortener-with-azure-serverless-functions-and-tables-storage</link>
-            <guid>https://www.dotnetweekly.com/articles/building-a-url-shortener-with-azure-serverless-functions-and-tables-storage</guid>
-            <pubDate>Thu, 11 Feb 2021 06:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[Hello and welcome to another tutorial. This time we'll learn how to build a URL-shortener with Azure serverless functions and tables storage but first: What is a URL shortener?
-
-In the case you never heard about it, a URL shortener is a web service that allows to redirect users accessing a short URL to a longer one. This service is very useful in many scenarios.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Building a URL shortener with Azure serverless functions and tables storage]]></title>
-            <link>https://www.dotnetweekly.com/articles/building-a-url-shortener-with-azure-serverless-functions-and-tables-storage</link>
-            <guid>https://www.dotnetweekly.com/articles/building-a-url-shortener-with-azure-serverless-functions-and-tables-storage</guid>
-            <pubDate>Tue, 09 Feb 2021 20:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[Hello and welcome to another tutorial. This time we'll learn how to build a URL-shortener with Azure serverless functions and tables storage but first: What is a URL shortener?
-
-In the case you never heard about it, a URL shortener is a web service that allows to redirect users accessing a short URL to a longer one. This service is very useful in many scenarios.
-
-Apart from shortening URLs, you can imagine having several short URLs redirecting to the same target URL and then give each of the short ones to different users, this might be helpful to know which of the users accessed the final URL. It might also be helpful when sharing web content in different social networks, you might use one short URL to share in Instagram, another different in Facebook and so on, all of them targeting the same destination URL helping you to get stats on where your shared content have more audience. These are only a few among the large advantages this services have.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Rate limiting API requests with ASP.NET Core and AspNetCoreRateLimit]]></title>
-            <link>https://www.dotnetweekly.com/articles/rate-limiting-api-requests-with-aspnet-core-and-aspnetcoreratelimit</link>
-            <guid>https://www.dotnetweekly.com/articles/rate-limiting-api-requests-with-aspnet-core-and-aspnetcoreratelimit</guid>
-            <pubDate>Tue, 09 Feb 2021 07:32:19 GMT</pubDate>
-            <content:encoded><![CDATA[In this post, I'll teach you how to handle a large number of requests to an ASP.NET Core application by rate-limiting with the AspNetCoreRateLimit package.]]></content:encoded>
         </item>
     </channel>
 </rss>
