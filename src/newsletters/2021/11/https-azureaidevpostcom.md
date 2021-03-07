@@ -1,7 +1,7 @@
 ---
 _id: "60443887066145002fa651a5"
-title: "https://azureai.devpost.com/"
-url: 'Build AI-powered apps with pre-trained models or create your own machine learning models'
+title: "Build AI-powered apps with pre-trained models or create your own machine learning models"
+url: 'https://azureai.devpost.com/'
 category: events-training
 slug: 'https-azureaidevpostcom'
 user_id: 5a83ce59d6eb0005c4ecda2c
