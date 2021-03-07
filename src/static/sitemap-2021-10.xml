@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/questpdf</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/canceling-http-requests-in-aspnet-core-with-cancellationtoken</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/performance-profiling-net-object-allocation-tracking</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/five-levels-of-performance-tuning-for-an-ef-core-query</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/how-to-build-restful-apis-the-right-way</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/difference-between-net-and-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/game-stack-live-is-returning-in-2021</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/ci-cd-with-net-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/ui-notifications-system-with-blazor-and-signalr-part-2</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/serilog-in-aspnet-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/serilog-in-aspnet-core-complete-and-detailed-guide</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/generate-ical-calendar-with-net-using-icalnet</loc> </url>
+</urlset>
