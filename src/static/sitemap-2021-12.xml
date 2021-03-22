@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/blazor-hero-v101-released-clean-architecture-template-for-blazor-webassembly-50</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/exploring-the-async-await-state-machine-synchronization-context</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/unit-testing-101-write-your-first-unit-test-in-c-with-mstest</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/how-to-deploy-blazor-webassembly-to-cloudflare-pages</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/testing-webapi-with-approvaltestsnet</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/performance-and-polish-with-nuget-59</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/server-side-templating-in-net-core-with-razor</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/how-we-found-and-fixed-a-rare-race-condition-in-our-session-handling</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/priorityqueue-in-net</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/loop-alignment-in-net</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/implement-unit-testing-in-aspnet-core-5-application-getting-started</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/testing-webapi-with-approvaltestsnet</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/testserver-and-aspnet-core-5-fix-systeminvalidoperationexception-solution-root-could-not-be-located</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/avoid-password-reuse-with-pwned-passwords-and-aspnet-core</loc> </url>
+</urlset>
