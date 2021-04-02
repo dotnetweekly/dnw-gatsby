@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/dependency-injection-vaccinate-your-tests-from-messy-code</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/hidden-features-of-c</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/coding-shorts-demystifying-bitwise-operators-in-c</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/build-net-applications-with-c</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/learn-to-build-http-apis-with-net</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/is-a-rest-api-with-cqrs-possible</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/building-our-first-microservice-the-xamarin-show</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/lets-give-some-unit-testing-love-to-the-c-8-and-c-9-features</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/daily-net-tips</loc> </url>
+</urlset>
