@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/videos/build-automation-with-nuke</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/async-and-await-in-c</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/how-blazor-performs-against-other-frameworks</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/web-performance-recipes-with-puppeteer</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/capture-emails-during-development-using-smtp4dev-and-ui-test-with-selenium</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/whats-new-in-dotnet-monitor</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/do-microservices-require-containers-docker-kubernetes</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/net-core-integration-tests-using-a-sql-server-database-in-docker</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/deploying-c-web-applications-with-docker</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/signals-net-5-based-framework-for-developing-enterprise-and-saas-applications</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/how-to-merge-json-documents-in-net-core-and-net-5</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/rendering-dynamic-content-in-blazor-wasm-using-dynamiccomponent</loc> </url>
+</urlset>
