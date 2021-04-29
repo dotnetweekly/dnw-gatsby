@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/videos/authentication-for-serverless-apps-with-easy-auth</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/introducing-graphqlinq-strongly-typed-graphql-queries-with-linq-to-graphql</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/visual-studio-2022</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/get-ready-for-microsoft-build</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/libraries-tools/winbox-a-modern-html5-window-manager</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/introducing-net-multi-platform-app-ui</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/deploying-c-web-applications-with-docker</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/pretty-print-syntax-highlight-net-stack-traces-in-a-browser</loc> </url>
+</urlset>
