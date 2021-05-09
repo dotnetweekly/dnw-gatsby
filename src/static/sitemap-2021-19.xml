@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/create-an-oidc-credential-issuer-with-mattr-and-aspnet-core</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/how-to-implement-azure-ad-authentication-in-aspnet-core-50-web-application</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/linq-behind-the-scenes</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/why-react-hooks</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/how-to-setup-azure-devops-ci-cd-end-to-end-for-python-on-azure-function-under-5-min</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/top-10-free-new-testing-tools-for-visual-studio-2019</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/intro-to-testing-aspnet-apis-with-k6-when-unit-tests-meet-load-testing</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/mantine</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/adding-captcha-on-form-posts-with-aspnet-core</loc> </url>
+</urlset>
