@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.dotnetweekly.com/articles/using-auth0-with-static-web-apps</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/why-is-your-aspnet-server-so-slow-10-performance-problems-and-solutions</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/on-prem-to-the-cloud-rub-some-devops-on-it-episode-3</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/problem-details-for-better-rest-http-api-errors</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/videos/building-our-first-microservice-the-xamarin-show</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/announcing-windows-community-toolkit-v70</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/articles/announcing-net-multi-platform-app-ui-preview-3</loc> </url>
+<url> <loc>https://www.dotnetweekly.com/events-training/cloud-native-learning-resources-for-net-developers</loc> </url>
+</urlset>

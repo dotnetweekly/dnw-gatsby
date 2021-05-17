@@ -1,103 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>dotNET Weekly - Week 19 Year 2021</title>
-        <link>https://www.dotnetweekly.com/week/19/year/2021?feed=rss</link>
+        <title>dotNET Weekly - Week undefined Year undefined</title>
+        <link>https://www.dotnetweekly.com/week/undefined/year/undefined?feed=rss</link>
         <description></description>
-        <lastBuildDate>Sun, 09 May 2021 03:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 May 2021 16:23:40 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <category>Articles</category>
+        <category>Videos</category>
+        <category>Events-training</category>
         <item>
-            <title><![CDATA[Create an OIDC credential Issuer with MATTR and ASP.NET Core]]></title>
-            <link>https://www.dotnetweekly.com/articles/create-an-oidc-credential-issuer-with-mattr-and-aspnet-core</link>
-            <guid>https://www.dotnetweekly.com/articles/create-an-oidc-credential-issuer-with-mattr-and-aspnet-core</guid>
-            <pubDate>Fri, 07 May 2021 03:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[This article shows how to create and issue verifiable credentials using MATTR and an ASP.NET Core. The ASP.NET Core application allows an admin user to create an OIDC credential issuer using the MATTR service. The credentials are displayed in an ASP.NET Core Razor Page web UI as a QR code for the users of the application. The user can use a digital wallet form MATTR to scan the QR code, authenticate against an Auth0 identity provider configured for this flow and use the claims from the id token to add the verified credential to the digital wallet. In a follow up post, a second application will then use the verified credentials to allow access to a second business process.
+            <title><![CDATA[Using Auth0 with Static Web Apps]]></title>
+            <link>https://www.dotnetweekly.com/articles/using-auth0-with-static-web-apps</link>
+            <guid>https://www.dotnetweekly.com/articles/using-auth0-with-static-web-apps</guid>
+            <pubDate>Tue, 18 May 2021 16:04:58 GMT</pubDate>
+            <content:encoded><![CDATA[One of my favorite features of (the now General Available) Azure Static Web Apps (SWA) is that in the Standard Tier you can now provide a custom OpenID Connect (OIDC) provider. This gives you a lot more control over who can and can’t access your app.
+
+In this post, I want to look at how we can use Auth0 and an OIDC provider for Static Web Apps.
+
+For this, you’ll need an Auth0 account, so if you don’t already have one go sign up and maybe have a read of their docs, just so you’re across everything.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Why is your ASP.NET server so slow? 10 performance problems and solutions]]></title>
+            <link>https://www.dotnetweekly.com/articles/why-is-your-aspnet-server-so-slow-10-performance-problems-and-solutions</link>
+            <guid>https://www.dotnetweekly.com/articles/why-is-your-aspnet-server-so-slow-10-performance-problems-and-solutions</guid>
+            <pubDate>Tue, 18 May 2021 15:54:27 GMT</pubDate>
+            <content:encoded><![CDATA[Server performance problems can happen for many different reasons. Memory issues, slow database requests, and too few machines are just some of them. I witnessed my fair share of problems and learned a few tricks along the way. In this article, I’ll tell you about 10 types of issues that can cause performance problems in your server. That’s not to say I categorized all possible problem types, but these might give you some ideas and nudge you in the right direction next time you’re digging into perf matters.
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[How to implement Azure AD Authentication in ASP.NET Core 5.0 Web Application]]></title>
-            <link>https://www.dotnetweekly.com/articles/how-to-implement-azure-ad-authentication-in-aspnet-core-50-web-application</link>
-            <guid>https://www.dotnetweekly.com/articles/how-to-implement-azure-ad-authentication-in-aspnet-core-50-web-application</guid>
-            <pubDate>Fri, 07 May 2021 03:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[In this article, I am going to show you how to implement Azure AD Authentication in ASP.NET Core 5.0 Web application. I will create ASP.NET Core 5.0 project and show you step by step how to use it for authentication and authorization against Azure AD Authentication.
+            <title><![CDATA[On Prem To The Cloud: Rub Some DevOps On It (episode 3)]]></title>
+            <link>https://www.dotnetweekly.com/articles/on-prem-to-the-cloud-rub-some-devops-on-it-episode-3</link>
+            <guid>https://www.dotnetweekly.com/articles/on-prem-to-the-cloud-rub-some-devops-on-it-episode-3</guid>
+            <pubDate>Tue, 18 May 2021 15:53:00 GMT</pubDate>
+            <content:encoded><![CDATA[In this episode, Abel and Damian talk about why DevOps is important for on prem applications. They'll walk through creating a CI/CD pipeline for our VM-based application and database using Azure Pipelines and GitHub Actions.
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Problem Details for Better REST HTTP API Errors]]></title>
+            <link>https://www.dotnetweekly.com/articles/problem-details-for-better-rest-http-api-errors</link>
+            <guid>https://www.dotnetweekly.com/articles/problem-details-for-better-rest-http-api-errors</guid>
+            <pubDate>Tue, 18 May 2021 15:52:13 GMT</pubDate>
+            <content:encoded><![CDATA[How do you tell your API Consumers explicitly if there are errors or problems with their request? Everyone creating HTTP APIs seems to implement error responses differently. Wouldn’t it be great if HTTP API Errors had a standard? Well, there is! It’s called Problem Details (https://tools.ietf.org/html/rfc7807)
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Linq Behind the Scenes]]></title>
-            <link>https://www.dotnetweekly.com/articles/linq-behind-the-scenes</link>
-            <guid>https://www.dotnetweekly.com/articles/linq-behind-the-scenes</guid>
-            <pubDate>Fri, 07 May 2021 03:10:47 GMT</pubDate>
-            <content:encoded><![CDATA[A comparison of the number of iterations in .NET 5 and .NET Framework
-]]></content:encoded>
+            <title><![CDATA[Building Our First Microservice | The Xamarin Show]]></title>
+            <link>https://www.dotnetweekly.com/articles/building-our-first-microservice-the-xamarin-show</link>
+            <guid>https://www.dotnetweekly.com/articles/building-our-first-microservice-the-xamarin-show</guid>
+            <pubDate>Tue, 18 May 2021 15:51:27 GMT</pubDate>
+            <content:encoded><![CDATA[This week, James is joined by Nish Anil who is here to walk us through building our very first Microservice for our mobile apps with .NET, ASP.NET Core, Docker, Kubernetes, and more! He shows how to switch from development to production without changing a line of code with the power of Microservices!]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Why React Hooks?]]></title>
-            <link>https://www.dotnetweekly.com/articles/why-react-hooks</link>
-            <guid>https://www.dotnetweekly.com/articles/why-react-hooks</guid>
-            <pubDate>Fri, 07 May 2021 03:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[The first thing you should do whenever you’re about to learn something new is ask yourself two questions -
-
-Why does this thing exist?
-What problems does this thing solve?]]></content:encoded>
+            <title><![CDATA[Announcing Windows Community Toolkit v7.0]]></title>
+            <link>https://www.dotnetweekly.com/articles/announcing-windows-community-toolkit-v70</link>
+            <guid>https://www.dotnetweekly.com/articles/announcing-windows-community-toolkit-v70</guid>
+            <pubDate>Tue, 18 May 2021 15:50:18 GMT</pubDate>
+            <content:encoded><![CDATA[After many months of invigorating the Windows Community Toolkit with a multitude of improvements and features; we are happy to announce version 7.0 is available today! Made possible again with the support and contributions of our developer community.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[How to Setup Azure DevOps CI/CD end-to-end for Python on Azure Function under 5 min?]]></title>
-            <link>https://www.dotnetweekly.com/articles/how-to-setup-azure-devops-ci-cd-end-to-end-for-python-on-azure-function-under-5-min</link>
-            <guid>https://www.dotnetweekly.com/articles/how-to-setup-azure-devops-ci-cd-end-to-end-for-python-on-azure-function-under-5-min</guid>
-            <pubDate>Fri, 07 May 2021 03:00:29 GMT</pubDate>
-            <content:encoded><![CDATA[This post lets us learn how we can set up an end-to-end Azure DevOps CI/CD Pipeline for Python applications running on Azure Function App. This could be one of the simplest and fastest ways to set up your complete Azure DevOps Project. It will set up CI/CD Pipeline, Provision all Azure Resource, and deploying a simple python code to Azure Function. We will set this up using Azure DevOps Starter Project.
+            <title><![CDATA[Announcing .NET Multi-platform App UI Preview 3]]></title>
+            <link>https://www.dotnetweekly.com/articles/announcing-net-multi-platform-app-ui-preview-3</link>
+            <guid>https://www.dotnetweekly.com/articles/announcing-net-multi-platform-app-ui-preview-3</guid>
+            <pubDate>Tue, 18 May 2021 15:49:47 GMT</pubDate>
+            <content:encoded><![CDATA[With .NET 6 Preview 3 we are shipping the latest progress for mobile and desktop development with .NET Multi-platform App UI. This release adds the Windows platform with WinUI 3, improves the base application and startup builder, adds native lifecycle events, and continues to add more UI controls and layout capabilities. We are also introducing new semantic properties for accessibility. As we explore each of these in a bit more detail, we invite you to dotnet new along with us and share your feedback.
 
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Top 10 Free New Testing Tools for Visual Studio 2019]]></title>
-            <link>https://www.dotnetweekly.com/articles/top-10-free-new-testing-tools-for-visual-studio-2019</link>
-            <guid>https://www.dotnetweekly.com/articles/top-10-free-new-testing-tools-for-visual-studio-2019</guid>
-            <pubDate>Fri, 07 May 2021 02:59:41 GMT</pubDate>
-            <content:encoded><![CDATA[A lot of buzz accompanied Microsoft's sneak peak at the next big milestone release of its flagship IDE, Visual Studio 2022, but developers are still churning out useful tools for VS 2019, which we'll be using for a while. You can find new extensions for customizing and adding all kinds of functionality to your favorite IDE to optimize your coding experience. Here's a look at some of the newest offerings for testing.
+            <title><![CDATA[Cloud-Native learning resources for .NET developers]]></title>
+            <link>https://www.dotnetweekly.com/articles/cloud-native-learning-resources-for-net-developers</link>
+            <guid>https://www.dotnetweekly.com/articles/cloud-native-learning-resources-for-net-developers</guid>
+            <pubDate>Tue, 18 May 2021 15:37:23 GMT</pubDate>
+            <content:encoded><![CDATA[Today, users are demanding responsiveness, the latest and greatest features, and zero downtime from their applications. Businesses are rapidly adopting the cloud’s power to meet user demand, increase scalability and availability of applications. However, to fully embrace the cloud and optimize cost savings, applications need to be designed with the cloud in mind. This means not just changing the way applications are built, but also changing development practices in the organization to adopt this cloud-native architectural style.
 
 ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Intro to Testing ASP.NET APIs with k6 - When Unit Tests Meet Load Testing]]></title>
-            <link>https://www.dotnetweekly.com/articles/intro-to-testing-aspnet-apis-with-k6-when-unit-tests-meet-load-testing</link>
-            <guid>https://www.dotnetweekly.com/articles/intro-to-testing-aspnet-apis-with-k6-when-unit-tests-meet-load-testing</guid>
-            <pubDate>Thu, 06 May 2021 08:51:19 GMT</pubDate>
-            <content:encoded><![CDATA[Load testing is one of the types of performance testing and, in this post, you'll see how to use k6 to perform load testing on a .NET RESTful API.
-
-- Load Testing: The What, Why, and How
-
-- Rolling Up Your Sleeves: Let's Load Test An ASP.NET API
-
-- Testing a GET Endpoint With a Non-Scriptable Tool
-
-- Testing a Get Endpoint with k6
-
-- Testing With a Higher Load
-
-- k6: When Unit Tests Meet Load Testing
-
-Perhaps the greatest differentiator of k6 is that it bridges the gap between unit testing and load testing. Developers can use the same workflow they’ve been using for years: creating tests, adding verifications with pass/fail criteria, adding those to the CI/CD pipeline, and then be notified when the tests do fail.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Mantine]]></title>
-            <link>https://www.dotnetweekly.com/articles/mantine</link>
-            <guid>https://www.dotnetweekly.com/articles/mantine</guid>
-            <pubDate>Thu, 06 May 2021 03:05:03 GMT</pubDate>
-            <content:encoded><![CDATA[Mantine is a MIT licensed open source react components and hooks library with focus on usability, accessibility and developer experience.
-
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Adding CAPTCHA on form posts with ASP.NET Core 🚦]]></title>
-            <link>https://www.dotnetweekly.com/articles/adding-captcha-on-form-posts-with-aspnet-core</link>
-            <guid>https://www.dotnetweekly.com/articles/adding-captcha-on-form-posts-with-aspnet-core</guid>
-            <pubDate>Tue, 04 May 2021 05:41:58 GMT</pubDate>
-            <content:encoded><![CDATA[We all tried to solve CAPTCHASs. In this post, I'll introduce you to CAPTCHAs and show you how to add one in ASP.NET Core using the reCAPTCHA service.]]></content:encoded>
         </item>
     </channel>
 </rss>
